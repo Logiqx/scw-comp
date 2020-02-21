@@ -6,3 +6,4 @@
 | Date | # | Age | Best | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
 | [2020-02-03](../3x3x3/2020-02-03.md) | 16 | under 30 | 28.16 | 30.48 |  | 32.58 | 30.71 | 28.16 | [Link](https://www.facebook.com/TheNewProcess/videos/3093917170665620/) |
+
