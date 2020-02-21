@@ -6,3 +6,4 @@
 
 2020-02-03 - [3x3x3](2020-02-03/3x3x3.md)
 
+Python code can be found at [https://github.com/Logiqx/scw-comp](https://github.com/Logiqx/scw-comp)
