@@ -1,0 +1,40 @@
+https://www.postermaker.com/
+
+
+
+Senior Cubers Worldwide - 5x5x5 Video Competition 2020-02-24
+ 
+Videos in by Mon 24th @ 23:59 PST / Tue 25th @ 07:59 GMT
+ 
+Rules:
+- Entry in one continuous video
+- Cube and timer visible
+- Use the 5 scrambles provided below (* Ao5 / Mo3 / Bo2)
+- Inspection limit of 15 seconds
+
+* Anyone who considers themselves sub-2:30 should do Ao5, sub-4:00 should do Mo3, otherwise Bo2. 
+* Ao5 = average of 5 (discard fastest and slowest solves), Mo3 = mean of 3, Bo2 = best of 2
+
+Process:
+- Post your video directly to the event page
+- Include your age category (e.g. 40+) in the video description
+- Include your times and Ao5 in the video description (2 decimal places)
+- Please write times unambiguously...
+  e.g. 2:19.32 rather than 2:17.32 + 2 and DNF rather than 2:17.32 (DNF)
+- Mention if it is your fastest submission to date for a 🔥 award
+- Update the results spreadsheet if you have edit access
+
+Scrambles:
+1. D2 Uw' Bw' D2 B2 Rw Bw' U B2 D2 Rw2 Uw' L2 Bw Uw' U L' Bw Dw' Uw D2 Bw2 R' L D B' Dw' U2 Fw2 Lw
+   Rw' Uw' Lw D2 Uw2 Bw2 Fw2 L' Lw' F2 Fw Rw R' Dw' D' U' L F' B U' R2 Rw Fw2 R2 U2 F' R D R' Uw 
+2. D R' Fw F2 D' Uw F Bw Lw' Uw' L' U2 Dw B2 Rw' R' Bw2 U Bw Fw2 D' Uw' Fw' U Lw L U B D2 R2
+   Lw Rw L D' R D F U2 Bw' L2 D' F2 Dw Bw2 Dw' R2 Lw Uw U L2 U' F' Rw2 Dw L' Rw B' Rw' Fw L 
+3. R U D' Dw2 L' Lw D' Uw' B L2 Uw2 R Dw' F2 Dw' Rw2 B2 F2 L Fw' Rw' B' R Uw Rw2 Lw Uw2 F2 Rw'
+   Dw' F' R F' L' D F Uw' D' F' Fw' L' Dw Lw U2 R L Lw Uw R' B U Bw2 L U F' Lw' Uw Dw U' L' 
+4. D' B2 F Dw' R' Fw2 D Lw' Bw' Uw Rw2 B' Uw' L B2 Lw2 B Dw2 Uw L2 Uw2 F Rw2 Bw' Dw' Uw R Lw' Fw B'
+   U2 Fw Bw' R Lw' F' Rw Bw Fw2 F Lw2 Fw2 Rw' U2 B L' F Bw' Lw2 Uw' Bw2 Dw2 Uw Fw' Lw R' L' Dw' D2 Rw 
+5. D2 R2 U2 Fw' D R Fw2 B Uw Bw' R' F U' D F' R2 F2 D2 Uw2 R' Dw2 L2 Lw Dw U2 Lw2 F2 Rw B Dw' R2
+   B' Uw F U2 D' R2 D U' R2 Fw2 U' L Bw2 U2 Uw Lw U' Rw' Dw2 L2 U2 L' D' Bw U' Dw2 D' Lw2 Dw2
+
+Results - After your second video submission please request edit access
+https://docs.google.com/spreadsheets/d/12SOo_15kooJ7UIYKI67SQjMsL6S7WuYCMPEt9IkyhXg/edit?usp=sharing
