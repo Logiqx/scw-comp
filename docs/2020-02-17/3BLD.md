@@ -8,8 +8,8 @@
 | 3 | Mark Adams | 40+ |1:46.60 |🥉 |1:46.60 |DNF |DNF |[Link](https://www.facebook.com/events/173728187264773/permalink/176409236996668/) |
 | 4 | Andy Nicholls | 40+ |2:00.58 | |2:00.58 |2:23.48 |2:49.28 |[Link](https://www.facebook.com/events/173728187264773/permalink/174217337215858/) |
 | 5 | Yoann Lecoeur | 40+ |2:16.71 | |2:16.71 |DNF |3:21.50 |[Link](https://www.facebook.com/events/173728187264773/permalink/174101907227401/) |
-| 6 | Go-ho Choi | under 40 |2:22.99 | |DNF |2:35.57 |2:22.99 |No recording - cutoff due to a phone call :-( |
+| 6 | Go-ho Choi | under 40 |2:22.99 | |DNF |2:35.57 |2:22.99 |n/a|
 | 7 | Huy Nguyen | 40+ |2:37.13 | |2:37.13 |DNF |DNF |[Link](https://www.facebook.com/events/173728187264773/permalink/178453600125565/) |
 | 8 | Jeremy Duehring | 40+ |4:06.00 | |DNF |4:06.00 |DNF |[Link](https://www.facebook.com/events/173728187264773/permalink/178131816824410/) |
 | 9 | Stuart Salmon | 40+ |DNF | |DNF |DNF |DNF |[Link](https://www.facebook.com/events/173728187264773/permalink/178385403465718/) |
-| 9 | Grzegorz Pacewicz | 40+ |DNF | |DNF |DNF |DNF |No video... next time. ;) |
+| 9 | Grzegorz Pacewicz | 40+ |DNF | |DNF |DNF |DNF |n/a|
