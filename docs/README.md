@@ -1,9 +1,9 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Historical Archive
 #### Summaries
-Competitions - [3x3x3](3x3x3/README.md), [2x2x2](2x2x2/README.md), [4x4x4](4x4x4/README.md), [3BLD](3BLD/README.md)
-
 Competitors - [3x3x3](3x3x3/persons.md), [2x2x2](2x2x2/persons.md), [4x4x4](4x4x4/persons.md), [3BLD](3BLD/persons.md)
+
+Competitions - [3x3x3](3x3x3/README.md), [2x2x2](2x2x2/README.md), [4x4x4](4x4x4/README.md), [3BLD](3BLD/README.md)
 
 Best Singles - [3x3x3](3x3x3/singles.md), [2x2x2](2x2x2/singles.md), [4x4x4](4x4x4/singles.md), [3BLD](3BLD/singles.md)
 
