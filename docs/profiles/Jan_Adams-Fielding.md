@@ -3,7 +3,7 @@
 
 #### 3x3x3
 
-| Date | # | Age | Best | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| Date | # | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-17](../3x3x3/2020-02-17.md) | 25 | 40+ | 29.32 | 38.80 | 🔥 ⚡ | 47.44 | 52.59 | 29.32 | 33.36 | 35.60 | [Link](https://www.facebook.com/events/616423959107229/permalink/620581805358111/) |
 | [2020-02-10](../3x3x3/2020-02-10.md) | 18 | 40+ | 34.36 | 42.93 | 🔥 ⚡ | 35.76 | 57.95 | 50.57 | 34.36 | 42.46 | [Link](https://www.facebook.com/jan.adamsfielding/videos/10156747496331889/) |
@@ -11,7 +11,7 @@
 
 #### 2x2x2
 
-| Date | # | Age | Best | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| Date | # | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-17](../2x2x2/2020-02-17.md) | 14 | 40+ | 11.31 | 14.06 |  | 13.12 | 20.48 | 16.65 | 11.39 | 11.31 | [Link](https://www.facebook.com/events/176704156956327/permalink/180508603242549/) |
 
