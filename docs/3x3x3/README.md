@@ -19,3 +19,4 @@
 | 4 | [Michael George](../persons/Michael_George.md) | 40+ | 13.28 | 15.05 | 🥇 | 13.28 | 16.63 | 15.24 | [Link](https://www.facebook.com/michael.george.545/videos/10212902094667466/) |
 | 5 | [Grzegorz Pacewicz](../persons/Grzegorz_Pacewicz.md) | 40+ | 13.37 | 15.58 | 🥈 | 13.37 | 16.49 | 16.88 | [Link](https://www.facebook.com/grzegorz.pacewicz/videos/2843577535688602/) |
 | 6 | [Geoff Hartnell](../persons/Geoff_Hartnell.md) | 40+ | 17.33 | 19.62 | 🥉 | 20.60 | 17.33 | 20.95 | [Link](https://www.facebook.com/geoff.hartnell.9/videos/10158249932051694/) |
+
