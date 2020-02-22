@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4x4x4 Summary
 
-
 #### [2020-02-10](2020-02-10.md)
+
 | # | Name | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | -- | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | 2 | [Michael George](../persons/Michael_George.md) | 40+ | 48.02 | 1:00.63 | 🥇 | 48.02 | 59.19 | 1:00.83 | 1:05.87 | 1:01.87 | [Link](https://www.facebook.com/michael.george.545/videos/10212920017115516/) |

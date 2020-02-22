@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 2x2x2 Summary
-
 #### [2020-02-17](2020-02-17.md)
+
 | # | Name | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | -- | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | 3 | [Michael George](../persons/Michael_George.md) | 40+ | 4.59 | 4.93 | 🥇 | 5.07 | 4.59 | 7.67 | 4.98 | 4.74 | [Link](https://www.facebook.com/events/176704156956327/permalink/178424350117641/) |

@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3BLD Summary
-
 #### [2020-02-17](2020-02-17.md)
+
 | # | Name | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | -- | :--: | --: | --: | :--: | --: | --: | --: | :-- |
 | 1 | [Jae Park](../persons/Jae_Park.md) | 40+ | 48.68 | 57.66 | 🏆 🥇 | 1:01.08 | 1:03.21 | 48.68 | [Link](https://www.facebook.com/events/173728187264773/permalink/173945660576359/) |
