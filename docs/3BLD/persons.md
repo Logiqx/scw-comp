@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 3BLD Competitors
+### 3BLD - Competitors
 
 #### Over 40
 

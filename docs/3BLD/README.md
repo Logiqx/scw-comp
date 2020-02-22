@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 3BLD Competitions
+### 3BLD - Competitions
 #### [2020-02-17](2020-02-17.md)
 
 | # | Name | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |

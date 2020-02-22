@@ -1,11 +1,15 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Historical Archive
-#### Event Summaries
+#### Summaries
 Competitions - [3x3x3](3x3x3/README.md), [2x2x2](2x2x2/README.md), [4x4x4](4x4x4/README.md), [3BLD](3BLD/README.md)
 
-Persons - [3x3x3](3x3x3/persons.md), [2x2x2](2x2x2/persons.md), [4x4x4](4x4x4/persons.md), [3BLD](3BLD/persons.md)
+Competitors - [3x3x3](3x3x3/persons.md), [2x2x2](2x2x2/persons.md), [4x4x4](4x4x4/persons.md), [3BLD](3BLD/persons.md)
 
-#### Full Results
+Best Singles - [3x3x3](3x3x3/singles.md), [2x2x2](2x2x2/singles.md), [4x4x4](4x4x4/singles.md), [3BLD](3BLD/singles.md)
+
+Best Averages - [3x3x3](3x3x3/averages.md), [2x2x2](2x2x2/averages.md), [4x4x4](4x4x4/averages.md), [3BLD](3BLD/averages.md)
+
+#### Results
 2020-02-17 - [3x3x3](3x3x3/2020-02-17.md), [2x2x2](2x2x2/2020-02-17.md), [3BLD](3BLD/2020-02-17.md)
 
 2020-02-10 - [3x3x3](3x3x3/2020-02-10.md), [4x4x4](4x4x4/2020-02-10.md)
