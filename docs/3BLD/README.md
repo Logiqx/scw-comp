@@ -1,23 +1,9 @@
-## Senior Cubers Worldwide
-### 3BLD Competitors
+## Senior Cubers Worldwide - Weekly Competition
+### 3BLD Summary
 
-#### Over 40
-
-| Name | Single | Average |
-| -- | --: | --: |
-| [Andy Nicholls](../persons/Andy_Nicholls.md) |2:00.58 |2:24.45 |
-| [Grzegorz Pacewicz](../persons/Grzegorz_Pacewicz.md) |DNF |DNF |
-| [Huy Nguyen](../persons/Huy_Nguyen.md) |2:37.13 |DNF |
-| [Jae Park](../persons/Jae_Park.md) |48.68 |57.66 |
-| [Jeremy Duehring](../persons/Jeremy_Duehring.md) |4:06.00 |DNF |
-| [Mark Adams](../persons/Mark_Adams.md) |1:46.60 |DNF |
-| [Stuart Salmon](../persons/Stuart_Salmon.md) |DNF |DNF |
-| [Thierry Boisivon](../persons/Thierry_Boisivon.md) |1:22.00 |DNF |
-| [Yoann Lecoeur](../persons/Yoann_Lecoeur.md) |2:16.71 |DNF |
-
-#### Under 40
-
-| Name | Single | Average |
-| -- | --: | --: |
-| [Go-ho Choi](../persons/Go-ho_Choi.md) |2:22.99 |DNF |
-
+#### [2020-02-17](2020-02-17.md)
+| # | Name | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
+| :--: | -- | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| 1 | [Jae Park](../persons/Jae_Park.md) | 40+ | 48.68 | 57.66 | 🏆 🥇 | 1:01.08 | 1:03.21 | 48.68 | [Link](https://www.facebook.com/events/173728187264773/permalink/173945660576359/) |
+| 2 | [Thierry Boisivon](../persons/Thierry_Boisivon.md) | 40+ | 1:22.00 | DNF | 🥈 | 1:26.52 | DNF | 1:22.00 | [Link](https://www.facebook.com/events/173728187264773/permalink/178355273468731/) |
+| 3 | [Mark Adams](../persons/Mark_Adams.md) | 40+ | 1:46.60 | DNF | 🥉 | 1:46.60 | DNF | DNF | [Link](https://www.facebook.com/events/173728187264773/permalink/176409236996668/) |

@@ -1,4 +1,4 @@
-## Senior Cubers Worldwide
+## Senior Cubers Worldwide - Weekly Competition
 ### Yoann Lecoeur
 
 #### 3x3x3

@@ -1,4 +1,4 @@
-## Senior Cubers Worldwide
+## Senior Cubers Worldwide - Weekly Competition
 ### Mark Adams
 
 #### 3BLD

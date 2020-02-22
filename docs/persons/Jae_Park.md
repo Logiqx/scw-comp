@@ -1,4 +1,4 @@
-## Senior Cubers Worldwide
+## Senior Cubers Worldwide - Weekly Competition
 ### Jae Park
 
 #### 3x3x3

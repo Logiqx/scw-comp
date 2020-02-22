@@ -1,4 +1,4 @@
-## Senior Cubers Worldwide
+## Senior Cubers Worldwide - Weekly Competition
 ### Jo Cocco
 
 #### 3x3x3

@@ -1,4 +1,4 @@
-## Senior Cubers Worldwide
+## Senior Cubers Worldwide - Weekly Competition
 ### Adam Robson
 
 #### 3x3x3

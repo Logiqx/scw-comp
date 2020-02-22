@@ -1,30 +1,9 @@
-## Senior Cubers Worldwide
-### 4x4x4 Competitors
+## Senior Cubers Worldwide - Weekly Competition
+### 4x4x4 Summary
 
-#### Over 50
-
-| Name | Single | Average |
-| -- | --: | --: |
-| [Dan Smith](../persons/Dan_Smith.md) |1:30.80 |1:36.33 |
-
-#### Over 40
-
-| Name | Single | Average |
-| -- | --: | --: |
-| [Aaron Cumes](../persons/Aaron_Cumes.md) |1:25.49 |1:35.04 |
-| [Andy Nicholls](../persons/Andy_Nicholls.md) |1:03.18 |1:08.74 |
-| [Geoff Hartnell](../persons/Geoff_Hartnell.md) |1:03.95 |1:14.94 |
-| [Jae Park](../persons/Jae_Park.md) |2:24.21 |2:30.77 |
-| [Jo Cocco](../persons/Jo_Cocco.md) |4:16.72 |4:41.00 |
-| [Joshua M. Woodward](../persons/Joshua_M._Woodward.md) |3:13.21 |3:38.78 |
-| [Michael George](../persons/Michael_George.md) |48.02 |1:00.63 |
-
-#### Under 40
-
-| Name | Single | Average |
-| -- | --: | --: |
-| [Deansie Brady](../persons/Deansie_Brady.md) |2:24.00 |2:38.28 |
-| [Isak Majer](../persons/Isak_Majer.md) |1:41.66 |1:50.60 |
-| [Pete Lee](../persons/Pete_Lee.md) |1:21.93 |1:25.13 |
-| [Shawn Boucké](../persons/Shawn_Boucke.md) |47.49 |49.52 |
-
+#### [2020-02-10](2020-02-10.md)
+| # | Name | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| :--: | -- | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| 2 | [Michael George](../persons/Michael_George.md) | 40+ | 48.02 | 1:00.63 | 🥇 | 48.02 | 59.19 | 1:00.83 | 1:05.87 | 1:01.87 | [Link](https://www.facebook.com/michael.george.545/videos/10212920017115516/) |
+| 3 | [Andy Nicholls](../persons/Andy_Nicholls.md) | 40+ | 1:03.18 | 1:08.74 | 🥈 | 1:06.52 | 1:03.18 | 1:16.93 | 1:08.82 | 1:08.25 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134916213320951/) |
+| 4 | [Geoff Hartnell](../persons/Geoff_Hartnell.md) | 40+ | 1:03.95 | 1:14.94 | 🥉 | 1:16.56 | 1:12.31 | 1:15.95 | 1:03.95 | 1:20.48 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139252612887311/) |
