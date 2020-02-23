@@ -10,7 +10,7 @@ Best Singles - [3x3x3](3x3x3/singles.md), [2x2x2](2x2x2/singles.md), [4x4x4](4x4
 Best Averages - [3x3x3](3x3x3/averages.md), [2x2x2](2x2x2/averages.md), [4x4x4](4x4x4/averages.md), [3BLD](3BLD/averages.md)
 
 #### Results
-2020-02-17 - [3x3x3](3x3x3/2020-02-17.md), [2x2x2](2x2x2/2020-02-17.md), [3BLD](3BLD/2020-02-17.md)
+2020-02-17 - [3x3x3](3x3x3/2020-02-17.md), [2x2x2](2x2x2/2020-02-17.md), [3BLD](3bld/2020-02-17.md)
 
 2020-02-10 - [3x3x3](3x3x3/2020-02-10.md), [4x4x4](4x4x4/2020-02-10.md)
 

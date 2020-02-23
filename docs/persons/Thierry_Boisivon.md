@@ -17,5 +17,5 @@
 
 | Date | # | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
-| [2020-02-17](../3BLD/2020-02-17.md) | 2 | 40+ | 1:22.00 | DNF | 🥈 | 1:26.52 | DNF | 1:22.00 | [Link](https://www.facebook.com/events/173728187264773/permalink/178355273468731/) |
+| [2020-02-17](../3bld/2020-02-17.md) | 2 | 40+ | 1:22.00 | DNF | 🥈 | 1:26.52 | DNF | 1:22.00 | [Link](https://www.facebook.com/events/173728187264773/permalink/178355273468731/) |
 
