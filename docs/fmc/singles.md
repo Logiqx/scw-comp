@@ -3,13 +3,13 @@
 
 #### Over 50
 
-| # | Name | Date | Single | Video |
+| # | Name | Date | Single | Solution |
 | :--: | -- | :--: | --: | -- |
 | 1 | [John Cook](../persons/john_cook.md) | [2020-02-17](2020-02-17.md) | 57 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
 
 #### Over 40
 
-| # | Name | Date | Single | Video |
+| # | Name | Date | Single | Solution |
 | :--: | -- | :--: | --: | -- |
 | 1 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-02-17](2020-02-17.md) | 25 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
 | 2 | [Ben Coppin](../persons/ben_coppin.md) | [2020-02-17](2020-02-17.md) | 26 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
@@ -17,7 +17,7 @@
 
 #### Under 40
 
-| # | Name | Date | Single | Video |
+| # | Name | Date | Single | Solution |
 | :--: | -- | :--: | --: | -- |
 | 1 | [Ed Connell](../persons/ed_connell.md) | [2020-02-17](2020-02-17.md) | 31 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
 | | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-17](2020-02-17.md) | 31 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
