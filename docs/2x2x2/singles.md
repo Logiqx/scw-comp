@@ -3,14 +3,14 @@
 
 #### Over 50
 
-| # | Name | Date | Single | Link |
+| # | Name | Date | Single | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Dan Smith](../persons/dan_smith.md) |[2020-02-17](2020-02-17.md) |7.02 | [Link](https://www.facebook.com/events/176704156956327/permalink/178124056814337/) |
 | 2 |[Lisa Kucala](../persons/lisa_kucala.md) |[2020-02-17](2020-02-17.md) |7.24 | [Link](https://www.facebook.com/events/176704156956327/permalink/177822780177798/) |
 
 #### Over 40
 
-| # | Name | Date | Single | Link |
+| # | Name | Date | Single | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Michael George](../persons/michael_george.md) |[2020-02-17](2020-02-17.md) |4.59 | [Link](https://www.facebook.com/events/176704156956327/permalink/178424350117641/) |
 | 2 |[Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) |[2020-02-17](2020-02-17.md) |4.73 | |
@@ -25,7 +25,7 @@
 
 #### Under 40
 
-| # | Name | Date | Single | Link |
+| # | Name | Date | Single | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Go-ho Choi](../persons/go-ho_choi.md) |[2020-02-17](2020-02-17.md) |3.50 | [Link](https://www.facebook.com/events/176704156956327/permalink/178287783464631/) |
 | 2 |[Adam Robson](../persons/adam_robson.md) |[2020-02-17](2020-02-17.md) |6.07 | [Link](https://www.facebook.com/events/176704156956327/permalink/178953400064736/) |
@@ -34,7 +34,7 @@
 
 #### Under 20
 
-| # | Name | Date | Single | Link |
+| # | Name | Date | Single | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Jaidon Adams](../persons/jaidon_adams.md) |[2020-02-17](2020-02-17.md) |2.45 | [Link](https://www.facebook.com/events/176704156956327/permalink/180633799896696/) |
 

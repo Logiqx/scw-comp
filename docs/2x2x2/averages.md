@@ -3,14 +3,14 @@
 
 #### Over 50
 
-| # | Name | Date | Average | Link |
+| # | Name | Date | Average | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Lisa Kucala](../persons/lisa_kucala.md) |[2020-02-17](2020-02-17.md) |8.62 | [Link](https://www.facebook.com/events/176704156956327/permalink/177822780177798/) |
 | 2 |[Dan Smith](../persons/dan_smith.md) |[2020-02-17](2020-02-17.md) |11.09 | [Link](https://www.facebook.com/events/176704156956327/permalink/178124056814337/) |
 
 #### Over 40
 
-| # | Name | Date | Average | Link |
+| # | Name | Date | Average | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Michael George](../persons/michael_george.md) |[2020-02-17](2020-02-17.md) |4.93 | [Link](https://www.facebook.com/events/176704156956327/permalink/178424350117641/) |
 | 2 |[Jeremy Duehring](../persons/jeremy_duehring.md) |[2020-02-17](2020-02-17.md) |6.30 | [Link](https://www.facebook.com/events/176704156956327/permalink/177381356888607/) |
@@ -25,7 +25,7 @@
 
 #### Under 40
 
-| # | Name | Date | Average | Link |
+| # | Name | Date | Average | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Go-ho Choi](../persons/go-ho_choi.md) |[2020-02-17](2020-02-17.md) |4.50 | [Link](https://www.facebook.com/events/176704156956327/permalink/178287783464631/) |
 | 2 |[Adam Robson](../persons/adam_robson.md) |[2020-02-17](2020-02-17.md) |6.99 | [Link](https://www.facebook.com/events/176704156956327/permalink/178953400064736/) |
@@ -34,7 +34,7 @@
 
 #### Under 20
 
-| # | Name | Date | Average | Link |
+| # | Name | Date | Average | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Jaidon Adams](../persons/jaidon_adams.md) |[2020-02-17](2020-02-17.md) |3.10 | [Link](https://www.facebook.com/events/176704156956327/permalink/180633799896696/) |
 

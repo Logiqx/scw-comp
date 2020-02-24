@@ -3,7 +3,7 @@
 
 #### Over 50
 
-| # | Name | Date | Average | Link |
+| # | Name | Date | Average | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Dan Smith](../persons/dan_smith.md) |[2020-02-17](2020-02-17.md) |28.96 | [Link](https://www.facebook.com/events/616423959107229/permalink/618093752273583/) |
 | 2 |[Lisa Kucala](../persons/lisa_kucala.md) |[2020-02-17](2020-02-17.md) |32.03 | [Link](https://www.facebook.com/events/616423959107229/permalink/617792025637089/) |
@@ -12,7 +12,7 @@
 
 #### Over 40
 
-| # | Name | Date | Average | Link |
+| # | Name | Date | Average | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Michael George](../persons/michael_george.md) |[2020-02-03](2020-02-03.md) |15.05 | [Link](https://www.facebook.com/michael.george.545/videos/10212902094667466/) |
 | 2 |[Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) |[2020-02-03](2020-02-03.md) |15.58 | [Link](https://www.facebook.com/grzegorz.pacewicz/videos/2843577535688602/) |
@@ -36,7 +36,7 @@
 
 #### Under 40
 
-| # | Name | Date | Average | Link |
+| # | Name | Date | Average | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Go-ho Choi](../persons/go-ho_choi.md) |[2020-02-17](2020-02-17.md) |12.93 | [Link](https://www.facebook.com/events/616423959107229/permalink/617133012369657/) |
 | 2 |[Shawn Boucké](../persons/shawn_boucke.md) |[2020-02-10](2020-02-10.md) |14.42 | [Link](https://www.facebook.com/ShawnBoucke/videos/3054435071234922/) |
@@ -49,14 +49,14 @@
 
 #### Under 30
 
-| # | Name | Date | Average | Link |
+| # | Name | Date | Average | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Tom Doolinski](../persons/tom_doolinski.md) |[2020-02-03](2020-02-03.md) |14.99 | [Link](https://www.facebook.com/tom.dooley.35175/videos/1479385075550710/) |
 | 2 |[Peyton Blevins](../persons/peyton_blevins.md) |[2020-02-03](2020-02-03.md) |30.48 | [Link](https://www.facebook.com/TheNewProcess/videos/3093917170665620/) |
 
 #### Under 20
 
-| # | Name | Date | Average | Link |
+| # | Name | Date | Average | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Jaidon Adams](../persons/jaidon_adams.md) |[2020-02-03](2020-02-03.md) |8.67 | [Link](https://www.facebook.com/jaidon.adams.1/videos/2562434104083122/) |
 | 2 |[Will Lambert](../persons/will_lambert.md) |[2020-02-03](2020-02-03.md) |11.51 | [Link](https://www.facebook.com/Willislwynlambert/videos/10221470476215884/) |

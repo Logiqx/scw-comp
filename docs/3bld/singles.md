@@ -3,7 +3,7 @@
 
 #### Over 40
 
-| # | Name | Date | Single | Link |
+| # | Name | Date | Single | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Jae Park](../persons/jae_park.md) |[2020-02-17](2020-02-17.md) |48.68 | [Link](https://www.facebook.com/events/173728187264773/permalink/173945660576359/) |
 | 2 |[Thierry Boisivon](../persons/thierry_boisivon.md) |[2020-02-17](2020-02-17.md) |1:22.00 | [Link](https://www.facebook.com/events/173728187264773/permalink/178355273468731/) |
@@ -15,7 +15,7 @@
 
 #### Under 40
 
-| # | Name | Date | Single | Link |
+| # | Name | Date | Single | Video |
 | :--: | -- | :--: | --: | -- |
 | 1 |[Go-ho Choi](../persons/go-ho_choi.md) |[2020-02-17](2020-02-17.md) |2:22.99 | |
 
