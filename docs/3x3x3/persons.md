@@ -20,7 +20,7 @@
 | [Andy Nicholls](../persons/andy_nicholls.md) | 14.08 | 17.70 |
 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 17.28 | 19.14 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 13.37 | 15.23 |
-| [Huy Nguyen](../persons/huy_nguyen.md) | DNF | DNF |
+| [Huy Nguyen](../persons/huy_nguyen.md) | 18.10 | 22.69 |
 | [Jae Park](../persons/jae_park.md) | 19.62 | 23.58 |
 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 29.32 | 36.59 |
 | [Jang Junho](../persons/jang_junho.md) | 25.40 | 31.63 |
