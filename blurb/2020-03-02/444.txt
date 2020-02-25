@@ -1,0 +1,36 @@
+Senior Cubers Worldwide - 4x4x4 Video Competition 2020-03-02
+ 
+Videos in by Mon 2nd @ 22:00 PST / Tue 25th @ 06:00 GMT
+ 
+Rules:
+- Entry in one continuous video
+- Cube and timer visible
+- Use the 5 scrambles provided below (* Ao5 / Mo3 / Bo2)
+- Inspection limit of 15 seconds
+
+* Anyone who considers themselves sub-1:30 should do Ao5, sub-2:30 should do Mo3, otherwise Bo2. 
+* Ao5 = average of 5 (discard fastest and slowest solves), Mo3 = mean of 3, Bo2 = best of 2
+
+Process:
+- Post your video directly to the event page
+- Include your age category (e.g. 40+) in the video description
+- Include your times and Ao5 in the video description (2 decimal places)
+- Please write times unambiguously...
+  e.g. 1:19.32 rather than 1:17.32 + 2 and DNF rather than 1:17.32 (DNF)
+- Mention if it is your fastest submission to date for a 🔥 award
+- Update the results spreadsheet if you have edit access
+
+Scrambles:
+1. R2 U2 F' R2 F R2 F' D2 U2 B D2 B U' B' D2 F' L U' B2 U' B Uw2 F'
+   R2 L Uw2 L' Fw2 Rw2 R B2 U2 Uw' L2 F Uw D F2 B L Rw' Fw U' B' F 
+2. U F2 U2 D' F' L U2 F L' R2 F D2 R2 F D2 L2 U2 R2 B Uw2 R Uw2 R D'
+   Rw2 D' L Uw2 L B2 L2 Fw' Uw2 F2 D2 B' U' Uw' L B2 Rw' Fw Uw2 L2 
+3. D' B2 D2 L F2 L U2 R' B2 R2 U2 B2 U R2 U' B L' F U' R Uw2 L Uw2
+   B2 F Uw2 D2 R' Uw2 R' F L2 F Uw B Rw2 L B' Uw Rw' D Fw' Rw2 Uw' 
+4. D2 U2 B L2 D2 B U2 R2 F U2 R2 B R' U2 L D B' U' L' R F2 Fw2 Uw2
+   B' R2 L F' Rw2 U2 F' R L' Uw' B Uw2 B2 U' R2 Rw Fw2 Uw' L Fw R U' 
+5. D' L' U2 B R2 D2 B2 D2 F L2 D2 B' F' U' L D2 R B' R' F' U' Fw2 Uw2
+   B L' Uw2 R B Rw2 R2 D2 Fw2 L Uw' D' Fw2 L F2 Rw' Uw' R Fw' B U2 R
+
+Results - After your second video submission please request edit access
+https://docs.google.com/spreadsheets/d/1KES-G1fe-CMoZ6IHD7PMzl7Q-GD6D3AsqwncMn9oQcE/edit?usp=sharing
