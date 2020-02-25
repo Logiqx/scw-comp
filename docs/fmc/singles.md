@@ -13,7 +13,7 @@
 | :--: | -- | :--: | --: | :--: | -- |
 | 1 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-02-17](2020-02-17.md) | 25 | 🏆 🥇 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
 | 2 | [Ben Coppin](../persons/ben_coppin.md) | [2020-02-17](2020-02-17.md) | 26 | 🥈 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
-| 3 | [David Roche](../persons/david_roche.md) | [2020-02-24](2020-02-24.md) | 27 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
+| 3 | [David Roche](../persons/david_roche.md) | [2020-02-24](2020-02-24.md) | 27 | 🏆 🥈 ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
 
 #### Under 40
 
