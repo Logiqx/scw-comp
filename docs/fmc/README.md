@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### FMC - Senior Podiums
+#### [2020-02-24](2020-02-24.md)
+
+| # | Name | Age | Single | Solution |
+| :--: | -- | :--: | --: | -- |
+| 1 | [David Roche](../persons/david_roche.md) | 40+ | 27 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
+| 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 42 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
+| 3 | [John Cook](../persons/john_cook.md) | 50+ | 55 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
+
 #### [2020-02-17](2020-02-17.md)
 
 | # | Name | Age | Single | Solution |

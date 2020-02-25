@@ -5,7 +5,7 @@
 
 | Name | Single | Average |
 | -- | --: | --: |
-| [Dan Smith](../persons/dan_smith.md) | 1:30.80 | 1:36.33 |
+| [Daniel Smith](../persons/daniel_smith.md) | 1:30.80 | 1:36.33 |
 
 #### Over 40
 

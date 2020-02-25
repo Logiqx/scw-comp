@@ -5,7 +5,7 @@
 
 | Name | Single | Average |
 | -- | --: | --: |
-| [Dan Smith](../persons/dan_smith.md) | 7.02 | 11.09 |
+| [Daniel Smith](../persons/daniel_smith.md) | 7.02 | 11.09 |
 | [Lisa Kucala](../persons/lisa_kucala.md) | 7.24 | 8.62 |
 
 #### Over 40

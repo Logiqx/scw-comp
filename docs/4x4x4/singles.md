@@ -5,7 +5,7 @@
 
 | # | Name | Date | Single | Video |
 | :--: | -- | :--: | --: | -- |
-| 1 | [Dan Smith](../persons/dan_smith.md) | [2020-02-10](2020-02-10.md) | 1:30.80 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2137188879760351/) |
+| 1 | [Daniel Smith](../persons/daniel_smith.md) | [2020-02-10](2020-02-10.md) | 1:30.80 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2137188879760351/) |
 
 #### Over 40
 

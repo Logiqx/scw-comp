@@ -5,7 +5,7 @@
 
 | # | Name | Date | Single | Video |
 | :--: | -- | :--: | --: | -- |
-| 1 | [Dan Smith](../persons/dan_smith.md) | [2020-02-17](2020-02-17.md) | 7.02 | [Link](https://www.facebook.com/events/176704156956327/permalink/178124056814337/) |
+| 1 | [Daniel Smith](../persons/daniel_smith.md) | [2020-02-17](2020-02-17.md) | 7.02 | [Link](https://www.facebook.com/events/176704156956327/permalink/178124056814337/) |
 | 2 | [Lisa Kucala](../persons/lisa_kucala.md) | [2020-02-17](2020-02-17.md) | 7.24 | [Link](https://www.facebook.com/events/176704156956327/permalink/177822780177798/) |
 
 #### Over 40
