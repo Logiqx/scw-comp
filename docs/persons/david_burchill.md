@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### David Burchill
 
-#### 3x3x3
+#### 3x3x3 - 30.53 single / 34.84 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

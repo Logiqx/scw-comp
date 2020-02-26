@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Ed Connell
 
-#### FMC
+#### FMC - 31 single
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | --: | --: | :--: | :-- |

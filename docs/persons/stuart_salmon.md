@@ -1,13 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Stuart Salmon
 
-#### 3x3x3
+#### 3x3x3 - 22.76 single / 32.88 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-17](../3x3x3/2020-02-17.md) | 40+ | 22.76 | 32.88 |  | 46.30 | 30.51 | 22.76 | 28.69 | 39.46 | [Link](https://www.facebook.com/events/616423959107229/permalink/621286958620929/) |
 
-#### 2x2x2
+#### 2x2x2 - 8.07 single / 12.10 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

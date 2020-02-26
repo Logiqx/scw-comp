@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Pete Lee
 
-#### 3x3x3
+#### 3x3x3 - 17.18 single / 20.89 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
@@ -10,25 +10,25 @@
 | [2020-02-10](../3x3x3/2020-02-10.md) | <40 | 20.17 | 22.24 |  | 21.07 | 22.53 | 30.48 | 23.13 | 20.17 | [Link](https://www.facebook.com/pete.lee.9003/videos/2505499226227218/) |
 | [2020-02-03](../3x3x3/2020-02-03.md) | <40 | 19.18 | 21.44 |  | 24.79 | 20.36 | 19.18 | - | - | [Link](https://www.facebook.com/pete.lee.9003/videos/2491606100949864/) |
 
-#### 2x2x2
+#### 2x2x2 - 7.32 single / 9.80 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-17](../2x2x2/2020-02-17.md) | <40 | 7.32 | 9.80 |  | 9.58 | 11.78 | 8.05 | 7.32 | 12.03 | [Link](https://www.facebook.com/events/176704156956327/permalink/179850233308386/) |
 
-#### 4x4x4
+#### 4x4x4 - 1:21.93 single / 1:25.13 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-10](../4x4x4/2020-02-10.md) | <40 | 1:21.93 | 1:25.13 |  | 1:21.93 | 1:26.69 | 1:26.77 | - | - | [Link](https://www.facebook.com/pete.lee.9003/videos/2505517469558727/) |
 
-#### 5x5x5
+#### 5x5x5 - 3:08.20 single / 3:14.66 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-24](../5x5x5/2020-02-24.md) | <40 | 3:08.20 | 3:14.66 |  | 3:23.22 | 3:12.56 | 3:08.20 |  |  | [Link](https://www.facebook.com/events/538921670053895/permalink/541504683128927/) |
 
-#### OH
+#### OH - 39.61 single / 49.22 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

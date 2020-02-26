@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### David Roche
 
-#### FMC
+#### FMC - 27 single
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | --: | --: | :--: | :-- |

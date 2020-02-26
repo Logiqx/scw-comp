@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jae Park
 
-#### 3x3x3
+#### 3x3x3 - 19.62 single / 23.58 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
@@ -10,25 +10,25 @@
 | [2020-02-10](../3x3x3/2020-02-10.md) | 40+ | 22.50 | 23.58 | 🔥 | 23.38 | 22.50 | 24.65 | 22.71 | 25.90 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2135450339934205/) |
 | [2020-02-03](../3x3x3/2020-02-03.md) | 40+ | 22.10 | 23.97 |  | 22.10 | 22.12 | 27.69 | - | - | [Link](https://www.facebook.com/100017395687396/videos/558635781392940/) |
 
-#### 2x2x2
+#### 2x2x2 - 12.95 single / 19.45 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-17](../2x2x2/2020-02-17.md) | 40+ | 12.95 | 19.45 |  | 12.95 | 19.40 | 14.25 | DNF | 26.70 | [Link](https://www.facebook.com/events/176704156956327/permalink/177449880215088/) |
 
-#### 4x4x4
+#### 4x4x4 - 2:24.21 single / 2:30.77 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-10](../4x4x4/2020-02-10.md) | 40+ | 2:24.21 | 2:30.77 |  | 2:24.21 | 2:29.62 | 2:38.49 | - | - | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2135447743267798/) |
 
-#### 5x5x5
+#### 5x5x5 - 6:11.08 single / 6:11.08 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-24](../5x5x5/2020-02-24.md) | 40+ | 6:11.08 | 6:11.08 |  | DNF | 6:11.08 |  |  |  | [Link](https://www.facebook.com/events/538921670053895/permalink/542842839661778/) |
 
-#### 3BLD
+#### 3BLD - 48.68 single / 57.66 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
