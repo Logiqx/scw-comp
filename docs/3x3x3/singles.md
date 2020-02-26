@@ -48,7 +48,7 @@
 | 2 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-10](2020-02-10.md) | 11.31 | 🏆 | [Link](https://www.facebook.com/ShawnBoucke/videos/3054435071234922/) |
 | 3 | [Pete Lee](../persons/pete_lee.md) | [2020-02-24](2020-02-24.md) | 17.18 | ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2562474693991365/) |
 | 4 | [Isak Majer](../persons/isak_majer.md) | [2020-02-10](2020-02-10.md) | 17.30 | ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2137726009706638/) |
-| 5 | [Deansie Brady](../persons/deansie_brady.md) | [2020-02-03](2020-02-03.md) | 21.11 |  | [Link](https://www.facebook.com/Magnacube.askme/videos/1047021635647834/) |
+| 5 | [Deansie Brady](../persons/deansie_brady.md) | [2020-02-24](2020-02-24.md) | 21.03 | ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2564590157113152/) |
 | 6 | [Matthew Hart](../persons/matthew_hart.md) | [2020-02-10](2020-02-10.md) | 22.72 |  | [Link](https://www.facebook.com/bazosoft/videos/10221648844229649/) |
 | 7 | [Adam Robson](../persons/adam_robson.md) | [2020-02-24](2020-02-24.md) | 22.87 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2562510477321120/) |
 | 8 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-02-17](2020-02-17.md) | 49.65 |  | [Link](https://www.facebook.com/events/616423959107229/permalink/621392298610395/) |
