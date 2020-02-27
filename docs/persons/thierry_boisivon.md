@@ -7,7 +7,7 @@
 | -- | --: | --: |
 | 3x3x3 | 15.22 | 16.63 |
 | 2x2x2 | 6.59 | 7.26 |
-| 3BLD | 1:22.00 | - |
+| 3BLD | 1:22.00 | DNF |
 | OH | 25.53 | 38.24 |
 
 #### 3x3x3 - 15.22 single / 16.63 average
@@ -25,7 +25,7 @@
 | [2020-02-17](../2x2x2/2020-02-17.md) | 40+ | 6.59 | 7.26 |  | 8.97 | 6.59 | 8.13 | 6.94 | 6.71 | [Link](https://www.facebook.com/events/176704156956327/permalink/181037429856333/) |
 
 
-#### 3BLD - 1:22.00 single
+#### 3BLD - 1:22.00 single / DNF average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |

@@ -5,9 +5,9 @@
 
 | Event | Single | Average |
 | -- | --: | --: |
-| 3BLD | 1:46.60 | - |
+| 3BLD | 1:46.60 | DNF |
 
-#### 3BLD - 1:46.60 single
+#### 3BLD - 1:46.60 single / DNF average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
