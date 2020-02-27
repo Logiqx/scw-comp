@@ -13,14 +13,14 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-17](../3x3x3/2020-02-17.md) | 40+ | 22.76 | 32.88 |  | 46.30 | 30.51 | 22.76 | 28.69 | 39.46 | [Link](https://www.facebook.com/events/616423959107229/permalink/621286958620929/) |
+| [2020-02-17](../3x3x3/2020-02-17.md) | 40+ | **22.76** | **32.88** |  | 46.30 | 30.51 | **22.76** | 28.69 | 39.46 | [Link](https://www.facebook.com/events/616423959107229/permalink/621286958620929/) |
 
 
 #### 2x2x2 - 8.07 single / 12.10 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-17](../2x2x2/2020-02-17.md) | 40+ | 8.07 | 12.10 |  | 8.07 | 21.62 | 15.83 | 10.35 | 10.12 | [Link](https://www.facebook.com/events/176704156956327/permalink/181182663175143/) |
+| [2020-02-17](../2x2x2/2020-02-17.md) | 40+ | **8.07** | **12.10** |  | **8.07** | 21.62 | 15.83 | 10.35 | 10.12 | [Link](https://www.facebook.com/events/176704156956327/permalink/181182663175143/) |
 
 
 #### 3BLD - DNF single / DNF average
