@@ -25,7 +25,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-24](../5x5x5/2020-02-24.md) | 50+ | 2:31.49 | 2:42.21 |  | 2:45.65 | 2:31.49 | 2:49.49 |  |  | [Link](https://www.facebook.com/events/538921670053895/permalink/539390146673714/) |
+| [2020-02-24](../5x5x5/2020-02-24.md) | 50+ | 2:31.49 | 2:42.21 |  | 2:45.65 | 2:31.49 | 2:49.49 | DNS | DNS | [Link](https://www.facebook.com/events/538921670053895/permalink/539390146673714/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

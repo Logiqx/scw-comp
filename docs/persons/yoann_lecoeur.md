@@ -12,7 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-24](../5x5x5/2020-02-24.md) | 40+ | 2:36.25 | 2:52.60 |  | 3:14.17 | 2:47.37 | 2:36.25 |  |  | [Link](https://www.facebook.com/events/538921670053895/permalink/541223923157003/) |
+| [2020-02-24](../5x5x5/2020-02-24.md) | 40+ | 2:36.25 | 2:52.60 |  | 3:14.17 | 2:47.37 | 2:36.25 | DNS | DNS | [Link](https://www.facebook.com/events/538921670053895/permalink/541223923157003/) |
 
 #### 3BLD - 2:16.71 single
 

@@ -26,7 +26,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-24](../5x5x5/2020-02-24.md) | <40 | 3:08.20 | 3:14.66 |  | 3:23.22 | 3:12.56 | 3:08.20 |  |  | [Link](https://www.facebook.com/events/538921670053895/permalink/541504683128927/) |
+| [2020-02-24](../5x5x5/2020-02-24.md) | <40 | 3:08.20 | 3:14.66 |  | 3:23.22 | 3:12.56 | 3:08.20 | DNS | DNS | [Link](https://www.facebook.com/events/538921670053895/permalink/541504683128927/) |
 
 #### OH - 39.61 single / 49.22 average
 

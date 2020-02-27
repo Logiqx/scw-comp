@@ -26,7 +26,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-24](../5x5x5/2020-02-24.md) | 40+ | 6:11.08 | 6:11.08 |  | DNF | 6:11.08 |  |  |  | [Link](https://www.facebook.com/events/538921670053895/permalink/542842839661778/) |
+| [2020-02-24](../5x5x5/2020-02-24.md) | 40+ | 6:11.08 | 6:11.08 |  | DNF | 6:11.08 | DNS | DNS | DNS | [Link](https://www.facebook.com/events/538921670053895/permalink/542842839661778/) |
 
 #### 3BLD - 48.68 single / 57.66 average
 
