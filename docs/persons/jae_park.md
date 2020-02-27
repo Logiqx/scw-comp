@@ -8,7 +8,7 @@
 | 3x3x3 | 19.62 | 23.58 |
 | 2x2x2 | 12.95 | 19.45 |
 | 4x4x4 | 2:24.21 | 2:30.77 |
-| 5x5x5 | 6:11.08 | 6:11.08 |
+| 5x5x5 | 6:11.08 | DNF |
 | 3BLD | 48.68 | 57.66 |
 
 #### 3x3x3 - 19.62 single / 23.58 average
@@ -35,11 +35,11 @@
 | [2020-02-10](../4x4x4/2020-02-10.md) | 40+ | 2:24.21 | 2:30.77 |  | 2:24.21 | 2:29.62 | 2:38.49 | - | - | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2135447743267798/) |
 
 
-#### 5x5x5 - 6:11.08 single / 6:11.08 average
+#### 5x5x5 - 6:11.08 single / DNF average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-24](../5x5x5/2020-02-24.md) | 40+ | 6:11.08 | 6:11.08 |  | DNF | 6:11.08 | DNS | DNS | DNS | [Link](https://www.facebook.com/events/538921670053895/permalink/542842839661778/) |
+| [2020-02-24](../5x5x5/2020-02-24.md) | 40+ | 6:11.08 | DNF |  | DNF | 6:11.08 | DNS | DNS | DNS | [Link](https://www.facebook.com/events/538921670053895/permalink/542842839661778/) |
 
 
 #### 3BLD - 48.68 single / 57.66 average

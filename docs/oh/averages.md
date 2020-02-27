@@ -13,7 +13,7 @@
 | | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-02-24](2020-02-24.md) | 38.24 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1622459904560966/) |
 | 7 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-24](2020-02-24.md) | 43.90 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618697511603872/) |
 | 8 | [장준호](../persons/장준호.md) | [2020-02-24](2020-02-24.md) | 1:20.62 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1623943337745956/) |
-| 9 | [Jo Cocco](../persons/jo_cocco.md) | [2020-02-24](2020-02-24.md) | 2:06.00 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1624311164375840/) |
+| 9 | [Jo Cocco](../persons/jo_cocco.md) | [2020-02-24](2020-02-24.md) | 2:27.00 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1624311164375840/) |
 
 #### Under 40
 

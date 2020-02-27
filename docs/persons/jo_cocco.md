@@ -8,7 +8,7 @@
 | 3x3x3 | 48.48 | 1:00.84 |
 | 2x2x2 | 11.83 | 19.15 |
 | 4x4x4 | 4:16.72 | 4:41.00 |
-| OH | 2:06.00 | 2:06.00 |
+| OH | 2:06.00 | 2:27.00 |
 
 #### 3x3x3 - 48.48 single / 1:00.84 average
 
@@ -34,11 +34,11 @@
 | [2020-02-10](../4x4x4/2020-02-10.md) | 40+ | 4:16.72 | 4:41.00 |  | 4:59.33 | 4:16.72 | 4:48.00 | - | - | [Link](https://www.facebook.com/JoCocco/videos/10156812603372109/) |
 
 
-#### OH - 2:06.00 single / 2:06.00 average
+#### OH - 2:06.00 single / 2:27.00 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-24](../oh/2020-02-24.md) | 40+ | 2:06.00 | 2:06.00 |  | 2:37.00 | 2:39.00 | 2:06.00 | DNS | DNS | [Link](https://www.facebook.com/events/1618332754973681/permalink/1624311164375840/) |
+| [2020-02-24](../oh/2020-02-24.md) | 40+ | 2:06.00 | 2:27.00 |  | 2:37.00 | 2:39.00 | 2:06.00 | DNS | DNS | [Link](https://www.facebook.com/events/1618332754973681/permalink/1624311164375840/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

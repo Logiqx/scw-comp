@@ -18,7 +18,6 @@
 | 5 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-02-24](2020-02-24.md) | 2:48.50 |  | |
 | 6 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-02-24](2020-02-24.md) | 2:52.60 |  | [Link](https://www.facebook.com/events/538921670053895/permalink/541223923157003/) |
 | 7 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-02-24](2020-02-24.md) | 3:04.56 |  | [Link](https://www.facebook.com/events/538921670053895/permalink/541249876487741/) |
-| 8 | [Jae Park](../persons/jae_park.md) | [2020-02-24](2020-02-24.md) | 6:11.08 |  | [Link](https://www.facebook.com/events/538921670053895/permalink/542842839661778/) |
 
 #### Under 40
 
