@@ -6,9 +6,9 @@
 | 3x3x3 | 13.37 | 15.23 |
 | 2x2x2 | 4.73 | 6.45 |
 | 5x5x5 | 2:37.21 | 2:48.50 |
-| 3BLD | DNF | DNF |
-| OH | 29.18 | 35.44 |
-| FMC | 25 | - |
+| 3x3x3 Blindfolded | DNF | DNF |
+| 3x3x3 One-Handed | 29.18 | 35.44 |
+| 3x3x3 Fewest Moves | 25 | - |
 
 #### 3x3x3
 

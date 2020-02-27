@@ -3,7 +3,7 @@
 
 | Event | Single | Average |
 | -- | --: | --: |
-| FMC | 27 | - |
+| 3x3x3 Fewest Moves | 27 | - |
 
 #### 3x3x3 Fewest Moves
 
