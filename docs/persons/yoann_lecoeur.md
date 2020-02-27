@@ -23,14 +23,14 @@
 | [2020-02-24](../5x5x5/2020-02-24.md) | 40+ | **2:36.25** | **2:52.60** |  | 3:14.17 | 2:47.37 | **2:36.25** | DNS | DNS | [Link](https://www.facebook.com/events/538921670053895/permalink/541223923157003/) |
 
 
-#### 3BLD
+#### 3x3x3 Blindfolded
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
 | [2020-02-17](../3bld/2020-02-17.md) | 40+ | **2:16.71** | DNF |  | **2:16.71** | DNF | 3:21.50 | [Link](https://www.facebook.com/events/173728187264773/permalink/174101907227401/) |
 
 
-#### OH
+#### 3x3x3 One-Handed
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 3BLD - Competitors
+### 3x3x3 Blindfolded - Competitors
 
 #### Over 40
 

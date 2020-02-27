@@ -24,7 +24,7 @@
 | [2020-02-10](../4x4x4/2020-02-10.md) | <40 | **2:24.00** | **2:38.28** |  | **2:24.00** | 2:55.00 | 2:34.26 | - | - | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
 
 
-#### OH
+#### 3x3x3 One-Handed
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

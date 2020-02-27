@@ -40,7 +40,7 @@
 | [2020-02-24](../5x5x5/2020-02-24.md) | 40+ | **6:11.08** | DNF |  | DNF | **6:11.08** | DNS | DNS | DNS | [Link](https://www.facebook.com/events/538921670053895/permalink/542842839661778/) |
 
 
-#### 3BLD
+#### 3x3x3 Blindfolded
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |

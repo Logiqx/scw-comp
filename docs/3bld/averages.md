@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 3BLD - Best Averages
+### 3x3x3 Blindfolded - Best Averages
 
 #### Over 40
 

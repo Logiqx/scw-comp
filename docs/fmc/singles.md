@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### FMC - Best Singles
+### 3x3x3 Fewest Moves - Best Singles
 
 #### Over 50
 

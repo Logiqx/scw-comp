@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### FMC - Best Averages
+### 3x3x3 Fewest Moves - Best Averages
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

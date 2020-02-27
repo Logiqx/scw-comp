@@ -21,7 +21,7 @@
 | [2020-02-17](../2x2x2/2020-02-17.md) | <40 | **10.73** | **13.95** |  | 12.46 | 17.37 | DNF | 12.03 | **10.73** | [Link](https://www.facebook.com/events/176704156956327/permalink/181292296497513/) |
 
 
-#### FMC
+#### 3x3x3 Fewest Moves
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |

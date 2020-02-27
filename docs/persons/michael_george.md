@@ -40,7 +40,7 @@
 | [2020-02-24](../5x5x5/2020-02-24.md) | 40+ | **1:56.90** | **2:04.38** | 🥈 | 2:03.93 | **1:56.90** | 2:08.24 | 2:00.97 | 2:21.06 | [Link](https://www.facebook.com/events/538921670053895/permalink/539655733313822/) |
 
 
-#### OH
+#### 3x3x3 One-Handed
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

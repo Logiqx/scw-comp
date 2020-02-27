@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### OH - Competitors
+### 3x3x3 One-Handed - Competitors
 
 #### Over 40
 

@@ -23,7 +23,7 @@
 | [2020-02-17](../2x2x2/2020-02-17.md) | 40+ | **5.21** | **6.30** | 🥈 | **5.21** | 5.95 | 6.24 | 6.70 | 9.06 | [Link](https://www.facebook.com/events/176704156956327/permalink/177381356888607/) |
 
 
-#### 3BLD
+#### 3x3x3 Blindfolded
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |

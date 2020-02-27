@@ -32,14 +32,14 @@
 | [2020-02-24](../5x5x5/2020-02-24.md) | <40 | **1:27.39** | **1:30.42** | 🏆 | 1:30.49 | 1:31.24 | **1:27.39** | 1:32.09 | 1:29.54 | [Link](https://www.facebook.com/events/538921670053895/permalink/539081640037898/) |
 
 
-#### 3BLD
+#### 3x3x3 Blindfolded
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
 | [2020-02-17](../3bld/2020-02-17.md) | <40 | **2:22.99** | DNF |  | DNF | 2:35.57 | **2:22.99** | |
 
 
-#### OH
+#### 3x3x3 One-Handed
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

@@ -5,7 +5,7 @@
 | -- | --: | --: |
 | FMC | 31 | - |
 
-#### FMC
+#### 3x3x3 Fewest Moves
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |

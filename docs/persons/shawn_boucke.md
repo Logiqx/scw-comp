@@ -24,14 +24,14 @@
 | [2020-02-10](../4x4x4/2020-02-10.md) | <40 | **47.49** | **49.52** | 🏆 | 48.22 | 49.70 | **47.49** | 1:06.29 | 50.62 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134991299980109/) |
 
 
-#### OH
+#### 3x3x3 One-Handed
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-24](../oh/2020-02-24.md) | <40 | **24.65** | **27.70** |  | 25.42 | **24.65** | 51.36 | 29.41 | 28.28 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1621909717949318/) |
 
 
-#### FMC
+#### 3x3x3 Fewest Moves
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |

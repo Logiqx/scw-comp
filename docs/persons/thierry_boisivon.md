@@ -23,14 +23,14 @@
 | [2020-02-17](../2x2x2/2020-02-17.md) | 40+ | **6.59** | **7.26** |  | 8.97 | **6.59** | 8.13 | 6.94 | 6.71 | [Link](https://www.facebook.com/events/176704156956327/permalink/181037429856333/) |
 
 
-#### 3BLD
+#### 3x3x3 Blindfolded
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
 | [2020-02-17](../3bld/2020-02-17.md) | 40+ | **1:22.00** | DNF | 🥈 | 1:26.52 | DNF | **1:22.00** | [Link](https://www.facebook.com/events/173728187264773/permalink/178355273468731/) |
 
 
-#### OH
+#### 3x3x3 One-Handed
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

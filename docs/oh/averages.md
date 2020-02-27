@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### OH - Best Averages
+### 3x3x3 One-Handed - Best Averages
 
 #### Over 40
 

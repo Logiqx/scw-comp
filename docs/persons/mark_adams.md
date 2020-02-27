@@ -5,7 +5,7 @@
 | -- | --: | --: |
 | 3BLD | 1:46.60 | DNF |
 
-#### 3BLD
+#### 3x3x3 Blindfolded
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
