@@ -1,6 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Peter Douthwright
 
+#### Competition Bests
+
+| Event | Single | Average |
+| -- | --: | --: |
+| 3x3x3 | 31.38 | 38.63 |
+
 #### 3x3x3 - 31.38 single / 38.63 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |

@@ -1,6 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### John Cook
 
+#### Competition Bests
+
+| Event | Single | Average |
+| -- | --: | --: |
+| FMC | 55 | - |
+
 #### FMC - 55 single
 
 | Date | Age | Single | Awards | Solution |

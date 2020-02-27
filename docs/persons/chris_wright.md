@@ -1,6 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Chris Wright
 
+#### Competition Bests
+
+| Event | Single | Average |
+| -- | --: | --: |
+| 3x3x3 | 13.20 | 14.97 |
+
 #### 3x3x3 - 13.20 single / 14.97 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |

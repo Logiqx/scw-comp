@@ -1,6 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Robert Summerfield
 
+#### Competition Bests
+
+| Event | Single | Average |
+| -- | --: | --: |
+| 3x3x3 | 23.10 | 26.97 |
+
 #### 3x3x3 - 23.10 single / 26.97 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |

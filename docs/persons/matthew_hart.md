@@ -1,6 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Matthew Hart
 
+#### Competition Bests
+
+| Event | Single | Average |
+| -- | --: | --: |
+| 3x3x3 | 22.72 | 24.96 |
+
 #### 3x3x3 - 22.72 single / 24.96 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |

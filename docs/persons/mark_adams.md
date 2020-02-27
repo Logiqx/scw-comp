@@ -1,6 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Mark Adams
 
+#### Competition Bests
+
+| Event | Single | Average |
+| -- | --: | --: |
+| 3BLD | 1:46.60 | - |
+
 #### 3BLD - 1:46.60 single
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |

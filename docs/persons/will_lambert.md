@@ -1,6 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Will Lambert
 
+#### Competition Bests
+
+| Event | Single | Average |
+| -- | --: | --: |
+| 3x3x3 | 9.74 | 11.51 |
+
 #### 3x3x3 - 9.74 single / 11.51 average
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
