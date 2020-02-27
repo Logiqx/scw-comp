@@ -1,15 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Deansie Brady
 
-#### Competition Bests
-
 | Event | Single | Average |
 | -- | --: | --: |
 | 3x3x3 | 21.03 | 24.65 |
 | 4x4x4 | 2:24.00 | 2:38.28 |
 | OH | 39.68 | 50.15 |
 
-#### 3x3x3 - 21.03 single / 24.65 average
+#### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
@@ -19,14 +17,14 @@
 | [2020-02-03](../3x3x3/2020-02-03.md) | <40 | **21.11** | **24.65** |  | 24.81 | 28.02 | **21.11** | - | - | [Link](https://www.facebook.com/Magnacube.askme/videos/1047021635647834/) |
 
 
-#### 4x4x4 - 2:24.00 single / 2:38.28 average
+#### 4x4x4
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-10](../4x4x4/2020-02-10.md) | <40 | **2:24.00** | **2:38.28** |  | **2:24.00** | 2:55.00 | 2:34.26 | - | - | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
 
 
-#### OH - 39.68 single / 50.15 average
+#### OH
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

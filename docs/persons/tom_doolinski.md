@@ -1,13 +1,11 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Tom Doolinski
 
-#### Competition Bests
-
 | Event | Single | Average |
 | -- | --: | --: |
 | 3x3x3 | 13.48 | 14.99 |
 
-#### 3x3x3 - 13.48 single / 14.99 average
+#### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |

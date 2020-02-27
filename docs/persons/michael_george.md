@@ -1,8 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Michael George
 
-#### Competition Bests
-
 | Event | Single | Average |
 | -- | --: | --: |
 | 3x3x3 | 12.10 | 14.46 |
@@ -11,7 +9,7 @@
 | 5x5x5 | 1:56.90 | 2:04.38 |
 | OH | 22.73 | 27.32 |
 
-#### 3x3x3 - 12.10 single / 14.46 average
+#### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
@@ -21,28 +19,28 @@
 | [2020-02-03](../3x3x3/2020-02-03.md) | 40+ | **13.28** | **15.05** | 🥇 | **13.28** | 16.63 | 15.24 | - | - | [Link](https://www.facebook.com/michael.george.545/videos/10212902094667466/) |
 
 
-#### 2x2x2 - 4.59 single / 4.93 average
+#### 2x2x2
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-17](../2x2x2/2020-02-17.md) | 40+ | **4.59** | **4.93** | 🥇 | 5.07 | **4.59** | 7.67 | 4.98 | 4.74 | [Link](https://www.facebook.com/events/176704156956327/permalink/178424350117641/) |
 
 
-#### 4x4x4 - 48.02 single / 1:00.63 average
+#### 4x4x4
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-10](../4x4x4/2020-02-10.md) | 40+ | **48.02** | **1:00.63** | 🥇 | **48.02** | 59.19 | 1:00.83 | 1:05.87 | 1:01.87 | [Link](https://www.facebook.com/michael.george.545/videos/10212920017115516/) |
 
 
-#### 5x5x5 - 1:56.90 single / 2:04.38 average
+#### 5x5x5
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-24](../5x5x5/2020-02-24.md) | 40+ | **1:56.90** | **2:04.38** | 🥈 | 2:03.93 | **1:56.90** | 2:08.24 | 2:00.97 | 2:21.06 | [Link](https://www.facebook.com/events/538921670053895/permalink/539655733313822/) |
 
 
-#### OH - 22.73 single / 27.32 average
+#### OH
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

@@ -1,13 +1,11 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Ben Coppin
 
-#### Competition Bests
-
 | Event | Single | Average |
 | -- | --: | --: |
 | FMC | 26 | - |
 
-#### FMC - 26 single
+#### FMC
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |

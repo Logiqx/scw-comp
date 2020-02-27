@@ -1,14 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jaidon Adams
 
-#### Competition Bests
-
 | Event | Single | Average |
 | -- | --: | --: |
 | 3x3x3 | 8.31 | 8.67 |
 | 2x2x2 | 2.45 | 3.10 |
 
-#### 3x3x3 - 8.31 single / 8.67 average
+#### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
@@ -16,7 +14,7 @@
 | [2020-02-03](../3x3x3/2020-02-03.md) | <20 | **8.31** | **8.67** | 🏆 | 9.33 | **8.31** | 8.36 | - | - | [Link](https://www.facebook.com/jaidon.adams.1/videos/2562434104083122/) |
 
 
-#### 2x2x2 - 2.45 single / 3.10 average
+#### 2x2x2
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

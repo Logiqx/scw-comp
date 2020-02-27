@@ -1,13 +1,11 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### David Roche
 
-#### Competition Bests
-
 | Event | Single | Average |
 | -- | --: | --: |
 | FMC | 27 | - |
 
-#### FMC - 27 single
+#### FMC
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |

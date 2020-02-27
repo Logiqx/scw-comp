@@ -1,13 +1,11 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Ed Connell
 
-#### Competition Bests
-
 | Event | Single | Average |
 | -- | --: | --: |
 | FMC | 31 | - |
 
-#### FMC - 31 single
+#### FMC
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |

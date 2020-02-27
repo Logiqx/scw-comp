@@ -1,15 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Adam Robson
 
-#### Competition Bests
-
 | Event | Single | Average |
 | -- | --: | --: |
 | 3x3x3 | 22.87 | 28.66 |
 | 2x2x2 | 6.07 | 6.99 |
 | FMC | 41 | - |
 
-#### 3x3x3 - 22.87 single / 28.66 average
+#### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
@@ -19,14 +17,14 @@
 | [2020-02-03](../3x3x3/2020-02-03.md) | <40 | **28.09** | **29.08** |  | **28.09** | **28.09** | 31.06 | - | - | [Link](https://www.facebook.com/100005428097972/videos/1273943639463227/) |
 
 
-#### 2x2x2 - 6.07 single / 6.99 average
+#### 2x2x2
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-17](../2x2x2/2020-02-17.md) | <40 | **6.07** | **6.99** |  | 6.75 | 12.13 | 7.34 | 6.87 | **6.07** | [Link](https://www.facebook.com/events/176704156956327/permalink/178953400064736/) |
 
 
-#### FMC - 41 single
+#### FMC
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |

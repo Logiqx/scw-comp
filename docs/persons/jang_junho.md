@@ -1,13 +1,11 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jang Junho
 
-#### Competition Bests
-
 | Event | Single | Average |
 | -- | --: | --: |
 | 3x3x3 | 25.40 | 31.63 |
 
-#### 3x3x3 - 25.40 single / 31.63 average
+#### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

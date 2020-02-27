@@ -1,13 +1,11 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Michael Policastro
 
-#### Competition Bests
-
 | Event | Single | Average |
 | -- | --: | --: |
 | 3x3x3 | 34.15 | 35.24 |
 
-#### 3x3x3 - 34.15 single / 35.24 average
+#### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |

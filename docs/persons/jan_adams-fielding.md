@@ -1,14 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jan Adams-Fielding
 
-#### Competition Bests
-
 | Event | Single | Average |
 | -- | --: | --: |
 | 3x3x3 | 29.32 | 36.59 |
 | 2x2x2 | 11.31 | 14.06 |
 
-#### 3x3x3 - 29.32 single / 36.59 average
+#### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
@@ -18,7 +16,7 @@
 | [2020-02-03](../3x3x3/2020-02-03.md) | 40+ | **41.19** | **47.24** |  | 50.49 | 50.04 | **41.19** | - | - | [Link](https://www.facebook.com/jan.adamsfielding/videos/10156726807016889/) |
 
 
-#### 2x2x2 - 11.31 single / 14.06 average
+#### 2x2x2
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
