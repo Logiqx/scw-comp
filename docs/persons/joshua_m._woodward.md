@@ -14,4 +14,6 @@
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-10](../4x4x4/2020-02-10.md) | 40+ | 3:13.21 | 3:38.78 |  | 3:50.62 | 3:54.51 | 3:13.21 | - | - | [Link](https://www.facebook.com/joshua.m.woodward.9/videos/10157599917355342/) |
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script><script>window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3'); </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

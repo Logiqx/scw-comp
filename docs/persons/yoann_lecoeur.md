@@ -26,4 +26,6 @@
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-24](../oh/2020-02-24.md) | 40+ | 31.59 | 38.24 |  | 38.49 | 36.34 | 31.59 | 54.73 | 39.89 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1622459904560966/) |
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script><script>window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3'); </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

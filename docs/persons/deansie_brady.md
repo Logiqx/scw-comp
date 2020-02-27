@@ -22,4 +22,6 @@
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-24](../oh/2020-02-24.md) | <40 | 39.68 | 50.15 |  | 39.83 | 39.68 | 1:02.85 | 56.49 | 51.90 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618918598248430/) |
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script><script>window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3'); </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

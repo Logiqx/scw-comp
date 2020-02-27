@@ -28,4 +28,6 @@
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-24](../oh/2020-02-24.md) | 40+ | 2:06.00 | 2:06.00 |  | 2:37.00 | 2:39.00 | 2:06.00 | - | - | [Link](https://www.facebook.com/events/1618332754973681/permalink/1624311164375840/) |
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script><script>window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3'); </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

@@ -28,4 +28,6 @@
 | 3 | [Isak Majer](../persons/isak_majer.md) | [2020-02-10](2020-02-10.md) | 1:50.60 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |
 | 4 | [Deansie Brady](../persons/deansie_brady.md) | [2020-02-10](2020-02-10.md) | 2:38.28 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script><script>window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3'); </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

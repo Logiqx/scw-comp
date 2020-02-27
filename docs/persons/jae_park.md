@@ -34,4 +34,6 @@
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
 | [2020-02-17](../3bld/2020-02-17.md) | 40+ | 48.68 | 57.66 | 🏆 🥇 | 1:01.08 | 1:03.21 | 48.68 | [Link](https://www.facebook.com/events/173728187264773/permalink/173945660576359/) |
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script><script>window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3'); </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

@@ -10,4 +10,6 @@
 | [2020-02-10](../3x3x3/2020-02-10.md) | 40+ | 23.10 | 32.86 | ⚡ | 23.34 | 23.10 | 29.61 | 44.70 | 43.56 | [Link](https://www.facebook.com/rob.summerfield.33/videos/10157696250581071/) |
 | [2020-02-03](../3x3x3/2020-02-03.md) | 40+ | 26.03 | 28.82 |  | 32.67 | 26.03 | 27.77 | - | - | [Link](https://www.facebook.com/rob.summerfield.33/videos/10157683378806071/) |
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script><script>window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3'); </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

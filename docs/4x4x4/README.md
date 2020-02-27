@@ -11,4 +11,6 @@
 | 3 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 1:03.95 | 1:14.94 | 🥉 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139252612887311/) |
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script><script>window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3'); </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>
