@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 4x4x4 - Competitors
+### 4x4x4 Competitors
 
 #### Over 50
 

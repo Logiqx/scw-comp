@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 4x4x4 - Best Singles
+### 4x4x4 Singles
 
 #### Over 50
 

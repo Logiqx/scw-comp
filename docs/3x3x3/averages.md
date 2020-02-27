@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 3x3x3 - Best Averages
+### 3x3x3 Averages
 
 #### Over 50
 

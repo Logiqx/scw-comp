@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 3x3x3 Blindfolded - Best Singles
+### 3x3x3 Blindfolded Singles
 
 #### Over 40
 

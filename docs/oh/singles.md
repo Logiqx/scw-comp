@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 3x3x3 One-Handed - Best Singles
+### 3x3x3 One-Handed Singles
 
 #### Over 40
 

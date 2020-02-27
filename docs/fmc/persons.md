@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 3x3x3 Fewest Moves - Competitors
+### 3x3x3 Fewest Moves Competitors
 
 #### Over 50
 

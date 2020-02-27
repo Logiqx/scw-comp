@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 2x2x2 - Competitors
+### 2x2x2 Competitors
 
 #### Over 50
 

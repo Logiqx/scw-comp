@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 4x4x4 - Best Averages
+### 4x4x4 Averages
 
 #### Over 50
 

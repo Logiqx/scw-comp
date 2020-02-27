@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 2x2x2 - Senior Podiums
+### 2x2x2 Senior Podiums
 
 #### [2020-02-17](2020-02-17.md)
 

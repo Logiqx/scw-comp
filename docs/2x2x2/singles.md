@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 2x2x2 - Best Singles
+### 2x2x2 Singles
 
 #### Over 50
 
