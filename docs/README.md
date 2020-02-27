@@ -22,5 +22,6 @@ Seniors - [3x3x3](3x3x3/README.md), [2x2x2](2x2x2/README.md), [4x4x4](4x4x4/READ
 #### Project Code
 Python code for these reports can be found at [https://github.com/Logiqx/scw-comp](https://github.com/Logiqx/scw-comp)
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
 <script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

@@ -11,5 +11,6 @@
 | [2020-02-03](../3x3x3/2020-02-03.md) | 40+ | 26.03 | 28.82 |  | 32.67 | 26.03 | 27.77 | - | - | [Link](https://www.facebook.com/rob.summerfield.33/videos/10157683378806071/) |
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
 <script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

@@ -10,5 +10,6 @@
 | [2020-02-10](../3x3x3/2020-02-10.md) | 40+ | 34.83 | 44.11 |  | 45.02 | 34.83 | 45.93 | 45.67 | 41.63 | [Link](https://www.facebook.com/peter.douthwright/videos/10156470062592396/) |
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
 <script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

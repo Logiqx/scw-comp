@@ -40,5 +40,6 @@
 | [2020-02-24](../oh/2020-02-24.md) | 40+ | 40.68 | 43.90 |  | 41.62 | 40.68 | 45.75 | 1:25.06 | 44.33 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618697511603872/) |
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
 <script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

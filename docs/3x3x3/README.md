@@ -33,5 +33,6 @@
 | 3 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 17.33 | 19.62 | 🥉 | [Link](https://www.facebook.com/geoff.hartnell.9/videos/10158249932051694/) |
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
 <script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

@@ -10,5 +10,6 @@
 | [2020-02-10](../3x3x3/2020-02-10.md) | <40 | 22.72 | 24.96 |  | 23.80 | 22.72 | 22.91 | 28.18 | 36.89 | [Link](https://www.facebook.com/bazosoft/videos/10221648844229649/) |
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
 <script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

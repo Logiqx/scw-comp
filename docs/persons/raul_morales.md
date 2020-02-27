@@ -20,5 +20,6 @@
 | [2020-02-24](../oh/2020-02-24.md) | 40+ | 31.07 | 37.84 |  | 38.76 | 40.25 | 34.51 | DNF | 31.07 | |
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
 <script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

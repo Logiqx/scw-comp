@@ -15,5 +15,6 @@
 | [2020-02-10](../4x4x4/2020-02-10.md) | <40 | 1:41.66 | 1:50.60 |  | 1:41.66 | 2:00.45 | 1:49.67 | - | - | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3">
 <script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>
