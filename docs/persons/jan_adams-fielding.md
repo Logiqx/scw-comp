@@ -16,3 +16,13 @@
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-17](../2x2x2/2020-02-17.md) | 40+ | 11.31 | 14.06 |  | 13.12 | 20.48 | 16.65 | 11.39 | 11.31 | [Link](https://www.facebook.com/events/176704156956327/permalink/180508603242549/) |
 
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-86348435-3');
+    </script>

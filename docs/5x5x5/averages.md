@@ -27,3 +27,13 @@
 | 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-24](2020-02-24.md) | 1:30.42 | 🏆 | [Link](https://www.facebook.com/events/538921670053895/permalink/539081640037898/) |
 | 2 | [Pete Lee](../persons/pete_lee.md) | [2020-02-24](2020-02-24.md) | 3:14.66 |  | [Link](https://www.facebook.com/events/538921670053895/permalink/541504683128927/) |
 
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-86348435-3');
+    </script>

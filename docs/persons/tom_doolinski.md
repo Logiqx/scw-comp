@@ -7,3 +7,13 @@
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
 | [2020-02-03](../3x3x3/2020-02-03.md) | <30 | 13.48 | 14.99 |  | 16.47 | 13.48 | 15.03 | [Link](https://www.facebook.com/tom.dooley.35175/videos/1479385075550710/) |
 
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-86348435-3');
+    </script>

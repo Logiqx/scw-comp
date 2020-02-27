@@ -19,3 +19,13 @@
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
 | [2020-02-17](../3bld/2020-02-17.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | [Link](https://www.facebook.com/events/173728187264773/permalink/178385403465718/) |
 
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-86348435-3');
+    </script>

@@ -34,3 +34,13 @@
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-24](../oh/2020-02-24.md) | 40+ | 22.73 | 27.32 | 🥇 | 23.86 | 22.73 | 32.86 | DNF | 25.24 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1619575454849411/) |
 
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-86348435-3');
+    </script>

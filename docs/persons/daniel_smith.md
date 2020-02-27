@@ -27,3 +27,13 @@
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-24](../5x5x5/2020-02-24.md) | 50+ | 2:31.49 | 2:42.21 |  | 2:45.65 | 2:31.49 | 2:49.49 |  |  | [Link](https://www.facebook.com/events/538921670053895/permalink/539390146673714/) |
 
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-86348435-3');
+    </script>

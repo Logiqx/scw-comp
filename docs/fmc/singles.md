@@ -24,3 +24,13 @@
 | 3 | [Adam Robson](../persons/adam_robson.md) | [2020-02-24](2020-02-24.md) | 41 | ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
 | 4 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-02-17](2020-02-17.md) | 42 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
 
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-86348435-3');
+    </script>

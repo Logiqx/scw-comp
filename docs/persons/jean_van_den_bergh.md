@@ -7,3 +7,13 @@
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-24](../3x3x3/2020-02-24.md) | 40+ | 38.55 | 40.14 |  | 44.27 | 43.17 | 38.55 | 39.23 | 40.14 | [Link](https://www.facebook.com/events/2558750947697073/permalink/2564174693821365/) |
 
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-86348435-3');
+    </script>
