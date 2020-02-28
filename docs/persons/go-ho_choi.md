@@ -6,8 +6,8 @@
 | 3x3x3 | 11.23 | 12.74 |
 | 2x2x2 | 3.50 | 4.50 |
 | 5x5x5 | 1:27.39 | 1:30.42 |
-| 3x3x3 BLD | 2:22.99 | DNF |
 | 3x3x3 OH | 22.13 | 25.73 |
+| 3x3x3 BLD | 2:22.99 | DNF |
 
 #### 3x3x3
 
@@ -32,18 +32,18 @@
 | [2020-02-24](../5x5x5/2020-02-24.md) | <40 | **1:27.39** | **1:30.42** | 🏆 | 1:30.49 | 1:31.24 | **1:27.39** | 1:32.09 | 1:29.54 | [Link](https://www.facebook.com/events/538921670053895/permalink/539081640037898/) |
 
 
-#### 3x3x3 Blindfolded
-
-| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
-| :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
-| [2020-02-17](../3bld/2020-02-17.md) | <40 | **2:22.99** | DNF |  | DNF | 2:35.57 | **2:22.99** | |
-
-
 #### 3x3x3 One-Handed
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-24](../oh/2020-02-24.md) | <40 | **22.13** | **25.73** | 🏆 | **22.13** | 22.77 | 35.44 | 24.99 | 29.43 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618631721610451/) |
+
+
+#### 3x3x3 Blindfolded
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-02-17](../3bld/2020-02-17.md) | <40 | **2:22.99** | DNF |  | DNF | 2:35.57 | **2:22.99** | |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

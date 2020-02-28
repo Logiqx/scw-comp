@@ -1,19 +1,19 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Historical Archive
 #### Individuals
-Competitors - [3x3x3](3x3x3/persons.md), [2x2x2](2x2x2/persons.md), [4x4x4](4x4x4/persons.md), [5x5x5](5x5x5/persons.md), [3x3x3 Blindfolded](3bld/persons.md), [3x3x3 One-Handed](oh/persons.md), [3x3x3 Fewest Moves](fmc/persons.md)
+Competitors - [3x3x3](3x3x3/persons.md), [2x2x2](2x2x2/persons.md), [4x4x4](4x4x4/persons.md), [5x5x5](5x5x5/persons.md), [3x3x3 OH](oh/persons.md), [3x3x3 BLD](3bld/persons.md), [3x3x3 FMC](fmc/persons.md)
 
-Best Singles - [3x3x3](3x3x3/singles.md), [2x2x2](2x2x2/singles.md), [4x4x4](4x4x4/singles.md), [5x5x5](5x5x5/singles.md), [3x3x3 Blindfolded](3bld/singles.md), [3x3x3 One-Handed](oh/singles.md), [3x3x3 Fewest Moves](fmc/singles.md)
+Best Singles - [3x3x3](3x3x3/singles.md), [2x2x2](2x2x2/singles.md), [4x4x4](4x4x4/singles.md), [5x5x5](5x5x5/singles.md), [3x3x3 OH](oh/singles.md), [3x3x3 BLD](3bld/singles.md), [3x3x3 FMC](fmc/singles.md)
 
-Best Averages - [3x3x3](3x3x3/averages.md), [2x2x2](2x2x2/averages.md), [4x4x4](4x4x4/averages.md), [5x5x5](5x5x5/averages.md), [3x3x3 Blindfolded](3bld/averages.md), [3x3x3 One-Handed](oh/averages.md)
+Best Averages - [3x3x3](3x3x3/averages.md), [2x2x2](2x2x2/averages.md), [4x4x4](4x4x4/averages.md), [5x5x5](5x5x5/averages.md), [3x3x3 OH](oh/averages.md), [3x3x3 BLD](3bld/averages.md)
 
 #### Podiums
-Seniors - [3x3x3](3x3x3/README.md), [2x2x2](2x2x2/README.md), [4x4x4](4x4x4/README.md), [5x5x5](5x5x5/README.md), [3x3x3 Blindfolded](3bld/README.md), [3x3x3 One-Handed](oh/README.md), [3x3x3 Fewest Moves](fmc/README.md)
+Seniors - [3x3x3](3x3x3/README.md), [2x2x2](2x2x2/README.md), [4x4x4](4x4x4/README.md), [5x5x5](5x5x5/README.md), [3x3x3 OH](oh/README.md), [3x3x3 BLD](3bld/README.md), [3x3x3 FMC](fmc/README.md)
 
 #### Results
-2020-02-24 - [3x3x3](3x3x3/2020-02-24.md), [3x3x3 One-Handed](oh/2020-02-24.md), [5x5x5](5x5x5/2020-02-24.md), [3x3x3 Fewest Moves](fmc/2020-02-24.md)
+2020-02-24 - [3x3x3](3x3x3/2020-02-24.md), [5x5x5](5x5x5/2020-02-24.md), [3x3x3 OH](oh/2020-02-24.md), [3x3x3 FMC](fmc/2020-02-24.md)
 
-2020-02-17 - [3x3x3](3x3x3/2020-02-17.md), [2x2x2](2x2x2/2020-02-17.md), [3x3x3 Blindfolded](3bld/2020-02-17.md), [3x3x3 Fewest Moves](fmc/2020-02-17.md)
+2020-02-17 - [3x3x3](3x3x3/2020-02-17.md), [2x2x2](2x2x2/2020-02-17.md), [3x3x3 BLD](3bld/2020-02-17.md), [3x3x3 FMC](fmc/2020-02-17.md)
 
 2020-02-10 - [3x3x3](3x3x3/2020-02-10.md), [4x4x4](4x4x4/2020-02-10.md)
 

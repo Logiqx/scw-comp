@@ -6,8 +6,8 @@
 | 3x3x3 | 13.37 | 15.23 |
 | 2x2x2 | 4.73 | 6.45 |
 | 5x5x5 | 2:37.21 | 2:48.50 |
-| 3x3x3 BLD | DNF | DNF |
 | 3x3x3 OH | 29.18 | 35.44 |
+| 3x3x3 BLD | DNF | DNF |
 | 3x3x3 FMC | 25 | - |
 
 #### 3x3x3
@@ -33,18 +33,18 @@
 | [2020-02-24](../5x5x5/2020-02-24.md) | 40+ | **2:37.21** | **2:48.50** |  | 2:59.37 | 2:45.13 | 2:55.14 | **2:37.21** | 2:45.24 | |
 
 
-#### 3x3x3 Blindfolded
-
-| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
-| :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
-| [2020-02-17](../3bld/2020-02-17.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | |
-
-
 #### 3x3x3 One-Handed
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-24](../oh/2020-02-24.md) | 40+ | **29.18** | **35.44** | 🥈 | 46.11 | 37.66 | 35.34 | **29.18** | 33.32 | |
+
+
+#### 3x3x3 Blindfolded
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-02-17](../3bld/2020-02-17.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | |
 
 
 #### 3x3x3 Fewest Moves
