@@ -5,7 +5,7 @@
 | -- | --: | --: |
 | 3x3x3 | 22.76 | 32.88 |
 | 2x2x2 | 8.07 | 12.10 |
-| 3x3x3 Blindfolded | DNF | DNF |
+| 3x3x3 BLD | DNF | DNF |
 
 #### 3x3x3
 

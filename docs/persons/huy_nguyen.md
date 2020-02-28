@@ -4,7 +4,7 @@
 | Event | Single | Average |
 | -- | --: | --: |
 | 3x3x3 | 18.10 | 22.69 |
-| 3x3x3 Blindfolded | 2:37.13 | DNF |
+| 3x3x3 BLD | 2:37.13 | DNF |
 
 #### 3x3x3
 
