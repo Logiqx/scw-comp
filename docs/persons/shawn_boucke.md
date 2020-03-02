@@ -12,31 +12,31 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-24](../3x3x3/2020-02-24.md) | <40 | 12.30 | 14.67 |  | 15.97 | 13.10 | 12.30 | 14.93 | 16.33 | [Link](https://www.facebook.com/events/2558750947697073/permalink/2559346840970817/) |
-| [2020-02-17](../3x3x3/2020-02-17.md) | <40 | 13.69 | 14.74 |  | 15.75 | 14.38 | 18.07 | 14.10 | 13.69 | [Link](https://www.facebook.com/events/616423959107229/permalink/617279555688336/) |
-| [2020-02-10](../3x3x3/2020-02-10.md) | <40 | **11.31** | **14.42** | 🏆 | 13.84 | 18.31 | 15.38 | 14.03 | **11.31** | [Link](https://www.facebook.com/ShawnBoucke/videos/3054435071234922/) |
+| [2020-02-18](../3x3x3/2020-02-18.md) | <40 | 12.30 | 14.67 |  | 15.97 | 13.10 | 12.30 | 14.93 | 16.33 | [Link](https://www.facebook.com/events/2558750947697073/permalink/2559346840970817/) |
+| [2020-02-11](../3x3x3/2020-02-11.md) | <40 | 13.69 | 14.74 |  | 15.75 | 14.38 | 18.07 | 14.10 | 13.69 | [Link](https://www.facebook.com/events/616423959107229/permalink/617279555688336/) |
+| [2020-02-04](../3x3x3/2020-02-04.md) | <40 | **11.31** | **14.42** | 🏆 | 13.84 | 18.31 | 15.38 | 14.03 | **11.31** | [Link](https://www.facebook.com/ShawnBoucke/videos/3054435071234922/) |
 
 
 #### 4x4x4
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-10](../4x4x4/2020-02-10.md) | <40 | **47.49** | **49.52** | 🏆 | 48.22 | 49.70 | **47.49** | 1:06.29 | 50.62 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134991299980109/) |
+| [2020-02-04](../4x4x4/2020-02-04.md) | <40 | **47.49** | **49.52** | 🏆 | 48.22 | 49.70 | **47.49** | 1:06.29 | 50.62 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134991299980109/) |
 
 
 #### 3x3x3 One-Handed
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-24](../oh/2020-02-24.md) | <40 | **24.65** | **27.70** |  | 25.42 | **24.65** | 51.36 | 29.41 | 28.28 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1621909717949318/) |
+| [2020-02-18](../oh/2020-02-18.md) | <40 | **24.65** | **27.70** |  | 25.42 | **24.65** | 51.36 | 29.41 | 28.28 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1621909717949318/) |
 
 
 #### 3x3x3 Fewest Moves
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
-| [2020-02-24](../fmc/2020-02-24.md) | <40 | **29** | ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
-| [2020-02-17](../fmc/2020-02-17.md) | <40 | **31** |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
+| [2020-02-18](../fmc/2020-02-18.md) | <40 | **29** | ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
+| [2020-02-11](../fmc/2020-02-11.md) | <40 | **31** |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

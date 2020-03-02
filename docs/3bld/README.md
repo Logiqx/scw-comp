@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Blindfolded Senior Podiums
 
-#### [2020-02-17](2020-02-17.md)
+#### [2020-02-11](2020-02-11.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |

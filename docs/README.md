@@ -11,13 +11,13 @@ Best Averages - [3x3x3](3x3x3/averages.md), [2x2x2](2x2x2/averages.md), [4x4x4](
 Seniors - [3x3x3](3x3x3/README.md), [2x2x2](2x2x2/README.md), [4x4x4](4x4x4/README.md), [5x5x5](5x5x5/README.md), [3x3x3 OH](oh/README.md), [3x3x3 BLD](3bld/README.md), [3x3x3 FMC](fmc/README.md)
 
 #### Results
-2020-02-24 - [3x3x3](3x3x3/2020-02-24.md), [5x5x5](5x5x5/2020-02-24.md), [3x3x3 OH](oh/2020-02-24.md), [3x3x3 FMC](fmc/2020-02-24.md)
+2020-02-18 - [3x3x3](3x3x3/2020-02-18.md), [5x5x5](5x5x5/2020-02-18.md), [3x3x3 OH](oh/2020-02-18.md), [3x3x3 FMC](fmc/2020-02-18.md)
 
-2020-02-17 - [3x3x3](3x3x3/2020-02-17.md), [2x2x2](2x2x2/2020-02-17.md), [3x3x3 BLD](3bld/2020-02-17.md), [3x3x3 FMC](fmc/2020-02-17.md)
+2020-02-11 - [3x3x3](3x3x3/2020-02-11.md), [2x2x2](2x2x2/2020-02-11.md), [3x3x3 BLD](3bld/2020-02-11.md), [3x3x3 FMC](fmc/2020-02-11.md)
 
-2020-02-10 - [3x3x3](3x3x3/2020-02-10.md), [4x4x4](4x4x4/2020-02-10.md)
+2020-02-04 - [3x3x3](3x3x3/2020-02-04.md), [4x4x4](4x4x4/2020-02-04.md)
 
-2020-02-03 - [3x3x3](3x3x3/2020-02-03.md)
+2020-01-28 - [3x3x3](3x3x3/2020-01-28.md)
 
 #### Project Code
 Python code for these reports can be found at [https://github.com/Logiqx/scw-comp](https://github.com/Logiqx/scw-comp)

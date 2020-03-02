@@ -25,7 +25,7 @@
 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 29.32 | 36.59 |
 | [Jang Junho](../persons/jang_junho.md) | 25.40 | 31.63 |
 | [Jason Green](../persons/jason_green.md) | 17.22 | 18.51 |
-| [Jean van den Bergh](../persons/jean_van_den_bergh.md) | 38.55 | 40.14 |
+| [Jean van den Bergh](../persons/jean_van_den_bergh.md) | 38.55 | 40.85 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 14.76 | 18.79 |
 | [Jo Cocco](../persons/jo_cocco.md) | 48.48 | 1:00.84 |
 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | 43.32 | 50.72 |

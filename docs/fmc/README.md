@@ -1,6 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Fewest Moves Senior Podiums
-#### [2020-02-24](2020-02-24.md)
+#### [2020-02-18](2020-02-18.md)
 
 | # | Name | Age | Single | Solution |
 | :--: | -- | :--: | :--: | :--: | -- |
@@ -8,7 +8,7 @@
 | 2 | [David Roche](../persons/david_roche.md) | 40+ | 27 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
 | 3 | [John Cook](../persons/john_cook.md) | 50+ | 55 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
 
-#### [2020-02-17](2020-02-17.md)
+#### [2020-02-11](2020-02-11.md)
 
 | # | Name | Age | Single | Solution |
 | :--: | -- | :--: | :--: | :--: | -- |
