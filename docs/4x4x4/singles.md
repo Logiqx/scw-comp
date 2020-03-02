@@ -26,7 +26,7 @@
 | 1 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-04](2020-02-04.md) | 47.49 | 🏆 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134991299980109/) |
 | 2 | [Pete Lee](../persons/pete_lee.md) | [2020-02-04](2020-02-04.md) | 1:21.93 |  | [Link](https://www.facebook.com/pete.lee.9003/videos/2505517469558727/) |
 | 3 | [Isak Majer](../persons/isak_majer.md) | [2020-02-04](2020-02-04.md) | 1:41.66 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |
-| 4 | [Deansie Brady](../persons/deansie_brady.md) | [2020-02-04](2020-02-04.md) | 2:24.00 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
+| 4 | [Deansie Brady](../persons/deansie_brady.md) | [2020-02-04](2020-02-04.md) | 2:24.93 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

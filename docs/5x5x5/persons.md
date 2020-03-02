@@ -17,7 +17,7 @@
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 2:37.21 | 2:48.50 |
 | [Jae Park](../persons/jae_park.md) | 6:11.08 | DNF |
 | [Michael George](../persons/michael_george.md) | 1:56.90 | 2:04.38 |
-| [Raúl Morales](../persons/raul_morales.md) | 2:17.13 | 2:28.39 |
+| [Raúl Morales](../persons/raul_morales.md) | 2:17.13 | 2:27.99 |
 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 2:36.25 | 2:52.60 |
 
 #### Under 40
