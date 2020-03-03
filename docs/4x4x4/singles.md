@@ -20,7 +20,7 @@
 | 5 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-02-25](2020-02-25.md) | 1:00.53 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/808608119644678/) |
 | 6 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-02-25](2020-02-25.md) | 1:00.69 | 🔥 ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/809463586225798/) |
 | 7 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-02-25](2020-02-25.md) | 1:20.19 | 🔥 ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/808568046315352/) |
-| 8 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-02-25](2020-02-25.md) | 1:23.09 |  | |
+| 8 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-02-25](2020-02-25.md) | 1:23.09 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/810222906149866/) |
 | 9 | [Jae Park](../persons/jae_park.md) | [2020-02-25](2020-02-25.md) | 2:03.34 | ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/806066883232135/) |
 | 10 | [장준호](../persons/장준호.md) | [2020-02-25](2020-02-25.md) | 2:31.31 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/810015492837274/) |
 | 11 | [Jo Cocco](../persons/jo_cocco.md) | [2020-02-25](2020-02-25.md) | 3:01.00 | ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/809394926232664/) |
