@@ -7,7 +7,7 @@
 | -- | --: | --: |
 | [Chris Wright](../persons/chris_wright.md) | 11.65 | 14.53 |
 | [Daniel Smith](../persons/daniel_smith.md) | 27.30 | 28.96 |
-| [David Burchill](../persons/david_burchill.md) | 30.53 | 34.84 |
+| [David Burchill](../persons/david_burchill.md) | 28.50 | 34.84 |
 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | 32.08 | 34.50 |
 | [Lisa Kucala](../persons/lisa_kucala.md) | 25.60 | 30.91 |
 | [Peter Andersson](../persons/peter_andersson.md) | 24.28 | 28.03 |

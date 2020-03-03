@@ -9,7 +9,7 @@
 | 2 | [Peter Andersson](../persons/peter_andersson.md) | [2020-02-18](2020-02-18.md) | 24.28 |  | [Link](https://www.facebook.com/events/2558750947697073/permalink/2563790660526435/) |
 | 3 | [Lisa Kucala](../persons/lisa_kucala.md) | [2020-02-18](2020-02-18.md) | 25.60 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2561750364063798/) |
 | 4 | [Daniel Smith](../persons/daniel_smith.md) | [2020-02-25](2020-02-25.md) | 27.30 | ⚡ | [Link](https://www.facebook.com/events/196320811461109/permalink/196773291415861/) |
-| 5 | [David Burchill](../persons/david_burchill.md) | [2020-02-18](2020-02-18.md) | 30.53 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2563602730545228/) |
+| 5 | [David Burchill](../persons/david_burchill.md) | [2020-02-25](2020-02-25.md) | 28.50 | ⚡ | [Link](https://www.facebook.com/events/196320811461109/permalink/200026074423916/) |
 | 6 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-02-11](2020-02-11.md) | 31.38 | 🔥 ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2143098975836008/) |
 | 7 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | [2020-02-25](2020-02-25.md) | 32.08 |  | [Link](https://www.facebook.com/events/196320811461109/permalink/199774551115735/) |
 
