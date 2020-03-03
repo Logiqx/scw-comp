@@ -1,0 +1,39 @@
+Senior Cubers Worldwide - 5x5x5 Video Competition 2020-03-03
+ 
+Videos in by Mon 9th @ 22:00 PST / Tue 10th @ 06:00 GMT
+ 
+Rules:
+- Entry in one continuous video
+- Cube and timer visible
+- Use the 5 scrambles provided below (* Ao5 / Mo3 / Bo2)
+- Inspection limit of 15 seconds
+
+* Anyone who considers themselves sub-2:30 should do Ao5, sub-4:00 should do Mo3, otherwise Bo2. 
+* Ao5 = average of 5 (discard fastest and slowest solves), Mo3 = mean of 3, Bo2 = best of 2
+
+Process:
+- Post your video directly to the event page
+- Include your age category (e.g. 40+) in the video description
+- Include your times and Ao5 in the video description (2 decimal places)
+- Please write times unambiguously...
+  e.g. 2:19.32 rather than 2:17.32 + 2 and DNF rather than 2:17.32 (DNF)
+- Show if it is your fastest average to date with a 🔥 emoji (*)
+- Show if it is your fastest single to date with a ⚡ emoji (*)
+- Update the results spreadsheet if you have edit access
+
+* You can find your previous bests at https://logiqx.github.io/scw-comp/
+
+Scrambles:
+1. R' Lw' L Bw' Rw Uw R2 U' L2 Rw' Bw' F' U Bw L2 Fw2 Lw Rw' Uw2 L2 Uw Lw' B2 R2 Uw' Lw' U' L' Bw2
+   Dw B R Uw2 Bw2 Rw' F' L2 B' F2 Fw U' B2 F2 Bw' Dw2 L2 Dw2 Bw Lw Uw' Bw Uw' Rw D' F Dw F' U2 F2 B 
+2. F2 Uw' L Fw Rw2 Uw B' Dw' U B2 Uw2 L2 Lw2 U L R2 Fw' Rw' U2 Fw' Lw' B L' Fw F' Lw U' Fw' B D Bw
+   Uw Bw2 Fw Uw2 Rw Bw' Rw U Lw' B' Fw2 L' D Lw Bw2 Uw2 L Fw2 R' Rw Bw Fw2 F2 Rw Fw' Rw2 Dw2 L' B' 
+3. Fw2 Bw D Bw Lw B2 Fw Dw2 L2 Uw2 Fw Lw2 F2 R' D2 F' Dw' Uw Fw F L2 D' Dw2 Rw' Dw R D Dw L2 R Uw'
+   Lw2 Rw2 Fw2 Rw2 L Bw2 Rw' Lw' Uw' D2 R Rw U R Fw2 Bw' B' R D U' B2 U2 B' U F' Lw' F' R2 Rw 
+4. Bw L U2 B2 Lw2 Rw F Dw D B2 Rw' Uw' D Rw2 F2 Dw Lw' U Dw F L Uw' B2 Dw Bw F2 Lw2 Dw2 L2 Fw2 Rw2
+   L Dw Fw' F' R Bw2 D2 L Lw' B2 D2 Bw' B' F2 Dw' Fw' U D2 Bw2 R' U D' Uw' Fw2 Rw' F' Fw Bw U2 
+5. Bw U2 Fw2 R L2 B D Rw' B R2 F Fw Lw2 B R' Lw' Dw2 Fw B F' Bw2 D' L2 B2 Lw2 Bw2 Lw F' D' Lw2 D R'
+   L B Rw Dw2 B' L Uw2 Rw Lw R2 U Rw2 F' Fw' Rw2 Uw2 D' Rw D R2 Dw Rw2 Fw Lw F' B' Uw B2
+
+Results - After your second video submission please request edit access
+https://docs.google.com/spreadsheets/d/13KOi_AJsxl9H19ClT3IpGWZedFBxe07nsOOEx21vq_4/edit#gid=886545740
