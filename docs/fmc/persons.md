@@ -5,14 +5,15 @@
 
 | Name | Single |
 | -- | :--: |
-| [John Cook](../persons/john_cook.md) | 55 |
+| [David Roche](../persons/david_roche.md) | 27 |
+| [John Cook](../persons/john_cook.md) | 45 |
 
 #### Over 40
 
 | Name | Single |
 | -- | :--: |
+| [Andy Nicholls](../persons/andy_nicholls.md) | 48 |
 | [Ben Coppin](../persons/ben_coppin.md) | 26 |
-| [David Roche](../persons/david_roche.md) | 27 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 25 |
 
 #### Under 40
@@ -21,8 +22,9 @@
 | -- | :--: |
 | [Adam Robson](../persons/adam_robson.md) | 41 |
 | [Brooke Persoon](../persons/brooke_persoon.md) | 42 |
-| [Ed Connell](../persons/ed_connell.md) | 31 |
-| [Shawn Boucké](../persons/shawn_boucke.md) | 29 |
+| [Ed Connell](../persons/ed_connell.md) | 30 |
+| [Go-ho Choi](../persons/go-ho_choi.md) | 41 |
+| [Shawn Boucké](../persons/shawn_boucke.md) | 25 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

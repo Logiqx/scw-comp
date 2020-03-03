@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4x4x4 Senior Podiums
+#### [2020-02-25](2020-02-25.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Michael George](../persons/michael_george.md) | 40+ | 48.44 | 53.30 | 🏆 🥇 🔥 | [Link](https://www.facebook.com/events/805797596592397/permalink/805925283246295/) |
+| 2 | [Chris Wright](../persons/chris_wright.md) | 50+ | 50.41 | 56.44 | 🥈 | [Link](https://www.facebook.com/events/805797596592397/permalink/808666752972148/) |
+| 3 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 54.60 | 1:04.99 | 🥉 | [Link](https://www.facebook.com/events/805797596592397/permalink/809541269551363/) |
+
 
 
 #### [2020-02-04](2020-02-04.md)

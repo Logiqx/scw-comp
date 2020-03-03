@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 2x2x2 Senior Podiums
+#### [2020-02-25](2020-02-25.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Michael George](../persons/michael_george.md) | 40+ | 3.35 | 5.08 | 🥇⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2972679519460212/) |
+| 2 | [Chris Wright](../persons/chris_wright.md) | 50+ | 4.39 | 5.17 | 🥈 | [Link](https://www.facebook.com/events/2972213492840148/permalink/2980258662035631/) |
+| 3 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 40+ | 3.53 | 5.83 | 🥉 | [Link](https://www.facebook.com/events/2972213492840148/permalink/2982133431848154/) |
+
 
 #### [2020-02-11](2020-02-11.md)
 
