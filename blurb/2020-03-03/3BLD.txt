@@ -27,8 +27,6 @@ Scrambles:
 1. R' D' L2 D2 L2 U' B2 U' F2 D2 R2 U R B' U' R2 D' F D2 L 
 2. B' F2 D' R2 U' F2 R2 F2 D L2 D' L F' R2 D2 L' R U L' 
 3. U' F2 D F2 D2 R2 D F2 U2 R2 U F' D' U B' D F2 L D' B R 
-4. D' F2 R2 U' F2 U' F2 R2 U2 L2 D F2 R' U2 B F L' D' R D2 
-5. R D2 R' B2 F2 D2 B2 R F2 L' U2 B' L B L' F2 D2 F' D'
 
 Results - After your second video submission please request edit access
 https://docs.google.com/spreadsheets/d/13KOi_AJsxl9H19ClT3IpGWZedFBxe07nsOOEx21vq_4/edit#gid=1333682749
