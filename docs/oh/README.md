@@ -1,6 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 One-Handed Senior Podiums
 
+
 #### [2020-02-18](2020-02-18.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

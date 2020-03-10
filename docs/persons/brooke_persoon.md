@@ -3,14 +3,16 @@
 
 | Event | Single | Average |
 | -- | --: | --: |
-| 3x3x3 | 49.65 | 58.52 |
+| 3x3x3 | 39.40 | 47.49 |
 | 2x2x2 | 10.73 | 13.95 |
+| 3x3x3 BLD | 18:05.78 | DNF |
 | 3x3x3 FMC | 42 | - |
 
 #### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-03-03](../3x3x3/2020-03-03.md) | <40 | **39.40** | **47.49** | 🔥 ⚡ | 48.69 | 51.48 | 42.29 | **39.40** | 1:07.32 | [Link](https://www.facebook.com/events/241721610185997/permalink/245749193116572/) |
 | [2020-02-11](../3x3x3/2020-02-11.md) | <40 | **49.65** | **58.52** |  | 59.01 | 56.58 | 59.96 | **49.65** | DNF | [Link](https://www.facebook.com/events/616423959107229/permalink/621392298610395/) |
 
 
@@ -19,6 +21,13 @@
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-11](../2x2x2/2020-02-11.md) | <40 | **10.73** | **13.95** |  | 12.46 | 17.37 | DNF | 12.03 | **10.73** | [Link](https://www.facebook.com/events/176704156956327/permalink/181292296497513/) |
+
+
+#### 3x3x3 Blindfolded
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-03-03](../3bld/2020-03-03.md) | <40 | **18:05.78** | DNF |  | **18:05.78** | DNF | DNF | [Link](https://www.facebook.com/events/186820176097844/permalink/191609515618910/) |
 
 
 #### 3x3x3 Fewest Moves

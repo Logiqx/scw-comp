@@ -7,6 +7,7 @@
 | -- | :--: |
 | [David Roche](../persons/david_roche.md) | 27 |
 | [John Cook](../persons/john_cook.md) | 45 |
+| [Александр Гилка](../persons/александр_гилка.md) | 23 |
 
 #### Over 40
 
@@ -15,6 +16,7 @@
 | [Andy Nicholls](../persons/andy_nicholls.md) | 48 |
 | [Ben Coppin](../persons/ben_coppin.md) | 26 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 25 |
+| [Michael George](../persons/michael_george.md) | 45 |
 
 #### Under 40
 

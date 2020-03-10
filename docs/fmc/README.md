@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Fewest Moves Senior Podiums
+#### [2020-03-03](2020-03-03.md)
+
+| # | Name | Age | Single | Solution |
+| :--: | -- | :--: | :--: | :--: | -- |
+| 1 | [Александр Гилка](../persons/александр_гилка.md) | 50+ | 23 | [Link](https://www.facebook.com/events/235909040903027/permalink/236081277552470/) |
+| 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 28 | [Link](https://www.facebook.com/events/235909040903027/permalink/239951957165402/) |
+| 3 | [David Roche](../persons/david_roche.md) | 50+ | 30 | [Link](https://www.facebook.com/events/235909040903027/permalink/239537177206880/) |
+
 #### [2020-02-25](2020-02-25.md)
 
 | # | Name | Age | Single | Solution |

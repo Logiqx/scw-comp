@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 5x5x5 Senior Podiums
+#### [2020-03-03](2020-03-03.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Chris Wright](../persons/chris_wright.md) | 50+ | 1:42.56 | 1:46.58 | 🥇 | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639952702955113/) |
+| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 1:47.72 | 1:54.70 | 🥈 | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639058019711248/) |
+| 3 | [Michael George](../persons/michael_george.md) | 40+ | 1:57.62 | 2:03.46 | 🥉 🔥 | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639967129620337/) |
+
 
 #### [2020-02-18](2020-02-18.md)
 

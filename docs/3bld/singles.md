@@ -11,13 +11,15 @@
 | 4 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-11](2020-02-11.md) | 2:00.58 |  | [Link](https://www.facebook.com/events/173728187264773/permalink/174217337215858/) |
 | 5 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-02-11](2020-02-11.md) | 2:16.71 |  | [Link](https://www.facebook.com/events/173728187264773/permalink/174101907227401/) |
 | 6 | [Huy Nguyen](../persons/huy_nguyen.md) | [2020-02-11](2020-02-11.md) | 2:37.13 |  | [Link](https://www.facebook.com/events/173728187264773/permalink/178453600125565/) |
-| 7 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-02-11](2020-02-11.md) | 4:06.00 |  | [Link](https://www.facebook.com/events/173728187264773/permalink/178131816824410/) |
+| 7 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-03-03](2020-03-03.md) | 2:39.49 | 🥉 ⚡️ | [Link](https://www.facebook.com/events/186820176097844/permalink/190947509018444/) |
+| 8 | [Stuart Salmon](../persons/stuart_salmon.md) | [2020-03-03](2020-03-03.md) | 3:24.37 | ⚡ | [Link](https://www.facebook.com/events/186820176097844/permalink/188740669239128/) |
 
 #### Under 40
 
 | # | Name | Date | Single | Awards | Video |
 | :--: | -- | :--: | --: | :--: | -- |
 | 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-11](2020-02-11.md) | 2:22.99 |  | |
+| 2 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-03-03](2020-03-03.md) | 18:05.78 |  | [Link](https://www.facebook.com/events/186820176097844/permalink/191609515618910/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

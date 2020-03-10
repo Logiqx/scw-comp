@@ -61,6 +61,7 @@
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
+| [2020-03-03](../fmc/2020-03-03.md) | 40+ | 28 | 🥈 | [Link](https://www.facebook.com/events/235909040903027/permalink/239951957165402/) |
 | [2020-02-25](../fmc/2020-02-25.md) | 40+ | 28 | 🥇 | [Link](https://www.facebook.com/events/215751886207638/permalink/216177539498406/) |
 | [2020-02-18](../fmc/2020-02-18.md) | 40+ | 26 | 🏆 🥇 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
 | [2020-02-11](../fmc/2020-02-11.md) | 40+ | **25** | 🏆 🥇 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
