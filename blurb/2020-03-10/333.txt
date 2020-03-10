@@ -1,0 +1,33 @@
+Senior Cubers Worldwide - 3x3x3 Video Competition 2020-03-10
+ 
+Videos in by Mon 16th @ 22:00 PST / Tue 17th @ 06:00 GMT
+ 
+Rules:
+- Entry in one continuous video
+- Cube and timer visible
+- Use the 5 scrambles provided below (* Ao5)
+- Inspection limit of 15 seconds
+ 
+* Ao5 = average of 5 (discard fastest and slowest solves)
+
+Process:
+- Post your video directly to the event page
+- Include your age category (e.g. 40+) in the video description
+- Include your times and Ao5 in the video description (2 decimal places)
+- Please write times unambiguously...
+  e.g. 19.32 rather than 17.32 + 2 and DNF rather than 17.32 (DNF)
+- Show if it is your fastest average to date with a 🔥 emoji (*)
+- Show if it is your fastest single to date with a ⚡ emoji (*)
+- Update the results spreadsheet if you have edit access
+
+* You can find your previous bests at https://logiqx.github.io/scw-comp/
+
+Scrambles:
+1. U2 R' D2 B2 U2 B2 L2 D2 R B2 U2 L' U' L2 B U R F2 R D' 
+2. L' D' R' F2 R F2 U2 B2 L' F2 U2 L2 D L U2 F L2 D2 L 
+3. F' L U F2 D R2 D2 L2 B2 U L2 D B2 R' B2 F L F2 L F 
+4. F2 U2 L F2 U2 R' F2 R2 F2 R F2 D' L2 D L2 U B D' R F2 
+5. B L2 B' R F' R L2 U B2 L' B2 U2 R' U2 L D2 L B2 D2 R' D
+
+Results - After your second video submission please request edit access
+https://docs.google.com/spreadsheets/d/1IPtLK7jQLeuXULs0VGQdVtCODQ6TmhuUryhSlmgxqa0/edit#gid=259673675
