@@ -40,7 +40,7 @@
 | 21 | [Tim Salay](../persons/tim_salay.md) | [2020-03-03](2020-03-03.md) | 36.06 |  | [Link](https://www.facebook.com/events/241721610185997/permalink/242622543429237/) |
 | 22 | [Jean van den Bergh](../persons/jean_van_den_bergh.md) | [2020-02-18](2020-02-18.md) | 40.85 |  | [Link](https://www.facebook.com/events/2558750947697073/permalink/2564174693821365/) |
 | 23 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | [2020-02-04](2020-02-04.md) | 50.72 | 🔥 | [Link](https://www.facebook.com/joshua.m.woodward.9/videos/10157593929510342/) |
-| 24 | [Jo Cocco](../persons/jo_cocco.md) | [2020-03-03](2020-03-03.md) | 58.00 | 🔥 | [Link](https://www.facebook.com/events/241721610185997/permalink/245802506444574/) |
+| 24 | [Jo Cocco](../persons/jo_cocco.md) | [2020-03-03](2020-03-03.md) | 58.76 | 🔥 | [Link](https://www.facebook.com/events/241721610185997/permalink/245802506444574/) |
 
 #### Under 40
 

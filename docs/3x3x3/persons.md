@@ -28,7 +28,7 @@
 | [Jason Green](../persons/jason_green.md) | 17.22 | 18.51 |
 | [Jean van den Bergh](../persons/jean_van_den_bergh.md) | 38.55 | 40.85 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 14.76 | 18.79 |
-| [Jo Cocco](../persons/jo_cocco.md) | 39.49 | 58.00 |
+| [Jo Cocco](../persons/jo_cocco.md) | 39.49 | 58.76 |
 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | 43.32 | 50.72 |
 | [Mark Charlesworth](../persons/mark_charlesworth.md) | 27.78 | 34.14 |
 | [Michael George](../persons/michael_george.md) | 12.10 | 14.46 |
