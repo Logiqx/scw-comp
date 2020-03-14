@@ -48,9 +48,9 @@
 | -- | --: | --: |
 | [Adam Robson](../persons/adam_robson.md) | 20.49 | 23.72 |
 | [Brooke Persoon](../persons/brooke_persoon.md) | 39.40 | 47.49 |
-| [Deansie Brady](../persons/deansie_brady.md) | 21.03 | 24.65 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | 11.23 | 12.74 |
 | [Isak Majer](../persons/isak_majer.md) | 17.30 | 19.08 |
+| [Jamie Brady (Deansie)](../persons/jamie_brady.md) | 21.03 | 24.65 |
 | [Matthew Hart](../persons/matthew_hart.md) | 22.72 | 24.96 |
 | [Pete Lee](../persons/pete_lee.md) | 17.18 | 20.89 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | 11.31 | 13.73 |

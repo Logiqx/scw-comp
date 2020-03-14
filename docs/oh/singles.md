@@ -22,7 +22,7 @@
 | 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-18](2020-02-18.md) | 22.13 | 🏆 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618631721610451/) |
 | 2 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-18](2020-02-18.md) | 24.65 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1621909717949318/) |
 | 3 | [Pete Lee](../persons/pete_lee.md) | [2020-02-18](2020-02-18.md) | 39.61 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1622571537883136/) |
-| 4 | [Deansie Brady](../persons/deansie_brady.md) | [2020-02-18](2020-02-18.md) | 39.68 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618918598248430/) |
+| 4 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-02-18](2020-02-18.md) | 39.68 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618918598248430/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

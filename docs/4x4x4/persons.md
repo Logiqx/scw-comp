@@ -31,9 +31,9 @@
 | Name | Single | Average |
 | -- | --: | --: |
 | [Adam Robson](../persons/adam_robson.md) | 2:24.65 | DNF |
-| [Deansie Brady](../persons/deansie_brady.md) | 2:24.93 | 2:38.28 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | 50.85 | 53.40 |
 | [Isak Majer](../persons/isak_majer.md) | 1:41.66 | 1:50.60 |
+| [Jamie Brady (Deansie)](../persons/jamie_brady.md) | 2:24.93 | 2:38.28 |
 | [Pete Lee](../persons/pete_lee.md) | 1:17.53 | 1:22.57 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | 47.49 | 49.52 |
 

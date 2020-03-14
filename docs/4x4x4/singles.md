@@ -35,7 +35,7 @@
 | 3 | [Pete Lee](../persons/pete_lee.md) | [2020-02-25](2020-02-25.md) | 1:17.53 | 🔥 ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/808919202946903/) |
 | 4 | [Isak Majer](../persons/isak_majer.md) | [2020-02-04](2020-02-04.md) | 1:41.66 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |
 | 5 | [Adam Robson](../persons/adam_robson.md) | [2020-02-25](2020-02-25.md) | 2:24.65 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/809621066210050/) |
-| 6 | [Deansie Brady](../persons/deansie_brady.md) | [2020-02-04](2020-02-04.md) | 2:24.93 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
+| 6 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-02-04](2020-02-04.md) | 2:24.93 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -51,7 +51,7 @@
 | 3 | [Isak Majer](../persons/isak_majer.md) | [2020-03-03](2020-03-03.md) | 19.08 | 🔥 | [Link](https://www.facebook.com/events/241721610185997/permalink/244931956531629/) |
 | 4 | [Pete Lee](../persons/pete_lee.md) | [2020-02-11](2020-02-11.md) | 20.89 | 🔥 | [Link](https://www.facebook.com/events/616423959107229/permalink/619925258757099/) |
 | 5 | [Adam Robson](../persons/adam_robson.md) | [2020-03-03](2020-03-03.md) | 23.72 | 🔥 ⚡ | [Link](https://www.facebook.com/events/241721610185997/permalink/244428349915323/) |
-| 6 | [Deansie Brady](../persons/deansie_brady.md) | [2020-01-28](2020-01-28.md) | 24.65 |  | [Link](https://www.facebook.com/Magnacube.askme/videos/1047021635647834/) |
+| 6 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-01-28](2020-01-28.md) | 24.65 |  | [Link](https://www.facebook.com/Magnacube.askme/videos/1047021635647834/) |
 | 7 | [Matthew Hart](../persons/matthew_hart.md) | [2020-02-04](2020-02-04.md) | 24.96 |  | [Link](https://www.facebook.com/bazosoft/videos/10221648844229649/) |
 | 8 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-03-03](2020-03-03.md) | 47.49 | 🔥 ⚡ | [Link](https://www.facebook.com/events/241721610185997/permalink/245749193116572/) |
 

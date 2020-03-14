@@ -19,8 +19,8 @@
 
 | Name | Single | Average |
 | -- | --: | --: |
-| [Deansie Brady](../persons/deansie_brady.md) | 39.68 | 49.41 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | 22.13 | 25.73 |
+| [Jamie Brady (Deansie)](../persons/jamie_brady.md) | 39.68 | 49.41 |
 | [Pete Lee](../persons/pete_lee.md) | 39.61 | 49.22 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | 24.65 | 27.70 |
 
