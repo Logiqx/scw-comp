@@ -1,26 +1,34 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 One-Handed Competitors
 
+#### Over 50
+
+| Name | Single | Average |
+| -- | --: | --: |
+| [Chris Wright](../persons/chris_wright.md) | 35.64 | 39.76 |
+| [Peter Douthwright](../persons/peter_douthwright.md) | 1:27.21 | 1:57.43 |
+
 #### Over 40
 
 | Name | Single | Average |
 | -- | --: | --: |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40.68 | 43.90 |
-| [Geoff Hartnell](../persons/geoff_hartnell.md) | 30.99 | 37.28 |
+| [Geoff Hartnell](../persons/geoff_hartnell.md) | 28.58 | 35.10 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 29.18 | 35.44 |
-| [Jo Cocco](../persons/jo_cocco.md) | 2:06.95 | 2:27.97 |
-| [Michael George](../persons/michael_george.md) | 22.73 | 27.32 |
+| [Jeremy Duehring](../persons/jeremy_duehring.md) | 38.20 | 50.98 |
+| [Jo Cocco](../persons/jo_cocco.md) | 1:37.14 | 1:45.62 |
+| [Michael George](../persons/michael_george.md) | 20.92 | 22.57 |
 | [Raúl Morales](../persons/raul_morales.md) | 31.07 | 37.84 |
-| [Thierry Boisivon](../persons/thierry_boisivon.md) | 25.53 | 38.24 |
+| [Thierry Boisivon](../persons/thierry_boisivon.md) | 25.02 | 34.80 |
 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 31.59 | 38.24 |
-| [장준호](../persons/장준호.md) | 1:07.54 | 1:20.62 |
+| [장준호](../persons/장준호.md) | 1:00.42 | 1:18.58 |
 
 #### Under 40
 
 | Name | Single | Average |
 | -- | --: | --: |
 | [Go-ho Choi](../persons/go-ho_choi.md) | 22.13 | 25.73 |
-| [Jamie Brady (Deansie)](../persons/jamie_brady.md) | 39.68 | 49.41 |
+| [Jamie Brady (Deansie)](../persons/jamie_brady.md) | 39.68 | 45.72 |
 | [Pete Lee](../persons/pete_lee.md) | 39.61 | 49.22 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | 24.65 | 27.70 |
 

@@ -6,21 +6,22 @@
 | # | Name | Date | Single | Awards | Video |
 | :--: | -- | :--: | --: | :--: | -- |
 | 1 | [Chris Wright](../persons/chris_wright.md) | [2020-02-25](2020-02-25.md) | 11.65 | 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/196320811461109/permalink/198268351266355/) |
-| 2 | [Peter Andersson](../persons/peter_andersson.md) | [2020-02-18](2020-02-18.md) | 24.28 |  | [Link](https://www.facebook.com/events/2558750947697073/permalink/2563790660526435/) |
-| 3 | [Lisa Kucala](../persons/lisa_kucala.md) | [2020-02-18](2020-02-18.md) | 25.60 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2561750364063798/) |
-| 4 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-03](2020-03-03.md) | 26.55 | ⚡ | [Link](https://www.facebook.com/events/241721610185997/permalink/245814266443398/) |
-| 5 | [David Burchill](../persons/david_burchill.md) | [2020-02-25](2020-02-25.md) | 28.50 | ⚡ | [Link](https://www.facebook.com/events/196320811461109/permalink/200026074423916/) |
-| 6 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-02-11](2020-02-11.md) | 31.38 | 🔥 ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2143098975836008/) |
-| 7 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | [2020-02-25](2020-02-25.md) | 32.08 |  | [Link](https://www.facebook.com/events/196320811461109/permalink/199774551115735/) |
+| 2 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-03-10](2020-03-10.md) | 15.57 |  | [Link](https://www.facebook.com/events/164742401163863/permalink/165962107708559/) |
+| 3 | [Peter Andersson](../persons/peter_andersson.md) | [2020-02-18](2020-02-18.md) | 24.28 |  | [Link](https://www.facebook.com/events/2558750947697073/permalink/2563790660526435/) |
+| 4 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-10](2020-03-10.md) | 25.18 | ⚡ | [Link](https://www.facebook.com/events/164742401163863/permalink/165165907788179/) |
+| 5 | [Lisa Kucala](../persons/lisa_kucala.md) | [2020-02-18](2020-02-18.md) | 25.60 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2561750364063798/) |
+| 6 | [David Burchill](../persons/david_burchill.md) | [2020-02-25](2020-02-25.md) | 28.50 | ⚡ | [Link](https://www.facebook.com/events/196320811461109/permalink/200026074423916/) |
+| 7 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-02-11](2020-02-11.md) | 31.38 | 🔥 ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2143098975836008/) |
+| 8 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | [2020-02-25](2020-02-25.md) | 32.08 |  | [Link](https://www.facebook.com/events/196320811461109/permalink/199774551115735/) |
 
 #### Over 40
 
 | # | Name | Date | Single | Awards | Video |
 | :--: | -- | :--: | --: | :--: | -- |
-| 1 | [Michael George](../persons/michael_george.md) | [2020-02-04](2020-02-04.md) | 12.10 | 🥇 ⚡ | [Link](https://www.facebook.com/michael.george.545/videos/10212925298047536/) |
+| 1 | [Michael George](../persons/michael_george.md) | [2020-03-10](2020-03-10.md) | 11.64 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/164742401163863/permalink/164839624487474/) |
 | 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-01-28](2020-01-28.md) | 13.37 | 🥈 | [Link](https://www.facebook.com/grzegorz.pacewicz/videos/2843577535688602/) |
 | 3 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-18](2020-02-18.md) | 14.08 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2559165057655662/) |
-| 4 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-03-03](2020-03-03.md) | 14.34 | 🥉 ⚡ | [Link](https://www.facebook.com/events/241721610185997/permalink/243308193360672/) |
+| | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-03-10](2020-03-10.md) | 14.08 | ⚡ | [Link](https://www.facebook.com/events/164742401163863/permalink/166460117658758/) |
 | 5 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-02-11](2020-02-11.md) | 14.76 | 🔥 ⚡ | [Link](https://www.facebook.com/events/616423959107229/permalink/618639688885656/) |
 | 6 | [Raúl Morales](../persons/raul_morales.md) | [2020-02-18](2020-02-18.md) | 15.73 |  | |
 | 7 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-03-03](2020-03-03.md) | 15.95 | ⚡ | [Link](https://www.facebook.com/events/241721610185997/permalink/242568600101298/) |
@@ -35,11 +36,11 @@
 | 16 | [Robert Summerfield](../persons/robert_summerfield.md) | [2020-02-04](2020-02-04.md) | 23.10 | ⚡ | [Link](https://www.facebook.com/rob.summerfield.33/videos/10157696250581071/) |
 | 17 | [Jang Junho](../persons/jang_junho.md) | [2020-02-11](2020-02-11.md) | 25.40 |  | [Link](https://www.facebook.com/events/616423959107229/permalink/618758058873819/) |
 | 18 | [Mark Charlesworth](../persons/mark_charlesworth.md) | [2020-03-03](2020-03-03.md) | 27.78 | ⚡ | [Link](https://www.facebook.com/events/241721610185997/permalink/245500929808065/) |
-| 19 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-02-11](2020-02-11.md) | 29.32 | 🔥 ⚡ | [Link](https://www.facebook.com/events/616423959107229/permalink/620581805358111/) |
-| 20 | [Tim Salay](../persons/tim_salay.md) | [2020-03-03](2020-03-03.md) | 32.46 |  | [Link](https://www.facebook.com/events/241721610185997/permalink/242622543429237/) |
+| 19 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-03-10](2020-03-10.md) | 29.21 | ⚡ | [Link](https://www.facebook.com/events/164742401163863/permalink/167427024228734/) |
+| 20 | [Tim Salay](../persons/tim_salay.md) | [2020-03-10](2020-03-10.md) | 31.68 | ⚡ | [Link](https://www.facebook.com/events/164742401163863/permalink/164951044476332/) |
 | 21 | [Michael Policastro](../persons/michael_policastro.md) | [2020-01-28](2020-01-28.md) | 34.15 |  | [Link](https://www.facebook.com/100008831955388/videos/2261201300850913/) |
-| 22 | [Jean van den Bergh](../persons/jean_van_den_bergh.md) | [2020-02-18](2020-02-18.md) | 38.55 |  | [Link](https://www.facebook.com/events/2558750947697073/permalink/2564174693821365/) |
-| 23 | [Jo Cocco](../persons/jo_cocco.md) | [2020-02-25](2020-02-25.md) | 39.49 | ⚡ | [Link](https://www.facebook.com/events/196320811461109/permalink/198113274615196/) |
+| 22 | [Jo Cocco](../persons/jo_cocco.md) | [2020-03-10](2020-03-10.md) | 37.21 | 🔥 ⚡ | [Link](https://www.facebook.com/events/164742401163863/permalink/168022254169211/) |
+| 23 | [Jean van den Bergh](../persons/jean_van_den_bergh.md) | [2020-02-18](2020-02-18.md) | 38.55 |  | [Link](https://www.facebook.com/events/2558750947697073/permalink/2564174693821365/) |
 | 24 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | [2020-01-28](2020-01-28.md) | 43.32 |  | [Link](https://www.facebook.com/joshua.m.woodward.9/videos/10157583486955342/) |
 
 #### Under 40
@@ -60,7 +61,7 @@
 | # | Name | Date | Single | Awards | Video |
 | :--: | -- | :--: | --: | :--: | -- |
 | 1 | [Tom Doolinski](../persons/tom_doolinski.md) | [2020-01-28](2020-01-28.md) | 13.48 |  | [Link](https://www.facebook.com/tom.dooley.35175/videos/1479385075550710/) |
-| 2 | [‎Raimon Schaap](../persons/raimon_schaap.md) | [2020-03-03](2020-03-03.md) | 17.08 |  | [Link](https://www.facebook.com/events/241721610185997/permalink/243001870057971/) |
+| 2 | [Raimon Schaap](../persons/raimon_schaap.md) | [2020-03-10](2020-03-10.md) | 16.61 | ⚡ | [Link](https://www.facebook.com/events/164742401163863/permalink/164788741159229/) |
 | 3 | [Peyton Blevins](../persons/peyton_blevins.md) | [2020-01-28](2020-01-28.md) | 28.16 |  | [Link](https://www.facebook.com/TheNewProcess/videos/3093917170665620/) |
 
 #### Under 20

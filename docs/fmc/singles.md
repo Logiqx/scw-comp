@@ -6,15 +6,15 @@
 | # | Name | Date | Single | Awards | Solution |
 | :--: | -- | :--: | :--: | :--: | -- |
 | 1 | [Александр Гилка](../persons/александр_гилка.md) | [2020-03-03](2020-03-03.md) | 23 | 🏆 🥇 | [Link](https://www.facebook.com/events/235909040903027/permalink/236081277552470/) |
-| 2 | [David Roche](../persons/david_roche.md) | [2020-02-18](2020-02-18.md) | 27 | 🥈 ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
+| 2 | [David Roche](../persons/david_roche.md) | [2020-03-10](2020-03-10.md) | 26 | 🥉 ⚡ | [Link](https://www.facebook.com/events/640532176759268/permalink/640978746714611/) |
 | 3 | [John Cook](../persons/john_cook.md) | [2020-02-25](2020-02-25.md) | 45 | 🥉 ⚡ | [Link](https://www.facebook.com/events/215751886207638/permalink/217422122707281/) |
 
 #### Over 40
 
 | # | Name | Date | Single | Awards | Solution |
 | :--: | -- | :--: | :--: | :--: | -- |
-| 1 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-02-11](2020-02-11.md) | 25 | 🏆 🥇 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
-| 2 | [Ben Coppin](../persons/ben_coppin.md) | [2020-02-11](2020-02-11.md) | 26 | 🥈 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
+| 1 | [Ben Coppin](../persons/ben_coppin.md) | [2020-03-10](2020-03-10.md) | 25 | 🥈 ⚡ | [Link](https://www.facebook.com/events/640532176759268/permalink/641063233372829/) |
+| | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-02-11](2020-02-11.md) | 25 | 🏆 🥇 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
 | 3 | [Michael George](../persons/michael_george.md) | [2020-03-03](2020-03-03.md) | 45 |  | [Link](https://www.facebook.com/events/235909040903027/permalink/237153424111922/) |
 | 4 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-25](2020-02-25.md) | 48 |  | [Link](https://www.facebook.com/events/215751886207638/permalink/216411276141699/) |
 

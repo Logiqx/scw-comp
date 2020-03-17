@@ -1,19 +1,27 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 One-Handed Averages
 
+#### Over 50
+
+| # | Name | Date | Average | Awards | Video |
+| :--: | -- | :--: | --: | :--: | -- |
+| 1 | [Chris Wright](../persons/chris_wright.md) | [2020-03-10](2020-03-10.md) | 39.76 |  | [Link](https://www.facebook.com/events/684510792316675/permalink/685546418879779/) |
+| 2 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-10](2020-03-10.md) | 1:57.43 |  | [Link](https://www.facebook.com/events/684510792316675/permalink/688822721885482/) |
+
 #### Over 40
 
 | # | Name | Date | Average | Awards | Video |
 | :--: | -- | :--: | --: | :--: | -- |
-| 1 | [Michael George](../persons/michael_george.md) | [2020-02-18](2020-02-18.md) | 27.32 | 🥇 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1619575454849411/) |
-| 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-02-18](2020-02-18.md) | 35.44 | 🥈 | |
-| 3 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-02-18](2020-02-18.md) | 37.28 | 🥉 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1623480064458950/) |
-| 4 | [Raúl Morales](../persons/raul_morales.md) | [2020-02-18](2020-02-18.md) | 37.84 |  | |
-| 5 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-02-18](2020-02-18.md) | 38.24 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1621555787984711/) |
-| | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-02-18](2020-02-18.md) | 38.24 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1622459904560966/) |
+| 1 | [Michael George](../persons/michael_george.md) | [2020-03-10](2020-03-10.md) | 22.57 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/684510792316675/permalink/684649052302849/) |
+| 2 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-03-10](2020-03-10.md) | 34.80 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/684510792316675/permalink/687069845394103/) |
+| 3 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-03-10](2020-03-10.md) | 35.10 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/684510792316675/permalink/686046518829769/) |
+| 4 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-02-18](2020-02-18.md) | 35.44 | 🥈 | |
+| 5 | [Raúl Morales](../persons/raul_morales.md) | [2020-02-18](2020-02-18.md) | 37.84 |  | |
+| 6 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-02-18](2020-02-18.md) | 38.24 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1622459904560966/) |
 | 7 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-18](2020-02-18.md) | 43.90 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618697511603872/) |
-| 8 | [장준호](../persons/장준호.md) | [2020-02-18](2020-02-18.md) | 1:20.62 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1623943337745956/) |
-| 9 | [Jo Cocco](../persons/jo_cocco.md) | [2020-02-18](2020-02-18.md) | 2:27.97 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1624311164375840/) |
+| 8 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-03-10](2020-03-10.md) | 50.98 |  | [Link](https://www.facebook.com/events/684510792316675/permalink/688923495208738/) |
+| 9 | [장준호](../persons/장준호.md) | [2020-03-10](2020-03-10.md) | 1:18.58 | 🔥 ⚡ | [Link](https://www.facebook.com/events/684510792316675/permalink/688783208556100/) |
+| 10 | [Jo Cocco](../persons/jo_cocco.md) | [2020-03-10](2020-03-10.md) | 1:45.62 | 🔥 ⚡ | [Link](https://www.facebook.com/events/164742401163863/permalink/168022254169211/) |
 
 #### Under 40
 
@@ -21,8 +29,8 @@
 | :--: | -- | :--: | --: | :--: | -- |
 | 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-18](2020-02-18.md) | 25.73 | 🏆 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618631721610451/) |
 | 2 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-18](2020-02-18.md) | 27.70 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1621909717949318/) |
-| 3 | [Pete Lee](../persons/pete_lee.md) | [2020-02-18](2020-02-18.md) | 49.22 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1622571537883136/) |
-| 4 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-02-18](2020-02-18.md) | 49.41 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618918598248430/) |
+| 3 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-03-10](2020-03-10.md) | 45.72 | 🔥 | [Link](https://www.facebook.com/events/684510792316675/permalink/687277482040006/) |
+| 4 | [Pete Lee](../persons/pete_lee.md) | [2020-02-18](2020-02-18.md) | 49.22 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1622571537883136/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -37,6 +37,12 @@
 | 4 | [Pete Lee](../persons/pete_lee.md) | [2020-02-11](2020-02-11.md) | 9.80 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/179850233308386/) |
 | 5 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-02-11](2020-02-11.md) | 13.95 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/181292296497513/) |
 
+#### Under 30
+
+| # | Name | Date | Average | Awards | Video |
+| :--: | -- | :--: | --: | :--: | -- |
+| 1 | [Raimon Schaap](../persons/raimon_schaap.md) | [2020-03-10](2020-03-10.md) | 7.18 |  | [Link](https://www.facebook.com/events/654143022005686/permalink/657641461655842/) |
+
 #### Under 20
 
 | # | Name | Date | Average | Awards | Video |

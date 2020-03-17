@@ -6,7 +6,7 @@
 | # | Name | Date | Single | Awards | Video |
 | :--: | -- | :--: | --: | :--: | -- |
 | 1 | [Chris Wright](../persons/chris_wright.md) | [2020-02-25](2020-02-25.md) | 4.39 | 🥈 | [Link](https://www.facebook.com/events/2972213492840148/permalink/2980258662035631/) |
-| 2 | [Daniel Smith](../persons/daniel_smith.md) | [2020-02-25](2020-02-25.md) | 6.96 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2974060309322133/) |
+| 2 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-10](2020-03-10.md) | 6.14 | ⚡ | [Link](https://www.facebook.com/events/654143022005686/permalink/654711775282144/) |
 | 3 | [Lisa Kucala](../persons/lisa_kucala.md) | [2020-02-11](2020-02-11.md) | 7.24 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/177822780177798/) |
 | 4 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-02-25](2020-02-25.md) | 9.70 |  | [Link](https://www.facebook.com/events/2972213492840148/permalink/2976771159051048/) |
 
@@ -20,7 +20,7 @@
 | 4 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-02-11](2020-02-11.md) | 4.73 | 🥉 | |
 | 5 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-02-25](2020-02-25.md) | 4.76 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2982607318467432/) |
 | 6 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-25](2020-02-25.md) | 4.83 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2980371598691004/) |
-| 7 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-02-25](2020-02-25.md) | 6.47 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2984510984943732/) |
+| 7 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-03-10](2020-03-10.md) | 5.08 | 🥉 ⚡ | [Link](https://www.facebook.com/events/654143022005686/permalink/656482748438380/) |
 | 8 | [Stuart Salmon](../persons/stuart_salmon.md) | [2020-02-11](2020-02-11.md) | 8.07 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/181182663175143/) |
 | 9 | [장준호](../persons/장준호.md) | [2020-02-25](2020-02-25.md) | 9.85 |  | [Link](https://www.facebook.com/events/2972213492840148/permalink/2986047558123408/) |
 | 10 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-02-25](2020-02-25.md) | 10.60 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2981566378571526/) |
@@ -34,8 +34,14 @@
 | 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-11](2020-02-11.md) | 3.50 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/178287783464631/) |
 | 2 | [Adam Robson](../persons/adam_robson.md) | [2020-02-25](2020-02-25.md) | 3.91 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2979462932115204/) |
 | 3 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-25](2020-02-25.md) | 4.34 | 🏆 | [Link](https://www.facebook.com/events/2972213492840148/permalink/2975010722560425/) |
-| 4 | [Pete Lee](../persons/pete_lee.md) | [2020-02-11](2020-02-11.md) | 7.32 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/179850233308386/) |
+| 4 | [Pete Lee](../persons/pete_lee.md) | [2020-03-10](2020-03-10.md) | 7.12 | ⚡ | [Link](https://www.facebook.com/events/654143022005686/permalink/657880148298640/) |
 | 5 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-02-11](2020-02-11.md) | 10.73 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/181292296497513/) |
+
+#### Under 30
+
+| # | Name | Date | Single | Awards | Video |
+| :--: | -- | :--: | --: | :--: | -- |
+| 1 | [Raimon Schaap](../persons/raimon_schaap.md) | [2020-03-10](2020-03-10.md) | 4.63 |  | [Link](https://www.facebook.com/events/654143022005686/permalink/657641461655842/) |
 
 #### Under 20
 

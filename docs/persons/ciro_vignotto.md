@@ -1,16 +1,15 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Tim Salay
+### Ciro Vignotto
 
 | Event | Single | Average |
 | -- | --: | --: |
-| 3x3x3 | 31.68 | 36.06 |
+| 3x3x3 | 15.57 | 18.31 |
 
 #### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-03-10](../3x3x3/2020-03-10.md) | 40+ | **31.68** | 36.81 | ⚡ | 43.99 | 33.02 | 35.02 | **31.68** | 42.40 | [Link](https://www.facebook.com/events/164742401163863/permalink/164951044476332/) |
-| [2020-03-03](../3x3x3/2020-03-03.md) | 40+ | **32.46** | **36.06** |  | **32.46** | 37.63 | 49.02 | 33.27 | 37.29 | [Link](https://www.facebook.com/events/241721610185997/permalink/242622543429237/) |
+| [2020-03-10](../3x3x3/2020-03-10.md) | 50+ | **15.57** | **18.31** |  | 17.74 | 20.15 | 17.05 | 22.82 | **15.57** | [Link](https://www.facebook.com/events/164742401163863/permalink/165962107708559/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

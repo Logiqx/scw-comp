@@ -5,7 +5,7 @@
 
 | Name | Single |
 | -- | :--: |
-| [David Roche](../persons/david_roche.md) | 27 |
+| [David Roche](../persons/david_roche.md) | 26 |
 | [John Cook](../persons/john_cook.md) | 45 |
 | [Александр Гилка](../persons/александр_гилка.md) | 23 |
 
@@ -14,7 +14,7 @@
 | Name | Single |
 | -- | :--: |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 48 |
-| [Ben Coppin](../persons/ben_coppin.md) | 26 |
+| [Ben Coppin](../persons/ben_coppin.md) | 25 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 25 |
 | [Michael George](../persons/michael_george.md) | 45 |
 

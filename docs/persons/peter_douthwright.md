@@ -6,11 +6,13 @@
 | 3x3x3 | 31.38 | 38.36 |
 | 2x2x2 | 9.70 | 12.95 |
 | 4x4x4 | 3:08.39 | DNF |
+| 3x3x3 OH | 1:27.21 | 1:57.43 |
 
 #### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-03-10](../3x3x3/2020-03-10.md) | 50+ | 35.00 | 38.86 |  | 37.64 | 50.36 | 39.86 | 35.00 | 39.07 | [Link](https://www.facebook.com/events/164742401163863/permalink/167786264192810/) |
 | [2020-03-03](../3x3x3/2020-03-03.md) | 50+ | 35.41 | **38.36** | 🔥 | 36.36 | 35.41 | 39.35 | 39.38 | 46.28 | [Link](https://www.facebook.com/events/241721610185997/permalink/245440153147476/) |
 | [2020-02-25](../3x3x3/2020-02-25.md) | 50+ | 32.04 | 39.34 |  | 43.00 | 41.55 | 32.04 | 38.74 | 37.72 | [Link](https://www.facebook.com/events/196320811461109/permalink/197452828014574/) |
 | [2020-02-18](../3x3x3/2020-02-18.md) | 50+ | 34.98 | **38.63** | 🔥 | 38.44 | 37.79 | 34.98 | 39.67 | 39.84 | [Link](https://www.facebook.com/events/2558750947697073/permalink/2563798140525687/) |
@@ -22,6 +24,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-03-10](../2x2x2/2020-03-10.md) | 50+ | 11.85 | 13.08 |  | 14.52 | 12.07 | 13.70 | 11.85 | 13.48 | [Link](https://www.facebook.com/events/654143022005686/permalink/658306988255956/) |
 | [2020-02-25](../2x2x2/2020-02-25.md) | 50+ | **9.70** | **12.95** |  | **9.70** | 11.19 | 13.94 | 17.38 | 13.71 | [Link](https://www.facebook.com/events/2972213492840148/permalink/2976771159051048/) |
 
 
@@ -30,6 +33,13 @@
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-25](../4x4x4/2020-02-25.md) | 50+ | **3:08.39** | DNF |  | **3:08.39** | 4:27.51 | DNS | DNS | DNS | [Link](https://www.facebook.com/events/805797596592397/permalink/808006496371507/) |
+
+
+#### 3x3x3 One-Handed
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-03-10](../oh/2020-03-10.md) | 50+ | **1:27.21** | **1:57.43** |  | 2:36.77 | 1:48.32 | **1:27.21** | DNS | DNS | [Link](https://www.facebook.com/events/684510792316675/permalink/688822721885482/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
