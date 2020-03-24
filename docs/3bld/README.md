@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Blindfolded Senior Podiums
+#### [2020-03-17](2020-03-17.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Jae Park](../persons/jae_park.md) | 40+ | 50.42 | DNF | 🏆 🥇 | [Link](https://www.facebook.com/events/616010612582835/permalink/617628172421079/) |
+| 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 1:19.91 | DNF | 🥈 ⚡ | [Link](https://www.facebook.com/events/616010612582835/permalink/620248352159061/) |
+| 3 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 1:48.80 | DNF | 🥉 | [Link](https://www.facebook.com/events/616010612582835/permalink/620334732150423/) |
+
 
 #### [2020-03-03](2020-03-03.md)
 
@@ -7,7 +15,7 @@
 | :--: | -- | :--: | --: | --: | :--: | -- |
 | 1 | [Jae Park](../persons/jae_park.md) | 40+ | 48.96 | DNF | 🏆 🥇 | [Link](https://www.facebook.com/events/186820176097844/permalink/188015709311624/) |
 | 2 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 1:22.11 | 1:50.71 | 🥈 🔥 | [Link](https://www.facebook.com/events/186820176097844/permalink/188913179221877/) |
-| 3 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 2:39.49 | DNF | 🥉 ⚡️ | [Link](https://www.facebook.com/events/186820176097844/permalink/190947509018444/) |
+| 3 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 2:39.49 | DNF | 🥉 ⚡ | [Link](https://www.facebook.com/events/186820176097844/permalink/190947509018444/) |
 
 
 

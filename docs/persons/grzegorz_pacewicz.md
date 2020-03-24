@@ -8,13 +8,14 @@
 | 4x4x4 | 56.11 | 1:11.39 |
 | 5x5x5 | 2:37.21 | 2:48.50 |
 | 3x3x3 OH | 29.18 | 35.44 |
-| 3x3x3 BLD | DNF | DNF |
+| 3x3x3 BLD | 1:19.91 | DNF |
 | 3x3x3 FMC | 25 | - |
 
 #### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-03-17](../3x3x3/2020-03-17.md) | 40+ | 15.71 | 17.31 | 🥉 | 19.68 | 15.71 | 16.76 | 16.30 | 18.86 | [Link](https://www.facebook.com/events/280686576235146/permalink/284719595831844/) |
 | [2020-03-10](../3x3x3/2020-03-10.md) | 40+ | 13.74 | 15.99 | 🥉 | 13.74 | 21.14 | 15.51 | 18.16 | 14.31 | [Link](https://www.facebook.com/events/164742401163863/permalink/167261364245300/) |
 | [2020-02-25](../3x3x3/2020-02-25.md) | 40+ | 14.75 | 15.64 | 🥈 | 14.75 | 18.67 | 15.68 | 16.32 | 14.92 | [Link](https://www.facebook.com/events/196320811461109/permalink/198168011276389/) |
 | [2020-02-18](../3x3x3/2020-02-18.md) | 40+ | 14.64 | **15.23** | 🥉 🔥 | 14.64 | DNF | 15.50 | 15.20 | 14.98 | [Link](https://www.facebook.com/events/2558750947697073/permalink/2559926517579516/) |
@@ -56,6 +57,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-03-17](../3bld/2020-03-17.md) | 40+ | **1:19.91** | DNF | 🥈 ⚡ | 1:51.66 | **1:19.91** | DNF | [Link](https://www.facebook.com/events/616010612582835/permalink/620248352159061/) |
 | [2020-02-11](../3bld/2020-02-11.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | |
 
 
@@ -63,6 +65,7 @@
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
+| [2020-03-17](../fmc/2020-03-17.md) | 40+ | 33 | 🥉 | [Link](https://www.facebook.com/events/210706923625115/permalink/210846356944505/) |
 | [2020-03-10](../fmc/2020-03-10.md) | 40+ | 30 |  | [Link](https://www.facebook.com/events/640532176759268/permalink/642597733219379/) |
 | [2020-03-03](../fmc/2020-03-03.md) | 40+ | 28 | 🥈 | [Link](https://www.facebook.com/events/235909040903027/permalink/239951957165402/) |
 | [2020-02-25](../fmc/2020-02-25.md) | 40+ | 28 | 🥇 | [Link](https://www.facebook.com/events/215751886207638/permalink/216177539498406/) |

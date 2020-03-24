@@ -5,7 +5,7 @@
 
 | Name | Single |
 | -- | :--: |
-| [David Roche](../persons/david_roche.md) | 26 |
+| [David Roche](../persons/david_roche.md) | 21 |
 | [John Cook](../persons/john_cook.md) | 45 |
 | [Александр Гилка](../persons/александр_гилка.md) | 23 |
 

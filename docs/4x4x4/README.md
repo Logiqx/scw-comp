@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4x4x4 Senior Podiums
+#### [2020-03-17](2020-03-17.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Ron van Bruchem](../persons/ron_van_bruchem.md) | 50+ | 46.32 | 49.81 | 🏆 🥇 | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
+| 2 | [Michael George](../persons/michael_george.md) | 40+ | 48.37 | 1:01.39 | 🥈 | [Link](https://www.facebook.com/events/211732526904866/permalink/216782829733169/) |
+| 3 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 1:01.74 | 1:02.91 | 🥉 🔥 | [Link](https://www.facebook.com/events/211732526904866/permalink/214826349928817/) |
+
 
 
 #### [2020-02-25](2020-02-25.md)

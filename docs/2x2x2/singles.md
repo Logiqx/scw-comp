@@ -14,13 +14,13 @@
 
 | # | Name | Date | Single | Awards | Video |
 | :--: | -- | :--: | --: | :--: | -- |
-| 1 | [Michael George](../persons/michael_george.md) | [2020-02-25](2020-02-25.md) | 3.35 | 🥇⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2972679519460212/) |
+| 1 | [Michael George](../persons/michael_george.md) | [2020-02-25](2020-02-25.md) | 3.35 | 🥇 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2972679519460212/) |
 | 2 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-02-25](2020-02-25.md) | 3.53 | 🥉 | [Link](https://www.facebook.com/events/2972213492840148/permalink/2982133431848154/) |
 | 3 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-02-25](2020-02-25.md) | 4.68 | ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2975847589143405/) |
 | 4 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-02-11](2020-02-11.md) | 4.73 | 🥉 | |
 | 5 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-02-25](2020-02-25.md) | 4.76 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2982607318467432/) |
 | 6 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-25](2020-02-25.md) | 4.83 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2980371598691004/) |
-| 7 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-03-10](2020-03-10.md) | 5.08 | 🥉 ⚡ | [Link](https://www.facebook.com/events/654143022005686/permalink/656482748438380/) |
+| 7 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-03-10](2020-03-10.md) | 5.08 | ⚡ | [Link](https://www.facebook.com/events/654143022005686/permalink/656482748438380/) |
 | 8 | [Stuart Salmon](../persons/stuart_salmon.md) | [2020-02-11](2020-02-11.md) | 8.07 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/181182663175143/) |
 | 9 | [장준호](../persons/장준호.md) | [2020-02-25](2020-02-25.md) | 9.85 |  | [Link](https://www.facebook.com/events/2972213492840148/permalink/2986047558123408/) |
 | 10 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-02-25](2020-02-25.md) | 10.60 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2981566378571526/) |

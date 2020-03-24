@@ -5,8 +5,8 @@
 
 | # | Name | Date | Single | Awards | Solution |
 | :--: | -- | :--: | :--: | :--: | -- |
-| 1 | [Александр Гилка](../persons/александр_гилка.md) | [2020-03-03](2020-03-03.md) | 23 | 🏆 🥇 | [Link](https://www.facebook.com/events/235909040903027/permalink/236081277552470/) |
-| 2 | [David Roche](../persons/david_roche.md) | [2020-03-10](2020-03-10.md) | 26 | 🥉 ⚡ | [Link](https://www.facebook.com/events/640532176759268/permalink/640978746714611/) |
+| 1 | [David Roche](../persons/david_roche.md) | [2020-03-17](2020-03-17.md) | 21 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/210706923625115/permalink/211706620191812/) |
+| 2 | [Александр Гилка](../persons/александр_гилка.md) | [2020-03-17](2020-03-17.md) | 23 | 🥈 ⚡ | [Link](https://www.facebook.com/events/210706923625115/permalink/210837883612019/) |
 | 3 | [John Cook](../persons/john_cook.md) | [2020-02-25](2020-02-25.md) | 45 | 🥉 ⚡ | [Link](https://www.facebook.com/events/215751886207638/permalink/217422122707281/) |
 
 #### Over 40

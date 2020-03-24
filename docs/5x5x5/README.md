@@ -1,6 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 5x5x5 Senior Podiums
 
+
 #### [2020-03-03](2020-03-03.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

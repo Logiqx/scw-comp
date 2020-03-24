@@ -4,12 +4,21 @@
 | Event | Single | Average |
 | -- | --: | --: |
 | 3x3x3 | 15.57 | 18.31 |
+| 4x4x4 | 56.70 | 1:04.90 |
 
 #### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-03-17](../3x3x3/2020-03-17.md) | 50+ | 15.72 | 18.73 |  | 15.72 | 19.04 | 18.20 | 21.47 | 18.97 | [Link](https://www.facebook.com/events/280686576235146/permalink/280842249552912/) |
 | [2020-03-10](../3x3x3/2020-03-10.md) | 50+ | **15.57** | **18.31** |  | 17.74 | 20.15 | 17.05 | 22.82 | **15.57** | [Link](https://www.facebook.com/events/164742401163863/permalink/165962107708559/) |
+
+
+#### 4x4x4
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-03-17](../4x4x4/2020-03-17.md) | 50+ | **56.70** | **1:04.90** |  | 1:05.27 | 1:06.43 | 1:06.27 | 1:03.17 | **56.70** | [Link](https://www.facebook.com/events/211732526904866/permalink/212061480205304/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

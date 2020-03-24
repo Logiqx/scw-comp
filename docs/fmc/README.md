@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Fewest Moves Senior Podiums
+#### [2020-03-17](2020-03-17.md)
+
+| # | Name | Age | Single | Solution |
+| :--: | -- | :--: | :--: | :--: | -- |
+| 1 | [David Roche](../persons/david_roche.md) | 50+ | 21 | [Link](https://www.facebook.com/events/210706923625115/permalink/211706620191812/) |
+| 2 | [Александр Гилка](../persons/александр_гилка.md) | 50+ | 23 | [Link](https://www.facebook.com/events/210706923625115/permalink/210837883612019/) |
+| 3 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 33 | [Link](https://www.facebook.com/events/210706923625115/permalink/210846356944505/) |
+
 #### [2020-03-10](2020-03-10.md)
 
 | # | Name | Age | Single | Solution |
@@ -21,7 +29,7 @@
 | # | Name | Age | Single | Solution |
 | :--: | -- | :--: | :--: | :--: | -- |
 | 1 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 28 | [Link](https://www.facebook.com/events/215751886207638/permalink/216177539498406/) |
-| 2 | [David Roche](../persons/david_roche.md) | 50+ | 28 | [Link](https://www.facebook.com/events/215751886207638/permalink/217139489402211/) |
+| 1 | [David Roche](../persons/david_roche.md) | 50+ | 28 | [Link](https://www.facebook.com/events/215751886207638/permalink/217139489402211/) |
 | 3 | [John Cook](../persons/john_cook.md) | 50+ | 45 | [Link](https://www.facebook.com/events/215751886207638/permalink/217422122707281/) |
 
 #### [2020-02-18](2020-02-18.md)
