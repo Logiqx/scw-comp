@@ -6,18 +6,18 @@
 | Name | Single | Average |
 | -- | --: | --: |
 | [Chris Wright](../persons/chris_wright.md) | 35.64 | 39.76 |
-| [Peter Douthwright](../persons/peter_douthwright.md) | 1:27.21 | 1:57.43 |
+| [Peter Douthwright](../persons/peter_douthwright.md) | 1:26.57 | 1:57.43 |
 
 #### Over 40
 
 | Name | Single | Average |
 | -- | --: | --: |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40.68 | 43.90 |
-| [Geoff Hartnell](../persons/geoff_hartnell.md) | 28.58 | 35.10 |
+| [Geoff Hartnell](../persons/geoff_hartnell.md) | 27.51 | 35.00 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 29.18 | 35.44 |
-| [Jeremy Duehring](../persons/jeremy_duehring.md) | 38.20 | 50.98 |
-| [Jo Cocco](../persons/jo_cocco.md) | 1:37.14 | 1:45.62 |
-| [Michael George](../persons/michael_george.md) | 20.92 | 22.57 |
+| [Jeremy Duehring](../persons/jeremy_duehring.md) | 36.79 | 44.49 |
+| [Jo Cocco](../persons/jo_cocco.md) | 1:30.67 | 1:45.62 |
+| [Michael George](../persons/michael_george.md) | 20.00 | 22.57 |
 | [Raúl Morales](../persons/raul_morales.md) | 31.07 | 37.84 |
 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 25.02 | 34.80 |
 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 31.59 | 38.24 |

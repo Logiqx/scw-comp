@@ -11,6 +11,8 @@ Best Averages - [3x3x3](3x3x3/averages.md), [2x2x2](2x2x2/averages.md), [4x4x4](
 Seniors - [3x3x3](3x3x3/README.md), [2x2x2](2x2x2/README.md), [4x4x4](4x4x4/README.md), [5x5x5](5x5x5/README.md), [3x3x3 OH](oh/README.md), [3x3x3 BLD](3bld/README.md), [3x3x3 FMC](fmc/README.md)
 
 #### Results
+2020-03-24 - [3x3x3](3x3x3/2020-03-24.md), [5x5x5](5x5x5/2020-03-24.md), [3x3x3 OH](oh/2020-03-24.md), [3x3x3 FMC](fmc/2020-03-24.md)
+
 2020-03-17 - [3x3x3](3x3x3/2020-03-17.md), [4x4x4](4x4x4/2020-03-17.md), [3x3x3 BLD](3bld/2020-03-17.md), [3x3x3 FMC](fmc/2020-03-17.md)
 
 2020-03-10 - [3x3x3](3x3x3/2020-03-10.md), [2x2x2](2x2x2/2020-03-10.md), [3x3x3 OH](oh/2020-03-10.md), [3x3x3 FMC](fmc/2020-03-10.md)

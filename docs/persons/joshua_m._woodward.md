@@ -5,6 +5,7 @@
 | -- | --: | --: |
 | 3x3x3 | 38.26 | 40.14 |
 | 4x4x4 | 3:13.21 | 3:38.78 |
+| 5x5x5 | 4:06.17 | 4:17.14 |
 
 #### 3x3x3
 
@@ -20,6 +21,13 @@
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-02-04](../4x4x4/2020-02-04.md) | 40+ | **3:13.21** | **3:38.78** |  | 3:50.62 | 3:52.51 | **3:13.21** | - | - | [Link](https://www.facebook.com/joshua.m.woodward.9/videos/10157599917355342/) |
+
+
+#### 5x5x5
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-03-24](../5x5x5/2020-03-24.md) | 40+ | **4:06.17** | **4:17.14** |  | 4:21.11 | **4:06.17** | 4:09.72 | 4:28.52 | 4:20.59 | [Link](https://www.facebook.com/events/5078365835514885/permalink/5101597413191727/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

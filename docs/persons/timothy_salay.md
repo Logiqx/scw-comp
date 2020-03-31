@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Tim Salay
+### Timothy Salay
 
 | Event | Single | Average |
 | -- | --: | --: |
@@ -9,6 +9,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-03-24](../3x3x3/2020-03-24.md) | 40+ | 31.80 | 39.50 |  | 43.15 | 42.90 | 33.17 | 42.44 | 31.80 | [Link](https://www.facebook.com/events/524456301543611/permalink/526342854688289/) |
 | [2020-03-17](../3x3x3/2020-03-17.md) | 40+ | **27.19** | **32.14** | 🔥 ⚡ | **27.19** | 31.31 | 41.25 | 34.23 | 30.89 | [Link](https://www.facebook.com/events/280686576235146/permalink/282751479361989/) |
 | [2020-03-10](../3x3x3/2020-03-10.md) | 40+ | **31.68** | 36.81 | ⚡ | 43.99 | 33.02 | 35.02 | **31.68** | 42.40 | [Link](https://www.facebook.com/events/164742401163863/permalink/164951044476332/) |
 | [2020-03-03](../3x3x3/2020-03-03.md) | 40+ | **32.46** | **36.06** |  | **32.46** | 37.63 | 49.02 | 33.27 | 37.29 | [Link](https://www.facebook.com/events/241721610185997/permalink/242622543429237/) |

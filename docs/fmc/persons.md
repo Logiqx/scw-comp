@@ -7,7 +7,7 @@
 | -- | :--: |
 | [David Roche](../persons/david_roche.md) | 21 |
 | [John Cook](../persons/john_cook.md) | 45 |
-| [Александр Гилка](../persons/александр_гилка.md) | 23 |
+| [Александр Гилка](../persons/александр_гилка.md) | 21 |
 
 #### Over 40
 
@@ -22,7 +22,7 @@
 
 | Name | Single |
 | -- | :--: |
-| [Adam Robson](../persons/adam_robson.md) | 41 |
+| [Adam Robson](../persons/adam_robson.md) | 31 |
 | [Brooke Persoon](../persons/brooke_persoon.md) | 42 |
 | [Ed Connell](../persons/ed_connell.md) | 30 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | 41 |
