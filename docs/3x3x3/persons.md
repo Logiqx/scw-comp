@@ -13,7 +13,7 @@
 | [Lisa Kucala](../persons/lisa_kucala.md) | 25.60 | 30.91 |
 | [Peter Andersson](../persons/peter_andersson.md) | 23.78 | 27.17 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 31.38 | 35.24 |
-| [Robert Summerfield](../persons/robert_summerfield.md) | 23.10 | 26.97 |
+| [Robert Summerfield](../persons/robert_summerfield.md) | 23.36 | 29.14 |
 
 #### Over 40
 
@@ -37,6 +37,7 @@
 | [Michael Policastro](../persons/michael_policastro.md) | 34.15 | 35.24 |
 | [Pontus Uggla](../persons/pontus_uggla.md) | 18.25 | 20.09 |
 | [Raúl Morales](../persons/raul_morales.md) | 15.73 | 19.60 |
+| [Robert Summerfield](../persons/robert_summerfield.md) | 23.10 | 26.97 |
 | [Stuart Salmon](../persons/stuart_salmon.md) | 22.76 | 32.88 |
 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 14.08 | 16.63 |
 | [Timothy Salay](../persons/timothy_salay.md) | 27.19 | 32.14 |
