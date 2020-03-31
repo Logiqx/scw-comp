@@ -17,6 +17,9 @@
 | -- | --: | --: |
 | [Aaron Cumes](../persons/aaron_cumes.md) | 1:20.12 | 1:29.62 |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 56.67 | 1:07.08 |
+| [Chris Wright](../persons/chris_wright.md) | 50.41 | 56.44 |
+| [Ciro Vignotto](../persons/ciro_vignotto.md) | 56.70 | 1:04.90 |
+| [Daniel Smith](../persons/daniel_smith.md) | 1:19.68 | 1:31.71 |
 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 1:00.69 | 1:09.77 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 56.11 | 1:11.39 |
 | [Jae Park](../persons/jae_park.md) | 2:03.34 | 2:30.77 |
@@ -24,6 +27,8 @@
 | [Jo Cocco](../persons/jo_cocco.md) | 3:01.00 | 4:41.35 |
 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | 3:13.21 | 3:38.78 |
 | [Michael George](../persons/michael_george.md) | 48.02 | 53.30 |
+| [Peter Douthwright](../persons/peter_douthwright.md) | 2:52.45 | 3:11.68 |
+| [Ron van Bruchem](../persons/ron_van_bruchem.md) | 46.32 | 49.81 |
 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 1:19.08 | 1:25.51 |
 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 1:00.53 | 1:11.54 |
 | [장준호](../persons/장준호.md) | 2:31.31 | 2:58.70 |

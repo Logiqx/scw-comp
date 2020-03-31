@@ -19,7 +19,8 @@
 | 6 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-03-17](2020-03-17.md) | 2:01.73 | ⚡ | [Link](https://www.facebook.com/events/616010612582835/permalink/617576952426201/) |
 | 7 | [Huy Nguyen](../persons/huy_nguyen.md) | [2020-03-17](2020-03-17.md) | 2:34.17 | 🔥 ⚡ | [Link](https://www.facebook.com/events/616010612582835/permalink/618547175662512/) |
 | 8 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-03-03](2020-03-03.md) | 2:39.49 | 🥉 ⚡ | [Link](https://www.facebook.com/events/186820176097844/permalink/190947509018444/) |
-| 9 | [Stuart Salmon](../persons/stuart_salmon.md) | [2020-03-03](2020-03-03.md) | 3:24.37 | ⚡ | [Link](https://www.facebook.com/events/186820176097844/permalink/188740669239128/) |
+| 9 | [Peter Andersson](../persons/peter_andersson.md) | [2020-03-17](2020-03-17.md) | 2:45.17 |  | [Link](https://www.facebook.com/events/616010612582835/permalink/617557405761489/) |
+| 10 | [Stuart Salmon](../persons/stuart_salmon.md) | [2020-03-03](2020-03-03.md) | 3:24.37 | ⚡ | [Link](https://www.facebook.com/events/186820176097844/permalink/188740669239128/) |
 
 #### Under 40
 

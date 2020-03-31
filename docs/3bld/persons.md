@@ -17,6 +17,7 @@
 | [Jae Park](../persons/jae_park.md) | 48.68 | 57.66 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 2:39.49 | DNF |
 | [Mark Adams](../persons/mark_adams.md) | 1:46.60 | DNF |
+| [Peter Andersson](../persons/peter_andersson.md) | 2:45.17 | DNF |
 | [Stuart Salmon](../persons/stuart_salmon.md) | 3:24.37 | DNF |
 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 1:22.00 | 1:50.71 |
 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 2:01.73 | DNF |

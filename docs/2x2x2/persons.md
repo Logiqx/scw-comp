@@ -16,12 +16,16 @@
 | -- | --: | --: |
 | [Aaron Cumes](../persons/aaron_cumes.md) | 10.60 | 11.83 |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 4.83 | 8.23 |
+| [Chris Wright](../persons/chris_wright.md) | 4.39 | 5.17 |
+| [Daniel Smith](../persons/daniel_smith.md) | 6.14 | 7.66 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 4.73 | 5.86 |
 | [Jae Park](../persons/jae_park.md) | 12.95 | 19.45 |
 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 4.76 | 10.94 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 4.68 | 6.30 |
 | [Jo Cocco](../persons/jo_cocco.md) | 10.83 | 14.11 |
+| [Lisa Kucala](../persons/lisa_kucala.md) | 7.24 | 8.62 |
 | [Michael George](../persons/michael_george.md) | 3.35 | 4.93 |
+| [Peter Douthwright](../persons/peter_douthwright.md) | 9.70 | 12.95 |
 | [Stuart Salmon](../persons/stuart_salmon.md) | 8.07 | 12.10 |
 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 5.08 | 6.81 |
 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 3.53 | 5.83 |
