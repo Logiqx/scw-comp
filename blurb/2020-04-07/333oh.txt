@@ -8,7 +8,7 @@ Rules:
 - Use the 5 scrambles provided below (* Ao5 / Mo3)
 - Inspection limit of 15 seconds
 
-* Anyone who considers themselves sub-1:00 should do Ao5, otherwise Mo3. 
+* Anyone who considers themselves sub-1:30 should do Ao5, otherwise Mo3. 
 * Ao5 = average of 5 (discard fastest and slowest solves), Mo3 = mean of 3
 
 Process:
