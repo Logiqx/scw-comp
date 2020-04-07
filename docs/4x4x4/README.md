@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4x4x4 Senior Podiums
+#### [2020-03-31](2020-03-31.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 57.85 | 1:04.62 | 🥇 🔥 | [Link](https://www.facebook.com/events/269276700734640/permalink/269492624046381/) |
+| 2 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 1:03.38 | 1:08.96 | 🥈 | [Link](https://www.facebook.com/events/269276700734640/permalink/273187487010228/) |
+| 3 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 1:05.41 | 1:14.08 | 🥉 | [Link](https://www.facebook.com/events/269276700734640/permalink/271479200514390/) |
+
 
 #### [2020-03-17](2020-03-17.md)
 

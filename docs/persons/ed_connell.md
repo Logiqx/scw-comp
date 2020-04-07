@@ -3,7 +3,31 @@
 
 | Event | Single | Average |
 | -- | --: | --: |
+| 3x3x3 | 14.29 | 21.73 |
+| 2x2x2 | 5.78 | 6.67 |
+| 4x4x4 | 1:07.98 | 1:17.46 |
 | 3x3x3 FMC | 30 | - |
+
+#### 3x3x3
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-03-31](../3x3x3/2020-03-31.md) | <40 | **14.29** | **21.73** |  | 27.55 | **14.29** | 20.14 | 20.80 | 24.26 | [Link](https://www.facebook.com/events/207898257161923/permalink/209185620366520/) |
+
+
+#### 2x2x2
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-03-31](../2x2x2/2020-03-31.md) | <40 | **5.78** | **6.67** |  | 8.05 | 6.14 | 7.39 | **5.78** | 6.48 | [Link](https://www.facebook.com/events/637372103486119/permalink/638709733352356/) |
+
+
+#### 4x4x4
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-03-31](../4x4x4/2020-03-31.md) | <40 | **1:07.98** | **1:17.46** |  | 1:14.32 | 1:16.85 | 1:21.20 | **1:07.98** | 1:30.00 | [Link](https://www.facebook.com/events/269276700734640/permalink/270625277266449/) |
+
 
 #### 3x3x3 Fewest Moves
 

@@ -6,30 +6,30 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 50.41 | 56.44 |
-| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 56.70 | 1:04.90 |
-| [Daniel Smith](../persons/daniel_smith.md) | 50+ | 1:19.68 | 1:31.71 |
-| [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 2:52.45 | 3:11.68 |
+| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 56.70 | 1:04.62 |
+| [Daniel Smith](../persons/daniel_smith.md) | 50+ | 1:17.92 | 1:29.25 |
+| [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 2:20.53 | 2:42.21 |
 | [Ron van Bruchem](../persons/ron_van_bruchem.md) | 50+ | 46.32 | 49.81 |
 
 #### Over 40
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 1:20.12 | 1:29.62 |
+| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 1:07.79 | 1:23.73 |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 56.67 | 1:07.08 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 50.41 | 56.44 |
-| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 56.70 | 1:04.90 |
-| [Daniel Smith](../persons/daniel_smith.md) | 50+ | 1:19.68 | 1:31.71 |
+| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 56.70 | 1:04.62 |
+| [Daniel Smith](../persons/daniel_smith.md) | 50+ | 1:17.92 | 1:29.25 |
 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 1:00.69 | 1:09.77 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 56.11 | 1:11.39 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 2:03.34 | 2:30.77 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 54.60 | 1:02.91 |
-| [Jo Cocco](../persons/jo_cocco.md) | 40+ | 3:01.00 | 4:41.35 |
+| [Jo Cocco](../persons/jo_cocco.md) | 40+ | 2:55.79 | 3:24.75 |
 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | 40+ | 3:13.21 | 3:38.78 |
 | [Michael George](../persons/michael_george.md) | 40+ | 48.02 | 53.30 |
-| [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 2:52.45 | 3:11.68 |
+| [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 2:20.53 | 2:42.21 |
 | [Ron van Bruchem](../persons/ron_van_bruchem.md) | 50+ | 46.32 | 49.81 |
-| [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 1:19.08 | 1:25.51 |
+| [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 1:19.08 | 1:21.31 |
 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 40+ | 1:00.53 | 1:11.54 |
 | [장준호](../persons/장준호.md) | 40+ | 2:31.31 | 2:58.70 |
 
@@ -38,7 +38,8 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Adam Robson](../persons/adam_robson.md) | <40 | 2:24.65 | DNF |
-| [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 45.37 | 51.34 |
+| [Ed Connell](../persons/ed_connell.md) | <40 | 1:07.98 | 1:17.46 |
+| [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 42.39 | 49.27 |
 | [Isak Majer](../persons/isak_majer.md) | <40 | 1:41.66 | 1:50.60 |
 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | <40 | 2:24.93 | 2:38.28 |
 | [Pete Lee](../persons/pete_lee.md) | <40 | 1:13.47 | 1:22.57 |
