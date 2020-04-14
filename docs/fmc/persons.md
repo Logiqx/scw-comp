@@ -5,6 +5,7 @@
 
 | Name | Age | Single |
 | -- | :--: | :--: |
+| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 43 |
 | [David Roche](../persons/david_roche.md) | 50+ | 21 |
 | [John Cook](../persons/john_cook.md) | 50+ | 45 |
 | [Александр Гилка](../persons/александр_гилка.md) | 50+ | 21 |
@@ -15,10 +16,11 @@
 | -- | :--: | :--: |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 48 |
 | [Ben Coppin](../persons/ben_coppin.md) | 40+ | 25 |
+| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 43 |
 | [David Roche](../persons/david_roche.md) | 50+ | 21 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 25 |
 | [John Cook](../persons/john_cook.md) | 50+ | 45 |
-| [Michael George](../persons/michael_george.md) | 40+ | 45 |
+| [Michael George](../persons/michael_george.md) | 40+ | 31 |
 | [Александр Гилка](../persons/александр_гилка.md) | 50+ | 21 |
 
 #### Under 40

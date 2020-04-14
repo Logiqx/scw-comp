@@ -6,12 +6,12 @@
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Chris Wright](../persons/chris_wright.md) | [2020-03-10](2020-03-10.md) | 50+ | 13.94 | 🥇 🔥 | [Link](https://www.facebook.com/events/164742401163863/permalink/166336147671155/) |
-| 2 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-03-10](2020-03-10.md) | 50+ | 18.31 |  | [Link](https://www.facebook.com/events/164742401163863/permalink/165962107708559/) |
+| 2 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-07](2020-04-07.md) | 50+ | 18.05 | 🥉 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/510196029884423/) |
 | 3 | [Peter Andersson](../persons/peter_andersson.md) | [2020-03-17](2020-03-17.md) | 50+ | 27.17 | 🔥 ⚡ | [Link](https://www.facebook.com/events/280686576235146/permalink/282193822751088/) |
-| 4 | [Robert Summerfield](../persons/robert_summerfield.md) | [2020-03-31](2020-03-31.md) | 50+ | 28.01 | 🔥 | [Link](https://www.facebook.com/events/207898257161923/permalink/211624273455988/) |
-| 5 | [Daniel Smith](../persons/daniel_smith.md) | [2020-02-11](2020-02-11.md) | 50+ | 28.96 | 🔥 ⚡ | [Link](https://www.facebook.com/events/616423959107229/permalink/618093752273583/) |
+| 4 | [Robert Summerfield](../persons/robert_summerfield.md) | [2020-04-07](2020-04-07.md) | 50+ | 27.47 | 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/510825143154845/) |
+| 5 | [Daniel Smith](../persons/daniel_smith.md) | [2020-04-07](2020-04-07.md) | 50+ | 28.38 | 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/513248832912476/) |
 | 6 | [Lisa Kucala](../persons/lisa_kucala.md) | [2020-02-18](2020-02-18.md) | 50+ | 30.91 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2561750364063798/) |
-| 7 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | [2020-03-31](2020-03-31.md) | 50+ | 33.94 | 🔥 | [Link](https://www.facebook.com/events/207898257161923/permalink/211555923462823/) |
+| 7 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | [2020-04-07](2020-04-07.md) | 50+ | 33.63 | 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/514427786127914/) |
 | 8 | [David Burchill](../persons/david_burchill.md) | [2020-02-18](2020-02-18.md) | 50+ | 34.84 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2563602730545228/) |
 | 9 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-24](2020-03-24.md) | 50+ | 35.24 | 🔥 | [Link](https://www.facebook.com/events/524456301543611/permalink/526144678041440/) |
 
@@ -19,31 +19,31 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Chris Wright](../persons/chris_wright.md) | [2020-03-10](2020-03-10.md) | 50+ | 13.94 | 🥇 🔥 | [Link](https://www.facebook.com/events/164742401163863/permalink/166336147671155/) |
-| 2 | [Michael George](../persons/michael_george.md) | [2020-03-24](2020-03-24.md) | 40+ | 14.00 | 🥇 🔥 | [Link](https://www.facebook.com/events/524456301543611/permalink/524545134868061/) |
+| 1 | [Michael George](../persons/michael_george.md) | [2020-04-07](2020-04-07.md) | 40+ | 13.67 | 🏆 🥇 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/514413202796039/) |
+| 2 | [Chris Wright](../persons/chris_wright.md) | [2020-03-10](2020-03-10.md) | 50+ | 13.94 | 🥇 🔥 | [Link](https://www.facebook.com/events/164742401163863/permalink/166336147671155/) |
 | 3 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-03-24](2020-03-24.md) | 40+ | 14.77 | 🥈 🔥 | [Link](https://www.facebook.com/events/524456301543611/permalink/527399597915948/) |
 | 4 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-02-18](2020-02-18.md) | 40+ | 16.63 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2561495007422667/) |
 | 5 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-18](2020-02-18.md) | 40+ | 17.70 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2559165057655662/) |
 | 6 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-03-24](2020-03-24.md) | 40+ | 17.73 | 🥉 🔥 | [Link](https://www.facebook.com/events/524456301543611/permalink/527926641196577/) |
-| 7 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-03-10](2020-03-10.md) | 50+ | 18.31 |  | [Link](https://www.facebook.com/events/164742401163863/permalink/165962107708559/) |
-| 8 | [Jason Green](../persons/jason_green.md) | [2020-02-11](2020-02-11.md) | 40+ | 18.51 |  | [Link](https://www.facebook.com/events/616423959107229/permalink/621424961940462/) |
-| 9 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-02-25](2020-02-25.md) | 40+ | 18.84 | 🔥 | [Link](https://www.facebook.com/events/196320811461109/permalink/199805584445965/) |
+| 7 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-07](2020-04-07.md) | 50+ | 18.05 | 🥉 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/510196029884423/) |
+| 8 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-04-07](2020-04-07.md) | 40+ | 18.31 | 🔥 ⚡ | [Link](https://www.facebook.com/events/510082903229069/permalink/511786039725422/) |
+| 9 | [Jason Green](../persons/jason_green.md) | [2020-02-11](2020-02-11.md) | 40+ | 18.51 |  | [Link](https://www.facebook.com/events/616423959107229/permalink/621424961940462/) |
 | 10 | [Raúl Morales](../persons/raul_morales.md) | [2020-02-18](2020-02-18.md) | 40+ | 19.60 |  | |
 | 11 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-03-17](2020-03-17.md) | 40+ | 19.70 | 🔥 ⚡ | [Link](https://www.facebook.com/events/280686576235146/permalink/281995872770883/) |
 | 12 | [Pontus Uggla](../persons/pontus_uggla.md) | [2020-01-28](2020-01-28.md) | 40+ | 20.09 |  | [Link](https://www.facebook.com/pontusuggla/videos/10156642116836576/) |
 | 13 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-02-11](2020-02-11.md) | 40+ | 21.05 |  | [Link](https://www.facebook.com/events/616423959107229/permalink/616850075731284/) |
 | 14 | [Huy Nguyen](../persons/huy_nguyen.md) | [2020-02-25](2020-02-25.md) | 40+ | 21.14 | 🔥 ⚡ | [Link](https://www.facebook.com/events/196320811461109/permalink/196924671400723/) |
-| 15 | [Jae Park](../persons/jae_park.md) | [2020-03-24](2020-03-24.md) | 40+ | 23.31 | 🔥 | [Link](https://www.facebook.com/events/524456301543611/permalink/527707584551816/) |
+| 15 | [Jae Park](../persons/jae_park.md) | [2020-04-07](2020-04-07.md) | 40+ | 23.22 | 🔥 ⚡ | [Link](https://www.facebook.com/events/510082903229069/permalink/511246483112711/) |
 | 16 | [장준호](../persons/장준호.md) | [2020-03-17](2020-03-17.md) | 40+ | 25.66 | 🔥 | [Link](https://www.facebook.com/events/280686576235146/permalink/281744432796027/) |
 | 17 | [Robert Summerfield](../persons/robert_summerfield.md) | [2020-02-18](2020-02-18.md) | 40+ | 26.97 | 🔥 | [Link](https://www.facebook.com/events/2558750947697073/permalink/2559037207668447/) |
 | 18 | [Peter Andersson](../persons/peter_andersson.md) | [2020-03-17](2020-03-17.md) | 50+ | 27.17 | 🔥 ⚡ | [Link](https://www.facebook.com/events/280686576235146/permalink/282193822751088/) |
-| 19 | [Daniel Smith](../persons/daniel_smith.md) | [2020-02-11](2020-02-11.md) | 50+ | 28.96 | 🔥 ⚡ | [Link](https://www.facebook.com/events/616423959107229/permalink/618093752273583/) |
+| 19 | [Daniel Smith](../persons/daniel_smith.md) | [2020-04-07](2020-04-07.md) | 50+ | 28.38 | 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/513248832912476/) |
 | 20 | [Lisa Kucala](../persons/lisa_kucala.md) | [2020-02-18](2020-02-18.md) | 50+ | 30.91 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2561750364063798/) |
 | 21 | [Jang Junho](../persons/jang_junho.md) | [2020-02-11](2020-02-11.md) | 40+ | 31.63 |  | [Link](https://www.facebook.com/events/616423959107229/permalink/618758058873819/) |
 | 22 | [Timothy Salay](../persons/timothy_salay.md) | [2020-03-17](2020-03-17.md) | 40+ | 32.14 | 🔥 ⚡ | [Link](https://www.facebook.com/events/280686576235146/permalink/282751479361989/) |
 | 23 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-03-17](2020-03-17.md) | 40+ | 32.59 | 🔥 | [Link](https://www.facebook.com/events/280686576235146/permalink/284893272481143/) |
 | 24 | [Stuart Salmon](../persons/stuart_salmon.md) | [2020-02-11](2020-02-11.md) | 40+ | 32.88 |  | [Link](https://www.facebook.com/events/616423959107229/permalink/621286958620929/) |
-| 25 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | [2020-03-31](2020-03-31.md) | 50+ | 33.94 | 🔥 | [Link](https://www.facebook.com/events/207898257161923/permalink/211555923462823/) |
+| 25 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | [2020-04-07](2020-04-07.md) | 50+ | 33.63 | 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/514427786127914/) |
 | 26 | [Mark Charlesworth](../persons/mark_charlesworth.md) | [2020-02-18](2020-02-18.md) | 40+ | 34.14 |  | [Link](https://www.facebook.com/events/2558750947697073/permalink/2562987523940082/) |
 | 27 | [David Burchill](../persons/david_burchill.md) | [2020-02-18](2020-02-18.md) | 50+ | 34.84 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2563602730545228/) |
 | 28 | [Michael Policastro](../persons/michael_policastro.md) | [2020-01-28](2020-01-28.md) | 40+ | 35.24 |  | [Link](https://www.facebook.com/100008831955388/videos/2261201300850913/) |
@@ -60,9 +60,9 @@
 | 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-18](2020-02-18.md) | <40 | 12.74 | 🏆 🔥 ⚡ | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618631721610451/) |
 | 2 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-03-24](2020-03-24.md) | <40 | 13.04 | 🏆 🔥 ⚡ | [Link](https://www.facebook.com/events/524456301543611/permalink/525838088072099/) |
 | 3 | [Chris Hardwick](../persons/chris_hardwick.md) | [2020-03-24](2020-03-24.md) | <40 | 15.12 |  | [Link](https://www.facebook.com/events/524456301543611/permalink/527974491191792/) |
-| 4 | [Isak Majer](../persons/isak_majer.md) | [2020-03-03](2020-03-03.md) | <40 | 19.08 | 🔥 | [Link](https://www.facebook.com/events/241721610185997/permalink/244931956531629/) |
-| 5 | [Pete Lee](../persons/pete_lee.md) | [2020-03-17](2020-03-17.md) | <40 | 19.98 | 🔥 | [Link](https://www.facebook.com/events/280686576235146/permalink/283408659296271/) |
-| 6 | [Ed Connell](../persons/ed_connell.md) | [2020-03-31](2020-03-31.md) | <40 | 21.73 |  | [Link](https://www.facebook.com/events/207898257161923/permalink/209185620366520/) |
+| 4 | [Ed Connell](../persons/ed_connell.md) | [2020-04-07](2020-04-07.md) | <40 | 18.87 | 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/511553629748663/) |
+| 5 | [Isak Majer](../persons/isak_majer.md) | [2020-03-03](2020-03-03.md) | <40 | 19.08 | 🔥 | [Link](https://www.facebook.com/events/241721610185997/permalink/244931956531629/) |
+| 6 | [Pete Lee](../persons/pete_lee.md) | [2020-03-17](2020-03-17.md) | <40 | 19.98 | 🔥 | [Link](https://www.facebook.com/events/280686576235146/permalink/283408659296271/) |
 | 7 | [Zack Âû Black](../persons/zack_au_black.md) | [2020-03-31](2020-03-31.md) | <40 | 22.98 |  | [Link](https://www.facebook.com/events/207898257161923/permalink/211697660115316/) |
 | 8 | [Adam Robson](../persons/adam_robson.md) | [2020-03-03](2020-03-03.md) | <40 | 23.72 | 🔥 ⚡ | [Link](https://www.facebook.com/events/241721610185997/permalink/244428349915323/) |
 | 9 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-01-28](2020-01-28.md) | <40 | 24.65 |  | [Link](https://www.facebook.com/Magnacube.askme/videos/1047021635647834/) |
@@ -74,7 +74,7 @@
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Tom Doolinski](../persons/tom_doolinski.md) | [2020-01-28](2020-01-28.md) | <30 | 14.99 |  | [Link](https://www.facebook.com/tom.dooley.35175/videos/1479385075550710/) |
-| 2 | [Raimon Schaap](../persons/raimon_schaap.md) | [2020-03-31](2020-03-31.md) | <30 | 18.74 | 🔥 ⚡ | [Link](https://www.facebook.com/events/207898257161923/permalink/208006567151092/) |
+| 2 | [Raimon Schaap](../persons/raimon_schaap.md) | [2020-04-07](2020-04-07.md) | <30 | 17.74 | 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/511045453132814/) |
 | 3 | [Peyton Blevins](../persons/peyton_blevins.md) | [2020-01-28](2020-01-28.md) | <30 | 30.48 |  | [Link](https://www.facebook.com/TheNewProcess/videos/3093917170665620/) |
 
 #### Under 20

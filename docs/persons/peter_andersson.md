@@ -4,7 +4,7 @@
 | Event | Single | Average |
 | -- | --: | --: |
 | 3x3x3 | 23.78 | 27.17 |
-| 3x3x3 BLD | 2:45.17 | DNF |
+| 3x3x3 BLD | 2:33.61 | DNF |
 
 #### 3x3x3
 
@@ -19,6 +19,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-04-07](../3bld/2020-04-07.md) | 50+ | **2:33.61** | DNF | ⚡ | **2:33.61** | DNF | DNF | [Link](https://www.facebook.com/events/258196271885699/permalink/258475051857821/) |
 | [2020-03-17](../3bld/2020-03-17.md) | 50+ | **2:45.17** | DNF |  | DNF | 2:53.70 | **2:45.17** | [Link](https://www.facebook.com/events/616010612582835/permalink/617557405761489/) |
 
 
