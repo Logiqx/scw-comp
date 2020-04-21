@@ -21,7 +21,7 @@
 | [Michael George](../persons/michael_george.md) | 40+ | 20.00 | 22.57 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 1:26.57 | 1:57.43 |
 | [Raúl Morales](../persons/raul_morales.md) | 40+ | 31.07 | 37.84 |
-| [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 25.02 | 34.18 |
+| [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 25.02 | 34.08 |
 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 40+ | 31.59 | 38.24 |
 | [장준호](../persons/장준호.md) | 40+ | 59.25 | 1:06.79 |
 
@@ -30,9 +30,9 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 22.50 | 34.04 |
-| [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 22.13 | 25.73 |
+| [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 22.13 | 24.49 |
 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | <40 | 39.68 | 45.72 |
-| [Pete Lee](../persons/pete_lee.md) | <40 | 39.61 | 49.22 |
+| [Pete Lee](../persons/pete_lee.md) | <40 | 39.61 | 47.46 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 24.65 | 27.70 |
 
 

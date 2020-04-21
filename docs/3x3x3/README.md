@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Senior Podiums
+#### [2020-04-14](2020-04-14.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Michael George](../persons/michael_george.md) | 40+ | 12.29 | 16.12 | 🥇 | [Link](https://www.facebook.com/events/982619255468618/permalink/983674912029719/) |
+| 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 15.15 | 16.47 | 🥈 | [Link](https://www.facebook.com/events/982619255468618/permalink/987577534972790/) |
+| 3 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 15.95 | 18.52 | 🥉 | [Link](https://www.facebook.com/events/982619255468618/permalink/983428162054394/) |
+
 #### [2020-04-07](2020-04-07.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

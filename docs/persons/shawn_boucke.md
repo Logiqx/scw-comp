@@ -13,6 +13,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-04-14](../3x3x3/2020-04-14.md) | <40 | 12.16 | 13.12 | 🏆 | 14.25 | 12.56 | 12.16 | 14.02 | 12.79 | [Link](https://www.facebook.com/ShawnBoucke/videos/3212352282109866/) |
 | [2020-03-31](../3x3x3/2020-03-31.md) | <40 | 13.73 | 14.10 | 🏆 | 13.73 | 14.68 | 13.95 | 13.94 | 14.40 | [Link](https://www.facebook.com/events/207898257161923/permalink/210459220239160/) |
 | [2020-03-24](../3x3x3/2020-03-24.md) | <40 | **10.19** | **13.04** | 🏆 🔥 ⚡ | 12.64 | 15.56 | 14.46 | 12.03 | **10.19** | [Link](https://www.facebook.com/events/524456301543611/permalink/525838088072099/) |
 | [2020-03-17](../3x3x3/2020-03-17.md) | <40 | 12.39 | 14.06 |  | 13.28 | 16.91 | 15.63 | 12.39 | 13.28 | [Link](https://www.facebook.com/events/280686576235146/permalink/281699199467217/) |
@@ -51,6 +52,7 @@
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
+| [2020-04-14](../fmc/2020-04-14.md) | <40 | 30 |  | [Link](https://www.facebook.com/events/1537311246473343/permalink/1538789432992191/) |
 | [2020-04-07](../fmc/2020-04-07.md) | <40 | DNF |  | [Link](https://www.facebook.com/events/253518435802861/permalink/254356069052431/) |
 | [2020-03-31](../fmc/2020-03-31.md) | <40 | 28 |  | [Link](https://www.facebook.com/events/511598773063510/permalink/512363329653721/) |
 | [2020-03-24](../fmc/2020-03-24.md) | <40 | 26 |  | [Link](https://www.facebook.com/events/500266387310754/permalink/501216437215749/) |

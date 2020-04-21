@@ -6,7 +6,7 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 4.39 | 5.17 |
-| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 6.35 | 7.34 |
+| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 5.34 | 7.01 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 6.14 | 7.65 |
 | [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 7.24 | 8.62 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 6.53 | 10.79 |
@@ -17,8 +17,9 @@
 | -- | :--: | --: | --: |
 | [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 10.60 | 11.83 |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 4.83 | 8.23 |
+| [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 6.48 | 8.34 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 4.39 | 5.17 |
-| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 6.35 | 7.34 |
+| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 5.34 | 7.01 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 6.14 | 7.65 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 4.73 | 5.86 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 12.95 | 19.45 |
@@ -39,7 +40,7 @@
 | -- | :--: | --: | --: |
 | [Adam Robson](../persons/adam_robson.md) | <40 | 3.91 | 6.87 |
 | [Brooke Persoon](../persons/brooke_persoon.md) | <40 | 10.73 | 13.95 |
-| [Ed Connell](../persons/ed_connell.md) | <40 | 5.78 | 6.67 |
+| [Ed Connell](../persons/ed_connell.md) | <40 | 5.78 | 6.57 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 3.50 | 4.50 |
 | [Pete Lee](../persons/pete_lee.md) | <40 | 7.12 | 8.21 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 4.34 | 4.55 |

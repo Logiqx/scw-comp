@@ -15,6 +15,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-04-14](../3x3x3/2020-04-14.md) | 40+ | 15.15 | 16.47 | 🥈 | 16.72 | 15.15 | 15.60 | 19.22 | 17.10 | [Link](https://www.facebook.com/events/982619255468618/permalink/987577534972790/) |
 | [2020-04-07](../3x3x3/2020-04-07.md) | 40+ | 15.28 | 16.07 | 🥈 | 15.65 | 15.28 | 16.26 | 16.90 | 16.31 | [Link](https://www.facebook.com/events/510082903229069/permalink/514423802794979/) |
 | [2020-03-31](../3x3x3/2020-03-31.md) | 40+ | 14.66 | 18.61 | 🥈 | 14.66 | 17.81 | 18.72 | 19.69 | 19.31 | [Link](https://www.facebook.com/events/207898257161923/permalink/211684240116658/) |
 | [2020-03-24](../3x3x3/2020-03-24.md) | 40+ | 14.31 | **14.77** | 🥈 🔥 | 14.31 | 14.48 | 16.41 | 15.01 | 14.83 | [Link](https://www.facebook.com/events/524456301543611/permalink/527399597915948/) |
@@ -62,6 +63,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-04-14](../3bld/2020-04-14.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | |
 | [2020-04-07](../3bld/2020-04-07.md) | 40+ | **1:04.30** | DNF | 🥈 ⚡ | **1:04.30** | DNF | DNF | [Link](https://www.facebook.com/events/258196271885699/permalink/262125944826065/) |
 | [2020-03-17](../3bld/2020-03-17.md) | 40+ | **1:19.91** | DNF | 🥈 ⚡ | 1:51.66 | **1:19.91** | DNF | [Link](https://www.facebook.com/events/616010612582835/permalink/620248352159061/) |
 | [2020-02-11](../3bld/2020-02-11.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | |
@@ -71,6 +73,7 @@
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
+| [2020-04-14](../fmc/2020-04-14.md) | 40+ | 27 | 🏆 🥇 | [Link](https://www.facebook.com/events/1537311246473343/permalink/1537775026426965/) |
 | [2020-04-07](../fmc/2020-04-07.md) | 40+ | 27 | 🏆 🥇 | [Link](https://www.facebook.com/events/253518435802861/permalink/254351852386186/) |
 | [2020-03-31](../fmc/2020-03-31.md) | 40+ | 31 | 🥈 | [Link](https://www.facebook.com/events/511598773063510/permalink/514549682768419/) |
 | [2020-03-24](../fmc/2020-03-24.md) | 40+ | DNF | 🥉 | [Link](https://www.facebook.com/events/500266387310754/permalink/501735783830481/) |
