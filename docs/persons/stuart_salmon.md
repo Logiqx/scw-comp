@@ -11,23 +11,23 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-03-03](../3x3x3/2020-03-03.md) | 40+ | 27.12 | 35.96 |  | 35.78 | 33.58 | 40.12 | 38.51 | 27.12 | [Link](https://www.facebook.com/events/241721610185997/permalink/243337186691106/) |
-| [2020-02-11](../3x3x3/2020-02-11.md) | 40+ | **22.76** | **32.88** |  | 46.30 | 30.51 | **22.76** | 28.69 | 39.46 | [Link](https://www.facebook.com/events/616423959107229/permalink/621286958620929/) |
+| [2020-03-03](../3x3x3/results/2020-03-03.md) | 40+ | 27.12 | 35.96 |  | 35.78 | 33.58 | 40.12 | 38.51 | 27.12 | [Link](https://www.facebook.com/events/241721610185997/permalink/243337186691106/) |
+| [2020-02-11](../3x3x3/results/2020-02-11.md) | 40+ | **22.76** | **32.88** |  | 46.30 | 30.51 | **22.76** | 28.69 | 39.46 | [Link](https://www.facebook.com/events/616423959107229/permalink/621286958620929/) |
 
 
 #### 2x2x2
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-11](../2x2x2/2020-02-11.md) | 40+ | **8.07** | **12.10** |  | **8.07** | 21.62 | 15.83 | 10.35 | 10.12 | [Link](https://www.facebook.com/events/176704156956327/permalink/181182663175143/) |
+| [2020-02-11](../2x2x2/results/2020-02-11.md) | 40+ | **8.07** | **12.10** |  | **8.07** | 21.62 | 15.83 | 10.35 | 10.12 | [Link](https://www.facebook.com/events/176704156956327/permalink/181182663175143/) |
 
 
 #### 3x3x3 Blindfolded
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
-| [2020-03-03](../3bld/2020-03-03.md) | 40+ | **3:24.37** | DNF | ⚡ | DNF | **3:24.37** | DNF | [Link](https://www.facebook.com/events/186820176097844/permalink/188740669239128/) |
-| [2020-02-11](../3bld/2020-02-11.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | [Link](https://www.facebook.com/events/173728187264773/permalink/178385403465718/) |
+| [2020-03-03](../3bld/results/2020-03-03.md) | 40+ | **3:24.37** | DNF | ⚡ | DNF | **3:24.37** | DNF | [Link](https://www.facebook.com/events/186820176097844/permalink/188740669239128/) |
+| [2020-02-11](../3bld/results/2020-02-11.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | [Link](https://www.facebook.com/events/173728187264773/permalink/178385403465718/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

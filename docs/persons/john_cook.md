@@ -9,10 +9,10 @@
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
-| [2020-03-10](../fmc/2020-03-10.md) | 50+ | 53 |  | [Link](https://www.facebook.com/events/640532176759268/permalink/643602313118921/) |
-| [2020-02-25](../fmc/2020-02-25.md) | 50+ | **45** | 🥉 ⚡ | [Link](https://www.facebook.com/events/215751886207638/permalink/217422122707281/) |
-| [2020-02-18](../fmc/2020-02-18.md) | 50+ | **55** | 🥉 ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
-| [2020-02-11](../fmc/2020-02-11.md) | 50+ | **57** |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
+| [2020-03-10](../fmc/results/2020-03-10.md) | 50+ | 53 |  | [Link](https://www.facebook.com/events/640532176759268/permalink/643602313118921/) |
+| [2020-02-25](../fmc/results/2020-02-25.md) | 50+ | **45** | 🥉 ⚡ | [Link](https://www.facebook.com/events/215751886207638/permalink/217422122707281/) |
+| [2020-02-18](../fmc/results/2020-02-18.md) | 50+ | **55** | 🥉 ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
+| [2020-02-11](../fmc/results/2020-02-11.md) | 50+ | **57** |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

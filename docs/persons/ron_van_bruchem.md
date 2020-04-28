@@ -9,7 +9,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-03-17](../4x4x4/2020-03-17.md) | 50+ | **46.32** | **49.81** | 🏆 🥇 | **46.32** | 53.35 | 47.61 | 48.47 | 1:02.85 | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
+| [2020-03-17](../4x4x4/results/2020-03-17.md) | 50+ | **46.32** | **49.81** | 🏆 🥇 | **46.32** | 53.35 | 47.61 | 48.47 | 1:02.85 | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
