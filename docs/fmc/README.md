@@ -38,7 +38,6 @@
 | :--: | -- | :--: | :--: | :--: | -- |
 | 1 | [Александр Гилка](../persons/александр_гилка.md) | 50+ | 21 | [Link](https://www.facebook.com/events/500266387310754/permalink/500800967257296/) |
 | 2 | [David Roche](../persons/david_roche.md) | 50+ | 30 | [Link](https://www.facebook.com/events/500266387310754/permalink/500672650603461/) |
-| 3 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | DNF | [Link](https://www.facebook.com/events/500266387310754/permalink/501735783830481/) |
 
 #### [2020-03-17](results/2020-03-17.md)
 

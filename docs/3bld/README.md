@@ -5,8 +5,6 @@
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
 | 1 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 1:11.93 | 1:31.27 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/1312095715657208/permalink/1316281738571939/) |
-| 2 | [Jae Park](../persons/jae_park.md) | 40+ | DNF | DNF | 🥈 | [Link](https://www.facebook.com/events/1312095715657208/permalink/1313272208872892/) |
-| 2 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | DNF | DNF | 🥈 | [Link](https://www.facebook.com/events/1312095715657208/permalink/1312737172259729/) |
 
 #### [2020-04-14](results/2020-04-14.md)
 

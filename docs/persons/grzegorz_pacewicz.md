@@ -77,7 +77,7 @@
 | [2020-04-14](../fmc/results/2020-04-14.md) | 40+ | 27 | 🏆 🥇 | [Link](https://www.facebook.com/events/1537311246473343/permalink/1537775026426965/) |
 | [2020-04-07](../fmc/results/2020-04-07.md) | 40+ | 27 | 🏆 🥇 | [Link](https://www.facebook.com/events/253518435802861/permalink/254351852386186/) |
 | [2020-03-31](../fmc/results/2020-03-31.md) | 40+ | 31 | 🥈 | [Link](https://www.facebook.com/events/511598773063510/permalink/514549682768419/) |
-| [2020-03-24](../fmc/results/2020-03-24.md) | 40+ | DNF | 🥉 | [Link](https://www.facebook.com/events/500266387310754/permalink/501735783830481/) |
+| [2020-03-24](../fmc/results/2020-03-24.md) | 40+ | DNF |  | [Link](https://www.facebook.com/events/500266387310754/permalink/501735783830481/) |
 | [2020-03-17](../fmc/results/2020-03-17.md) | 40+ | 33 | 🥉 | [Link](https://www.facebook.com/events/210706923625115/permalink/210846356944505/) |
 | [2020-03-10](../fmc/results/2020-03-10.md) | 40+ | 30 |  | [Link](https://www.facebook.com/events/640532176759268/permalink/642597733219379/) |
 | [2020-03-03](../fmc/results/2020-03-03.md) | 40+ | 28 | 🥈 | [Link](https://www.facebook.com/events/235909040903027/permalink/239951957165402/) |

@@ -58,7 +58,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
-| [2020-04-21](../3bld/results/2020-04-21.md) | 40+ | DNF | DNF | 🥈 | DNF | DNF | DNF | [Link](https://www.facebook.com/events/1312095715657208/permalink/1313272208872892/) |
+| [2020-04-21](../3bld/results/2020-04-21.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | [Link](https://www.facebook.com/events/1312095715657208/permalink/1313272208872892/) |
 | [2020-04-14](../3bld/results/2020-04-14.md) | 40+ | 54.13 | DNF | 🏆 🥇 | DNF | DNF | 54.13 | [Link](https://www.facebook.com/events/232067087873656/permalink/232495074497524/) |
 | [2020-04-07](../3bld/results/2020-04-07.md) | 40+ | 55.58 | DNF | 🏆 🥇 | 55.58 | DNF | DNF | [Link](https://www.facebook.com/events/258196271885699/permalink/259236678448325/) |
 | [2020-03-17](../3bld/results/2020-03-17.md) | 40+ | 50.42 | DNF | 🏆 🥇 | DNF | 50.42 | DNF | [Link](https://www.facebook.com/events/616010612582835/permalink/617628172421079/) |
