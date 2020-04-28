@@ -1,6 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 One-Handed Senior Podiums
-#### [2020-04-21](2020-04-21.md)
+#### [2020-04-21](results/2020-04-21.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -8,7 +8,7 @@
 | 2 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 23.59 | 35.12 | 🥈 ⚡ | [Link](https://www.facebook.com/events/880278499062375/permalink/882003692223189/) |
 | 3 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 31.06 | 35.95 | 🥉 | [Link](https://www.facebook.com/events/880278499062375/permalink/884961721927386/) |
 
-#### [2020-04-14](2020-04-14.md)
+#### [2020-04-14](results/2020-04-14.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -16,7 +16,7 @@
 | 2 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 25.66 | 34.08 | 🥈 🔥 | [Link](https://www.facebook.com/events/982619255468618/permalink/986831878380689/) |
 | 3 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 28.46 | 36.20 | 🥉 | [Link](https://www.facebook.com/events/982619255468618/permalink/984296091967601/) |
 
-#### [2020-04-07](2020-04-07.md)
+#### [2020-04-07](results/2020-04-07.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -24,7 +24,7 @@
 | 2 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 30.56 | 34.18 | 🥈 🔥 | [Link](https://www.facebook.com/events/682716079141575/permalink/686811572065359/) |
 | 3 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 35.84 | 38.23 | 🥉 | [Link](https://www.facebook.com/events/682716079141575/permalink/684397598973423/) |
 
-#### [2020-03-24](2020-03-24.md)
+#### [2020-03-24](results/2020-03-24.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -32,7 +32,7 @@
 | 2 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 27.51 | 35.00 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/212335450005639/permalink/215249939714190/) |
 | 3 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 32.00 | 37.62 | 🥉 | [Link](https://www.facebook.com/events/212335450005639/permalink/216598292912688/) |
 
-#### [2020-03-10](2020-03-10.md)
+#### [2020-03-10](results/2020-03-10.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -40,7 +40,7 @@
 | 2 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 25.02 | 34.80 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/684510792316675/permalink/687069845394103/) |
 | 3 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 28.58 | 35.10 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/684510792316675/permalink/686046518829769/) |
 
-#### [2020-02-18](2020-02-18.md)
+#### [2020-02-18](results/2020-02-18.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |

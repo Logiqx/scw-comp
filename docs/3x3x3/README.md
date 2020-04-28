@@ -1,6 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Senior Podiums
-#### [2020-04-21](2020-04-21.md)
+#### [2020-04-21](results/2020-04-21.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -8,7 +8,7 @@
 | 2 | [Chris Wright](../persons/chris_wright.md) | 50+ | 12.76 | 14.51 | 🥈 | [Link](https://www.facebook.com/events/880278499062375/permalink/884787265278165/) |
 | 3 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 14.96 | 18.38 | 🥉 | [Link](https://www.facebook.com/ciro.vignotto/videos/10221784492137123/) |
 
-#### [2020-04-14](2020-04-14.md)
+#### [2020-04-14](results/2020-04-14.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -16,7 +16,7 @@
 | 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 15.15 | 16.47 | 🥈 | [Link](https://www.facebook.com/events/982619255468618/permalink/987577534972790/) |
 | 3 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 15.95 | 18.52 | 🥉 | [Link](https://www.facebook.com/events/982619255468618/permalink/983428162054394/) |
 
-#### [2020-04-07](2020-04-07.md)
+#### [2020-04-07](results/2020-04-07.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -24,7 +24,7 @@
 | 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 15.28 | 16.07 | 🥈 | [Link](https://www.facebook.com/events/510082903229069/permalink/514423802794979/) |
 | 3 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 16.40 | 18.05 | 🥉 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/510196029884423/) |
 
-#### [2020-03-31](2020-03-31.md)
+#### [2020-03-31](results/2020-03-31.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -32,7 +32,7 @@
 | 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 14.66 | 18.61 | 🥈 | [Link](https://www.facebook.com/events/207898257161923/permalink/211684240116658/) |
 | 3 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 16.97 | 18.75 | 🥉 | [Link](https://www.facebook.com/events/207898257161923/permalink/209981463620269/) |
 
-#### [2020-03-24](2020-03-24.md)
+#### [2020-03-24](results/2020-03-24.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -40,7 +40,7 @@
 | 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 14.31 | 14.77 | 🥈 🔥 | [Link](https://www.facebook.com/events/524456301543611/permalink/527399597915948/) |
 | 3 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 16.33 | 17.73 | 🥉 🔥 | [Link](https://www.facebook.com/events/524456301543611/permalink/527926641196577/) |
 
-#### [2020-03-17](2020-03-17.md)
+#### [2020-03-17](results/2020-03-17.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -48,7 +48,7 @@
 | 2 | [Michael George](../persons/michael_george.md) | 40+ | 12.88 | 14.51 | 🥈 | [Link](https://www.facebook.com/events/280686576235146/permalink/280747299562407/) |
 | 3 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 15.71 | 17.31 | 🥉 | [Link](https://www.facebook.com/events/280686576235146/permalink/284719595831844/) |
 
-#### [2020-03-10](2020-03-10.md)
+#### [2020-03-10](results/2020-03-10.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -56,7 +56,7 @@
 | 2 | [Michael George](../persons/michael_george.md) | 40+ | 11.64 | 14.40 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/164742401163863/permalink/164839624487474/) |
 | 3 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 13.74 | 15.99 | 🥉 | [Link](https://www.facebook.com/events/164742401163863/permalink/167261364245300/) |
 
-#### [2020-03-03](2020-03-03.md)
+#### [2020-03-03](results/2020-03-03.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -64,7 +64,7 @@
 | 2 | [Michael George](../persons/michael_george.md) | 40+ | 14.44 | 15.34 | 🥈 | [Link](https://www.facebook.com/events/241721610185997/permalink/241838836840941/) |
 | 3 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 14.34 | 17.82 | 🥉 ⚡ | [Link](https://www.facebook.com/events/241721610185997/permalink/243308193360672/) |
 
-#### [2020-02-25](2020-02-25.md)
+#### [2020-02-25](results/2020-02-25.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -72,7 +72,7 @@
 | 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 14.75 | 15.64 | 🥈 | [Link](https://www.facebook.com/events/196320811461109/permalink/198168011276389/) |
 | 3 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 16.09 | 18.48 | 🥉 | [Link](https://www.facebook.com/events/196320811461109/permalink/198304644596059/) |
 
-#### [2020-02-18](2020-02-18.md)
+#### [2020-02-18](results/2020-02-18.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -80,7 +80,7 @@
 | 2 | [Chris Wright](../persons/chris_wright.md) | 50+ | 13.20 | 14.97 | 🥈 | [Link](https://www.facebook.com/events/2558750947697073/permalink/2563823887189779/) |
 | 3 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 14.64 | 15.23 | 🥉 🔥 | [Link](https://www.facebook.com/events/2558750947697073/permalink/2559926517579516/) |
 
-#### [2020-02-11](2020-02-11.md)
+#### [2020-02-11](results/2020-02-11.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -88,7 +88,7 @@
 | 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 14.41 | 16.05 | 🥈 | |
 | 3 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 15.52 | 18.35 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/616423959107229/permalink/617120695704222/) |
 
-#### [2020-02-04](2020-02-04.md)
+#### [2020-02-04](results/2020-02-04.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -96,7 +96,7 @@
 | 2 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 16.57 | 18.49 | 🥈 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134828513329721/) |
 | 3 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 17.41 | 19.20 | 🥉 🔥 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139250239554215/) |
 
-#### [2020-01-28](2020-01-28.md)
+#### [2020-01-28](results/2020-01-28.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |

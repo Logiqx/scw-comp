@@ -1,6 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4x4x4 Senior Podiums
-#### [2020-04-21](2020-04-21.md)
+#### [2020-04-21](results/2020-04-21.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -8,7 +8,7 @@
 | 2 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 1:00.35 | 1:03.64 | 🥈 🔥 | [Link](https://www.facebook.com/events/538096063773916/permalink/539566816960174/) |
 | 3 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 54.71 | 1:13.15 | 🥉 | [Link](https://www.facebook.com/events/538096063773916/permalink/540343283549194/) |
 
-#### [2020-04-14](2020-04-14.md)
+#### [2020-04-14](results/2020-04-14.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -16,7 +16,7 @@
 | 2 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 52.35 | 1:03.37 | 🥈 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1406261962909281/) |
 | 3 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 58.19 | 1:04.13 | 🥉 🔥 | [Link](https://www.facebook.com/events/1400953806773430/permalink/1402003046668506/) |
 
-#### [2020-03-31](2020-03-31.md)
+#### [2020-03-31](results/2020-03-31.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -24,7 +24,7 @@
 | 2 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 1:03.38 | 1:08.96 | 🥈 | [Link](https://www.facebook.com/events/269276700734640/permalink/273187487010228/) |
 | 3 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 1:05.41 | 1:14.08 | 🥉 | [Link](https://www.facebook.com/events/269276700734640/permalink/271479200514390/) |
 
-#### [2020-03-17](2020-03-17.md)
+#### [2020-03-17](results/2020-03-17.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -32,7 +32,7 @@
 | 2 | [Michael George](../persons/michael_george.md) | 40+ | 48.37 | 1:01.39 | 🥈 | [Link](https://www.facebook.com/events/211732526904866/permalink/216782829733169/) |
 | 3 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 1:01.74 | 1:02.91 | 🥉 🔥 | [Link](https://www.facebook.com/events/211732526904866/permalink/214826349928817/) |
 
-#### [2020-02-25](2020-02-25.md)
+#### [2020-02-25](results/2020-02-25.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -40,7 +40,7 @@
 | 2 | [Chris Wright](../persons/chris_wright.md) | 50+ | 50.41 | 56.44 | 🥈 | [Link](https://www.facebook.com/events/805797596592397/permalink/808666752972148/) |
 | 3 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 54.60 | 1:04.99 | 🥉 | [Link](https://www.facebook.com/events/805797596592397/permalink/809541269551363/) |
 
-#### [2020-02-04](2020-02-04.md)
+#### [2020-02-04](results/2020-02-04.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |

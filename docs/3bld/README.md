@@ -1,6 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Blindfolded Senior Podiums
-#### [2020-04-21](2020-04-21.md)
+#### [2020-04-21](results/2020-04-21.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -8,7 +8,7 @@
 | 2 | [Jae Park](../persons/jae_park.md) | 40+ | DNF | DNF | 🥈 | [Link](https://www.facebook.com/events/1312095715657208/permalink/1313272208872892/) |
 | 2 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | DNF | DNF | 🥈 | [Link](https://www.facebook.com/events/1312095715657208/permalink/1312737172259729/) |
 
-#### [2020-04-14](2020-04-14.md)
+#### [2020-04-14](results/2020-04-14.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -16,7 +16,7 @@
 | 2 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 1:21.84 | DNF | 🥈 | [Link](https://www.facebook.com/events/232067087873656/permalink/232111617869203/) |
 | 3 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 1:42.40 | DNF | 🥉 | [Link](https://www.facebook.com/events/232067087873656/permalink/236104717469893/) |
 
-#### [2020-04-07](2020-04-07.md)
+#### [2020-04-07](results/2020-04-07.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -24,7 +24,7 @@
 | 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 1:04.30 | DNF | 🥈 ⚡ | [Link](https://www.facebook.com/events/258196271885699/permalink/262125944826065/) |
 | 3 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 1:27.34 | 1:40.33 | 🥉 🔥 | [Link](https://www.facebook.com/events/258196271885699/permalink/262052061500120/) |
 
-#### [2020-03-17](2020-03-17.md)
+#### [2020-03-17](results/2020-03-17.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -32,7 +32,7 @@
 | 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 1:19.91 | DNF | 🥈 ⚡ | [Link](https://www.facebook.com/events/616010612582835/permalink/620248352159061/) |
 | 3 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 1:48.80 | DNF | 🥉 | [Link](https://www.facebook.com/events/616010612582835/permalink/620334732150423/) |
 
-#### [2020-03-03](2020-03-03.md)
+#### [2020-03-03](results/2020-03-03.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
@@ -40,7 +40,7 @@
 | 2 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 1:22.11 | 1:50.71 | 🥈 🔥 | [Link](https://www.facebook.com/events/186820176097844/permalink/188913179221877/) |
 | 3 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 2:39.49 | DNF | 🥉 ⚡ | [Link](https://www.facebook.com/events/186820176097844/permalink/190947509018444/) |
 
-#### [2020-02-11](2020-02-11.md)
+#### [2020-02-11](results/2020-02-11.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
