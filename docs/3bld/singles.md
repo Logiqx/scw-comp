@@ -14,8 +14,8 @@
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Jae Park](../persons/jae_park.md) | [2020-02-11](2020-02-11.md) | 40+ | 48.68 | 🏆 🥇 | [Link](https://www.facebook.com/events/173728187264773/permalink/173945660576359/) |
 | 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-04-07](2020-04-07.md) | 40+ | 1:04.30 | 🥈 ⚡ | [Link](https://www.facebook.com/events/258196271885699/permalink/262125944826065/) |
-| 3 | [Anthony Rochester](../persons/anthony_rochester.md) | [2020-04-14](2020-04-14.md) | 40+ | 1:21.84 | 🥈 | [Link](https://www.facebook.com/events/232067087873656/permalink/232111617869203/) |
-| 4 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-02-11](2020-02-11.md) | 40+ | 1:22.00 | 🥈 | [Link](https://www.facebook.com/events/173728187264773/permalink/178355273468731/) |
+| 3 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-04-21](2020-04-21.md) | 40+ | 1:11.93 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/1312095715657208/permalink/1316281738571939/) |
+| 4 | [Anthony Rochester](../persons/anthony_rochester.md) | [2020-04-14](2020-04-14.md) | 40+ | 1:21.84 | 🥈 | [Link](https://www.facebook.com/events/232067087873656/permalink/232111617869203/) |
 | 5 | [Mark Adams](../persons/mark_adams.md) | [2020-02-11](2020-02-11.md) | 40+ | 1:46.60 | 🥉 | [Link](https://www.facebook.com/events/173728187264773/permalink/176409236996668/) |
 | 6 | [Huy Nguyen](../persons/huy_nguyen.md) | [2020-04-14](2020-04-14.md) | 40+ | 1:49.46 | ⚡ | [Link](https://www.facebook.com/events/232067087873656/permalink/233219761091722/) |
 | 7 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-11](2020-02-11.md) | 40+ | 2:00.58 |  | [Link](https://www.facebook.com/events/173728187264773/permalink/174217337215858/) |
@@ -29,8 +29,9 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-11](2020-02-11.md) | <40 | 2:22.99 |  | |
-| 2 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-03-03](2020-03-03.md) | <40 | 18:05.78 |  | [Link](https://www.facebook.com/events/186820176097844/permalink/191609515618910/) |
+| 1 | [Chris Hardwick](../persons/chris_hardwick.md) | [2020-04-21](2020-04-21.md) | <40 | 2:20.12 |  | [Link](https://www.facebook.com/events/1312095715657208/permalink/1312987725568007/) |
+| 2 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-11](2020-02-11.md) | <40 | 2:22.99 |  | |
+| 3 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-03-03](2020-03-03.md) | <40 | 18:05.78 |  | [Link](https://www.facebook.com/events/186820176097844/permalink/191609515618910/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

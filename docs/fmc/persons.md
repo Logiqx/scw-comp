@@ -31,7 +31,7 @@
 | [Brooke Persoon](../persons/brooke_persoon.md) | <40 | 42 |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 30 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 41 |
-| [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 25 |
+| [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 24 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

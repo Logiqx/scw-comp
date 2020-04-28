@@ -33,8 +33,8 @@
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-18](2020-02-18.md) | <40 | 1:30.42 | 🏆 | [Link](https://www.facebook.com/events/538921670053895/permalink/539081640037898/) |
 | 2 | [Chris Hardwick](../persons/chris_hardwick.md) | [2020-03-24](2020-03-24.md) | <40 | 2:19.32 |  | [Link](https://www.facebook.com/events/5078365835514885/permalink/5107384065946395/) |
-| 3 | [Ed Connell](../persons/ed_connell.md) | [2020-04-14](2020-04-14.md) | <40 | 2:38.29 |  | [Link](https://www.facebook.com/events/1400953806773430/permalink/1404474776421333/) |
-| 4 | [Pete Lee](../persons/pete_lee.md) | [2020-04-14](2020-04-14.md) | <40 | 2:43.74 | 🔥 | [Link](https://www.facebook.com/events/1400953806773430/permalink/1405529259649218/) |
+| 3 | [Pete Lee](../persons/pete_lee.md) | [2020-04-21](2020-04-21.md) | <40 | 2:27.42 | 🔥 ⚡ | [Link](https://www.facebook.com/events/538096063773916/permalink/539805363602986/) |
+| 4 | [Ed Connell](../persons/ed_connell.md) | [2020-04-14](2020-04-14.md) | <40 | 2:38.29 |  | [Link](https://www.facebook.com/events/1400953806773430/permalink/1404474776421333/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

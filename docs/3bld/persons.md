@@ -22,7 +22,7 @@
 | [Mark Adams](../persons/mark_adams.md) | 40+ | 1:46.60 | DNF |
 | [Peter Andersson](../persons/peter_andersson.md) | 50+ | 2:33.61 | DNF |
 | [Stuart Salmon](../persons/stuart_salmon.md) | 40+ | 3:24.37 | DNF |
-| [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 1:22.00 | 1:40.33 |
+| [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 1:11.93 | 1:31.27 |
 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 40+ | 2:01.73 | DNF |
 
 #### Under 40
@@ -30,6 +30,7 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Brooke Persoon](../persons/brooke_persoon.md) | <40 | 18:05.78 | DNF |
+| [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 2:20.12 | DNF |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 2:22.99 | DNF |
 
 

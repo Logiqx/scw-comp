@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 5x5x5 Senior Podiums
+#### [2020-04-21](2020-04-21.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 2:04.30 | 2:06.47 | 🥇 | [Link](https://www.facebook.com/events/538096063773916/permalink/542682863315236/) |
+| 2 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 2:08.36 | 2:26.64 | 🥈 ⚡ | [Link](https://www.facebook.com/ciro.vignotto/videos/10221784538578284/) |
+| 3 | [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 2:42.30 | 2:53.14 | 🥉 | [Link](https://www.facebook.com/events/538096063773916/permalink/539523343631188/) |
+
 #### [2020-04-14](2020-04-14.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

@@ -6,7 +6,7 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 1:42.56 | 1:46.58 |
-| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 2:13.97 | 2:18.73 |
+| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 2:08.36 | 2:18.73 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 2:31.49 | 2:42.21 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 5:50.00 | DNF |
 
@@ -17,7 +17,7 @@
 | [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 2:28.62 | 2:48.27 |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 1:42.82 | 1:51.41 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 1:42.56 | 1:46.58 |
-| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 2:13.97 | 2:18.73 |
+| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 2:08.36 | 2:18.73 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 2:31.49 | 2:42.21 |
 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 1:50.31 | 2:03.23 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 2:37.21 | 2:48.50 |
@@ -35,8 +35,8 @@
 | -- | :--: | --: | --: |
 | [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 2:09.49 | 2:19.32 |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 2:27.77 | 2:38.29 |
-| [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 1:24.92 | 1:30.42 |
-| [Pete Lee](../persons/pete_lee.md) | <40 | 2:21.67 | 2:43.74 |
+| [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 1:16.98 | 1:30.42 |
+| [Pete Lee](../persons/pete_lee.md) | <40 | 2:01.03 | 2:27.42 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

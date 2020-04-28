@@ -9,7 +9,7 @@
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 14.62 | 18.05 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 25.18 | 27.32 |
 | [David Burchill](../persons/david_burchill.md) | 50+ | 28.50 | 34.84 |
-| [Joffie Berkowitz](../persons/joffie_berkowitz.md) | 50+ | 28.20 | 33.63 |
+| [Joffie Berkowitz](../persons/joffie_berkowitz.md) | 50+ | 25.79 | 32.68 |
 | [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.60 | 30.91 |
 | [Peter Andersson](../persons/peter_andersson.md) | 50+ | 23.78 | 27.17 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 31.12 | 35.24 |
@@ -28,15 +28,15 @@
 | [David Burchill](../persons/david_burchill.md) | 50+ | 28.50 | 34.84 |
 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 14.77 | 18.31 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 13.37 | 14.77 |
-| [Huy Nguyen](../persons/huy_nguyen.md) | 40+ | 17.52 | 21.14 |
+| [Huy Nguyen](../persons/huy_nguyen.md) | 40+ | 17.19 | 20.72 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 17.58 | 22.30 |
-| [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 27.77 | 32.59 |
-| [Jang Junho](../persons/jang_junho.md) | 40+ | 25.40 | 31.63 |
+| [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 27.77 | 31.76 |
+| [Jang Junho](../persons/jang_junho.md) | 40+ | 25.40 | 28.25 |
 | [Jason Green](../persons/jason_green.md) | 40+ | 17.22 | 18.51 |
 | [Jean van den Bergh](../persons/jean_van_den_bergh.md) | 40+ | 38.55 | 40.85 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 14.76 | 17.73 |
 | [Jo Cocco](../persons/jo_cocco.md) | 40+ | 37.21 | 46.19 |
-| [Joffie Berkowitz](../persons/joffie_berkowitz.md) | 50+ | 28.20 | 33.63 |
+| [Joffie Berkowitz](../persons/joffie_berkowitz.md) | 50+ | 25.79 | 32.68 |
 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | 40+ | 38.26 | 40.14 |
 | [Kerrie Jarman](../persons/kerrie_jarman.md) | 40+ | 47.24 | 53.32 |
 | [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.60 | 30.91 |
@@ -59,9 +59,10 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Adam Robson](../persons/adam_robson.md) | <40 | 20.49 | 23.72 |
+| [Alex Friedman](../persons/alex_friedman.md) | <40 | 17.57 | 19.12 |
 | [Brooke Persoon](../persons/brooke_persoon.md) | <40 | 39.40 | 47.49 |
-| [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 12.31 | 15.12 |
-| [Ed Connell](../persons/ed_connell.md) | <40 | 14.29 | 18.55 |
+| [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 12.30 | 13.42 |
+| [Ed Connell](../persons/ed_connell.md) | <40 | 14.29 | 18.29 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 11.23 | 12.74 |
 | [Isak Majer](../persons/isak_majer.md) | <40 | 16.98 | 19.08 |
 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | <40 | 21.03 | 24.65 |

@@ -25,8 +25,8 @@
 | 8 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-02-25](2020-02-25.md) | 40+ | 1:00.53 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/808608119644678/) |
 | 9 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-02-25](2020-02-25.md) | 40+ | 1:00.69 | 🔥 ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/809463586225798/) |
 | 10 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-03-31](2020-03-31.md) | 40+ | 1:07.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/269372137391763/) |
-| 11 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-31](2020-03-31.md) | 50+ | 1:17.92 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/272645773731066/) |
-| 12 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-03-17](2020-03-17.md) | 40+ | 1:19.08 | ⚡ | [Link](https://www.facebook.com/events/211732526904866/permalink/216744453070340/) |
+| 11 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-04-21](2020-04-21.md) | 40+ | 1:12.69 | ⚡ | [Link](https://www.facebook.com/events/538096063773916/permalink/541927596724096/) |
+| 12 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-31](2020-03-31.md) | 50+ | 1:17.92 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/272645773731066/) |
 | 13 | [Jae Park](../persons/jae_park.md) | [2020-02-25](2020-02-25.md) | 40+ | 2:03.34 | ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/806066883232135/) |
 | 14 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](2020-03-31.md) | 50+ | 2:20.53 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
 | 15 | [장준호](../persons/장준호.md) | [2020-02-25](2020-02-25.md) | 40+ | 2:31.31 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/810015492837274/) |
@@ -37,7 +37,7 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-03-31](2020-03-31.md) | <40 | 42.39 | 🏆 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/272981440364166/) |
+| 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-04-21](2020-04-21.md) | <40 | 42.38 | ⚡ | [Link](https://www.facebook.com/events/538096063773916/permalink/542382946678561/) |
 | 2 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-04](2020-02-04.md) | <40 | 47.49 | 🏆 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134991299980109/) |
 | 3 | [Ed Connell](../persons/ed_connell.md) | [2020-04-14](2020-04-14.md) | <40 | 1:00.92 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1404450843090393/) |
 | 4 | [Pete Lee](../persons/pete_lee.md) | [2020-04-14](2020-04-14.md) | <40 | 1:10.44 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1405527432982734/) |

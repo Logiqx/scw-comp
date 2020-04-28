@@ -6,9 +6,9 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 4.39 | 5.17 |
-| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 5.34 | 7.01 |
+| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 5.34 | 6.66 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 6.14 | 7.65 |
-| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 7.24 | 8.62 |
+| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 7.01 | 8.62 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 6.53 | 10.79 |
 
 #### Over 40
@@ -19,18 +19,19 @@
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 4.83 | 8.23 |
 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 6.48 | 8.34 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 4.39 | 5.17 |
-| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 5.34 | 7.01 |
+| [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 5.34 | 6.66 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 6.14 | 7.65 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 4.73 | 5.86 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 12.95 | 19.45 |
 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 4.76 | 10.94 |
+| [Jang Junho](../persons/jang_junho.md) | 40+ | 9.01 | 10.40 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 4.68 | 6.10 |
 | [Jo Cocco](../persons/jo_cocco.md) | 40+ | 10.83 | 14.11 |
-| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 7.24 | 8.62 |
-| [Michael George](../persons/michael_george.md) | 40+ | 3.35 | 4.76 |
+| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 7.01 | 8.62 |
+| [Michael George](../persons/michael_george.md) | 40+ | 3.34 | 4.76 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 6.53 | 10.79 |
 | [Stuart Salmon](../persons/stuart_salmon.md) | 40+ | 8.07 | 12.10 |
-| [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 5.08 | 6.81 |
+| [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 4.47 | 6.81 |
 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 40+ | 3.53 | 5.83 |
 | [장준호](../persons/장준호.md) | 40+ | 9.75 | 11.00 |
 

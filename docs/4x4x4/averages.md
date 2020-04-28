@@ -7,7 +7,7 @@
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Ron van Bruchem](../persons/ron_van_bruchem.md) | [2020-03-17](2020-03-17.md) | 50+ | 49.81 | 🏆 🥇 | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
 | 2 | [Chris Wright](../persons/chris_wright.md) | [2020-02-25](2020-02-25.md) | 50+ | 56.44 | 🥈 | [Link](https://www.facebook.com/events/805797596592397/permalink/808666752972148/) |
-| 3 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-14](2020-04-14.md) | 50+ | 1:04.13 | 🥉 🔥 | [Link](https://www.facebook.com/events/1400953806773430/permalink/1402003046668506/) |
+| 3 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-21](2020-04-21.md) | 50+ | 1:03.64 | 🥈 🔥 | [Link](https://www.facebook.com/events/538096063773916/permalink/539566816960174/) |
 | 4 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-31](2020-03-31.md) | 50+ | 1:29.25 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/272645773731066/) |
 | 5 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](2020-03-31.md) | 50+ | 2:42.21 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
 
@@ -19,7 +19,7 @@
 | 2 | [Michael George](../persons/michael_george.md) | [2020-02-25](2020-02-25.md) | 40+ | 53.30 | 🏆 🥇 🔥 | [Link](https://www.facebook.com/events/805797596592397/permalink/805925283246295/) |
 | 3 | [Chris Wright](../persons/chris_wright.md) | [2020-02-25](2020-02-25.md) | 50+ | 56.44 | 🥈 | [Link](https://www.facebook.com/events/805797596592397/permalink/808666752972148/) |
 | 4 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-03-17](2020-03-17.md) | 40+ | 1:02.91 | 🥉 🔥 | [Link](https://www.facebook.com/events/211732526904866/permalink/214826349928817/) |
-| 5 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-14](2020-04-14.md) | 50+ | 1:04.13 | 🥉 🔥 | [Link](https://www.facebook.com/events/1400953806773430/permalink/1402003046668506/) |
+| 5 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-21](2020-04-21.md) | 50+ | 1:03.64 | 🥈 🔥 | [Link](https://www.facebook.com/events/538096063773916/permalink/539566816960174/) |
 | 6 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-25](2020-02-25.md) | 40+ | 1:07.08 | 🔥 ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/808258373012986/) |
 | 7 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-02-25](2020-02-25.md) | 40+ | 1:09.77 | 🔥 ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/809463586225798/) |
 | 8 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-02-25](2020-02-25.md) | 40+ | 1:11.39 |  | |
