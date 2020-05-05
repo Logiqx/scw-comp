@@ -14,15 +14,16 @@
 | -- | :--: | --: | --: |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 40.68 | 43.90 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 35.64 | 39.76 |
-| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 27.51 | 35.00 |
-| [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 24.78 | 33.03 |
+| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 27.51 | 34.30 |
+| [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 24.78 | 32.65 |
 | [Jang Junho](../persons/jang_junho.md) | 40+ | 1:11.16 | 1:25.50 |
+| [Jason Green](../persons/jason_green.md) | 40+ | 41.05 | 42.76 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 36.79 | 44.49 |
 | [Jo Cocco](../persons/jo_cocco.md) | 40+ | 1:30.67 | 1:45.62 |
-| [Michael George](../persons/michael_george.md) | 40+ | 20.00 | 22.57 |
+| [Michael George](../persons/michael_george.md) | 40+ | 18.93 | 21.87 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 1:26.57 | 1:57.43 |
 | [Raúl Morales](../persons/raul_morales.md) | 40+ | 31.07 | 37.84 |
-| [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 23.59 | 34.08 |
+| [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 23.59 | 32.89 |
 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 40+ | 31.59 | 38.24 |
 | [장준호](../persons/장준호.md) | 40+ | 59.25 | 1:06.79 |
 
@@ -30,7 +31,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Alex Friedman](../persons/alex_friedman.md) | <40 | 23.36 | 28.00 |
+| [Alex Friedman](../persons/alex_friedman.md) | <40 | 23.20 | 28.00 |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 22.50 | 34.04 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 22.13 | 24.49 |
 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | <40 | 39.68 | 45.72 |

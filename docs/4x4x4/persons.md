@@ -43,7 +43,7 @@
 | [Isak Majer](../persons/isak_majer.md) | <40 | 1:41.66 | 1:50.60 |
 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | <40 | 2:24.93 | 2:38.28 |
 | [Pete Lee](../persons/pete_lee.md) | <40 | 1:10.44 | 1:16.95 |
-| [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 47.49 | 49.52 |
+| [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 46.87 | 49.52 |
 
 #### Under 30
 

@@ -38,7 +38,7 @@
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-04-21](results/2020-04-21.md) | <40 | 42.38 | ⚡ | [Link](https://www.facebook.com/events/538096063773916/permalink/542382946678561/) |
-| 2 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-04](results/2020-02-04.md) | <40 | 47.49 | 🏆 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134991299980109/) |
+| 2 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-04-28](results/2020-04-28.md) | <40 | 46.87 | 🏆 ⚡ | [Link](https://www.facebook.com/ShawnBoucke/videos/3250728604938900/) |
 | 3 | [Ed Connell](../persons/ed_connell.md) | [2020-04-14](results/2020-04-14.md) | <40 | 1:00.92 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1404450843090393/) |
 | 4 | [Pete Lee](../persons/pete_lee.md) | [2020-04-14](results/2020-04-14.md) | <40 | 1:10.44 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1405527432982734/) |
 | 5 | [Isak Majer](../persons/isak_majer.md) | [2020-02-04](results/2020-02-04.md) | <40 | 1:41.66 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |

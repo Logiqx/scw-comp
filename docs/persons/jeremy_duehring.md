@@ -8,7 +8,7 @@
 | 4x4x4 | 52.35 | 1:02.91 |
 | 5x5x5 | 2:17.14 | 2:31.20 |
 | 3x3x3 OH | 36.79 | 44.49 |
-| 3x3x3 BLD | 2:39.49 | DNF |
+| 3x3x3 BLD | 2:31.65 | DNF |
 
 #### 3x3x3
 
@@ -69,6 +69,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-04-28](../3bld/results/2020-04-28.md) | 40+ | **2:31.65** | DNF | ⚡ | DNF | **2:31.65** | DNS | [Link](https://www.facebook.com/events/534758690547855/permalink/538273463529711/) |
 | [2020-03-17](../3bld/results/2020-03-17.md) | 40+ | 3:19.52 | DNF |  | 3:19.52 | DNF | DNS | [Link](https://www.facebook.com/events/616010612582835/permalink/620248352159061/) |
 | [2020-03-03](../3bld/results/2020-03-03.md) | 40+ | **2:39.49** | DNF | 🥉 ⚡ | **2:39.49** | DNS | DNS | [Link](https://www.facebook.com/events/186820176097844/permalink/190947509018444/) |
 | [2020-02-11](../3bld/results/2020-02-11.md) | 40+ | **4:06.00** | DNF |  | DNF | **4:06.00** | DNF | [Link](https://www.facebook.com/events/173728187264773/permalink/178131816824410/) |

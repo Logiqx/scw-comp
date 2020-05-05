@@ -6,7 +6,7 @@
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Peter Andersson](../persons/peter_andersson.md) | [2020-04-07](results/2020-04-07.md) | 50+ | 2:33.61 | ⚡ | [Link](https://www.facebook.com/events/258196271885699/permalink/258475051857821/) |
-| 2 | [Javier Rossi](../persons/javier_rossi.md) | [2020-04-07](results/2020-04-07.md) | 50+ | 3:48.89 |  | [Link](https://www.facebook.com/events/258196271885699/permalink/258677585170901/) |
+| 2 | [Javier Rossi](../persons/javier_rossi.md) | [2020-04-28](results/2020-04-28.md) | 50+ | 3:35.63 | ⚡ | [Link](https://www.facebook.com/events/534758690547855/permalink/535205530503171/) |
 
 #### Over 40
 
@@ -20,10 +20,10 @@
 | 6 | [Huy Nguyen](../persons/huy_nguyen.md) | [2020-04-14](results/2020-04-14.md) | 40+ | 1:49.46 | ⚡ | [Link](https://www.facebook.com/events/232067087873656/permalink/233219761091722/) |
 | 7 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 2:00.58 |  | [Link](https://www.facebook.com/events/173728187264773/permalink/174217337215858/) |
 | 8 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-03-17](results/2020-03-17.md) | 40+ | 2:01.73 | ⚡ | [Link](https://www.facebook.com/events/616010612582835/permalink/617576952426201/) |
-| 9 | [Peter Andersson](../persons/peter_andersson.md) | [2020-04-07](results/2020-04-07.md) | 50+ | 2:33.61 | ⚡ | [Link](https://www.facebook.com/events/258196271885699/permalink/258475051857821/) |
-| 10 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-03-03](results/2020-03-03.md) | 40+ | 2:39.49 | 🥉 ⚡ | [Link](https://www.facebook.com/events/186820176097844/permalink/190947509018444/) |
+| 9 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 2:31.65 | ⚡ | [Link](https://www.facebook.com/events/534758690547855/permalink/538273463529711/) |
+| 10 | [Peter Andersson](../persons/peter_andersson.md) | [2020-04-07](results/2020-04-07.md) | 50+ | 2:33.61 | ⚡ | [Link](https://www.facebook.com/events/258196271885699/permalink/258475051857821/) |
 | 11 | [Stuart Salmon](../persons/stuart_salmon.md) | [2020-03-03](results/2020-03-03.md) | 40+ | 3:24.37 | ⚡ | [Link](https://www.facebook.com/events/186820176097844/permalink/188740669239128/) |
-| 12 | [Javier Rossi](../persons/javier_rossi.md) | [2020-04-07](results/2020-04-07.md) | 50+ | 3:48.89 |  | [Link](https://www.facebook.com/events/258196271885699/permalink/258677585170901/) |
+| 12 | [Javier Rossi](../persons/javier_rossi.md) | [2020-04-28](results/2020-04-28.md) | 50+ | 3:35.63 | ⚡ | [Link](https://www.facebook.com/events/534758690547855/permalink/535205530503171/) |
 
 #### Under 40
 

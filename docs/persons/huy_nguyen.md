@@ -4,12 +4,13 @@
 | Event | Single | Average |
 | -- | --: | --: |
 | 3x3x3 | 17.19 | 20.72 |
-| 3x3x3 BLD | 1:49.46 | 2:42.75 |
+| 3x3x3 BLD | 1:49.46 | 2:06.80 |
 
 #### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-04-28](../3x3x3/results/2020-04-28.md) | 40+ | 20.07 | 21.93 |  | 22.10 | 20.07 | 23.98 | 21.60 | 22.09 | [Link](https://www.facebook.com/events/535188653858103/permalink/535620563814912/) |
 | [2020-04-21](../3x3x3/results/2020-04-21.md) | 40+ | **17.19** | **20.72** | 🔥 ⚡ | 20.90 | 21.31 | **17.19** | 24.36 | 19.96 | [Link](https://www.facebook.com/events/880278499062375/permalink/881358878954337/) |
 | [2020-04-14](../3x3x3/results/2020-04-14.md) | 40+ | 20.39 | 21.45 |  | 20.39 | 21.23 | 22.23 | 20.88 | 22.99 | [Link](https://www.facebook.com/events/982619255468618/permalink/987643484966195/) |
 | [2020-04-07](../3x3x3/results/2020-04-07.md) | 40+ | 21.79 | 23.55 |  | 25.24 | 21.79 | 22.49 | 23.44 | 24.73 | [Link](https://www.facebook.com/events/510082903229069/permalink/510529836517709/) |
@@ -27,6 +28,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-04-28](../3bld/results/2020-04-28.md) | 40+ | 1:59.37 | **2:06.80** | 🔥 | 2:07.00 | 2:14.03 | 1:59.37 | [Link](https://www.facebook.com/events/534758690547855/permalink/535432553813802/) |
 | [2020-04-14](../3bld/results/2020-04-14.md) | 40+ | **1:49.46** | DNF | ⚡ | **1:49.46** | DNF | 2:27.56 | [Link](https://www.facebook.com/events/232067087873656/permalink/233219761091722/) |
 | [2020-03-17](../3bld/results/2020-03-17.md) | 40+ | **2:34.17** | **2:42.75** | 🔥 ⚡ | **2:34.17** | 2:49.49 | 2:44.58 | [Link](https://www.facebook.com/events/616010612582835/permalink/618547175662512/) |
 | [2020-02-11](../3bld/results/2020-02-11.md) | 40+ | **2:37.13** | DNF |  | **2:37.13** | DNF | DNF | [Link](https://www.facebook.com/events/173728187264773/permalink/178453600125565/) |

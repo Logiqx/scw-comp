@@ -9,6 +9,7 @@
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
+| [2020-04-28](../fmc/results/2020-04-28.md) | 50+ | 28 | 🥈 | [Link](https://www.facebook.com/events/339284923718995/permalink/343729683274519/) |
 | [2020-04-21](../fmc/results/2020-04-21.md) | 50+ | 26 | 🥇 | [Link](https://www.facebook.com/events/573932290186676/permalink/577860719793833/) |
 | [2020-04-07](../fmc/results/2020-04-07.md) | 50+ | 31 | 🥈 | [Link](https://www.facebook.com/events/253518435802861/permalink/257872972034074/) |
 | [2020-03-31](../fmc/results/2020-03-31.md) | 50+ | 33 | 🥉 | [Link](https://www.facebook.com/events/511598773063510/permalink/514712556085465/) |

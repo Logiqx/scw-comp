@@ -5,7 +5,7 @@
 | -- | --: | --: |
 | 3x3x3 | 10.19 | 13.04 |
 | 2x2x2 | 4.34 | 4.55 |
-| 4x4x4 | 47.49 | 49.52 |
+| 4x4x4 | 46.87 | 49.52 |
 | 3x3x3 OH | 24.65 | 27.70 |
 | 3x3x3 FMC | 24 | - |
 
@@ -13,6 +13,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-04-28](../3x3x3/results/2020-04-28.md) | <40 | 11.14 | 13.77 | 🏆 | 15.44 | 13.77 | 17.58 | 11.14 | 12.10 | [Link](https://www.facebook.com/events/535188653858103/permalink/535472060496429/) |
 | [2020-04-21](../3x3x3/results/2020-04-21.md) | <40 | 11.40 | 13.22 | 🏆 | 15.41 | 11.77 | 12.79 | 11.40 | 15.10 | [Link](https://www.facebook.com/ShawnBoucke/videos/3240886285923132/) |
 | [2020-04-14](../3x3x3/results/2020-04-14.md) | <40 | 12.16 | 13.12 | 🏆 | 14.25 | 12.56 | 12.16 | 14.02 | 12.79 | [Link](https://www.facebook.com/ShawnBoucke/videos/3212352282109866/) |
 | [2020-03-31](../3x3x3/results/2020-03-31.md) | <40 | 13.73 | 14.10 | 🏆 | 13.73 | 14.68 | 13.95 | 13.94 | 14.40 | [Link](https://www.facebook.com/events/207898257161923/permalink/210459220239160/) |
@@ -36,6 +37,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-04-28](../4x4x4/results/2020-04-28.md) | <40 | **46.87** | 51.59 | 🏆 ⚡ | 48.40 | 52.96 | 1:08.69 | 53.41 | **46.87** | [Link](https://www.facebook.com/ShawnBoucke/videos/3250728604938900/) |
 | [2020-04-21](../4x4x4/results/2020-04-21.md) | <40 | 49.44 | 54.39 | 🏆 | 49.44 | 54.86 | 50.68 | 57.63 | 59.27 | [Link](https://www.facebook.com/ShawnBoucke/videos/3241082209236873/) |
 | [2020-03-31](../4x4x4/results/2020-03-31.md) | <40 | 49.54 | 52.54 |  | 54.12 | 1:05.30 | 53.07 | 49.54 | 50.42 | [Link](https://www.facebook.com/events/269276700734640/permalink/272043817124595/) |
 | [2020-03-17](../4x4x4/results/2020-03-17.md) | <40 | 50.47 | 54.27 |  | 56.51 | 50.47 | 54.82 | 57.97 | 51.50 | [Link](https://www.facebook.com/events/211732526904866/permalink/212975690113883/) |
@@ -54,6 +56,7 @@
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
+| [2020-04-28](../fmc/results/2020-04-28.md) | <40 | 28 |  | [Link](https://www.facebook.com/events/339284923718995/permalink/339355220378632/) |
 | [2020-04-21](../fmc/results/2020-04-21.md) | <40 | **24** | 🏆 ⚡ | [Link](https://www.facebook.com/events/573932290186676/permalink/574620073451231/) |
 | [2020-04-14](../fmc/results/2020-04-14.md) | <40 | 30 |  | [Link](https://www.facebook.com/events/1537311246473343/permalink/1538789432992191/) |
 | [2020-04-07](../fmc/results/2020-04-07.md) | <40 | DNF |  | [Link](https://www.facebook.com/events/253518435802861/permalink/254356069052431/) |

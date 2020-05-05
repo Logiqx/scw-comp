@@ -5,7 +5,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Javier Rossi](../persons/javier_rossi.md) | 50+ | 3:48.89 | DNF |
+| [Javier Rossi](../persons/javier_rossi.md) | 50+ | 3:35.63 | DNF |
 | [Peter Andersson](../persons/peter_andersson.md) | 50+ | 2:33.61 | DNF |
 
 #### Over 40
@@ -15,10 +15,10 @@
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 2:00.58 | 2:24.45 |
 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 1:21.84 | DNF |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 1:04.30 | DNF |
-| [Huy Nguyen](../persons/huy_nguyen.md) | 40+ | 1:49.46 | 2:42.75 |
+| [Huy Nguyen](../persons/huy_nguyen.md) | 40+ | 1:49.46 | 2:06.80 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 48.68 | 57.66 |
-| [Javier Rossi](../persons/javier_rossi.md) | 50+ | 3:48.89 | DNF |
-| [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 2:39.49 | DNF |
+| [Javier Rossi](../persons/javier_rossi.md) | 50+ | 3:35.63 | DNF |
+| [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 2:31.65 | DNF |
 | [Mark Adams](../persons/mark_adams.md) | 40+ | 1:46.60 | DNF |
 | [Peter Andersson](../persons/peter_andersson.md) | 50+ | 2:33.61 | DNF |
 | [Stuart Salmon](../persons/stuart_salmon.md) | 40+ | 3:24.37 | DNF |
