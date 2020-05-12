@@ -14,8 +14,8 @@
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Jae Park](../persons/jae_park.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 48.68 | 🏆 🥇 | [Link](https://www.facebook.com/events/173728187264773/permalink/173945660576359/) |
 | 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-04-07](results/2020-04-07.md) | 40+ | 1:04.30 | 🥈 ⚡ | [Link](https://www.facebook.com/events/258196271885699/permalink/262125944826065/) |
-| 3 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-04-21](results/2020-04-21.md) | 40+ | 1:11.93 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/1312095715657208/permalink/1316281738571939/) |
-| 4 | [Anthony Rochester](../persons/anthony_rochester.md) | [2020-04-14](results/2020-04-14.md) | 40+ | 1:21.84 | 🥈 | [Link](https://www.facebook.com/events/232067087873656/permalink/232111617869203/) |
+| 3 | [Anthony Rochester](../persons/anthony_rochester.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 1:07.73 | 🥈 ⚡ | [Link](https://www.facebook.com/events/2624652641189887/permalink/2625346837787134/) |
+| 4 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-04-21](results/2020-04-21.md) | 40+ | 1:11.93 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/1312095715657208/permalink/1316281738571939/) |
 | 5 | [Mark Adams](../persons/mark_adams.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 1:46.60 | 🥉 | [Link](https://www.facebook.com/events/173728187264773/permalink/176409236996668/) |
 | 6 | [Huy Nguyen](../persons/huy_nguyen.md) | [2020-04-14](results/2020-04-14.md) | 40+ | 1:49.46 | ⚡ | [Link](https://www.facebook.com/events/232067087873656/permalink/233219761091722/) |
 | 7 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 2:00.58 |  | [Link](https://www.facebook.com/events/173728187264773/permalink/174217337215858/) |

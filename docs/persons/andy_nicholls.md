@@ -7,8 +7,12 @@
 | 2x2x2 | 4.83 | 8.23 |
 | 4x4x4 | 56.67 | 1:07.08 |
 | 5x5x5 | 1:42.82 | 1:51.41 |
+| 6x6x6 | 3:29.70 | 3:36.18 |
+| 7x7x7 | 4:58.23 | 5:24.33 |
 | 3x3x3 OH | 40.68 | 43.90 |
 | 3x3x3 BLD | 2:00.58 | 2:24.45 |
+| 4BLD | DNF | DNF |
+| 5BLD | DNF | DNF |
 | 3x3x3 FMC | 48 | - |
 
 #### 3x3x3
@@ -33,6 +37,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-05-05](../4x4x4/results/2020-05-05.md) | 40+ | 1:04.87 | 1:12.28 | 🥉 | 1:19.89 | 1:04.87 | DNF | 1:08.86 | 1:08.09 | [Link](https://www.facebook.com/events/557526585195168/permalink/560016481612845/) |
 | [2020-02-25](../4x4x4/results/2020-02-25.md) | 40+ | **56.67** | **1:07.08** | 🔥 ⚡ | 1:08.25 | **56.67** | 1:05.76 | 1:07.22 | 1:12.45 | [Link](https://www.facebook.com/events/805797596592397/permalink/808258373012986/) |
 | [2020-02-04](../4x4x4/results/2020-02-04.md) | 40+ | **1:03.18** | **1:07.86** | 🥈 | 1:06.52 | **1:03.18** | 1:16.93 | 1:08.82 | 1:08.25 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134916213320951/) |
 
@@ -41,9 +46,24 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-05-05](../5x5x5/results/2020-05-05.md) | 40+ | 1:48.98 | 1:53.94 | 🏆 🥇 | 1:48.98 | 1:55.72 | 1:58.95 | 1:54.45 | 1:51.66 | [Link](https://www.facebook.com/events/557526585195168/permalink/558596165088210/) |
 | [2020-03-24](../5x5x5/results/2020-03-24.md) | 40+ | 1:52.34 | 1:56.04 | 🏆 🥇 | 1:53.77 | 2:05.36 | 1:52.34 | 1:53.78 | 2:00.56 | [Link](https://www.facebook.com/events/5078365835514885/permalink/5098987150119420/) |
 | [2020-03-03](../5x5x5/results/2020-03-03.md) | 40+ | 1:47.72 | 1:54.70 | 🥈 | 1:58.24 | 1:57.82 | 1:47.72 | 1:54.98 | 1:51.31 | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639058019711248/) |
 | [2020-02-18](../5x5x5/results/2020-02-18.md) | 40+ | **1:42.82** | **1:51.41** | 🥇 | **1:42.82** | 1:59.33 | 1:49.82 | 1:49.97 | 1:54.45 | [Link](https://www.facebook.com/events/538921670053895/permalink/539067020039360/) |
+
+
+#### 6x6x6
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-05-05](../6x6x6/results/2020-05-05.md) | 40+ | **3:29.70** | **3:36.18** | 🏆 🥇 | **3:29.70** | 3:33.32 | 3:45.53 | [Link](https://www.facebook.com/events/557526585195168/permalink/558595331754960/) |
+
+
+#### 7x7x7
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-05-05](../7x7x7/results/2020-05-05.md) | 40+ | **4:58.23** | **5:24.33** | 🏆 🥇 | 5:41.93 | 5:32.84 | **4:58.23** | [Link](https://www.facebook.com/events/557526585195168/permalink/558592678421892/) |
 
 
 #### 3x3x3 One-Handed
@@ -58,6 +78,20 @@
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
 | [2020-02-11](../3bld/results/2020-02-11.md) | 40+ | **2:00.58** | **2:24.45** |  | **2:00.58** | 2:23.48 | 2:49.28 | [Link](https://www.facebook.com/events/173728187264773/permalink/174217337215858/) |
+
+
+#### 4BLD
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-05-05](../4bld/results/2020-05-05.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | [Link](https://www.facebook.com/events/2624652641189887/permalink/2626792320975919/) |
+
+
+#### 5BLD
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-05-05](../5bld/results/2020-05-05.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | [Link](https://www.facebook.com/events/2624652641189887/permalink/2627617554226729/) |
 
 
 #### 3x3x3 Fewest Moves

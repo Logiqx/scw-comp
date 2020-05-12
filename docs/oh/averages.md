@@ -13,8 +13,8 @@
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Michael George](../persons/michael_george.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 21.87 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/535188653858103/permalink/535332343843734/) |
-| 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 32.65 | 🥈 🔥 | [Link](https://www.facebook.com/events/535188653858103/permalink/537395990304036/) |
-| 3 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 32.89 | 🥉 🔥 | [Link](https://www.facebook.com/events/535188653858103/permalink/536882240355411/) |
+| 2 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 32.56 | 🥈 🔥 | [Link](https://www.facebook.com/events/3313106775587396/permalink/3314531595444914/) |
+| 3 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 32.65 | 🥈 🔥 | [Link](https://www.facebook.com/events/535188653858103/permalink/537395990304036/) |
 | 4 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 34.30 | 🔥 | [Link](https://www.facebook.com/events/535188653858103/permalink/538269710216664/) |
 | 5 | [Raúl Morales](../persons/raul_morales.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 37.84 |  | |
 | 6 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 38.24 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1622459904560966/) |
@@ -33,7 +33,7 @@
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-04-14](results/2020-04-14.md) | <40 | 24.49 | 🏆 🔥 | [Link](https://www.facebook.com/events/982619255468618/permalink/987264148337462/) |
 | 2 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-18](results/2020-02-18.md) | <40 | 27.70 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1621909717949318/) |
-| 3 | [Alex Friedman](../persons/alex_friedman.md) | [2020-04-21](results/2020-04-21.md) | <40 | 28.00 |  | [Link](https://www.facebook.com/events/880278499062375/permalink/883239652099593/) |
+| 3 | [Alex Friedman](../persons/alex_friedman.md) | [2020-05-05](results/2020-05-05.md) | <40 | 27.71 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3313106775587396/permalink/3318782515019822/) |
 | 4 | [Ed Connell](../persons/ed_connell.md) | [2020-04-07](results/2020-04-07.md) | <40 | 34.04 |  | [Link](https://www.facebook.com/events/682716079141575/permalink/684177285662121/) |
 | 5 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-03-10](results/2020-03-10.md) | <40 | 45.72 | 🔥 | [Link](https://www.facebook.com/events/684510792316675/permalink/687277482040006/) |
 | 6 | [Pete Lee](../persons/pete_lee.md) | [2020-04-14](results/2020-04-14.md) | <40 | 47.46 | 🔥 | [Link](https://www.facebook.com/events/982619255468618/permalink/985950998468777/) |

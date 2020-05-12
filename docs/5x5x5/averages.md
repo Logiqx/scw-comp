@@ -20,8 +20,8 @@
 | 5 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-14](results/2020-04-14.md) | 50+ | 2:18.73 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1402097503325727/) |
 | 6 | [Raúl Morales](../persons/raul_morales.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 2:27.99 |  | |
 | 7 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-03-24](results/2020-03-24.md) | 40+ | 2:31.20 |  | [Link](https://www.facebook.com/events/5078365835514885/permalink/5082560948428707/) |
-| 8 | [Daniel Smith](../persons/daniel_smith.md) | [2020-02-18](results/2020-02-18.md) | 50+ | 2:42.21 |  | [Link](https://www.facebook.com/events/538921670053895/permalink/539390146673714/) |
-| 9 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-04-14](results/2020-04-14.md) | 40+ | 2:48.27 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1401875770014567/) |
+| 8 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 2:39.68 | 🥉 🔥 | [Link](https://www.facebook.com/events/557526585195168/permalink/558964438384716/) |
+| 9 | [Daniel Smith](../persons/daniel_smith.md) | [2020-02-18](results/2020-02-18.md) | 50+ | 2:42.21 |  | [Link](https://www.facebook.com/events/538921670053895/permalink/539390146673714/) |
 | 10 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 2:48.50 |  | |
 | 11 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 2:52.60 |  | [Link](https://www.facebook.com/events/538921670053895/permalink/541223923157003/) |
 | 12 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | [2020-03-24](results/2020-03-24.md) | 40+ | 4:17.14 |  | [Link](https://www.facebook.com/events/5078365835514885/permalink/5101597413191727/) |

@@ -33,9 +33,9 @@
 | 12 | [Huy Nguyen](../persons/huy_nguyen.md) | [2020-04-21](results/2020-04-21.md) | 40+ | 17.19 | 🔥 ⚡ | [Link](https://www.facebook.com/events/880278499062375/permalink/881358878954337/) |
 | 13 | [Jason Green](../persons/jason_green.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 17.22 |  | [Link](https://www.facebook.com/events/616423959107229/permalink/621424961940462/) |
 | 14 | [Jae Park](../persons/jae_park.md) | [2020-04-14](results/2020-04-14.md) | 40+ | 17.58 | 🔥 ⚡ | [Link](https://www.facebook.com/events/982619255468618/permalink/985441481853062/) |
-| 15 | [Pontus Uggla](../persons/pontus_uggla.md) | [2020-01-28](results/2020-01-28.md) | 40+ | 18.25 |  | [Link](https://www.facebook.com/pontusuggla/videos/10156642116836576/) |
-| 16 | [장준호](../persons/장준호.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 20.33 |  | [Link](https://www.facebook.com/events/2558750947697073/permalink/2563702233868611/) |
-| 17 | [Anthony Rochester](../persons/anthony_rochester.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 20.57 | 🔥 ⚡ | [Link](https://www.facebook.com/events/535188653858103/permalink/535216167188685/) |
+| 15 | [Anthony Rochester](../persons/anthony_rochester.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 18.14 | ⚡ | [Link](https://www.facebook.com/events/3313106775587396/permalink/3313870592177681/) |
+| 16 | [Pontus Uggla](../persons/pontus_uggla.md) | [2020-01-28](results/2020-01-28.md) | 40+ | 18.25 |  | [Link](https://www.facebook.com/pontusuggla/videos/10156642116836576/) |
+| 17 | [장준호](../persons/장준호.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 20.33 |  | [Link](https://www.facebook.com/events/2558750947697073/permalink/2563702233868611/) |
 | 18 | [Stuart Salmon](../persons/stuart_salmon.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 22.76 |  | [Link](https://www.facebook.com/events/616423959107229/permalink/621286958620929/) |
 | 19 | [Robert Summerfield](../persons/robert_summerfield.md) | [2020-02-04](results/2020-02-04.md) | 40+ | 23.10 | ⚡ | [Link](https://www.facebook.com/rob.summerfield.33/videos/10157696250581071/) |
 | 20 | [Peter Andersson](../persons/peter_andersson.md) | [2020-03-17](results/2020-03-17.md) | 50+ | 23.78 | 🔥 ⚡ | [Link](https://www.facebook.com/events/280686576235146/permalink/282193822751088/) |
@@ -62,11 +62,11 @@
 | 2 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-18](results/2020-02-18.md) | <40 | 11.23 | 🏆 🔥 ⚡ | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618631721610451/) |
 | 3 | [Chris Hardwick](../persons/chris_hardwick.md) | [2020-04-21](results/2020-04-21.md) | <40 | 12.30 | 🔥 ⚡ | [Link](https://www.facebook.com/events/880278499062375/permalink/881086485648243/) |
 | 4 | [Ed Connell](../persons/ed_connell.md) | [2020-03-31](results/2020-03-31.md) | <40 | 14.29 |  | [Link](https://www.facebook.com/events/207898257161923/permalink/209185620366520/) |
-| 5 | [Alex Friedman](../persons/alex_friedman.md) | [2020-04-28](results/2020-04-28.md) | <40 | 15.71 | 🔥 ⚡ | [Link](https://www.facebook.com/events/535188653858103/permalink/538721276838174/) |
-| 6 | [Isak Majer](../persons/isak_majer.md) | [2020-04-07](results/2020-04-07.md) | <40 | 16.98 | ⚡ | [Link](https://www.facebook.com/events/510082903229069/permalink/514347032802656/) |
-| 7 | [Pete Lee](../persons/pete_lee.md) | [2020-02-18](results/2020-02-18.md) | <40 | 17.18 | ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2562474693991365/) |
+| 5 | [Pete Lee](../persons/pete_lee.md) | [2020-05-05](results/2020-05-05.md) | <40 | 15.42 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3313106775587396/permalink/3316053878626019/) |
+| 6 | [Alex Friedman](../persons/alex_friedman.md) | [2020-05-05](results/2020-05-05.md) | <40 | 15.47 | ⚡ | [Link](https://www.facebook.com/events/3313106775587396/permalink/3318780915019982/) |
+| 7 | [Isak Majer](../persons/isak_majer.md) | [2020-05-05](results/2020-05-05.md) | <40 | 16.05 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3313106775587396/permalink/3313416688889738/) |
 | 8 | [Zack Âû Black](../persons/zack_au_black.md) | [2020-03-31](results/2020-03-31.md) | <40 | 19.02 |  | [Link](https://www.facebook.com/events/207898257161923/permalink/211697660115316/) |
-| 9 | [Adam Robson](../persons/adam_robson.md) | [2020-03-03](results/2020-03-03.md) | <40 | 20.49 | 🔥 ⚡ | [Link](https://www.facebook.com/events/241721610185997/permalink/244428349915323/) |
+| 9 | [Adam Robson](../persons/adam_robson.md) | [2020-05-05](results/2020-05-05.md) | <40 | 19.54 | ⚡ | [Link](https://www.facebook.com/events/3313106775587396/permalink/3318006955097378/) |
 | 10 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-02-18](results/2020-02-18.md) | <40 | 21.03 | ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2564590157113152/) |
 | 11 | [Matthew Hart](../persons/matthew_hart.md) | [2020-02-04](results/2020-02-04.md) | <40 | 22.72 |  | [Link](https://www.facebook.com/bazosoft/videos/10221648844229649/) |
 | 12 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-03-03](results/2020-03-03.md) | <40 | 39.40 | 🔥 ⚡ | [Link](https://www.facebook.com/events/241721610185997/permalink/245749193116572/) |

@@ -31,9 +31,9 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-18](results/2020-02-18.md) | <40 | 22.13 | 🏆 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618631721610451/) |
-| 2 | [Ed Connell](../persons/ed_connell.md) | [2020-04-07](results/2020-04-07.md) | <40 | 22.50 |  | [Link](https://www.facebook.com/events/682716079141575/permalink/684177285662121/) |
-| 3 | [Alex Friedman](../persons/alex_friedman.md) | [2020-04-28](results/2020-04-28.md) | <40 | 23.20 | ⚡ | [Link](https://www.facebook.com/events/535188653858103/permalink/538723453504623/) |
+| 1 | [Alex Friedman](../persons/alex_friedman.md) | [2020-05-05](results/2020-05-05.md) | <40 | 21.88 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3313106775587396/permalink/3318782515019822/) |
+| 2 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-18](results/2020-02-18.md) | <40 | 22.13 | 🏆 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618631721610451/) |
+| 3 | [Ed Connell](../persons/ed_connell.md) | [2020-04-07](results/2020-04-07.md) | <40 | 22.50 |  | [Link](https://www.facebook.com/events/682716079141575/permalink/684177285662121/) |
 | 4 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-18](results/2020-02-18.md) | <40 | 24.65 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1621909717949318/) |
 | 5 | [Pete Lee](../persons/pete_lee.md) | [2020-02-18](results/2020-02-18.md) | <40 | 39.61 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1622571537883136/) |
 | 6 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-02-18](results/2020-02-18.md) | <40 | 39.68 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618918598248430/) |

@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4x4x4 Senior Podiums
+#### [2020-05-05](results/2020-05-05.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Michael George](../persons/michael_george.md) | 40+ | 45.67 | 56.69 | 🥇 ⚡ | [Link](https://www.facebook.com/events/557526585195168/permalink/559133148367845/) |
+| 2 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 1:01.56 | 1:08.62 | 🥈 🔥 | [Link](https://www.facebook.com/events/557526585195168/permalink/560010151613478/) |
+| 3 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 1:04.87 | 1:12.28 | 🥉 | [Link](https://www.facebook.com/events/557526585195168/permalink/560016481612845/) |
+
 #### [2020-04-28](results/2020-04-28.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

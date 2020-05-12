@@ -13,7 +13,7 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 2:00.58 | 2:24.45 |
-| [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 1:21.84 | DNF |
+| [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 1:07.73 | DNF |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 1:04.30 | DNF |
 | [Huy Nguyen](../persons/huy_nguyen.md) | 40+ | 1:49.46 | 2:06.80 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 48.68 | 57.66 |

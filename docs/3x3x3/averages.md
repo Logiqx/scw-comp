@@ -63,8 +63,8 @@
 | 3 | [Chris Hardwick](../persons/chris_hardwick.md) | [2020-04-21](results/2020-04-21.md) | <40 | 13.42 | 🔥 ⚡ | [Link](https://www.facebook.com/events/880278499062375/permalink/881086485648243/) |
 | 4 | [Ed Connell](../persons/ed_connell.md) | [2020-04-21](results/2020-04-21.md) | <40 | 18.29 | 🔥 | [Link](https://www.facebook.com/events/880278499062375/permalink/883228898767335/) |
 | 5 | [Alex Friedman](../persons/alex_friedman.md) | [2020-04-28](results/2020-04-28.md) | <40 | 18.54 | 🔥 ⚡ | [Link](https://www.facebook.com/events/535188653858103/permalink/538721276838174/) |
-| 6 | [Isak Majer](../persons/isak_majer.md) | [2020-03-03](results/2020-03-03.md) | <40 | 19.08 | 🔥 | [Link](https://www.facebook.com/events/241721610185997/permalink/244931956531629/) |
-| 7 | [Pete Lee](../persons/pete_lee.md) | [2020-03-17](results/2020-03-17.md) | <40 | 19.98 | 🔥 | [Link](https://www.facebook.com/events/280686576235146/permalink/283408659296271/) |
+| 6 | [Isak Majer](../persons/isak_majer.md) | [2020-05-05](results/2020-05-05.md) | <40 | 18.84 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3313106775587396/permalink/3313416688889738/) |
+| 7 | [Pete Lee](../persons/pete_lee.md) | [2020-05-05](results/2020-05-05.md) | <40 | 19.30 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3313106775587396/permalink/3316053878626019/) |
 | 8 | [Zack Âû Black](../persons/zack_au_black.md) | [2020-03-31](results/2020-03-31.md) | <40 | 22.98 |  | [Link](https://www.facebook.com/events/207898257161923/permalink/211697660115316/) |
 | 9 | [Adam Robson](../persons/adam_robson.md) | [2020-03-03](results/2020-03-03.md) | <40 | 23.72 | 🔥 ⚡ | [Link](https://www.facebook.com/events/241721610185997/permalink/244428349915323/) |
 | 10 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-01-28](results/2020-01-28.md) | <40 | 24.65 |  | [Link](https://www.facebook.com/Magnacube.askme/videos/1047021635647834/) |
@@ -76,7 +76,7 @@
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Tom Doolinski](../persons/tom_doolinski.md) | [2020-01-28](results/2020-01-28.md) | <30 | 14.99 |  | [Link](https://www.facebook.com/tom.dooley.35175/videos/1479385075550710/) |
-| 2 | [Raimon Schaap](../persons/raimon_schaap.md) | [2020-04-07](results/2020-04-07.md) | <30 | 17.74 | 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/511045453132814/) |
+| 2 | [Raimon Schaap](../persons/raimon_schaap.md) | [2020-05-05](results/2020-05-05.md) | <30 | 16.52 | 🔥 | [Link](https://www.facebook.com/events/3313106775587396/permalink/3313138838917523/) |
 | 3 | [Peyton Blevins](../persons/peyton_blevins.md) | [2020-01-28](results/2020-01-28.md) | <30 | 30.48 |  | [Link](https://www.facebook.com/TheNewProcess/videos/3093917170665620/) |
 
 #### Under 20

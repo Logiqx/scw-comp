@@ -14,7 +14,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 2:28.62 | 2:48.27 |
+| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 2:28.62 | 2:39.68 |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 1:42.82 | 1:51.41 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 1:42.56 | 1:46.58 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 2:08.36 | 2:18.73 |

@@ -21,7 +21,7 @@
 | -- | :--: | --: | --: |
 | [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 15.39 | 19.70 |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 14.08 | 17.70 |
-| [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 20.57 | 22.81 |
+| [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 18.14 | 22.81 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 10.58 | 13.94 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 14.59 | 18.05 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 25.18 | 27.32 |
@@ -58,16 +58,16 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Adam Robson](../persons/adam_robson.md) | <40 | 20.49 | 23.72 |
-| [Alex Friedman](../persons/alex_friedman.md) | <40 | 15.71 | 18.54 |
+| [Adam Robson](../persons/adam_robson.md) | <40 | 19.54 | 23.72 |
+| [Alex Friedman](../persons/alex_friedman.md) | <40 | 15.47 | 18.54 |
 | [Brooke Persoon](../persons/brooke_persoon.md) | <40 | 39.40 | 47.49 |
 | [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 12.30 | 13.42 |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 14.29 | 18.29 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 11.23 | 12.74 |
-| [Isak Majer](../persons/isak_majer.md) | <40 | 16.98 | 19.08 |
+| [Isak Majer](../persons/isak_majer.md) | <40 | 16.05 | 18.84 |
 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | <40 | 21.03 | 24.65 |
 | [Matthew Hart](../persons/matthew_hart.md) | <40 | 22.72 | 24.96 |
-| [Pete Lee](../persons/pete_lee.md) | <40 | 17.18 | 19.98 |
+| [Pete Lee](../persons/pete_lee.md) | <40 | 15.42 | 19.30 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 10.19 | 13.04 |
 | [Zack Âû Black](../persons/zack_au_black.md) | <40 | 19.02 | 22.98 |
 
@@ -76,7 +76,7 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Peyton Blevins](../persons/peyton_blevins.md) | <30 | 28.16 | 30.48 |
-| [Raimon Schaap](../persons/raimon_schaap.md) | <30 | 13.58 | 17.74 |
+| [Raimon Schaap](../persons/raimon_schaap.md) | <30 | 13.58 | 16.52 |
 | [Tom Doolinski](../persons/tom_doolinski.md) | <30 | 13.48 | 14.99 |
 
 #### Under 20
