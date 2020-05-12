@@ -29,11 +29,10 @@
 | 12 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-10](results/2020-03-10.md) | 50+ | 6.14 | ⚡ | [Link](https://www.facebook.com/events/654143022005686/permalink/654711775282144/) |
 | 13 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 6.53 | 🔥 ⚡ | [Link](https://www.facebook.com/events/637372103486119/permalink/641080066448656/) |
 | 14 | [Stuart Salmon](../persons/stuart_salmon.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 8.07 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/181182663175143/) |
-| 15 | [Jang Junho](../persons/jang_junho.md) | [2020-04-21](results/2020-04-21.md) | 40+ | 9.01 |  | [Link](https://www.facebook.com/events/880278499062375/permalink/884489028641322/) |
-| 16 | [장준호](../persons/장준호.md) | [2020-03-31](results/2020-03-31.md) | 40+ | 9.75 | ⚡ | [Link](https://www.facebook.com/events/637372103486119/permalink/637410080148988/) |
-| 17 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 10.60 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2981566378571526/) |
-| 18 | [Jo Cocco](../persons/jo_cocco.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 10.83 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2981767918551372/) |
-| 19 | [Jae Park](../persons/jae_park.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 12.95 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/177449880215088/) |
+| 15 | [Jang Junho (장준호)](../persons/jang_junho.md) | [2020-04-21](results/2020-04-21.md) | 40+ | 9.01 | 🔥 ⚡ | [Link](https://www.facebook.com/events/880278499062375/permalink/884489028641322/) |
+| 16 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 10.60 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2981566378571526/) |
+| 17 | [Jo Cocco](../persons/jo_cocco.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 10.83 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2981767918551372/) |
+| 18 | [Jae Park](../persons/jae_park.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 12.95 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/177449880215088/) |
 
 #### Under 40
 

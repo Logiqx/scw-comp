@@ -24,6 +24,7 @@
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 56.11 | 1:11.39 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 2:03.34 | 2:30.77 |
 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 2:19.60 | 2:51.79 |
+| [Jang Junho (장준호)](../persons/jang_junho.md) | 40+ | 2:31.31 | 2:58.70 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 52.35 | 1:02.91 |
 | [Jo Cocco](../persons/jo_cocco.md) | 40+ | 2:55.79 | 3:24.75 |
 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | 40+ | 3:13.21 | 3:38.78 |
@@ -32,7 +33,6 @@
 | [Ron van Bruchem](../persons/ron_van_bruchem.md) | 50+ | 46.32 | 49.81 |
 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 1:12.69 | 1:21.31 |
 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 40+ | 1:00.53 | 1:11.54 |
-| [장준호](../persons/장준호.md) | 40+ | 2:31.31 | 2:58.70 |
 
 #### Under 40
 

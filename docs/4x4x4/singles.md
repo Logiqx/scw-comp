@@ -30,7 +30,7 @@
 | 13 | [Jae Park](../persons/jae_park.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 2:03.34 | ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/806066883232135/) |
 | 14 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 2:19.60 |  | [Link](https://www.facebook.com/events/557526585195168/permalink/562206448060515/) |
 | 15 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 2:20.53 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
-| 16 | [장준호](../persons/장준호.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 2:31.31 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/810015492837274/) |
+| 16 | [Jang Junho (장준호)](../persons/jang_junho.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 2:31.31 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/810015492837274/) |
 | 17 | [Jo Cocco](../persons/jo_cocco.md) | [2020-03-31](results/2020-03-31.md) | 40+ | 2:55.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/271293767199600/) |
 | 18 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | [2020-02-04](results/2020-02-04.md) | 40+ | 3:13.21 |  | [Link](https://www.facebook.com/joshua.m.woodward.9/videos/10157599917355342/) |
 

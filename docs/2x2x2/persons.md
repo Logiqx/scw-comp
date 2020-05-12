@@ -24,7 +24,7 @@
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 4.73 | 5.86 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 12.95 | 19.45 |
 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 4.76 | 10.94 |
-| [Jang Junho](../persons/jang_junho.md) | 40+ | 9.01 | 10.40 |
+| [Jang Junho (장준호)](../persons/jang_junho.md) | 40+ | 9.01 | 10.40 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 4.68 | 6.10 |
 | [Jo Cocco](../persons/jo_cocco.md) | 40+ | 10.83 | 14.11 |
 | [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 6.12 | 8.51 |
@@ -33,7 +33,6 @@
 | [Stuart Salmon](../persons/stuart_salmon.md) | 40+ | 8.07 | 12.10 |
 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 3.18 | 6.81 |
 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 40+ | 3.53 | 5.83 |
-| [장준호](../persons/장준호.md) | 40+ | 9.75 | 11.00 |
 
 #### Under 40
 

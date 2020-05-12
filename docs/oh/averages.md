@@ -22,10 +22,9 @@
 | 8 | [Jason Green](../persons/jason_green.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 42.76 |  | [Link](https://www.facebook.com/jasongreenbowler/videos/10163336975180425/) |
 | 9 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 43.90 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618697511603872/) |
 | 10 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-03-24](results/2020-03-24.md) | 40+ | 44.49 | 🔥 ⚡ | [Link](https://www.facebook.com/events/212335450005639/permalink/213082393264278/) |
-| 11 | [장준호](../persons/장준호.md) | [2020-04-07](results/2020-04-07.md) | 40+ | 1:06.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/682716079141575/permalink/686595828753600/) |
-| 12 | [Jang Junho](../persons/jang_junho.md) | [2020-04-21](results/2020-04-21.md) | 40+ | 1:25.50 |  | [Link](https://www.facebook.com/events/880278499062375/permalink/884489028641322/) |
-| 13 | [Jo Cocco](../persons/jo_cocco.md) | [2020-03-10](results/2020-03-10.md) | 40+ | 1:45.62 | 🔥 ⚡ | [Link](https://www.facebook.com/events/164742401163863/permalink/168022254169211/) |
-| 14 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-10](results/2020-03-10.md) | 50+ | 1:57.43 |  | [Link](https://www.facebook.com/events/684510792316675/permalink/688822721885482/) |
+| 11 | [Jang Junho (장준호)](../persons/jang_junho.md) | [2020-04-07](results/2020-04-07.md) | 40+ | 1:06.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/682716079141575/permalink/686595828753600/) |
+| 12 | [Jo Cocco](../persons/jo_cocco.md) | [2020-03-10](results/2020-03-10.md) | 40+ | 1:45.62 | 🔥 ⚡ | [Link](https://www.facebook.com/events/164742401163863/permalink/168022254169211/) |
+| 13 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-10](results/2020-03-10.md) | 50+ | 1:57.43 |  | [Link](https://www.facebook.com/events/684510792316675/permalink/688822721885482/) |
 
 #### Under 40
 

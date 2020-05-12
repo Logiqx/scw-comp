@@ -31,7 +31,7 @@
 | [Huy Nguyen](../persons/huy_nguyen.md) | 40+ | 17.19 | 20.72 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 17.58 | 22.30 |
 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 27.77 | 30.03 |
-| [Jang Junho](../persons/jang_junho.md) | 40+ | 25.40 | 28.25 |
+| [Jang Junho (장준호)](../persons/jang_junho.md) | 40+ | 20.33 | 25.66 |
 | [Jason Green](../persons/jason_green.md) | 40+ | 17.22 | 18.51 |
 | [Jean van den Bergh](../persons/jean_van_den_bergh.md) | 40+ | 38.55 | 40.85 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 14.76 | 17.73 |
@@ -52,7 +52,6 @@
 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 14.08 | 16.63 |
 | [Timothy Salay](../persons/timothy_salay.md) | 40+ | 27.19 | 32.14 |
 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | 40+ | 16.76 | 21.05 |
-| [장준호](../persons/장준호.md) | 40+ | 20.33 | 25.66 |
 
 #### Under 40
 
