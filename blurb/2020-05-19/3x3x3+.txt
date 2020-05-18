@@ -1,0 +1,32 @@
+Senior Cubers Worldwide - 3x3x3+ Video Competition 2020-05-19
+
+Videos in by Mon 25th @ 22:00 PST / Tue 26th @ 05:00 GMT
+
+Events: 3x3x3, 2x2x2 and OH (3x3x3 One-Handed)
+
+Rules:
+- Entry in one continuous video
+- Cube and timer visible
+- Use the 5 scrambles provided for Ao5 or Mo3 (* see cutoffs below)
+- Inspection limit of 15 seconds
+ 
+* Ao5 = average of 5 (discard fastest and slowest solves), Mo3 = mean of 3
+
+Cutoffs for Ao5 / Mo3:
+- 3x3x3: Everyone should attempt five solves for an Ao5 
+- 2x2x2: Everyone should attempt five solves for an Ao5 
+- One-Handed: Requires sub-1:00 (within first 3 solves) to qualify for Ao5, otherwise do Mo3
+
+Process:
+- Post your video directly to the event page
+- Include your age category (e.g. 40+) in the video description
+- Include your times and Ao5 in the video description (2 decimal places)
+- Please write times unambiguously...
+  e.g. 19.32 rather than 17.32 + 2 and DNF rather than 17.32 (DNF)
+- Show if it is your fastest average to date with a 🔥 emoji (*)
+- Show if it is your fastest single to date with a ⚡ emoji (*)
+- Update the results spreadsheet if you have edit access (*)
+
+* PDF and text scrambles can be found at https://github.com/Logiqx/scw-comp/tree/master/docs
+* You can find your profile and previous bests at https://logiqx.github.io/scw-comp/
+* Add your results via the redirect at https://logiqx.github.io/scw-comp/spreadsheet.html
