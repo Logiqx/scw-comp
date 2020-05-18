@@ -12,7 +12,6 @@ Rules:
 - Best solve wins
 
 * You choose how many attempts but use the scrambles in order
-* PDF and text scrambles can be found at https://github.com/Logiqx/scw-comp/tree/master/docs
 
 Process:
 - Post your video directly to the event page
@@ -24,5 +23,6 @@ Process:
 - Show if it is your fastest single to date with a ⚡ emoji (*)
 - Update the results spreadsheet if you have edit access (*)
 
+* PDF and text scrambles can be found at https://github.com/Logiqx/scw-comp/tree/master/docs
 * You can find your profile and previous bests at https://logiqx.github.io/scw-comp/
 * Add your results via the redirect at https://logiqx.github.io/scw-comp/spreadsheet.html

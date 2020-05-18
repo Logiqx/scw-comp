@@ -7,15 +7,16 @@ Events: 4x4x4, 5x5x5, 6x6x6 and 7x7x7
 Rules:
 - Entry in one continuous video (4x4x4 + 5x5x5). 6x6x6 + 7x7x7 can use multiple videos in comments.
 - Cube and timer visible
-- Use the 5 scrambles provided for Ao5 / Mo3 / Bo2 (*)
+- Use the 5 scrambles provided for Ao5 / Mo3 / Bo2 (* see cutoffs below)
 - Inspection limit of 15 seconds
 
 * Ao5 = average of 5 (discard fastest and slowest solves), Mo3 = mean of 3, Bo2 = best of 2
-* 4x4x4: Anyone who considers themselves sub-1:30 should do Ao5, sub-2:30 recommend Mo3, otherwise Bo2. 
-* 5x5x5: Anyone who considers themselves sub-2:30 should do Ao5, sub-4:00 recommend Mo3, otherwise Bo2. 
-* 6x6x6: Anyone who considers themselves sub-4:00 should do Mo3, otherwise Bo2 (or a single solve).
-* 7x7x7: Anyone who considers themselves sub-6:00 should do Mo3, otherwise Bo2 (or a single solve).
-* PDF and text scrambles can be found at https://github.com/Logiqx/scw-comp/tree/master/docs
+
+Cutoffs for Ao5 / Mo3, otherwise do Bo2:
+- 4x4x4: Requires sub-2:30 (within first 2 solves) for Mo3, sub-1:30 (within first 3 solves) for Ao5 (conditional on qualifying for Mo3)
+- 5x5x5: Requires sub-4:00 (within first 2 solves) for Mo3, sub-2:30 (within first 3 solves) for Ao5 (conditional on qualifying for Mo3)
+- 6x6x6: Requires sub-4:30 (within first 2 solves) for Mo3 
+- 7x7x7: Requires sub-6:30 (within first 2 solves) for Mo3
 
 Process:
 - Post your video directly to the event page
@@ -27,5 +28,6 @@ Process:
 - Show if it is your fastest single to date with a ⚡ emoji (*)
 - Update the results spreadsheet if you have edit access (*)
 
+* PDF and text scrambles can be found at https://github.com/Logiqx/scw-comp/tree/master/docs
 * You can find your profile and previous bests at https://logiqx.github.io/scw-comp/
 * Add your results via the redirect at https://logiqx.github.io/scw-comp/spreadsheet.html
