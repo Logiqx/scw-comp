@@ -4,7 +4,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Jae Park](../persons/jae_park.md) | 40+ | 0.71 | DNF | 🥇 ⚡ | [Link](https://www.facebook.com/events/367340484222677/permalink/368393814117344/) |
+| 1 | [Jae Park](../persons/jae_park.md) | 40+ | 16:59.61 | DNF | 🥇 ⚡ | [Link](https://www.facebook.com/events/367340484222677/permalink/368393814117344/) |
 
 #### [2020-05-05](results/2020-05-05.md)
 

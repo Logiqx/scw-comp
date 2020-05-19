@@ -9,7 +9,7 @@
 | 5x5x5 | 5:07.36 | 5:55.66 |
 | 3x3x3 BLD | 48.68 | 57.66 |
 | 4BLD | 6:19.94 | DNF |
-| 5BLD | 0.71 | DNF |
+| 5BLD | 16:59.61 | DNF |
 
 #### 3x3x3
 
@@ -86,7 +86,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
-| [2020-05-12](../5bld/results/2020-05-12.md) | 40+ | **0.71** | DNF | 🥇 ⚡ | DNF | **0.71** | DNF | [Link](https://www.facebook.com/events/367340484222677/permalink/368393814117344/) |
+| [2020-05-12](../5bld/results/2020-05-12.md) | 40+ | **16:59.61** | DNF | 🥇 ⚡ | DNF | **16:59.61** | DNF | [Link](https://www.facebook.com/events/367340484222677/permalink/368393814117344/) |
 | [2020-05-05](../5bld/results/2020-05-05.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | [Link](https://www.facebook.com/events/2624652641189887/permalink/2625719967749821/) |
 
 
