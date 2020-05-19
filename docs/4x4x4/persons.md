@@ -5,7 +5,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 4:36.73 | 4:36.73 |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 4:36.73 | DNF |
 
 #### Over 50
 
@@ -14,7 +14,7 @@
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 50.41 | 56.44 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 56.70 | 1:03.64 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 1:17.92 | 1:29.25 |
-| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 4:36.73 | 4:36.73 |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 4:36.73 | DNF |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 2:20.53 | 2:42.21 |
 | [Ron van Bruchem](../persons/ron_van_bruchem.md) | 50+ | 46.32 | 49.81 |
 
@@ -27,7 +27,7 @@
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 50.41 | 56.44 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 56.70 | 1:03.64 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 1:17.92 | 1:29.25 |
-| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 4:36.73 | 4:36.73 |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 4:36.73 | DNF |
 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 1:00.69 | 1:08.62 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 56.11 | 1:11.39 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 2:03.34 | 2:30.77 |

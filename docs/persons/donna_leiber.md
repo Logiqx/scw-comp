@@ -3,7 +3,7 @@
 
 | Event | Single | Average |
 | -- | --: | --: |
-| 4x4x4 | 4:36.73 | 4:36.73 |
+| 4x4x4 | 4:36.73 | DNF |
 | 5x5x5 | 6:41.82 | DNF |
 | 6x6x6 | 13:00.60 | DNF |
 | 7x7x7 | 16:49.48 | DNF |
@@ -12,7 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-05-12](../4x4x4/results/2020-05-12.md) | 60+ | **4:36.73** | **4:36.73** |  | **4:36.73** | 4:50.90 | DNS | DNS | DNS | [Link](https://www.facebook.com/events/276138643524223/permalink/278589039945850/) |
+| [2020-05-12](../4x4x4/results/2020-05-12.md) | 60+ | **4:36.73** | DNF |  | **4:36.73** | 4:50.90 | DNS | DNS | DNS | [Link](https://www.facebook.com/events/276138643524223/permalink/278589039945850/) |
 
 
 #### 5x5x5

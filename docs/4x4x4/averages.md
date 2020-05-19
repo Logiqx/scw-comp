@@ -1,12 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4x4x4 Averages
 
-#### Over 60
-
-| # | Name | Date | Age | Average | Awards | Video |
-| :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 4:36.73 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278589039945850/) |
-
 #### Over 50
 
 | # | Name | Date | Age | Average | Awards | Video |
@@ -16,7 +10,6 @@
 | 3 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-21](results/2020-04-21.md) | 50+ | 1:03.64 | 🥈 🔥 | [Link](https://www.facebook.com/events/538096063773916/permalink/539566816960174/) |
 | 4 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 1:29.25 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/272645773731066/) |
 | 5 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 2:42.21 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
-| 6 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 4:36.73 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278589039945850/) |
 
 #### Over 40
 
@@ -40,7 +33,6 @@
 | 16 | [Jang Junho (장준호)](../persons/jang_junho.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 2:58.70 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/810015492837274/) |
 | 17 | [Jo Cocco](../persons/jo_cocco.md) | [2020-03-31](results/2020-03-31.md) | 40+ | 3:24.75 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/271293767199600/) |
 | 18 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | [2020-02-04](results/2020-02-04.md) | 40+ | 3:38.78 |  | [Link](https://www.facebook.com/joshua.m.woodward.9/videos/10157599917355342/) |
-| 19 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 4:36.73 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278589039945850/) |
 
 #### Under 40
 
