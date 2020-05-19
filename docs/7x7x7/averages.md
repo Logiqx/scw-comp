@@ -6,6 +6,7 @@
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 5:24.33 | 🏆 🥇 | [Link](https://www.facebook.com/events/557526585195168/permalink/558592678421892/) |
+| 2 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 6:03.94 | 🥈 🔥 | [Link](https://www.facebook.com/events/276138643524223/permalink/276382340166520/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

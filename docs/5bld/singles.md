@@ -1,6 +1,18 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 5BLD Singles
 
+#### Over 40
+
+| # | Name | Date | Age | Single | Awards | Video |
+| :--: | -- | :--: | :--: | --: | :--: | -- |
+| 1 | [Jae Park](../persons/jae_park.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 0.71 | 🥇 ⚡ | [Link](https://www.facebook.com/events/367340484222677/permalink/368393814117344/) |
+
+#### Under 40
+
+| # | Name | Date | Age | Single | Awards | Video |
+| :--: | -- | :--: | :--: | --: | :--: | -- |
+| 1 | [Chris Hardwick](../persons/chris_hardwick.md) | [2020-05-12](results/2020-05-12.md) | <40 | 13:18.63 | 🏆 ⚡ | [Link](https://www.facebook.com/events/367340484222677/permalink/369728393983886/) |
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

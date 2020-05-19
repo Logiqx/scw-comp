@@ -1,6 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4x4x4 Singles
 
+#### Over 60
+
+| # | Name | Date | Age | Single | Awards | Video |
+| :--: | -- | :--: | :--: | --: | :--: | -- |
+| 1 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 4:36.73 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278589039945850/) |
+
 #### Over 50
 
 | # | Name | Date | Age | Single | Awards | Video |
@@ -10,6 +16,7 @@
 | 3 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-03-17](results/2020-03-17.md) | 50+ | 56.70 |  | [Link](https://www.facebook.com/events/211732526904866/permalink/212061480205304/) |
 | 4 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 1:17.92 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/272645773731066/) |
 | 5 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 2:20.53 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
+| 6 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 4:36.73 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278589039945850/) |
 
 #### Over 40
 
@@ -24,21 +31,22 @@
 | 7 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-03-17](results/2020-03-17.md) | 50+ | 56.70 |  | [Link](https://www.facebook.com/events/211732526904866/permalink/212061480205304/) |
 | 8 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 1:00.53 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/808608119644678/) |
 | 9 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 1:00.69 | 🔥 ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/809463586225798/) |
-| 10 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-03-31](results/2020-03-31.md) | 40+ | 1:07.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/269372137391763/) |
+| 10 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 1:05.72 | ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/278082766663144/) |
 | 11 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-04-21](results/2020-04-21.md) | 40+ | 1:12.69 | ⚡ | [Link](https://www.facebook.com/events/538096063773916/permalink/541927596724096/) |
 | 12 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 1:17.92 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/272645773731066/) |
-| 13 | [Jae Park](../persons/jae_park.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 2:03.34 | ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/806066883232135/) |
-| 14 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 2:19.60 |  | [Link](https://www.facebook.com/events/557526585195168/permalink/562206448060515/) |
+| 13 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 2:00.11 | 🔥 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/279813449823409/) |
+| 14 | [Jae Park](../persons/jae_park.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 2:03.34 | ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/806066883232135/) |
 | 15 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 2:20.53 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
 | 16 | [Jang Junho (장준호)](../persons/jang_junho.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 2:31.31 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/810015492837274/) |
 | 17 | [Jo Cocco](../persons/jo_cocco.md) | [2020-03-31](results/2020-03-31.md) | 40+ | 2:55.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/271293767199600/) |
 | 18 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | [2020-02-04](results/2020-02-04.md) | 40+ | 3:13.21 |  | [Link](https://www.facebook.com/joshua.m.woodward.9/videos/10157599917355342/) |
+| 19 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 4:36.73 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278589039945850/) |
 
 #### Under 40
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-04-21](results/2020-04-21.md) | <40 | 42.38 | ⚡ | [Link](https://www.facebook.com/events/538096063773916/permalink/542382946678561/) |
+| 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-05-12](results/2020-05-12.md) | <40 | 36.50 | 🏆 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/279409959863758/) |
 | 2 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-05-05](results/2020-05-05.md) | <40 | 46.21 | 🏆 ⚡ | [Link](https://www.facebook.com/events/543220986391837/permalink/548566115857324/) |
 | 3 | [Ed Connell](../persons/ed_connell.md) | [2020-04-14](results/2020-04-14.md) | <40 | 1:00.92 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1404450843090393/) |
 | 4 | [Pete Lee](../persons/pete_lee.md) | [2020-05-05](results/2020-05-05.md) | <40 | 1:04.05 | ⚡ | [Link](https://www.facebook.com/events/557526585195168/permalink/559799351634558/) |

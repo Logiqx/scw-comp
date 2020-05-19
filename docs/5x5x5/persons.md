@@ -1,6 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 5x5x5 Competitors
 
+#### Over 60
+
+| Name | Age | Single | Average |
+| -- | :--: | --: | --: |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 6:41.82 | DNF |
+
 #### Over 50
 
 | Name | Age | Single | Average |
@@ -8,6 +14,7 @@
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 1:42.56 | 1:46.58 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 2:08.36 | 2:18.73 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 2:31.49 | 2:42.21 |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 6:41.82 | DNF |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 5:50.00 | DNF |
 
 #### Over 40
@@ -15,11 +22,12 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 2:28.62 | 2:39.68 |
-| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 1:42.82 | 1:51.41 |
+| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 1:39.44 | 1:46.32 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 1:42.56 | 1:46.58 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 2:08.36 | 2:18.73 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 2:31.49 | 2:42.21 |
-| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 1:50.31 | 2:03.23 |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 6:41.82 | DNF |
+| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 1:50.31 | 2:03.03 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 2:37.21 | 2:48.50 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 5:07.36 | 5:55.66 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 2:17.14 | 2:31.20 |

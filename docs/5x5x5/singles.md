@@ -1,6 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 5x5x5 Singles
 
+#### Over 60
+
+| # | Name | Date | Age | Single | Awards | Video |
+| :--: | -- | :--: | :--: | --: | :--: | -- |
+| 1 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 6:41.82 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278589523279135/) |
+
 #### Over 50
 
 | # | Name | Date | Age | Single | Awards | Video |
@@ -9,13 +15,14 @@
 | 2 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-21](results/2020-04-21.md) | 50+ | 2:08.36 | 🥈 ⚡ | [Link](https://www.facebook.com/ciro.vignotto/videos/10221784538578284/) |
 | 3 | [Daniel Smith](../persons/daniel_smith.md) | [2020-02-18](results/2020-02-18.md) | 50+ | 2:31.49 |  | [Link](https://www.facebook.com/events/538921670053895/permalink/539390146673714/) |
 | 4 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-24](results/2020-03-24.md) | 50+ | 5:50.00 |  | [Link](https://www.facebook.com/events/5078365835514885/permalink/5098666160151519/) |
+| 5 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 6:41.82 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278589523279135/) |
 
 #### Over 40
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Chris Wright](../persons/chris_wright.md) | [2020-03-03](results/2020-03-03.md) | 50+ | 1:42.56 | 🥇 | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639952702955113/) |
-| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 1:42.82 | 🥇 | [Link](https://www.facebook.com/events/538921670053895/permalink/539067020039360/) |
+| 1 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 1:39.44 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/276779116793509/) |
+| 2 | [Chris Wright](../persons/chris_wright.md) | [2020-03-03](results/2020-03-03.md) | 50+ | 1:42.56 | 🥇 | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639952702955113/) |
 | 3 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-03-24](results/2020-03-24.md) | 40+ | 1:50.31 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/5078365835514885/permalink/5101262129891922/) |
 | 4 | [Michael George](../persons/michael_george.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 1:56.90 | 🥈 | [Link](https://www.facebook.com/events/538921670053895/permalink/539655733313822/) |
 | 5 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-21](results/2020-04-21.md) | 50+ | 2:08.36 | 🥈 ⚡ | [Link](https://www.facebook.com/ciro.vignotto/videos/10221784538578284/) |
@@ -28,6 +35,7 @@
 | 12 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | [2020-03-24](results/2020-03-24.md) | 40+ | 4:06.17 |  | [Link](https://www.facebook.com/events/5078365835514885/permalink/5101597413191727/) |
 | 13 | [Jae Park](../persons/jae_park.md) | [2020-03-24](results/2020-03-24.md) | 40+ | 5:07.36 | ⚡ | [Link](https://www.facebook.com/events/5078365835514885/permalink/5079528812065254/) |
 | 14 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-24](results/2020-03-24.md) | 50+ | 5:50.00 |  | [Link](https://www.facebook.com/events/5078365835514885/permalink/5098666160151519/) |
+| 15 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 6:41.82 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278589523279135/) |
 
 #### Under 40
 

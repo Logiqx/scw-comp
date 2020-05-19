@@ -12,7 +12,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 40.68 | 43.90 |
+| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 37.66 | 40.48 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 35.64 | 39.76 |
 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 27.51 | 34.30 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 24.78 | 32.65 |

@@ -15,7 +15,7 @@
 
 | Name | Age | Single |
 | -- | :--: | :--: |
-| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 48 |
+| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 36 |
 | [Ben Coppin](../persons/ben_coppin.md) | 40+ | 25 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 43 |
 | [David Roche](../persons/david_roche.md) | 50+ | 21 |

@@ -1,19 +1,32 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 7x7x7 Competitors
 
+#### Over 60
+
+| Name | Age | Single | Average |
+| -- | :--: | --: | --: |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 16:49.48 | DNF |
+
+#### Over 50
+
+| Name | Age | Single | Average |
+| -- | :--: | --: | --: |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 16:49.48 | DNF |
+
 #### Over 40
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 8:58.29 | DNF |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 4:58.23 | 5:24.33 |
-| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 5:46.09 | DNF |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 16:49.48 | DNF |
+| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 5:46.09 | 6:03.94 |
 
 #### Under 40
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Pete Lee](../persons/pete_lee.md) | <40 | 10:14.79 | DNF |
+| [Pete Lee](../persons/pete_lee.md) | <40 | 9:20.70 | DNF |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

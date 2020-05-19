@@ -1,5 +1,10 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4BLD Senior Podiums
+#### [2020-05-12](results/2020-05-12.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+
 #### [2020-05-05](results/2020-05-05.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

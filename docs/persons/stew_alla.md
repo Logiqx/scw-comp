@@ -1,0 +1,17 @@
+## Senior Cubers Worldwide - Weekly Competition
+### Stew Alla
+
+| Event | Single | Average |
+| -- | --: | --: |
+| 3x3x3 | 20.69 | 23.27 |
+
+#### 3x3x3
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-05-12](../3x3x3/results/2020-05-12.md) | <40 | **20.69** | **23.27** |  | 24.70 | 26.14 | 21.96 | **20.69** | 23.15 | [Link](https://www.facebook.com/events/546188069600739/permalink/550354812517398/) |
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

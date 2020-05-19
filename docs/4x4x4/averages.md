@@ -1,6 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4x4x4 Averages
 
+#### Over 60
+
+| # | Name | Date | Age | Average | Awards | Video |
+| :--: | -- | :--: | :--: | --: | :--: | -- |
+| 1 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 4:36.73 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278589039945850/) |
+
 #### Over 50
 
 | # | Name | Date | Age | Average | Awards | Video |
@@ -10,6 +16,7 @@
 | 3 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-21](results/2020-04-21.md) | 50+ | 1:03.64 | 🥈 🔥 | [Link](https://www.facebook.com/events/538096063773916/permalink/539566816960174/) |
 | 4 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 1:29.25 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/272645773731066/) |
 | 5 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 2:42.21 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
+| 6 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 4:36.73 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278589039945850/) |
 
 #### Over 40
 
@@ -18,21 +25,22 @@
 | 1 | [Ron van Bruchem](../persons/ron_van_bruchem.md) | [2020-03-17](results/2020-03-17.md) | 50+ | 49.81 | 🏆 🥇 | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
 | 2 | [Michael George](../persons/michael_george.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 53.30 | 🏆 🥇 🔥 | [Link](https://www.facebook.com/events/805797596592397/permalink/805925283246295/) |
 | 3 | [Chris Wright](../persons/chris_wright.md) | [2020-02-25](results/2020-02-25.md) | 50+ | 56.44 | 🥈 | [Link](https://www.facebook.com/events/805797596592397/permalink/808666752972148/) |
-| 4 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-03-17](results/2020-03-17.md) | 40+ | 1:02.91 | 🥉 🔥 | [Link](https://www.facebook.com/events/211732526904866/permalink/214826349928817/) |
-| 5 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-21](results/2020-04-21.md) | 50+ | 1:03.64 | 🥈 🔥 | [Link](https://www.facebook.com/events/538096063773916/permalink/539566816960174/) |
-| 6 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 1:07.08 | 🔥 ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/808258373012986/) |
+| 4 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 1:02.62 | 🥈 🔥 | [Link](https://www.facebook.com/events/276138643524223/permalink/276779903460097/) |
+| 5 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-03-17](results/2020-03-17.md) | 40+ | 1:02.91 | 🥉 🔥 | [Link](https://www.facebook.com/events/211732526904866/permalink/214826349928817/) |
+| 6 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-21](results/2020-04-21.md) | 50+ | 1:03.64 | 🥈 🔥 | [Link](https://www.facebook.com/events/538096063773916/permalink/539566816960174/) |
 | 7 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 1:08.62 | 🥈 🔥 | [Link](https://www.facebook.com/events/557526585195168/permalink/560010151613478/) |
 | 8 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 1:11.39 |  | |
 | 9 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-03-17](results/2020-03-17.md) | 40+ | 1:11.54 | 🔥 | [Link](https://www.facebook.com/events/211732526904866/permalink/214999563244829/) |
 | 10 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 1:16.75 | 🔥 | [Link](https://www.facebook.com/events/557526585195168/permalink/559799351634558/) |
 | 11 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-03-31](results/2020-03-31.md) | 40+ | 1:21.31 | 🔥 | [Link](https://www.facebook.com/events/269276700734640/permalink/271465083849135/) |
 | 12 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 1:29.25 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/272645773731066/) |
-| 13 | [Jae Park](../persons/jae_park.md) | [2020-02-04](results/2020-02-04.md) | 40+ | 2:30.77 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2135447743267798/) |
-| 14 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 2:42.21 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
-| 15 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 2:51.79 |  | [Link](https://www.facebook.com/events/557526585195168/permalink/562206448060515/) |
+| 13 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 2:12.09 | 🔥 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/279813449823409/) |
+| 14 | [Jae Park](../persons/jae_park.md) | [2020-02-04](results/2020-02-04.md) | 40+ | 2:30.77 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2135447743267798/) |
+| 15 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 2:42.21 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
 | 16 | [Jang Junho (장준호)](../persons/jang_junho.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 2:58.70 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/810015492837274/) |
 | 17 | [Jo Cocco](../persons/jo_cocco.md) | [2020-03-31](results/2020-03-31.md) | 40+ | 3:24.75 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/271293767199600/) |
 | 18 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | [2020-02-04](results/2020-02-04.md) | 40+ | 3:38.78 |  | [Link](https://www.facebook.com/joshua.m.woodward.9/videos/10157599917355342/) |
+| 19 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 4:36.73 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278589039945850/) |
 
 #### Under 40
 

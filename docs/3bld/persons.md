@@ -30,7 +30,7 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Brooke Persoon](../persons/brooke_persoon.md) | <40 | 18:05.78 | DNF |
-| [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 2:20.12 | DNF |
+| [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 2:10.79 | DNF |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 2:22.99 | DNF |
 
 

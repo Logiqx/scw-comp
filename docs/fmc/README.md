@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Fewest Moves Senior Podiums
+#### [2020-05-12](results/2020-05-12.md)
+
+| # | Name | Age | Single | Solution |
+| :--: | -- | :--: | :--: | :--: | -- |
+| 1 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 27 | [Link](https://www.facebook.com/events/2563130363933815/permalink/2568078846772300/) |
+| 2 | [Michael George](../persons/michael_george.md) | 40+ | 33 | [Link](https://www.facebook.com/events/2563130363933815/permalink/2564203937159791/) |
+| 3 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 36 | [Link](https://www.facebook.com/events/2563130363933815/permalink/2563245993922252/) |
+
 #### [2020-05-05](results/2020-05-05.md)
 
 | # | Name | Age | Single | Solution |

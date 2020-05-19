@@ -19,9 +19,9 @@
 | 3 | [Ben Coppin](../persons/ben_coppin.md) | [2020-03-10](results/2020-03-10.md) | 40+ | 25 | 🥈 ⚡ | [Link](https://www.facebook.com/events/640532176759268/permalink/641063233372829/) |
 | | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 25 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/339284923718995/permalink/341683326812488/) |
 | 5 | [Michael George](../persons/michael_george.md) | [2020-04-07](results/2020-04-07.md) | 40+ | 31 | 🥈 ⚡ | [Link](https://www.facebook.com/events/253518435802861/permalink/254710715683633/) |
-| 6 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-07](results/2020-04-07.md) | 50+ | 43 |  | [Link](https://www.facebook.com/events/253518435802861/permalink/253716005783104/) |
-| 7 | [John Cook](../persons/john_cook.md) | [2020-02-25](results/2020-02-25.md) | 50+ | 45 | 🥉 ⚡ | [Link](https://www.facebook.com/events/215751886207638/permalink/217422122707281/) |
-| 8 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 48 |  | [Link](https://www.facebook.com/events/215751886207638/permalink/216411276141699/) |
+| 6 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 36 | 🥉 ⚡ | [Link](https://www.facebook.com/events/2563130363933815/permalink/2563245993922252/) |
+| 7 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-07](results/2020-04-07.md) | 50+ | 43 |  | [Link](https://www.facebook.com/events/253518435802861/permalink/253716005783104/) |
+| 8 | [John Cook](../persons/john_cook.md) | [2020-02-25](results/2020-02-25.md) | 50+ | 45 | 🥉 ⚡ | [Link](https://www.facebook.com/events/215751886207638/permalink/217422122707281/) |
 
 #### Under 40
 

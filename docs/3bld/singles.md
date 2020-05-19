@@ -29,7 +29,7 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Chris Hardwick](../persons/chris_hardwick.md) | [2020-04-21](results/2020-04-21.md) | <40 | 2:20.12 |  | [Link](https://www.facebook.com/events/1312095715657208/permalink/1312987725568007/) |
+| 1 | [Chris Hardwick](../persons/chris_hardwick.md) | [2020-05-12](results/2020-05-12.md) | <40 | 2:10.79 | ⚡ | [Link](https://www.facebook.com/events/367340484222677/permalink/369108197379239/) |
 | 2 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-11](results/2020-02-11.md) | <40 | 2:22.99 |  | |
 | 3 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-03-03](results/2020-03-03.md) | <40 | 18:05.78 |  | [Link](https://www.facebook.com/events/186820176097844/permalink/191609515618910/) |
 

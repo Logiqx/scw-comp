@@ -19,7 +19,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 7:09.64 | 8:34.50 |
+| [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 6:21.08 | 8:34.50 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
