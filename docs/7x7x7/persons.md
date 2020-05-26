@@ -26,7 +26,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Pete Lee](../persons/pete_lee.md) | <40 | 9:20.70 | DNF |
+| [Pete Lee](../persons/pete_lee.md) | <40 | 8:43.22 | DNF |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

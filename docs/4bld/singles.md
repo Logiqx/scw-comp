@@ -5,14 +5,15 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Peter Andersson](../persons/peter_andersson.md) | [2020-05-05](results/2020-05-05.md) | 50+ | 12:07.77 | 🥈 | [Link](https://www.facebook.com/events/2624652641189887/permalink/2627420757579742/) |
+| 1 | [Peter Andersson](../persons/peter_andersson.md) | [2020-05-19](results/2020-05-19.md) | 50+ | 10:23.86 | 🥇 ⚡ | [Link](https://www.facebook.com/events/2608037409484307/permalink/2612310882390293/) |
 
 #### Over 40
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Jae Park](../persons/jae_park.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 6:19.94 | 🏆 🥇 | [Link](https://www.facebook.com/events/2624652641189887/permalink/2625297171125434/) |
-| 2 | [Peter Andersson](../persons/peter_andersson.md) | [2020-05-05](results/2020-05-05.md) | 50+ | 12:07.77 | 🥈 | [Link](https://www.facebook.com/events/2624652641189887/permalink/2627420757579742/) |
+| 2 | [Peter Andersson](../persons/peter_andersson.md) | [2020-05-19](results/2020-05-19.md) | 50+ | 10:23.86 | 🥇 ⚡ | [Link](https://www.facebook.com/events/2608037409484307/permalink/2612310882390293/) |
+| 3 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-19](results/2020-05-19.md) | 40+ | 10:52.00 | 🥈 ⚡ | [Link](https://www.facebook.com/events/2608037409484307/permalink/2609949869293061/) |
 
 #### Under 40
 

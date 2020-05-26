@@ -31,8 +31,8 @@
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-04-14](results/2020-04-14.md) | <40 | 24.49 | 🏆 🔥 | [Link](https://www.facebook.com/events/982619255468618/permalink/987264148337462/) |
-| 2 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-18](results/2020-02-18.md) | <40 | 27.70 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1621909717949318/) |
-| 3 | [Alex Friedman](../persons/alex_friedman.md) | [2020-05-05](results/2020-05-05.md) | <40 | 27.71 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3313106775587396/permalink/3318782515019822/) |
+| 2 | [Alex Friedman](../persons/alex_friedman.md) | [2020-05-19](results/2020-05-19.md) | <40 | 24.80 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1880761498725633/permalink/1881033222031794/) |
+| 3 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-18](results/2020-02-18.md) | <40 | 27.70 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1621909717949318/) |
 | 4 | [Ed Connell](../persons/ed_connell.md) | [2020-04-07](results/2020-04-07.md) | <40 | 34.04 |  | [Link](https://www.facebook.com/events/682716079141575/permalink/684177285662121/) |
 | 5 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-03-10](results/2020-03-10.md) | <40 | 45.72 | 🔥 | [Link](https://www.facebook.com/events/684510792316675/permalink/687277482040006/) |
 | 6 | [Pete Lee](../persons/pete_lee.md) | [2020-04-14](results/2020-04-14.md) | <40 | 47.46 | 🔥 | [Link](https://www.facebook.com/events/982619255468618/permalink/985950998468777/) |

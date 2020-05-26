@@ -5,14 +5,14 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 13:00.60 | DNF |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 12:31.27 | DNF |
 
 #### Over 50
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 5:28.23 | 5:54.57 |
-| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 13:00.60 | DNF |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 12:31.27 | DNF |
 
 #### Over 40
 
@@ -21,8 +21,9 @@
 | [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 5:21.00 | DNF |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 3:29.70 | 3:36.18 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 5:28.23 | 5:54.57 |
-| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 13:00.60 | DNF |
-| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 3:49.38 | 4:39.94 |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 12:31.27 | DNF |
+| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 3:49.38 | 4:09.55 |
+| [Michael George](../persons/michael_george.md) | 40+ | 5:58.23 | DNF |
 
 #### Under 40
 

@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Senior Podiums
+#### [2020-05-19](results/2020-05-19.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Michael George](../persons/michael_george.md) | 40+ | 13.78 | 14.89 | 🏆 🥇 | [Link](https://www.facebook.com/events/1880761498725633/permalink/1881842171950899/) |
+| 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 14.06 | 18.03 | 🥈 | [Link](https://www.facebook.com/events/1880761498725633/permalink/1884846634983786/) |
+| 3 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 15.77 | 18.39 | 🥉 | [Link](https://www.facebook.com/events/1880761498725633/permalink/1885775318224251/) |
+
 #### [2020-05-12](results/2020-05-12.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

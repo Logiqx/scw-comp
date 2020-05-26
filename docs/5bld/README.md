@@ -1,5 +1,11 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 5BLD Senior Podiums
+#### [2020-05-19](results/2020-05-19.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Jae Park](../persons/jae_park.md) | 40+ | 21:31.36 | DNF | 🥇 | [Link](https://www.facebook.com/events/2608037409484307/permalink/2608621196092595/) |
+
 #### [2020-05-12](results/2020-05-12.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

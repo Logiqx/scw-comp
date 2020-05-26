@@ -15,7 +15,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 10.60 | 11.83 |
+| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 9.79 | 11.83 |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 4.83 | 8.23 |
 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 3.34 | 6.72 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 4.39 | 5.17 |
@@ -40,7 +40,7 @@
 | -- | :--: | --: | --: |
 | [Adam Robson](../persons/adam_robson.md) | <40 | 3.91 | 6.87 |
 | [Brooke Persoon](../persons/brooke_persoon.md) | <40 | 10.73 | 13.95 |
-| [Chris Thames](../persons/chris_thames.md) | <40 | 8.56 | 10.98 |
+| [Chris Thames](../persons/chris_thames.md) | <40 | 8.06 | 10.51 |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 5.78 | 6.57 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 3.50 | 4.50 |
 | [Pete Lee](../persons/pete_lee.md) | <40 | 4.68 | 7.23 |

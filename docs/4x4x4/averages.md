@@ -18,7 +18,7 @@
 | 1 | [Ron van Bruchem](../persons/ron_van_bruchem.md) | [2020-03-17](results/2020-03-17.md) | 50+ | 49.81 | 🏆 🥇 | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
 | 2 | [Michael George](../persons/michael_george.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 53.30 | 🏆 🥇 🔥 | [Link](https://www.facebook.com/events/805797596592397/permalink/805925283246295/) |
 | 3 | [Chris Wright](../persons/chris_wright.md) | [2020-02-25](results/2020-02-25.md) | 50+ | 56.44 | 🥈 | [Link](https://www.facebook.com/events/805797596592397/permalink/808666752972148/) |
-| 4 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 1:02.62 | 🥈 🔥 | [Link](https://www.facebook.com/events/276138643524223/permalink/276779903460097/) |
+| 4 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-19](results/2020-05-19.md) | 40+ | 1:01.28 | 🥈 🔥 | [Link](https://www.facebook.com/events/201300894172579/permalink/202114150757920/) |
 | 5 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-03-17](results/2020-03-17.md) | 40+ | 1:02.91 | 🥉 🔥 | [Link](https://www.facebook.com/events/211732526904866/permalink/214826349928817/) |
 | 6 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-21](results/2020-04-21.md) | 50+ | 1:03.64 | 🥈 🔥 | [Link](https://www.facebook.com/events/538096063773916/permalink/539566816960174/) |
 | 7 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 1:08.62 | 🥈 🔥 | [Link](https://www.facebook.com/events/557526585195168/permalink/560010151613478/) |
@@ -41,7 +41,7 @@
 | 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-03-31](results/2020-03-31.md) | <40 | 49.27 | 🏆 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/272981440364166/) |
 | 2 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-04](results/2020-02-04.md) | <40 | 49.52 | 🏆 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134991299980109/) |
 | 3 | [Ed Connell](../persons/ed_connell.md) | [2020-04-14](results/2020-04-14.md) | <40 | 1:07.97 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1404450843090393/) |
-| 4 | [Pete Lee](../persons/pete_lee.md) | [2020-04-14](results/2020-04-14.md) | <40 | 1:16.95 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1405527432982734/) |
+| 4 | [Pete Lee](../persons/pete_lee.md) | [2020-05-19](results/2020-05-19.md) | <40 | 1:12.04 | 🔥 | [Link](https://www.facebook.com/events/201300894172579/permalink/203097117326290/) |
 | 5 | [Isak Majer](../persons/isak_majer.md) | [2020-02-04](results/2020-02-04.md) | <40 | 1:50.60 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |
 | 6 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-02-04](results/2020-02-04.md) | <40 | 2:38.28 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
 
@@ -50,6 +50,7 @@
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Raimon Schaap](../persons/raimon_schaap.md) | [2020-05-05](results/2020-05-05.md) | <30 | 1:23.57 | 🔥 | [Link](https://www.facebook.com/events/557526585195168/permalink/557561768524983/) |
+| 2 | [Joshua David Riegel](../persons/joshua_david_riegel.md) | [2020-05-19](results/2020-05-19.md) | <30 | 1:43.47 |  | [Link](https://www.facebook.com/events/201300894172579/permalink/203589730610362/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

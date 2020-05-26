@@ -10,6 +10,12 @@
 | 3 | [Huy Nguyen](../persons/huy_nguyen.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 2:06.80 | 🔥 | [Link](https://www.facebook.com/events/534758690547855/permalink/535432553813802/) |
 | 4 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 2:24.45 |  | [Link](https://www.facebook.com/events/173728187264773/permalink/174217337215858/) |
 
+#### Under 40
+
+| # | Name | Date | Age | Average | Awards | Video |
+| :--: | -- | :--: | :--: | --: | :--: | -- |
+| 1 | [Chris Hardwick](../persons/chris_hardwick.md) | [2020-05-19](results/2020-05-19.md) | <40 | 2:14.12 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2608037409484307/permalink/2610947279193320/?ref=3&action_history=null/) |
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

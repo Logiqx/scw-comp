@@ -63,6 +63,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-05-19](../3bld/results/2020-05-19.md) | 40+ | 51.80 | DNF | 🏆 🥇 | 51.80 | DNF | DNF | [Link](https://www.facebook.com/events/2608037409484307/permalink/2609676329320415/) |
 | [2020-05-12](../3bld/results/2020-05-12.md) | 40+ | 1:02.40 | DNF | 🏆 🥇 | 1:02.40 | 1:15.25 | DNF | [Link](https://www.facebook.com/events/367340484222677/permalink/368871534069572/) |
 | [2020-05-05](../3bld/results/2020-05-05.md) | 40+ | 54.56 | DNF | 🏆 🥇 | DNF | 54.56 | DNF | [Link](https://www.facebook.com/events/2624652641189887/permalink/2627851630869988/) |
 | [2020-04-28](../3bld/results/2020-04-28.md) | 40+ | 1:10.91 | DNF | 🏆 🥇 | 1:10.91 | DNF | DNF | [Link](https://www.facebook.com/events/534758690547855/permalink/534848220538902/) |
@@ -78,6 +79,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-05-19](../4bld/results/2020-05-19.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | |
 | [2020-05-12](../4bld/results/2020-05-12.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | [Link](https://www.facebook.com/events/367340484222677/permalink/370228633933862/) |
 | [2020-05-05](../4bld/results/2020-05-05.md) | 40+ | **6:19.94** | DNF | 🏆 🥇 | DNF | **6:19.94** | DNF | [Link](https://www.facebook.com/events/2624652641189887/permalink/2625297171125434/) |
 
@@ -86,6 +88,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-05-19](../5bld/results/2020-05-19.md) | 40+ | 21:31.36 | DNF | 🥇 | 21:31.36 | DNF | DNF | [Link](https://www.facebook.com/events/2608037409484307/permalink/2608621196092595/) |
 | [2020-05-12](../5bld/results/2020-05-12.md) | 40+ | **16:59.61** | DNF | 🥇 ⚡ | DNF | **16:59.61** | DNF | [Link](https://www.facebook.com/events/367340484222677/permalink/368393814117344/) |
 | [2020-05-05](../5bld/results/2020-05-05.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | [Link](https://www.facebook.com/events/2624652641189887/permalink/2625719967749821/) |
 

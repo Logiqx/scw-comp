@@ -12,7 +12,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 37.66 | 40.48 |
+| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 34.81 | 40.48 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 35.64 | 39.76 |
 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 27.51 | 34.30 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 24.78 | 32.65 |
@@ -30,7 +30,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Alex Friedman](../persons/alex_friedman.md) | <40 | 21.88 | 27.71 |
+| [Alex Friedman](../persons/alex_friedman.md) | <40 | 21.43 | 24.80 |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 22.50 | 34.04 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 22.13 | 24.49 |
 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | <40 | 39.68 | 45.72 |

@@ -30,7 +30,7 @@
 | 13 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 6.53 | 🔥 ⚡ | [Link](https://www.facebook.com/events/637372103486119/permalink/641080066448656/) |
 | 14 | [Stuart Salmon](../persons/stuart_salmon.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 8.07 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/181182663175143/) |
 | 15 | [Jang Junho (장준호)](../persons/jang_junho.md) | [2020-04-21](results/2020-04-21.md) | 40+ | 9.01 | 🔥 ⚡ | [Link](https://www.facebook.com/events/880278499062375/permalink/884489028641322/) |
-| 16 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 10.60 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2981566378571526/) |
+| 16 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-05-19](results/2020-05-19.md) | 40+ | 9.79 | ⚡ | [Link](https://www.facebook.com/events/1880761498725633/permalink/1881855291949587/) |
 | 17 | [Jo Cocco](../persons/jo_cocco.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 10.83 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2981767918551372/) |
 | 18 | [Jae Park](../persons/jae_park.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 12.95 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/177449880215088/) |
 
@@ -43,7 +43,7 @@
 | 3 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-25](results/2020-02-25.md) | <40 | 4.34 | 🏆 | [Link](https://www.facebook.com/events/2972213492840148/permalink/2975010722560425/) |
 | 4 | [Pete Lee](../persons/pete_lee.md) | [2020-05-05](results/2020-05-05.md) | <40 | 4.68 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3313106775587396/permalink/3316052955292778/) |
 | 5 | [Ed Connell](../persons/ed_connell.md) | [2020-03-31](results/2020-03-31.md) | <40 | 5.78 |  | [Link](https://www.facebook.com/events/637372103486119/permalink/638709733352356/) |
-| 6 | [Chris Thames](../persons/chris_thames.md) | [2020-05-12](results/2020-05-12.md) | <40 | 8.56 |  | [Link](https://www.facebook.com/events/546188069600739/permalink/550216622531217/) |
+| 6 | [Chris Thames](../persons/chris_thames.md) | [2020-05-19](results/2020-05-19.md) | <40 | 8.06 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1880761498725633/permalink/1883380035130446/) |
 | 7 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-02-11](results/2020-02-11.md) | <40 | 10.73 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/181292296497513/) |
 
 #### Under 30

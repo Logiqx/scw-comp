@@ -26,7 +26,7 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Pete Lee](../persons/pete_lee.md) | [2020-05-12](results/2020-05-12.md) | <40 | 9:20.70 | ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/276380270166727/) |
+| 1 | [Pete Lee](../persons/pete_lee.md) | [2020-05-19](results/2020-05-19.md) | <40 | 8:43.22 | ⚡ | [Link](https://www.facebook.com/events/201300894172579/permalink/201442917491710/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

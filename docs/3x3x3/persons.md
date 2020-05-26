@@ -10,8 +10,8 @@
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 24.75 | 27.32 |
 | [David Burchill](../persons/david_burchill.md) | 50+ | 28.50 | 34.84 |
 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | 50+ | 25.79 | 28.76 |
-| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.60 | 30.91 |
-| [Peter Andersson](../persons/peter_andersson.md) | 50+ | 23.78 | 27.17 |
+| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.60 | 29.24 |
+| [Peter Andersson](../persons/peter_andersson.md) | 50+ | 20.85 | 24.84 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 31.12 | 35.24 |
 | [Robert Summerfield](../persons/robert_summerfield.md) | 50+ | 23.15 | 24.96 |
 
@@ -39,11 +39,11 @@
 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | 50+ | 25.79 | 28.76 |
 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | 40+ | 38.26 | 40.14 |
 | [Kerrie Jarman](../persons/kerrie_jarman.md) | 40+ | 47.24 | 53.32 |
-| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.60 | 30.91 |
+| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.60 | 29.24 |
 | [Mark Charlesworth](../persons/mark_charlesworth.md) | 40+ | 27.78 | 34.14 |
 | [Michael George](../persons/michael_george.md) | 40+ | 11.64 | 13.67 |
 | [Michael Policastro](../persons/michael_policastro.md) | 40+ | 34.15 | 35.24 |
-| [Peter Andersson](../persons/peter_andersson.md) | 50+ | 23.78 | 27.17 |
+| [Peter Andersson](../persons/peter_andersson.md) | 50+ | 20.85 | 24.84 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 31.12 | 35.24 |
 | [Pontus Uggla](../persons/pontus_uggla.md) | 40+ | 18.25 | 20.09 |
 | [Raúl Morales](../persons/raul_morales.md) | 40+ | 15.73 | 19.60 |
@@ -61,8 +61,8 @@
 | [Alex Friedman](../persons/alex_friedman.md) | <40 | 15.47 | 18.36 |
 | [Brooke Persoon](../persons/brooke_persoon.md) | <40 | 39.40 | 47.49 |
 | [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 12.30 | 13.42 |
-| [Chris Thames](../persons/chris_thames.md) | <40 | 33.53 | 38.68 |
-| [Ed Connell](../persons/ed_connell.md) | <40 | 14.29 | 18.29 |
+| [Chris Thames](../persons/chris_thames.md) | <40 | 33.53 | 37.50 |
+| [Ed Connell](../persons/ed_connell.md) | <40 | 14.29 | 17.72 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 11.23 | 12.74 |
 | [Isak Majer](../persons/isak_majer.md) | <40 | 16.05 | 18.84 |
 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | <40 | 21.03 | 24.65 |
@@ -76,6 +76,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
+| [Joshua David Riegel](../persons/joshua_david_riegel.md) | <30 | 26.41 | 31.72 |
 | [Peyton Blevins](../persons/peyton_blevins.md) | <30 | 28.16 | 30.48 |
 | [Raimon Schaap](../persons/raimon_schaap.md) | <30 | 13.58 | 15.99 |
 | [Tom Doolinski](../persons/tom_doolinski.md) | <30 | 13.48 | 14.99 |

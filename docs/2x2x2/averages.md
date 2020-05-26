@@ -43,7 +43,7 @@
 | 3 | [Ed Connell](../persons/ed_connell.md) | [2020-04-14](results/2020-04-14.md) | <40 | 6.57 | 🔥 | [Link](https://www.facebook.com/events/982619255468618/permalink/985744501822760/) |
 | 4 | [Adam Robson](../persons/adam_robson.md) | [2020-02-25](results/2020-02-25.md) | <40 | 6.87 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2979462932115204/) |
 | 5 | [Pete Lee](../persons/pete_lee.md) | [2020-05-05](results/2020-05-05.md) | <40 | 7.23 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3313106775587396/permalink/3316052955292778/) |
-| 6 | [Chris Thames](../persons/chris_thames.md) | [2020-05-12](results/2020-05-12.md) | <40 | 10.98 |  | [Link](https://www.facebook.com/events/546188069600739/permalink/550216622531217/) |
+| 6 | [Chris Thames](../persons/chris_thames.md) | [2020-05-19](results/2020-05-19.md) | <40 | 10.51 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1880761498725633/permalink/1883380035130446/) |
 | 7 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-02-11](results/2020-02-11.md) | <40 | 13.95 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/181292296497513/) |
 
 #### Under 30

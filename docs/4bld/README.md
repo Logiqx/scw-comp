@@ -1,5 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4BLD Senior Podiums
+#### [2020-05-19](results/2020-05-19.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Peter Andersson](../persons/peter_andersson.md) | 50+ | 10:23.86 | DNF | 🥇 ⚡ | [Link](https://www.facebook.com/events/2608037409484307/permalink/2612310882390293/) |
+| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 10:52.00 | DNF | 🥈 ⚡ | [Link](https://www.facebook.com/events/2608037409484307/permalink/2609949869293061/) |
+
 #### [2020-05-12](results/2020-05-12.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
