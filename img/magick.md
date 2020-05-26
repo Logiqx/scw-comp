@@ -25,6 +25,10 @@ mogrify -format png -path png -resize 900x471 -gravity center -extent 1200x628 s
 convert svg/333.svg svg/222.svg svg/333oh.svg -splice 200x0+0+0 +append -chop 200x0+0+0 -resize 1000x628 -gravity center -extent 1200x628 png/333+.png
 ```
 
+```
+convert svg/333.svg svg/222.svg svg/333oh.svg svg/minx.svg -splice 200x0+0+0 +append -chop 200x0+0+0 -resize 1000x628 -gravity center -extent 1200x628 png/333+.png
+```
+
 #### 4x4x4+
 
 ```
