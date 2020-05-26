@@ -7,7 +7,7 @@ Events: 3x3x3, 2x2x2 and OH (3x3x3 One-Handed)
 Rules:
 - Entry in one continuous video
 - Cube and timer visible
-- Use the 5 scrambles provided for Ao5 or Mo3 (* see cutoffs below)
+- Use the 5 scrambles provided for Ao5 / Mo3 / Bo2 (* see cutoffs below)
 - Inspection limit of 15 seconds
  
 * Ao5 = average of 5 (discard fastest and slowest solves), Mo3 = mean of 3
