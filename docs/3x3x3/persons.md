@@ -1,14 +1,21 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Competitors
 
+#### Over 60
+
+| Name | Age | Single | Average |
+| -- | :--: | --: | --: |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 52.97 | 59.90 |
+
 #### Over 50
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 10.58 | 13.94 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 14.59 | 18.05 |
-| [Daniel Smith](../persons/daniel_smith.md) | 50+ | 24.75 | 27.32 |
+| [Daniel Smith](../persons/daniel_smith.md) | 50+ | 22.27 | 27.32 |
 | [David Burchill](../persons/david_burchill.md) | 50+ | 28.50 | 34.84 |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 52.97 | 59.90 |
 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | 50+ | 25.79 | 28.76 |
 | [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.60 | 29.24 |
 | [Peter Andersson](../persons/peter_andersson.md) | 50+ | 20.85 | 24.84 |
@@ -19,28 +26,29 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 15.39 | 19.70 |
+| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 15.39 | 19.08 |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 14.08 | 17.70 |
 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 18.14 | 22.81 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 10.58 | 13.94 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 14.59 | 18.05 |
-| [Daniel Smith](../persons/daniel_smith.md) | 50+ | 24.75 | 27.32 |
+| [Daniel Smith](../persons/daniel_smith.md) | 50+ | 22.27 | 27.32 |
 | [David Burchill](../persons/david_burchill.md) | 50+ | 28.50 | 34.84 |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 52.97 | 59.90 |
 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 14.77 | 17.54 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 13.37 | 14.77 |
 | [Huy Nguyen](../persons/huy_nguyen.md) | 40+ | 17.19 | 20.72 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 17.58 | 22.30 |
-| [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 27.77 | 29.62 |
+| [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 26.02 | 29.62 |
 | [Jang Junho (장준호)](../persons/jang_junho.md) | 40+ | 20.33 | 25.66 |
 | [Jason Green](../persons/jason_green.md) | 40+ | 17.22 | 18.51 |
 | [Jean van den Bergh](../persons/jean_van_den_bergh.md) | 40+ | 38.55 | 40.85 |
-| [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 14.76 | 17.73 |
+| [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 14.76 | 16.89 |
 | [Jo Cocco](../persons/jo_cocco.md) | 40+ | 37.21 | 46.19 |
 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | 50+ | 25.79 | 28.76 |
 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | 40+ | 38.26 | 40.14 |
 | [Kerrie Jarman](../persons/kerrie_jarman.md) | 40+ | 47.24 | 53.32 |
 | [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.60 | 29.24 |
-| [Mark Charlesworth](../persons/mark_charlesworth.md) | 40+ | 27.78 | 34.14 |
+| [Mark Charlesworth](../persons/mark_charlesworth.md) | 40+ | 27.78 | 30.02 |
 | [Michael George](../persons/michael_george.md) | 40+ | 11.64 | 13.67 |
 | [Michael Policastro](../persons/michael_policastro.md) | 40+ | 34.15 | 35.24 |
 | [Peter Andersson](../persons/peter_andersson.md) | 50+ | 20.85 | 24.84 |
@@ -61,13 +69,13 @@
 | [Alex Friedman](../persons/alex_friedman.md) | <40 | 15.47 | 18.36 |
 | [Brooke Persoon](../persons/brooke_persoon.md) | <40 | 39.40 | 47.49 |
 | [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 12.30 | 13.42 |
-| [Chris Thames](../persons/chris_thames.md) | <40 | 33.53 | 37.50 |
-| [Ed Connell](../persons/ed_connell.md) | <40 | 14.29 | 17.72 |
+| [Chris Thames](../persons/chris_thames.md) | <40 | 30.50 | 33.09 |
+| [Ed Connell](../persons/ed_connell.md) | <40 | 14.29 | 17.43 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 11.23 | 12.74 |
 | [Isak Majer](../persons/isak_majer.md) | <40 | 16.05 | 18.84 |
 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | <40 | 21.03 | 24.65 |
 | [Matthew Hart](../persons/matthew_hart.md) | <40 | 22.72 | 24.96 |
-| [Pete Lee](../persons/pete_lee.md) | <40 | 15.42 | 19.30 |
+| [Pete Lee](../persons/pete_lee.md) | <40 | 15.42 | 19.11 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 10.19 | 13.04 |
 | [Stew Alla](../persons/stew_alla.md) | <40 | 20.69 | 23.27 |
 | [Zack Âû Black](../persons/zack_au_black.md) | <40 | 15.72 | 21.80 |
@@ -86,6 +94,7 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Jaidon Adams](../persons/jaidon_adams.md) | <20 | 8.31 | 8.67 |
+| [Jonathan Charlesworth](../persons/jonathan_charlesworth.md) | <20 | 9.13 | 10.26 |
 | [Will Lambert](../persons/will_lambert.md) | <20 | 9.74 | 11.51 |
 
 

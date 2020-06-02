@@ -11,6 +11,8 @@ Best Averages - [3x3x3](3x3x3/averages.md), [2x2x2](2x2x2/averages.md), [4x4x4](
 Seniors - [3x3x3](3x3x3/README.md), [2x2x2](2x2x2/README.md), [4x4x4](4x4x4/README.md), [5x5x5](5x5x5/README.md), [6x6x6](6x6x6/README.md), [7x7x7](7x7x7/README.md), [3x3x3 OH](oh/README.md), [3x3x3 BLD](3bld/README.md), [4BLD](4bld/README.md), [5BLD](5bld/README.md), [3x3x3 FMC](fmc/README.md)
 
 #### Results
+2020-05-26 - [3x3x3](3x3x3/results/2020-05-26.md), [2x2x2](2x2x2/results/2020-05-26.md), [4x4x4](4x4x4/results/2020-05-26.md), [5x5x5](5x5x5/results/2020-05-26.md), [6x6x6](6x6x6/results/2020-05-26.md), [7x7x7](7x7x7/results/2020-05-26.md), [3x3x3 OH](oh/results/2020-05-26.md), [3x3x3 BLD](3bld/results/2020-05-26.md), [4BLD](4bld/results/2020-05-26.md), [5BLD](5bld/results/2020-05-26.md), [3x3x3 FMC](fmc/results/2020-05-26.md)
+
 2020-05-19 - [3x3x3](3x3x3/results/2020-05-19.md), [2x2x2](2x2x2/results/2020-05-19.md), [4x4x4](4x4x4/results/2020-05-19.md), [5x5x5](5x5x5/results/2020-05-19.md), [6x6x6](6x6x6/results/2020-05-19.md), [7x7x7](7x7x7/results/2020-05-19.md), [3x3x3 OH](oh/results/2020-05-19.md), [3x3x3 BLD](3bld/results/2020-05-19.md), [4BLD](4bld/results/2020-05-19.md), [5BLD](5bld/results/2020-05-19.md), [3x3x3 FMC](fmc/results/2020-05-19.md)
 
 2020-05-12 - [3x3x3](3x3x3/results/2020-05-12.md), [2x2x2](2x2x2/results/2020-05-12.md), [4x4x4](4x4x4/results/2020-05-12.md), [5x5x5](5x5x5/results/2020-05-12.md), [6x6x6](6x6x6/results/2020-05-12.md), [7x7x7](7x7x7/results/2020-05-12.md), [3x3x3 OH](oh/results/2020-05-12.md), [3x3x3 BLD](3bld/results/2020-05-12.md), [4BLD](4bld/results/2020-05-12.md), [5BLD](5bld/results/2020-05-12.md), [3x3x3 FMC](fmc/results/2020-05-12.md)

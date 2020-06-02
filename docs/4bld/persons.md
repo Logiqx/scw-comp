@@ -21,6 +21,12 @@
 | -- | :--: | --: | --: |
 | [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 6:21.08 | 8:34.50 |
 
+#### Under 20
+
+| Name | Age | Single | Average |
+| -- | :--: | --: | --: |
+| [Zain Ali](../persons/zain_ali.md) | <20 | 5:52.90 | DNF |
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

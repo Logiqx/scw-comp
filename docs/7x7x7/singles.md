@@ -5,13 +5,13 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 16:49.48 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278590303279057/) |
+| 1 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-26](results/2020-05-26.md) | 60+ | 15:59.23 | ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640055109913097/) |
 
 #### Over 50
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 16:49.48 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278590303279057/) |
+| 1 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-26](results/2020-05-26.md) | 60+ | 15:59.23 | ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640055109913097/) |
 
 #### Over 40
 
@@ -20,13 +20,14 @@
 | 1 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 4:58.23 | 🏆 🥇 | [Link](https://www.facebook.com/events/557526585195168/permalink/558592678421892/) |
 | 2 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 5:46.09 | 🥈 | [Link](https://www.facebook.com/events/557526585195168/permalink/557747151839778/) |
 | 3 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 8:58.29 | 🥉 | [Link](https://www.facebook.com/events/557526585195168/permalink/557741281840365/) |
-| 4 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-12](results/2020-05-12.md) | 60+ | 16:49.48 |  | [Link](https://www.facebook.com/events/276138643524223/permalink/278590303279057/) |
+| 4 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-26](results/2020-05-26.md) | 60+ | 15:59.23 | ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640055109913097/) |
 
 #### Under 40
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Pete Lee](../persons/pete_lee.md) | [2020-05-19](results/2020-05-19.md) | <40 | 8:43.22 | ⚡ | [Link](https://www.facebook.com/events/201300894172579/permalink/201442917491710/) |
+| 1 | [Pete Lee](../persons/pete_lee.md) | [2020-05-26](results/2020-05-26.md) | <40 | 8:24.09 | ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/638057023446239/) |
+| 2 | [Ed Connell](../persons/ed_connell.md) | [2020-05-26](results/2020-05-26.md) | <40 | 8:56.69 |  | [Link](https://www.facebook.com/events/637852836799991/permalink/640364566548818/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -12,19 +12,20 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Michael George](../persons/michael_george.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 18.93 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/535188653858103/permalink/535332343843734/) |
+| 1 | [Michael George](../persons/michael_george.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 18.57 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/691891971641021/) |
 | 2 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-04-21](results/2020-04-21.md) | 40+ | 23.59 | 🥈 ⚡ | [Link](https://www.facebook.com/events/880278499062375/permalink/882003692223189/) |
 | 3 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-04-07](results/2020-04-07.md) | 40+ | 24.78 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/682716079141575/permalink/686891215390728/) |
 | 4 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-03-24](results/2020-03-24.md) | 40+ | 27.51 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/212335450005639/permalink/215249939714190/) |
 | 5 | [Raúl Morales](../persons/raul_morales.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 31.07 |  | |
 | 6 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 31.59 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1622459904560966/) |
-| 7 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-19](results/2020-05-19.md) | 40+ | 34.81 | ⚡ | [Link](https://www.facebook.com/events/1880761498725633/permalink/1884578361677280/) |
+| 7 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 34.17 | 🥉 ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/690047708492114/) |
 | 8 | [Chris Wright](../persons/chris_wright.md) | [2020-03-10](results/2020-03-10.md) | 50+ | 35.64 |  | [Link](https://www.facebook.com/events/684510792316675/permalink/685546418879779/) |
 | 9 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-03-24](results/2020-03-24.md) | 40+ | 36.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/212335450005639/permalink/213082393264278/) |
 | 10 | [Jason Green](../persons/jason_green.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 41.05 |  | [Link](https://www.facebook.com/jasongreenbowler/videos/10163336975180425/) |
 | 11 | [Jang Junho (장준호)](../persons/jang_junho.md) | [2020-04-07](results/2020-04-07.md) | 40+ | 59.25 | 🔥 ⚡ | [Link](https://www.facebook.com/events/682716079141575/permalink/686595828753600/) |
 | 12 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-24](results/2020-03-24.md) | 50+ | 1:26.57 | ⚡ | [Link](https://www.facebook.com/events/212335450005639/permalink/214352896470561/) |
 | 13 | [Jo Cocco](../persons/jo_cocco.md) | [2020-03-24](results/2020-03-24.md) | 40+ | 1:30.67 | ⚡ | [Link](https://www.facebook.com/events/212335450005639/permalink/216613862911131/) |
+| 14 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 8:27.01 |  | [Link](https://www.facebook.com/events/688407551989463/permalink/692401598256725/) |
 
 #### Under 40
 

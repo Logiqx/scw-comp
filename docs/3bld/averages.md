@@ -16,6 +16,12 @@
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Chris Hardwick](../persons/chris_hardwick.md) | [2020-05-19](results/2020-05-19.md) | <40 | 2:14.12 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2608037409484307/permalink/2610947279193320/?ref=3&action_history=null/) |
 
+#### Under 20
+
+| # | Name | Date | Age | Average | Awards | Video |
+| :--: | -- | :--: | :--: | --: | :--: | -- |
+| 1 | [Zain Ali](../persons/zain_ali.md) | [2020-05-26](results/2020-05-26.md) | <20 | 1:01.73 | 🏆 | [Link](https://www.facebook.com/events/1531820936993798/permalink/1535485533294005/) |
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

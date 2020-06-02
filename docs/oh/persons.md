@@ -12,15 +12,16 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 34.81 | 40.48 |
+| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 8:27.01 | DNF |
+| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 34.17 | 40.48 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 35.64 | 39.76 |
-| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 27.51 | 34.30 |
+| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 27.51 | 30.96 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 24.78 | 32.65 |
 | [Jang Junho (장준호)](../persons/jang_junho.md) | 40+ | 59.25 | 1:06.79 |
 | [Jason Green](../persons/jason_green.md) | 40+ | 41.05 | 42.76 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 36.79 | 44.49 |
 | [Jo Cocco](../persons/jo_cocco.md) | 40+ | 1:30.67 | 1:45.62 |
-| [Michael George](../persons/michael_george.md) | 40+ | 18.93 | 21.87 |
+| [Michael George](../persons/michael_george.md) | 40+ | 18.57 | 21.87 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 1:26.57 | 1:57.43 |
 | [Raúl Morales](../persons/raul_morales.md) | 40+ | 31.07 | 37.84 |
 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 23.59 | 32.56 |

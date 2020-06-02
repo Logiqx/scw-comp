@@ -1,6 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 2x2x2 Averages
 
+#### Over 60
+
+| # | Name | Date | Age | Average | Awards | Video |
+| :--: | -- | :--: | :--: | --: | :--: | -- |
+| 1 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-26](results/2020-05-26.md) | 60+ | 32.64 |  | [Link](https://www.facebook.com/events/688407551989463/permalink/690853598411525/) |
+
 #### Over 50
 
 | # | Name | Date | Age | Average | Awards | Video |
@@ -9,7 +15,9 @@
 | 2 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-28](results/2020-04-28.md) | 50+ | 5.74 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/535188653858103/permalink/535791083797860/) |
 | 3 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 7.65 | 🔥 | [Link](https://www.facebook.com/events/637372103486119/permalink/640639133159416/) |
 | 4 | [Lisa Kucala](../persons/lisa_kucala.md) | [2020-05-12](results/2020-05-12.md) | 50+ | 8.14 | 🥉 🔥 | [Link](https://www.facebook.com/events/546188069600739/permalink/547730619446484/) |
-| 5 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 10.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/637372103486119/permalink/641080066448656/) |
+| 5 | [Peter Andersson](../persons/peter_andersson.md) | [2020-05-26](results/2020-05-26.md) | 50+ | 9.38 |  | [Link](https://www.facebook.com/events/688407551989463/permalink/690673085096243/) |
+| 6 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 10.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/637372103486119/permalink/641080066448656/) |
+| 7 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-26](results/2020-05-26.md) | 60+ | 32.64 |  | [Link](https://www.facebook.com/events/688407551989463/permalink/690853598411525/) |
 
 #### Over 40
 
@@ -26,13 +34,15 @@
 | 9 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 7.65 | 🔥 | [Link](https://www.facebook.com/events/637372103486119/permalink/640639133159416/) |
 | 10 | [Lisa Kucala](../persons/lisa_kucala.md) | [2020-05-12](results/2020-05-12.md) | 50+ | 8.14 | 🥉 🔥 | [Link](https://www.facebook.com/events/546188069600739/permalink/547730619446484/) |
 | 11 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 8.23 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2980371598691004/) |
-| 12 | [Jang Junho (장준호)](../persons/jang_junho.md) | [2020-04-21](results/2020-04-21.md) | 40+ | 10.40 | 🔥 ⚡ | [Link](https://www.facebook.com/events/880278499062375/permalink/884489028641322/) |
-| 13 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 10.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/637372103486119/permalink/641080066448656/) |
-| 14 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 10.94 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2982607318467432/) |
-| 15 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 11.83 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2981566378571526/) |
-| 16 | [Stuart Salmon](../persons/stuart_salmon.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 12.10 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/181182663175143/) |
-| 17 | [Jo Cocco](../persons/jo_cocco.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 14.11 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2981767918551372/) |
-| 18 | [Jae Park](../persons/jae_park.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 19.45 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/177449880215088/) |
+| 12 | [Peter Andersson](../persons/peter_andersson.md) | [2020-05-26](results/2020-05-26.md) | 50+ | 9.38 |  | [Link](https://www.facebook.com/events/688407551989463/permalink/690673085096243/) |
+| 13 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 10.19 | 🔥 ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/689016551928563/) |
+| 14 | [Jang Junho (장준호)](../persons/jang_junho.md) | [2020-04-21](results/2020-04-21.md) | 40+ | 10.40 | 🔥 ⚡ | [Link](https://www.facebook.com/events/880278499062375/permalink/884489028641322/) |
+| 15 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 10.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/637372103486119/permalink/641080066448656/) |
+| 16 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 10.94 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2982607318467432/) |
+| 17 | [Stuart Salmon](../persons/stuart_salmon.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 12.10 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/181182663175143/) |
+| 18 | [Jo Cocco](../persons/jo_cocco.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 14.11 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2981767918551372/) |
+| 19 | [Jae Park](../persons/jae_park.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 19.45 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/177449880215088/) |
+| 20 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-26](results/2020-05-26.md) | 60+ | 32.64 |  | [Link](https://www.facebook.com/events/688407551989463/permalink/690853598411525/) |
 
 #### Under 40
 

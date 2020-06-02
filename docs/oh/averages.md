@@ -13,9 +13,9 @@
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Michael George](../persons/michael_george.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 21.87 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/535188653858103/permalink/535332343843734/) |
-| 2 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 32.56 | 🥈 🔥 | [Link](https://www.facebook.com/events/3313106775587396/permalink/3314531595444914/) |
-| 3 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 32.65 | 🥈 🔥 | [Link](https://www.facebook.com/events/535188653858103/permalink/537395990304036/) |
-| 4 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 34.30 | 🔥 | [Link](https://www.facebook.com/events/535188653858103/permalink/538269710216664/) |
+| 2 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 30.96 | 🥈 🔥 | [Link](https://www.facebook.com/events/688407551989463/permalink/690561981774020/) |
+| 3 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 32.56 | 🥈 🔥 | [Link](https://www.facebook.com/events/3313106775587396/permalink/3314531595444914/) |
+| 4 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-04-28](results/2020-04-28.md) | 40+ | 32.65 | 🥈 🔥 | [Link](https://www.facebook.com/events/535188653858103/permalink/537395990304036/) |
 | 5 | [Raúl Morales](../persons/raul_morales.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 37.84 |  | |
 | 6 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 38.24 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1622459904560966/) |
 | 7 | [Chris Wright](../persons/chris_wright.md) | [2020-03-10](results/2020-03-10.md) | 50+ | 39.76 |  | [Link](https://www.facebook.com/events/684510792316675/permalink/685546418879779/) |

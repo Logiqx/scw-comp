@@ -1,5 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4BLD Senior Podiums
+#### [2020-05-26](results/2020-05-26.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Jae Park](../persons/jae_park.md) | 40+ | 7:13.60 | DNF | 🥇 | [Link](https://www.facebook.com/events/1531820936993798/permalink/1533623833480175/) |
+| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 10:55.81 | DNF | 🥈 | [Link](https://www.facebook.com/events/1531820936993798/permalink/1535542499954975/) |
+
 #### [2020-05-19](results/2020-05-19.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

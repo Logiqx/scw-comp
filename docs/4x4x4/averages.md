@@ -21,13 +21,13 @@
 | 4 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-19](results/2020-05-19.md) | 40+ | 1:01.28 | 🥈 🔥 | [Link](https://www.facebook.com/events/201300894172579/permalink/202114150757920/) |
 | 5 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-03-17](results/2020-03-17.md) | 40+ | 1:02.91 | 🥉 🔥 | [Link](https://www.facebook.com/events/211732526904866/permalink/214826349928817/) |
 | 6 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-21](results/2020-04-21.md) | 50+ | 1:03.64 | 🥈 🔥 | [Link](https://www.facebook.com/events/538096063773916/permalink/539566816960174/) |
-| 7 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 1:08.62 | 🥈 🔥 | [Link](https://www.facebook.com/events/557526585195168/permalink/560010151613478/) |
+| 7 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 1:04.44 | 🔥 ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/639657566619518/) |
 | 8 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 1:11.39 |  | |
 | 9 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-03-17](results/2020-03-17.md) | 40+ | 1:11.54 | 🔥 | [Link](https://www.facebook.com/events/211732526904866/permalink/214999563244829/) |
 | 10 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 1:16.75 | 🔥 | [Link](https://www.facebook.com/events/557526585195168/permalink/559799351634558/) |
 | 11 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-03-31](results/2020-03-31.md) | 40+ | 1:21.31 | 🔥 | [Link](https://www.facebook.com/events/269276700734640/permalink/271465083849135/) |
 | 12 | [Daniel Smith](../persons/daniel_smith.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 1:29.25 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/272645773731066/) |
-| 13 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 2:12.09 | 🔥 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/279813449823409/) |
+| 13 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 2:02.05 | 🔥 ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/641708466414428/) |
 | 14 | [Jae Park](../persons/jae_park.md) | [2020-02-04](results/2020-02-04.md) | 40+ | 2:30.77 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2135447743267798/) |
 | 15 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 2:42.21 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
 | 16 | [Jang Junho (장준호)](../persons/jang_junho.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 2:58.70 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/810015492837274/) |
@@ -43,7 +43,8 @@
 | 3 | [Ed Connell](../persons/ed_connell.md) | [2020-04-14](results/2020-04-14.md) | <40 | 1:07.97 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1404450843090393/) |
 | 4 | [Pete Lee](../persons/pete_lee.md) | [2020-05-19](results/2020-05-19.md) | <40 | 1:12.04 | 🔥 | [Link](https://www.facebook.com/events/201300894172579/permalink/203097117326290/) |
 | 5 | [Isak Majer](../persons/isak_majer.md) | [2020-02-04](results/2020-02-04.md) | <40 | 1:50.60 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |
-| 6 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-02-04](results/2020-02-04.md) | <40 | 2:38.28 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
+| 6 | [Chris Thames](../persons/chris_thames.md) | [2020-05-26](results/2020-05-26.md) | <40 | 2:27.58 | 🔥 ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/639331139985494/) |
+| 7 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-02-04](results/2020-02-04.md) | <40 | 2:38.28 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
 
 #### Under 30
 

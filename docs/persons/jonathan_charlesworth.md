@@ -1,0 +1,17 @@
+## Senior Cubers Worldwide - Weekly Competition
+### Jonathan Charlesworth
+
+| Event | Single | Average |
+| -- | --: | --: |
+| 3x3x3 | 9.13 | 10.26 |
+
+#### 3x3x3
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-05-26](../3x3x3/results/2020-05-26.md) | <20 | **9.13** | **10.26** | 🏆 | 9.65 | 10.65 | 11.81 | **9.13** | 10.48 | [Link](https://www.facebook.com/events/688407551989463/permalink/690761785087373/) |
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

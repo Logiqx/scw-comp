@@ -1,6 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 2x2x2 Competitors
 
+#### Over 60
+
+| Name | Age | Single | Average |
+| -- | :--: | --: | --: |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 23.86 | 32.64 |
+
 #### Over 50
 
 | Name | Age | Single | Average |
@@ -8,27 +14,31 @@
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 4.39 | 5.17 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 3.87 | 5.74 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 4.70 | 7.65 |
-| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 6.12 | 8.14 |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 23.86 | 32.64 |
+| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 4.92 | 8.14 |
+| [Peter Andersson](../persons/peter_andersson.md) | 50+ | 6.96 | 9.38 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 6.53 | 10.79 |
 
 #### Over 40
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 9.79 | 11.83 |
+| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 9.01 | 10.19 |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 4.83 | 8.23 |
 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 3.34 | 6.72 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 4.39 | 5.17 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 3.87 | 5.74 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 4.70 | 7.65 |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 23.86 | 32.64 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 4.73 | 5.86 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 12.95 | 19.45 |
 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 4.76 | 10.94 |
 | [Jang Junho (장준호)](../persons/jang_junho.md) | 40+ | 9.01 | 10.40 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 4.68 | 6.10 |
 | [Jo Cocco](../persons/jo_cocco.md) | 40+ | 10.83 | 14.11 |
-| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 6.12 | 8.14 |
-| [Michael George](../persons/michael_george.md) | 40+ | 3.34 | 4.40 |
+| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 4.92 | 8.14 |
+| [Michael George](../persons/michael_george.md) | 40+ | 3.20 | 4.40 |
+| [Peter Andersson](../persons/peter_andersson.md) | 50+ | 6.96 | 9.38 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 6.53 | 10.79 |
 | [Stuart Salmon](../persons/stuart_salmon.md) | 40+ | 8.07 | 12.10 |
 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 3.18 | 6.81 |
@@ -41,7 +51,7 @@
 | [Adam Robson](../persons/adam_robson.md) | <40 | 3.91 | 6.87 |
 | [Brooke Persoon](../persons/brooke_persoon.md) | <40 | 10.73 | 13.95 |
 | [Chris Thames](../persons/chris_thames.md) | <40 | 8.06 | 10.51 |
-| [Ed Connell](../persons/ed_connell.md) | <40 | 5.78 | 6.57 |
+| [Ed Connell](../persons/ed_connell.md) | <40 | 4.96 | 6.57 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 3.50 | 4.50 |
 | [Pete Lee](../persons/pete_lee.md) | <40 | 4.68 | 7.23 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 4.34 | 4.55 |
