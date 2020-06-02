@@ -62,8 +62,9 @@ convert svg/333bf.svg svg/444bf.svg svg/555bf.svg -splice 200x0+0+0 +append -cho
 ```
 
 ```
+convert svg/333bf.svg -resize 1200x500 -gravity center -extent 1200x500 png/333bf+1.png
 convert svg/444bf.svg svg/555bf.svg -splice 200x0+0+0 +append -chop 200x0+0+0 png/333bf+2.png
-convert png/333bf.png png/333bf+2.png -splice 0x200+0+0 -append -chop 0x200+0+0 -bordercolor white -border 100x100 -resize 1000x628 -gravity center -extent 1200x628 png/333bf+.png
+convert png/333bf+1.png png/333bf+2.png -splice 0x200+0+0 -append -chop 0x200+0+0 -bordercolor white -border 100x100 -resize 1000x628 -gravity center -extent 1200x628 png/333bf+.png
 ```
 
 
