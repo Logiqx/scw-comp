@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 4BLD Averages
+### 4x4x4 Blindfolded Averages
 
 #### Under 40
 

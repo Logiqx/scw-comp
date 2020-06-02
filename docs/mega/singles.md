@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Mega Singles
+### Megaminx Singles
 
 #### Over 60
 

@@ -8,8 +8,8 @@
 | 4x4x4 | 2:03.34 | 2:30.77 |
 | 5x5x5 | 5:07.36 | 5:55.66 |
 | 3x3x3 BLD | 48.68 | 57.66 |
-| 4BLD | 6:19.94 | DNF |
-| 5BLD | 16:59.61 | DNF |
+| 4x4x4 BLD | 6:19.94 | DNF |
+| 5x5x5 BLD | 16:59.61 | DNF |
 
 #### 3x3x3
 
@@ -76,7 +76,7 @@
 | [2020-02-11](../3bld/results/2020-02-11.md) | 40+ | **48.68** | **57.66** | 🏆 🥇 | 1:01.08 | 1:03.21 | **48.68** | [Link](https://www.facebook.com/events/173728187264773/permalink/173945660576359/) |
 
 
-#### 4BLD
+#### 4x4x4 Blindfolded
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
@@ -86,7 +86,7 @@
 | [2020-05-05](../4bld/results/2020-05-05.md) | 40+ | **6:19.94** | DNF | 🏆 🥇 | DNF | **6:19.94** | DNF | [Link](https://www.facebook.com/events/2624652641189887/permalink/2625297171125434/) |
 
 
-#### 5BLD
+#### 5x5x5 Blindfolded
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |

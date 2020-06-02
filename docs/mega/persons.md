@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Mega Competitors
+### Megaminx Competitors
 
 #### Over 60
 

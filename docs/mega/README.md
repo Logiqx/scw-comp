@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Mega Senior Podiums
+### Megaminx Senior Podiums
 #### [2020-05-26](results/2020-05-26.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
