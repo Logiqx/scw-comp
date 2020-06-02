@@ -9,6 +9,7 @@
 | 5x5x5 | 6:41.82 | DNF |
 | 6x6x6 | 12:04.43 | DNF |
 | 7x7x7 | 15:59.23 | DNF |
+| Mega | 7:34.18 | DNF |
 | 3x3x3 FMC | 46 | - |
 
 #### 3x3x3
@@ -59,6 +60,13 @@
 | [2020-05-26](../7x7x7/results/2020-05-26.md) | 60+ | **15:59.23** | DNF | ⚡ | 18:02.84 | **15:59.23** | DNS | [Link](https://www.facebook.com/events/637852836799991/permalink/640055109913097/) |
 | [2020-05-19](../7x7x7/results/2020-05-19.md) | 60+ | 18:58.28 | DNF | 🥉 | 18:58.28 | 20:37.07 | DNS | [Link](https://www.facebook.com/events/201300894172579/permalink/204801627155839/) |
 | [2020-05-12](../7x7x7/results/2020-05-12.md) | 60+ | **16:49.48** | DNF |  | **16:49.48** | 18:14.63 | DNS | [Link](https://www.facebook.com/events/276138643524223/permalink/278590303279057/) |
+
+
+#### Mega
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-05-26](../mega/results/2020-05-26.md) | 60+ | **7:34.18** | DNF |  | **7:34.18** | 7:42.72 | DNS | DNS | DNS | [Link](https://www.facebook.com/events/688407551989463/permalink/690856405077911/) |
 
 
 #### 3x3x3 Fewest Moves
