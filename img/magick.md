@@ -29,6 +29,12 @@ convert svg/333.svg svg/222.svg svg/333oh.svg -splice 200x0+0+0 +append -chop 20
 convert svg/333.svg svg/222.svg svg/333oh.svg svg/minx.svg -splice 200x0+0+0 +append -chop 200x0+0+0 -resize 1000x628 -gravity center -extent 1200x628 png/333+.png
 ```
 
+```
+convert svg/333.svg svg/222.svg -splice 200x0+0+0 +append -chop 200x0+0+0 png/333+1.png
+convert svg/333oh.svg svg/minx.svg -splice 200x0+0+0 +append -chop 200x0+0+0 png/333+2.png
+convert png/333+1.png png/333+2.png -splice 0x200+0+0 -append -chop 0x200+0+0 -bordercolor white -border 100x100 -resize 1000x628 -gravity center -extent 1200x628 png/333+.png
+```
+
 #### 4x4x4+
 
 ```
@@ -43,10 +49,21 @@ convert svg/444.svg svg/555.svg svg/666.svg svg/777.svg -splice 200x0+0+0 +appen
 convert svg/444.svg svg/555.svg svg/666.svg svg/777.svg svg/minx.svg -splice 200x0+0+0 +append -chop 200x0+0+0 -resize 1100x628 -gravity center -extent 1200x628 png/444+.png
 ```
 
+```
+convert svg/444.svg svg/555.svg -splice 200x0+0+0 +append -chop 200x0+0+0 png/444+1.png
+convert svg/666.svg svg/777.svg -splice 200x0+0+0 +append -chop 200x0+0+0 png/444+2.png
+convert png/444+1.png png/444+2.png -splice 0x200+0+0 -append -chop 0x200+0+0 -bordercolor white -border 100x100 -resize 1000x628 -gravity center -extent 1200x628 png/444+.png
+```
+
 #### 3BLD+
 
 ```
 convert svg/333bf.svg svg/444bf.svg svg/555bf.svg -splice 200x0+0+0 +append -chop 200x0+0+0 -resize 1000x628 -gravity center -extent 1200x628 png/333bf+.png
+```
+
+```
+convert svg/444bf.svg svg/555bf.svg -splice 200x0+0+0 +append -chop 200x0+0+0 png/333bf+2.png
+convert png/333bf.png png/333bf+2.png -splice 0x200+0+0 -append -chop 0x200+0+0 -bordercolor white -border 100x100 -resize 1000x628 -gravity center -extent 1200x628 png/333bf+.png
 ```
 
 
