@@ -17,6 +17,34 @@ mogrify -format png -path png -resize 900x471 -gravity center -extent 1200x628 s
 
 
 
+### Batch Convert SVG to PNG
+
+Icons for Google Forms.
+
+```
+mogrify -format png -path wide -resize 1200x120 -gravity center -extent 1200x120 svg/*.svg
+```
+
+
+
+### Google Forms
+
+```sh
+for i in 222 333 444 555 333oh clock minx pyram skewb sq1
+do
+convert svg/$i.svg svg/$i.svg svg/$i.svg svg/$i.svg svg/$i.svg -splice 450x0+0+0 +append -chop 450x0+0+0 -resize 1200x120 -gravity center -extent 1200x120 wide/$i.png
+done
+
+for i in 666 777 333bf 444bf 555bf
+do
+convert svg/$i.svg svg/$i.svg svg/$i.svg -splice 450x0+0+0 +append -chop 450x0+0+0 -resize 1200x120 -gravity center -extent 1200x120 wide/$i.png
+done
+```
+
+
+
+
+
 ### Append Images
 
 #### 3x3x3+
