@@ -37,8 +37,15 @@ done
 
 for i in 666 777 333bf 444bf 555bf
 do
-convert svg/$i.svg svg/$i.svg svg/$i.svg -splice 450x0+0+0 +append -chop 450x0+0+0 -resize 1200x120 -gravity center -extent 1200x120 wide/$i.png
+convert svg/$i.svg svg/$i.svg svg/$i.svg -splice 1000x0+0+0 +append -chop 1000x0+0+0 -resize 1200x120 -gravity center -extent 1200x120 wide/$i.png
 done
+
+for i in 333fm 333mbf
+do
+convert svg/$i.svg -splice 1000x0+0+0 +append -chop 1000x0+0+0 -resize 1200x120 -gravity center -extent 1200x120 wide/$i.png
+done
+
+convert svg/222.svg svg/333.svg svg/444.svg svg/555.svg svg/666.svg svg/777.svg -splice 300x0+0+0 +append -chop 300x0+0+0 -resize 1200x120 -gravity center -extent 1200x120 wide/zzz.png
 ```
 
 
