@@ -1,0 +1,19 @@
+Senior Cubers Worldwide - FMC Competition 2020-06-09
+
+Submissions in by Mon 15th @ 22:00 PST / Tue 16th @ 05:00 GMT
+
+Rules:
+- Entries must post a solution and description of solution
+- Use the scramble provided (*)
+- Limit time to one hour
+
+Process:
+- Post your solution and reconstruction/description directly to the event page
+- Include your age category (e.g. 40+) in the description
+- Include your result as a number (eg. 37)
+- Show if it is your fastest single to date with a ⚡ emoji (*)
+- Submit your results via the Google Form (*)
+ 
+* PDF and text scrambles can be found at https://github.com/Logiqx/scw-comp/tree/master/docs
+* You can find your profile and previous bests at https://logiqx.github.io/scw-comp/
+* Submit your results via the redirect at https://logiqx.github.io/scw-comp/submit.html
