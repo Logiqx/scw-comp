@@ -6,7 +6,7 @@
 | 3x3x3 | 19.54 | 23.72 |
 | 2x2x2 | 3.91 | 6.87 |
 | 4x4x4 | 2:24.65 | DNF |
-| 3x3x3 FMC | 31 | - |
+| 3x3x3 FMC | 26 | - |
 
 #### 3x3x3
 
@@ -42,6 +42,7 @@
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
+| [2020-06-02](../fmc/results/2020-06-02.md) | <40 | **26** | ⚡ | [Link](https://www.facebook.com/events/3920457157996941/permalink/3937885802920743/) |
 | [2020-05-26](../fmc/results/2020-05-26.md) | <40 | DNF |  | [Link](https://www.facebook.com/events/2622968941252005/permalink/2624514677764098/) |
 | [2020-05-19](../fmc/results/2020-05-19.md) | <40 | 32 |  | [Link](https://www.facebook.com/events/568280284126471/permalink/568550517432781/) |
 | [2020-05-12](../fmc/results/2020-05-12.md) | <40 | DNF |  | [Link](https://www.facebook.com/events/2563130363933815/permalink/2563354400578078/) |

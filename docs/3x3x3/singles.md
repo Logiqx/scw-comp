@@ -77,7 +77,7 @@
 | 10 | [Stew Alla](../persons/stew_alla.md) | [2020-05-12](results/2020-05-12.md) | <40 | 20.69 |  | [Link](https://www.facebook.com/events/546188069600739/permalink/550354812517398/) |
 | 11 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-02-18](results/2020-02-18.md) | <40 | 21.03 | ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2564590157113152/) |
 | 12 | [Matthew Hart](../persons/matthew_hart.md) | [2020-02-04](results/2020-02-04.md) | <40 | 22.72 |  | [Link](https://www.facebook.com/bazosoft/videos/10221648844229649/) |
-| 13 | [Chris Thames](../persons/chris_thames.md) | [2020-05-26](results/2020-05-26.md) | <40 | 30.50 | 🔥 ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/690336398463245/) |
+| 13 | [Chris Thames](../persons/chris_thames.md) | [2020-06-02](results/2020-06-02.md) | <40 | 27.06 | ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3377870999104690/) |
 | 14 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-03-03](results/2020-03-03.md) | <40 | 39.40 | 🔥 ⚡ | [Link](https://www.facebook.com/events/241721610185997/permalink/245749193116572/) |
 
 #### Under 30

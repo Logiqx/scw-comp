@@ -1,5 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Blindfolded Senior Podiums
+#### [2020-06-02](results/2020-06-02.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 1:27.79 | DNF | 🏆 🥇 | [Link](https://www.facebook.com/events/323619661956372/permalink/325541918430813/) |
+| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 2:13.25 | DNF | 🥈 | [Link](https://www.facebook.com/events/323619661956372/permalink/324359211882417/) |
+
 #### [2020-05-26](results/2020-05-26.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

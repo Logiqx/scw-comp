@@ -25,7 +25,7 @@
 | 11 | [Jang Junho (장준호)](../persons/jang_junho.md) | [2020-04-07](results/2020-04-07.md) | 40+ | 59.25 | 🔥 ⚡ | [Link](https://www.facebook.com/events/682716079141575/permalink/686595828753600/) |
 | 12 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-24](results/2020-03-24.md) | 50+ | 1:26.57 | ⚡ | [Link](https://www.facebook.com/events/212335450005639/permalink/214352896470561/) |
 | 13 | [Jo Cocco](../persons/jo_cocco.md) | [2020-03-24](results/2020-03-24.md) | 40+ | 1:30.67 | ⚡ | [Link](https://www.facebook.com/events/212335450005639/permalink/216613862911131/) |
-| 14 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 8:27.01 |  | [Link](https://www.facebook.com/events/688407551989463/permalink/692401598256725/) |
+| 14 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-06-02](results/2020-06-02.md) | 40+ | 1:56.58 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374019349489855/) |
 
 #### Under 40
 

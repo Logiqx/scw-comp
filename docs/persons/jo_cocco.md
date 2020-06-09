@@ -7,7 +7,7 @@
 | 2x2x2 | 10.83 | 14.11 |
 | 4x4x4 | 2:55.79 | 3:24.75 |
 | 3x3x3 OH | 1:30.67 | 1:45.62 |
-| Megaminx | 3:55.83 | DNF |
+| Mega | 3:55.83 | DNF |
 
 #### 3x3x3
 
@@ -52,7 +52,7 @@
 | [2020-02-18](../oh/results/2020-02-18.md) | 40+ | **2:06.95** | **2:27.97** |  | 2:37.00 | 2:39.96 | **2:06.95** | DNS | DNS | [Link](https://www.facebook.com/events/1618332754973681/permalink/1624311164375840/) |
 
 
-#### Megaminx
+#### Mega
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

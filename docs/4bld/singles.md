@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 4x4x4 Blindfolded Singles
+### 4BLD Singles
 
 #### Over 50
 

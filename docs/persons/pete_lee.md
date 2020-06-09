@@ -5,16 +5,17 @@
 | -- | --: | --: |
 | 3x3x3 | 15.42 | 19.11 |
 | 2x2x2 | 4.68 | 7.23 |
-| 4x4x4 | 1:03.48 | 1:12.04 |
+| 4x4x4 | 1:03.48 | 1:11.40 |
 | 5x5x5 | 2:01.03 | 2:27.42 |
-| 6x6x6 | 5:01.49 | DNF |
-| 7x7x7 | 8:24.09 | DNF |
+| 6x6x6 | 4:35.73 | DNF |
+| 7x7x7 | 8:20.78 | DNF |
 | 3x3x3 OH | 39.61 | 47.46 |
 
 #### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-06-02](../3x3x3/results/2020-06-02.md) | <40 | 20.34 | 21.54 |  | 20.34 | 22.30 | 20.93 | 21.41 | 29.12 | [Link](https://www.facebook.com/events/3373950429496747/permalink/3379306865627770/) |
 | [2020-05-26](../3x3x3/results/2020-05-26.md) | <40 | 16.32 | **19.11** | 🔥 | 16.32 | 18.94 | 18.58 | 26.85 | 19.82 | [Link](https://www.facebook.com/events/688407551989463/permalink/691224458374439/) |
 | [2020-05-19](../3x3x3/results/2020-05-19.md) | <40 | 19.30 | 21.20 |  | 22.77 | 19.30 | 21.08 | 19.77 | 23.89 | [Link](https://www.facebook.com/events/1880761498725633/permalink/1886832154785234/) |
 | [2020-05-12](../3x3x3/results/2020-05-12.md) | <40 | 18.03 | 20.50 |  | 23.05 | 18.65 | 19.80 | 18.03 | 29.92 | [Link](https://www.facebook.com/events/546188069600739/permalink/550265109193035/) |
@@ -39,6 +40,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-06-02](../2x2x2/results/2020-06-02.md) | <40 | 7.08 | 9.58 |  | 7.08 | 9.24 | 11.27 | 9.50 | 10.01 | [Link](https://www.facebook.com/events/3373950429496747/permalink/3379309468960843/) |
 | [2020-05-26](../2x2x2/results/2020-05-26.md) | <40 | 5.53 | 8.72 |  | 10.44 | 7.88 | 8.43 | 9.85 | 5.53 | [Link](https://www.facebook.com/events/688407551989463/permalink/691223218374563/) |
 | [2020-05-19](../2x2x2/results/2020-05-19.md) | <40 | 7.88 | 10.57 |  | 7.88 | 8.55 | 11.24 | 11.92 | 13.94 | [Link](https://www.facebook.com/events/1880761498725633/permalink/1886830094785440/) |
 | [2020-05-12](../2x2x2/results/2020-05-12.md) | <40 | 7.56 | 8.87 |  | 8.62 | 7.56 | DNF | 9.24 | 8.76 | [Link](https://www.facebook.com/events/546188069600739/permalink/550262485859964/) |
@@ -56,6 +58,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-06-02](../4x4x4/results/2020-06-02.md) | <40 | 1:08.15 | **1:11.40** | 🔥 | 1:11.16 | 1:11.57 | 1:08.15 | 2:17.35 | 1:11.49 | [Link](https://www.facebook.com/events/573401076937046/permalink/576122943331526/) |
 | [2020-05-26](../4x4x4/results/2020-05-26.md) | <40 | **1:03.48** | 1:12.76 | ⚡ | 1:16.07 | 1:17.77 | **1:03.48** | 1:25.19 | 1:04.43 | [Link](https://www.facebook.com/events/637852836799991/permalink/639823749936233/) |
 | [2020-05-19](../4x4x4/results/2020-05-19.md) | <40 | 1:07.95 | **1:12.04** | 🔥 | 1:15.79 | 1:07.95 | 1:09.74 | 1:10.61 | 1:45.26 | [Link](https://www.facebook.com/events/201300894172579/permalink/203097117326290/) |
 | [2020-05-12](../4x4x4/results/2020-05-12.md) | <40 | 1:10.35 | 1:20.71 |  | 1:10.35 | 1:18.73 | 1:18.72 | 1:24.70 | 1:25.47 | [Link](https://www.facebook.com/events/276138643524223/permalink/280314056440015/) |
@@ -73,6 +76,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-06-02](../5x5x5/results/2020-06-02.md) | <40 | 2:31.35 | 2:40.96 |  | 2:39.95 | 2:31.35 | 2:51.60 | DNS | DNS | [Link](https://www.facebook.com/events/573401076937046/permalink/575323583411462/) |
 | [2020-05-26](../5x5x5/results/2020-05-26.md) | <40 | 2:38.07 | 2:45.09 |  | 2:38.07 | 2:52.01 | 2:45.19 | DNS | DNS | [Link](https://www.facebook.com/events/637852836799991/permalink/639204779998130/) |
 | [2020-05-19](../5x5x5/results/2020-05-19.md) | <40 | 2:37.04 | 2:40.98 |  | 2:37.61 | 2:48.28 | 2:37.04 | DNS | DNS | [Link](https://www.facebook.com/events/201300894172579/permalink/202514160717919/) |
 | [2020-05-12](../5x5x5/results/2020-05-12.md) | <40 | 2:22.47 | 2:56.91 |  | 2:22.47 | 3:10.08 | 3:04.67 | 3:01.71 | 2:44.36 | [Link](https://www.facebook.com/events/276138643524223/permalink/277686280036126/) |
@@ -89,6 +93,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-06-02](../6x6x6/results/2020-06-02.md) | <40 | **4:35.73** | DNF | ⚡ | **4:35.73** | DNF | DNS | [Link](https://www.facebook.com/events/573401076937046/permalink/574505536826600/) |
 | [2020-05-26](../6x6x6/results/2020-05-26.md) | <40 | **5:01.49** | DNF | ⚡ | 5:36.19 | **5:01.49** | DNS | [Link](https://www.facebook.com/events/637852836799991/permalink/638586916726583/) |
 | [2020-05-19](../6x6x6/results/2020-05-19.md) | <40 | 5:40.25 | DNF |  | 5:44.30 | 5:40.25 | DNS | [Link](https://www.facebook.com/events/201300894172579/permalink/201971677438834/) |
 | [2020-05-12](../6x6x6/results/2020-05-12.md) | <40 | **5:32.99** | DNF | ⚡ | **5:32.99** | 5:35.76 | DNS | [Link](https://www.facebook.com/events/276138643524223/permalink/276961166775304/) |
@@ -99,6 +104,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-06-02](../7x7x7/results/2020-06-02.md) | <40 | **8:20.78** | DNF | ⚡ | **8:20.78** | 9:57.91 | DNS | [Link](https://www.facebook.com/events/573401076937046/permalink/573717050238782/) |
 | [2020-05-26](../7x7x7/results/2020-05-26.md) | <40 | **8:24.09** | DNF | ⚡ | 8:44.72 | **8:24.09** | DNS | [Link](https://www.facebook.com/events/637852836799991/permalink/638057023446239/) |
 | [2020-05-19](../7x7x7/results/2020-05-19.md) | <40 | **8:43.22** | DNF | ⚡ | 8:53.23 | **8:43.22** | DNS | [Link](https://www.facebook.com/events/201300894172579/permalink/201442917491710/) |
 | [2020-05-12](../7x7x7/results/2020-05-12.md) | <40 | **9:20.70** | DNF | ⚡ | **9:20.70** | 9:30.53 | DNS | [Link](https://www.facebook.com/events/276138643524223/permalink/276380270166727/) |

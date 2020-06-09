@@ -1,12 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Megaminx Averages
+### Mega Averages
 
 #### Over 40
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 1:44.45 | 🏆 🥇 | [Link](https://www.facebook.com/events/688407551989463/permalink/688533835310168/) |
-| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 3:05.02 | 🥈 | [Link](https://www.facebook.com/events/688407551989463/permalink/690047708492114/) |
+| 1 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-06-02](results/2020-06-02.md) | 40+ | 1:39.69 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374121619479628/) |
+| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-06-02](results/2020-06-02.md) | 40+ | 2:57.26 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374518846106572/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

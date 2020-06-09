@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 5x5x5 Blindfolded Averages
+### 5BLD Averages
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

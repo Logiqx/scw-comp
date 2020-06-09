@@ -1,5 +1,10 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 5x5x5 Blindfolded Senior Podiums
+### 5BLD Senior Podiums
+#### [2020-06-02](results/2020-06-02.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+
 #### [2020-05-26](results/2020-05-26.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

@@ -12,7 +12,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 8:27.01 | DNF |
+| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 1:56.58 | 2:03.53 |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 34.17 | 40.48 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 35.64 | 39.76 |
 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 27.51 | 30.96 |

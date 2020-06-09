@@ -4,19 +4,20 @@
 | Event | Single | Average |
 | -- | --: | --: |
 | 3x3x3 | 14.29 | 17.43 |
-| 2x2x2 | 4.96 | 6.57 |
+| 2x2x2 | 3.39 | 5.91 |
 | 4x4x4 | 1:00.92 | 1:07.97 |
 | 5x5x5 | 2:27.77 | 2:38.29 |
 | 6x6x6 | 5:56.45 | DNF |
 | 7x7x7 | 8:56.69 | DNF |
 | 3x3x3 OH | 22.50 | 34.04 |
-| Megaminx | 3:24.48 | DNF |
+| Mega | 3:24.48 | DNF |
 | 3x3x3 FMC | 29 | - |
 
 #### 3x3x3
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-06-02](../3x3x3/results/2020-06-02.md) | <40 | 16.60 | 20.37 |  | 20.83 | 16.60 | 19.96 | 21.15 | 20.32 | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381554995402957/) |
 | [2020-05-26](../3x3x3/results/2020-05-26.md) | <40 | 15.18 | **17.43** | 🔥 | 15.18 | 18.36 | 17.98 | 15.95 | 18.95 | [Link](https://www.facebook.com/events/688407551989463/permalink/691154921714726/) |
 | [2020-05-19](../3x3x3/results/2020-05-19.md) | <40 | 15.49 | **17.72** | 🔥 | 17.77 | 15.49 | 19.59 | 19.38 | 16.02 | [Link](https://www.facebook.com/events/1880761498725633/permalink/1885616124906837/) |
 | [2020-04-21](../3x3x3/results/2020-04-21.md) | <40 | 17.49 | **18.29** | 🔥 | 19.81 | 17.49 | 17.96 | 19.35 | 17.55 | [Link](https://www.facebook.com/events/880278499062375/permalink/883228898767335/) |
@@ -29,6 +30,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-06-02](../2x2x2/results/2020-06-02.md) | <40 | **3.39** | **5.91** | 🔥 ⚡ | 6.71 | **3.39** | 5.02 | 6.01 | 7.92 | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381586012066522/) |
 | [2020-05-26](../2x2x2/results/2020-05-26.md) | <40 | **4.96** | 6.69 | ⚡ | 8.90 | **4.96** | 6.42 | 6.93 | 6.72 | [Link](https://www.facebook.com/events/688407551989463/permalink/691158718381013/) |
 | [2020-05-19](../2x2x2/results/2020-05-19.md) | <40 | 5.97 | 6.96 |  | 6.41 | 6.50 | 11.65 | 5.97 | 7.96 | [Link](https://www.facebook.com/events/1880761498725633/permalink/1885639354904514/) |
 | [2020-04-14](../2x2x2/results/2020-04-14.md) | <40 | 6.07 | **6.57** | 🔥 | 6.85 | 6.07 | 6.67 | 6.52 | 6.51 | [Link](https://www.facebook.com/events/982619255468618/permalink/985744501822760/) |
@@ -70,6 +72,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-06-02](../oh/results/2020-06-02.md) | <40 | 32.74 | 41.68 |  | 43.83 | 50.27 | 41.46 | 32.74 | 39.74 | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381573405401116/) |
 | [2020-05-26](../oh/results/2020-05-26.md) | <40 | 39.16 | 41.15 |  | 39.48 | 44.29 | 44.58 | 39.16 | 39.67 | [Link](https://www.facebook.com/events/688407551989463/permalink/691149815048570/) |
 | [2020-05-19](../oh/results/2020-05-19.md) | <40 | 32.87 | 37.15 |  | 37.90 | 32.97 | 40.59 | 46.65 | 32.87 | [Link](https://www.facebook.com/events/1880761498725633/permalink/1885626538239129/) |
 | [2020-04-21](../oh/results/2020-04-21.md) | <40 | 38.85 | 41.30 |  | 41.06 | 43.74 | 39.11 | 45.25 | 38.85 | [Link](https://www.facebook.com/events/880278499062375/permalink/883221008768124/) |
@@ -77,7 +80,7 @@
 | [2020-04-07](../oh/results/2020-04-07.md) | <40 | **22.50** | **34.04** |  | 33.55 | 33.95 | **22.50** | 40.72 | 34.62 | [Link](https://www.facebook.com/events/682716079141575/permalink/684177285662121/) |
 
 
-#### Megaminx
+#### Mega
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
@@ -88,6 +91,7 @@
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
+| [2020-06-02](../fmc/results/2020-06-02.md) | <40 | DNF |  | [Link](https://www.facebook.com/events/3920457157996941/permalink/3925796234129700/) |
 | [2020-05-26](../fmc/results/2020-05-26.md) | <40 | **29** | ⚡ | [Link](https://www.facebook.com/events/2622968941252005/permalink/2625580534324179/) |
 | [2020-05-19](../fmc/results/2020-05-19.md) | <40 | 38 |  | [Link](https://www.facebook.com/events/568280284126471/permalink/569101377377695/) |
 | [2020-03-17](../fmc/results/2020-03-17.md) | <40 | DNF |  | [Link](https://www.facebook.com/events/210706923625115/permalink/213821129980361/) |

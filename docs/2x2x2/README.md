@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 2x2x2 Senior Podiums
+#### [2020-06-02](results/2020-06-02.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Michael George](../persons/michael_george.md) | 40+ | 4.40 | 5.02 | 🏆 🥇 | [Link](https://www.facebook.com/events/3373950429496747/permalink/3376936499198140/) |
+| 2 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 3.44 | 6.08 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374457722779351/) |
+| 3 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 7.99 | 8.16 | 🥉 | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381536338738156/) |
+
 #### [2020-05-26](results/2020-05-26.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

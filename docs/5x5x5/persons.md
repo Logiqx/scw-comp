@@ -42,6 +42,7 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 2:09.49 | 2:19.32 |
+| [Chris Thames](../persons/chris_thames.md) | <40 | 5:52.87 | DNF |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 2:27.77 | 2:38.29 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 1:16.98 | 1:30.42 |
 | [Pete Lee](../persons/pete_lee.md) | <40 | 2:01.03 | 2:27.42 |

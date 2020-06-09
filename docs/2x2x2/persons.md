@@ -23,8 +23,8 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 9.01 | 10.19 |
-| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 4.83 | 8.23 |
+| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 7.57 | 8.66 |
+| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 4.01 | 8.23 |
 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 3.34 | 6.72 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 4.39 | 5.17 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 3.87 | 5.74 |
@@ -34,7 +34,7 @@
 | [Jae Park](../persons/jae_park.md) | 40+ | 12.95 | 19.45 |
 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 4.76 | 10.94 |
 | [Jang Junho (장준호)](../persons/jang_junho.md) | 40+ | 9.01 | 10.40 |
-| [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 4.68 | 6.10 |
+| [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 3.44 | 6.08 |
 | [Jo Cocco](../persons/jo_cocco.md) | 40+ | 10.83 | 14.11 |
 | [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 4.92 | 8.14 |
 | [Michael George](../persons/michael_george.md) | 40+ | 3.20 | 4.40 |
@@ -50,8 +50,8 @@
 | -- | :--: | --: | --: |
 | [Adam Robson](../persons/adam_robson.md) | <40 | 3.91 | 6.87 |
 | [Brooke Persoon](../persons/brooke_persoon.md) | <40 | 10.73 | 13.95 |
-| [Chris Thames](../persons/chris_thames.md) | <40 | 8.06 | 10.51 |
-| [Ed Connell](../persons/ed_connell.md) | <40 | 4.96 | 6.57 |
+| [Chris Thames](../persons/chris_thames.md) | <40 | 4.11 | 10.38 |
+| [Ed Connell](../persons/ed_connell.md) | <40 | 3.39 | 5.91 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 3.50 | 4.50 |
 | [Pete Lee](../persons/pete_lee.md) | <40 | 4.68 | 7.23 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 4.34 | 4.55 |

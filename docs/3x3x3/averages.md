@@ -31,8 +31,8 @@
 | 3 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-03-24](results/2020-03-24.md) | 40+ | 14.77 | 🥈 🔥 | [Link](https://www.facebook.com/events/524456301543611/permalink/527399597915948/) |
 | 4 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 16.63 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2561495007422667/) |
 | 5 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 16.89 | 🥈 🔥 | [Link](https://www.facebook.com/events/688407551989463/permalink/692481941582024/) |
-| 6 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 17.54 | 🥈 🔥 | [Link](https://www.facebook.com/events/546188069600739/permalink/548661302686749/) |
-| 7 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 17.70 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2559165057655662/) |
+| 6 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-06-02](results/2020-06-02.md) | 40+ | 17.00 | 🥈 🔥 | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374543089437481/) |
+| 7 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 17.54 | 🥈 🔥 | [Link](https://www.facebook.com/events/546188069600739/permalink/548661302686749/) |
 | 8 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-07](results/2020-04-07.md) | 50+ | 18.05 | 🥉 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/510196029884423/) |
 | 9 | [Jason Green](../persons/jason_green.md) | [2020-02-11](results/2020-02-11.md) | 40+ | 18.51 |  | [Link](https://www.facebook.com/events/616423959107229/permalink/621424961940462/) |
 | 10 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 19.08 | 🔥 | [Link](https://www.facebook.com/events/688407551989463/permalink/688492338647651/) |

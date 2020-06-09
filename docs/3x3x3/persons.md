@@ -27,7 +27,7 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 15.39 | 19.08 |
-| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 14.08 | 17.70 |
+| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 14.08 | 17.00 |
 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 18.14 | 22.81 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 10.58 | 13.94 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 14.59 | 18.05 |
@@ -69,7 +69,7 @@
 | [Alex Friedman](../persons/alex_friedman.md) | <40 | 15.47 | 18.36 |
 | [Brooke Persoon](../persons/brooke_persoon.md) | <40 | 39.40 | 47.49 |
 | [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 12.30 | 13.42 |
-| [Chris Thames](../persons/chris_thames.md) | <40 | 30.50 | 33.09 |
+| [Chris Thames](../persons/chris_thames.md) | <40 | 27.06 | 33.09 |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 14.29 | 17.43 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 11.23 | 12.74 |
 | [Isak Majer](../persons/isak_majer.md) | <40 | 16.05 | 18.84 |

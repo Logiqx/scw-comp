@@ -38,8 +38,8 @@
 | # | Name | Date | Age | Single | Awards | Solution |
 | :--: | -- | :--: | :--: | :--: | :--: | -- |
 | 1 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-04-21](results/2020-04-21.md) | <40 | 24 | 🏆 ⚡ | [Link](https://www.facebook.com/events/573932290186676/permalink/574620073451231/) |
-| 2 | [Ed Connell](../persons/ed_connell.md) | [2020-05-26](results/2020-05-26.md) | <40 | 29 | ⚡ | [Link](https://www.facebook.com/events/2622968941252005/permalink/2625580534324179/) |
-| 3 | [Adam Robson](../persons/adam_robson.md) | [2020-03-24](results/2020-03-24.md) | <40 | 31 | ⚡ | [Link](https://www.facebook.com/events/500266387310754/permalink/501846950486031/) |
+| 2 | [Adam Robson](../persons/adam_robson.md) | [2020-06-02](results/2020-06-02.md) | <40 | 26 | ⚡ | [Link](https://www.facebook.com/events/3920457157996941/permalink/3937885802920743/) |
+| 3 | [Ed Connell](../persons/ed_connell.md) | [2020-05-26](results/2020-05-26.md) | <40 | 29 | ⚡ | [Link](https://www.facebook.com/events/2622968941252005/permalink/2625580534324179/) |
 | 4 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-25](results/2020-02-25.md) | <40 | 41 |  | [Link](https://www.facebook.com/events/215751886207638/permalink/216681586114668/) |
 | 5 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-02-11](results/2020-02-11.md) | <40 | 42 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
 

@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Megaminx Singles
+### Mega Singles
 
 #### Over 60
 
@@ -12,16 +12,18 @@
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-26](results/2020-05-26.md) | 60+ | 7:34.18 |  | [Link](https://www.facebook.com/events/688407551989463/permalink/690856405077911/) |
+| 2 | [Daniel Smith](../persons/daniel_smith.md) | [2020-06-02](results/2020-06-02.md) | 50+ | 8:11.77 |  | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381536338738156/) |
 
 #### Over 40
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 1:38.20 | 🏆 🥇 | [Link](https://www.facebook.com/events/688407551989463/permalink/688533835310168/) |
-| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 2:50.89 | 🥈 | [Link](https://www.facebook.com/events/688407551989463/permalink/690047708492114/) |
+| 1 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-06-02](results/2020-06-02.md) | 40+ | 1:32.08 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374121619479628/) |
+| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-06-02](results/2020-06-02.md) | 40+ | 2:48.09 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374518846106572/) |
 | 3 | [Jo Cocco](../persons/jo_cocco.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 3:55.83 | 🥉 | [Link](https://www.facebook.com/events/688407551989463/permalink/689392185224333/) |
 | 4 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 4:17.33 |  | [Link](https://www.facebook.com/events/688407551989463/permalink/692397031590515/) |
 | 5 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-26](results/2020-05-26.md) | 60+ | 7:34.18 |  | [Link](https://www.facebook.com/events/688407551989463/permalink/690856405077911/) |
+| 6 | [Daniel Smith](../persons/daniel_smith.md) | [2020-06-02](results/2020-06-02.md) | 50+ | 8:11.77 |  | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381536338738156/) |
 
 #### Under 40
 

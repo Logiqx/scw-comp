@@ -37,7 +37,7 @@
 
 | Name | Age | Single |
 | -- | :--: | :--: |
-| [Adam Robson](../persons/adam_robson.md) | <40 | 31 |
+| [Adam Robson](../persons/adam_robson.md) | <40 | 26 |
 | [Brooke Persoon](../persons/brooke_persoon.md) | <40 | 42 |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 29 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 41 |

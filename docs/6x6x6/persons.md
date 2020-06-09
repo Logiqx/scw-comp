@@ -18,19 +18,20 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 5:21.00 | DNF |
-| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 3:29.70 | 3:36.18 |
+| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 5:00.57 | DNF |
+| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 3:27.64 | 3:36.18 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 5:28.23 | 5:54.57 |
 | [Donna Leiber](../persons/donna_leiber.md) | 60+ | 12:04.43 | DNF |
 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 3:49.38 | 4:09.55 |
-| [Michael George](../persons/michael_george.md) | 40+ | 5:55.55 | DNF |
+| [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 5:24.05 | DNF |
+| [Michael George](../persons/michael_george.md) | 40+ | 5:35.36 | DNF |
 
 #### Under 40
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 5:56.45 | DNF |
-| [Pete Lee](../persons/pete_lee.md) | <40 | 5:01.49 | DNF |
+| [Pete Lee](../persons/pete_lee.md) | <40 | 4:35.73 | DNF |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

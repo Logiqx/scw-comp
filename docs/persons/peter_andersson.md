@@ -6,7 +6,7 @@
 | 3x3x3 | 20.85 | 24.84 |
 | 2x2x2 | 6.96 | 9.38 |
 | 3x3x3 BLD | 2:02.45 | DNF |
-| 4x4x4 BLD | 10:23.86 | DNF |
+| 4BLD | 10:23.86 | DNF |
 
 #### 3x3x3
 
@@ -40,7 +40,7 @@
 | [2020-03-17](../3bld/results/2020-03-17.md) | 50+ | **2:45.17** | DNF |  | DNF | 2:53.70 | **2:45.17** | [Link](https://www.facebook.com/events/616010612582835/permalink/617557405761489/) |
 
 
-#### 4x4x4 Blindfolded
+#### 4BLD
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
