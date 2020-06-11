@@ -46,7 +46,7 @@
 | :--: | -- | :--: | :--: | :--: | -- |
 | 1 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 25 | [Link](https://www.facebook.com/events/339284923718995/permalink/341683326812488/) |
 | 2 | [David Roche](../persons/david_roche.md) | 50+ | 28 | [Link](https://www.facebook.com/events/339284923718995/permalink/343729683274519/) |
-| 3 | [Ben Coppin](../persons/ben_coppin.md) | 40+ | 31 | [Link](https://www.facebook.com/events/339284923718995/permalink/339287250385429/?comment_id=342824170031737/) |
+| 3 | [Ben Coppin](../persons/ben_coppin.md) | 40+ | 31 | [Link](https://www.facebook.com/events/339284923718995/permalink/339287250385429/) |
 
 #### [2020-04-21](results/2020-04-21.md)
 

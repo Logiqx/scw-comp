@@ -10,7 +10,7 @@
 | 6x6x6 | 5:56.45 | DNF |
 | 7x7x7 | 8:56.69 | DNF |
 | 3x3x3 OH | 22.50 | 34.04 |
-| Mega | 3:24.48 | DNF |
+| Megaminx | 3:24.48 | DNF |
 | 3x3x3 FMC | 29 | - |
 
 #### 3x3x3
@@ -80,7 +80,7 @@
 | [2020-04-07](../oh/results/2020-04-07.md) | <40 | **22.50** | **34.04** |  | 33.55 | 33.95 | **22.50** | 40.72 | 34.62 | [Link](https://www.facebook.com/events/682716079141575/permalink/684177285662121/) |
 
 
-#### Mega
+#### Megaminx
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

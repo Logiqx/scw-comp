@@ -9,7 +9,7 @@
 | 5x5x5 | 6:41.82 | DNF |
 | 6x6x6 | 12:04.43 | DNF |
 | 7x7x7 | 15:59.23 | DNF |
-| Mega | 7:34.18 | DNF |
+| Megaminx | 7:34.18 | DNF |
 | 3x3x3 FMC | 46 | - |
 
 #### 3x3x3
@@ -62,7 +62,7 @@
 | [2020-05-12](../7x7x7/results/2020-05-12.md) | 60+ | **16:49.48** | DNF |  | **16:49.48** | 18:14.63 | DNS | [Link](https://www.facebook.com/events/276138643524223/permalink/278590303279057/) |
 
 
-#### Mega
+#### Megaminx
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

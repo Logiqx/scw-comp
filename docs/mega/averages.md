@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Mega Averages
+### Megaminx Averages
 
 #### Over 40
 

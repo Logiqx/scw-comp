@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### 5BLD Competitors
+### 5x5x5 Blindfolded Competitors
 
 #### Over 40
 

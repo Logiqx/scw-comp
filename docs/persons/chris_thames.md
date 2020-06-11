@@ -7,7 +7,7 @@
 | 2x2x2 | 4.11 | 10.38 |
 | 4x4x4 | 1:56.95 | 2:18.53 |
 | 5x5x5 | 5:52.87 | DNF |
-| Mega | 6:02.13 | DNF |
+| Megaminx | 6:02.13 | DNF |
 
 #### 3x3x3
 
@@ -45,7 +45,7 @@
 | [2020-06-02](../5x5x5/results/2020-06-02.md) | <40 | **5:52.87** | DNF |  | **5:52.87** | DNS | DNS | DNS | DNS | [Link](https://www.facebook.com/events/573401076937046/permalink/576872833256537/) |
 
 
-#### Mega
+#### Megaminx
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
