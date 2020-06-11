@@ -5,7 +5,7 @@ WORK_DIR=/home/jovyan/work/$PROJ_NAME
 run_py_script()
 {
   docker run -it --rm \
-         --mount type=bind,src=$PROJ_DIR/data,dst=$WORK_DIR/data,readonly \
+         --mount type=bind,src=$PROJ_DIR/data,dst=$WORK_DIR/data \
          --mount type=bind,src=$PROJ_DIR/scrambles,dst=$WORK_DIR/scrambles,readonly \
          --mount type=bind,src=$PROJ_DIR/docs,dst=$WORK_DIR/docs \
          --mount type=bind,src=$PROJ_DIR/blurb,dst=$WORK_DIR/blurb \
