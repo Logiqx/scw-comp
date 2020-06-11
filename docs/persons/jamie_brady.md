@@ -23,7 +23,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-04](../4x4x4/results/2020-02-04.md) | <40 | **2:24.93** | **2:38.28** |  | **2:24.93** | 2:55.65 | 2:34.26 | - | - | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
+| [2020-02-04](../4x4x4/results/2020-02-04.md) | <40 | **2:24.93** | **2:38.28** |  | **2:24.93** | 2:55.65 | 2:34.26 | DNS | DNS | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
 
 
 #### 3x3x3 One-Handed

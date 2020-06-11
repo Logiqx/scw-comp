@@ -20,7 +20,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-04](../4x4x4/results/2020-02-04.md) | 40+ | **3:13.21** | **3:38.78** |  | 3:50.62 | 3:52.51 | **3:13.21** | - | - | [Link](https://www.facebook.com/joshua.m.woodward.9/videos/10157599917355342/) |
+| [2020-02-04](../4x4x4/results/2020-02-04.md) | 40+ | **3:13.21** | **3:38.78** |  | 3:50.62 | 3:52.51 | **3:13.21** | DNS | DNS | [Link](https://www.facebook.com/joshua.m.woodward.9/videos/10157599917355342/) |
 
 
 #### 5x5x5
