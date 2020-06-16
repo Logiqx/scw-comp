@@ -23,7 +23,7 @@ The events / puzzles are grouped as follows for the prize draw:
 
 For each competition submission, your name will go into the prize draw, limited to 2 events / puzzles per group.
 
-Due to it being a single prize draw, prizes are not biased towards specific events. All events have an equal chance of winning a prize.
+Due to it being a single prize draw, prizes are not biased towards specific events; all events have an equal chance of winning a prize.
 
 Taking part in multiple events / puzzles will increase your chances of winning a prize.
 
