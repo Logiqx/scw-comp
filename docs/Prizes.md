@@ -42,7 +42,7 @@ Here are some example to illustrate multiple entries into the prize draw:
 
 ### Limits
 
-A single competitor can have a maximum of 8 prize draw entries in one week; 4 groups x 2 events.
+A single competitor can have a maximum of 8 prize draw entries in a single week; 4 groups x 2 events.
 
 Multiple entries will increase your chance of winning but there is a limit of one prize per competitor per week.
 
