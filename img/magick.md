@@ -70,6 +70,14 @@ convert svg/333oh.svg svg/minx.svg -splice 200x0+0+0 +append -chop 200x0+0+0 png
 convert png/333+1.png png/333+2.png -splice 0x200+0+0 -append -chop 0x200+0+0 -bordercolor white -border 100x100 -resize 1000x628 -gravity center -extent 1200x628 png/333+.png
 ```
 
+#### Short
+
+```
+convert svg/pyram.svg svg/skewb.svg -splice 200x0+0+0 +append -chop 200x0+0+0 png/short+1.png
+convert svg/sq1.svg svg/clock.svg -splice 200x0+0+0 +append -chop 200x0+0+0 png/short+2.png
+convert png/short+1.png png/short+2.png -splice 0x200+0+0 -append -chop 0x200+0+0 -bordercolor white -border 100x100 -resize 1000x628 -gravity center -extent 1200x628 png/short+.png
+```
+
 #### 4x4x4+
 
 ```
