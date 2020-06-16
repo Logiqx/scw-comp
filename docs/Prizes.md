@@ -4,7 +4,7 @@
 
 ### Prizes
 
-To encourage wide participation in the competition we are able to offer prizes, kindly been provided by [TheCubicle](https://www.thecubicle.com/).
+To encourage wide participation in the competition we are able to offer prizes, kindly provided by [TheCubicle](https://www.thecubicle.com/).
 
 Every week, 4 competitors will be selected at random and will receive a $5 gift card.
 
