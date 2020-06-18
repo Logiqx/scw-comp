@@ -13,70 +13,70 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-05-12](../3x3x3/results/2020-05-12.md) | <40 | 19.66 | 21.67 |  | 24.09 | 22.94 | 19.66 | 21.86 | 20.21 | [Link](https://www.facebook.com/events/546188069600739/permalink/546500692902810/) |
-| [2020-05-05](../3x3x3/results/2020-05-05.md) | <40 | 12.50 | 13.37 | 🏆 | 12.50 | 13.98 | 15.86 | 13.22 | 12.92 | [Link](https://www.facebook.com/events/3313106775587396/permalink/3314269408804466/) |
-| [2020-04-28](../3x3x3/results/2020-04-28.md) | <40 | 11.14 | 13.77 | 🏆 | 15.44 | 13.77 | 17.58 | 11.14 | 12.10 | [Link](https://www.facebook.com/events/535188653858103/permalink/535472060496429/) |
-| [2020-04-21](../3x3x3/results/2020-04-21.md) | <40 | 11.40 | 13.22 | 🏆 | 15.41 | 11.77 | 12.79 | 11.40 | 15.10 | [Link](https://www.facebook.com/ShawnBoucke/videos/3240886285923132/) |
-| [2020-04-14](../3x3x3/results/2020-04-14.md) | <40 | 12.16 | 13.12 | 🏆 | 14.25 | 12.56 | 12.16 | 14.02 | 12.79 | [Link](https://www.facebook.com/ShawnBoucke/videos/3212352282109866/) |
-| [2020-03-31](../3x3x3/results/2020-03-31.md) | <40 | 13.73 | 14.10 | 🏆 | 13.73 | 14.68 | 13.95 | 13.94 | 14.40 | [Link](https://www.facebook.com/events/207898257161923/permalink/210459220239160/) |
-| [2020-03-24](../3x3x3/results/2020-03-24.md) | <40 | **10.19** | **13.04** | 🏆 🔥 ⚡ | 12.64 | 15.56 | 14.46 | 12.03 | **10.19** | [Link](https://www.facebook.com/events/524456301543611/permalink/525838088072099/) |
-| [2020-03-17](../3x3x3/results/2020-03-17.md) | <40 | 12.39 | 14.06 |  | 13.28 | 16.91 | 15.63 | 12.39 | 13.28 | [Link](https://www.facebook.com/events/280686576235146/permalink/281699199467217/) |
-| [2020-03-10](../3x3x3/results/2020-03-10.md) | <40 | 13.16 | **13.73** | 🏆 🔥 | 13.65 | 14.33 | 13.16 | 14.82 | 13.23 | [Link](https://www.facebook.com/events/164742401163863/permalink/164912484480188/) |
-| [2020-02-25](../3x3x3/results/2020-02-25.md) | <40 | 12.14 | **13.73** | 🏆 🔥 | 15.99 | 12.14 | 12.51 | DNF | 12.68 | [Link](https://www.facebook.com/events/196320811461109/permalink/197027598057097/) |
-| [2020-02-18](../3x3x3/results/2020-02-18.md) | <40 | 12.30 | 14.67 |  | 15.97 | 13.10 | 12.30 | 14.93 | 16.33 | [Link](https://www.facebook.com/events/2558750947697073/permalink/2559346840970817/) |
-| [2020-02-11](../3x3x3/results/2020-02-11.md) | <40 | 13.69 | 14.74 |  | 15.75 | 14.38 | 18.07 | 14.10 | 13.69 | [Link](https://www.facebook.com/events/616423959107229/permalink/617279555688336/) |
-| [2020-02-04](../3x3x3/results/2020-02-04.md) | <40 | **11.31** | **14.42** | 🏆 | 13.84 | 18.31 | 15.38 | 14.03 | **11.31** | [Link](https://www.facebook.com/ShawnBoucke/videos/3054435071234922/) |
+| [2020-05-12](../333/results/2020-05-12.md) | <40 | 19.66 | 21.67 |  | 24.09 | 22.94 | 19.66 | 21.86 | 20.21 | [Link](https://www.facebook.com/events/546188069600739/permalink/546500692902810/) |
+| [2020-05-05](../333/results/2020-05-05.md) | <40 | 12.50 | 13.37 | 🏆 | 12.50 | 13.98 | 15.86 | 13.22 | 12.92 | [Link](https://www.facebook.com/events/3313106775587396/permalink/3314269408804466/) |
+| [2020-04-28](../333/results/2020-04-28.md) | <40 | 11.14 | 13.77 | 🏆 | 15.44 | 13.77 | 17.58 | 11.14 | 12.10 | [Link](https://www.facebook.com/events/535188653858103/permalink/535472060496429/) |
+| [2020-04-21](../333/results/2020-04-21.md) | <40 | 11.40 | 13.22 | 🏆 | 15.41 | 11.77 | 12.79 | 11.40 | 15.10 | [Link](https://www.facebook.com/ShawnBoucke/videos/3240886285923132/) |
+| [2020-04-14](../333/results/2020-04-14.md) | <40 | 12.16 | 13.12 | 🏆 | 14.25 | 12.56 | 12.16 | 14.02 | 12.79 | [Link](https://www.facebook.com/ShawnBoucke/videos/3212352282109866/) |
+| [2020-03-31](../333/results/2020-03-31.md) | <40 | 13.73 | 14.10 | 🏆 | 13.73 | 14.68 | 13.95 | 13.94 | 14.40 | [Link](https://www.facebook.com/events/207898257161923/permalink/210459220239160/) |
+| [2020-03-24](../333/results/2020-03-24.md) | <40 | **10.19** | **13.04** | 🏆 🔥 ⚡ | 12.64 | 15.56 | 14.46 | 12.03 | **10.19** | [Link](https://www.facebook.com/events/524456301543611/permalink/525838088072099/) |
+| [2020-03-17](../333/results/2020-03-17.md) | <40 | 12.39 | 14.06 |  | 13.28 | 16.91 | 15.63 | 12.39 | 13.28 | [Link](https://www.facebook.com/events/280686576235146/permalink/281699199467217/) |
+| [2020-03-10](../333/results/2020-03-10.md) | <40 | 13.16 | **13.73** | 🏆 🔥 | 13.65 | 14.33 | 13.16 | 14.82 | 13.23 | [Link](https://www.facebook.com/events/164742401163863/permalink/164912484480188/) |
+| [2020-02-25](../333/results/2020-02-25.md) | <40 | 12.14 | **13.73** | 🏆 🔥 | 15.99 | 12.14 | 12.51 | DNF | 12.68 | [Link](https://www.facebook.com/events/196320811461109/permalink/197027598057097/) |
+| [2020-02-18](../333/results/2020-02-18.md) | <40 | 12.30 | 14.67 |  | 15.97 | 13.10 | 12.30 | 14.93 | 16.33 | [Link](https://www.facebook.com/events/2558750947697073/permalink/2559346840970817/) |
+| [2020-02-11](../333/results/2020-02-11.md) | <40 | 13.69 | 14.74 |  | 15.75 | 14.38 | 18.07 | 14.10 | 13.69 | [Link](https://www.facebook.com/events/616423959107229/permalink/617279555688336/) |
+| [2020-02-04](../333/results/2020-02-04.md) | <40 | **11.31** | **14.42** | 🏆 | 13.84 | 18.31 | 15.38 | 14.03 | **11.31** | [Link](https://www.facebook.com/ShawnBoucke/videos/3054435071234922/) |
 
 
 #### 2x2x2
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-25](../2x2x2/results/2020-02-25.md) | <40 | **4.34** | **4.55** | 🏆 | 4.69 | **4.34** | 4.53 | 5.54 | 4.44 | [Link](https://www.facebook.com/events/2972213492840148/permalink/2975010722560425/) |
+| [2020-02-25](../222/results/2020-02-25.md) | <40 | **4.34** | **4.55** | 🏆 | 4.69 | **4.34** | 4.53 | 5.54 | 4.44 | [Link](https://www.facebook.com/events/2972213492840148/permalink/2975010722560425/) |
 
 
 #### 4x4x4
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-05-05](../4x4x4/results/2020-05-05.md) | <40 | **46.21** | 54.32 | 🏆 ⚡ | 56.20 | **46.21** | 51.38 | 55.38 | 58.02 | [Link](https://www.facebook.com/events/543220986391837/permalink/548566115857324/) |
-| [2020-04-28](../4x4x4/results/2020-04-28.md) | <40 | **46.87** | 51.59 | 🏆 ⚡ | 48.40 | 52.96 | 1:08.69 | 53.41 | **46.87** | [Link](https://www.facebook.com/ShawnBoucke/videos/3250728604938900/) |
-| [2020-04-21](../4x4x4/results/2020-04-21.md) | <40 | 49.44 | 54.39 | 🏆 | 49.44 | 54.86 | 50.68 | 57.63 | 59.27 | [Link](https://www.facebook.com/ShawnBoucke/videos/3241082209236873/) |
-| [2020-03-31](../4x4x4/results/2020-03-31.md) | <40 | 49.54 | 52.54 |  | 54.12 | 1:05.30 | 53.07 | 49.54 | 50.42 | [Link](https://www.facebook.com/events/269276700734640/permalink/272043817124595/) |
-| [2020-03-17](../4x4x4/results/2020-03-17.md) | <40 | 50.47 | 54.27 |  | 56.51 | 50.47 | 54.82 | 57.97 | 51.50 | [Link](https://www.facebook.com/events/211732526904866/permalink/212975690113883/) |
-| [2020-02-25](../4x4x4/results/2020-02-25.md) | <40 | 49.12 | 53.98 |  | 50.22 | 55.95 | 1:07.95 | 55.77 | 49.12 | [Link](https://www.facebook.com/events/805797596592397/permalink/806727313166092/) |
-| [2020-02-04](../4x4x4/results/2020-02-04.md) | <40 | **47.49** | **49.52** | 🏆 | 48.22 | 49.70 | **47.49** | 1:06.29 | 50.62 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134991299980109/) |
+| [2020-05-05](../444/results/2020-05-05.md) | <40 | **46.21** | 54.32 | 🏆 ⚡ | 56.20 | **46.21** | 51.38 | 55.38 | 58.02 | [Link](https://www.facebook.com/events/543220986391837/permalink/548566115857324/) |
+| [2020-04-28](../444/results/2020-04-28.md) | <40 | **46.87** | 51.59 | 🏆 ⚡ | 48.40 | 52.96 | 1:08.69 | 53.41 | **46.87** | [Link](https://www.facebook.com/ShawnBoucke/videos/3250728604938900/) |
+| [2020-04-21](../444/results/2020-04-21.md) | <40 | 49.44 | 54.39 | 🏆 | 49.44 | 54.86 | 50.68 | 57.63 | 59.27 | [Link](https://www.facebook.com/ShawnBoucke/videos/3241082209236873/) |
+| [2020-03-31](../444/results/2020-03-31.md) | <40 | 49.54 | 52.54 |  | 54.12 | 1:05.30 | 53.07 | 49.54 | 50.42 | [Link](https://www.facebook.com/events/269276700734640/permalink/272043817124595/) |
+| [2020-03-17](../444/results/2020-03-17.md) | <40 | 50.47 | 54.27 |  | 56.51 | 50.47 | 54.82 | 57.97 | 51.50 | [Link](https://www.facebook.com/events/211732526904866/permalink/212975690113883/) |
+| [2020-02-25](../444/results/2020-02-25.md) | <40 | 49.12 | 53.98 |  | 50.22 | 55.95 | 1:07.95 | 55.77 | 49.12 | [Link](https://www.facebook.com/events/805797596592397/permalink/806727313166092/) |
+| [2020-02-04](../444/results/2020-02-04.md) | <40 | **47.49** | **49.52** | 🏆 | 48.22 | 49.70 | **47.49** | 1:06.29 | 50.62 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134991299980109/) |
 
 
 #### 3x3x3 One-Handed
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-02-18](../oh/results/2020-02-18.md) | <40 | **24.65** | **27.70** |  | 25.42 | **24.65** | 51.36 | 29.41 | 28.28 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1621909717949318/) |
+| [2020-02-18](../333oh/results/2020-02-18.md) | <40 | **24.65** | **27.70** |  | 25.42 | **24.65** | 51.36 | 29.41 | 28.28 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1621909717949318/) |
 
 
 #### 3x3x3 Fewest Moves
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
-| [2020-06-09](../fmc/results/2020-06-09.md) | <40 | 27 | 🏆 | [Link](https://www.facebook.com/events/855783411578420/permalink/856857321471029/) |
-| [2020-06-02](../fmc/results/2020-06-02.md) | <40 | 28 |  | [Link](https://www.facebook.com/events/3920457157996941/permalink/3940376476005009/) |
-| [2020-05-26](../fmc/results/2020-05-26.md) | <40 | 29 |  | [Link](https://www.facebook.com/events/2622968941252005/permalink/2623283234553909/) |
-| [2020-05-19](../fmc/results/2020-05-19.md) | <40 | 30 | 🏆 | [Link](https://www.facebook.com/events/568280284126471/permalink/571540883800411/) |
-| [2020-05-12](../fmc/results/2020-05-12.md) | <40 | 33 |  | [Link](https://www.facebook.com/events/2563130363933815/permalink/2563326017247583/) |
-| [2020-05-05](../fmc/results/2020-05-05.md) | <40 | 28 | 🏆 | [Link](https://www.facebook.com/events/271150663928664/permalink/271684503875280/) |
-| [2020-04-28](../fmc/results/2020-04-28.md) | <40 | 28 |  | [Link](https://www.facebook.com/events/339284923718995/permalink/339355220378632/) |
-| [2020-04-21](../fmc/results/2020-04-21.md) | <40 | **24** | 🏆 ⚡ | [Link](https://www.facebook.com/events/573932290186676/permalink/574620073451231/) |
-| [2020-04-14](../fmc/results/2020-04-14.md) | <40 | 30 |  | [Link](https://www.facebook.com/events/1537311246473343/permalink/1538789432992191/) |
-| [2020-04-07](../fmc/results/2020-04-07.md) | <40 | DNF |  | [Link](https://www.facebook.com/events/253518435802861/permalink/254356069052431/) |
-| [2020-03-31](../fmc/results/2020-03-31.md) | <40 | 28 |  | [Link](https://www.facebook.com/events/511598773063510/permalink/512363329653721/) |
-| [2020-03-24](../fmc/results/2020-03-24.md) | <40 | 26 |  | [Link](https://www.facebook.com/events/500266387310754/permalink/501216437215749/) |
-| [2020-03-17](../fmc/results/2020-03-17.md) | <40 | 32 |  | [Link](https://www.facebook.com/events/210706923625115/permalink/211886366840504/) |
-| [2020-03-10](../fmc/results/2020-03-10.md) | <40 | 28 |  | [Link](https://www.facebook.com/events/640532176759268/permalink/640567056755780/) |
-| [2020-03-03](../fmc/results/2020-03-03.md) | <40 | 29 |  | [Link](https://www.facebook.com/events/235909040903027/permalink/236098827550715/) |
-| [2020-02-25](../fmc/results/2020-02-25.md) | <40 | **25** | 🏆 ⚡ | [Link](https://www.facebook.com/events/215751886207638/permalink/215957959520364/) |
-| [2020-02-18](../fmc/results/2020-02-18.md) | <40 | **29** | ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
-| [2020-02-11](../fmc/results/2020-02-11.md) | <40 | **31** |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
+| [2020-06-09](../333fm/results/2020-06-09.md) | <40 | 27 | 🏆 | [Link](https://www.facebook.com/events/855783411578420/permalink/856857321471029/) |
+| [2020-06-02](../333fm/results/2020-06-02.md) | <40 | 28 |  | [Link](https://www.facebook.com/events/3920457157996941/permalink/3940376476005009/) |
+| [2020-05-26](../333fm/results/2020-05-26.md) | <40 | 29 |  | [Link](https://www.facebook.com/events/2622968941252005/permalink/2623283234553909/) |
+| [2020-05-19](../333fm/results/2020-05-19.md) | <40 | 30 | 🏆 | [Link](https://www.facebook.com/events/568280284126471/permalink/571540883800411/) |
+| [2020-05-12](../333fm/results/2020-05-12.md) | <40 | 33 |  | [Link](https://www.facebook.com/events/2563130363933815/permalink/2563326017247583/) |
+| [2020-05-05](../333fm/results/2020-05-05.md) | <40 | 28 | 🏆 | [Link](https://www.facebook.com/events/271150663928664/permalink/271684503875280/) |
+| [2020-04-28](../333fm/results/2020-04-28.md) | <40 | 28 |  | [Link](https://www.facebook.com/events/339284923718995/permalink/339355220378632/) |
+| [2020-04-21](../333fm/results/2020-04-21.md) | <40 | **24** | 🏆 ⚡ | [Link](https://www.facebook.com/events/573932290186676/permalink/574620073451231/) |
+| [2020-04-14](../333fm/results/2020-04-14.md) | <40 | 30 |  | [Link](https://www.facebook.com/events/1537311246473343/permalink/1538789432992191/) |
+| [2020-04-07](../333fm/results/2020-04-07.md) | <40 | DNF |  | [Link](https://www.facebook.com/events/253518435802861/permalink/254356069052431/) |
+| [2020-03-31](../333fm/results/2020-03-31.md) | <40 | 28 |  | [Link](https://www.facebook.com/events/511598773063510/permalink/512363329653721/) |
+| [2020-03-24](../333fm/results/2020-03-24.md) | <40 | 26 |  | [Link](https://www.facebook.com/events/500266387310754/permalink/501216437215749/) |
+| [2020-03-17](../333fm/results/2020-03-17.md) | <40 | 32 |  | [Link](https://www.facebook.com/events/210706923625115/permalink/211886366840504/) |
+| [2020-03-10](../333fm/results/2020-03-10.md) | <40 | 28 |  | [Link](https://www.facebook.com/events/640532176759268/permalink/640567056755780/) |
+| [2020-03-03](../333fm/results/2020-03-03.md) | <40 | 29 |  | [Link](https://www.facebook.com/events/235909040903027/permalink/236098827550715/) |
+| [2020-02-25](../333fm/results/2020-02-25.md) | <40 | **25** | 🏆 ⚡ | [Link](https://www.facebook.com/events/215751886207638/permalink/215957959520364/) |
+| [2020-02-18](../333fm/results/2020-02-18.md) | <40 | **29** | ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2146673152145257/) |
+| [2020-02-11](../333fm/results/2020-02-11.md) | <40 | **31** |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

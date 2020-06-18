@@ -1,55 +1,55 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Historical Archive
 #### Individuals
-Competitors - [3x3x3](3x3x3/persons.md), [2x2x2](2x2x2/persons.md), [4x4x4](4x4x4/persons.md), [5x5x5](5x5x5/persons.md), [6x6x6](6x6x6/persons.md), [7x7x7](7x7x7/persons.md), [3x3x3 OH](oh/persons.md), [Megaminx](mega/persons.md), [3x3x3 BLD](3bld/persons.md), [4x4x4 BLD](4bld/persons.md), [5x5x5 BLD](5bld/persons.md), [3x3x3 FMC](fmc/persons.md)
+Competitors - [3x3x3](333/persons.md), [2x2x2](222/persons.md), [4x4x4](444/persons.md), [5x5x5](555/persons.md), [6x6x6](666/persons.md), [7x7x7](777/persons.md), [OH](333oh/persons.md), [Mega](minx/persons.md), [3BLD](333bf/persons.md), [4BLD](444bf/persons.md), [5BLD](555bf/persons.md), [FMC](333fm/persons.md)
 
-Best Singles - [3x3x3](3x3x3/singles.md), [2x2x2](2x2x2/singles.md), [4x4x4](4x4x4/singles.md), [5x5x5](5x5x5/singles.md), [6x6x6](6x6x6/singles.md), [7x7x7](7x7x7/singles.md), [3x3x3 OH](oh/singles.md), [Megaminx](mega/singles.md), [3x3x3 BLD](3bld/singles.md), [4x4x4 BLD](4bld/singles.md), [5x5x5 BLD](5bld/singles.md), [3x3x3 FMC](fmc/singles.md)
+Best Singles - [3x3x3](333/singles.md), [2x2x2](222/singles.md), [4x4x4](444/singles.md), [5x5x5](555/singles.md), [6x6x6](666/singles.md), [7x7x7](777/singles.md), [OH](333oh/singles.md), [Mega](minx/singles.md), [3BLD](333bf/singles.md), [4BLD](444bf/singles.md), [5BLD](555bf/singles.md), [FMC](333fm/singles.md)
 
-Best Averages - [3x3x3](3x3x3/averages.md), [2x2x2](2x2x2/averages.md), [4x4x4](4x4x4/averages.md), [5x5x5](5x5x5/averages.md), [6x6x6](6x6x6/averages.md), [7x7x7](7x7x7/averages.md), [3x3x3 OH](oh/averages.md), [Megaminx](mega/averages.md), [3x3x3 BLD](3bld/averages.md), [4x4x4 BLD](4bld/averages.md), [5x5x5 BLD](5bld/averages.md)
+Best Averages - [3x3x3](333/averages.md), [2x2x2](222/averages.md), [4x4x4](444/averages.md), [5x5x5](555/averages.md), [6x6x6](666/averages.md), [7x7x7](777/averages.md), [OH](333oh/averages.md), [Mega](minx/averages.md), [3BLD](333bf/averages.md), [4BLD](444bf/averages.md), [5BLD](555bf/averages.md)
 
 #### Podiums
-Seniors - [3x3x3](3x3x3/README.md), [2x2x2](2x2x2/README.md), [4x4x4](4x4x4/README.md), [5x5x5](5x5x5/README.md), [6x6x6](6x6x6/README.md), [7x7x7](7x7x7/README.md), [3x3x3 OH](oh/README.md), [Megaminx](mega/README.md), [3x3x3 BLD](3bld/README.md), [4x4x4 BLD](4bld/README.md), [5x5x5 BLD](5bld/README.md), [3x3x3 FMC](fmc/README.md)
+Seniors - [3x3x3](333/README.md), [2x2x2](222/README.md), [4x4x4](444/README.md), [5x5x5](555/README.md), [6x6x6](666/README.md), [7x7x7](777/README.md), [OH](333oh/README.md), [Mega](minx/README.md), [3BLD](333bf/README.md), [4BLD](444bf/README.md), [5BLD](555bf/README.md), [FMC](333fm/README.md)
 
 #### Results
-2020-06-09 - [3x3x3](3x3x3/results/2020-06-09.md), [2x2x2](2x2x2/results/2020-06-09.md), [4x4x4](4x4x4/results/2020-06-09.md), [5x5x5](5x5x5/results/2020-06-09.md), [6x6x6](6x6x6/results/2020-06-09.md), [7x7x7](7x7x7/results/2020-06-09.md), [3x3x3 OH](oh/results/2020-06-09.md), [Megaminx](mega/results/2020-06-09.md), [3x3x3 BLD](3bld/results/2020-06-09.md), [4x4x4 BLD](4bld/results/2020-06-09.md), [5x5x5 BLD](5bld/results/2020-06-09.md), [3x3x3 FMC](fmc/results/2020-06-09.md)
+2020-06-09 - [3x3x3](333/results/2020-06-09.md), [2x2x2](222/results/2020-06-09.md), [4x4x4](444/results/2020-06-09.md), [5x5x5](555/results/2020-06-09.md), [6x6x6](666/results/2020-06-09.md), [7x7x7](777/results/2020-06-09.md), [OH](333oh/results/2020-06-09.md), [Mega](minx/results/2020-06-09.md), [3BLD](333bf/results/2020-06-09.md), [4BLD](444bf/results/2020-06-09.md), [5BLD](555bf/results/2020-06-09.md), [FMC](333fm/results/2020-06-09.md)
 
-2020-06-02 - [3x3x3](3x3x3/results/2020-06-02.md), [2x2x2](2x2x2/results/2020-06-02.md), [4x4x4](4x4x4/results/2020-06-02.md), [5x5x5](5x5x5/results/2020-06-02.md), [6x6x6](6x6x6/results/2020-06-02.md), [7x7x7](7x7x7/results/2020-06-02.md), [3x3x3 OH](oh/results/2020-06-02.md), [Megaminx](mega/results/2020-06-02.md), [3x3x3 BLD](3bld/results/2020-06-02.md), [4x4x4 BLD](4bld/results/2020-06-02.md), [5x5x5 BLD](5bld/results/2020-06-02.md), [3x3x3 FMC](fmc/results/2020-06-02.md)
+2020-06-02 - [3x3x3](333/results/2020-06-02.md), [2x2x2](222/results/2020-06-02.md), [4x4x4](444/results/2020-06-02.md), [5x5x5](555/results/2020-06-02.md), [6x6x6](666/results/2020-06-02.md), [7x7x7](777/results/2020-06-02.md), [OH](333oh/results/2020-06-02.md), [Mega](minx/results/2020-06-02.md), [3BLD](333bf/results/2020-06-02.md), [4BLD](444bf/results/2020-06-02.md), [5BLD](555bf/results/2020-06-02.md), [FMC](333fm/results/2020-06-02.md)
 
-2020-05-26 - [3x3x3](3x3x3/results/2020-05-26.md), [2x2x2](2x2x2/results/2020-05-26.md), [4x4x4](4x4x4/results/2020-05-26.md), [5x5x5](5x5x5/results/2020-05-26.md), [6x6x6](6x6x6/results/2020-05-26.md), [7x7x7](7x7x7/results/2020-05-26.md), [3x3x3 OH](oh/results/2020-05-26.md), [Megaminx](mega/results/2020-05-26.md), [3x3x3 BLD](3bld/results/2020-05-26.md), [4x4x4 BLD](4bld/results/2020-05-26.md), [5x5x5 BLD](5bld/results/2020-05-26.md), [3x3x3 FMC](fmc/results/2020-05-26.md)
+2020-05-26 - [3x3x3](333/results/2020-05-26.md), [2x2x2](222/results/2020-05-26.md), [4x4x4](444/results/2020-05-26.md), [5x5x5](555/results/2020-05-26.md), [6x6x6](666/results/2020-05-26.md), [7x7x7](777/results/2020-05-26.md), [OH](333oh/results/2020-05-26.md), [Mega](minx/results/2020-05-26.md), [3BLD](333bf/results/2020-05-26.md), [4BLD](444bf/results/2020-05-26.md), [5BLD](555bf/results/2020-05-26.md), [FMC](333fm/results/2020-05-26.md)
 
-2020-05-19 - [3x3x3](3x3x3/results/2020-05-19.md), [2x2x2](2x2x2/results/2020-05-19.md), [4x4x4](4x4x4/results/2020-05-19.md), [5x5x5](5x5x5/results/2020-05-19.md), [6x6x6](6x6x6/results/2020-05-19.md), [7x7x7](7x7x7/results/2020-05-19.md), [3x3x3 OH](oh/results/2020-05-19.md), [3x3x3 BLD](3bld/results/2020-05-19.md), [4x4x4 BLD](4bld/results/2020-05-19.md), [5x5x5 BLD](5bld/results/2020-05-19.md), [3x3x3 FMC](fmc/results/2020-05-19.md)
+2020-05-19 - [3x3x3](333/results/2020-05-19.md), [2x2x2](222/results/2020-05-19.md), [4x4x4](444/results/2020-05-19.md), [5x5x5](555/results/2020-05-19.md), [6x6x6](666/results/2020-05-19.md), [7x7x7](777/results/2020-05-19.md), [OH](333oh/results/2020-05-19.md), [3BLD](333bf/results/2020-05-19.md), [4BLD](444bf/results/2020-05-19.md), [5BLD](555bf/results/2020-05-19.md), [FMC](333fm/results/2020-05-19.md)
 
-2020-05-12 - [3x3x3](3x3x3/results/2020-05-12.md), [2x2x2](2x2x2/results/2020-05-12.md), [4x4x4](4x4x4/results/2020-05-12.md), [5x5x5](5x5x5/results/2020-05-12.md), [6x6x6](6x6x6/results/2020-05-12.md), [7x7x7](7x7x7/results/2020-05-12.md), [3x3x3 OH](oh/results/2020-05-12.md), [3x3x3 BLD](3bld/results/2020-05-12.md), [4x4x4 BLD](4bld/results/2020-05-12.md), [5x5x5 BLD](5bld/results/2020-05-12.md), [3x3x3 FMC](fmc/results/2020-05-12.md)
+2020-05-12 - [3x3x3](333/results/2020-05-12.md), [2x2x2](222/results/2020-05-12.md), [4x4x4](444/results/2020-05-12.md), [5x5x5](555/results/2020-05-12.md), [6x6x6](666/results/2020-05-12.md), [7x7x7](777/results/2020-05-12.md), [OH](333oh/results/2020-05-12.md), [3BLD](333bf/results/2020-05-12.md), [4BLD](444bf/results/2020-05-12.md), [5BLD](555bf/results/2020-05-12.md), [FMC](333fm/results/2020-05-12.md)
 
-2020-05-05 - [3x3x3](3x3x3/results/2020-05-05.md), [2x2x2](2x2x2/results/2020-05-05.md), [4x4x4](4x4x4/results/2020-05-05.md), [5x5x5](5x5x5/results/2020-05-05.md), [6x6x6](6x6x6/results/2020-05-05.md), [7x7x7](7x7x7/results/2020-05-05.md), [3x3x3 OH](oh/results/2020-05-05.md), [3x3x3 BLD](3bld/results/2020-05-05.md), [4x4x4 BLD](4bld/results/2020-05-05.md), [5x5x5 BLD](5bld/results/2020-05-05.md), [3x3x3 FMC](fmc/results/2020-05-05.md)
+2020-05-05 - [3x3x3](333/results/2020-05-05.md), [2x2x2](222/results/2020-05-05.md), [4x4x4](444/results/2020-05-05.md), [5x5x5](555/results/2020-05-05.md), [6x6x6](666/results/2020-05-05.md), [7x7x7](777/results/2020-05-05.md), [OH](333oh/results/2020-05-05.md), [3BLD](333bf/results/2020-05-05.md), [4BLD](444bf/results/2020-05-05.md), [5BLD](555bf/results/2020-05-05.md), [FMC](333fm/results/2020-05-05.md)
 
-2020-04-28 - [3x3x3](3x3x3/results/2020-04-28.md), [2x2x2](2x2x2/results/2020-04-28.md), [4x4x4](4x4x4/results/2020-04-28.md), [5x5x5](5x5x5/results/2020-04-28.md), [3x3x3 OH](oh/results/2020-04-28.md), [3x3x3 BLD](3bld/results/2020-04-28.md), [3x3x3 FMC](fmc/results/2020-04-28.md)
+2020-04-28 - [3x3x3](333/results/2020-04-28.md), [2x2x2](222/results/2020-04-28.md), [4x4x4](444/results/2020-04-28.md), [5x5x5](555/results/2020-04-28.md), [OH](333oh/results/2020-04-28.md), [3BLD](333bf/results/2020-04-28.md), [FMC](333fm/results/2020-04-28.md)
 
-2020-04-21 - [3x3x3](3x3x3/results/2020-04-21.md), [2x2x2](2x2x2/results/2020-04-21.md), [4x4x4](4x4x4/results/2020-04-21.md), [5x5x5](5x5x5/results/2020-04-21.md), [3x3x3 OH](oh/results/2020-04-21.md), [3x3x3 BLD](3bld/results/2020-04-21.md), [3x3x3 FMC](fmc/results/2020-04-21.md)
+2020-04-21 - [3x3x3](333/results/2020-04-21.md), [2x2x2](222/results/2020-04-21.md), [4x4x4](444/results/2020-04-21.md), [5x5x5](555/results/2020-04-21.md), [OH](333oh/results/2020-04-21.md), [3BLD](333bf/results/2020-04-21.md), [FMC](333fm/results/2020-04-21.md)
 
-2020-04-14 - [3x3x3](3x3x3/results/2020-04-14.md), [2x2x2](2x2x2/results/2020-04-14.md), [4x4x4](4x4x4/results/2020-04-14.md), [5x5x5](5x5x5/results/2020-04-14.md), [3x3x3 OH](oh/results/2020-04-14.md), [3x3x3 BLD](3bld/results/2020-04-14.md), [3x3x3 FMC](fmc/results/2020-04-14.md)
+2020-04-14 - [3x3x3](333/results/2020-04-14.md), [2x2x2](222/results/2020-04-14.md), [4x4x4](444/results/2020-04-14.md), [5x5x5](555/results/2020-04-14.md), [OH](333oh/results/2020-04-14.md), [3BLD](333bf/results/2020-04-14.md), [FMC](333fm/results/2020-04-14.md)
 
-2020-04-07 - [3x3x3](3x3x3/results/2020-04-07.md), [3x3x3 OH](oh/results/2020-04-07.md), [3x3x3 BLD](3bld/results/2020-04-07.md), [3x3x3 FMC](fmc/results/2020-04-07.md)
+2020-04-07 - [3x3x3](333/results/2020-04-07.md), [OH](333oh/results/2020-04-07.md), [3BLD](333bf/results/2020-04-07.md), [FMC](333fm/results/2020-04-07.md)
 
-2020-03-31 - [3x3x3](3x3x3/results/2020-03-31.md), [2x2x2](2x2x2/results/2020-03-31.md), [4x4x4](4x4x4/results/2020-03-31.md), [3x3x3 FMC](fmc/results/2020-03-31.md)
+2020-03-31 - [3x3x3](333/results/2020-03-31.md), [2x2x2](222/results/2020-03-31.md), [4x4x4](444/results/2020-03-31.md), [FMC](333fm/results/2020-03-31.md)
 
-2020-03-24 - [3x3x3](3x3x3/results/2020-03-24.md), [5x5x5](5x5x5/results/2020-03-24.md), [3x3x3 OH](oh/results/2020-03-24.md), [3x3x3 FMC](fmc/results/2020-03-24.md)
+2020-03-24 - [3x3x3](333/results/2020-03-24.md), [5x5x5](555/results/2020-03-24.md), [OH](333oh/results/2020-03-24.md), [FMC](333fm/results/2020-03-24.md)
 
-2020-03-17 - [3x3x3](3x3x3/results/2020-03-17.md), [4x4x4](4x4x4/results/2020-03-17.md), [3x3x3 BLD](3bld/results/2020-03-17.md), [3x3x3 FMC](fmc/results/2020-03-17.md)
+2020-03-17 - [3x3x3](333/results/2020-03-17.md), [4x4x4](444/results/2020-03-17.md), [3BLD](333bf/results/2020-03-17.md), [FMC](333fm/results/2020-03-17.md)
 
-2020-03-10 - [3x3x3](3x3x3/results/2020-03-10.md), [2x2x2](2x2x2/results/2020-03-10.md), [3x3x3 OH](oh/results/2020-03-10.md), [3x3x3 FMC](fmc/results/2020-03-10.md)
+2020-03-10 - [3x3x3](333/results/2020-03-10.md), [2x2x2](222/results/2020-03-10.md), [OH](333oh/results/2020-03-10.md), [FMC](333fm/results/2020-03-10.md)
 
-2020-03-03 - [3x3x3](3x3x3/results/2020-03-03.md), [5x5x5](5x5x5/results/2020-03-03.md), [3x3x3 BLD](3bld/results/2020-03-03.md), [3x3x3 FMC](fmc/results/2020-03-03.md)
+2020-03-03 - [3x3x3](333/results/2020-03-03.md), [5x5x5](555/results/2020-03-03.md), [3BLD](333bf/results/2020-03-03.md), [FMC](333fm/results/2020-03-03.md)
 
-2020-02-25 - [3x3x3](3x3x3/results/2020-02-25.md), [2x2x2](2x2x2/results/2020-02-25.md), [4x4x4](4x4x4/results/2020-02-25.md), [3x3x3 FMC](fmc/results/2020-02-25.md)
+2020-02-25 - [3x3x3](333/results/2020-02-25.md), [2x2x2](222/results/2020-02-25.md), [4x4x4](444/results/2020-02-25.md), [FMC](333fm/results/2020-02-25.md)
 
-2020-02-18 - [3x3x3](3x3x3/results/2020-02-18.md), [5x5x5](5x5x5/results/2020-02-18.md), [3x3x3 OH](oh/results/2020-02-18.md), [3x3x3 FMC](fmc/results/2020-02-18.md)
+2020-02-18 - [3x3x3](333/results/2020-02-18.md), [5x5x5](555/results/2020-02-18.md), [OH](333oh/results/2020-02-18.md), [FMC](333fm/results/2020-02-18.md)
 
-2020-02-11 - [3x3x3](3x3x3/results/2020-02-11.md), [2x2x2](2x2x2/results/2020-02-11.md), [3x3x3 BLD](3bld/results/2020-02-11.md), [3x3x3 FMC](fmc/results/2020-02-11.md)
+2020-02-11 - [3x3x3](333/results/2020-02-11.md), [2x2x2](222/results/2020-02-11.md), [3BLD](333bf/results/2020-02-11.md), [FMC](333fm/results/2020-02-11.md)
 
-2020-02-04 - [3x3x3](3x3x3/results/2020-02-04.md), [4x4x4](4x4x4/results/2020-02-04.md)
+2020-02-04 - [3x3x3](333/results/2020-02-04.md), [4x4x4](444/results/2020-02-04.md)
 
-2020-01-28 - [3x3x3](3x3x3/results/2020-01-28.md)
+2020-01-28 - [3x3x3](333/results/2020-01-28.md)
 
 #### Project Code
 Python code for these reports can be found at [https://github.com/Logiqx/scw-comp](https://github.com/Logiqx/scw-comp)
