@@ -3,12 +3,12 @@
 
 | Event | Single | Average |
 | -- | --: | --: |
-| 3x3x3 | 14.76 | 16.89 |
+| 3x3x3 | 14.22 | 16.29 |
 | 2x2x2 | 3.44 | 6.08 |
 | 4x4x4 | 52.35 | 1:02.91 |
 | 5x5x5 | 2:17.14 | 2:31.20 |
-| 6x6x6 | 5:24.05 | DNF |
-| 7x7x7 | 9:14.16 | DNF |
+| 6x6x6 | 5:06.63 | DNF |
+| 7x7x7 | 8:08.23 | DNF |
 | 3x3x3 OH | 36.79 | 44.49 |
 | 3x3x3 BLD | 2:31.65 | DNF |
 
@@ -16,6 +16,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-06-09](../3x3x3/results/2020-06-09.md) | 40+ | **14.22** | **16.29** | 🥈 🔥 ⚡ | 15.79 | 19.04 | 15.94 | **14.22** | 17.13 | [Link](https://www.facebook.com/jeremy.duehring/videos/10160093525337846/) |
 | [2020-05-26](../3x3x3/results/2020-05-26.md) | 40+ | 16.37 | **16.89** | 🥈 🔥 | 17.10 | 18.50 | 16.57 | 16.99 | 16.37 | [Link](https://www.facebook.com/events/688407551989463/permalink/692481941582024/) |
 | [2020-05-19](../3x3x3/results/2020-05-19.md) | 40+ | 17.97 | 19.80 |  | 17.97 | 19.76 | 23.32 | 19.93 | 19.73 | [Link](https://www.facebook.com/events/1880761498725633/permalink/1881865155281934/) |
 | [2020-05-05](../3x3x3/results/2020-05-05.md) | 40+ | 16.48 | 17.99 | 🥉 | 17.72 | 17.73 | 16.48 | 18.51 | 19.23 | [Link](https://www.facebook.com/events/3313106775587396/permalink/3318857528345654/) |
@@ -48,6 +49,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-06-09](../4x4x4/results/2020-06-09.md) | 40+ | 1:03.83 | 1:08.10 | 🥉 | 1:05.38 | 1:13.04 | 1:03.83 | 1:29.03 | 1:05.89 | [Link](https://www.facebook.com/jeremy.duehring/videos/10160093079532846/) |
 | [2020-05-26](../4x4x4/results/2020-05-26.md) | 40+ | 54.69 | 1:04.05 | 🥉 | 58.83 | 1:00.22 | 1:15.39 | 1:13.11 | 54.69 | [Link](https://www.facebook.com/events/637852836799991/permalink/640943019824306/) |
 | [2020-05-19](../4x4x4/results/2020-05-19.md) | 40+ | 1:02.30 | 1:12.33 | 🥉 | 1:10.57 | 1:13.72 | DNF | 1:02.30 | 1:12.70 | [Link](https://www.facebook.com/events/201300894172579/permalink/203067770662558/) |
 | [2020-04-21](../4x4x4/results/2020-04-21.md) | 40+ | 54.71 | 1:13.15 | 🥉 | 1:11.54 | 1:08.64 | 54.71 | 1:19.87 | 1:19.27 | [Link](https://www.facebook.com/events/538096063773916/permalink/540343283549194/) |
@@ -68,6 +70,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-06-09](../6x6x6/results/2020-06-09.md) | 40+ | **5:06.63** | DNF | 🥉 ⚡ | **5:06.63** | DNS | DNS | [Link](https://www.facebook.com/jeremy.duehring/videos/10160093205957846/) |
 | [2020-06-02](../6x6x6/results/2020-06-02.md) | 40+ | **5:24.05** | DNF |  | **5:24.05** | DNS | DNS | [Link](https://www.facebook.com/jeremy.duehring/videos/10160075205387846/) |
 
 
@@ -75,6 +78,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-06-09](../7x7x7/results/2020-06-09.md) | 40+ | **8:08.23** | DNF | 🥉 ⚡ | **8:08.23** | DNS | DNS | [Link](https://www.facebook.com/jeremy.duehring/videos/10160093213052846/) |
 | [2020-06-02](../7x7x7/results/2020-06-02.md) | 40+ | **9:14.16** | DNF |  | **9:14.16** | DNS | DNS | [Link](https://www.facebook.com/jeremy.duehring/videos/10160075226632846/) |
 
 

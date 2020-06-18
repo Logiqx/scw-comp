@@ -5,7 +5,7 @@
 
 | Name | Age | Single |
 | -- | :--: | :--: |
-| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 46 |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 43 |
 
 #### Over 50
 
@@ -13,7 +13,7 @@
 | -- | :--: | :--: |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 43 |
 | [David Roche](../persons/david_roche.md) | 50+ | 21 |
-| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 46 |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 43 |
 | [John Cook](../persons/john_cook.md) | 50+ | 45 |
 | [Mark Rivers](../persons/mark_rivers.md) | 50+ | 35 |
 | [Александр Гилка](../persons/александр_гилка.md) | 50+ | 21 |
@@ -26,7 +26,7 @@
 | [Ben Coppin](../persons/ben_coppin.md) | 40+ | 25 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 43 |
 | [David Roche](../persons/david_roche.md) | 50+ | 21 |
-| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 46 |
+| [Donna Leiber](../persons/donna_leiber.md) | 60+ | 43 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 25 |
 | [John Cook](../persons/john_cook.md) | 50+ | 45 |
 | [Mark Rivers](../persons/mark_rivers.md) | 50+ | 35 |

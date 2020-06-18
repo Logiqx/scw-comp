@@ -15,8 +15,8 @@
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 1:46.32 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/276779116793509/) |
 | 2 | [Chris Wright](../persons/chris_wright.md) | [2020-03-03](results/2020-03-03.md) | 50+ | 1:46.58 | 🥇 | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639952702955113/) |
-| 3 | [Michael George](../persons/michael_george.md) | [2020-04-14](results/2020-04-14.md) | 40+ | 2:02.27 | 🥇 🔥 | [Link](https://www.facebook.com/events/1400953806773430/permalink/1402162106652600/) |
-| 4 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 2:03.03 | 🥈 🔥 | [Link](https://www.facebook.com/events/276138643524223/permalink/277677353370352/) |
+| 3 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-06-09](results/2020-06-09.md) | 40+ | 1:59.66 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131991020499438/) |
+| 4 | [Michael George](../persons/michael_george.md) | [2020-04-14](results/2020-04-14.md) | 40+ | 2:02.27 | 🥇 🔥 | [Link](https://www.facebook.com/events/1400953806773430/permalink/1402162106652600/) |
 | 5 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-14](results/2020-04-14.md) | 50+ | 2:18.73 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1402097503325727/) |
 | 6 | [Raúl Morales](../persons/raul_morales.md) | [2020-02-18](results/2020-02-18.md) | 40+ | 2:27.99 |  | |
 | 7 | [Jeremy Duehring](../persons/jeremy_duehring.md) | [2020-03-24](results/2020-03-24.md) | 40+ | 2:31.20 |  | [Link](https://www.facebook.com/events/5078365835514885/permalink/5082560948428707/) |

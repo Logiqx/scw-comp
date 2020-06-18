@@ -23,13 +23,13 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 1:05.72 | 1:16.75 |
-| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 56.55 | 1:01.28 |
+| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 54.56 | 1:01.28 |
 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 1:23.57 | 1:32.65 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 50.41 | 56.44 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 56.70 | 1:03.64 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 1:17.92 | 1:28.41 |
 | [Donna Leiber](../persons/donna_leiber.md) | 60+ | 4:08.00 | DNF |
-| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 1:00.53 | 1:04.44 |
+| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 59.38 | 1:04.44 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 56.11 | 1:11.39 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 2:03.34 | 2:30.77 |
 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 1:32.33 | 1:52.47 |
@@ -53,7 +53,7 @@
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 36.50 | 49.27 |
 | [Isak Majer](../persons/isak_majer.md) | <40 | 1:41.66 | 1:50.60 |
 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | <40 | 2:24.93 | 2:38.28 |
-| [Pete Lee](../persons/pete_lee.md) | <40 | 1:03.48 | 1:11.40 |
+| [Pete Lee](../persons/pete_lee.md) | <40 | 59.07 | 1:11.40 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 46.21 | 49.52 |
 
 #### Under 30

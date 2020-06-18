@@ -33,6 +33,12 @@
 | 2 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-02-11](results/2020-02-11.md) | <40 | 2:22.99 |  | |
 | 3 | [Brooke Persoon](../persons/brooke_persoon.md) | [2020-03-03](results/2020-03-03.md) | <40 | 18:05.78 |  | [Link](https://www.facebook.com/events/186820176097844/permalink/191609515618910/) |
 
+#### Under 30
+
+| # | Name | Date | Age | Single | Awards | Video |
+| :--: | -- | :--: | :--: | --: | :--: | -- |
+| 1 | [Joshua David Riegel](../persons/joshua_david_riegel.md) | [2020-06-09](results/2020-06-09.md) | <30 | 3:45.27 | ⚡ | [Link](https://www.facebook.com/events/620460455211235/permalink/624275494829731/) |
+
 #### Under 20
 
 | # | Name | Date | Age | Single | Awards | Video |

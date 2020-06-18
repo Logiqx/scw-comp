@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 6x6x6 Senior Podiums
+#### [2020-06-09](results/2020-06-09.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 3:29.60 | 3:44.64 | 🏆 🥇 | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131120660586474/) |
+| 2 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 3:55.46 | 4:13.29 | 🥈 | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131765967188610/) |
+| 3 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 5:06.63 | DNF | 🥉 ⚡ | [Link](https://www.facebook.com/jeremy.duehring/videos/10160093205957846/) |
+
 #### [2020-06-02](results/2020-06-02.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

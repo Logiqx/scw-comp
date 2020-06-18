@@ -9,6 +9,7 @@
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
+| [2020-06-09](../fmc/results/2020-06-09.md) | 40+ | DNF |  | [Link](https://www.facebook.com/events/855783411578420/permalink/857232631433498/) |
 | [2020-06-02](../fmc/results/2020-06-02.md) | 40+ | 30 | 🥉 | [Link](https://www.facebook.com/events/3920457157996941/permalink/3929494677093189/) |
 | [2020-04-28](../fmc/results/2020-04-28.md) | 40+ | 31 | 🥉 | [Link](https://www.facebook.com/events/339284923718995/permalink/339287250385429/) |
 | [2020-03-10](../fmc/results/2020-03-10.md) | 40+ | **25** | 🥈 ⚡ | [Link](https://www.facebook.com/events/640532176759268/permalink/641063233372829/) |

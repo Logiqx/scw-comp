@@ -20,8 +20,8 @@
 | [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 8:52.52 | DNF |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 4:58.23 | 5:24.33 |
 | [Donna Leiber](../persons/donna_leiber.md) | 60+ | 15:59.23 | DNF |
-| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 5:46.09 | 6:03.94 |
-| [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 9:14.16 | DNF |
+| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 5:43.85 | 5:58.03 |
+| [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 8:08.23 | DNF |
 
 #### Under 40
 

@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Megaminx Senior Podiums
+#### [2020-06-09](results/2020-06-09.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 1:36.06 | 1:40.46 | 🏆 🥇 | [Link](https://www.facebook.com/events/903549840109576/permalink/903702163427677/) |
+| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 2:27.52 | 2:41.98 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/903549840109576/permalink/904277553370138/) |
+| 3 | [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 4:50.67 | DNF | 🥉 | [Link](https://www.facebook.com/events/903549840109576/permalink/903679113429982/) |
+
 #### [2020-06-02](results/2020-06-02.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

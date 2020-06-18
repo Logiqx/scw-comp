@@ -9,7 +9,7 @@
 | 5x5x5 | 5:07.36 | 5:55.66 |
 | 3x3x3 BLD | 48.68 | 57.66 |
 | 4x4x4 BLD | 6:19.94 | DNF |
-| 5x5x5 BLD | 16:59.61 | DNF |
+| 5x5x5 BLD | 14:54.39 | DNF |
 
 #### 3x3x3
 
@@ -63,6 +63,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-06-09](../3bld/results/2020-06-09.md) | 40+ | 50.98 | DNF | 🏆 🥇 | 55.78 | 50.98 | DNF | [Link](https://www.facebook.com/events/620460455211235/permalink/622049145052366/) |
 | [2020-06-02](../3bld/results/2020-06-02.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | [Link](https://www.facebook.com/events/323619661956372/permalink/325811025070569/) |
 | [2020-05-26](../3bld/results/2020-05-26.md) | 40+ | 1:00.73 | DNF | 🥇 | DNF | DNF | 1:00.73 | [Link](https://www.facebook.com/events/1531820936993798/permalink/1534279060081319/) |
 | [2020-05-19](../3bld/results/2020-05-19.md) | 40+ | 51.80 | DNF | 🏆 🥇 | 51.80 | DNF | DNF | [Link](https://www.facebook.com/events/2608037409484307/permalink/2609676329320415/) |
@@ -81,6 +82,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-06-09](../4bld/results/2020-06-09.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | [Link](https://www.facebook.com/events/620460455211235/permalink/622712168319397/) |
 | [2020-06-02](../4bld/results/2020-06-02.md) | 40+ | 8:04.84 | DNF | 🏆 🥇 | DNF | 8:04.84 | DNS | [Link](https://www.facebook.com/events/323619661956372/permalink/325184355133236/) |
 | [2020-05-26](../4bld/results/2020-05-26.md) | 40+ | 7:13.60 | DNF | 🥇 | DNF | 7:13.60 | DNF | [Link](https://www.facebook.com/events/1531820936993798/permalink/1533623833480175/) |
 | [2020-05-19](../4bld/results/2020-05-19.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | |
@@ -92,6 +94,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
+| [2020-06-09](../5bld/results/2020-06-09.md) | 40+ | **14:54.39** | DNF | 🏆 🥇 ⚡ | DNF | **14:54.39** | DNF | [Link](https://www.facebook.com/events/620460455211235/permalink/622707208319893/) |
 | [2020-06-02](../5bld/results/2020-06-02.md) | 40+ | DNF | DNF |  | DNF | DNF | DNF | [Link](https://www.facebook.com/events/323619661956372/permalink/324470465204625/) |
 | [2020-05-26](../5bld/results/2020-05-26.md) | 40+ | 20:22.93 | DNF | 🏆 🥇 | 20:22.93 | DNF | DNF | [Link](https://www.facebook.com/events/1531820936993798/permalink/1532726963569862/) |
 | [2020-05-19](../5bld/results/2020-05-19.md) | 40+ | 21:31.36 | DNF | 🥇 | 21:31.36 | DNF | DNF | [Link](https://www.facebook.com/events/2608037409484307/permalink/2608621196092595/) |

@@ -5,7 +5,7 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Jae Park](../persons/jae_park.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 16:59.61 | 🥇 ⚡ | [Link](https://www.facebook.com/events/367340484222677/permalink/368393814117344/) |
+| 1 | [Jae Park](../persons/jae_park.md) | [2020-06-09](results/2020-06-09.md) | 40+ | 14:54.39 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/620460455211235/permalink/622707208319893/) |
 
 #### Under 40
 

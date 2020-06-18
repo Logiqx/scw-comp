@@ -12,10 +12,10 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 1:56.58 | 2:03.53 |
+| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 1:40.53 | 1:45.87 |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 34.17 | 40.48 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 35.64 | 39.76 |
-| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 27.51 | 30.96 |
+| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 26.13 | 30.96 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 24.78 | 32.65 |
 | [Jang Junho (장준호)](../persons/jang_junho.md) | 40+ | 59.25 | 1:06.79 |
 | [Jason Green](../persons/jason_green.md) | 40+ | 41.05 | 42.76 |
@@ -31,11 +31,13 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Alex Friedman](../persons/alex_friedman.md) | <40 | 21.43 | 24.80 |
+| [Alex Friedman](../persons/alex_friedman.md) | <40 | 21.43 | 23.83 |
+| [Chris Thames](../persons/chris_thames.md) | <40 | 1:37.29 | 1:55.91 |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 22.50 | 34.04 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 22.13 | 24.49 |
 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | <40 | 39.68 | 45.72 |
 | [Pete Lee](../persons/pete_lee.md) | <40 | 39.61 | 47.46 |
+| [Phil Yu](../persons/phil_yu.md) | <40 | 13.60 | 14.64 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 24.65 | 27.70 |
 
 

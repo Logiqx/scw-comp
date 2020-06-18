@@ -23,8 +23,8 @@
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 5:28.23 | 5:54.57 |
 | [Donna Leiber](../persons/donna_leiber.md) | 60+ | 12:04.43 | DNF |
 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 3:49.38 | 4:09.55 |
-| [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 5:24.05 | DNF |
-| [Michael George](../persons/michael_george.md) | 40+ | 5:35.36 | DNF |
+| [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 5:06.63 | DNF |
+| [Michael George](../persons/michael_george.md) | 40+ | 5:25.09 | DNF |
 
 #### Under 40
 

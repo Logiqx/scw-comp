@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Blindfolded Senior Podiums
+#### [2020-06-09](results/2020-06-09.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Jae Park](../persons/jae_park.md) | 40+ | 50.98 | DNF | 🏆 🥇 | [Link](https://www.facebook.com/events/620460455211235/permalink/622049145052366/) |
+| 2 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 1:18.93 | 1:32.99 | 🥈 | [Link](https://www.facebook.com/events/620460455211235/permalink/624245591499388/) |
+| 3 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 1:19.96 | DNF | 🥉 | [Link](https://www.facebook.com/events/620460455211235/permalink/622088728381741/) |
+
 #### [2020-06-02](results/2020-06-02.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

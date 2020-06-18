@@ -19,7 +19,7 @@
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-06-02](results/2020-06-02.md) | 40+ | 1:32.08 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374121619479628/) |
-| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-06-02](results/2020-06-02.md) | 40+ | 2:48.09 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374518846106572/) |
+| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-06-09](results/2020-06-09.md) | 40+ | 2:27.52 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/903549840109576/permalink/904277553370138/) |
 | 3 | [Jo Cocco](../persons/jo_cocco.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 3:55.83 | 🥉 | [Link](https://www.facebook.com/events/688407551989463/permalink/689392185224333/) |
 | 4 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 4:17.33 |  | [Link](https://www.facebook.com/events/688407551989463/permalink/692397031590515/) |
 | 5 | [Donna Leiber](../persons/donna_leiber.md) | [2020-05-26](results/2020-05-26.md) | 60+ | 7:34.18 |  | [Link](https://www.facebook.com/events/688407551989463/permalink/690856405077911/) |

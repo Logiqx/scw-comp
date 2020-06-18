@@ -17,7 +17,7 @@
 | [David Burchill](../persons/david_burchill.md) | 50+ | 28.50 | 34.84 |
 | [Donna Leiber](../persons/donna_leiber.md) | 60+ | 52.97 | 59.90 |
 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | 50+ | 25.79 | 28.76 |
-| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.60 | 29.24 |
+| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.40 | 27.36 |
 | [Peter Andersson](../persons/peter_andersson.md) | 50+ | 20.85 | 24.84 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 31.12 | 35.24 |
 | [Robert Summerfield](../persons/robert_summerfield.md) | 50+ | 23.15 | 24.96 |
@@ -42,12 +42,12 @@
 | [Jang Junho (장준호)](../persons/jang_junho.md) | 40+ | 20.33 | 25.66 |
 | [Jason Green](../persons/jason_green.md) | 40+ | 17.22 | 18.51 |
 | [Jean van den Bergh](../persons/jean_van_den_bergh.md) | 40+ | 38.55 | 40.85 |
-| [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 14.76 | 16.89 |
+| [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 14.22 | 16.29 |
 | [Jo Cocco](../persons/jo_cocco.md) | 40+ | 37.21 | 46.19 |
 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | 50+ | 25.79 | 28.76 |
 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | 40+ | 38.26 | 40.14 |
 | [Kerrie Jarman](../persons/kerrie_jarman.md) | 40+ | 47.24 | 53.32 |
-| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.60 | 29.24 |
+| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.40 | 27.36 |
 | [Mark Charlesworth](../persons/mark_charlesworth.md) | 40+ | 27.78 | 30.02 |
 | [Michael George](../persons/michael_george.md) | 40+ | 11.64 | 13.67 |
 | [Michael Policastro](../persons/michael_policastro.md) | 40+ | 34.15 | 35.24 |
@@ -69,13 +69,14 @@
 | [Alex Friedman](../persons/alex_friedman.md) | <40 | 15.47 | 18.36 |
 | [Brooke Persoon](../persons/brooke_persoon.md) | <40 | 39.40 | 47.49 |
 | [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 12.30 | 13.42 |
-| [Chris Thames](../persons/chris_thames.md) | <40 | 27.06 | 33.09 |
+| [Chris Thames](../persons/chris_thames.md) | <40 | 26.69 | 31.20 |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 14.29 | 17.43 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 11.23 | 12.74 |
 | [Isak Majer](../persons/isak_majer.md) | <40 | 16.05 | 18.84 |
 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | <40 | 21.03 | 24.65 |
 | [Matthew Hart](../persons/matthew_hart.md) | <40 | 22.72 | 24.96 |
 | [Pete Lee](../persons/pete_lee.md) | <40 | 15.42 | 19.11 |
+| [Phil Yu](../persons/phil_yu.md) | <40 | 8.12 | 9.64 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 10.19 | 13.04 |
 | [Stew Alla](../persons/stew_alla.md) | <40 | 20.69 | 23.27 |
 | [Zack Âû Black](../persons/zack_au_black.md) | <40 | 15.72 | 21.80 |

@@ -24,7 +24,7 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 7.57 | 8.66 |
-| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 4.01 | 8.23 |
+| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 4.01 | 7.76 |
 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 3.34 | 6.72 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 4.39 | 5.17 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 3.87 | 5.74 |
@@ -54,6 +54,7 @@
 | [Ed Connell](../persons/ed_connell.md) | <40 | 3.39 | 5.91 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 3.50 | 4.50 |
 | [Pete Lee](../persons/pete_lee.md) | <40 | 4.68 | 7.23 |
+| [Phil Yu](../persons/phil_yu.md) | <40 | 2.87 | 4.25 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 4.34 | 4.55 |
 
 #### Under 30
