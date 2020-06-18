@@ -11,11 +11,11 @@ DOCKER_BUILDKIT=1 docker build . --file Dockerfile --build-arg LOGIQX_DEBUG -t $
 # Refresh Scrambles
 run_py_script Weekly_Scrambles.py
 
-# Refresh Results
-run_py_script Weekly_Results.py
-
 # Convert Spreadsheets
 run_py_script Convert_Spreadsheets.py
+
+# Refresh Results
+run_py_script Weekly_Results.py
 
 # Docker Tag
 docker tag $IMAGE_NAME:$IMAGE_TAG $IMAGE_NAME:latest
