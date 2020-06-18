@@ -20,8 +20,8 @@
 
 | # | Name | Age | Single | Solution |
 | :--: | -- | :--: | :--: | :--: | -- |
-| 1 | [Michael George](../persons/michael_george.md) | 40+ | 31 | [Link](https://www.facebook.com/events/568280284126471/permalink/569029154051584/) |
 | 1 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 31 | [Link](https://www.facebook.com/events/568280284126471/permalink/570809837206849/) |
+| 1 | [Michael George](../persons/michael_george.md) | 40+ | 31 | [Link](https://www.facebook.com/events/568280284126471/permalink/569029154051584/) |
 | 3 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 44 | [Link](https://www.facebook.com/events/568280284126471/permalink/568367324117767/) |
 
 #### [2020-05-12](results/2020-05-12.md)
@@ -69,8 +69,8 @@
 | # | Name | Age | Single | Solution |
 | :--: | -- | :--: | :--: | :--: | -- |
 | 1 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 27 | [Link](https://www.facebook.com/events/253518435802861/permalink/254351852386186/) |
-| 2 | [Michael George](../persons/michael_george.md) | 40+ | 31 | [Link](https://www.facebook.com/events/253518435802861/permalink/254710715683633/) |
 | 2 | [David Roche](../persons/david_roche.md) | 50+ | 31 | [Link](https://www.facebook.com/events/253518435802861/permalink/257872972034074/) |
+| 2 | [Michael George](../persons/michael_george.md) | 40+ | 31 | [Link](https://www.facebook.com/events/253518435802861/permalink/254710715683633/) |
 
 #### [2020-03-31](results/2020-03-31.md)
 
@@ -115,8 +115,8 @@
 
 | # | Name | Age | Single | Solution |
 | :--: | -- | :--: | :--: | :--: | -- |
-| 1 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 28 | [Link](https://www.facebook.com/events/215751886207638/permalink/216177539498406/) |
 | 1 | [David Roche](../persons/david_roche.md) | 50+ | 28 | [Link](https://www.facebook.com/events/215751886207638/permalink/217139489402211/) |
+| 1 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 28 | [Link](https://www.facebook.com/events/215751886207638/permalink/216177539498406/) |
 | 3 | [John Cook](../persons/john_cook.md) | 50+ | 45 | [Link](https://www.facebook.com/events/215751886207638/permalink/217422122707281/) |
 
 #### [2020-02-18](results/2020-02-18.md)
