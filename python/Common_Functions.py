@@ -25,7 +25,7 @@ import math
 
 resultPattern = re.compile('^([1-7][0-9]|80)$|^([0-5]?[0-9]:[0-5]|[0-5])?[0-9]\.[0-9][0-9]$|^DNF$|^DNS$')
 
-def numSeconds(value):
+def numSeconds(value, truncate = True):
     '''Convert float or string to number of seconds (truncated to nearest 100th) - e.g. 1:05.319 returns 65.31'''
     
     # String result (e.g. MM:SS.cc, SS.cc, nn, DNF or DNS)
@@ -58,7 +58,10 @@ def numSeconds(value):
             raise
     
     # Convoluted approach is required to handle imprecision of floating point arithmetic
-    return math.trunc(round(value * 1000) / 10) / 100
+    if truncate:
+        return math.trunc(round(value * 1000) / 10) / 100
+    else:
+        return round(value, 2)
 
 
 # In[3]:
