@@ -48,7 +48,7 @@ def numSeconds(value):
         except:
             return None
     
-    # Convoluted approad is required to handle imprecision of floating point arithmetic
+    # Convoluted approach is required to handle imprecision of floating point arithmetic
     return math.trunc(round(value * 1000) / 10) / 100
 
 
