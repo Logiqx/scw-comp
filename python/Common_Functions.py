@@ -20,14 +20,23 @@ import unittest
 # In[2]:
 
 
+import re
 import math
 
+resultPattern = re.compile('^([1-7][0-9]|80)$|^([0-5]?[0-9]:[0-5]|[0-5])?[0-9]\.[0-9][0-9]$|^DNF$|^DNS$')
+
 def numSeconds(value):
-    '''Convert float or string to number of seconds (rounded down to nearest 100th) - e.g. 1:05.319 returns 65.31'''   
+    '''Convert float or string to number of seconds (truncated to nearest 100th) - e.g. 1:05.319 returns 65.31'''
     
+    # String result (e.g. MM:SS.cc, SS.cc, nn, DNF or DNS)
     if isinstance(value, str):
         try:
+            # Some people may have used commas instead of dots
             value = value.replace(',', '.')
+
+            # Check that the result is either a time, DNF or DNS
+            if not resultPattern.match(value):
+                raise ValueError(value, type(value))
 
             # MM:SS.cc
             if ':' in value:
@@ -42,11 +51,11 @@ def numSeconds(value):
             # DNS
             elif value == 'DNS':
                 return -2
-            # nn - FMC
+            # Assume nn - i.e. FMC
             else:
                 return int(value)
         except:
-            return None
+            raise
     
     # Convoluted approach is required to handle imprecision of floating point arithmetic
     return math.trunc(round(value * 1000) / 10) / 100
@@ -62,14 +71,10 @@ class TestNumSeconds(unittest.TestCase):
         self.assertEqual(numSeconds('20'), 20)
 
     def test_simple_sscc(self):
-        self.assertEqual(numSeconds('12.344'), 12.34)
-        self.assertEqual(numSeconds('12.345'), 12.34)
-        self.assertEqual(numSeconds('12.346'), 12.34)
+        self.assertEqual(numSeconds('12.34'), 12.34)
 
     def test_simple_mmsscc(self):
-        self.assertEqual(numSeconds('1:02.344'), 62.34)
-        self.assertEqual(numSeconds('1:02.345'), 62.34)
-        self.assertEqual(numSeconds('1:02.346'), 62.34)
+        self.assertEqual(numSeconds('1:02.34'), 62.34)
 
     def test_problematic_mmsscc(self):
         self.assertEqual(numSeconds('5:25.09'), 325.09)
@@ -96,7 +101,8 @@ class TestNumSeconds(unittest.TestCase):
         self.assertEqual(numSeconds('DNS'), -2)
 
     def test_xxx(self):
-        self.assertEqual(numSeconds('XXX'), None)
+        with self.assertRaises(ValueError):
+            numSeconds('XXX')
 
 
 # In[4]:
@@ -110,7 +116,7 @@ def formatResult(value, eventName = None, highlight = ''):
             if eventName == '333fm':
                 return '{}{:d}{}'.format(highlight, int(value), highlight)
             else:
-                if value > 60:
+                if value >= 60:
                     return '{}{:d}:{:05.2f}{}'.format(highlight, int(value // 60), value - int(value // 60) * 60, highlight)
                 else:
                     return '{}{:.2f}{}'.format(highlight, value, highlight)
