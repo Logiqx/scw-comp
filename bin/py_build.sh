@@ -12,4 +12,4 @@ DOCKER_BUILDKIT=1 docker build . --file Dockerfile --build-arg LOGIQX_DEBUG -t $
 docker run --rm --entrypoint cat scw-comp:tmp $WORK_DIR/python/Common_Functions.py >$PROJ_DIR/python/Common_Functions.py
 
 # Clear pycache
-rm $PROJ_DIR/python/__pycache__/Common_Functions.*.pyc
+rm -f $PROJ_DIR/python/__pycache__/Common_Functions.*.pyc
