@@ -24,7 +24,6 @@ Process:
 - Submit your results via the Google Form (*)
 
 Notes:
-
 * PDF and text scrambles can be found on [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs)
 * You can find your profile and previous bests on [GitHub Pages](../results.md)
 * Submit your results via the redirect to [Google Forms](../submit.html)
