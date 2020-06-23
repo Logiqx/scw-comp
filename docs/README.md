@@ -1,6 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
 
-### Summary
+### Introduction
 
 This is the weekly video competition for the [Senior Cubers Worldwide](https://www.facebook.com/groups/1604105099735401/?ref=bookmarks) group on Facebook.
 
@@ -16,7 +16,7 @@ All of the competitions can be found in the [group calendar](https://www.faceboo
 
 ### Rules
 
-The rules are fairly straightforward and are detailed on separate event pages:
+The rules are fairly straightforward and are detailed on the separate event pages:
 
 - [3x3x3+](readme/3x3x3+.md) includes 2x2x2, 3x3x3, One-Handed and Megaminx
 - [4x4x4+](readme/4x4x4+.md) includes 4x4x4, 5x5x5, 6x6x6 and 7x7x7
@@ -48,27 +48,21 @@ You can browse all past results and all of the personal profiles on [GitHub Page
 
 #### How do I get the permalink?
 
-On a computer you just click on the time of the post and it opens it via the permalink.
-
-On Android you simply click ... to get "copy link".
-
-On iOS you have to save the post then can access "copy link" via the saved post.
+- On a computer you just click on the time of the post and it opens it via the permalink.
+- On an Android phone / tablet you simply click on "..." and use the "copy link" option.
+- On an iPhone / iPad you have to save the post. You then have access to "copy link" via the saved post.
 
 #### Why do I need to provide the best and average?
 
-Approximately 5% of the submissions contain typos in the results.
-
-Providing the best and average allows my Python script check for typos and correct whilst processing the results.
-
-If my Python script detects an anomaly then I refer to the submission on Facebook and if necessary, check the times in the video.
+Approximately 5% of the submissions contain typos in the results. Providing the best and average allows my Python script check for typos whilst processing the results. If my Python script detects an anomaly then I refer back to the video post on Facebook and if necessary, check the times in the video.
 
 #### Do I have to provide a video?
 
-The main concept behind this competition is to be able to share our solves with each other, encourage positive feedback / critique and help us to improve. Filming solves is a good way to re-create competition nerves and for those who compete in WCA competitions it is a useful way of practicing for competitions.
+The main concept behind this competition is to be able to share our solves with each other, encourage positive feedback / critique, gain inspiration from others and provide a medium through which we can improve. Filming solves is a great way to replicate competition nerves and for anyone who competes (or plans to compete) in WCA competitions it is a useful way of practicing.
 
-Everyone is in the same boat when they film their solves and it is nice to capture good solves by members of the group on film. If you do not wish to film your solves or do not have the facilities to do so then there are "daily scrambles" and "daily challenges" in the group.
+Everyone taking part in this competition is in the same boat when filming their solves and although it can be nerve racking, it is very satisfying to capture good solves on camera. If you do not wish to film yourself solving for the weekly competition or if you cannot film there are always the "daily scrambles" and "daily challenges" in the group.
 
-#### How can  I speed up the video upload?
+#### My internet connection is slow... what should I do about the video?
 
 If you have a slow internet connection then you can reduce the size of the video by using a tool such as [Handbrake](https://handbrake.fr/).
 
