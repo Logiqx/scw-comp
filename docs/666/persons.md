@@ -19,12 +19,12 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 5:00.57 | DNF |
-| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 3:27.64 | 3:36.18 |
+| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 3:27.31 | 3:36.18 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 5:28.23 | 5:54.57 |
 | [Donna Leiber](../persons/donna_leiber.md) | 60+ | 12:04.43 | DNF |
-| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 3:49.38 | 4:09.55 |
+| [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 3:44.19 | 3:54.60 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 5:06.63 | DNF |
-| [Michael George](../persons/michael_george.md) | 40+ | 5:25.09 | DNF |
+| [Michael George](../persons/michael_george.md) | 40+ | 5:18.47 | DNF |
 
 #### Under 40
 

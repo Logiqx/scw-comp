@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Senior Podiums
+#### [2020-06-16](results/2020-06-16.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Michael George](../persons/michael_george.md) | 40+ | 12.65 | 14.06 | 🥇 | [Link](https://www.facebook.com/events/604103587178706/permalink/604281800494218/) |
+| 2 | [Chris Wright](../persons/chris_wright.md) | 50+ | 12.75 | 14.27 | 🥈 | [Link](https://www.facebook.com/events/604103587178706/permalink/604904053765326/) |
+| 3 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 14.41 | 16.26 | 🥉 🔥 | [Link](https://www.facebook.com/jeremy.duehring/videos/10160134838122846/) |
+
 #### [2020-06-09](results/2020-06-09.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

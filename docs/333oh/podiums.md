@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 One-Handed Senior Podiums
+#### [2020-06-16](results/2020-06-16.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Michael George](../persons/michael_george.md) | 40+ | 21.34 | 23.99 | 🏆 🥇 | [Link](https://www.facebook.com/events/604103587178706/permalink/604285177160547/) |
+| 2 | [Thierry Boisivon](../persons/thierry_boisivon.md) | 40+ | 28.20 | 29.96 | 🥈 🔥 | [Link](https://www.facebook.com/events/604103587178706/permalink/608762373379494/) |
+| 3 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 28.68 | 34.92 | 🥉 | [Link](https://www.facebook.com/events/604103587178706/permalink/605602253695506/) |
+
 #### [2020-06-09](results/2020-06-09.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

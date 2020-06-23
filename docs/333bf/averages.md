@@ -14,7 +14,7 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Chris Hardwick](../persons/chris_hardwick.md) | [2020-05-19](results/2020-05-19.md) | <40 | 2:14.12 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2608037409484307/permalink/2610947279193320/) |
+| 1 | [Chris Hardwick](../persons/chris_hardwick.md) | [2020-06-16](results/2020-06-16.md) | <40 | 2:13.74 | 🔥 ⚡ | [Link](https://www.facebook.com/events/208176410240808/permalink/210547000003749/) |
 
 #### Under 20
 

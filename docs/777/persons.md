@@ -28,7 +28,7 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 8:56.69 | DNF |
-| [Pete Lee](../persons/pete_lee.md) | <40 | 8:20.78 | DNF |
+| [Pete Lee](../persons/pete_lee.md) | <40 | 7:59.28 | DNF |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

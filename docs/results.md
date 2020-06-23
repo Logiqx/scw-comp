@@ -1,16 +1,18 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Historical Archive
 #### Individuals
-Competitors - [3x3x3](333/persons.md), [2x2x2](222/persons.md), [4x4x4](444/persons.md), [5x5x5](555/persons.md), [6x6x6](666/persons.md), [7x7x7](777/persons.md), [OH](333oh/persons.md), [Mega](minx/persons.md), [3BLD](333bf/persons.md), [4BLD](444bf/persons.md), [5BLD](555bf/persons.md), [FMC](333fm/persons.md)
+Competitors - [3x3x3](333/persons.md), [2x2x2](222/persons.md), [4x4x4](444/persons.md), [5x5x5](555/persons.md), [6x6x6](666/persons.md), [7x7x7](777/persons.md), [OH](333oh/persons.md), [Mega](minx/persons.md), [Pyra](pyram/persons.md), [Skewb](skewb/persons.md), [Sq-1](sq1/persons.md), [Clock](clock/persons.md), [3BLD](333bf/persons.md), [4BLD](444bf/persons.md), [5BLD](555bf/persons.md), [FMC](333fm/persons.md)
 
-Best Singles - [3x3x3](333/singles.md), [2x2x2](222/singles.md), [4x4x4](444/singles.md), [5x5x5](555/singles.md), [6x6x6](666/singles.md), [7x7x7](777/singles.md), [OH](333oh/singles.md), [Mega](minx/singles.md), [3BLD](333bf/singles.md), [4BLD](444bf/singles.md), [5BLD](555bf/singles.md), [FMC](333fm/singles.md)
+Best Singles - [3x3x3](333/singles.md), [2x2x2](222/singles.md), [4x4x4](444/singles.md), [5x5x5](555/singles.md), [6x6x6](666/singles.md), [7x7x7](777/singles.md), [OH](333oh/singles.md), [Mega](minx/singles.md), [Pyra](pyram/singles.md), [Skewb](skewb/singles.md), [Sq-1](sq1/singles.md), [Clock](clock/singles.md), [3BLD](333bf/singles.md), [4BLD](444bf/singles.md), [5BLD](555bf/singles.md), [FMC](333fm/singles.md)
 
-Best Averages - [3x3x3](333/averages.md), [2x2x2](222/averages.md), [4x4x4](444/averages.md), [5x5x5](555/averages.md), [6x6x6](666/averages.md), [7x7x7](777/averages.md), [OH](333oh/averages.md), [Mega](minx/averages.md), [3BLD](333bf/averages.md), [4BLD](444bf/averages.md), [5BLD](555bf/averages.md)
+Best Averages - [3x3x3](333/averages.md), [2x2x2](222/averages.md), [4x4x4](444/averages.md), [5x5x5](555/averages.md), [6x6x6](666/averages.md), [7x7x7](777/averages.md), [OH](333oh/averages.md), [Mega](minx/averages.md), [Pyra](pyram/averages.md), [Skewb](skewb/averages.md), [Sq-1](sq1/averages.md), [Clock](clock/averages.md), [3BLD](333bf/averages.md), [4BLD](444bf/averages.md), [5BLD](555bf/averages.md)
 
 #### Podiums
-Seniors - [3x3x3](333/podiums.md), [2x2x2](222/podiums.md), [4x4x4](444/podiums.md), [5x5x5](555/podiums.md), [6x6x6](666/podiums.md), [7x7x7](777/podiums.md), [OH](333oh/podiums.md), [Mega](minx/podiums.md), [3BLD](333bf/podiums.md), [4BLD](444bf/podiums.md), [5BLD](555bf/podiums.md), [FMC](333fm/podiums.md)
+Seniors - [3x3x3](333/podiums.md), [2x2x2](222/podiums.md), [4x4x4](444/podiums.md), [5x5x5](555/podiums.md), [6x6x6](666/podiums.md), [7x7x7](777/podiums.md), [OH](333oh/podiums.md), [Mega](minx/podiums.md), [Pyra](pyram/podiums.md), [Skewb](skewb/podiums.md), [Sq-1](sq1/podiums.md), [Clock](clock/podiums.md), [3BLD](333bf/podiums.md), [4BLD](444bf/podiums.md), [5BLD](555bf/podiums.md), [FMC](333fm/podiums.md)
 
 #### Results
+2020-06-16 - [3x3x3](333/results/2020-06-16.md), [2x2x2](222/results/2020-06-16.md), [4x4x4](444/results/2020-06-16.md), [5x5x5](555/results/2020-06-16.md), [6x6x6](666/results/2020-06-16.md), [7x7x7](777/results/2020-06-16.md), [OH](333oh/results/2020-06-16.md), [Mega](minx/results/2020-06-16.md), [Pyra](pyram/results/2020-06-16.md), [Skewb](skewb/results/2020-06-16.md), [Sq-1](sq1/results/2020-06-16.md), [Clock](clock/results/2020-06-16.md), [3BLD](333bf/results/2020-06-16.md), [4BLD](444bf/results/2020-06-16.md), [5BLD](555bf/results/2020-06-16.md), [FMC](333fm/results/2020-06-16.md)
+
 2020-06-09 - [3x3x3](333/results/2020-06-09.md), [2x2x2](222/results/2020-06-09.md), [4x4x4](444/results/2020-06-09.md), [5x5x5](555/results/2020-06-09.md), [6x6x6](666/results/2020-06-09.md), [7x7x7](777/results/2020-06-09.md), [OH](333oh/results/2020-06-09.md), [Mega](minx/results/2020-06-09.md), [3BLD](333bf/results/2020-06-09.md), [4BLD](444bf/results/2020-06-09.md), [5BLD](555bf/results/2020-06-09.md), [FMC](333fm/results/2020-06-09.md)
 
 2020-06-02 - [3x3x3](333/results/2020-06-02.md), [2x2x2](222/results/2020-06-02.md), [4x4x4](444/results/2020-06-02.md), [5x5x5](555/results/2020-06-02.md), [6x6x6](666/results/2020-06-02.md), [7x7x7](777/results/2020-06-02.md), [OH](333oh/results/2020-06-02.md), [Mega](minx/results/2020-06-02.md), [3BLD](333bf/results/2020-06-02.md), [4BLD](444bf/results/2020-06-02.md), [5BLD](555bf/results/2020-06-02.md), [FMC](333fm/results/2020-06-02.md)

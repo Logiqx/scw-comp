@@ -10,6 +10,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-06-16](../333/results/2020-06-16.md) | <40 | 16.90 | 20.54 |  | 22.68 | 18.70 | 20.24 | 25.57 | 16.90 | [Link](https://www.facebook.com/events/604103587178706/permalink/608997466689318/) |
 | [2020-06-09](../333/results/2020-06-09.md) | <40 | 20.42 | 23.10 |  | 25.96 | 20.42 | 22.52 | 32.10 | 20.84 | [Link](https://www.facebook.com/isak.majer/videos/3263767253848359/) |
 | [2020-05-19](../333/results/2020-05-19.md) | <40 | 18.32 | 19.33 |  | 19.26 | 18.77 | 19.96 | 18.32 | DNF | [Link](https://www.facebook.com/events/1880761498725633/permalink/1884622991672817/) |
 | [2020-05-12](../333/results/2020-05-12.md) | <40 | 17.56 | 19.44 |  | 19.41 | 17.56 | 28.47 | 18.32 | 20.59 | [Link](https://www.facebook.com/events/546188069600739/permalink/550356445850568/) |

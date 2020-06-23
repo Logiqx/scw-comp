@@ -11,7 +11,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Chris Wright](../persons/chris_wright.md) | 50+ | 1:42.56 | 1:46.58 |
+| [Chris Wright](../persons/chris_wright.md) | 50+ | 1:42.41 | 1:46.58 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 2:08.36 | 2:18.73 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 2:31.49 | 2:42.21 |
 | [Donna Leiber](../persons/donna_leiber.md) | 60+ | 6:41.82 | DNF |
@@ -23,7 +23,7 @@
 | -- | :--: | --: | --: |
 | [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 2:28.62 | 2:39.68 |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 1:38.52 | 1:46.32 |
-| [Chris Wright](../persons/chris_wright.md) | 50+ | 1:42.56 | 1:46.58 |
+| [Chris Wright](../persons/chris_wright.md) | 50+ | 1:42.41 | 1:46.58 |
 | [Ciro Vignotto](../persons/ciro_vignotto.md) | 50+ | 2:08.36 | 2:18.73 |
 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 2:31.49 | 2:42.21 |
 | [Donna Leiber](../persons/donna_leiber.md) | 60+ | 6:41.82 | DNF |
@@ -42,8 +42,8 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 2:09.49 | 2:19.32 |
-| [Chris Thames](../persons/chris_thames.md) | <40 | 5:32.45 | DNF |
-| [Ed Connell](../persons/ed_connell.md) | <40 | 2:27.77 | 2:38.29 |
+| [Chris Thames](../persons/chris_thames.md) | <40 | 4:59.21 | DNF |
+| [Ed Connell](../persons/ed_connell.md) | <40 | 2:18.73 | 2:26.48 |
 | [Go-ho Choi](../persons/go-ho_choi.md) | <40 | 1:16.98 | 1:30.42 |
 | [Pete Lee](../persons/pete_lee.md) | <40 | 2:01.03 | 2:27.42 |
 

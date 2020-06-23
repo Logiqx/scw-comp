@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 2x2x2 Senior Podiums
+#### [2020-06-16](results/2020-06-16.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Michael George](../persons/michael_george.md) | 40+ | 4.21 | 5.84 | 🏆 🥇 | [Link](https://www.facebook.com/events/604103587178706/permalink/604280157161049/) |
+| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 4.96 | 6.35 | 🥈 🔥 | [Link](https://www.facebook.com/events/604103587178706/permalink/606533430269055/) |
+| 3 | [Vani Muthukrishnan](../persons/vani_muthukrishnan.md) | 40+ | 5.76 | 6.57 | 🥉 | [Link](https://www.facebook.com/events/604103587178706/permalink/604854257103639/) |
+
 #### [2020-06-09](results/2020-06-09.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

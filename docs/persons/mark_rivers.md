@@ -9,6 +9,7 @@
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
+| [2020-06-16](../333fm/results/2020-06-16.md) | 50+ | DNF |  | [Link](https://www.facebook.com/events/753945178677521/permalink/758195291585843/) |
 | [2020-06-09](../333fm/results/2020-06-09.md) | 50+ | 39 | 🥉 | [Link](https://www.facebook.com/events/855783411578420/permalink/860043347819093/) |
 | [2020-06-02](../333fm/results/2020-06-02.md) | 50+ | DNF |  | [Link](https://www.facebook.com/events/3920457157996941/permalink/3946084605434196/) |
 | [2020-05-26](../333fm/results/2020-05-26.md) | 50+ | **35** | 🥈 ⚡ | [Link](https://www.facebook.com/events/2622968941252005/permalink/2628004390748460/) |

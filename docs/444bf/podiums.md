@@ -1,5 +1,11 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4x4x4 Blindfolded Senior Podiums
+#### [2020-06-16](results/2020-06-16.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Jae Park](../persons/jae_park.md) | 40+ | 6:35.68 | DNF | 🏆 🥇 | [Link](https://www.facebook.com/events/208176410240808/permalink/209074956817620/) |
+
 #### [2020-06-09](results/2020-06-09.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

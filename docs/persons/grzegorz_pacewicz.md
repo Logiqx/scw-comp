@@ -77,6 +77,7 @@
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
+| [2020-06-16](../333fm/results/2020-06-16.md) | 40+ | **25** | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/753945178677521/permalink/756398248432214/) |
 | [2020-06-09](../333fm/results/2020-06-09.md) | 40+ | 29 | 🥇 | [Link](https://www.facebook.com/events/855783411578420/permalink/857203278103100/) |
 | [2020-06-02](../333fm/results/2020-06-02.md) | 40+ | 29 | 🥈 | [Link](https://www.facebook.com/events/3920457157996941/permalink/3929360207106636/) |
 | [2020-05-26](../333fm/results/2020-05-26.md) | 40+ | 26 | 🏆 🥇 | [Link](https://www.facebook.com/events/2622968941252005/permalink/2623152611233638/) |

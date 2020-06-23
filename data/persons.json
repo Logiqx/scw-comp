@@ -34,7 +34,8 @@
   },
   "Chris Hardwick": {
     "age": "<40",
-    "id": 52
+    "id": 52,
+    "wcaId": "2003HARD01"
   },
   "Chris Thames": {
     "age": "<40",
@@ -43,7 +44,8 @@
   },
   "Chris Wright": {
     "age": "50+",
-    "id": 41
+    "id": 41,
+    "wcaId": "2011WRIG01"
   },
   "Ciro Vignotto": {
     "age": "50+",
@@ -51,7 +53,8 @@
   },
   "Daniel Smith": {
     "age": "50+",
-    "id": 26
+    "id": 26,
+    "wcaId": "2018SMIT42"
   },
   "David Burchill": {
     "age": "50+",
@@ -86,7 +89,8 @@
   },
   "Huy Nguyen": {
     "age": "40+",
-    "id": 11
+    "id": 11,
+    "wcaId": "2019NGUY29"
   },
   "Isak Majer": {
     "age": "<40",
@@ -136,7 +140,8 @@
   },
   "Joffie Berkowitz": {
     "age": "50+",
-    "id": 46
+    "id": 46,
+    "wcaId": "2016BERK01"
   },
   "John Cook": {
     "age": "50+",
@@ -163,6 +168,10 @@
     "id": 30,
     "wcaId": "2019KUCA01"
   },
+  "Marcel Balzer": {
+    "age": "40+",
+    "id": 70
+  },
   "Mark Adams": {
     "age": "40+",
     "id": 36
@@ -175,6 +184,11 @@
     "age": "50+",
     "id": 59,
     "wcaId": "2015RIVE05"
+  },
+  "Markus Niederöst": {
+    "age": "50+",
+    "id": 68,
+    "wcaId": "2018NIED02"
   },
   "Matthew Hart": {
     "age": "<40",
@@ -189,9 +203,15 @@
     "age": "40+",
     "id": 17
   },
+  "Neilimixam Snetrem": {
+    "age": "<40",
+    "id": 69,
+    "wcaId": "2018MERT01"
+  },
   "Newton Nguyen": {
     "age": "<10",
-    "id": 55
+    "id": 55,
+    "wcaId": "2019NGUY30"
   },
   "Pete Lee": {
     "age": "<40",
@@ -260,6 +280,11 @@
   "Tom Doolinski": {
     "age": "<30",
     "id": 3
+  },
+  "Vani Muthukrishnan": {
+    "age": "40+",
+    "id": 67,
+    "wcaId": "2016MUTH05"
   },
   "Will Lambert": {
     "age": "<20",
