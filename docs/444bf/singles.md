@@ -20,7 +20,6 @@
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Chris Hardwick](../persons/chris_hardwick.md) | [2020-05-12](results/2020-05-12.md) | <40 | 6:21.08 | 🏆 ⚡ | [Link](https://www.facebook.com/events/367340484222677/permalink/368430654113660/) |
-| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-06-16](results/2020-06-16.md) | <40 | 13:01.01 |  | [Link](https://www.facebook.com/events/208176410240808/permalink/211060806619035/) |
 
 #### Under 20
 

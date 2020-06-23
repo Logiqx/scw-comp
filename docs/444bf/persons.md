@@ -11,7 +11,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Andy Nicholls](../persons/andy_nicholls.md) | <40 | 10:52.00 | DNF |
+| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 10:52.00 | DNF |
 | [Jae Park](../persons/jae_park.md) | 40+ | 6:19.94 | DNF |
 | [Peter Andersson](../persons/peter_andersson.md) | 50+ | 10:23.86 | DNF |
 
@@ -19,7 +19,6 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Andy Nicholls](../persons/andy_nicholls.md) | <40 | 13:01.01 | DNF |
 | [Chris Hardwick](../persons/chris_hardwick.md) | <40 | 6:21.08 | 8:34.50 |
 
 #### Under 20
