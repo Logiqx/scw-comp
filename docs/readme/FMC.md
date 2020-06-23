@@ -2,7 +2,14 @@
 
 ### FMC Competition
 
-#### Process
+#### Fewest Moves
+
+##### Rules
+
+- Competitors must post a solution and reconstruction/description of their solution
+- Time limit of one hour
+
+##### Process
 
 - Use the scramble provided <sup>[1]</sup>
 - Post your solution and reconstruction/description directly to the event page
@@ -16,11 +23,6 @@
 1. PDF and text scrambles can be found on [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs) as well as on the Facebook event pages.
 2. You can find your profile and previous bests on [GitHub Pages](../results.md)
 3. Submit your results via the redirect to [Google Forms](../submit.html)
-
-#### Rules
-
-- Entries must post a solution and description of solution
-- Limit time to one hour
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
