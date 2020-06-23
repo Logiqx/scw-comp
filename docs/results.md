@@ -8,7 +8,7 @@ Best Singles - [3x3x3](333/singles.md), [2x2x2](222/singles.md), [4x4x4](444/sin
 Best Averages - [3x3x3](333/averages.md), [2x2x2](222/averages.md), [4x4x4](444/averages.md), [5x5x5](555/averages.md), [6x6x6](666/averages.md), [7x7x7](777/averages.md), [OH](333oh/averages.md), [Mega](minx/averages.md), [3BLD](333bf/averages.md), [4BLD](444bf/averages.md), [5BLD](555bf/averages.md)
 
 #### Podiums
-Seniors - [3x3x3](333/README.md), [2x2x2](222/README.md), [4x4x4](444/README.md), [5x5x5](555/README.md), [6x6x6](666/README.md), [7x7x7](777/README.md), [OH](333oh/README.md), [Mega](minx/README.md), [3BLD](333bf/README.md), [4BLD](444bf/README.md), [5BLD](555bf/README.md), [FMC](333fm/README.md)
+Seniors - [3x3x3](333/podiums.md), [2x2x2](222/podiums.md), [4x4x4](444/podiums.md), [5x5x5](555/podiums.md), [6x6x6](666/podiums.md), [7x7x7](777/podiums.md), [OH](333oh/podiums.md), [Mega](minx/podiums.md), [3BLD](333bf/podiums.md), [4BLD](444bf/podiums.md), [5BLD](555bf/podiums.md), [FMC](333fm/podiums.md)
 
 #### Results
 2020-06-09 - [3x3x3](333/results/2020-06-09.md), [2x2x2](222/results/2020-06-09.md), [4x4x4](444/results/2020-06-09.md), [5x5x5](555/results/2020-06-09.md), [6x6x6](666/results/2020-06-09.md), [7x7x7](777/results/2020-06-09.md), [OH](333oh/results/2020-06-09.md), [Mega](minx/results/2020-06-09.md), [3BLD](333bf/results/2020-06-09.md), [4BLD](444bf/results/2020-06-09.md), [5BLD](555bf/results/2020-06-09.md), [FMC](333fm/results/2020-06-09.md)
