@@ -7,10 +7,6 @@
 | 1 | [Jae Park](../persons/jae_park.md) | 40+ | 6:35.68 | DNF | 🏆 🥇 | [Link](https://www.facebook.com/events/208176410240808/permalink/209074956817620/) |
 | 2 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 13:01.01 | DNF | 🥈 | [Link](https://www.facebook.com/events/208176410240808/permalink/211060806619035/) |
 
-#### [2020-06-09](results/2020-06-09.md)
-
-| # | Name | Age | Single | Average | Awards | Video |
-| :--: | -- | :--: | --: | --: | :--: | -- |
 
 #### [2020-06-02](results/2020-06-02.md)
 
@@ -33,10 +29,6 @@
 | 1 | [Peter Andersson](../persons/peter_andersson.md) | 50+ | 10:23.86 | DNF | 🥇 ⚡ | [Link](https://www.facebook.com/events/2608037409484307/permalink/2612310882390293/) |
 | 2 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 10:52.00 | DNF | 🥈 ⚡ | [Link](https://www.facebook.com/events/2608037409484307/permalink/2609949869293061/) |
 
-#### [2020-05-12](results/2020-05-12.md)
-
-| # | Name | Age | Single | Average | Awards | Video |
-| :--: | -- | :--: | --: | --: | :--: | -- |
 
 #### [2020-05-05](results/2020-05-05.md)
 

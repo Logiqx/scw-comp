@@ -1,6 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 5x5x5 Blindfolded Averages
 
+Nobody has an average yet!
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
