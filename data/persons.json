@@ -68,6 +68,11 @@
     "age": "60+",
     "id": 62
   },
+  "Dylan Cossin": {
+    "age": "<20",
+    "id": 72,
+    "wcaId": "2016COSS01"
+  },
   "Ed Connell": {
     "age": "<40",
     "id": 39,
@@ -156,7 +161,8 @@
     "aliases": [
       "Joshua Riegel"
     ],
-    "id": 63
+    "id": 63,
+    "wcaId": "2019RIEG02"
   },
   "Joshua M. Woodward": {
     "age": "40+",
@@ -228,6 +234,11 @@
   "Peter Douthwright": {
     "age": "50+",
     "id": 28
+  },
+  "Peter Osudar": {
+    "age": "<40",
+    "id": 71,
+    "wcaId": "2017OSUD01"
   },
   "Peyton Blevins": {
     "age": "<30",
