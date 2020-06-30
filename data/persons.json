@@ -80,10 +80,10 @@
   },
   "Go-ho Choi": {
     "age": "<40",
-    "id": 22,
     "aliases": [
       "Goho Choi"
-    ]
+    ],
+    "id": 22
   },
   "Grzegorz Pacewicz": {
     "age": "40+",
@@ -156,10 +156,10 @@
   },
   "Joshua David Riegel": {
     "age": "<30",
-    "id": 63,
     "aliases": [
       "Joshua Riegel"
-    ]
+    ],
+    "id": 63
   },
   "Joshua M. Woodward": {
     "age": "40+",
@@ -255,10 +255,10 @@
   },
   "Robert Summerfield": {
     "age": "50+",
-    "id": 14,
     "aliases": [
       "Rob Summerfield"
-    ]
+    ],
+    "id": 14
   },
   "Ron van Bruchem": {
     "age": "50+",
@@ -266,11 +266,11 @@
   },
   "Shawn Boucké": {
     "age": "<40",
-    "id": 21,
-    "wcaId": "2016BOUC01",
     "aliases": [
       "Shawn Boucke"
-    ]
+    ],
+    "id": 21,
+    "wcaId": "2016BOUC01"
   },
   "Stew Alla": {
     "age": "<40",
@@ -287,10 +287,10 @@
   },
   "Timothy Salay": {
     "age": "40+",
-    "id": 48,
     "aliases": [
       "Tim Salay"
-    ]
+    ],
+    "id": 48
   },
   "Tom Doolinski": {
     "age": "<30",
