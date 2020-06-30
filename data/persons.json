@@ -45,6 +45,7 @@
   "Chris Wright": {
     "age": "50+",
     "id": 41,
+    "skipDraw": "2020-06-23",
     "wcaId": "2011WRIG01"
   },
   "Ciro Vignotto": {
@@ -250,6 +251,7 @@
   "Phil Yu": {
     "age": "<40",
     "id": 66,
+    "skipDraw": "2020-06-23",
     "wcaId": "2010YUPH01"
   },
   "Pontus Uggla": {
