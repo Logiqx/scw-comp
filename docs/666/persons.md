@@ -38,7 +38,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Joshua David Riegel](../persons/joshua_david_riegel.md) | <30 | 6:40.49 | DNF |
+| [Joshua Riegel](../persons/joshua_riegel.md) | <30 | 6:40.49 | DNF |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

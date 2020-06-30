@@ -20,7 +20,7 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Joshua David Riegel](../persons/joshua_david_riegel.md) | [2020-06-23](results/2020-06-23.md) | <30 | 31.86 |  | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623941544427006/) |
+| 1 | [Joshua Riegel](../persons/joshua_riegel.md) | [2020-06-23](results/2020-06-23.md) | <30 | 31.86 |  | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623941544427006/) |
 
 #### Under 20
 

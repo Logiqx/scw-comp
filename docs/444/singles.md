@@ -63,7 +63,7 @@
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Raimon Schaap](../persons/raimon_schaap.md) | [2020-04-14](results/2020-04-14.md) | <30 | 1:16.76 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1405207589681385/) |
-| 2 | [Joshua David Riegel](../persons/joshua_david_riegel.md) | [2020-06-23](results/2020-06-23.md) | <30 | 1:26.83 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276409987011989/) |
+| 2 | [Joshua Riegel](../persons/joshua_riegel.md) | [2020-06-23](results/2020-06-23.md) | <30 | 1:26.83 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276409987011989/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

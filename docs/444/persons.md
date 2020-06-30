@@ -62,7 +62,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Joshua David Riegel](../persons/joshua_david_riegel.md) | <30 | 1:26.83 | 1:34.79 |
+| [Joshua Riegel](../persons/joshua_riegel.md) | <30 | 1:26.83 | 1:34.79 |
 | [Raimon Schaap](../persons/raimon_schaap.md) | <30 | 1:16.76 | 1:23.57 |
 
 

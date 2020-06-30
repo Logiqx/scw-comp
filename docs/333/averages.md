@@ -92,7 +92,7 @@
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Tom Doolinski](../persons/tom_doolinski.md) | [2020-01-28](results/2020-01-28.md) | <30 | 14.99 |  | [Link](https://www.facebook.com/tom.dooley.35175/videos/1479385075550710/) |
 | 2 | [Raimon Schaap](../persons/raimon_schaap.md) | [2020-05-12](results/2020-05-12.md) | <30 | 15.99 | 🔥 | [Link](https://www.facebook.com/events/546188069600739/permalink/547513629468183/) |
-| 3 | [Joshua David Riegel](../persons/joshua_david_riegel.md) | [2020-06-23](results/2020-06-23.md) | <30 | 29.09 | 🔥 ⚡ | [Link](https://www.facebook.com/events/722150235200875/permalink/725666218182610/) |
+| 3 | [Joshua Riegel](../persons/joshua_riegel.md) | [2020-06-23](results/2020-06-23.md) | <30 | 29.09 | 🔥 ⚡ | [Link](https://www.facebook.com/events/722150235200875/permalink/725666218182610/) |
 | 4 | [Peyton Blevins](../persons/peyton_blevins.md) | [2020-01-28](results/2020-01-28.md) | <30 | 30.48 |  | [Link](https://www.facebook.com/TheNewProcess/videos/3093917170665620/) |
 
 #### Under 20

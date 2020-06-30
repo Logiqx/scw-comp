@@ -66,7 +66,7 @@
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Raimon Schaap](../persons/raimon_schaap.md) | [2020-03-10](results/2020-03-10.md) | <30 | 4.63 |  | [Link](https://www.facebook.com/events/654143022005686/permalink/657641461655842/) |
-| 2 | [Joshua David Riegel](../persons/joshua_david_riegel.md) | [2020-06-23](results/2020-06-23.md) | <30 | 7.04 |  | [Link](https://www.facebook.com/events/722150235200875/permalink/725673131515252/) |
+| 2 | [Joshua Riegel](../persons/joshua_riegel.md) | [2020-06-23](results/2020-06-23.md) | <30 | 7.04 |  | [Link](https://www.facebook.com/events/722150235200875/permalink/725673131515252/) |
 
 #### Under 20
 

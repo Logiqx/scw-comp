@@ -38,7 +38,7 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Joshua David Riegel](../persons/joshua_david_riegel.md) | [2020-06-23](results/2020-06-23.md) | <30 | 6:40.49 |  | [Link](https://www.facebook.com/events/268636114456043/permalink/277021946950793/) |
+| 1 | [Joshua Riegel](../persons/joshua_riegel.md) | [2020-06-23](results/2020-06-23.md) | <30 | 6:40.49 |  | [Link](https://www.facebook.com/events/268636114456043/permalink/277021946950793/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -90,7 +90,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Joshua David Riegel](../persons/joshua_david_riegel.md) | <30 | 25.53 | 29.09 |
+| [Joshua Riegel](../persons/joshua_riegel.md) | <30 | 25.53 | 29.09 |
 | [Peyton Blevins](../persons/peyton_blevins.md) | <30 | 28.16 | 30.48 |
 | [Raimon Schaap](../persons/raimon_schaap.md) | <30 | 13.58 | 15.99 |
 | [Tom Doolinski](../persons/tom_doolinski.md) | <30 | 13.48 | 14.99 |

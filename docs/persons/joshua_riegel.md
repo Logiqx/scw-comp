@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Joshua David Riegel
+### Joshua Riegel
 
 | Event | Single | Average |
 | -- | --: | --: |

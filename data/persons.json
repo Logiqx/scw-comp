@@ -159,17 +159,17 @@
     "age": "<20",
     "id": 64
   },
-  "Joshua David Riegel": {
-    "age": "<30",
-    "aliases": [
-      "Joshua Riegel"
-    ],
-    "id": 63,
-    "wcaId": "2019RIEG02"
-  },
   "Joshua M. Woodward": {
     "age": "40+",
     "id": 19
+  },
+  "Joshua Riegel": {
+    "age": "<30",
+    "aliases": [
+      "Joshua David Riegel"
+    ],
+    "id": 63,
+    "wcaId": "2019RIEG02"
   },
   "Kerrie Jarman": {
     "age": "40+",

@@ -31,7 +31,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Joshua David Riegel](../persons/joshua_david_riegel.md) | <30 | 9.94 | 19.49 |
+| [Joshua Riegel](../persons/joshua_riegel.md) | <30 | 9.94 | 19.49 |
 
 #### Under 20
 
