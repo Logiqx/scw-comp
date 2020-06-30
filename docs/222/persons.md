@@ -65,6 +65,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
+| [Joshua David Riegel](../persons/joshua_david_riegel.md) | <30 | 7.04 | 9.71 |
 | [Raimon Schaap](../persons/raimon_schaap.md) | <30 | 4.63 | 7.18 |
 
 #### Under 20

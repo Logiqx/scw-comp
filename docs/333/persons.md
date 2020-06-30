@@ -17,7 +17,7 @@
 | [David Burchill](../persons/david_burchill.md) | 50+ | 28.50 | 34.84 |
 | [Donna Leiber](../persons/donna_leiber.md) | 60+ | 52.97 | 59.90 |
 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | 50+ | 25.79 | 28.76 |
-| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.40 | 27.36 |
+| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.22 | 27.36 |
 | [Markus Niederöst](../persons/markus_niederost.md) | 50+ | 19.98 | 23.60 |
 | [Peter Andersson](../persons/peter_andersson.md) | 50+ | 20.85 | 24.84 |
 | [Peter Douthwright](../persons/peter_douthwright.md) | 50+ | 31.12 | 35.24 |
@@ -39,7 +39,7 @@
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 13.37 | 14.77 |
 | [Huy Nguyen](../persons/huy_nguyen.md) | 40+ | 17.19 | 20.72 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 17.58 | 22.30 |
-| [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 24.76 | 29.62 |
+| [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 24.76 | 27.24 |
 | [Jang Junho (장준호)](../persons/jang_junho.md) | 40+ | 20.33 | 25.66 |
 | [Jason Green](../persons/jason_green.md) | 40+ | 17.22 | 18.51 |
 | [Jean van den Bergh](../persons/jean_van_den_bergh.md) | 40+ | 38.55 | 40.85 |
@@ -48,8 +48,8 @@
 | [Joffie Berkowitz](../persons/joffie_berkowitz.md) | 50+ | 25.79 | 28.76 |
 | [Joshua M. Woodward](../persons/joshua_m._woodward.md) | 40+ | 38.26 | 40.14 |
 | [Kerrie Jarman](../persons/kerrie_jarman.md) | 40+ | 47.24 | 53.32 |
-| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.40 | 27.36 |
-| [Marcel Balzer](../persons/marcel_balzer.md) | 40+ | 43.63 | 1:03.13 |
+| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 25.22 | 27.36 |
+| [Marcel Balzer](../persons/marcel_balzer.md) | 40+ | 38.14 | 56.04 |
 | [Mark Charlesworth](../persons/mark_charlesworth.md) | 40+ | 27.78 | 30.02 |
 | [Markus Niederöst](../persons/markus_niederost.md) | 50+ | 19.98 | 23.60 |
 | [Michael George](../persons/michael_george.md) | 40+ | 11.64 | 13.67 |
@@ -90,7 +90,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Joshua David Riegel](../persons/joshua_david_riegel.md) | <30 | 26.41 | 31.72 |
+| [Joshua David Riegel](../persons/joshua_david_riegel.md) | <30 | 25.53 | 29.09 |
 | [Peyton Blevins](../persons/peyton_blevins.md) | <30 | 28.16 | 30.48 |
 | [Raimon Schaap](../persons/raimon_schaap.md) | <30 | 13.58 | 15.99 |
 | [Tom Doolinski](../persons/tom_doolinski.md) | <30 | 13.48 | 14.99 |

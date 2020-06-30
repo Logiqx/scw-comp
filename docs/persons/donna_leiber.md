@@ -73,6 +73,7 @@
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
+| [2020-06-23](../333fm/results/2020-06-23.md) | 60+ | 56 |  | [Link](https://www.facebook.com/events/284763775909443/permalink/286275105758310/) |
 | [2020-06-16](../333fm/results/2020-06-16.md) | 60+ | 52 |  | [Link](https://www.facebook.com/events/753945178677521/permalink/757188861686486/) |
 | [2020-06-09](../333fm/results/2020-06-09.md) | 60+ | **43** | ⚡ | [Link](https://www.facebook.com/events/855783411578420/permalink/859012521255509/) |
 | [2020-06-02](../333fm/results/2020-06-02.md) | 60+ | 60 |  | [Link](https://www.facebook.com/events/3920457157996941/permalink/3948916025151054/) |

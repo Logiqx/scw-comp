@@ -13,7 +13,7 @@
 | :--: | -- | :--: | :--: | :--: | :--: | -- |
 | 1 | [David Roche](../persons/david_roche.md) | [2020-03-17](results/2020-03-17.md) | 50+ | 21 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/210706923625115/permalink/211706620191812/) |
 | | [Александр Гилка](../persons/александр_гилка.md) | [2020-03-24](results/2020-03-24.md) | 50+ | 21 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/500266387310754/permalink/500800967257296/) |
-| 3 | [Mark Rivers](../persons/mark_rivers.md) | [2020-05-26](results/2020-05-26.md) | 50+ | 35 | 🥈 ⚡ | [Link](https://www.facebook.com/events/2622968941252005/permalink/2628004390748460/) |
+| 3 | [Mark Rivers](../persons/mark_rivers.md) | [2020-06-23](results/2020-06-23.md) | 50+ | 33 | 🥉 ⚡ | [Link](https://www.facebook.com/events/284763775909443/permalink/288504812202006/) |
 | 4 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-07](results/2020-04-07.md) | 50+ | 43 |  | [Link](https://www.facebook.com/events/253518435802861/permalink/253716005783104/) |
 | | [Donna Leiber](../persons/donna_leiber.md) | [2020-06-09](results/2020-06-09.md) | 60+ | 43 | ⚡ | [Link](https://www.facebook.com/events/855783411578420/permalink/859012521255509/) |
 | 6 | [John Cook](../persons/john_cook.md) | [2020-02-25](results/2020-02-25.md) | 50+ | 45 | 🥉 ⚡ | [Link](https://www.facebook.com/events/215751886207638/permalink/217422122707281/) |
@@ -27,7 +27,7 @@
 | 3 | [Ben Coppin](../persons/ben_coppin.md) | [2020-03-10](results/2020-03-10.md) | 40+ | 25 | 🥈 ⚡ | [Link](https://www.facebook.com/events/640532176759268/permalink/641063233372829/) |
 | | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-06-16](results/2020-06-16.md) | 40+ | 25 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/753945178677521/permalink/756398248432214/) |
 | 5 | [Michael George](../persons/michael_george.md) | [2020-05-19](results/2020-05-19.md) | 40+ | 31 | 🥇 ⚡ | [Link](https://www.facebook.com/events/568280284126471/permalink/569029154051584/) |
-| 6 | [Mark Rivers](../persons/mark_rivers.md) | [2020-05-26](results/2020-05-26.md) | 50+ | 35 | 🥈 ⚡ | [Link](https://www.facebook.com/events/2622968941252005/permalink/2628004390748460/) |
+| 6 | [Mark Rivers](../persons/mark_rivers.md) | [2020-06-23](results/2020-06-23.md) | 50+ | 33 | 🥉 ⚡ | [Link](https://www.facebook.com/events/284763775909443/permalink/288504812202006/) |
 | 7 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-12](results/2020-05-12.md) | 40+ | 36 | 🥉 ⚡ | [Link](https://www.facebook.com/events/2563130363933815/permalink/2563245993922252/) |
 | 8 | [Ciro Vignotto](../persons/ciro_vignotto.md) | [2020-04-07](results/2020-04-07.md) | 50+ | 43 |  | [Link](https://www.facebook.com/events/253518435802861/permalink/253716005783104/) |
 | | [Donna Leiber](../persons/donna_leiber.md) | [2020-06-09](results/2020-06-09.md) | 60+ | 43 | ⚡ | [Link](https://www.facebook.com/events/855783411578420/permalink/859012521255509/) |

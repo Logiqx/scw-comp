@@ -1,5 +1,11 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4x4x4 Blindfolded Senior Podiums
+#### [2020-06-23](results/2020-06-23.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 23:12.11 | DNF | 🏆 🥇 | [Link](https://www.facebook.com/events/850175445522887/permalink/854662398407525/) |
+
 #### [2020-06-16](results/2020-06-16.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

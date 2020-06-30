@@ -15,7 +15,7 @@
 | [David Roche](../persons/david_roche.md) | 50+ | 21 |
 | [Donna Leiber](../persons/donna_leiber.md) | 60+ | 43 |
 | [John Cook](../persons/john_cook.md) | 50+ | 45 |
-| [Mark Rivers](../persons/mark_rivers.md) | 50+ | 35 |
+| [Mark Rivers](../persons/mark_rivers.md) | 50+ | 33 |
 | [Александр Гилка](../persons/александр_гилка.md) | 50+ | 21 |
 
 #### Over 40
@@ -29,7 +29,7 @@
 | [Donna Leiber](../persons/donna_leiber.md) | 60+ | 43 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 25 |
 | [John Cook](../persons/john_cook.md) | 50+ | 45 |
-| [Mark Rivers](../persons/mark_rivers.md) | 50+ | 35 |
+| [Mark Rivers](../persons/mark_rivers.md) | 50+ | 33 |
 | [Michael George](../persons/michael_george.md) | 40+ | 31 |
 | [Александр Гилка](../persons/александр_гилка.md) | 50+ | 21 |
 

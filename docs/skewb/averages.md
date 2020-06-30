@@ -12,9 +12,21 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Ed Connell](../persons/ed_connell.md) | [2020-06-16](results/2020-06-16.md) | <40 | 14.52 |  | [Link](https://www.facebook.com/events/296087658445428/permalink/299496601437867/) |
+| 1 | [Ed Connell](../persons/ed_connell.md) | [2020-06-23](results/2020-06-23.md) | <40 | 13.91 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623313707823123/) |
 | 2 | [Pete Lee](../persons/pete_lee.md) | [2020-06-16](results/2020-06-16.md) | <40 | 24.67 |  | [Link](https://www.facebook.com/events/296087658445428/permalink/299518714768989/) |
-| 3 | [Chris Thames](../persons/chris_thames.md) | [2020-06-16](results/2020-06-16.md) | <40 | 43.21 |  | [Link](https://www.facebook.com/events/296087658445428/permalink/299433188110875/) |
+| 3 | [Chris Thames](../persons/chris_thames.md) | [2020-06-23](results/2020-06-23.md) | <40 | 38.88 | 🔥 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623169454504215/) |
+
+#### Under 30
+
+| # | Name | Date | Age | Average | Awards | Video |
+| :--: | -- | :--: | :--: | --: | :--: | -- |
+| 1 | [Joshua David Riegel](../persons/joshua_david_riegel.md) | [2020-06-23](results/2020-06-23.md) | <30 | 31.86 |  | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623941544427006/) |
+
+#### Under 20
+
+| # | Name | Date | Age | Average | Awards | Video |
+| :--: | -- | :--: | :--: | --: | :--: | -- |
+| 1 | [Dylan Cossin](../persons/dylan_cossin.md) | [2020-06-23](results/2020-06-23.md) | <20 | 3.97 | 🏆 | [Link](https://www.facebook.com/dylan.andrew1/videos/3097967856954645/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -3,12 +3,13 @@
 
 | Event | Single | Average |
 | -- | --: | --: |
-| 3x3x3 FMC | 35 | - |
+| 3x3x3 FMC | 33 | - |
 
 #### 3x3x3 Fewest Moves
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
+| [2020-06-23](../333fm/results/2020-06-23.md) | 50+ | **33** | 🥉 ⚡ | [Link](https://www.facebook.com/events/284763775909443/permalink/288504812202006/) |
 | [2020-06-16](../333fm/results/2020-06-16.md) | 50+ | DNF |  | [Link](https://www.facebook.com/events/753945178677521/permalink/758195291585843/) |
 | [2020-06-09](../333fm/results/2020-06-09.md) | 50+ | 39 | 🥉 | [Link](https://www.facebook.com/events/855783411578420/permalink/860043347819093/) |
 | [2020-06-02](../333fm/results/2020-06-02.md) | 50+ | DNF |  | [Link](https://www.facebook.com/events/3920457157996941/permalink/3946084605434196/) |

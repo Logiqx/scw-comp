@@ -1,5 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Clock Senior Podiums
+#### [2020-06-23](results/2020-06-23.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 20.39 | 29.17 | 🥇 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624299994391161/) |
+| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 12.02 | DNF | 🥈 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624284247726069/) |
+
 #### [2020-06-16](results/2020-06-16.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

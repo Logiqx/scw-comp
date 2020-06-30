@@ -24,7 +24,7 @@
 | [Donna Leiber](../persons/donna_leiber.md) | 60+ | 12:04.43 | DNF |
 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 3:44.19 | 3:54.60 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 5:06.63 | DNF |
-| [Michael George](../persons/michael_george.md) | 40+ | 5:18.47 | DNF |
+| [Michael George](../persons/michael_george.md) | 40+ | 5:13.38 | DNF |
 
 #### Under 40
 
@@ -32,6 +32,13 @@
 | -- | :--: | --: | --: |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 5:56.45 | DNF |
 | [Pete Lee](../persons/pete_lee.md) | <40 | 4:35.73 | DNF |
+| [Peter Osudar](../persons/peter_osudar.md) | <40 | 4:08.97 | 4:43.10 |
+
+#### Under 30
+
+| Name | Age | Single | Average |
+| -- | :--: | --: | --: |
+| [Joshua David Riegel](../persons/joshua_david_riegel.md) | <30 | 6:40.49 | DNF |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

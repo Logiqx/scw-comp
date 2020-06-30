@@ -6,7 +6,7 @@
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 26:59.43 | DNF |
-| [Jae Park](../persons/jae_park.md) | 40+ | 14:54.39 | DNF |
+| [Jae Park](../persons/jae_park.md) | 40+ | 13:51.60 | DNF |
 
 #### Under 40
 

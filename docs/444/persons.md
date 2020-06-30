@@ -22,7 +22,7 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 1:02.34 | 1:15.40 |
+| [Aaron Cumes](../persons/aaron_cumes.md) | 40+ | 1:02.34 | 1:14.67 |
 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 54.56 | 1:01.28 |
 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 1:23.57 | 1:32.65 |
 | [Chris Wright](../persons/chris_wright.md) | 50+ | 50.41 | 56.44 |
@@ -32,7 +32,7 @@
 | [Geoff Hartnell](../persons/geoff_hartnell.md) | 40+ | 57.70 | 1:04.44 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 56.11 | 1:11.39 |
 | [Jae Park](../persons/jae_park.md) | 40+ | 2:03.34 | 2:30.77 |
-| [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 1:32.33 | 1:52.47 |
+| [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | 40+ | 1:32.33 | 1:41.75 |
 | [Jang Junho (장준호)](../persons/jang_junho.md) | 40+ | 2:31.31 | 2:58.70 |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 52.35 | 1:02.91 |
 | [Jo Cocco](../persons/jo_cocco.md) | 40+ | 2:55.79 | 3:24.75 |
@@ -54,14 +54,15 @@
 | [Isak Majer](../persons/isak_majer.md) | <40 | 1:41.66 | 1:50.60 |
 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | <40 | 2:24.93 | 2:38.28 |
 | [Neilimixam Snetrem](../persons/neilimixam_snetrem.md) | <40 | 1:08.70 | 1:24.75 |
-| [Pete Lee](../persons/pete_lee.md) | <40 | 59.07 | 1:10.04 |
+| [Pete Lee](../persons/pete_lee.md) | <40 | 54.90 | 1:04.39 |
+| [Peter Osudar](../persons/peter_osudar.md) | <40 | 1:29.48 | 1:35.22 |
 | [Shawn Boucké](../persons/shawn_boucke.md) | <40 | 46.21 | 49.52 |
 
 #### Under 30
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Joshua David Riegel](../persons/joshua_david_riegel.md) | <30 | 1:37.07 | 1:43.47 |
+| [Joshua David Riegel](../persons/joshua_david_riegel.md) | <30 | 1:26.83 | 1:34.79 |
 | [Raimon Schaap](../persons/raimon_schaap.md) | <30 | 1:16.76 | 1:23.57 |
 
 

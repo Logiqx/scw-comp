@@ -24,11 +24,11 @@
 | 7 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-05-26](results/2020-05-26.md) | 40+ | 1:04.44 | 🔥 ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/639657566619518/) |
 | 8 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 1:11.39 |  | |
 | 9 | [Yoann Lecoeur](../persons/yoann_lecoeur.md) | [2020-03-17](results/2020-03-17.md) | 40+ | 1:11.54 | 🔥 | [Link](https://www.facebook.com/events/211732526904866/permalink/214999563244829/) |
-| 10 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-06-16](results/2020-06-16.md) | 40+ | 1:15.40 | 🔥 ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/257120222181392/) |
+| 10 | [Aaron Cumes](../persons/aaron_cumes.md) | [2020-06-23](results/2020-06-23.md) | 40+ | 1:14.67 | 🥉 🔥 | [Link](https://www.facebook.com/events/268636114456043/permalink/269295957723392/) |
 | 11 | [Thierry Boisivon](../persons/thierry_boisivon.md) | [2020-03-31](results/2020-03-31.md) | 40+ | 1:21.31 | 🔥 | [Link](https://www.facebook.com/events/269276700734640/permalink/271465083849135/) |
 | 12 | [Daniel Smith](../persons/daniel_smith.md) | [2020-06-02](results/2020-06-02.md) | 50+ | 1:28.41 | 🔥 | [Link](https://www.facebook.com/events/573401076937046/permalink/578239283119892/) |
 | 13 | [Anthony Rochester](../persons/anthony_rochester.md) | [2020-06-02](results/2020-06-02.md) | 40+ | 1:32.65 | 🔥 | [Link](https://www.facebook.com/events/573401076937046/permalink/575498130060674/) |
-| 14 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-06-02](results/2020-06-02.md) | 40+ | 1:52.47 | 🔥 ⚡ | [Link](https://www.facebook.com/events/573401076937046/permalink/578462709764216/) |
+| 14 | [Jan Adams-Fielding](../persons/jan_adams-fielding.md) | [2020-06-23](results/2020-06-23.md) | 40+ | 1:41.75 | 🔥 | [Link](https://www.facebook.com/jan.adamsfielding/videos/10157164509736889/) |
 | 15 | [Jae Park](../persons/jae_park.md) | [2020-02-04](results/2020-02-04.md) | 40+ | 2:30.77 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2135447743267798/) |
 | 16 | [Peter Douthwright](../persons/peter_douthwright.md) | [2020-03-31](results/2020-03-31.md) | 50+ | 2:42.21 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
 | 17 | [Jang Junho (장준호)](../persons/jang_junho.md) | [2020-02-25](results/2020-02-25.md) | 40+ | 2:58.70 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/810015492837274/) |
@@ -41,19 +41,20 @@
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-03-31](results/2020-03-31.md) | <40 | 49.27 | 🏆 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/272981440364166/) |
 | 2 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-02-04](results/2020-02-04.md) | <40 | 49.52 | 🏆 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134991299980109/) |
-| 3 | [Ed Connell](../persons/ed_connell.md) | [2020-04-14](results/2020-04-14.md) | <40 | 1:07.97 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1404450843090393/) |
-| 4 | [Pete Lee](../persons/pete_lee.md) | [2020-06-16](results/2020-06-16.md) | <40 | 1:10.04 | 🔥 | [Link](https://www.facebook.com/events/256188575607890/permalink/258410475385700/) |
+| 3 | [Pete Lee](../persons/pete_lee.md) | [2020-06-23](results/2020-06-23.md) | <40 | 1:04.39 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/270820800904241/) |
+| 4 | [Ed Connell](../persons/ed_connell.md) | [2020-04-14](results/2020-04-14.md) | <40 | 1:07.97 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1404450843090393/) |
 | 5 | [Neilimixam Snetrem](../persons/neilimixam_snetrem.md) | [2020-06-16](results/2020-06-16.md) | <40 | 1:24.75 |  | [Link](https://www.facebook.com/events/256188575607890/permalink/257142405512507&comment_id=257163745510373&notif_t=event_mall_comment&notif_id=1592413285803230&ref=m_notif/) |
-| 6 | [Isak Majer](../persons/isak_majer.md) | [2020-02-04](results/2020-02-04.md) | <40 | 1:50.60 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |
-| 7 | [Chris Thames](../persons/chris_thames.md) | [2020-06-16](results/2020-06-16.md) | <40 | 2:05.99 | 🔥 | [Link](https://www.facebook.com/events/256188575607890/permalink/259049098655171/) |
-| 8 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-02-04](results/2020-02-04.md) | <40 | 2:38.28 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
+| 6 | [Peter Osudar](../persons/peter_osudar.md) | [2020-06-23](results/2020-06-23.md) | <40 | 1:35.22 |  | [Link](https://www.facebook.com/events/268636114456043/permalink/273323990653922/) |
+| 7 | [Isak Majer](../persons/isak_majer.md) | [2020-02-04](results/2020-02-04.md) | <40 | 1:50.60 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |
+| 8 | [Chris Thames](../persons/chris_thames.md) | [2020-06-16](results/2020-06-16.md) | <40 | 2:05.99 | 🔥 | [Link](https://www.facebook.com/events/256188575607890/permalink/259049098655171/) |
+| 9 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-02-04](results/2020-02-04.md) | <40 | 2:38.28 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
 
 #### Under 30
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Raimon Schaap](../persons/raimon_schaap.md) | [2020-05-05](results/2020-05-05.md) | <30 | 1:23.57 | 🔥 | [Link](https://www.facebook.com/events/557526585195168/permalink/557561768524983/) |
-| 2 | [Joshua David Riegel](../persons/joshua_david_riegel.md) | [2020-05-19](results/2020-05-19.md) | <30 | 1:43.47 |  | [Link](https://www.facebook.com/events/201300894172579/permalink/203589730610362/) |
+| 2 | [Joshua David Riegel](../persons/joshua_david_riegel.md) | [2020-06-23](results/2020-06-23.md) | <30 | 1:34.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276409987011989/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

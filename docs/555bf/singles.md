@@ -5,7 +5,7 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Jae Park](../persons/jae_park.md) | [2020-06-09](results/2020-06-09.md) | 40+ | 14:54.39 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/620460455211235/permalink/622707208319893/) |
+| 1 | [Jae Park](../persons/jae_park.md) | [2020-06-23](results/2020-06-23.md) | 40+ | 13:51.60 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/850175445522887/permalink/850645842142514/) |
 | 2 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-06-16](results/2020-06-16.md) | 40+ | 26:59.43 | 🥈 ⚡ | [Link](https://www.facebook.com/events/208176410240808/permalink/210968409961608/) |
 
 #### Under 40

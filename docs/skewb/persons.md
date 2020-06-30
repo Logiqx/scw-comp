@@ -12,9 +12,21 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Chris Thames](../persons/chris_thames.md) | <40 | 25.74 | 43.21 |
-| [Ed Connell](../persons/ed_connell.md) | <40 | 10.46 | 14.52 |
-| [Pete Lee](../persons/pete_lee.md) | <40 | 17.80 | 24.67 |
+| [Chris Thames](../persons/chris_thames.md) | <40 | 25.74 | 38.88 |
+| [Ed Connell](../persons/ed_connell.md) | <40 | 8.83 | 13.91 |
+| [Pete Lee](../persons/pete_lee.md) | <40 | 16.61 | 24.67 |
+
+#### Under 30
+
+| Name | Age | Single | Average |
+| -- | :--: | --: | --: |
+| [Joshua David Riegel](../persons/joshua_david_riegel.md) | <30 | 23.14 | 31.86 |
+
+#### Under 20
+
+| Name | Age | Single | Average |
+| -- | :--: | --: | --: |
+| [Dylan Cossin](../persons/dylan_cossin.md) | <20 | 3.37 | 3.97 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

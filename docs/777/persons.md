@@ -29,6 +29,7 @@
 | -- | :--: | --: | --: |
 | [Ed Connell](../persons/ed_connell.md) | <40 | 8:56.69 | DNF |
 | [Pete Lee](../persons/pete_lee.md) | <40 | 7:59.28 | DNF |
+| [Peter Osudar](../persons/peter_osudar.md) | <40 | 6:13.99 | 6:36.78 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

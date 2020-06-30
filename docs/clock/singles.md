@@ -5,20 +5,20 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Lisa Kucala](../persons/lisa_kucala.md) | [2020-06-16](results/2020-06-16.md) | 50+ | 22.23 | 🥈 | [Link](https://www.facebook.com/events/296087658445428/permalink/300271461360381/) |
+| 1 | [Lisa Kucala](../persons/lisa_kucala.md) | [2020-06-23](results/2020-06-23.md) | 50+ | 20.39 | 🥇 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624299994391161/) |
 
 #### Over 40
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-06-16](results/2020-06-16.md) | 40+ | 14.32 | 🏆 🥇 | [Link](https://www.facebook.com/events/296087658445428/permalink/298845524836308/) |
-| 2 | [Lisa Kucala](../persons/lisa_kucala.md) | [2020-06-16](results/2020-06-16.md) | 50+ | 22.23 | 🥈 | [Link](https://www.facebook.com/events/296087658445428/permalink/300271461360381/) |
+| 1 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-06-23](results/2020-06-23.md) | 40+ | 12.02 | 🥈 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624284247726069/) |
+| 2 | [Lisa Kucala](../persons/lisa_kucala.md) | [2020-06-23](results/2020-06-23.md) | 50+ | 20.39 | 🥇 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624299994391161/) |
 
 #### Under 40
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Ed Connell](../persons/ed_connell.md) | [2020-06-16](results/2020-06-16.md) | <40 | 21.27 |  | [Link](https://www.facebook.com/events/296087658445428/permalink/300275488026645/) |
+| 1 | [Ed Connell](../persons/ed_connell.md) | [2020-06-23](results/2020-06-23.md) | <40 | 16.70 | 🏆 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1621527954668365/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

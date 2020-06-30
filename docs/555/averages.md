@@ -35,6 +35,7 @@
 | 2 | [Chris Hardwick](../persons/chris_hardwick.md) | [2020-03-24](results/2020-03-24.md) | <40 | 2:19.32 |  | [Link](https://www.facebook.com/events/5078365835514885/permalink/5107384065946395/) |
 | 3 | [Ed Connell](../persons/ed_connell.md) | [2020-06-16](results/2020-06-16.md) | <40 | 2:26.48 | 🔥 ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/258981835328564/) |
 | 4 | [Pete Lee](../persons/pete_lee.md) | [2020-04-21](results/2020-04-21.md) | <40 | 2:27.42 | 🔥 ⚡ | [Link](https://www.facebook.com/events/538096063773916/permalink/539805363602986/) |
+| 5 | [Peter Osudar](../persons/peter_osudar.md) | [2020-06-23](results/2020-06-23.md) | <40 | 2:41.55 |  | [Link](https://www.facebook.com/events/268636114456043/permalink/276010010385320/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

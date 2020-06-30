@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Fewest Moves Senior Podiums
+#### [2020-06-23](results/2020-06-23.md)
+
+| # | Name | Age | Single | Solution |
+| :--: | -- | :--: | :--: | :--: | -- |
+| 1 | [Ben Coppin](../persons/ben_coppin.md) | 40+ | 27 | [Link](https://www.facebook.com/events/284763775909443/permalink/285623172490170/) |
+| 2 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 31 | [Link](https://www.facebook.com/events/284763775909443/permalink/285251059194048/) |
+| 3 | [Mark Rivers](../persons/mark_rivers.md) | 50+ | 33 | [Link](https://www.facebook.com/events/284763775909443/permalink/288504812202006/) |
+
 #### [2020-06-16](results/2020-06-16.md)
 
 | # | Name | Age | Single | Solution |

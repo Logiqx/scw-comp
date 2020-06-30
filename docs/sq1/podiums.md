@@ -1,5 +1,12 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Square-1 Senior Podiums
+#### [2020-06-23](results/2020-06-23.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 29.94 | 36.27 | 🏆 🥇 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624493677705126/) |
+| 2 | [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 31.85 | 51.45 | 🥈 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624283784392782/) |
+
 #### [2020-06-16](results/2020-06-16.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

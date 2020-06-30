@@ -42,6 +42,7 @@
 
 | Date | Age | Single | Awards | Solution |
 | :--: | :--: | :--: | :--: | :-- |
+| [2020-06-23](../333fm/results/2020-06-23.md) | <40 | DNF |  | [Link](https://www.facebook.com/events/284763775909443/permalink/288363335549487/) |
 | [2020-06-16](../333fm/results/2020-06-16.md) | <40 | 36 |  | [Link](https://www.facebook.com/events/753945178677521/permalink/754313368640702/) |
 | [2020-06-09](../333fm/results/2020-06-09.md) | <40 | 29 |  | [Link](https://www.facebook.com/events/855783411578420/permalink/856901441466617/) |
 | [2020-06-02](../333fm/results/2020-06-02.md) | <40 | **26** | ⚡ | [Link](https://www.facebook.com/events/3920457157996941/permalink/3937885802920743/) |

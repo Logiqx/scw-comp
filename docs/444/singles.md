@@ -49,20 +49,21 @@
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Go-ho Choi](../persons/go-ho_choi.md) | [2020-05-12](results/2020-05-12.md) | <40 | 36.50 | 🏆 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/279409959863758/) |
 | 2 | [Shawn Boucké](../persons/shawn_boucke.md) | [2020-05-05](results/2020-05-05.md) | <40 | 46.21 | 🏆 ⚡ | [Link](https://www.facebook.com/events/543220986391837/permalink/548566115857324/) |
-| 3 | [Pete Lee](../persons/pete_lee.md) | [2020-06-09](results/2020-06-09.md) | <40 | 59.07 | ⚡ | [Link](https://www.facebook.com/events/1130228284009045/permalink/1132826750415865/) |
+| 3 | [Pete Lee](../persons/pete_lee.md) | [2020-06-23](results/2020-06-23.md) | <40 | 54.90 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/270820800904241/) |
 | 4 | [Ed Connell](../persons/ed_connell.md) | [2020-04-14](results/2020-04-14.md) | <40 | 1:00.92 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1404450843090393/) |
 | 5 | [Neilimixam Snetrem](../persons/neilimixam_snetrem.md) | [2020-06-16](results/2020-06-16.md) | <40 | 1:08.70 |  | [Link](https://www.facebook.com/events/256188575607890/permalink/257142405512507&comment_id=257163745510373&notif_t=event_mall_comment&notif_id=1592413285803230&ref=m_notif/) |
-| 6 | [Isak Majer](../persons/isak_majer.md) | [2020-02-04](results/2020-02-04.md) | <40 | 1:41.66 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |
-| 7 | [Chris Thames](../persons/chris_thames.md) | [2020-06-02](results/2020-06-02.md) | <40 | 1:56.95 | 🔥 ⚡ | [Link](https://www.facebook.com/events/573401076937046/permalink/574702816806872/) |
-| 8 | [Adam Robson](../persons/adam_robson.md) | [2020-02-25](results/2020-02-25.md) | <40 | 2:24.65 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/809621066210050/) |
-| 9 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-02-04](results/2020-02-04.md) | <40 | 2:24.93 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
+| 6 | [Peter Osudar](../persons/peter_osudar.md) | [2020-06-23](results/2020-06-23.md) | <40 | 1:29.48 |  | [Link](https://www.facebook.com/events/268636114456043/permalink/273323990653922/) |
+| 7 | [Isak Majer](../persons/isak_majer.md) | [2020-02-04](results/2020-02-04.md) | <40 | 1:41.66 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |
+| 8 | [Chris Thames](../persons/chris_thames.md) | [2020-06-02](results/2020-06-02.md) | <40 | 1:56.95 | 🔥 ⚡ | [Link](https://www.facebook.com/events/573401076937046/permalink/574702816806872/) |
+| 9 | [Adam Robson](../persons/adam_robson.md) | [2020-02-25](results/2020-02-25.md) | <40 | 2:24.65 |  | [Link](https://www.facebook.com/events/805797596592397/permalink/809621066210050/) |
+| 10 | [Jamie Brady (Deansie)](../persons/jamie_brady.md) | [2020-02-04](results/2020-02-04.md) | <40 | 2:24.93 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
 
 #### Under 30
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Raimon Schaap](../persons/raimon_schaap.md) | [2020-04-14](results/2020-04-14.md) | <30 | 1:16.76 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1405207589681385/) |
-| 2 | [Joshua David Riegel](../persons/joshua_david_riegel.md) | [2020-05-19](results/2020-05-19.md) | <30 | 1:37.07 |  | [Link](https://www.facebook.com/events/201300894172579/permalink/203589730610362/) |
+| 2 | [Joshua David Riegel](../persons/joshua_david_riegel.md) | [2020-06-23](results/2020-06-23.md) | <30 | 1:26.83 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276409987011989/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

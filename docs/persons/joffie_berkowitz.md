@@ -9,6 +9,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-06-23](../333/results/2020-06-23.md) | 50+ | 27.14 | 31.62 |  | 31.31 | 45.40 | 32.43 | 31.11 | 27.14 | [Link](https://www.facebook.com/joffie.berkowitz/videos/10163827533980128/) |
 | [2020-06-16](../333/results/2020-06-16.md) | 50+ | 27.80 | 32.28 |  | 34.71 | 35.80 | 28.00 | 34.15 | 27.80 | [Link](https://www.facebook.com/joffie.berkowitz/videos/10163785951110128/) |
 | [2020-06-02](../333/results/2020-06-02.md) | 50+ | 28.88 | 32.44 |  | 33.44 | 35.19 | 34.58 | 29.29 | 28.88 | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381703355388121/) |
 | [2020-05-26](../333/results/2020-05-26.md) | 50+ | 27.89 | 30.05 |  | 27.89 | 29.52 | 31.34 | 29.29 | 34.89 | [Link](https://www.facebook.com/events/688407551989463/permalink/692740708222814/) |

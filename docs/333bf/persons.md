@@ -16,7 +16,7 @@
 | [Anthony Rochester](../persons/anthony_rochester.md) | 40+ | 1:07.73 | DNF |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 40+ | 1:04.30 | DNF |
 | [Huy Nguyen](../persons/huy_nguyen.md) | 40+ | 1:49.46 | 2:06.80 |
-| [Jae Park](../persons/jae_park.md) | 40+ | 48.68 | 57.66 |
+| [Jae Park](../persons/jae_park.md) | 40+ | 46.90 | 57.66 |
 | [Javier Rossi](../persons/javier_rossi.md) | 50+ | 3:35.63 | DNF |
 | [Jeremy Duehring](../persons/jeremy_duehring.md) | 40+ | 2:31.65 | DNF |
 | [Mark Adams](../persons/mark_adams.md) | 40+ | 1:46.60 | DNF |

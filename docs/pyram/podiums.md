@@ -1,5 +1,13 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Pyraminx Senior Podiums
+#### [2020-06-23](results/2020-06-23.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | -- | :--: | --: | --: | :--: | -- |
+| 1 | [Michael George](../persons/michael_george.md) | 40+ | 4.50 | 6.03 | 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623347121153115/) |
+| 2 | [Daniel Smith](../persons/daniel_smith.md) | 50+ | 9.63 | 10.65 | 🥈 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624493677705126/) |
+| 3 | [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 12.39 | 14.79 | 🥉 🔥 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624302671057560/) |
+
 #### [2020-06-16](results/2020-06-16.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
