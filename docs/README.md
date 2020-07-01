@@ -30,7 +30,7 @@ The rules are fairly straightforward and are detailed on the separate event page
 
 #### Scrambles
 
-PDF and text scrambles can be found on [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs) as well as on the Facebook event pages.
+PDF and text scrambles can be found on [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) as well as on the Facebook event pages.
 
 #### Submissions
 
