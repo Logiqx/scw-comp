@@ -9,7 +9,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
-| [2020-01-28](../333/results/2020-01-28.md) | <20 | **9.74** | **11.51** |  | **9.74** | 12.26 | 12.52 | [Link](https://www.facebook.com/Willislwynlambert/videos/10221470476215884/) |
+| [2020-01-28](../results/333/2020-01-28.md) | <20 | **9.74** | **11.51** |  | **9.74** | 12.26 | 12.52 | [Link](https://www.facebook.com/Willislwynlambert/videos/10221470476215884/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -5,21 +5,21 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Daniel Smith](../persons/daniel_smith.md) | 50+ | 24.84 | 29.69 |
+| [Daniel Smith](../../persons/daniel_smith.md) | 50+ | 24.84 | 29.69 |
 
 #### Over 40
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 31.85 | 50.55 |
-| [Daniel Smith](../persons/daniel_smith.md) | 50+ | 24.84 | 29.69 |
-| [Vani Muthukrishnan](../persons/vani_muthukrishnan.md) | 40+ | 43.91 | 56.18 |
+| [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 31.85 | 50.55 |
+| [Daniel Smith](../../persons/daniel_smith.md) | 50+ | 24.84 | 29.69 |
+| [Vani Muthukrishnan](../../persons/vani_muthukrishnan.md) | 40+ | 43.91 | 56.18 |
 
 #### Under 40
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Ed Connell](../persons/ed_connell.md) | <40 | 48.40 | 50.29 |
+| [Ed Connell](../../persons/ed_connell.md) | <40 | 48.40 | 50.29 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

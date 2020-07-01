@@ -10,14 +10,14 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
-| [2020-05-26](../333bf/results/2020-05-26.md) | <20 | **52.96** | **1:01.73** | 🏆 | **52.96** | 1:16.60 | 55.63 | [Link](https://www.facebook.com/events/1531820936993798/permalink/1535485533294005/) |
+| [2020-05-26](../results/333bf/2020-05-26.md) | <20 | **52.96** | **1:01.73** | 🏆 | **52.96** | 1:16.60 | 55.63 | [Link](https://www.facebook.com/events/1531820936993798/permalink/1535485533294005/) |
 
 
 #### 4x4x4 Blindfolded
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
-| [2020-05-26](../444bf/results/2020-05-26.md) | <20 | **5:52.90** | DNF | 🏆 | DNF | **5:52.90** | DNS | [Link](https://www.facebook.com/events/1531820936993798/permalink/1535234259985799/) |
+| [2020-05-26](../results/444bf/2020-05-26.md) | <20 | **5:52.90** | DNF | 🏆 | DNF | **5:52.90** | DNS | [Link](https://www.facebook.com/events/1531820936993798/permalink/1535234259985799/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

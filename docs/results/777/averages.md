@@ -5,14 +5,14 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Andy Nicholls](../persons/andy_nicholls.md) | [2020-05-05](results/2020-05-05.md) | 40+ | 5:24.33 | 🏆 🥇 | [Link](https://www.facebook.com/events/557526585195168/permalink/558592678421892/) |
-| 2 | [Geoff Hartnell](../persons/geoff_hartnell.md) | [2020-06-09](results/2020-06-09.md) | 40+ | 5:58.03 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131048293927044/) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | [2020-05-05](2020-05-05.md) | 40+ | 5:24.33 | 🏆 🥇 | [Link](https://www.facebook.com/events/557526585195168/permalink/558592678421892/) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | [2020-06-09](2020-06-09.md) | 40+ | 5:58.03 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131048293927044/) |
 
 #### Under 40
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Peter Osudar](../persons/peter_osudar.md) | [2020-06-23](results/2020-06-23.md) | <40 | 6:36.78 |  | [Link](https://www.facebook.com/events/268636114456043/permalink/276983293621325/) |
+| 1 | [Peter Osudar](../../persons/peter_osudar.md) | [2020-06-23](2020-06-23.md) | <40 | 6:36.78 |  | [Link](https://www.facebook.com/events/268636114456043/permalink/276983293621325/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

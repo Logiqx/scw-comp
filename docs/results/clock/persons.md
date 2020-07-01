@@ -5,20 +5,20 @@
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 20.39 | 24.83 |
+| [Lisa Kucala](../../persons/lisa_kucala.md) | 50+ | 20.39 | 24.83 |
 
 #### Over 40
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Andy Nicholls](../persons/andy_nicholls.md) | 40+ | 12.02 | 17.07 |
-| [Lisa Kucala](../persons/lisa_kucala.md) | 50+ | 20.39 | 24.83 |
+| [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 12.02 | 17.07 |
+| [Lisa Kucala](../../persons/lisa_kucala.md) | 50+ | 20.39 | 24.83 |
 
 #### Under 40
 
 | Name | Age | Single | Average |
 | -- | :--: | --: | --: |
-| [Ed Connell](../persons/ed_connell.md) | <40 | 16.70 | 18.69 |
+| [Ed Connell](../../persons/ed_connell.md) | <40 | 16.70 | 18.69 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
