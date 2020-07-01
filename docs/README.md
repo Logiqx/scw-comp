@@ -8,7 +8,7 @@ The general concept is to use the scrambles provided and to record your solves o
 
 This serves as a good way of practicing for actual WCA competitions where nerves can be a big factor in your results. It allows anyone to ask for critique of their solves, provide encouragement to others and watch faster solvers for inspiration.
 
-To encourage wide participation in the competition we also offer prizes, kindly provided by [TheCubicle](https://www.thecubicle.com/). An explanation of the prize system can be found on a [separate page](prizes.md).
+To encourage wide participation in the competition we also offer prizes, kindly provided by [TheCubicle](https://www.thecubicle.com/). An explanation of the prize system can be found on a [separate page](prizes/README.md).
 
 All of the competitions can be found in the [group calendar](https://www.facebook.com/groups/1604105099735401/events/?source=4&action_history=null&filter=calendar) on Facebook.
 

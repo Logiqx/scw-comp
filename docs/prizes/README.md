@@ -1,6 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
 
-![TheCubicle](img/cubicle.png)
+![TheCubicle](cubicle.png)
 
 ### Prizes
 
