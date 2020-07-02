@@ -1,7 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Andy Nicholls](../andy_nicholls.md) - [2015NICH04](https://www.worldcubeassociation.org/persons/2015NICH04?event=sq1)
-
-#### Square-1
+### Andy Nicholls - Square-1 - [2015NICH04](https://www.worldcubeassociation.org/persons/2015NICH04?event=sq1)
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

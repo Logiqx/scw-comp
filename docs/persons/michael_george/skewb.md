@@ -1,7 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Michael George](../michael_george.md) - [2015GEOR02](https://www.worldcubeassociation.org/persons/2015GEOR02?event=skewb)
-
-#### Skewb
+### Michael George - Skewb - [2015GEOR02](https://www.worldcubeassociation.org/persons/2015GEOR02?event=skewb)
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

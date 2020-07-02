@@ -1,7 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Daniel Smith](../daniel_smith.md) - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42?event=pyram)
-
-#### Pyraminx
+### Daniel Smith - Pyraminx - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42?event=pyram)
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
