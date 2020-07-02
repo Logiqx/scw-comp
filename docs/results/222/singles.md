@@ -34,7 +34,7 @@
 | 8 | [Chris Wright](../../persons/chris_wright.md) | [2020-02-25](2020-02-25.md) | 50+ | 4.39 | 🥈 | [Link](https://www.facebook.com/events/2972213492840148/permalink/2980258662035631/) |
 | 9 | [Daniel Smith](../../persons/daniel_smith.md) | [2020-05-12](2020-05-12.md) | 50+ | 4.70 | ⚡ | [Link](https://www.facebook.com/events/546188069600739/permalink/549592292593650/) |
 | 10 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | [2020-02-11](2020-02-11.md) | 40+ | 4.73 | 🥉 | |
-| 11 | [Jan Adams-Fielding](../../persons/jan_adams-fielding.md) | [2020-02-25](2020-02-25.md) | 40+ | 4.76 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2982607318467432/) |
+| 11 | [Jan Adams-Fielding](../../persons/jan_adams_fielding.md) | [2020-02-25](2020-02-25.md) | 40+ | 4.76 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2982607318467432/) |
 | 12 | [Lisa Kucala](../../persons/lisa_kucala.md) | [2020-05-26](2020-05-26.md) | 50+ | 4.92 | 🥉 ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/691370505026501/) |
 | 13 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan.md) | [2020-06-16](2020-06-16.md) | 40+ | 5.76 | 🥉 | [Link](https://www.facebook.com/events/604103587178706/permalink/604854257103639/) |
 | 14 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | [2020-06-16](2020-06-16.md) | 40+ | 5.86 |  | [Link](https://www.facebook.com/events/604103587178706/permalink/605594297029635/) |
@@ -54,7 +54,7 @@
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Phil Yu](../../persons/phil_yu.md) | [2020-06-09](2020-06-09.md) | <40 | 2.87 | 🏆 | [Link](https://www.facebook.com/events/903549840109576/permalink/904458400018720/) |
 | 2 | [Ed Connell](../../persons/ed_connell.md) | [2020-06-02](2020-06-02.md) | <40 | 3.39 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381586012066522/) |
-| 3 | [Go-ho Choi](../../persons/go-ho_choi.md) | [2020-02-11](2020-02-11.md) | <40 | 3.50 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/178287783464631/) |
+| 3 | [Go-ho Choi](../../persons/go_ho_choi.md) | [2020-02-11](2020-02-11.md) | <40 | 3.50 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/178287783464631/) |
 | 4 | [Adam Robson](../../persons/adam_robson.md) | [2020-02-25](2020-02-25.md) | <40 | 3.91 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2979462932115204/) |
 | 5 | [Chris Thames](../../persons/chris_thames.md) | [2020-06-02](2020-06-02.md) | <40 | 4.11 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3377868829104907/) |
 | 6 | [Shawn Boucké](../../persons/shawn_boucke.md) | [2020-02-25](2020-02-25.md) | <40 | 4.34 | 🏆 | [Link](https://www.facebook.com/events/2972213492840148/permalink/2975010722560425/) |

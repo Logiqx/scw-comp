@@ -41,7 +41,7 @@
 | 15 | [Markus Niederöst](../../persons/markus_niederost.md) | [2020-06-16](2020-06-16.md) | 50+ | 9.63 |  | [Link](https://www.facebook.com/events/604103587178706/permalink/608554836733581/) |
 | 16 | [Jang Junho (장준호)](../../persons/jang_junho.md) | [2020-04-21](2020-04-21.md) | 40+ | 10.40 | 🔥 ⚡ | [Link](https://www.facebook.com/events/880278499062375/permalink/884489028641322/) |
 | 17 | [Peter Douthwright](../../persons/peter_douthwright.md) | [2020-03-31](2020-03-31.md) | 50+ | 10.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/637372103486119/permalink/641080066448656/) |
-| 18 | [Jan Adams-Fielding](../../persons/jan_adams-fielding.md) | [2020-02-25](2020-02-25.md) | 40+ | 10.94 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2982607318467432/) |
+| 18 | [Jan Adams-Fielding](../../persons/jan_adams_fielding.md) | [2020-02-25](2020-02-25.md) | 40+ | 10.94 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2982607318467432/) |
 | 19 | [Stuart Salmon](../../persons/stuart_salmon.md) | [2020-02-11](2020-02-11.md) | 40+ | 12.10 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/181182663175143/) |
 | 20 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | [2020-06-16](2020-06-16.md) | 40+ | 12.64 |  | [Link](https://www.facebook.com/events/604103587178706/permalink/605594297029635/) |
 | 21 | [Jo Cocco](../../persons/jo_cocco.md) | [2020-02-25](2020-02-25.md) | 40+ | 14.11 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2981767918551372/) |
@@ -53,7 +53,7 @@
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Phil Yu](../../persons/phil_yu.md) | [2020-06-09](2020-06-09.md) | <40 | 4.25 | 🏆 | [Link](https://www.facebook.com/events/903549840109576/permalink/904458400018720/) |
-| 2 | [Go-ho Choi](../../persons/go-ho_choi.md) | [2020-02-11](2020-02-11.md) | <40 | 4.50 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/178287783464631/) |
+| 2 | [Go-ho Choi](../../persons/go_ho_choi.md) | [2020-02-11](2020-02-11.md) | <40 | 4.50 |  | [Link](https://www.facebook.com/events/176704156956327/permalink/178287783464631/) |
 | 3 | [Shawn Boucké](../../persons/shawn_boucke.md) | [2020-02-25](2020-02-25.md) | <40 | 4.55 | 🏆 | [Link](https://www.facebook.com/events/2972213492840148/permalink/2975010722560425/) |
 | 4 | [Ed Connell](../../persons/ed_connell.md) | [2020-06-02](2020-06-02.md) | <40 | 5.91 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381586012066522/) |
 | 5 | [Adam Robson](../../persons/adam_robson.md) | [2020-02-25](2020-02-25.md) | <40 | 6.87 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2979462932115204/) |

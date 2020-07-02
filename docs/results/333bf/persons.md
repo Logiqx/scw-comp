@@ -31,7 +31,7 @@
 | -- | :--: | --: | --: |
 | [Brooke Persoon](../../persons/brooke_persoon.md) | <40 | 18:05.78 | DNF |
 | [Chris Hardwick](../../persons/chris_hardwick.md) | <40 | 1:47.08 | 2:13.74 |
-| [Go-ho Choi](../../persons/go-ho_choi.md) | <40 | 2:22.99 | DNF |
+| [Go-ho Choi](../../persons/go_ho_choi.md) | <40 | 2:22.99 | DNF |
 
 #### Under 30
 

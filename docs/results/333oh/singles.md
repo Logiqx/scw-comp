@@ -34,7 +34,7 @@
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Phil Yu](../../persons/phil_yu.md) | [2020-06-09](2020-06-09.md) | <40 | 13.60 | 🏆 | [Link](https://www.facebook.com/events/903549840109576/permalink/904463093351584/) |
 | 2 | [Alex Friedman](../../persons/alex_friedman.md) | [2020-05-19](2020-05-19.md) | <40 | 21.43 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1880761498725633/permalink/1881033222031794/) |
-| 3 | [Go-ho Choi](../../persons/go-ho_choi.md) | [2020-02-18](2020-02-18.md) | <40 | 22.13 | 🏆 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618631721610451/) |
+| 3 | [Go-ho Choi](../../persons/go_ho_choi.md) | [2020-02-18](2020-02-18.md) | <40 | 22.13 | 🏆 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618631721610451/) |
 | 4 | [Ed Connell](../../persons/ed_connell.md) | [2020-04-07](2020-04-07.md) | <40 | 22.50 |  | [Link](https://www.facebook.com/events/682716079141575/permalink/684177285662121/) |
 | 5 | [Shawn Boucké](../../persons/shawn_boucke.md) | [2020-02-18](2020-02-18.md) | <40 | 24.65 |  | [Link](https://www.facebook.com/events/1618332754973681/permalink/1621909717949318/) |
 | 6 | [Jamie Brady (Deansie)](../../persons/jamie_brady.md) | [2020-06-23](2020-06-23.md) | <40 | 30.75 | 🔥 ⚡ | [Link](https://www.facebook.com/events/722150235200875/permalink/725813714834527/) |

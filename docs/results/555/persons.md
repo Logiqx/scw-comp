@@ -31,7 +31,7 @@
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | 40+ | 2:37.21 | 2:48.50 |
 | [Jae Park](../../persons/jae_park.md) | 40+ | 5:07.36 | 5:55.66 |
 | [Jeremy Duehring](../../persons/jeremy_duehring.md) | 40+ | 2:17.14 | 2:31.20 |
-| [Joshua M. Woodward](../../persons/joshua_m._woodward.md) | 40+ | 4:06.17 | 4:17.14 |
+| [Joshua M. Woodward](../../persons/joshua_m_woodward.md) | 40+ | 4:06.17 | 4:17.14 |
 | [Michael George](../../persons/michael_george.md) | 40+ | 1:54.40 | 2:02.27 |
 | [Peter Douthwright](../../persons/peter_douthwright.md) | 50+ | 5:50.00 | DNF |
 | [Raúl Morales](../../persons/raul_morales.md) | 40+ | 2:17.13 | 2:27.99 |
@@ -44,7 +44,7 @@
 | [Chris Hardwick](../../persons/chris_hardwick.md) | <40 | 2:09.49 | 2:19.32 |
 | [Chris Thames](../../persons/chris_thames.md) | <40 | 4:59.21 | DNF |
 | [Ed Connell](../../persons/ed_connell.md) | <40 | 2:18.73 | 2:26.48 |
-| [Go-ho Choi](../../persons/go-ho_choi.md) | <40 | 1:16.98 | 1:30.42 |
+| [Go-ho Choi](../../persons/go_ho_choi.md) | <40 | 1:16.98 | 1:30.42 |
 | [Pete Lee](../../persons/pete_lee.md) | <40 | 2:01.03 | 2:27.42 |
 | [Peter Osudar](../../persons/peter_osudar.md) | <40 | 2:35.63 | 2:41.55 |
 

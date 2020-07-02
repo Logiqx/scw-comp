@@ -35,7 +35,7 @@
 | [Alex Friedman](../../persons/alex_friedman.md) | <40 | 21.43 | 23.83 |
 | [Chris Thames](../../persons/chris_thames.md) | <40 | 1:37.29 | 1:47.71 |
 | [Ed Connell](../../persons/ed_connell.md) | <40 | 22.50 | 34.04 |
-| [Go-ho Choi](../../persons/go-ho_choi.md) | <40 | 22.13 | 24.49 |
+| [Go-ho Choi](../../persons/go_ho_choi.md) | <40 | 22.13 | 24.49 |
 | [Jamie Brady (Deansie)](../../persons/jamie_brady.md) | <40 | 30.75 | 34.85 |
 | [Pete Lee](../../persons/pete_lee.md) | <40 | 39.61 | 47.46 |
 | [Phil Yu](../../persons/phil_yu.md) | <40 | 13.60 | 14.64 |

@@ -34,7 +34,7 @@
 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 5.86 | 12.64 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | 40+ | 4.73 | 5.86 |
 | [Jae Park](../../persons/jae_park.md) | 40+ | 12.95 | 19.45 |
-| [Jan Adams-Fielding](../../persons/jan_adams-fielding.md) | 40+ | 4.76 | 10.94 |
+| [Jan Adams-Fielding](../../persons/jan_adams_fielding.md) | 40+ | 4.76 | 10.94 |
 | [Jang Junho (장준호)](../../persons/jang_junho.md) | 40+ | 9.01 | 10.40 |
 | [Jeremy Duehring](../../persons/jeremy_duehring.md) | 40+ | 3.44 | 6.08 |
 | [Jo Cocco](../../persons/jo_cocco.md) | 40+ | 10.83 | 14.11 |
@@ -56,7 +56,7 @@
 | [Brooke Persoon](../../persons/brooke_persoon.md) | <40 | 10.73 | 13.95 |
 | [Chris Thames](../../persons/chris_thames.md) | <40 | 4.11 | 10.38 |
 | [Ed Connell](../../persons/ed_connell.md) | <40 | 3.39 | 5.91 |
-| [Go-ho Choi](../../persons/go-ho_choi.md) | <40 | 3.50 | 4.50 |
+| [Go-ho Choi](../../persons/go_ho_choi.md) | <40 | 3.50 | 4.50 |
 | [Pete Lee](../../persons/pete_lee.md) | <40 | 4.68 | 7.23 |
 | [Phil Yu](../../persons/phil_yu.md) | <40 | 2.87 | 4.25 |
 | [Shawn Boucké](../../persons/shawn_boucke.md) | <40 | 4.34 | 4.55 |

@@ -30,7 +30,7 @@
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Chris Hardwick](../../persons/chris_hardwick.md) | [2020-06-16](2020-06-16.md) | <40 | 1:47.08 | 🔥 ⚡ | [Link](https://www.facebook.com/events/208176410240808/permalink/210547000003749/) |
-| 2 | [Go-ho Choi](../../persons/go-ho_choi.md) | [2020-02-11](2020-02-11.md) | <40 | 2:22.99 |  | |
+| 2 | [Go-ho Choi](../../persons/go_ho_choi.md) | [2020-02-11](2020-02-11.md) | <40 | 2:22.99 |  | |
 | 3 | [Brooke Persoon](../../persons/brooke_persoon.md) | [2020-03-03](2020-03-03.md) | <40 | 18:05.78 |  | [Link](https://www.facebook.com/events/186820176097844/permalink/191609515618910/) |
 
 #### Under 30

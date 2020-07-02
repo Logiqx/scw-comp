@@ -39,14 +39,14 @@
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | 40+ | 13.37 | 14.77 |
 | [Huy Nguyen](../../persons/huy_nguyen.md) | 40+ | 17.19 | 20.72 |
 | [Jae Park](../../persons/jae_park.md) | 40+ | 17.58 | 22.30 |
-| [Jan Adams-Fielding](../../persons/jan_adams-fielding.md) | 40+ | 24.76 | 27.24 |
+| [Jan Adams-Fielding](../../persons/jan_adams_fielding.md) | 40+ | 24.76 | 27.24 |
 | [Jang Junho (장준호)](../../persons/jang_junho.md) | 40+ | 20.33 | 25.66 |
 | [Jason Green](../../persons/jason_green.md) | 40+ | 17.22 | 18.51 |
 | [Jean van den Bergh](../../persons/jean_van_den_bergh.md) | 40+ | 38.55 | 40.85 |
 | [Jeremy Duehring](../../persons/jeremy_duehring.md) | 40+ | 14.22 | 16.26 |
 | [Jo Cocco](../../persons/jo_cocco.md) | 40+ | 37.21 | 46.19 |
 | [Joffie Berkowitz](../../persons/joffie_berkowitz.md) | 50+ | 25.79 | 28.76 |
-| [Joshua M. Woodward](../../persons/joshua_m._woodward.md) | 40+ | 38.26 | 40.14 |
+| [Joshua M. Woodward](../../persons/joshua_m_woodward.md) | 40+ | 38.26 | 40.14 |
 | [Kerrie Jarman](../../persons/kerrie_jarman.md) | 40+ | 47.24 | 53.32 |
 | [Lisa Kucala](../../persons/lisa_kucala.md) | 50+ | 25.22 | 27.36 |
 | [Marcel Balzer](../../persons/marcel_balzer.md) | 40+ | 38.14 | 56.04 |
@@ -75,7 +75,7 @@
 | [Chris Hardwick](../../persons/chris_hardwick.md) | <40 | 12.00 | 13.26 |
 | [Chris Thames](../../persons/chris_thames.md) | <40 | 26.69 | 31.20 |
 | [Ed Connell](../../persons/ed_connell.md) | <40 | 14.29 | 15.82 |
-| [Go-ho Choi](../../persons/go-ho_choi.md) | <40 | 11.23 | 12.74 |
+| [Go-ho Choi](../../persons/go_ho_choi.md) | <40 | 11.23 | 12.74 |
 | [Isak Majer](../../persons/isak_majer.md) | <40 | 16.05 | 18.84 |
 | [Jamie Brady (Deansie)](../../persons/jamie_brady.md) | <40 | 21.03 | 24.65 |
 | [Matthew Hart](../../persons/matthew_hart.md) | <40 | 22.72 | 24.96 |
