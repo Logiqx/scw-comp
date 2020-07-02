@@ -5,21 +5,21 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Daniel Smith](../../persons/daniel_smith.md) | [2020-05-05](2020-05-05.md) | 50+ | 5:54.57 | 🥈 | [Link](https://www.facebook.com/events/557526585195168/permalink/562187611395732/) |
+| 1 | [Daniel Smith](../../persons/daniel_smith.md) | [2020-05-05](2020-05-05.md) | 50+ | 5:54.57 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/557526585195168/permalink/562187611395732/) |
 
 #### Over 40
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | [2020-05-05](2020-05-05.md) | 40+ | 3:36.18 | 🏆 🥇 | [Link](https://www.facebook.com/events/557526585195168/permalink/558595331754960/) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | [2020-05-05](2020-05-05.md) | 40+ | 3:36.18 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/557526585195168/permalink/558595331754960/) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | [2020-06-16](2020-06-16.md) | 40+ | 3:54.60 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/257143898845691/) |
-| 3 | [Daniel Smith](../../persons/daniel_smith.md) | [2020-05-05](2020-05-05.md) | 50+ | 5:54.57 | 🥈 | [Link](https://www.facebook.com/events/557526585195168/permalink/562187611395732/) |
+| 3 | [Daniel Smith](../../persons/daniel_smith.md) | [2020-05-05](2020-05-05.md) | 50+ | 5:54.57 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/557526585195168/permalink/562187611395732/) |
 
 #### Under 40
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Peter Osudar](../../persons/peter_osudar.md) | [2020-06-23](2020-06-23.md) | <40 | 4:43.10 |  | [Link](https://www.facebook.com/events/268636114456043/permalink/276193687033619/) |
+| 1 | [Peter Osudar](../../persons/peter_osudar.md) | [2020-06-23](2020-06-23.md) | <40 | 4:43.10 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276193687033619/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

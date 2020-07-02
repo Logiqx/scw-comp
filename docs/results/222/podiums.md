@@ -14,7 +14,7 @@
 | :--: | -- | :--: | --: | --: | :--: | -- |
 | 1 | [Michael George](../../persons/michael_george.md) | 40+ | 4.21 | 5.84 | 🏆 🥇 | [Link](https://www.facebook.com/events/604103587178706/permalink/604280157161049/) |
 | 2 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 4.96 | 6.35 | 🥈 🔥 | [Link](https://www.facebook.com/events/604103587178706/permalink/606533430269055/) |
-| 3 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan.md) | 40+ | 5.76 | 6.57 | 🥉 | [Link](https://www.facebook.com/events/604103587178706/permalink/604854257103639/) |
+| 3 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan.md) | 40+ | 5.76 | 6.57 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/604103587178706/permalink/604854257103639/) |
 
 #### [2020-06-09](2020-06-09.md)
 
@@ -94,7 +94,7 @@
 | :--: | -- | :--: | --: | --: | :--: | -- |
 | 1 | [Michael George](../../persons/michael_george.md) | 40+ | 4.29 | 4.76 | 🏆 🥇 🔥 | [Link](https://www.facebook.com/events/637372103486119/permalink/637382556818407/) |
 | 2 | [Jeremy Duehring](../../persons/jeremy_duehring.md) | 40+ | 4.98 | 6.10 | 🥈 🔥 | [Link](https://www.facebook.com/events/637372103486119/permalink/638302930059703/) |
-| 3 | [Ciro Vignotto](../../persons/ciro_vignotto.md) | 50+ | 6.35 | 7.34 | 🥉 | [Link](https://www.facebook.com/events/637372103486119/permalink/637582320131764/) |
+| 3 | [Ciro Vignotto](../../persons/ciro_vignotto.md) | 50+ | 6.35 | 7.34 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/637372103486119/permalink/637582320131764/) |
 
 #### [2020-03-10](2020-03-10.md)
 
@@ -109,16 +109,16 @@
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
 | 1 | [Michael George](../../persons/michael_george.md) | 40+ | 3.35 | 5.08 | 🥇 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2972679519460212/) |
-| 2 | [Chris Wright](../../persons/chris_wright.md) | 50+ | 4.39 | 5.17 | 🥈 | [Link](https://www.facebook.com/events/2972213492840148/permalink/2980258662035631/) |
-| 3 | [Yoann Lecoeur](../../persons/yoann_lecoeur.md) | 40+ | 3.53 | 5.83 | 🥉 | [Link](https://www.facebook.com/events/2972213492840148/permalink/2982133431848154/) |
+| 2 | [Chris Wright](../../persons/chris_wright.md) | 50+ | 4.39 | 5.17 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2980258662035631/) |
+| 3 | [Yoann Lecoeur](../../persons/yoann_lecoeur.md) | 40+ | 3.53 | 5.83 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2982133431848154/) |
 
 #### [2020-02-11](2020-02-11.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 4.59 | 4.93 | 🥇 | [Link](https://www.facebook.com/events/176704156956327/permalink/178424350117641/) |
-| 2 | [Jeremy Duehring](../../persons/jeremy_duehring.md) | 40+ | 5.21 | 6.30 | 🥈 | [Link](https://www.facebook.com/events/176704156956327/permalink/177381356888607/) |
-| 3 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | 40+ | 4.73 | 6.45 | 🥉 | |
+| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 4.59 | 4.93 | 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/176704156956327/permalink/178424350117641/) |
+| 2 | [Jeremy Duehring](../../persons/jeremy_duehring.md) | 40+ | 5.21 | 6.30 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/176704156956327/permalink/177381356888607/) |
+| 3 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | 40+ | 4.73 | 6.45 | 🥉 🔥 ⚡ | |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

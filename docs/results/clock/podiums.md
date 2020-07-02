@@ -11,8 +11,8 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 14.32 | 17.07 | 🏆 🥇 | [Link](https://www.facebook.com/events/296087658445428/permalink/298845524836308/) |
-| 2 | [Lisa Kucala](../../persons/lisa_kucala.md) | 50+ | 22.23 | 24.83 | 🥈 | [Link](https://www.facebook.com/events/296087658445428/permalink/300271461360381/) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 14.32 | 17.07 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/298845524836308/) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala.md) | 50+ | 22.23 | 24.83 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/300271461360381/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

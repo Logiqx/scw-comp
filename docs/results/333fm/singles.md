@@ -14,7 +14,7 @@
 | 1 | [David Roche](../../persons/david_roche.md) | [2020-03-17](2020-03-17.md) | 50+ | 21 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/210706923625115/permalink/211706620191812/) |
 | | [Александр Гилка](../../persons/александр_гилка.md) | [2020-03-24](2020-03-24.md) | 50+ | 21 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/500266387310754/permalink/500800967257296/) |
 | 3 | [Mark Rivers](../../persons/mark_rivers.md) | [2020-06-23](2020-06-23.md) | 50+ | 33 | 🥉 ⚡ | [Link](https://www.facebook.com/events/284763775909443/permalink/288504812202006/) |
-| 4 | [Ciro Vignotto](../../persons/ciro_vignotto.md) | [2020-04-07](2020-04-07.md) | 50+ | 43 |  | [Link](https://www.facebook.com/events/253518435802861/permalink/253716005783104/) |
+| 4 | [Ciro Vignotto](../../persons/ciro_vignotto.md) | [2020-04-07](2020-04-07.md) | 50+ | 43 | ⚡ | [Link](https://www.facebook.com/events/253518435802861/permalink/253716005783104/) |
 | | [Donna Leiber](../../persons/donna_leiber.md) | [2020-06-09](2020-06-09.md) | 60+ | 43 | ⚡ | [Link](https://www.facebook.com/events/855783411578420/permalink/859012521255509/) |
 | 6 | [John Cook](../../persons/john_cook.md) | [2020-02-25](2020-02-25.md) | 50+ | 45 | 🥉 ⚡ | [Link](https://www.facebook.com/events/215751886207638/permalink/217422122707281/) |
 
@@ -29,7 +29,7 @@
 | 5 | [Michael George](../../persons/michael_george.md) | [2020-05-19](2020-05-19.md) | 40+ | 31 | 🥇 ⚡ | [Link](https://www.facebook.com/events/568280284126471/permalink/569029154051584/) |
 | 6 | [Mark Rivers](../../persons/mark_rivers.md) | [2020-06-23](2020-06-23.md) | 50+ | 33 | 🥉 ⚡ | [Link](https://www.facebook.com/events/284763775909443/permalink/288504812202006/) |
 | 7 | [Andy Nicholls](../../persons/andy_nicholls.md) | [2020-05-12](2020-05-12.md) | 40+ | 36 | 🥉 ⚡ | [Link](https://www.facebook.com/events/2563130363933815/permalink/2563245993922252/) |
-| 8 | [Ciro Vignotto](../../persons/ciro_vignotto.md) | [2020-04-07](2020-04-07.md) | 50+ | 43 |  | [Link](https://www.facebook.com/events/253518435802861/permalink/253716005783104/) |
+| 8 | [Ciro Vignotto](../../persons/ciro_vignotto.md) | [2020-04-07](2020-04-07.md) | 50+ | 43 | ⚡ | [Link](https://www.facebook.com/events/253518435802861/permalink/253716005783104/) |
 | | [Donna Leiber](../../persons/donna_leiber.md) | [2020-06-09](2020-06-09.md) | 60+ | 43 | ⚡ | [Link](https://www.facebook.com/events/855783411578420/permalink/859012521255509/) |
 | 10 | [John Cook](../../persons/john_cook.md) | [2020-02-25](2020-02-25.md) | 50+ | 45 | 🥉 ⚡ | [Link](https://www.facebook.com/events/215751886207638/permalink/217422122707281/) |
 
@@ -40,8 +40,8 @@
 | 1 | [Shawn Boucké](../../persons/shawn_boucke.md) | [2020-04-21](2020-04-21.md) | <40 | 24 | 🏆 ⚡ | [Link](https://www.facebook.com/events/573932290186676/permalink/574620073451231/) |
 | 2 | [Adam Robson](../../persons/adam_robson.md) | [2020-06-02](2020-06-02.md) | <40 | 26 | ⚡ | [Link](https://www.facebook.com/events/3920457157996941/permalink/3937885802920743/) |
 | 3 | [Ed Connell](../../persons/ed_connell.md) | [2020-06-09](2020-06-09.md) | <40 | 29 | ⚡ | [Link](https://www.facebook.com/events/855783411578420/permalink/856819448141483/) |
-| 4 | [Go-ho Choi](../../persons/go_ho_choi.md) | [2020-02-25](2020-02-25.md) | <40 | 41 |  | [Link](https://www.facebook.com/events/215751886207638/permalink/216681586114668/) |
-| 5 | [Brooke Persoon](../../persons/brooke_persoon.md) | [2020-02-11](2020-02-11.md) | <40 | 42 |  | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
+| 4 | [Go-ho Choi](../../persons/go_ho_choi.md) | [2020-02-25](2020-02-25.md) | <40 | 41 | ⚡ | [Link](https://www.facebook.com/events/215751886207638/permalink/216681586114668/) |
+| 5 | [Brooke Persoon](../../persons/brooke_persoon.md) | [2020-02-11](2020-02-11.md) | <40 | 42 | ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2138923996253506/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

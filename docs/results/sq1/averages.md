@@ -5,15 +5,15 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Daniel Smith](../../persons/daniel_smith.md) | [2020-06-16](2020-06-16.md) | 50+ | 29.69 | 🏆 🥇 | [Link](https://www.facebook.com/events/296087658445428/permalink/301316697922524/) |
+| 1 | [Daniel Smith](../../persons/daniel_smith.md) | [2020-06-16](2020-06-16.md) | 50+ | 29.69 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/301316697922524/) |
 
 #### Over 40
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Daniel Smith](../../persons/daniel_smith.md) | [2020-06-16](2020-06-16.md) | 50+ | 29.69 | 🏆 🥇 | [Link](https://www.facebook.com/events/296087658445428/permalink/301316697922524/) |
-| 2 | [Andy Nicholls](../../persons/andy_nicholls.md) | [2020-06-16](2020-06-16.md) | 40+ | 50.55 | 🥈 | [Link](https://www.facebook.com/events/296087658445428/permalink/298844614836399/) |
-| 3 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan.md) | [2020-06-16](2020-06-16.md) | 40+ | 56.18 | 🥉 | [Link](https://www.facebook.com/events/296087658445428/permalink/298743144846546/) |
+| 1 | [Daniel Smith](../../persons/daniel_smith.md) | [2020-06-16](2020-06-16.md) | 50+ | 29.69 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/301316697922524/) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls.md) | [2020-06-16](2020-06-16.md) | 40+ | 50.55 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/298844614836399/) |
+| 3 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan.md) | [2020-06-16](2020-06-16.md) | 40+ | 56.18 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/298743144846546/) |
 
 #### Under 40
 
