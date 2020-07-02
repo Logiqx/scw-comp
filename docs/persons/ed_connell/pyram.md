@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Ed Connell - Pyraminx - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=pyram)
+### [Ed Connell](../ed_connell.md) - Pyraminx - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=pyram)
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

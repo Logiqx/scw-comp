@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Joshua Riegel - Skewb - [2019RIEG02](https://www.worldcubeassociation.org/persons/2019RIEG02?event=skewb)
+### [Joshua Riegel](../joshua_riegel.md) - Skewb - [2019RIEG02](https://www.worldcubeassociation.org/persons/2019RIEG02?event=skewb)
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Dylan Cossin - Skewb - [2016COSS01](https://www.worldcubeassociation.org/persons/2016COSS01?event=skewb)
+### [Dylan Cossin](../dylan_cossin.md) - Skewb - [2016COSS01](https://www.worldcubeassociation.org/persons/2016COSS01?event=skewb)
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

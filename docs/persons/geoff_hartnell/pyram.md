@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Geoff Hartnell - Pyraminx - [2017HART06](https://www.worldcubeassociation.org/persons/2017HART06?event=pyram)
+### [Geoff Hartnell](../geoff_hartnell.md) - Pyraminx - [2017HART06](https://www.worldcubeassociation.org/persons/2017HART06?event=pyram)
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

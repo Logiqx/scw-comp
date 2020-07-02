@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Donna Leiber - Megaminx
+### [Donna Leiber](../donna_leiber.md) - Megaminx
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

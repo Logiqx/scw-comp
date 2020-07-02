@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Lisa Kucala - Pyraminx - [2019KUCA01](https://www.worldcubeassociation.org/persons/2019KUCA01?event=pyram)
+### [Lisa Kucala](../lisa_kucala.md) - Pyraminx - [2019KUCA01](https://www.worldcubeassociation.org/persons/2019KUCA01?event=pyram)
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

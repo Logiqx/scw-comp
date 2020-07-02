@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Jo Cocco - Megaminx
+### [Jo Cocco](../jo_cocco.md) - Megaminx
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
