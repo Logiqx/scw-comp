@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Joffie Berkowitz - [2016BERK01](https://www.worldcubeassociation.org/persons/2016BERK01)
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](joffie_berkowitz/333.md) | 25.79 | 28.76 |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

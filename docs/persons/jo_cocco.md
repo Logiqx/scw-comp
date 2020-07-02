@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jo Cocco
 
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](jo_cocco/333.md) | 37.21 | 46.19 |  |

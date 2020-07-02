@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### [Lisa Kucala](../lisa_kucala.md) - Pyraminx - [2019KUCA01](https://www.worldcubeassociation.org/persons/2019KUCA01?event=pyram)
 
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single
+
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-06-23](../../results/pyram/2020-06-23.md) | 50+ | 12.39 | **14.79** | 🥉 🔥 | 13.70 | 19.42 | 17.20 | 12.39 | 13.48 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624302671057560/) |

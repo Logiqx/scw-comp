@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Peter Andersson
 
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](peter_andersson/333.md) | 20.85 | 24.84 |  |

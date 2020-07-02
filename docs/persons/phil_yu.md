@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Phil Yu - [2010YUPH01](https://www.worldcubeassociation.org/persons/2010YUPH01)
 
+🏆 = overall winner
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](phil_yu/333.md) | 8.12 | 9.64 | 🏆 x 1 |

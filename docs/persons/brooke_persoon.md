@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Brooke Persoon
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](brooke_persoon/333.md) | 39.40 | 47.49 |  |
 | [2x2x2](brooke_persoon/222.md) | 10.73 | 13.95 |  |
 | [3x3x3 BLD](brooke_persoon/333bf.md) | 18:05.78 | - |  |

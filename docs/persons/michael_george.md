@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Michael George - [2015GEOR02](https://www.worldcubeassociation.org/persons/2015GEOR02)
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](michael_george/333.md) | 11.64 | 13.67 | 🏆 x 5, 🥇 x 17, 🥈 x 4 |

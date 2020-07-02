@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Vani Muthukrishnan - [2016MUTH05](https://www.worldcubeassociation.org/persons/2016MUTH05)
 
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](vani_muthukrishnan/333.md) | 21.40 | 22.41 |  |

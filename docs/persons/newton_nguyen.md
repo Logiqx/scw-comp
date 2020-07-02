@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Newton Nguyen - [2019NGUY30](https://www.worldcubeassociation.org/persons/2019NGUY30)
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](newton_nguyen/333.md) | 14.46 | 18.10 |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### [Andy Nicholls](../andy_nicholls.md) - Clock - [2015NICH04](https://www.worldcubeassociation.org/persons/2015NICH04?event=clock)
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single
+
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-06-23](../../results/clock/2020-06-23.md) | 40+ | **12.02** | DNF | 🥈 💥 ⚡ | 14.27 | DNF | DNF | **12.02** | 12.86 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624284247726069/) |

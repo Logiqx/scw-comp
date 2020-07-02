@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Ciro Vignotto
 
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](ciro_vignotto/333.md) | 14.59 | 18.05 | 🥉 x 3 |

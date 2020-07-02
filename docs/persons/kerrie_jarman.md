@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Kerrie Jarman
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](kerrie_jarman/333.md) | 47.24 | 53.32 |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

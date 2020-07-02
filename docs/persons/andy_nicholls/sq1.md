@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### [Andy Nicholls](../andy_nicholls.md) - Square-1 - [2015NICH04](https://www.worldcubeassociation.org/persons/2015NICH04?event=sq1)
 
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single
+
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-06-23](../../results/sq1/2020-06-23.md) | 40+ | **31.85** | 51.45 | 🥈 ⚡ | 50.08 | **31.85** | 50.34 | 53.94 | 1:31.86 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624283784392782/) |

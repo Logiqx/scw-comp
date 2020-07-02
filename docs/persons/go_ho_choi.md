@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Go-ho Choi
 
+🏆 = overall winner
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](go_ho_choi/333.md) | 11.23 | 12.74 | 🏆 x 3 |

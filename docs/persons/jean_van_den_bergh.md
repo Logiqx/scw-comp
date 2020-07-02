@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jean van den Bergh
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](jean_van_den_bergh/333.md) | 38.55 | 40.85 |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

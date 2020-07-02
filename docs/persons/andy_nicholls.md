@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Andy Nicholls - [2015NICH04](https://www.worldcubeassociation.org/persons/2015NICH04)
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](andy_nicholls/333.md) | 14.08 | 17.00 | 🥈 x 2, 🥉 x 4 |

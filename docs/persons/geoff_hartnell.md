@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Geoff Hartnell - [2017HART06](https://www.worldcubeassociation.org/persons/2017HART06)
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](geoff_hartnell/333.md) | 14.77 | 17.54 | 🥈 x 2, 🥉 x 5 |

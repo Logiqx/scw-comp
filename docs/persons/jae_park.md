@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jae Park - [2015PARK24](https://www.worldcubeassociation.org/persons/2015PARK24)
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](jae_park/333.md) | 17.58 | 22.30 |  |

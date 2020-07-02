@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Mark Rivers - [2015RIVE05](https://www.worldcubeassociation.org/persons/2015RIVE05)
 
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3 FMC](mark_rivers/333fm.md) | 33 | - | 🥈 x 1, 🥉 x 2 |

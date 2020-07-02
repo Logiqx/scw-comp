@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Will Lambert
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](will_lambert/333.md) | 9.74 | 11.51 |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

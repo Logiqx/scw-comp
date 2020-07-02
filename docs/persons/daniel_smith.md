@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Daniel Smith - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42)
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](daniel_smith/333.md) | 20.99 | 27.32 |  |

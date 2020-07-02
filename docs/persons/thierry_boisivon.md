@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Thierry Boisivon - [2011BOIS01](https://www.worldcubeassociation.org/persons/2011BOIS01)
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](thierry_boisivon/333.md) | 14.08 | 16.63 | 🥈 x 1, 🥉 x 4 |

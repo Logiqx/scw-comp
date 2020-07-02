@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Chris Hardwick - [2003HARD01](https://www.worldcubeassociation.org/persons/2003HARD01)
 
+🏆 = overall winner
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](chris_hardwick/333.md) | 12.00 | 13.26 | 🏆 x 1 |

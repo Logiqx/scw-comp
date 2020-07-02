@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Pontus Uggla
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](pontus_uggla/333.md) | 18.25 | 20.09 |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

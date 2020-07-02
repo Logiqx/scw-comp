@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4x4x4 Blindfolded Averages
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record 🔥 = PR average ⚡ = PR single
+
 #### Under 40
 
 | # | Name | Date | Age | Average | Awards | Video |

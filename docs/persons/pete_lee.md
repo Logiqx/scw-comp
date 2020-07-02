@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Pete Lee - [2018LEEP04](https://www.worldcubeassociation.org/persons/2018LEEP04)
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](pete_lee/333.md) | 15.42 | 19.11 |  |
 | [2x2x2](pete_lee/222.md) | 4.68 | 7.23 |  |
 | [4x4x4](pete_lee/444.md) | 54.90 | 1:04.39 |  |

@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Lisa Kucala - [2019KUCA01](https://www.worldcubeassociation.org/persons/2019KUCA01)
 
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](lisa_kucala/333.md) | 25.22 | 27.36 |  |

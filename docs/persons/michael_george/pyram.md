@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### [Michael George](../michael_george.md) - Pyraminx - [2015GEOR02](https://www.worldcubeassociation.org/persons/2015GEOR02?event=pyram)
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single
+
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-06-23](../../results/pyram/2020-06-23.md) | 40+ | **4.50** | **6.03** | 🥇 💥 🔥 ⚡ | 4.71 | 13.70 | 8.60 | 4.78 | **4.50** | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623347121153115/) |

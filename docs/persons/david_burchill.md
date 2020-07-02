@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### David Burchill
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](david_burchill/333.md) | 28.50 | 34.84 |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

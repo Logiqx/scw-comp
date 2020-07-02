@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Ben Coppin - [2013COPP01](https://www.worldcubeassociation.org/persons/2013COPP01)
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3 FMC](ben_coppin/333fm.md) | 25 | - | 🏆 x 1, 🥇 x 1, 🥈 x 3, 🥉 x 2 |

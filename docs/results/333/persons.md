@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Competitors
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 #### Over 60
 
 | Name | Age | Single | Average | Medals |

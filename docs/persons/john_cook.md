@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### John Cook
 
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3 FMC](john_cook/333fm.md) | 45 | - | 🥉 x 2 |

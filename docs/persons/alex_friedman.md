@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Alex Friedman - [2016FRIE06](https://www.worldcubeassociation.org/persons/2016FRIE06)
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](alex_friedman/333.md) | 15.47 | 18.36 |  |
 | [3x3x3 OH](alex_friedman/333oh.md) | 21.43 | 23.83 |  |
 

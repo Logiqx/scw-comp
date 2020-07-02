@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### David Roche
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3 FMC](david_roche/333fm.md) | 21 | - | 🏆 x 1, 🥇 x 3, 🥈 x 5, 🥉 x 4 |

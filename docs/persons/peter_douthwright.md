@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Peter Douthwright
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](peter_douthwright/333.md) | 31.12 | 35.24 |  |
 | [2x2x2](peter_douthwright/222.md) | 6.53 | 10.79 |  |
 | [4x4x4](peter_douthwright/444.md) | 2:20.53 | 2:42.21 |  |

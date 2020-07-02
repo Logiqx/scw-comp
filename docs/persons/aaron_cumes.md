@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Aaron Cumes - [2018CUME02](https://www.worldcubeassociation.org/persons/2018CUME02)
 
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](aaron_cumes/333.md) | 15.39 | 19.03 |  |

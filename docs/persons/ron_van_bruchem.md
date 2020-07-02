@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Ron van Bruchem
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [4x4x4](ron_van_bruchem/444.md) | 46.32 | 49.81 | 🏆 x 1, 🥇 x 1 |

@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### [Chris Thames](../chris_thames.md) - Megaminx - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05?event=minx)
 
+🔥 = PR average, ⚡ = PR single
+
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-06-09](../../results/minx/2020-06-09.md) | <40 | 6:18.01 | DNF |  | 6:18.01 | DNS | DNS | DNS | DNS | [Link](https://www.facebook.com/events/903549840109576/permalink/906720483125845/) |

@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### [Ed Connell](../ed_connell.md) - Clock - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=clock)
 
+🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single
+
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-06-23](../../results/clock/2020-06-23.md) | <40 | **16.70** | **18.69** | 🏆 💥 🔥 ⚡ | **16.70** | 29.37 | 17.60 | 20.58 | 17.88 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1621527954668365/) |

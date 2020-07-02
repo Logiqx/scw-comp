@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Chris Wright - [2011WRIG01](https://www.worldcubeassociation.org/persons/2011WRIG01)
 
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](chris_wright/333.md) | 10.58 | 13.94 | 🥇 x 5, 🥈 x 3 |

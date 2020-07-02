@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Joshua Riegel - [2019RIEG02](https://www.worldcubeassociation.org/persons/2019RIEG02)
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](joshua_riegel/333.md) | 25.53 | 29.09 |  |
 | [2x2x2](joshua_riegel/222.md) | 7.04 | 9.71 |  |
 | [4x4x4](joshua_riegel/444.md) | 1:26.83 | 1:34.79 |  |

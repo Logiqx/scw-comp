@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### [Lisa Kucala](../lisa_kucala.md) - Clock - [2019KUCA01](https://www.worldcubeassociation.org/persons/2019KUCA01?event=clock)
 
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single
+
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-06-23](../../results/clock/2020-06-23.md) | 50+ | **20.39** | 29.17 | 🥇 💥 ⚡ | **20.39** | 25.13 | 41.71 | 35.57 | 26.82 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624299994391161/) |

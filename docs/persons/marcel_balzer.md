@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Marcel Balzer
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](marcel_balzer/333.md) | 38.14 | 56.04 |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Matthew Hart
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](matthew_hart/333.md) | 22.72 | 24.96 |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

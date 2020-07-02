@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### [Aaron Cumes](../aaron_cumes.md) - Megaminx - [2018CUME02](https://www.worldcubeassociation.org/persons/2018CUME02?event=minx)
 
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single
+
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-06-16](../../results/minx/2020-06-16.md) | 40+ | **3:52.70** | DNF | 🥉 ⚡ | **3:52.70** | DNS | DNS | DNS | DNS | [Link](https://www.facebook.com/events/604103587178706/permalink/604969967092068/) |

@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Stew Alla
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](stew_alla/333.md) | 20.69 | 23.27 |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

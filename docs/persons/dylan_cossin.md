@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Dylan Cossin - [2016COSS01](https://www.worldcubeassociation.org/persons/2016COSS01)
 
+🏆 = overall winner
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [Pyraminx](dylan_cossin/pyram.md) | 1.84 | 2.68 | 🏆 x 1 |

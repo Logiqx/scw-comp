@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Chris Thames - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05)
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](chris_thames/333.md) | 26.69 | 31.20 |  |
 | [2x2x2](chris_thames/222.md) | 4.11 | 10.38 |  |
 | [4x4x4](chris_thames/444.md) | 1:56.95 | 2:05.99 |  |

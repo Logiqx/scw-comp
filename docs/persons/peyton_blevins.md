@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Peyton Blevins
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](peyton_blevins/333.md) | 28.16 | 30.48 |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

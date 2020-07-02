@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 5x5x5 Blindfolded Competitors
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 #### Over 40
 
 | Name | Age | Single | Average | Medals |

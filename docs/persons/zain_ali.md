@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Zain Ali
 
+🏆 = overall winner
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3 BLD](zain_ali/333bf.md) | 52.96 | 1:01.73 | 🏆 x 1 |

@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jonathan Charlesworth
 
+🏆 = overall winner
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](jonathan_charlesworth/333.md) | 9.13 | 10.26 | 🏆 x 1 |

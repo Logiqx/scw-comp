@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jeremy Duehring - [2016DUEH02](https://www.worldcubeassociation.org/persons/2016DUEH02)
 
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](jeremy_duehring/333.md) | 14.22 | 16.26 | 🥈 x 2, 🥉 x 3 |

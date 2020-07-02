@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Javier Rossi
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3 BLD](javier_rossi/333bf.md) | 3:35.63 | - |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

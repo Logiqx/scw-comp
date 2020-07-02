@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 One-Handed Competitors
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 #### Over 50
 
 | Name | Age | Single | Average | Medals |

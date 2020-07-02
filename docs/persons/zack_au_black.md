@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Zack Âû Black
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](zack_au_black/333.md) | 15.72 | 21.80 |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### [Geoff Hartnell](../geoff_hartnell.md) - Megaminx - [2017HART06](https://www.worldcubeassociation.org/persons/2017HART06?event=minx)
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single
+
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-06-23](../../results/minx/2020-06-23.md) | 40+ | 1:39.20 | 1:44.46 | 🏆 🥇 | 1:49.52 | 1:40.41 | 1:39.20 | 1:43.46 | 2:04.39 | [Link](https://www.facebook.com/events/722150235200875/permalink/722255608523671/) |

@@ -1,8 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Robert Summerfield
 
-| Event | Single | Average | Medals |
-| -- | --: | --: | :-- |
+| Event | Single | Average |
+| -- | --: | --: |
 | [3x3x3](robert_summerfield/333.md) | 21.42 | 24.96 |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

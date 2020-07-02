@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Grzegorz Pacewicz - [2014PACE01](https://www.worldcubeassociation.org/persons/2014PACE01)
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](grzegorz_pacewicz/333.md) | 13.37 | 14.77 | 🥈 x 8, 🥉 x 3 |

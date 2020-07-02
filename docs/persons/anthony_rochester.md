@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Anthony Rochester - [2019ROCH03](https://www.worldcubeassociation.org/persons/2019ROCH03)
 
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+
 | Event | Single | Average | Medals |
 | -- | --: | --: | :-- |
 | [3x3x3](anthony_rochester/333.md) | 18.14 | 22.81 |  |

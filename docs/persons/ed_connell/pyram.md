@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### [Ed Connell](../ed_connell.md) - Pyraminx - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=pyram)
 
+💥 = overall record, 🔥 = PR average, ⚡ = PR single
+
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-06-23](../../results/pyram/2020-06-23.md) | <40 | 19.05 | 21.43 |  | 25.23 | 22.58 | 19.05 | 21.83 | 19.87 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623314094489751/) |
