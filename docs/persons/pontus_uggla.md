@@ -3,14 +3,7 @@
 
 | Event | Single | Average |
 | -- | --: | --: |
-| 3x3x3 | 18.25 | 20.09 |
-
-#### 3x3x3
-
-| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
-| :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
-| [2020-01-28](../results/333/2020-01-28.md) | 40+ | **18.25** | **20.09** |  | **18.25** | 18.99 | 23.04 | [Link](https://www.facebook.com/pontusuggla/videos/10156642116836576/) |
-
+| [3x3x3](pontus_uggla/333.md) | 18.25 | 20.09 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

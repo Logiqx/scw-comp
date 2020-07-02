@@ -3,23 +3,7 @@
 
 | Event | Single | Average |
 | -- | --: | --: |
-| 3x3x3 | 24.45 | 31.22 |
-
-#### 3x3x3
-
-| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
-| :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-05-26](../results/333/2020-05-26.md) | 40+ | 30.42 | 31.57 |  | 30.82 | 30.59 | 30.42 | 33.46 | 33.30 | [Link](https://www.facebook.com/BigTSpot/videos/10216079953102851/) |
-| [2020-05-12](../results/333/2020-05-12.md) | 40+ | **24.45** | **31.22** | 🔥 ⚡ | 33.88 | 27.27 | 32.50 | **24.45** | 37.96 | [Link](https://www.facebook.com/BigTSpot/videos/10215971290226347/) |
-| [2020-05-05](../results/333/2020-05-05.md) | 40+ | 28.94 | 32.60 |  | 34.56 | 29.04 | 28.94 | 38.00 | 34.20 | [Link](https://www.facebook.com/BigTSpot/videos/10215917029789870/) |
-| [2020-04-21](../results/333/2020-04-21.md) | 40+ | 35.44 | 39.87 |  | 44.43 | 39.08 | 35.44 | 36.16 | 44.37 | [Link](https://www.facebook.com/events/880278499062375/permalink/881701672253391/) |
-| [2020-04-07](../results/333/2020-04-07.md) | 40+ | 29.33 | 32.54 |  | 42.84 | 32.60 | 35.15 | 29.87 | 29.33 | [Link](https://www.facebook.com/events/510082903229069/permalink/514392026131490/) |
-| [2020-03-31](../results/333/2020-03-31.md) | 40+ | 29.38 | 42.45 |  | 41.89 | 29.38 | 43.14 | 43.37 | 42.33 | [Link](https://www.facebook.com/events/207898257161923/permalink/211664380118644/) |
-| [2020-03-24](../results/333/2020-03-24.md) | 40+ | 31.80 | 39.50 |  | 43.15 | 42.90 | 33.17 | 42.44 | 31.80 | [Link](https://www.facebook.com/events/524456301543611/permalink/526342854688289/) |
-| [2020-03-17](../results/333/2020-03-17.md) | 40+ | **27.19** | **32.14** | 🔥 ⚡ | **27.19** | 31.31 | 41.25 | 34.23 | 30.89 | [Link](https://www.facebook.com/events/280686576235146/permalink/282751479361989/) |
-| [2020-03-10](../results/333/2020-03-10.md) | 40+ | **31.68** | 36.81 | ⚡ | 43.99 | 33.02 | 35.02 | **31.68** | 42.40 | [Link](https://www.facebook.com/events/164742401163863/permalink/164951044476332/) |
-| [2020-03-03](../results/333/2020-03-03.md) | 40+ | **32.46** | **36.06** |  | **32.46** | 37.63 | 49.02 | 33.27 | 37.29 | [Link](https://www.facebook.com/events/241721610185997/permalink/242622543429237/) |
-
+| [3x3x3](timothy_salay/333.md) | 24.45 | 31.22 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

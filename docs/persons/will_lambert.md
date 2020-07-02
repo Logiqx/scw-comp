@@ -3,14 +3,7 @@
 
 | Event | Single | Average |
 | -- | --: | --: |
-| 3x3x3 | 9.74 | 11.51 |
-
-#### 3x3x3
-
-| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
-| :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
-| [2020-01-28](../results/333/2020-01-28.md) | <20 | **9.74** | **11.51** |  | **9.74** | 12.26 | 12.52 | [Link](https://www.facebook.com/Willislwynlambert/videos/10221470476215884/) |
-
+| [3x3x3](will_lambert/333.md) | 9.74 | 11.51 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

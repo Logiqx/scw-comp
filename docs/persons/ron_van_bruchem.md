@@ -3,14 +3,7 @@
 
 | Event | Single | Average |
 | -- | --: | --: |
-| 4x4x4 | 46.32 | 49.81 |
-
-#### 4x4x4
-
-| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
-| :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-03-17](../results/444/2020-03-17.md) | 50+ | **46.32** | **49.81** | 🏆 🥇 | **46.32** | 53.35 | 47.61 | 48.47 | 1:02.85 | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
-
+| [4x4x4](ron_van_bruchem/444.md) | 46.32 | 49.81 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
