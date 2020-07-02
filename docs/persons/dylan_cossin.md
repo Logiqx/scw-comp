@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Dylan Cossin
+### Dylan Cossin - [2016COSS01](https://www.worldcubeassociation.org/persons/2016COSS01)
 
 | Event | Single | Average |
 | -- | --: | --: |

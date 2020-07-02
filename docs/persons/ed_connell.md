@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Ed Connell
+### Ed Connell - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04)
 
 | Event | Single | Average |
 | -- | --: | --: |

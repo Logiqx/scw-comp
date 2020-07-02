@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Shawn Boucké
+### Shawn Boucké - [2016BOUC01](https://www.worldcubeassociation.org/persons/2016BOUC01)
 
 | Event | Single | Average |
 | -- | --: | --: |

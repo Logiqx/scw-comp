@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Daniel Smith
+### Daniel Smith - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42)
 
 | Event | Single | Average |
 | -- | --: | --: |

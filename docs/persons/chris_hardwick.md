@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Chris Hardwick
+### Chris Hardwick - [2003HARD01](https://www.worldcubeassociation.org/persons/2003HARD01)
 
 | Event | Single | Average |
 | -- | --: | --: |

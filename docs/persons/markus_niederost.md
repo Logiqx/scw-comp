@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Markus Niederöst
+### Markus Niederöst - [2018NIED02](https://www.worldcubeassociation.org/persons/2018NIED02)
 
 | Event | Single | Average |
 | -- | --: | --: |

@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Phil Yu
+### Phil Yu - [2010YUPH01](https://www.worldcubeassociation.org/persons/2010YUPH01)
 
 | Event | Single | Average |
 | -- | --: | --: |

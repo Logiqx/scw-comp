@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Geoff Hartnell
+### Geoff Hartnell - [2017HART06](https://www.worldcubeassociation.org/persons/2017HART06)
 
 | Event | Single | Average |
 | -- | --: | --: |

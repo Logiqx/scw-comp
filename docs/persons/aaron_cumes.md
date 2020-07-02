@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Aaron Cumes
+### Aaron Cumes - [2018CUME02](https://www.worldcubeassociation.org/persons/2018CUME02)
 
 | Event | Single | Average |
 | -- | --: | --: |

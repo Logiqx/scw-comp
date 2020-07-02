@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Thierry Boisivon
+### Thierry Boisivon - [2011BOIS01](https://www.worldcubeassociation.org/persons/2011BOIS01)
 
 | Event | Single | Average |
 | -- | --: | --: |

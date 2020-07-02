@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Anthony Rochester
+### Anthony Rochester - [2019ROCH03](https://www.worldcubeassociation.org/persons/2019ROCH03)
 
 | Event | Single | Average |
 | -- | --: | --: |

@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Andy Nicholls
+### Andy Nicholls - [2015NICH04](https://www.worldcubeassociation.org/persons/2015NICH04)
 
 | Event | Single | Average |
 | -- | --: | --: |

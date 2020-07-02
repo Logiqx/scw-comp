@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Pete Lee
+### Pete Lee - [2018LEEP04](https://www.worldcubeassociation.org/persons/2018LEEP04)
 
 | Event | Single | Average |
 | -- | --: | --: |

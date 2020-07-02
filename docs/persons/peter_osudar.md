@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Peter Osudar
+### Peter Osudar - [2017OSUD01](https://www.worldcubeassociation.org/persons/2017OSUD01)
 
 | Event | Single | Average |
 | -- | --: | --: |

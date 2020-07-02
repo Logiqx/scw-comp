@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Alex Friedman
+### Alex Friedman - [2016FRIE06](https://www.worldcubeassociation.org/persons/2016FRIE06)
 
 | Event | Single | Average |
 | -- | --: | --: |

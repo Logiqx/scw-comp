@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Lisa Kucala
+### Lisa Kucala - [2019KUCA01](https://www.worldcubeassociation.org/persons/2019KUCA01)
 
 | Event | Single | Average |
 | -- | --: | --: |

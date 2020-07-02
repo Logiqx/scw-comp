@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Neilimixam Snetrem
+### Neilimixam Snetrem - [2018MERT01](https://www.worldcubeassociation.org/persons/2018MERT01)
 
 | Event | Single | Average |
 | -- | --: | --: |

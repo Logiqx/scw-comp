@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Chris Thames
+### Chris Thames - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05)
 
 | Event | Single | Average |
 | -- | --: | --: |

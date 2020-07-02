@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Chris Wright
+### Chris Wright - [2011WRIG01](https://www.worldcubeassociation.org/persons/2011WRIG01)
 
 | Event | Single | Average |
 | -- | --: | --: |

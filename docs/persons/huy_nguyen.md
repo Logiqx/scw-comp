@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Huy Nguyen
+### Huy Nguyen - [2019NGUY29](https://www.worldcubeassociation.org/persons/2019NGUY29)
 
 | Event | Single | Average |
 | -- | --: | --: |

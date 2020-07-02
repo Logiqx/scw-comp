@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Jeremy Duehring
+### Jeremy Duehring - [2016DUEH02](https://www.worldcubeassociation.org/persons/2016DUEH02)
 
 | Event | Single | Average |
 | -- | --: | --: |

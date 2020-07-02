@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Michael George
+### Michael George - [2015GEOR02](https://www.worldcubeassociation.org/persons/2015GEOR02)
 
 | Event | Single | Average |
 | -- | --: | --: |

@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Jae Park
+### Jae Park - [2015PARK24](https://www.worldcubeassociation.org/persons/2015PARK24)
 
 | Event | Single | Average |
 | -- | --: | --: |

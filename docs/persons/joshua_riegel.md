@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Joshua Riegel
+### Joshua Riegel - [2019RIEG02](https://www.worldcubeassociation.org/persons/2019RIEG02)
 
 | Event | Single | Average |
 | -- | --: | --: |

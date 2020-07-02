@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Mark Rivers
+### Mark Rivers - [2015RIVE05](https://www.worldcubeassociation.org/persons/2015RIVE05)
 
 | Event | Single | Average |
 | -- | --: | --: |

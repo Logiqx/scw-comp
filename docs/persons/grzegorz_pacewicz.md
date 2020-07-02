@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Grzegorz Pacewicz
+### Grzegorz Pacewicz - [2014PACE01](https://www.worldcubeassociation.org/persons/2014PACE01)
 
 | Event | Single | Average |
 | -- | --: | --: |

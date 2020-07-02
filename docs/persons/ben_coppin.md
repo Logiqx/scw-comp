@@ -1,5 +1,5 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### Ben Coppin
+### Ben Coppin - [2013COPP01](https://www.worldcubeassociation.org/persons/2013COPP01)
 
 | Event | Single | Average |
 | -- | --: | --: |
