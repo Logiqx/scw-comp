@@ -82,7 +82,7 @@
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333.md) | <40 | 21.03 | 24.65 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Matthew Hart](../../persons/matthew_hart/333.md) | <40 | 22.72 | 24.96 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Neilimixam Snetrem](../../persons/neilimixam_snetrem/333.md) | <40 | 14.32 | 20.01 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Pete Lee](../../persons/pete_lee/333.md) | <40 | 15.42 | 19.11 |  |  | 💥 x 1, 🔥 x 5, ⚡ x 3 |
+| [Pete Lee](../../persons/pete_lee/333.md) | <40 | 15.42 | 19.11 |  |  | 🔥 x 5, ⚡ x 3 |
 | [Phil Yu](../../persons/phil_yu/333.md) | <40 | 8.12 | 9.64 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Shawn Boucké](../../persons/shawn_boucke/333.md) | <40 | 10.19 | 13.04 | 🏆 x 9 |  | 💥 x 2, 🔥 x 4, ⚡ x 2 |
 | [Stew Alla](../../persons/stew_alla/333.md) | <40 | 20.69 | 23.27 |  |  | 🔥 x 1, ⚡ x 1 |

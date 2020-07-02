@@ -31,21 +31,21 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | [2020-06-16](2020-06-16.md) | <40 | 1:47.08 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/208176410240808/permalink/210547000003749/) |
-| 2 | [Go-ho Choi](../../persons/go_ho_choi/333bf.md) | [2020-02-11](2020-02-11.md) | <40 | 2:22.99 | 💥 ⚡ | |
+| 1 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | [2020-06-16](2020-06-16.md) | <40 | 1:47.08 | 🔥 ⚡ | [Link](https://www.facebook.com/events/208176410240808/permalink/210547000003749/) |
+| 2 | [Go-ho Choi](../../persons/go_ho_choi/333bf.md) | [2020-02-11](2020-02-11.md) | <40 | 2:22.99 | ⚡ | |
 | 3 | [Brooke Persoon](../../persons/brooke_persoon/333bf.md) | [2020-03-03](2020-03-03.md) | <40 | 18:05.78 | ⚡ | [Link](https://www.facebook.com/events/186820176097844/permalink/191609515618910/) |
 
 #### Under 30
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Joshua Riegel](../../persons/joshua_riegel/333bf.md) | [2020-06-09](2020-06-09.md) | <30 | 3:45.27 | 💥 ⚡ | [Link](https://www.facebook.com/events/620460455211235/permalink/624275494829731/) |
+| 1 | [Joshua Riegel](../../persons/joshua_riegel/333bf.md) | [2020-06-09](2020-06-09.md) | <30 | 3:45.27 | ⚡ | [Link](https://www.facebook.com/events/620460455211235/permalink/624275494829731/) |
 
 #### Under 20
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Zain Ali](../../persons/zain_ali/333bf.md) | [2020-05-26](2020-05-26.md) | <20 | 52.96 | 🏆 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/1531820936993798/permalink/1535485533294005/) |
+| 1 | [Zain Ali](../../persons/zain_ali/333bf.md) | [2020-05-26](2020-05-26.md) | <20 | 52.96 | 🏆 🔥 ⚡ | [Link](https://www.facebook.com/events/1531820936993798/permalink/1535485533294005/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

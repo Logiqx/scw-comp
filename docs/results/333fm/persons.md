@@ -41,9 +41,9 @@
 | -- | :--: | :--: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/333fm.md) | <40 | 26 |  |  | ⚡ x 4 |
 | [Brooke Persoon](../../persons/brooke_persoon/333fm.md) | <40 | 42 |  |  | ⚡ x 1 |
-| [Ed Connell](../../persons/ed_connell/333fm.md) | <40 | 29 |  |  | 💥 x 1, ⚡ x 4 |
+| [Ed Connell](../../persons/ed_connell/333fm.md) | <40 | 29 |  |  | ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/333fm.md) | <40 | 41 |  |  | ⚡ x 1 |
-| [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | <40 | 24 | 🏆 x 5 |  | 💥 x 4, ⚡ x 4 |
+| [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | <40 | 24 | 🏆 x 5 |  | 💥 x 1, ⚡ x 4 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

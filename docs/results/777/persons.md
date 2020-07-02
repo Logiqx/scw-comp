@@ -30,8 +30,8 @@
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
 | [Ed Connell](../../persons/ed_connell/777.md) | <40 | 8:56.69 | DNF |  |  | ⚡ x 1 |
-| [Pete Lee](../../persons/pete_lee/777.md) | <40 | 7:59.28 | DNF |  |  | 💥 x 6, ⚡ x 6 |
-| [Peter Osudar](../../persons/peter_osudar/777.md) | <40 | 6:13.99 | 6:36.78 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Pete Lee](../../persons/pete_lee/777.md) | <40 | 7:59.28 | DNF |  |  | ⚡ x 6 |
+| [Peter Osudar](../../persons/peter_osudar/777.md) | <40 | 6:13.99 | 6:36.78 |  |  | 🔥 x 1, ⚡ x 1 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

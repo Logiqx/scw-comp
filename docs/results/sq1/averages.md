@@ -21,7 +21,7 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Ed Connell](../../persons/ed_connell/sq1.md) | [2020-06-23](2020-06-23.md) | <40 | 50.29 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1621436411344186/) |
+| 1 | [Ed Connell](../../persons/ed_connell/sq1.md) | [2020-06-23](2020-06-23.md) | <40 | 50.29 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1621436411344186/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

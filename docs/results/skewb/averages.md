@@ -14,7 +14,7 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Ed Connell](../../persons/ed_connell/skewb.md) | [2020-06-23](2020-06-23.md) | <40 | 13.91 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623313707823123/) |
+| 1 | [Ed Connell](../../persons/ed_connell/skewb.md) | [2020-06-23](2020-06-23.md) | <40 | 13.91 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623313707823123/) |
 | 2 | [Pete Lee](../../persons/pete_lee/skewb.md) | [2020-06-16](2020-06-16.md) | <40 | 24.67 | 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/299518714768989/) |
 | 3 | [Chris Thames](../../persons/chris_thames/skewb.md) | [2020-06-23](2020-06-23.md) | <40 | 38.88 | 🔥 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623169454504215/) |
 
@@ -22,7 +22,7 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Joshua Riegel](../../persons/joshua_riegel/skewb.md) | [2020-06-23](2020-06-23.md) | <30 | 31.86 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623941544427006/) |
+| 1 | [Joshua Riegel](../../persons/joshua_riegel/skewb.md) | [2020-06-23](2020-06-23.md) | <30 | 31.86 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623941544427006/) |
 
 #### Under 20
 

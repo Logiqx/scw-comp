@@ -16,13 +16,13 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | [2020-06-16](2020-06-16.md) | <40 | 2:13.74 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/208176410240808/permalink/210547000003749/) |
+| 1 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | [2020-06-16](2020-06-16.md) | <40 | 2:13.74 | 🔥 ⚡ | [Link](https://www.facebook.com/events/208176410240808/permalink/210547000003749/) |
 
 #### Under 20
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Zain Ali](../../persons/zain_ali/333bf.md) | [2020-05-26](2020-05-26.md) | <20 | 1:01.73 | 🏆 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/1531820936993798/permalink/1535485533294005/) |
+| 1 | [Zain Ali](../../persons/zain_ali/333bf.md) | [2020-05-26](2020-05-26.md) | <20 | 1:01.73 | 🏆 🔥 ⚡ | [Link](https://www.facebook.com/events/1531820936993798/permalink/1535485533294005/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

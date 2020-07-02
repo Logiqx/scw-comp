@@ -31,7 +31,7 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Ed Connell](../../persons/ed_connell/minx.md) | [2020-05-26](2020-05-26.md) | <40 | 3:24.48 | 💥 ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/691174248379460/) |
+| 1 | [Ed Connell](../../persons/ed_connell/minx.md) | [2020-05-26](2020-05-26.md) | <40 | 3:24.48 | ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/691174248379460/) |
 | 2 | [Chris Thames](../../persons/chris_thames/minx.md) | [2020-05-26](2020-05-26.md) | <40 | 6:02.13 | ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/690392548457630/) |
 
 

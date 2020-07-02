@@ -32,7 +32,7 @@
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Thames](../../persons/chris_thames/minx.md) | <40 | 6:02.13 | DNF |  |  | ⚡ x 1 |
-| [Ed Connell](../../persons/ed_connell/minx.md) | <40 | 3:24.48 | DNF |  |  | 💥 x 1, ⚡ x 1 |
+| [Ed Connell](../../persons/ed_connell/minx.md) | <40 | 3:24.48 | DNF |  |  | ⚡ x 1 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

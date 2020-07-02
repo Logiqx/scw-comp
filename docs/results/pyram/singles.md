@@ -25,15 +25,15 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Pete Lee](../../persons/pete_lee/pyram.md) | [2020-06-23](2020-06-23.md) | <40 | 14.79 | 💥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624128411074986/) |
-| 2 | [Ed Connell](../../persons/ed_connell/pyram.md) | [2020-06-16](2020-06-16.md) | <40 | 15.14 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/299485738105620/) |
+| 1 | [Pete Lee](../../persons/pete_lee/pyram.md) | [2020-06-23](2020-06-23.md) | <40 | 14.79 | ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624128411074986/) |
+| 2 | [Ed Connell](../../persons/ed_connell/pyram.md) | [2020-06-16](2020-06-16.md) | <40 | 15.14 | 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/299485738105620/) |
 | 3 | [Chris Thames](../../persons/chris_thames/pyram.md) | [2020-06-23](2020-06-23.md) | <40 | 15.94 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1622324837922010/) |
 
 #### Under 30
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Joshua Riegel](../../persons/joshua_riegel/pyram.md) | [2020-06-23](2020-06-23.md) | <30 | 9.94 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623946524426508/) |
+| 1 | [Joshua Riegel](../../persons/joshua_riegel/pyram.md) | [2020-06-23](2020-06-23.md) | <30 | 9.94 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623946524426508/) |
 
 #### Under 20
 

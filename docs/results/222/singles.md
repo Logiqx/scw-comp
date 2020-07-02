@@ -55,7 +55,7 @@
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
 | 1 | [Phil Yu](../../persons/phil_yu/222.md) | [2020-06-09](2020-06-09.md) | <40 | 2.87 | 🏆 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/903549840109576/permalink/904458400018720/) |
-| 2 | [Ed Connell](../../persons/ed_connell/222.md) | [2020-06-02](2020-06-02.md) | <40 | 3.39 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381586012066522/) |
+| 2 | [Ed Connell](../../persons/ed_connell/222.md) | [2020-06-02](2020-06-02.md) | <40 | 3.39 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381586012066522/) |
 | 3 | [Go-ho Choi](../../persons/go_ho_choi/222.md) | [2020-02-11](2020-02-11.md) | <40 | 3.50 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/176704156956327/permalink/178287783464631/) |
 | 4 | [Adam Robson](../../persons/adam_robson/222.md) | [2020-02-25](2020-02-25.md) | <40 | 3.91 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2979462932115204/) |
 | 5 | [Chris Thames](../../persons/chris_thames/222.md) | [2020-06-02](2020-06-02.md) | <40 | 4.11 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3377868829104907/) |
@@ -67,7 +67,7 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Raimon Schaap](../../persons/raimon_schaap/222.md) | [2020-03-10](2020-03-10.md) | <30 | 4.63 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/654143022005686/permalink/657641461655842/) |
+| 1 | [Raimon Schaap](../../persons/raimon_schaap/222.md) | [2020-03-10](2020-03-10.md) | <30 | 4.63 | 🔥 ⚡ | [Link](https://www.facebook.com/events/654143022005686/permalink/657641461655842/) |
 | 2 | [Joshua Riegel](../../persons/joshua_riegel/222.md) | [2020-06-23](2020-06-23.md) | <30 | 7.04 | 🔥 ⚡ | [Link](https://www.facebook.com/events/722150235200875/permalink/725673131515252/) |
 
 #### Under 20

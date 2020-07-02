@@ -21,7 +21,7 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Chris Hardwick](../../persons/chris_hardwick/444bf.md) | [2020-05-12](2020-05-12.md) | <40 | 6:21.08 | 🏆 💥 ⚡ | [Link](https://www.facebook.com/events/367340484222677/permalink/368430654113660/) |
+| 1 | [Chris Hardwick](../../persons/chris_hardwick/444bf.md) | [2020-05-12](2020-05-12.md) | <40 | 6:21.08 | 🏆 ⚡ | [Link](https://www.facebook.com/events/367340484222677/permalink/368430654113660/) |
 
 #### Under 20
 

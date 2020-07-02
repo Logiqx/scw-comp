@@ -55,7 +55,7 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Raimon Schaap](../../persons/raimon_schaap/444.md) | [2020-05-05](2020-05-05.md) | <30 | 1:23.57 | 💥 🔥 | [Link](https://www.facebook.com/events/557526585195168/permalink/557561768524983/) |
+| 1 | [Raimon Schaap](../../persons/raimon_schaap/444.md) | [2020-05-05](2020-05-05.md) | <30 | 1:23.57 | 🔥 | [Link](https://www.facebook.com/events/557526585195168/permalink/557561768524983/) |
 | 2 | [Joshua Riegel](../../persons/joshua_riegel/444.md) | [2020-06-23](2020-06-23.md) | <30 | 1:34.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276409987011989/) |
 
 

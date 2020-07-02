@@ -57,7 +57,7 @@
 | [Adam Robson](../../persons/adam_robson/222.md) | <40 | 3.91 | 6.87 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Brooke Persoon](../../persons/brooke_persoon/222.md) | <40 | 10.73 | 13.95 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/222.md) | <40 | 4.11 | 10.38 |  |  | 🔥 x 3, ⚡ x 3 |
-| [Ed Connell](../../persons/ed_connell/222.md) | <40 | 3.39 | 5.91 |  |  | 💥 x 1, 🔥 x 3, ⚡ x 3 |
+| [Ed Connell](../../persons/ed_connell/222.md) | <40 | 3.39 | 5.91 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Go-ho Choi](../../persons/go_ho_choi/222.md) | <40 | 3.50 | 4.50 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/222.md) | <40 | 4.68 | 7.23 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Phil Yu](../../persons/phil_yu/222.md) | <40 | 2.87 | 4.25 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
@@ -68,7 +68,7 @@
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
 | [Joshua Riegel](../../persons/joshua_riegel/222.md) | <30 | 7.04 | 9.71 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Raimon Schaap](../../persons/raimon_schaap/222.md) | <30 | 4.63 | 7.18 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Raimon Schaap](../../persons/raimon_schaap/222.md) | <30 | 4.63 | 7.18 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 20
 

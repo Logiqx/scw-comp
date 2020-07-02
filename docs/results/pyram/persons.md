@@ -26,14 +26,14 @@
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Thames](../../persons/chris_thames/pyram.md) | <40 | 15.94 | 20.09 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Ed Connell](../../persons/ed_connell/pyram.md) | <40 | 15.14 | 17.15 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Pete Lee](../../persons/pete_lee/pyram.md) | <40 | 14.79 | 28.27 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 2 |
+| [Ed Connell](../../persons/ed_connell/pyram.md) | <40 | 15.14 | 17.15 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Pete Lee](../../persons/pete_lee/pyram.md) | <40 | 14.79 | 28.27 |  |  | 🔥 x 1, ⚡ x 2 |
 
 #### Under 30
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
-| [Joshua Riegel](../../persons/joshua_riegel/pyram.md) | <30 | 9.94 | 19.49 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Joshua Riegel](../../persons/joshua_riegel/pyram.md) | <30 | 9.94 | 19.49 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 20
 

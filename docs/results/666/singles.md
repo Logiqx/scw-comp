@@ -32,15 +32,15 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Peter Osudar](../../persons/peter_osudar/666.md) | [2020-06-23](2020-06-23.md) | <40 | 4:08.97 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276193687033619/) |
-| 2 | [Pete Lee](../../persons/pete_lee/666.md) | [2020-06-02](2020-06-02.md) | <40 | 4:35.73 | 💥 ⚡ | [Link](https://www.facebook.com/events/573401076937046/permalink/574505536826600/) |
+| 1 | [Peter Osudar](../../persons/peter_osudar/666.md) | [2020-06-23](2020-06-23.md) | <40 | 4:08.97 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276193687033619/) |
+| 2 | [Pete Lee](../../persons/pete_lee/666.md) | [2020-06-02](2020-06-02.md) | <40 | 4:35.73 | ⚡ | [Link](https://www.facebook.com/events/573401076937046/permalink/574505536826600/) |
 | 3 | [Ed Connell](../../persons/ed_connell/666.md) | [2020-05-26](2020-05-26.md) | <40 | 5:56.45 | ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640361549882453/) |
 
 #### Under 30
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Joshua Riegel](../../persons/joshua_riegel/666.md) | [2020-06-23](2020-06-23.md) | <30 | 6:40.49 | 💥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/277021946950793/) |
+| 1 | [Joshua Riegel](../../persons/joshua_riegel/666.md) | [2020-06-23](2020-06-23.md) | <30 | 6:40.49 | ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/277021946950793/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -15,14 +15,14 @@
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Thames](../../persons/chris_thames/skewb.md) | <40 | 25.74 | 38.88 |  |  | 🔥 x 2, ⚡ x 1 |
-| [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | 8.83 | 13.91 |  |  | 💥 x 2, 🔥 x 2, ⚡ x 2 |
+| [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | 8.83 | 13.91 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Pete Lee](../../persons/pete_lee/skewb.md) | <40 | 16.61 | 24.67 |  |  | 🔥 x 1, ⚡ x 2 |
 
 #### Under 30
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
-| [Joshua Riegel](../../persons/joshua_riegel/skewb.md) | <30 | 23.14 | 31.86 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Joshua Riegel](../../persons/joshua_riegel/skewb.md) | <30 | 23.14 | 31.86 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 20
 

@@ -20,7 +20,7 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Ed Connell](../../persons/ed_connell/clock.md) | [2020-06-23](2020-06-23.md) | <40 | 18.69 | 🏆 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1621527954668365/) |
+| 1 | [Ed Connell](../../persons/ed_connell/clock.md) | [2020-06-23](2020-06-23.md) | <40 | 18.69 | 🏆 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1621527954668365/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

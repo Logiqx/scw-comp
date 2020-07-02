@@ -5,7 +5,7 @@
 
 | Event | Single | Average | Trophies | Achievements|
 | -- | --: | --: | :--: | :-- |
-| [3x3x3 BLD](zain_ali/333bf.md) | 52.96 | 1:01.73 | 🏆 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [3x3x3 BLD](zain_ali/333bf.md) | 52.96 | 1:01.73 | 🏆 x 1 | 🔥 x 1, ⚡ x 1 |
 | [4x4x4 BLD](zain_ali/444bf.md) | 5:52.90 | - | 🏆 x 1 | 💥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

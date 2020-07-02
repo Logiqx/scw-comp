@@ -32,20 +32,20 @@
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
 | [Brooke Persoon](../../persons/brooke_persoon/333bf.md) | <40 | 18:05.78 | DNF |  |  | ⚡ x 1 |
-| [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | <40 | 1:47.08 | 2:13.74 |  |  | 💥 x 4, 🔥 x 2, ⚡ x 4 |
-| [Go-ho Choi](../../persons/go_ho_choi/333bf.md) | <40 | 2:22.99 | DNF |  |  | 💥 x 1, ⚡ x 1 |
+| [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | <40 | 1:47.08 | 2:13.74 |  |  | 🔥 x 2, ⚡ x 4 |
+| [Go-ho Choi](../../persons/go_ho_choi/333bf.md) | <40 | 2:22.99 | DNF |  |  | ⚡ x 1 |
 
 #### Under 30
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
-| [Joshua Riegel](../../persons/joshua_riegel/333bf.md) | <30 | 3:45.27 | DNF |  |  | 💥 x 1, ⚡ x 1 |
+| [Joshua Riegel](../../persons/joshua_riegel/333bf.md) | <30 | 3:45.27 | DNF |  |  | ⚡ x 1 |
 
 #### Under 20
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
-| [Zain Ali](../../persons/zain_ali/333bf.md) | <20 | 52.96 | 1:01.73 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Zain Ali](../../persons/zain_ali/333bf.md) | <20 | 52.96 | 1:01.73 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -34,10 +34,10 @@
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
-| [Alex Friedman](../../persons/alex_friedman/333oh.md) | <40 | 21.43 | 23.83 |  |  | 💥 x 2, 🔥 x 4, ⚡ x 4 |
+| [Alex Friedman](../../persons/alex_friedman/333oh.md) | <40 | 21.43 | 23.83 |  |  | 🔥 x 4, ⚡ x 4 |
 | [Chris Thames](../../persons/chris_thames/333oh.md) | <40 | 1:37.29 | 1:47.71 |  |  | 🔥 x 2, ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/333oh.md) | <40 | 22.50 | 34.04 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | <40 | 22.13 | 24.49 | 🏆 x 2 |  | 💥 x 2, 🔥 x 2, ⚡ x 1 |
+| [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | <40 | 22.13 | 24.49 | 🏆 x 2 |  | 💥 x 1, 🔥 x 2, ⚡ x 1 |
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333oh.md) | <40 | 30.75 | 34.85 |  |  | 🔥 x 4, ⚡ x 3 |
 | [Pete Lee](../../persons/pete_lee/333oh.md) | <40 | 39.61 | 47.46 |  |  | 🔥 x 2, ⚡ x 1 |
 | [Phil Yu](../../persons/phil_yu/333oh.md) | <40 | 13.60 | 14.64 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |

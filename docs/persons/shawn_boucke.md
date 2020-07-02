@@ -9,7 +9,7 @@
 | [2x2x2](shawn_boucke/222.md) | 4.34 | 4.55 | 🏆 x 1 | 🔥 x 1, ⚡ x 1 |
 | [4x4x4](shawn_boucke/444.md) | 46.21 | 49.52 | 🏆 x 4 | 💥 x 1, 🔥 x 1, ⚡ x 3 |
 | [3x3x3 OH](shawn_boucke/333oh.md) | 24.65 | 27.70 |  | 🔥 x 1, ⚡ x 1 |
-| [3x3x3 FMC](shawn_boucke/333fm.md) | 24 | - | 🏆 x 5 | 💥 x 4, ⚡ x 4 |
+| [3x3x3 FMC](shawn_boucke/333fm.md) | 24 | - | 🏆 x 5 | 💥 x 1, ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

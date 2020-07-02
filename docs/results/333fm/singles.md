@@ -39,7 +39,7 @@
 
 | # | Name | Date | Age | Single | Awards | Solution |
 | :--: | -- | :--: | :--: | :--: | :--: | -- |
-| 1 | [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | [2020-04-21](2020-04-21.md) | <40 | 24 | 🏆 💥 ⚡ | [Link](https://www.facebook.com/events/573932290186676/permalink/574620073451231/) |
+| 1 | [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | [2020-04-21](2020-04-21.md) | <40 | 24 | 🏆 ⚡ | [Link](https://www.facebook.com/events/573932290186676/permalink/574620073451231/) |
 | 2 | [Adam Robson](../../persons/adam_robson/333fm.md) | [2020-06-02](2020-06-02.md) | <40 | 26 | ⚡ | [Link](https://www.facebook.com/events/3920457157996941/permalink/3937885802920743/) |
 | 3 | [Ed Connell](../../persons/ed_connell/333fm.md) | [2020-06-09](2020-06-09.md) | <40 | 29 | ⚡ | [Link](https://www.facebook.com/events/855783411578420/permalink/856819448141483/) |
 | 4 | [Go-ho Choi](../../persons/go_ho_choi/333fm.md) | [2020-02-25](2020-02-25.md) | <40 | 41 | ⚡ | [Link](https://www.facebook.com/events/215751886207638/permalink/216681586114668/) |

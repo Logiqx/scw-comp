@@ -20,7 +20,7 @@
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
-| [Ed Connell](../../persons/ed_connell/clock.md) | <40 | 16.70 | 18.69 | 🏆 x 1 |  | 💥 x 2, 🔥 x 2, ⚡ x 2 |
+| [Ed Connell](../../persons/ed_connell/clock.md) | <40 | 16.70 | 18.69 | 🏆 x 1 |  | 🔥 x 2, ⚡ x 2 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -65,7 +65,7 @@
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
 | [Joshua Riegel](../../persons/joshua_riegel/444.md) | <30 | 1:26.83 | 1:34.79 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Raimon Schaap](../../persons/raimon_schaap/444.md) | <30 | 1:16.76 | 1:23.57 |  |  | 💥 x 3, 🔥 x 3, ⚡ x 2 |
+| [Raimon Schaap](../../persons/raimon_schaap/444.md) | <30 | 1:16.76 | 1:23.57 |  |  | 🔥 x 3, ⚡ x 2 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

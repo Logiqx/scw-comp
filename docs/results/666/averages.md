@@ -21,7 +21,7 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Peter Osudar](../../persons/peter_osudar/666.md) | [2020-06-23](2020-06-23.md) | <40 | 4:43.10 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276193687033619/) |
+| 1 | [Peter Osudar](../../persons/peter_osudar/666.md) | [2020-06-23](2020-06-23.md) | <40 | 4:43.10 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276193687033619/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

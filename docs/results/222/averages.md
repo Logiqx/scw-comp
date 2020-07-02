@@ -57,7 +57,7 @@
 | 1 | [Phil Yu](../../persons/phil_yu/222.md) | [2020-06-09](2020-06-09.md) | <40 | 4.25 | 🏆 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/903549840109576/permalink/904458400018720/) |
 | 2 | [Go-ho Choi](../../persons/go_ho_choi/222.md) | [2020-02-11](2020-02-11.md) | <40 | 4.50 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/176704156956327/permalink/178287783464631/) |
 | 3 | [Shawn Boucké](../../persons/shawn_boucke/222.md) | [2020-02-25](2020-02-25.md) | <40 | 4.55 | 🏆 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2975010722560425/) |
-| 4 | [Ed Connell](../../persons/ed_connell/222.md) | [2020-06-02](2020-06-02.md) | <40 | 5.91 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381586012066522/) |
+| 4 | [Ed Connell](../../persons/ed_connell/222.md) | [2020-06-02](2020-06-02.md) | <40 | 5.91 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381586012066522/) |
 | 5 | [Adam Robson](../../persons/adam_robson/222.md) | [2020-02-25](2020-02-25.md) | <40 | 6.87 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2972213492840148/permalink/2979462932115204/) |
 | 6 | [Pete Lee](../../persons/pete_lee/222.md) | [2020-05-05](2020-05-05.md) | <40 | 7.23 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3313106775587396/permalink/3316052955292778/) |
 | 7 | [Chris Thames](../../persons/chris_thames/222.md) | [2020-06-02](2020-06-02.md) | <40 | 10.38 | 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3377868829104907/) |
@@ -67,7 +67,7 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Raimon Schaap](../../persons/raimon_schaap/222.md) | [2020-03-10](2020-03-10.md) | <30 | 7.18 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/654143022005686/permalink/657641461655842/) |
+| 1 | [Raimon Schaap](../../persons/raimon_schaap/222.md) | [2020-03-10](2020-03-10.md) | <30 | 7.18 | 🔥 ⚡ | [Link](https://www.facebook.com/events/654143022005686/permalink/657641461655842/) |
 | 2 | [Joshua Riegel](../../persons/joshua_riegel/222.md) | [2020-06-23](2020-06-23.md) | <30 | 9.71 | 🔥 ⚡ | [Link](https://www.facebook.com/events/722150235200875/permalink/725673131515252/) |
 
 #### Under 20

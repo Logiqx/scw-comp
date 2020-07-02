@@ -33,14 +33,14 @@
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
 | [Ed Connell](../../persons/ed_connell/666.md) | <40 | 5:56.45 | DNF |  |  | ⚡ x 1 |
-| [Pete Lee](../../persons/pete_lee/666.md) | <40 | 4:35.73 | DNF |  |  | 💥 x 4, ⚡ x 4 |
-| [Peter Osudar](../../persons/peter_osudar/666.md) | <40 | 4:08.97 | 4:43.10 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Pete Lee](../../persons/pete_lee/666.md) | <40 | 4:35.73 | DNF |  |  | ⚡ x 4 |
+| [Peter Osudar](../../persons/peter_osudar/666.md) | <40 | 4:08.97 | 4:43.10 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 30
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
-| [Joshua Riegel](../../persons/joshua_riegel/666.md) | <30 | 6:40.49 | DNF |  |  | 💥 x 1, ⚡ x 1 |
+| [Joshua Riegel](../../persons/joshua_riegel/666.md) | <30 | 6:40.49 | DNF |  |  | ⚡ x 1 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

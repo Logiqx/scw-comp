@@ -29,8 +29,8 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Peter Osudar](../../persons/peter_osudar/777.md) | [2020-06-23](2020-06-23.md) | <40 | 6:13.99 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276983293621325/) |
-| 2 | [Pete Lee](../../persons/pete_lee/777.md) | [2020-06-16](2020-06-16.md) | <40 | 7:59.28 | 💥 ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/256481515578596/) |
+| 1 | [Peter Osudar](../../persons/peter_osudar/777.md) | [2020-06-23](2020-06-23.md) | <40 | 6:13.99 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276983293621325/) |
+| 2 | [Pete Lee](../../persons/pete_lee/777.md) | [2020-06-16](2020-06-16.md) | <40 | 7:59.28 | ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/256481515578596/) |
 | 3 | [Ed Connell](../../persons/ed_connell/777.md) | [2020-05-26](2020-05-26.md) | <40 | 8:56.69 | ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640364566548818/) |
 
 

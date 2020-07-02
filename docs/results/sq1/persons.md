@@ -21,7 +21,7 @@
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | -- | :--: | --: | --: | :--: | :-- | :-- |
-| [Ed Connell](../../persons/ed_connell/sq1.md) | <40 | 48.40 | 50.29 |  |  | 💥 x 2, 🔥 x 1, ⚡ x 2 |
+| [Ed Connell](../../persons/ed_connell/sq1.md) | <40 | 48.40 | 50.29 |  |  | 🔥 x 1, ⚡ x 2 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
