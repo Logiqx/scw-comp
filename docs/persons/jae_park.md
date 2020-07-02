@@ -8,8 +8,8 @@
 | [4x4x4](jae_park/444.md) | 2:03.34 | 2:30.77 |
 | [5x5x5](jae_park/555.md) | 5:07.36 | 5:55.66 |
 | [3x3x3 BLD](jae_park/333bf.md) | 46.90 | 57.66 |
-| [4x4x4 BLD](jae_park/444bf.md) | 6:19.94 | DNF |
-| [5x5x5 BLD](jae_park/555bf.md) | 13:51.60 | DNF |
+| [4x4x4 BLD](jae_park/444bf.md) | 6:19.94 | - |
+| [5x5x5 BLD](jae_park/555bf.md) | 13:51.60 | - |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

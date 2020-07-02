@@ -34,7 +34,7 @@
 | 10 | [Aaron Cumes](../../persons/aaron_cumes.md) | [2020-06-16](2020-06-16.md) | 40+ | 1:02.34 | 🔥 ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/257120222181392/) |
 | 11 | [Daniel Smith](../../persons/daniel_smith.md) | [2020-06-16](2020-06-16.md) | 50+ | 1:12.01 | ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/260576965169051/) |
 | 12 | [Thierry Boisivon](../../persons/thierry_boisivon.md) | [2020-04-21](2020-04-21.md) | 40+ | 1:12.69 | ⚡ | [Link](https://www.facebook.com/events/538096063773916/permalink/541927596724096/) |
-| 13 | [Anthony Rochester](../../persons/anthony_rochester.md) | [2020-05-19](2020-05-19.md) | 40+ | 1:23.57 | 🔥 ⚡ | [Link](https://www.facebook.com/events/201300894172579/permalink/203252107310791/) |
+| 13 | [Anthony Rochester](../../persons/anthony_rochester.md) | [2020-05-19](2020-05-19.md) | 40+ | 1:23.57 | ⚡ | [Link](https://www.facebook.com/events/201300894172579/permalink/203252107310791/) |
 | 14 | [Jan Adams-Fielding](../../persons/jan_adams_fielding.md) | [2020-06-02](2020-06-02.md) | 40+ | 1:32.33 | 🔥 ⚡ | [Link](https://www.facebook.com/events/573401076937046/permalink/578462709764216/) |
 | 15 | [Jae Park](../../persons/jae_park.md) | [2020-02-25](2020-02-25.md) | 40+ | 2:03.34 | ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/806066883232135/) |
 | 16 | [Peter Douthwright](../../persons/peter_douthwright.md) | [2020-03-31](2020-03-31.md) | 50+ | 2:20.53 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
@@ -55,7 +55,7 @@
 | 6 | [Peter Osudar](../../persons/peter_osudar.md) | [2020-06-23](2020-06-23.md) | <40 | 1:29.48 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/273323990653922/) |
 | 7 | [Isak Majer](../../persons/isak_majer.md) | [2020-02-04](2020-02-04.md) | <40 | 1:41.66 | 🔥 ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |
 | 8 | [Chris Thames](../../persons/chris_thames.md) | [2020-06-02](2020-06-02.md) | <40 | 1:56.95 | 🔥 ⚡ | [Link](https://www.facebook.com/events/573401076937046/permalink/574702816806872/) |
-| 9 | [Adam Robson](../../persons/adam_robson.md) | [2020-02-25](2020-02-25.md) | <40 | 2:24.65 | 🔥 ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/809621066210050/) |
+| 9 | [Adam Robson](../../persons/adam_robson.md) | [2020-02-25](2020-02-25.md) | <40 | 2:24.65 | ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/809621066210050/) |
 | 10 | [Jamie Brady (Deansie)](../../persons/jamie_brady.md) | [2020-02-04](2020-02-04.md) | <40 | 2:24.93 | 🔥 ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
 
 #### Under 30

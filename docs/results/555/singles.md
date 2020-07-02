@@ -5,7 +5,7 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-12](2020-05-12.md) | 60+ | 6:41.82 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/278589523279135/) |
+| 1 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-12](2020-05-12.md) | 60+ | 6:41.82 | 💥 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/278589523279135/) |
 
 #### Over 50
 
@@ -14,8 +14,8 @@
 | 1 | [Chris Wright](../../persons/chris_wright.md) | [2020-06-16](2020-06-16.md) | 50+ | 1:42.41 | 🥈 💥 ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/257123418847739/) |
 | 2 | [Ciro Vignotto](../../persons/ciro_vignotto.md) | [2020-04-21](2020-04-21.md) | 50+ | 2:08.36 | 🥈 ⚡ | [Link](https://www.facebook.com/ciro.vignotto/videos/10221784538578284/) |
 | 3 | [Daniel Smith](../../persons/daniel_smith.md) | [2020-02-18](2020-02-18.md) | 50+ | 2:31.49 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/538921670053895/permalink/539390146673714/) |
-| 4 | [Peter Douthwright](../../persons/peter_douthwright.md) | [2020-03-24](2020-03-24.md) | 50+ | 5:50.00 | 🔥 ⚡ | [Link](https://www.facebook.com/events/5078365835514885/permalink/5098666160151519/) |
-| 5 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-12](2020-05-12.md) | 60+ | 6:41.82 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/278589523279135/) |
+| 4 | [Peter Douthwright](../../persons/peter_douthwright.md) | [2020-03-24](2020-03-24.md) | 50+ | 5:50.00 | ⚡ | [Link](https://www.facebook.com/events/5078365835514885/permalink/5098666160151519/) |
+| 5 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-12](2020-05-12.md) | 60+ | 6:41.82 | 💥 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/278589523279135/) |
 
 #### Over 40
 
@@ -34,8 +34,8 @@
 | 11 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | [2020-02-18](2020-02-18.md) | 40+ | 2:37.21 | 🔥 ⚡ | |
 | 12 | [Joshua M. Woodward](../../persons/joshua_m_woodward.md) | [2020-03-24](2020-03-24.md) | 40+ | 4:06.17 | 🔥 ⚡ | [Link](https://www.facebook.com/events/5078365835514885/permalink/5101597413191727/) |
 | 13 | [Jae Park](../../persons/jae_park.md) | [2020-03-24](2020-03-24.md) | 40+ | 5:07.36 | ⚡ | [Link](https://www.facebook.com/events/5078365835514885/permalink/5079528812065254/) |
-| 14 | [Peter Douthwright](../../persons/peter_douthwright.md) | [2020-03-24](2020-03-24.md) | 50+ | 5:50.00 | 🔥 ⚡ | [Link](https://www.facebook.com/events/5078365835514885/permalink/5098666160151519/) |
-| 15 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-12](2020-05-12.md) | 60+ | 6:41.82 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/278589523279135/) |
+| 14 | [Peter Douthwright](../../persons/peter_douthwright.md) | [2020-03-24](2020-03-24.md) | 50+ | 5:50.00 | ⚡ | [Link](https://www.facebook.com/events/5078365835514885/permalink/5098666160151519/) |
+| 15 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-12](2020-05-12.md) | 60+ | 6:41.82 | 💥 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/278589523279135/) |
 
 #### Under 40
 

@@ -8,7 +8,7 @@
 | [4x4x4](grzegorz_pacewicz/444.md) | 56.11 | 1:11.39 |
 | [5x5x5](grzegorz_pacewicz/555.md) | 2:37.21 | 2:48.50 |
 | [3x3x3 OH](grzegorz_pacewicz/333oh.md) | 24.78 | 32.65 |
-| [3x3x3 BLD](grzegorz_pacewicz/333bf.md) | 1:04.30 | DNF |
+| [3x3x3 BLD](grzegorz_pacewicz/333bf.md) | 1:04.30 | - |
 | [3x3x3 FMC](grzegorz_pacewicz/333fm.md) | 25 | - |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

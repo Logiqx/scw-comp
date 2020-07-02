@@ -5,7 +5,7 @@
 | -- | --: | --: |
 | [3x3x3](adam_robson/333.md) | 19.54 | 23.72 |
 | [2x2x2](adam_robson/222.md) | 3.91 | 6.87 |
-| [4x4x4](adam_robson/444.md) | 2:24.65 | DNF |
+| [4x4x4](adam_robson/444.md) | 2:24.65 | - |
 | [3x3x3 FMC](adam_robson/333fm.md) | 26 | - |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

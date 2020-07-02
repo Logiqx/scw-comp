@@ -6,10 +6,10 @@
 | [3x3x3](joshua_riegel/333.md) | 25.53 | 29.09 |
 | [2x2x2](joshua_riegel/222.md) | 7.04 | 9.71 |
 | [4x4x4](joshua_riegel/444.md) | 1:26.83 | 1:34.79 |
-| [6x6x6](joshua_riegel/666.md) | 6:40.49 | DNF |
+| [6x6x6](joshua_riegel/666.md) | 6:40.49 | - |
 | [Pyraminx](joshua_riegel/pyram.md) | 9.94 | 19.49 |
 | [Skewb](joshua_riegel/skewb.md) | 23.14 | 31.86 |
-| [3x3x3 BLD](joshua_riegel/333bf.md) | 3:45.27 | DNF |
+| [3x3x3 BLD](joshua_riegel/333bf.md) | 3:45.27 | - |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

@@ -14,8 +14,8 @@
 | [Square-1](andy_nicholls/sq1.md) | 31.85 | 50.55 |
 | [Clock](andy_nicholls/clock.md) | 12.02 | 17.07 |
 | [3x3x3 BLD](andy_nicholls/333bf.md) | 2:00.58 | 2:24.45 |
-| [4x4x4 BLD](andy_nicholls/444bf.md) | 10:52.00 | DNF |
-| [5x5x5 BLD](andy_nicholls/555bf.md) | 26:59.43 | DNF |
+| [4x4x4 BLD](andy_nicholls/444bf.md) | 10:52.00 | - |
+| [5x5x5 BLD](andy_nicholls/555bf.md) | 26:59.43 | - |
 | [3x3x3 FMC](andy_nicholls/333fm.md) | 36 | - |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
