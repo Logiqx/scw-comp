@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Neilimixam Snetrem - [2018MERT01](https://www.worldcubeassociation.org/persons/2018MERT01)
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](neilimixam_snetrem/333.md) | 14.32 | 20.01 | 🔥 x 1, ⚡ x 1 |

@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Stuart Salmon
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](stuart_salmon/333.md) | 22.76 | 32.88 | 🔥 x 1, ⚡ x 1 |

@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jonathan Charlesworth
 
-🏆 = overall winner
+🏆 = overall winner, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Achievements|
 | -- | --: | --: | :--: | :-- |

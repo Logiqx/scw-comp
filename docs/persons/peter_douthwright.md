@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Peter Douthwright
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](peter_douthwright/333.md) | 31.12 | 35.24 | 🔥 x 5, ⚡ x 3 |

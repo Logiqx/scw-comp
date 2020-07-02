@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Raimon Schaap
 
+💥 = overall record, 🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](raimon_schaap/333.md) | 13.58 | 15.99 | 🔥 x 5, ⚡ x 4 |

@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Raúl Morales
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](raul_morales/333.md) | 15.73 | 19.60 | 🔥 x 1, ⚡ x 1 |

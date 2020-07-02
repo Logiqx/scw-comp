@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Chris Thames - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05)
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](chris_thames/333.md) | 26.69 | 31.20 | 🔥 x 4, ⚡ x 4 |

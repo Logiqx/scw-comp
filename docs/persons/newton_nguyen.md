@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Newton Nguyen - [2019NGUY30](https://www.worldcubeassociation.org/persons/2019NGUY30)
 
+💥 = overall record, 🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](newton_nguyen/333.md) | 14.46 | 18.10 | 💥 x 3, 🔥 x 3, ⚡ x 3 |

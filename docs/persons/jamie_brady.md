@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jamie Brady (Deansie)
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](jamie_brady/333.md) | 21.03 | 24.65 | 🔥 x 1, ⚡ x 2 |

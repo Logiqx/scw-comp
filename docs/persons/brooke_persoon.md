@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Brooke Persoon
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](brooke_persoon/333.md) | 39.40 | 47.49 | 🔥 x 2, ⚡ x 2 |

@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jan Adams-Fielding
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](jan_adams_fielding/333.md) | 24.76 | 27.24 | 🔥 x 10, ⚡ x 7 |

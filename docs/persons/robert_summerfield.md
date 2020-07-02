@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Robert Summerfield
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](robert_summerfield/333.md) | 21.42 | 24.96 | 🔥 x 7, ⚡ x 5 |

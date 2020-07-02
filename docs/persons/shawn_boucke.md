@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Shawn Boucké - [2016BOUC01](https://www.worldcubeassociation.org/persons/2016BOUC01)
 
-🏆 = overall winner
+🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Achievements|
 | -- | --: | --: | :--: | :-- |

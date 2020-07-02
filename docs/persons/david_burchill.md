@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### David Burchill
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](david_burchill/333.md) | 28.50 | 34.84 | 🔥 x 3, ⚡ x 4 |

@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Pete Lee - [2018LEEP04](https://www.worldcubeassociation.org/persons/2018LEEP04)
 
+💥 = overall record, 🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](pete_lee/333.md) | 15.42 | 19.11 | 💥 x 1, 🔥 x 5, ⚡ x 3 |

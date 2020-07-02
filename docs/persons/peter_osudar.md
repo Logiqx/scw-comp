@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Peter Osudar - [2017OSUD01](https://www.worldcubeassociation.org/persons/2017OSUD01)
 
+💥 = overall record, 🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [4x4x4](peter_osudar/444.md) | 1:29.48 | 1:35.22 | 🔥 x 1, ⚡ x 1 |

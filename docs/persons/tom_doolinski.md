@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Tom Doolinski
 
+💥 = overall record, 🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](tom_doolinski/333.md) | 13.48 | 14.99 | 💥 x 1, 🔥 x 1, ⚡ x 1 |

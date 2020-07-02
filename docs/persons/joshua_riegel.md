@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Joshua Riegel - [2019RIEG02](https://www.worldcubeassociation.org/persons/2019RIEG02)
 
+💥 = overall record, 🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](joshua_riegel/333.md) | 25.53 | 29.09 | 🔥 x 2, ⚡ x 2 |

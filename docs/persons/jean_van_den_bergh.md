@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jean van den Bergh
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](jean_van_den_bergh/333.md) | 38.55 | 40.85 | 🔥 x 1, ⚡ x 1 |

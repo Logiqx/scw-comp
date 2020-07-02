@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Ciro Vignotto
 
-🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Medals | Achievements|
 | -- | --: | --: | :-- | :-- |

@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Markus Niederöst - [2018NIED02](https://www.worldcubeassociation.org/persons/2018NIED02)
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](markus_niederost/333.md) | 19.98 | 23.60 | 🔥 x 1, ⚡ x 1 |

@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### David Roche
 
-🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Medals | Achievements|
 | -- | --: | --: | :--: | :-- | :-- |

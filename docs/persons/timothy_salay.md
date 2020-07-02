@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Timothy Salay
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](timothy_salay/333.md) | 24.45 | 31.22 | 🔥 x 3, ⚡ x 4 |

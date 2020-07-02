@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jang Junho (장준호)
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](jang_junho/333.md) | 20.33 | 25.66 | 🔥 x 4, ⚡ x 2 |

@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Joshua M. Woodward
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](joshua_m_woodward/333.md) | 38.26 | 40.14 | 🔥 x 3, ⚡ x 2 |

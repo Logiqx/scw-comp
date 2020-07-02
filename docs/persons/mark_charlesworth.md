@@ -1,6 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Mark Charlesworth
 
+🔥 = PR average, ⚡ = PR single.
+
 | Event | Single | Average | Achievements|
 | -- | --: | --: | :-- |
 | [3x3x3](mark_charlesworth/333.md) | 27.78 | 30.02 | 🔥 x 2, ⚡ x 2 |
