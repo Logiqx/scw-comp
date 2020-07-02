@@ -4,7 +4,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Jae Park](../../persons/jae_park.md) | 40+ | 13:51.60 | DNF | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/850175445522887/permalink/850645842142514/) |
+| 1 | [Jae Park](../../persons/jae_park.md) | 40+ | 13:51.60 | DNF | 🏆 🥇 💥 ⚡ | [Link](https://www.facebook.com/events/850175445522887/permalink/850645842142514/) |
 
 #### [2020-06-16](2020-06-16.md)
 
@@ -17,7 +17,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Jae Park](../../persons/jae_park.md) | 40+ | 14:54.39 | DNF | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/620460455211235/permalink/622707208319893/) |
+| 1 | [Jae Park](../../persons/jae_park.md) | 40+ | 14:54.39 | DNF | 🏆 🥇 💥 ⚡ | [Link](https://www.facebook.com/events/620460455211235/permalink/622707208319893/) |
 
 
 #### [2020-05-26](2020-05-26.md)
@@ -36,7 +36,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Jae Park](../../persons/jae_park.md) | 40+ | 16:59.61 | DNF | 🥇 ⚡ | [Link](https://www.facebook.com/events/367340484222677/permalink/368393814117344/) |
+| 1 | [Jae Park](../../persons/jae_park.md) | 40+ | 16:59.61 | DNF | 🥇 💥 ⚡ | [Link](https://www.facebook.com/events/367340484222677/permalink/368393814117344/) |
 
 
 

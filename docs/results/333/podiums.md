@@ -92,7 +92,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 12.27 | 13.67 | 🏆 🥇 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/514413202796039/) |
+| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 12.27 | 13.67 | 🏆 🥇 💥 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/514413202796039/) |
 | 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | 40+ | 15.28 | 16.07 | 🥈 | [Link](https://www.facebook.com/events/510082903229069/permalink/514423802794979/) |
 | 3 | [Ciro Vignotto](../../persons/ciro_vignotto.md) | 50+ | 16.40 | 18.05 | 🥉 🔥 | [Link](https://www.facebook.com/events/510082903229069/permalink/510196029884423/) |
 
@@ -116,7 +116,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Chris Wright](../../persons/chris_wright.md) | 50+ | 10.58 | 14.47 | 🥇 ⚡ | [Link](https://www.facebook.com/events/280686576235146/permalink/283308539306283/) |
+| 1 | [Chris Wright](../../persons/chris_wright.md) | 50+ | 10.58 | 14.47 | 🥇 💥 ⚡ | [Link](https://www.facebook.com/events/280686576235146/permalink/283308539306283/) |
 | 2 | [Michael George](../../persons/michael_george.md) | 40+ | 12.88 | 14.51 | 🥈 | [Link](https://www.facebook.com/events/280686576235146/permalink/280747299562407/) |
 | 3 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | 40+ | 15.71 | 17.31 | 🥉 | [Link](https://www.facebook.com/events/280686576235146/permalink/284719595831844/) |
 
@@ -124,8 +124,8 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Chris Wright](../../persons/chris_wright.md) | 50+ | 11.80 | 13.94 | 🥇 🔥 | [Link](https://www.facebook.com/events/164742401163863/permalink/166336147671155/) |
-| 2 | [Michael George](../../persons/michael_george.md) | 40+ | 11.64 | 14.40 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/164742401163863/permalink/164839624487474/) |
+| 1 | [Chris Wright](../../persons/chris_wright.md) | 50+ | 11.80 | 13.94 | 🥇 💥 🔥 | [Link](https://www.facebook.com/events/164742401163863/permalink/166336147671155/) |
+| 2 | [Michael George](../../persons/michael_george.md) | 40+ | 11.64 | 14.40 | 🥈 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/164742401163863/permalink/164839624487474/) |
 | 3 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | 40+ | 13.74 | 15.99 | 🥉 | [Link](https://www.facebook.com/events/164742401163863/permalink/167261364245300/) |
 
 #### [2020-03-03](2020-03-03.md)
@@ -140,7 +140,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Chris Wright](../../persons/chris_wright.md) | 50+ | 11.65 | 14.53 | 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/196320811461109/permalink/198268351266355/) |
+| 1 | [Chris Wright](../../persons/chris_wright.md) | 50+ | 11.65 | 14.53 | 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/196320811461109/permalink/198268351266355/) |
 | 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | 40+ | 14.75 | 15.64 | 🥈 | [Link](https://www.facebook.com/events/196320811461109/permalink/198168011276389/) |
 | 3 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 16.09 | 18.48 | 🥉 | [Link](https://www.facebook.com/events/196320811461109/permalink/198304644596059/) |
 
@@ -148,8 +148,8 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 12.71 | 14.46 | 🥇 🔥 | [Link](https://www.facebook.com/events/2558750947697073/permalink/2559747680930733/) |
-| 2 | [Chris Wright](../../persons/chris_wright.md) | 50+ | 13.20 | 14.97 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2563823887189779/) |
+| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 12.71 | 14.46 | 🥇 💥 🔥 | [Link](https://www.facebook.com/events/2558750947697073/permalink/2559747680930733/) |
+| 2 | [Chris Wright](../../persons/chris_wright.md) | 50+ | 13.20 | 14.97 | 🥈 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/2558750947697073/permalink/2563823887189779/) |
 | 3 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | 40+ | 14.64 | 15.23 | 🥉 🔥 | [Link](https://www.facebook.com/events/2558750947697073/permalink/2559926517579516/) |
 
 #### [2020-02-11](2020-02-11.md)
@@ -164,7 +164,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 12.10 | 15.65 | 🥇 ⚡ | [Link](https://www.facebook.com/michael.george.545/videos/10212925298047536/) |
+| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 12.10 | 15.65 | 🥇 💥 ⚡ | [Link](https://www.facebook.com/michael.george.545/videos/10212925298047536/) |
 | 2 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 16.57 | 18.49 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134828513329721/) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 17.41 | 19.20 | 🥉 🔥 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139250239554215/) |
 
@@ -172,7 +172,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 13.28 | 15.05 | 🥇 🔥 ⚡ | [Link](https://www.facebook.com/michael.george.545/videos/10212902094667466/) |
+| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 13.28 | 15.05 | 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/michael.george.545/videos/10212902094667466/) |
 | 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | 40+ | 13.37 | 15.58 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/grzegorz.pacewicz/videos/2843577535688602/) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 17.33 | 19.62 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/geoff.hartnell.9/videos/10158249932051694/) |
 

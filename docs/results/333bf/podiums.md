@@ -4,7 +4,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Jae Park](../../persons/jae_park.md) | 40+ | 46.90 | 1:02.00 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/850175445522887/permalink/852285558645209/) |
+| 1 | [Jae Park](../../persons/jae_park.md) | 40+ | 46.90 | 1:02.00 | 🏆 🥇 💥 ⚡ | [Link](https://www.facebook.com/events/850175445522887/permalink/852285558645209/) |
 | 2 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 2:01.25 | 2:38.02 | 🥈 | [Link](https://www.facebook.com/events/850175445522887/permalink/854493248424440/) |
 
 #### [2020-06-16](2020-06-16.md)
@@ -35,7 +35,7 @@
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
 | 1 | [Jae Park](../../persons/jae_park.md) | 40+ | 1:00.73 | DNF | 🥇 | [Link](https://www.facebook.com/events/1531820936993798/permalink/1534279060081319/) |
-| 2 | [Peter Andersson](../../persons/peter_andersson.md) | 50+ | 2:02.45 | DNF | 🥈 ⚡ | [Link](https://www.facebook.com/events/1531820936993798/permalink/1533584773484081/) |
+| 2 | [Peter Andersson](../../persons/peter_andersson.md) | 50+ | 2:02.45 | DNF | 🥈 💥 ⚡ | [Link](https://www.facebook.com/events/1531820936993798/permalink/1533584773484081/) |
 
 #### [2020-05-19](2020-05-19.md)
 
@@ -111,7 +111,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Jae Park](../../persons/jae_park.md) | 40+ | 48.68 | 57.66 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/173728187264773/permalink/173945660576359/) |
+| 1 | [Jae Park](../../persons/jae_park.md) | 40+ | 48.68 | 57.66 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/173728187264773/permalink/173945660576359/) |
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon.md) | 40+ | 1:22.00 | DNF | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/173728187264773/permalink/178355273468731/) |
 | 3 | [Mark Adams](../../persons/mark_adams.md) | 40+ | 1:46.60 | DNF | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/173728187264773/permalink/176409236996668/) |
 

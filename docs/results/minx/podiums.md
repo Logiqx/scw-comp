@@ -27,7 +27,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 1:32.08 | 1:39.69 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374121619479628/) |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 1:32.08 | 1:39.69 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374121619479628/) |
 | 2 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 2:48.09 | 2:57.26 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374518846106572/) |
 | 3 | [Aaron Cumes](../../persons/aaron_cumes.md) | 40+ | 4:39.94 | DNF | 🥉 | [Link](https://www.facebook.com/events/3373950429496747/permalink/3380188232206300/) |
 
@@ -35,7 +35,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 1:38.20 | 1:44.45 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/688533835310168/) |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 1:38.20 | 1:44.45 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/688533835310168/) |
 | 2 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 2:50.89 | 3:05.02 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/690047708492114/) |
 | 3 | [Jo Cocco](../../persons/jo_cocco.md) | 40+ | 3:55.83 | DNF | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/689392185224333/) |
 

@@ -5,7 +5,7 @@
 
 | # | Name | Date | Age | Average | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Chris Hardwick](../../persons/chris_hardwick.md) | [2020-05-05](2020-05-05.md) | <40 | 8:34.50 | 🔥 ⚡ | [Link](https://www.facebook.com/events/2624652641189887/permalink/2625339637787854/) |
+| 1 | [Chris Hardwick](../../persons/chris_hardwick.md) | [2020-05-05](2020-05-05.md) | <40 | 8:34.50 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/2624652641189887/permalink/2625339637787854/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -5,30 +5,30 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-26](2020-05-26.md) | 60+ | 15:59.23 | ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640055109913097/) |
+| 1 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-26](2020-05-26.md) | 60+ | 15:59.23 | 💥 ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640055109913097/) |
 
 #### Over 50
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-26](2020-05-26.md) | 60+ | 15:59.23 | ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640055109913097/) |
+| 1 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-26](2020-05-26.md) | 60+ | 15:59.23 | 💥 ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640055109913097/) |
 
 #### Over 40
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | [2020-05-05](2020-05-05.md) | 40+ | 4:58.23 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/557526585195168/permalink/558592678421892/) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | [2020-05-05](2020-05-05.md) | 40+ | 4:58.23 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/557526585195168/permalink/558592678421892/) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | [2020-06-09](2020-06-09.md) | 40+ | 5:43.85 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131048293927044/) |
 | 3 | [Jeremy Duehring](../../persons/jeremy_duehring.md) | [2020-06-09](2020-06-09.md) | 40+ | 8:08.23 | 🥉 ⚡ | [Link](https://www.facebook.com/jeremy.duehring/videos/10160093213052846/) |
 | 4 | [Aaron Cumes](../../persons/aaron_cumes.md) | [2020-06-02](2020-06-02.md) | 40+ | 8:52.52 | 🥉 ⚡ | [Link](https://www.facebook.com/events/573401076937046/permalink/574489523494868/) |
-| 5 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-26](2020-05-26.md) | 60+ | 15:59.23 | ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640055109913097/) |
+| 5 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-26](2020-05-26.md) | 60+ | 15:59.23 | 💥 ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640055109913097/) |
 
 #### Under 40
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Peter Osudar](../../persons/peter_osudar.md) | [2020-06-23](2020-06-23.md) | <40 | 6:13.99 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276983293621325/) |
-| 2 | [Pete Lee](../../persons/pete_lee.md) | [2020-06-16](2020-06-16.md) | <40 | 7:59.28 | ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/256481515578596/) |
+| 1 | [Peter Osudar](../../persons/peter_osudar.md) | [2020-06-23](2020-06-23.md) | <40 | 6:13.99 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276983293621325/) |
+| 2 | [Pete Lee](../../persons/pete_lee.md) | [2020-06-16](2020-06-16.md) | <40 | 7:59.28 | 💥 ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/256481515578596/) |
 | 3 | [Ed Connell](../../persons/ed_connell.md) | [2020-05-26](2020-05-26.md) | <40 | 8:56.69 | 🔥 ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640364566548818/) |
 
 

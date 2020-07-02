@@ -36,7 +36,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 18.57 | 24.09 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/691891971641021/) |
+| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 18.57 | 24.09 | 🏆 🥇 💥 ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/691891971641021/) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 29.13 | 30.96 | 🥈 🔥 | [Link](https://www.facebook.com/events/688407551989463/permalink/690561981774020/) |
 | 3 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 34.17 | 47.82 | 🥉 ⚡ | [Link](https://www.facebook.com/events/688407551989463/permalink/690047708492114/) |
 
@@ -68,7 +68,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 18.93 | 21.87 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/535188653858103/permalink/535332343843734/) |
+| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 18.93 | 21.87 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/535188653858103/permalink/535332343843734/) |
 | 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | 40+ | 29.38 | 32.65 | 🥈 🔥 | [Link](https://www.facebook.com/events/535188653858103/permalink/537395990304036/) |
 | 3 | [Thierry Boisivon](../../persons/thierry_boisivon.md) | 40+ | 29.83 | 32.89 | 🥉 🔥 | [Link](https://www.facebook.com/events/535188653858103/permalink/536882240355411/) |
 
@@ -100,7 +100,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 20.00 | 24.86 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/212335450005639/permalink/215815472990970/) |
+| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 20.00 | 24.86 | 🏆 🥇 💥 ⚡ | [Link](https://www.facebook.com/events/212335450005639/permalink/215815472990970/) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 27.51 | 35.00 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/212335450005639/permalink/215249939714190/) |
 | 3 | [Thierry Boisivon](../../persons/thierry_boisivon.md) | 40+ | 32.00 | 37.62 | 🥉 | [Link](https://www.facebook.com/events/212335450005639/permalink/216598292912688/) |
 
@@ -108,7 +108,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 20.92 | 22.57 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/684510792316675/permalink/684649052302849/) |
+| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 20.92 | 22.57 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/684510792316675/permalink/684649052302849/) |
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon.md) | 40+ | 25.02 | 34.80 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/684510792316675/permalink/687069845394103/) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 28.58 | 35.10 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/684510792316675/permalink/686046518829769/) |
 
@@ -116,7 +116,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 22.73 | 27.32 | 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/1618332754973681/permalink/1619575454849411/) |
+| 1 | [Michael George](../../persons/michael_george.md) | 40+ | 22.73 | 27.32 | 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/1618332754973681/permalink/1619575454849411/) |
 | 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | 40+ | 29.18 | 35.44 | 🥈 🔥 ⚡ | |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 30.99 | 37.28 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/1618332754973681/permalink/1623480064458950/) |
 

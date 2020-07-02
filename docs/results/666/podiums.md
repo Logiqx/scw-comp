@@ -13,7 +13,7 @@
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 3:44.19 | 3:54.60 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/257143898845691/) |
-| 2 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 3:27.31 | 3:57.25 | 🥈 ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/258506008709480/) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 3:27.31 | 3:57.25 | 🥈 💥 ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/258506008709480/) |
 | 3 | [Michael George](../../persons/michael_george.md) | 40+ | 5:18.47 | DNF | 🥉 ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/257847418775339/) |
 
 #### [2020-06-09](2020-06-09.md)
@@ -28,7 +28,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 3:27.64 | 3:42.79 | 🏆 🥇 ⚡ | [Link](https://www.facebook.com/events/573401076937046/permalink/573727163571104/) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 3:27.64 | 3:42.79 | 🏆 🥇 💥 ⚡ | [Link](https://www.facebook.com/events/573401076937046/permalink/573727163571104/) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 4:19.31 | DNF | 🥈 | [Link](https://www.facebook.com/events/573401076937046/permalink/574319000178587/) |
 | 3 | [Aaron Cumes](../../persons/aaron_cumes.md) | 40+ | 5:00.57 | DNF | 🥉 ⚡ | [Link](https://www.facebook.com/events/573401076937046/permalink/574489523494868/) |
 
@@ -60,8 +60,8 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 3:29.70 | 3:36.18 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/557526585195168/permalink/558595331754960/) |
-| 2 | [Daniel Smith](../../persons/daniel_smith.md) | 50+ | 5:28.23 | 5:54.57 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/557526585195168/permalink/562187611395732/) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 3:29.70 | 3:36.18 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/557526585195168/permalink/558595331754960/) |
+| 2 | [Daniel Smith](../../persons/daniel_smith.md) | 50+ | 5:28.23 | 5:54.57 | 🥈 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/557526585195168/permalink/562187611395732/) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 3:49.38 | DNF | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/557526585195168/permalink/558261701788323/) |
 
 

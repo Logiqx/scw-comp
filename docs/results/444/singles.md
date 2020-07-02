@@ -5,26 +5,26 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-26](2020-05-26.md) | 60+ | 4:08.00 | ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640053636579911/) |
+| 1 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-26](2020-05-26.md) | 60+ | 4:08.00 | 💥 ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640053636579911/) |
 
 #### Over 50
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Ron van Bruchem](../../persons/ron_van_bruchem.md) | [2020-03-17](2020-03-17.md) | 50+ | 46.32 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
-| 2 | [Chris Wright](../../persons/chris_wright.md) | [2020-02-25](2020-02-25.md) | 50+ | 50.41 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/808666752972148/) |
+| 1 | [Ron van Bruchem](../../persons/ron_van_bruchem.md) | [2020-03-17](2020-03-17.md) | 50+ | 46.32 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
+| 2 | [Chris Wright](../../persons/chris_wright.md) | [2020-02-25](2020-02-25.md) | 50+ | 50.41 | 🥈 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/808666752972148/) |
 | 3 | [Ciro Vignotto](../../persons/ciro_vignotto.md) | [2020-03-17](2020-03-17.md) | 50+ | 56.70 | 🔥 ⚡ | [Link](https://www.facebook.com/events/211732526904866/permalink/212061480205304/) |
 | 4 | [Daniel Smith](../../persons/daniel_smith.md) | [2020-06-16](2020-06-16.md) | 50+ | 1:12.01 | ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/260576965169051/) |
 | 5 | [Peter Douthwright](../../persons/peter_douthwright.md) | [2020-03-31](2020-03-31.md) | 50+ | 2:20.53 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
-| 6 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-26](2020-05-26.md) | 60+ | 4:08.00 | ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640053636579911/) |
+| 6 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-26](2020-05-26.md) | 60+ | 4:08.00 | 💥 ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640053636579911/) |
 
 #### Over 40
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Michael George](../../persons/michael_george.md) | [2020-05-05](2020-05-05.md) | 40+ | 45.67 | 🥇 ⚡ | [Link](https://www.facebook.com/events/557526585195168/permalink/559133148367845/) |
-| 2 | [Ron van Bruchem](../../persons/ron_van_bruchem.md) | [2020-03-17](2020-03-17.md) | 50+ | 46.32 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
-| 3 | [Chris Wright](../../persons/chris_wright.md) | [2020-02-25](2020-02-25.md) | 50+ | 50.41 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/808666752972148/) |
+| 1 | [Michael George](../../persons/michael_george.md) | [2020-05-05](2020-05-05.md) | 40+ | 45.67 | 🥇 💥 ⚡ | [Link](https://www.facebook.com/events/557526585195168/permalink/559133148367845/) |
+| 2 | [Ron van Bruchem](../../persons/ron_van_bruchem.md) | [2020-03-17](2020-03-17.md) | 50+ | 46.32 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
+| 3 | [Chris Wright](../../persons/chris_wright.md) | [2020-02-25](2020-02-25.md) | 50+ | 50.41 | 🥈 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/808666752972148/) |
 | 4 | [Jeremy Duehring](../../persons/jeremy_duehring.md) | [2020-04-14](2020-04-14.md) | 40+ | 52.35 | 🥈 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1406261962909281/) |
 | 5 | [Andy Nicholls](../../persons/andy_nicholls.md) | [2020-06-09](2020-06-09.md) | 40+ | 54.56 | 🥈 ⚡ | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131107933921080/) |
 | 6 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz.md) | [2020-02-25](2020-02-25.md) | 40+ | 56.11 | 🔥 ⚡ | |
@@ -41,13 +41,13 @@
 | 17 | [Jang Junho (장준호)](../../persons/jang_junho.md) | [2020-02-25](2020-02-25.md) | 40+ | 2:31.31 | 🔥 ⚡ | [Link](https://www.facebook.com/events/805797596592397/permalink/810015492837274/) |
 | 18 | [Jo Cocco](../../persons/jo_cocco.md) | [2020-03-31](2020-03-31.md) | 40+ | 2:55.79 | 🔥 ⚡ | [Link](https://www.facebook.com/events/269276700734640/permalink/271293767199600/) |
 | 19 | [Joshua M. Woodward](../../persons/joshua_m_woodward.md) | [2020-02-04](2020-02-04.md) | 40+ | 3:13.21 | 🔥 ⚡ | [Link](https://www.facebook.com/joshua.m.woodward.9/videos/10157599917355342/) |
-| 20 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-26](2020-05-26.md) | 60+ | 4:08.00 | ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640053636579911/) |
+| 20 | [Donna Leiber](../../persons/donna_leiber.md) | [2020-05-26](2020-05-26.md) | 60+ | 4:08.00 | 💥 ⚡ | [Link](https://www.facebook.com/events/637852836799991/permalink/640053636579911/) |
 
 #### Under 40
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Go-ho Choi](../../persons/go_ho_choi.md) | [2020-05-12](2020-05-12.md) | <40 | 36.50 | 🏆 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/279409959863758/) |
+| 1 | [Go-ho Choi](../../persons/go_ho_choi.md) | [2020-05-12](2020-05-12.md) | <40 | 36.50 | 🏆 💥 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/279409959863758/) |
 | 2 | [Shawn Boucké](../../persons/shawn_boucke.md) | [2020-05-05](2020-05-05.md) | <40 | 46.21 | 🏆 ⚡ | [Link](https://www.facebook.com/events/543220986391837/permalink/548566115857324/) |
 | 3 | [Pete Lee](../../persons/pete_lee.md) | [2020-06-23](2020-06-23.md) | <40 | 54.90 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/270820800904241/) |
 | 4 | [Ed Connell](../../persons/ed_connell.md) | [2020-04-14](2020-04-14.md) | <40 | 1:00.92 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1404450843090393/) |
@@ -62,7 +62,7 @@
 
 | # | Name | Date | Age | Single | Awards | Video |
 | :--: | -- | :--: | :--: | --: | :--: | -- |
-| 1 | [Raimon Schaap](../../persons/raimon_schaap.md) | [2020-04-14](2020-04-14.md) | <30 | 1:16.76 | 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1405207589681385/) |
+| 1 | [Raimon Schaap](../../persons/raimon_schaap.md) | [2020-04-14](2020-04-14.md) | <30 | 1:16.76 | 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/1400953806773430/permalink/1405207589681385/) |
 | 2 | [Joshua Riegel](../../persons/joshua_riegel.md) | [2020-06-23](2020-06-23.md) | <30 | 1:26.83 | 🔥 ⚡ | [Link](https://www.facebook.com/events/268636114456043/permalink/276409987011989/) |
 
 

@@ -13,7 +13,7 @@
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 1:48.45 | 1:51.09 | 🏆 🥇 | [Link](https://www.facebook.com/events/256188575607890/permalink/258505805376167/) |
-| 2 | [Chris Wright](../../persons/chris_wright.md) | 50+ | 1:42.41 | 1:51.33 | 🥈 ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/257123418847739/) |
+| 2 | [Chris Wright](../../persons/chris_wright.md) | 50+ | 1:42.41 | 1:51.33 | 🥈 💥 ⚡ | [Link](https://www.facebook.com/events/256188575607890/permalink/257123418847739/) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 2:01.06 | 2:06.72 | 🥉 | [Link](https://www.facebook.com/events/256188575607890/permalink/257650645461683/) |
 
 #### [2020-06-09](2020-06-09.md)
@@ -21,7 +21,7 @@
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 1:44.89 | 1:59.66 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131991020499438/) |
-| 2 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 1:38.52 | 2:00.75 | 🥈 ⚡ | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131119780586562/) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 1:38.52 | 2:00.75 | 🥈 💥 ⚡ | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131119780586562/) |
 | 3 | [Michael George](../../persons/michael_george.md) | 40+ | 1:54.40 | 2:06.87 | 🥉 ⚡ | [Link](https://www.facebook.com/events/1130228284009045/permalink/1135087346856472/) |
 
 #### [2020-06-02](2020-06-02.md)
@@ -52,7 +52,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 1:39.44 | 1:46.32 | 🏆 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/276779116793509/) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 1:39.44 | 1:46.32 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/276138643524223/permalink/276779116793509/) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 1:56.16 | 2:03.03 | 🥈 🔥 | [Link](https://www.facebook.com/events/276138643524223/permalink/277677353370352/) |
 | 3 | [Michael George](../../persons/michael_george.md) | 40+ | 1:57.85 | 2:03.24 | 🥉 | [Link](https://www.facebook.com/events/276138643524223/permalink/280314056440015/) |
 
@@ -100,7 +100,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Chris Wright](../../persons/chris_wright.md) | 50+ | 1:42.56 | 1:46.58 | 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639952702955113/) |
+| 1 | [Chris Wright](../../persons/chris_wright.md) | 50+ | 1:42.56 | 1:46.58 | 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639952702955113/) |
 | 2 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 1:47.72 | 1:54.70 | 🥈 | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639058019711248/) |
 | 3 | [Michael George](../../persons/michael_george.md) | 40+ | 1:57.62 | 2:03.46 | 🥉 🔥 | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639967129620337/) |
 
@@ -108,7 +108,7 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | -- | :--: | --: | --: | :--: | -- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 1:42.82 | 1:51.41 | 🥇 🔥 ⚡ | [Link](https://www.facebook.com/events/538921670053895/permalink/539067020039360/) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls.md) | 40+ | 1:42.82 | 1:51.41 | 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/538921670053895/permalink/539067020039360/) |
 | 2 | [Michael George](../../persons/michael_george.md) | 40+ | 1:56.90 | 2:04.38 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/538921670053895/permalink/539655733313822/) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell.md) | 40+ | 1:53.35 | 2:08.70 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/538921670053895/permalink/540734073205988/) |
 
