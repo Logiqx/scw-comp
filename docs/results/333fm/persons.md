@@ -1,49 +1,49 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Fewest Moves Competitors
 
-🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 #### Over 60
 
-| Name | Age | Single | Medals |
-| -- | :--: | :--: | :-- |
-| [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | 43 |  |
+| Name | Age | Single | Trophies | Medals | Achievements |
+| -- | :--: | :--: | :--: | :-- | :-- |
+| [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | 43 |  |  | 💥 x 2, ⚡ x 2 |
 
 #### Over 50
 
-| Name | Age | Single | Medals |
-| -- | :--: | :--: | :-- |
-| [Ciro Vignotto](../../persons/ciro_vignotto/333fm.md) | 50+ | 43 | 🥉 x 1 |
-| [David Roche](../../persons/david_roche/333fm.md) | 50+ | 21 | 🏆 x 1, 🥇 x 3, 🥈 x 5, 🥉 x 4 |
-| [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | 43 |  |
-| [John Cook](../../persons/john_cook/333fm.md) | 50+ | 45 | 🥉 x 2 |
-| [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | 33 | 🥈 x 1, 🥉 x 2 |
-| [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | 21 | 🏆 x 5, 🥇 x 5, 🥈 x 1 |
+| Name | Age | Single | Trophies | Medals | Achievements |
+| -- | :--: | :--: | :--: | :-- | :-- |
+| [Ciro Vignotto](../../persons/ciro_vignotto/333fm.md) | 50+ | 43 |  | 🥉 x 1 | ⚡ x 1 |
+| [David Roche](../../persons/david_roche/333fm.md) | 50+ | 21 | 🏆 x 1 | 🥇 x 3, 🥈 x 5, 🥉 x 4 | 💥 x 3, ⚡ x 4 |
+| [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | 43 |  |  | 💥 x 2, ⚡ x 2 |
+| [John Cook](../../persons/john_cook/333fm.md) | 50+ | 45 |  | 🥉 x 2 | ⚡ x 3 |
+| [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | 33 |  | 🥈 x 1, 🥉 x 2 | ⚡ x 2 |
+| [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | 21 | 🏆 x 5 | 🥇 x 5, 🥈 x 1 | 💥 x 2, ⚡ x 3 |
 
 #### Over 40
 
-| Name | Age | Single | Medals |
-| -- | :--: | :--: | :-- |
-| [Andy Nicholls](../../persons/andy_nicholls/333fm.md) | 40+ | 36 | 🥉 x 3 |
-| [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 25 | 🏆 x 1, 🥇 x 1, 🥈 x 3, 🥉 x 2 |
-| [Ciro Vignotto](../../persons/ciro_vignotto/333fm.md) | 50+ | 43 | 🥉 x 1 |
-| [David Roche](../../persons/david_roche/333fm.md) | 50+ | 21 | 🏆 x 1, 🥇 x 3, 🥈 x 5, 🥉 x 4 |
-| [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | 43 |  |
-| [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) | 40+ | 25 | 🏆 x 8, 🥇 x 12, 🥈 x 5, 🥉 x 1 |
-| [John Cook](../../persons/john_cook/333fm.md) | 50+ | 45 | 🥉 x 2 |
-| [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | 33 | 🥈 x 1, 🥉 x 2 |
-| [Michael George](../../persons/michael_george/333fm.md) | 40+ | 31 | 🥇 x 1, 🥈 x 4, 🥉 x 3 |
-| [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | 21 | 🏆 x 5, 🥇 x 5, 🥈 x 1 |
+| Name | Age | Single | Trophies | Medals | Achievements |
+| -- | :--: | :--: | :--: | :-- | :-- |
+| [Andy Nicholls](../../persons/andy_nicholls/333fm.md) | 40+ | 36 |  | 🥉 x 3 | ⚡ x 2 |
+| [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 25 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 2 | ⚡ x 2 |
+| [Ciro Vignotto](../../persons/ciro_vignotto/333fm.md) | 50+ | 43 |  | 🥉 x 1 | ⚡ x 1 |
+| [David Roche](../../persons/david_roche/333fm.md) | 50+ | 21 | 🏆 x 1 | 🥇 x 3, 🥈 x 5, 🥉 x 4 | 💥 x 3, ⚡ x 4 |
+| [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | 43 |  |  | 💥 x 2, ⚡ x 2 |
+| [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) | 40+ | 25 | 🏆 x 8 | 🥇 x 12, 🥈 x 5, 🥉 x 1 | 💥 x 1, ⚡ x 3 |
+| [John Cook](../../persons/john_cook/333fm.md) | 50+ | 45 |  | 🥉 x 2 | ⚡ x 3 |
+| [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | 33 |  | 🥈 x 1, 🥉 x 2 | ⚡ x 2 |
+| [Michael George](../../persons/michael_george/333fm.md) | 40+ | 31 |  | 🥇 x 1, 🥈 x 4, 🥉 x 3 | ⚡ x 3 |
+| [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | 21 | 🏆 x 5 | 🥇 x 5, 🥈 x 1 | 💥 x 2, ⚡ x 3 |
 
 #### Under 40
 
-| Name | Age | Single | Medals |
-| -- | :--: | :--: | :-- |
-| [Adam Robson](../../persons/adam_robson/333fm.md) | <40 | 26 |  |
-| [Brooke Persoon](../../persons/brooke_persoon/333fm.md) | <40 | 42 |  |
-| [Ed Connell](../../persons/ed_connell/333fm.md) | <40 | 29 |  |
-| [Go-ho Choi](../../persons/go_ho_choi/333fm.md) | <40 | 41 |  |
-| [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | <40 | 24 | 🏆 x 5 |
+| Name | Age | Single | Trophies | Medals | Achievements |
+| -- | :--: | :--: | :--: | :-- | :-- |
+| [Adam Robson](../../persons/adam_robson/333fm.md) | <40 | 26 |  |  | ⚡ x 4 |
+| [Brooke Persoon](../../persons/brooke_persoon/333fm.md) | <40 | 42 |  |  | ⚡ x 1 |
+| [Ed Connell](../../persons/ed_connell/333fm.md) | <40 | 29 |  |  | 💥 x 1, ⚡ x 4 |
+| [Go-ho Choi](../../persons/go_ho_choi/333fm.md) | <40 | 41 |  |  | ⚡ x 1 |
+| [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | <40 | 24 | 🏆 x 5 |  | 💥 x 4, ⚡ x 4 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

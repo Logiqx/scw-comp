@@ -1,9 +1,9 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Mark Charlesworth
 
-| Event | Single | Average |
-| -- | --: | --: |
-| [3x3x3](mark_charlesworth/333.md) | 27.78 | 30.02 |  |
+| Event | Single | Average | Achievements|
+| -- | --: | --: | :-- |
+| [3x3x3](mark_charlesworth/333.md) | 27.78 | 30.02 | 🔥 x 2, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

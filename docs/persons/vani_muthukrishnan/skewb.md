@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### [Vani Muthukrishnan](../vani_muthukrishnan.md) - Skewb - [2016MUTH05](https://www.worldcubeassociation.org/persons/2016MUTH05?event=skewb)
 
-🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single
+🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

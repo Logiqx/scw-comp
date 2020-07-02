@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### [Aaron Cumes](../aaron_cumes.md) - Pyraminx - [2018CUME02](https://www.worldcubeassociation.org/persons/2018CUME02?event=pyram)
 
-🔥 = PR average, ⚡ = PR single
+🔥 = PR average, ⚡ = PR single.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |

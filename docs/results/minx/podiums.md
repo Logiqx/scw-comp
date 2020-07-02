@@ -1,6 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Megaminx Senior Podiums
-🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record 🔥 = PR average ⚡ = PR single
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 #### [2020-06-23](2020-06-23.md)
 

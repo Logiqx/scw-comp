@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### 4x4x4 Averages
 
-🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record 🔥 = PR average ⚡ = PR single
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 #### Over 50
 

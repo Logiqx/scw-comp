@@ -1,7 +1,7 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### [Donna Leiber](../donna_leiber.md) - Megaminx
 
-💥 = overall record, 🔥 = PR average, ⚡ = PR single
+💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
