@@ -3,16 +3,16 @@
 
 #### Over 40
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Andy Nicholls](../../persons/andy_nicholls/555bf.md) | 40+ | 26:59.43 | DNF |
-| [Jae Park](../../persons/jae_park/555bf.md) | 40+ | 13:51.60 | DNF |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Andy Nicholls](../../persons/andy_nicholls/555bf.md) | 40+ | 26:59.43 | DNF | 🥈 x 1 |
+| [Jae Park](../../persons/jae_park/555bf.md) | 40+ | 13:51.60 | DNF | 🏆 x 4, 🥇 x 6 |
 
 #### Under 40
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Chris Hardwick](../../persons/chris_hardwick/555bf.md) | <40 | 13:18.63 | DNF |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Chris Hardwick](../../persons/chris_hardwick/555bf.md) | <40 | 13:18.63 | DNF | 🏆 x 3 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

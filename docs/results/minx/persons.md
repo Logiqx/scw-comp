@@ -3,34 +3,34 @@
 
 #### Over 60
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | 7:34.18 | DNF |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | 7:34.18 | DNF |  |
 
 #### Over 50
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Daniel Smith](../../persons/daniel_smith/minx.md) | 50+ | 8:11.77 | DNF |
-| [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | 7:34.18 | DNF |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Daniel Smith](../../persons/daniel_smith/minx.md) | 50+ | 8:11.77 | DNF |  |
+| [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | 7:34.18 | DNF |  |
 
 #### Over 40
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Aaron Cumes](../../persons/aaron_cumes/minx.md) | 40+ | 3:52.70 | DNF |
-| [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | 2:21.01 | 2:38.82 |
-| [Daniel Smith](../../persons/daniel_smith/minx.md) | 50+ | 8:11.77 | DNF |
-| [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | 7:34.18 | DNF |
-| [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:32.08 | 1:39.69 |
-| [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | 3:55.83 | DNF |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Aaron Cumes](../../persons/aaron_cumes/minx.md) | 40+ | 3:52.70 | DNF | 🥉 x 3 |
+| [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | 2:21.01 | 2:38.82 | 🥈 x 5 |
+| [Daniel Smith](../../persons/daniel_smith/minx.md) | 50+ | 8:11.77 | DNF |  |
+| [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | 7:34.18 | DNF |  |
+| [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:32.08 | 1:39.69 | 🏆 x 5, 🥇 x 5 |
+| [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | 3:55.83 | DNF | 🥉 x 1 |
 
 #### Under 40
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Chris Thames](../../persons/chris_thames/minx.md) | <40 | 6:02.13 | DNF |
-| [Ed Connell](../../persons/ed_connell/minx.md) | <40 | 3:24.48 | DNF |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Chris Thames](../../persons/chris_thames/minx.md) | <40 | 6:02.13 | DNF |  |
+| [Ed Connell](../../persons/ed_connell/minx.md) | <40 | 3:24.48 | DNF |  |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

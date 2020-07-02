@@ -1,11 +1,11 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### Raimon Schaap
 
-| Event | Single | Average |
-| -- | --: | --: |
-| [3x3x3](raimon_schaap/333.md) | 13.58 | 15.99 |
-| [2x2x2](raimon_schaap/222.md) | 4.63 | 7.18 |
-| [4x4x4](raimon_schaap/444.md) | 1:16.76 | 1:23.57 |
+| Event | Single | Average | Medals |
+| -- | --: | --: | :-- |
+| [3x3x3](raimon_schaap/333.md) | 13.58 | 15.99 |  |
+| [2x2x2](raimon_schaap/222.md) | 4.63 | 7.18 |  |
+| [4x4x4](raimon_schaap/444.md) | 1:16.76 | 1:23.57 |  |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

@@ -3,23 +3,23 @@
 
 #### Over 50
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 24.84 | 29.69 |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 24.84 | 29.69 | 🏆 x 2, 🥇 x 2 |
 
 #### Over 40
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | 31.85 | 50.55 |
-| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 24.84 | 29.69 |
-| [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | 43.91 | 56.18 |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | 31.85 | 50.55 | 🥈 x 2 |
+| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 24.84 | 29.69 | 🏆 x 2, 🥇 x 2 |
+| [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | 43.91 | 56.18 | 🥉 x 1 |
 
 #### Under 40
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Ed Connell](../../persons/ed_connell/sq1.md) | <40 | 48.40 | 50.29 |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Ed Connell](../../persons/ed_connell/sq1.md) | <40 | 48.40 | 50.29 |  |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

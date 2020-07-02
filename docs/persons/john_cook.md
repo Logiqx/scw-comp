@@ -1,9 +1,9 @@
 ## Senior Cubers Worldwide - Weekly Competition
 ### John Cook
 
-| Event | Single | Average |
-| -- | --: | --: |
-| [3x3x3 FMC](john_cook/333fm.md) | 45 | - |
+| Event | Single | Average | Medals |
+| -- | --: | --: | :-- |
+| [3x3x3 FMC](john_cook/333fm.md) | 45 | - | 🥉 x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

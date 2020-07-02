@@ -3,105 +3,105 @@
 
 #### Over 60
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |  |
 
 #### Over 50
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Chris Wright](../../persons/chris_wright/333.md) | 50+ | 10.58 | 13.94 |
-| [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | 14.59 | 18.05 |
-| [Daniel Smith](../../persons/daniel_smith/333.md) | 50+ | 20.99 | 27.32 |
-| [David Burchill](../../persons/david_burchill/333.md) | 50+ | 28.50 | 34.84 |
-| [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |
-| [Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) | 50+ | 25.79 | 28.76 |
-| [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | 25.22 | 27.36 |
-| [Markus Niederöst](../../persons/markus_niederost/333.md) | 50+ | 19.98 | 23.60 |
-| [Peter Andersson](../../persons/peter_andersson/333.md) | 50+ | 20.85 | 24.84 |
-| [Peter Douthwright](../../persons/peter_douthwright/333.md) | 50+ | 31.12 | 35.24 |
-| [Robert Summerfield](../../persons/robert_summerfield/333.md) | 50+ | 21.42 | 24.96 |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Chris Wright](../../persons/chris_wright/333.md) | 50+ | 10.58 | 13.94 | 🥇 x 5, 🥈 x 3 |
+| [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | 14.59 | 18.05 | 🥉 x 3 |
+| [Daniel Smith](../../persons/daniel_smith/333.md) | 50+ | 20.99 | 27.32 |  |
+| [David Burchill](../../persons/david_burchill/333.md) | 50+ | 28.50 | 34.84 |  |
+| [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |  |
+| [Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) | 50+ | 25.79 | 28.76 |  |
+| [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | 25.22 | 27.36 |  |
+| [Markus Niederöst](../../persons/markus_niederost/333.md) | 50+ | 19.98 | 23.60 |  |
+| [Peter Andersson](../../persons/peter_andersson/333.md) | 50+ | 20.85 | 24.84 |  |
+| [Peter Douthwright](../../persons/peter_douthwright/333.md) | 50+ | 31.12 | 35.24 |  |
+| [Robert Summerfield](../../persons/robert_summerfield/333.md) | 50+ | 21.42 | 24.96 |  |
 
 #### Over 40
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Aaron Cumes](../../persons/aaron_cumes/333.md) | 40+ | 15.39 | 19.03 |
-| [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | 14.08 | 17.00 |
-| [Anthony Rochester](../../persons/anthony_rochester/333.md) | 40+ | 18.14 | 22.81 |
-| [Chris Wright](../../persons/chris_wright/333.md) | 50+ | 10.58 | 13.94 |
-| [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | 14.59 | 18.05 |
-| [Daniel Smith](../../persons/daniel_smith/333.md) | 50+ | 20.99 | 27.32 |
-| [David Burchill](../../persons/david_burchill/333.md) | 50+ | 28.50 | 34.84 |
-| [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 14.77 | 17.54 |
-| [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | 13.37 | 14.77 |
-| [Huy Nguyen](../../persons/huy_nguyen/333.md) | 40+ | 17.19 | 20.72 |
-| [Jae Park](../../persons/jae_park/333.md) | 40+ | 17.58 | 22.30 |
-| [Jan Adams-Fielding](../../persons/jan_adams_fielding/333.md) | 40+ | 24.76 | 27.24 |
-| [Jang Junho (장준호)](../../persons/jang_junho/333.md) | 40+ | 20.33 | 25.66 |
-| [Jason Green](../../persons/jason_green/333.md) | 40+ | 17.22 | 18.51 |
-| [Jean van den Bergh](../../persons/jean_van_den_bergh/333.md) | 40+ | 38.55 | 40.85 |
-| [Jeremy Duehring](../../persons/jeremy_duehring/333.md) | 40+ | 14.22 | 16.26 |
-| [Jo Cocco](../../persons/jo_cocco/333.md) | 40+ | 37.21 | 46.19 |
-| [Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) | 50+ | 25.79 | 28.76 |
-| [Joshua M. Woodward](../../persons/joshua_m_woodward/333.md) | 40+ | 38.26 | 40.14 |
-| [Kerrie Jarman](../../persons/kerrie_jarman/333.md) | 40+ | 47.24 | 53.32 |
-| [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | 25.22 | 27.36 |
-| [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | 38.14 | 56.04 |
-| [Mark Charlesworth](../../persons/mark_charlesworth/333.md) | 40+ | 27.78 | 30.02 |
-| [Markus Niederöst](../../persons/markus_niederost/333.md) | 50+ | 19.98 | 23.60 |
-| [Michael George](../../persons/michael_george/333.md) | 40+ | 11.64 | 13.67 |
-| [Michael Policastro](../../persons/michael_policastro/333.md) | 40+ | 34.15 | 35.24 |
-| [Peter Andersson](../../persons/peter_andersson/333.md) | 50+ | 20.85 | 24.84 |
-| [Peter Douthwright](../../persons/peter_douthwright/333.md) | 50+ | 31.12 | 35.24 |
-| [Pontus Uggla](../../persons/pontus_uggla/333.md) | 40+ | 18.25 | 20.09 |
-| [Raúl Morales](../../persons/raul_morales/333.md) | 40+ | 15.73 | 19.60 |
-| [Robert Summerfield](../../persons/robert_summerfield/333.md) | 50+ | 21.42 | 24.96 |
-| [Stuart Salmon](../../persons/stuart_salmon/333.md) | 40+ | 22.76 | 32.88 |
-| [Thierry Boisivon](../../persons/thierry_boisivon/333.md) | 40+ | 14.08 | 16.63 |
-| [Timothy Salay](../../persons/timothy_salay/333.md) | 40+ | 24.45 | 31.22 |
-| [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333.md) | 40+ | 21.40 | 22.41 |
-| [Yoann Lecoeur](../../persons/yoann_lecoeur/333.md) | 40+ | 16.76 | 21.05 |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Aaron Cumes](../../persons/aaron_cumes/333.md) | 40+ | 15.39 | 19.03 |  |
+| [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | 14.08 | 17.00 | 🥈 x 2, 🥉 x 4 |
+| [Anthony Rochester](../../persons/anthony_rochester/333.md) | 40+ | 18.14 | 22.81 |  |
+| [Chris Wright](../../persons/chris_wright/333.md) | 50+ | 10.58 | 13.94 | 🥇 x 5, 🥈 x 3 |
+| [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | 14.59 | 18.05 | 🥉 x 3 |
+| [Daniel Smith](../../persons/daniel_smith/333.md) | 50+ | 20.99 | 27.32 |  |
+| [David Burchill](../../persons/david_burchill/333.md) | 50+ | 28.50 | 34.84 |  |
+| [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |  |
+| [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 14.77 | 17.54 | 🥈 x 2, 🥉 x 5 |
+| [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | 13.37 | 14.77 | 🥈 x 8, 🥉 x 3 |
+| [Huy Nguyen](../../persons/huy_nguyen/333.md) | 40+ | 17.19 | 20.72 |  |
+| [Jae Park](../../persons/jae_park/333.md) | 40+ | 17.58 | 22.30 |  |
+| [Jan Adams-Fielding](../../persons/jan_adams_fielding/333.md) | 40+ | 24.76 | 27.24 |  |
+| [Jang Junho (장준호)](../../persons/jang_junho/333.md) | 40+ | 20.33 | 25.66 |  |
+| [Jason Green](../../persons/jason_green/333.md) | 40+ | 17.22 | 18.51 |  |
+| [Jean van den Bergh](../../persons/jean_van_den_bergh/333.md) | 40+ | 38.55 | 40.85 |  |
+| [Jeremy Duehring](../../persons/jeremy_duehring/333.md) | 40+ | 14.22 | 16.26 | 🥈 x 2, 🥉 x 3 |
+| [Jo Cocco](../../persons/jo_cocco/333.md) | 40+ | 37.21 | 46.19 |  |
+| [Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) | 50+ | 25.79 | 28.76 |  |
+| [Joshua M. Woodward](../../persons/joshua_m_woodward/333.md) | 40+ | 38.26 | 40.14 |  |
+| [Kerrie Jarman](../../persons/kerrie_jarman/333.md) | 40+ | 47.24 | 53.32 |  |
+| [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | 25.22 | 27.36 |  |
+| [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | 38.14 | 56.04 |  |
+| [Mark Charlesworth](../../persons/mark_charlesworth/333.md) | 40+ | 27.78 | 30.02 |  |
+| [Markus Niederöst](../../persons/markus_niederost/333.md) | 50+ | 19.98 | 23.60 |  |
+| [Michael George](../../persons/michael_george/333.md) | 40+ | 11.64 | 13.67 | 🏆 x 5, 🥇 x 17, 🥈 x 4 |
+| [Michael Policastro](../../persons/michael_policastro/333.md) | 40+ | 34.15 | 35.24 |  |
+| [Peter Andersson](../../persons/peter_andersson/333.md) | 50+ | 20.85 | 24.84 |  |
+| [Peter Douthwright](../../persons/peter_douthwright/333.md) | 50+ | 31.12 | 35.24 |  |
+| [Pontus Uggla](../../persons/pontus_uggla/333.md) | 40+ | 18.25 | 20.09 |  |
+| [Raúl Morales](../../persons/raul_morales/333.md) | 40+ | 15.73 | 19.60 |  |
+| [Robert Summerfield](../../persons/robert_summerfield/333.md) | 50+ | 21.42 | 24.96 |  |
+| [Stuart Salmon](../../persons/stuart_salmon/333.md) | 40+ | 22.76 | 32.88 |  |
+| [Thierry Boisivon](../../persons/thierry_boisivon/333.md) | 40+ | 14.08 | 16.63 | 🥈 x 1, 🥉 x 4 |
+| [Timothy Salay](../../persons/timothy_salay/333.md) | 40+ | 24.45 | 31.22 |  |
+| [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333.md) | 40+ | 21.40 | 22.41 |  |
+| [Yoann Lecoeur](../../persons/yoann_lecoeur/333.md) | 40+ | 16.76 | 21.05 |  |
 
 #### Under 40
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Adam Robson](../../persons/adam_robson/333.md) | <40 | 19.54 | 23.72 |
-| [Alex Friedman](../../persons/alex_friedman/333.md) | <40 | 15.47 | 18.36 |
-| [Brooke Persoon](../../persons/brooke_persoon/333.md) | <40 | 39.40 | 47.49 |
-| [Chris Hardwick](../../persons/chris_hardwick/333.md) | <40 | 12.00 | 13.26 |
-| [Chris Thames](../../persons/chris_thames/333.md) | <40 | 26.69 | 31.20 |
-| [Ed Connell](../../persons/ed_connell/333.md) | <40 | 14.29 | 15.82 |
-| [Go-ho Choi](../../persons/go_ho_choi/333.md) | <40 | 11.23 | 12.74 |
-| [Isak Majer](../../persons/isak_majer/333.md) | <40 | 16.05 | 18.84 |
-| [Jamie Brady (Deansie)](../../persons/jamie_brady/333.md) | <40 | 21.03 | 24.65 |
-| [Matthew Hart](../../persons/matthew_hart/333.md) | <40 | 22.72 | 24.96 |
-| [Neilimixam Snetrem](../../persons/neilimixam_snetrem/333.md) | <40 | 14.32 | 20.01 |
-| [Pete Lee](../../persons/pete_lee/333.md) | <40 | 15.42 | 19.11 |
-| [Phil Yu](../../persons/phil_yu/333.md) | <40 | 8.12 | 9.64 |
-| [Shawn Boucké](../../persons/shawn_boucke/333.md) | <40 | 10.19 | 13.04 |
-| [Stew Alla](../../persons/stew_alla/333.md) | <40 | 20.69 | 23.27 |
-| [Zack Âû Black](../../persons/zack_au_black/333.md) | <40 | 15.72 | 21.80 |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Adam Robson](../../persons/adam_robson/333.md) | <40 | 19.54 | 23.72 |  |
+| [Alex Friedman](../../persons/alex_friedman/333.md) | <40 | 15.47 | 18.36 |  |
+| [Brooke Persoon](../../persons/brooke_persoon/333.md) | <40 | 39.40 | 47.49 |  |
+| [Chris Hardwick](../../persons/chris_hardwick/333.md) | <40 | 12.00 | 13.26 | 🏆 x 1 |
+| [Chris Thames](../../persons/chris_thames/333.md) | <40 | 26.69 | 31.20 |  |
+| [Ed Connell](../../persons/ed_connell/333.md) | <40 | 14.29 | 15.82 |  |
+| [Go-ho Choi](../../persons/go_ho_choi/333.md) | <40 | 11.23 | 12.74 | 🏆 x 3 |
+| [Isak Majer](../../persons/isak_majer/333.md) | <40 | 16.05 | 18.84 |  |
+| [Jamie Brady (Deansie)](../../persons/jamie_brady/333.md) | <40 | 21.03 | 24.65 |  |
+| [Matthew Hart](../../persons/matthew_hart/333.md) | <40 | 22.72 | 24.96 |  |
+| [Neilimixam Snetrem](../../persons/neilimixam_snetrem/333.md) | <40 | 14.32 | 20.01 |  |
+| [Pete Lee](../../persons/pete_lee/333.md) | <40 | 15.42 | 19.11 |  |
+| [Phil Yu](../../persons/phil_yu/333.md) | <40 | 8.12 | 9.64 | 🏆 x 1 |
+| [Shawn Boucké](../../persons/shawn_boucke/333.md) | <40 | 10.19 | 13.04 | 🏆 x 9 |
+| [Stew Alla](../../persons/stew_alla/333.md) | <40 | 20.69 | 23.27 |  |
+| [Zack Âû Black](../../persons/zack_au_black/333.md) | <40 | 15.72 | 21.80 |  |
 
 #### Under 30
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Joshua Riegel](../../persons/joshua_riegel/333.md) | <30 | 25.53 | 29.09 |
-| [Peyton Blevins](../../persons/peyton_blevins/333.md) | <30 | 28.16 | 30.48 |
-| [Raimon Schaap](../../persons/raimon_schaap/333.md) | <30 | 13.58 | 15.99 |
-| [Tom Doolinski](../../persons/tom_doolinski/333.md) | <30 | 13.48 | 14.99 |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Joshua Riegel](../../persons/joshua_riegel/333.md) | <30 | 25.53 | 29.09 |  |
+| [Peyton Blevins](../../persons/peyton_blevins/333.md) | <30 | 28.16 | 30.48 |  |
+| [Raimon Schaap](../../persons/raimon_schaap/333.md) | <30 | 13.58 | 15.99 |  |
+| [Tom Doolinski](../../persons/tom_doolinski/333.md) | <30 | 13.48 | 14.99 |  |
 
 #### Under 20
 
-| Name | Age | Single | Average |
-| -- | :--: | --: | --: |
-| [Jaidon Adams](../../persons/jaidon_adams/333.md) | <20 | 8.31 | 8.67 |
-| [Jonathan Charlesworth](../../persons/jonathan_charlesworth/333.md) | <20 | 9.13 | 10.26 |
-| [Will Lambert](../../persons/will_lambert/333.md) | <20 | 9.74 | 11.51 |
+| Name | Age | Single | Average | Medals |
+| -- | :--: | --: | --: | :-- |
+| [Jaidon Adams](../../persons/jaidon_adams/333.md) | <20 | 8.31 | 8.67 | 🏆 x 2 |
+| [Jonathan Charlesworth](../../persons/jonathan_charlesworth/333.md) | <20 | 9.13 | 10.26 | 🏆 x 1 |
+| [Will Lambert](../../persons/will_lambert/333.md) | <20 | 9.74 | 11.51 |  |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
