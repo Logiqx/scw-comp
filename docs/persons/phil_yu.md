@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Phil Yu - [2010YUPH01](https://www.worldcubeassociation.org/persons/2010YUPH01)
 
 🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.

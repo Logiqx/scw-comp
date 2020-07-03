@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Javier Rossi
 
 🔥 = PR average, ⚡ = PR single.

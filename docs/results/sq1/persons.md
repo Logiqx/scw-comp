@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Square-1 Competitors
 
 🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.

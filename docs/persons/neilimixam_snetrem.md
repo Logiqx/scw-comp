@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Neilimixam Snetrem - [2018MERT01](https://www.worldcubeassociation.org/persons/2018MERT01)
 
 🔥 = PR average, ⚡ = PR single.

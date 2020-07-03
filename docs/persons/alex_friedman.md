@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Alex Friedman - [2016FRIE06](https://www.worldcubeassociation.org/persons/2016FRIE06)
 
 🔥 = PR average, ⚡ = PR single.

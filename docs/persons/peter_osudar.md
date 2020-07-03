@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Peter Osudar - [2017OSUD01](https://www.worldcubeassociation.org/persons/2017OSUD01)
 
 🔥 = PR average, ⚡ = PR single.
