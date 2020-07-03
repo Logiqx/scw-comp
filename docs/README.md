@@ -8,9 +8,9 @@ The general concept is to use the scrambles provided and to record your solves o
 
 This serves as a good way of practicing for actual WCA competitions where nerves can be a big factor in your results. It allows anyone to ask for critique of their solves, provide encouragement to others and watch faster solvers for inspiration.
 
-To encourage wide participation in the competition we also offer prizes, kindly provided by [TheCubicle](https://www.thecubicle.com/). An explanation of the prize system can be found on a [separate page](prizes/README.md).
+To encourage wide participation in the competition we also offer prizes, kindly provided by [TheCubicle](https://www.thecubicle.com/). An explanation of the prize draw system can be found on the [prizes](prizes/README.md) page.
 
-All of the competitions can be found in the [group calendar](https://www.facebook.com/groups/1604105099735401/events/?source=4&action_history=null&filter=calendar) on Facebook.
+All of the competitions can be found in the group [calendar](https://www.facebook.com/groups/1604105099735401/events/?source=4&action_history=null&filter=calendar) on Facebook.
 
 
 
@@ -18,19 +18,19 @@ All of the competitions can be found in the [group calendar](https://www.faceboo
 
 #### Scrambles
 
-PDF and text scrambles can be found on [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) as well as on the Facebook event pages.
+You can find all of the scrambles on [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) as well as on the Facebook event pages.
 
 #### Submissions
 
-Submit your results via the redirect to [Google Forms](submit.html).
+In addition to posting your video on Facebook you will need to submit your results using the Google [form](submit.html).
 
-You can view all of the submissions for the current competition via Google's [form analytics](analytics.html) or the linked [sheet](responses.html).
+You can view all of the latest submissions via Google [analytics](analytics.html) or via the linked Google [sheet](responses.html).
 
-#### Results and Profiles
+#### Results
 
-You can browse all past results and all of the personal profiles on [GitHub Pages](results/README.md).
+You can find all of the past results and personal profiles on the [results](results/README.md) page.
 
-
+#### 
 
 ### Rules
 
