@@ -30,7 +30,7 @@ You can view all of the latest submissions via Google [analytics](analytics.html
 
 You can find all of the past results and personal profiles on the [results](results/README.md) page.
 
-#### 
+
 
 ### Rules
 
