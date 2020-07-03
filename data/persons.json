@@ -30,7 +30,8 @@
   },
   "Brooke Persoon": {
     "age": "<40",
-    "id": 32
+    "id": 32,
+    "wcaId": "2019PERS01"
   },
   "Chris Hardwick": {
     "age": "<40",
@@ -50,7 +51,8 @@
   },
   "Ciro Vignotto": {
     "age": "50+",
-    "id": 50
+    "id": 50,
+    "wcaId": "2014VIGN02"
   },
   "Daniel Smith": {
     "age": "50+",
@@ -59,11 +61,13 @@
   },
   "David Burchill": {
     "age": "50+",
-    "id": 27
+    "id": 27,
+    "wcaId": "2020BURC01"
   },
   "David Roche": {
     "age": "50+",
-    "id": 38
+    "id": 38,
+    "wcaId": "2014ROCH07"
   },
   "Donna Leiber": {
     "age": "60+",
@@ -89,7 +93,8 @@
     "aliases": [
       "Goho Choi"
     ],
-    "id": 22
+    "id": 22,
+    "wcaId": "2007GOHO01"
   },
   "Grzegorz Pacewicz": {
     "age": "40+",
@@ -112,7 +117,8 @@
   },
   "Jaidon Adams": {
     "age": "<20",
-    "id": 1
+    "id": 1,
+    "wcaId": "2018ADAM11"
   },
   "Jamie Brady (Deansie)": {
     "age": "<40",
@@ -124,15 +130,18 @@
   },
   "Jang Junho (장준호)": {
     "age": "40+",
-    "id": 35
+    "id": 35,
+    "wcaId": "2014JUNH01"
   },
   "Jason Green": {
     "age": "40+",
-    "id": 33
+    "id": 33,
+    "wcaId": "2016GREE02"
   },
   "Javier Rossi": {
     "age": "50+",
-    "id": 56
+    "id": 56,
+    "wcaId": "2017ROSS10"
   },
   "Jean van den Bergh": {
     "age": "40+",
@@ -154,11 +163,13 @@
   },
   "John Cook": {
     "age": "50+",
-    "id": 40
+    "id": 40,
+    "wcaId": "2018COOK04"
   },
   "Jonathan Charlesworth": {
     "age": "<20",
-    "id": 64
+    "id": 64,
+    "wcaId": "2016CHAR01"
   },
   "Joshua M. Woodward": {
     "age": "40+",
@@ -174,7 +185,8 @@
   },
   "Kerrie Jarman": {
     "age": "40+",
-    "id": 54
+    "id": 54,
+    "wcaId": "2019JARM01"
   },
   "Lisa Kucala": {
     "age": "50+",
@@ -187,11 +199,13 @@
   },
   "Mark Adams": {
     "age": "40+",
-    "id": 36
+    "id": 36,
+    "wcaId": "2015ADAM03"
   },
   "Mark Charlesworth": {
     "age": "40+",
-    "id": 44
+    "id": 44,
+    "wcaId": "2017CHAR16"
   },
   "Mark Rivers": {
     "age": "50+",
@@ -205,7 +219,8 @@
   },
   "Matthew Hart": {
     "age": "<40",
-    "id": 25
+    "id": 25,
+    "wcaId": "2019HART11"
   },
   "Michael George": {
     "age": "40+",
@@ -233,11 +248,13 @@
   },
   "Peter Andersson": {
     "age": "50+",
-    "id": 43
+    "id": 43,
+    "wcaId": "2013ANDE01"
   },
   "Peter Douthwright": {
     "age": "50+",
-    "id": 28
+    "id": 28,
+    "wcaId": "2007DOUT01"
   },
   "Peter Osudar": {
     "age": "<40",
@@ -256,7 +273,8 @@
   },
   "Pontus Uggla": {
     "age": "40+",
-    "id": 7
+    "id": 7,
+    "wcaId": "2014UGGL01"
   },
   "Raimon Schaap": {
     "age": "<30",
@@ -264,7 +282,8 @@
   },
   "Raúl Morales": {
     "age": "40+",
-    "id": 42
+    "id": 42,
+    "wcaId": "2013MORA02"
   },
   "Robert Summerfield": {
     "age": "50+",
@@ -275,7 +294,8 @@
   },
   "Ron van Bruchem": {
     "age": "50+",
-    "id": 51
+    "id": 51,
+    "wcaId": "2003BRUC01"
   },
   "Shawn Boucké": {
     "age": "<40",
@@ -288,7 +308,8 @@
   },
   "Stuart Salmon": {
     "age": "40+",
-    "id": 31
+    "id": 31,
+    "wcaId": "2018SALM01"
   },
   "Thierry Boisivon": {
     "age": "40+",
@@ -304,7 +325,8 @@
   },
   "Tom Doolinski": {
     "age": "<30",
-    "id": 3
+    "id": 3,
+    "wcaId": "2008DOOL01"
   },
   "Vani Muthukrishnan": {
     "age": "40+",
@@ -317,7 +339,8 @@
   },
   "Yoann Lecoeur": {
     "age": "40+",
-    "id": 34
+    "id": 34,
+    "wcaId": "2016LECO01"
   },
   "Zack Âû Black": {
     "age": "<40",
