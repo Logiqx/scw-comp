@@ -5,7 +5,7 @@
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
-| [3x3x3](david_burchill/333.md) | 28.50 | 34.84 | <span style="white-space: nowrap">🔥 x 3</span>, <span style="white-space: nowrap">⚡ x 4</span> |
+| [3x3x3](david_burchill/333.md) | 28.50 | 34.84 | <span style="white-space: nowrap">🔥 x 3, ⚡ x 4</span> |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

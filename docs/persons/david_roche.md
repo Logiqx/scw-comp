@@ -5,7 +5,7 @@
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [3x3x3 FMC](david_roche/333fm.md) | 21 | - | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 3</span>, <span style="white-space: nowrap">🥈 x 5</span>, <span style="white-space: nowrap">🥉 x 4</span> | <span style="white-space: nowrap">💥 x 3</span>, <span style="white-space: nowrap">⚡ x 4</span> |
+| [3x3x3 FMC](david_roche/333fm.md) | 21 | - | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 3, 🥈 x 5, 🥉 x 4</span> | <span style="white-space: nowrap">💥 x 3, ⚡ x 4</span> |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

@@ -5,8 +5,8 @@
 
 | Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
-| [Pyraminx](dylan_cossin/pyram.md) | 1.84 | 2.68 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
-| [Skewb](dylan_cossin/skewb.md) | 3.37 | 3.97 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
+| [Pyraminx](dylan_cossin/pyram.md) | 1.84 | 2.68 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> |
+| [Skewb](dylan_cossin/skewb.md) | 3.37 | 3.97 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

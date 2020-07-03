@@ -7,28 +7,28 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Michael George](../../persons/michael_george/skewb.md) | [<span style="white-space: nowrap">2020-06-16</span>](2020-06-16.md) | 40+ | 6.02 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 2</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/296087658445428/permalink/296272458426948/) |
-| 2 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | [<span style="white-space: nowrap">2020-06-16</span>](2020-06-16.md) | 40+ | 7.77 |  | <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/296087658445428/permalink/297667538287440/) |
+| 1 | [<span style="white-space: nowrap">Michael George</span>](../../persons/michael_george/skewb.md) | [<span style="white-space: nowrap">2020-06-16</span>](2020-06-16.md) | 40+ | 6.02 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 2</span> | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> | [Link](https://www.facebook.com/events/296087658445428/permalink/296272458426948/) |
+| 2 | [<span style="white-space: nowrap">Vani Muthukrishnan</span>](../../persons/vani_muthukrishnan/skewb.md) | [<span style="white-space: nowrap">2020-06-16</span>](2020-06-16.md) | 40+ | 7.77 | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">🔥 x 1, ⚡ x 1</span> | [Link](https://www.facebook.com/events/296087658445428/permalink/297667538287440/) |
 
 #### Under 40
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Ed Connell](../../persons/ed_connell/skewb.md) | [<span style="white-space: nowrap">2020-06-23</span>](2020-06-23.md) | <40 | 8.83 |  |  | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623313707823123/) |
-| 2 | [Pete Lee](../../persons/pete_lee/skewb.md) | [<span style="white-space: nowrap">2020-06-23</span>](2020-06-23.md) | <40 | 16.61 |  |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624129321074895/) |
-| 3 | [Chris Thames](../../persons/chris_thames/skewb.md) | [<span style="white-space: nowrap">2020-06-16</span>](2020-06-16.md) | <40 | 25.74 |  |  | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/296087658445428/permalink/299433188110875/) |
+| 1 | [<span style="white-space: nowrap">Ed Connell</span>](../../persons/ed_connell/skewb.md) | [<span style="white-space: nowrap">2020-06-23</span>](2020-06-23.md) | <40 | 8.83 | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap">🔥 x 2, ⚡ x 2</span> | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623313707823123/) |
+| 2 | [<span style="white-space: nowrap">Pete Lee</span>](../../persons/pete_lee/skewb.md) | [<span style="white-space: nowrap">2020-06-23</span>](2020-06-23.md) | <40 | 16.61 | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap">🔥 x 1, ⚡ x 2</span> | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624129321074895/) |
+| 3 | [<span style="white-space: nowrap">Chris Thames</span>](../../persons/chris_thames/skewb.md) | [<span style="white-space: nowrap">2020-06-16</span>](2020-06-16.md) | <40 | 25.74 | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap">🔥 x 2, ⚡ x 1</span> | [Link](https://www.facebook.com/events/296087658445428/permalink/299433188110875/) |
 
 #### Under 30
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Joshua Riegel](../../persons/joshua_riegel/skewb.md) | [<span style="white-space: nowrap">2020-06-23</span>](2020-06-23.md) | <30 | 23.14 |  |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623941544427006/) |
+| 1 | [<span style="white-space: nowrap">Joshua Riegel</span>](../../persons/joshua_riegel/skewb.md) | [<span style="white-space: nowrap">2020-06-23</span>](2020-06-23.md) | <30 | 23.14 | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap">🔥 x 1, ⚡ x 1</span> | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623941544427006/) |
 
 #### Under 20
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Dylan Cossin](../../persons/dylan_cossin/skewb.md) | [<span style="white-space: nowrap">2020-06-23</span>](2020-06-23.md) | <20 | 3.37 | <span style="white-space: nowrap">🏆 x 1</span> |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/dylan.andrew1/videos/3097967856954645/) |
+| 1 | [<span style="white-space: nowrap">Dylan Cossin</span>](../../persons/dylan_cossin/skewb.md) | [<span style="white-space: nowrap">2020-06-23</span>](2020-06-23.md) | <20 | 3.37 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> | [Link](https://www.facebook.com/dylan.andrew1/videos/3097967856954645/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

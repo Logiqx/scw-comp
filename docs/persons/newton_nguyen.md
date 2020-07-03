@@ -5,7 +5,7 @@
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
-| [3x3x3](newton_nguyen/333.md) | 14.46 | 18.10 | <span style="white-space: nowrap">💥 x 3</span>, <span style="white-space: nowrap">🔥 x 3</span>, <span style="white-space: nowrap">⚡ x 3</span> |
+| [3x3x3](newton_nguyen/333.md) | 14.46 | 18.10 | <span style="white-space: nowrap">💥 x 3, 🔥 x 3, ⚡ x 3</span> |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
