@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Pete Lee](../pete_lee.md) - Pyraminx - [2018LEEP04](https://www.worldcubeassociation.org/persons/2018LEEP04?event=pyram)
+### [Pete Lee](../pete_lee.md) - [2018LEEP04](https://www.worldcubeassociation.org/persons/2018LEEP04?event=pyram)
+#### Pyraminx
 
 🔥 = PR average, ⚡ = PR single.
 

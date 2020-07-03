@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Jo Cocco](../jo_cocco.md) - Megaminx
+### [Jo Cocco](../jo_cocco.md)
+#### Megaminx
 
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single.
 

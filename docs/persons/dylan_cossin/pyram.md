@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Dylan Cossin](../dylan_cossin.md) - Pyraminx - [2016COSS01](https://www.worldcubeassociation.org/persons/2016COSS01?event=pyram)
+### [Dylan Cossin](../dylan_cossin.md) - [2016COSS01](https://www.worldcubeassociation.org/persons/2016COSS01?event=pyram)
+#### Pyraminx
 
 🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 

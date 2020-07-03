@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Chris Thames](../chris_thames.md) - Pyraminx - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05?event=pyram)
+### [Chris Thames](../chris_thames.md) - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05?event=pyram)
+#### Pyraminx
 
 🔥 = PR average, ⚡ = PR single.
 

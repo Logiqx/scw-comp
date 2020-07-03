@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Pete Lee](../pete_lee.md) - Skewb - [2018LEEP04](https://www.worldcubeassociation.org/persons/2018LEEP04?event=skewb)
+### [Pete Lee](../pete_lee.md) - [2018LEEP04](https://www.worldcubeassociation.org/persons/2018LEEP04?event=skewb)
+#### Skewb
 
 🔥 = PR average, ⚡ = PR single.
 

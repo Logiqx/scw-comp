@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Ed Connell](../ed_connell.md) - Skewb - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=skewb)
+### [Ed Connell](../ed_connell.md) - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=skewb)
+#### Skewb
 
 🔥 = PR average, ⚡ = PR single.
 

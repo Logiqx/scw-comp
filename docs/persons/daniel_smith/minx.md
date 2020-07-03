@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Daniel Smith](../daniel_smith.md) - Megaminx - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42?event=minx)
+### [Daniel Smith](../daniel_smith.md) - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42?event=minx)
+#### Megaminx
 
 🔥 = PR average, ⚡ = PR single.
 

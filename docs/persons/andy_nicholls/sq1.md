@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Andy Nicholls](../andy_nicholls.md) - Square-1 - [2015NICH04](https://www.worldcubeassociation.org/persons/2015NICH04?event=sq1)
+### [Andy Nicholls](../andy_nicholls.md) - [2015NICH04](https://www.worldcubeassociation.org/persons/2015NICH04?event=sq1)
+#### Square-1
 
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single.
 

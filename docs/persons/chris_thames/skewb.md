@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Chris Thames](../chris_thames.md) - Skewb - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05?event=skewb)
+### [Chris Thames](../chris_thames.md) - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05?event=skewb)
+#### Skewb
 
 🔥 = PR average, ⚡ = PR single.
 

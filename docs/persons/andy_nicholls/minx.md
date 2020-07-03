@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Andy Nicholls](../andy_nicholls.md) - Megaminx - [2015NICH04](https://www.worldcubeassociation.org/persons/2015NICH04?event=minx)
+### [Andy Nicholls](../andy_nicholls.md) - [2015NICH04](https://www.worldcubeassociation.org/persons/2015NICH04?event=minx)
+#### Megaminx
 
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single.
 

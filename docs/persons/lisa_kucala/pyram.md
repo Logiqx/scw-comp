@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Lisa Kucala](../lisa_kucala.md) - Pyraminx - [2019KUCA01](https://www.worldcubeassociation.org/persons/2019KUCA01?event=pyram)
+### [Lisa Kucala](../lisa_kucala.md) - [2019KUCA01](https://www.worldcubeassociation.org/persons/2019KUCA01?event=pyram)
+#### Pyraminx
 
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single.
 

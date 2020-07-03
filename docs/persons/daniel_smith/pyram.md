@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Daniel Smith](../daniel_smith.md) - Pyraminx - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42?event=pyram)
+### [Daniel Smith](../daniel_smith.md) - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42?event=pyram)
+#### Pyraminx
 
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 

@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Chris Thames](../chris_thames.md) - Megaminx - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05?event=minx)
+### [Chris Thames](../chris_thames.md) - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05?event=minx)
+#### Megaminx
 
 🔥 = PR average, ⚡ = PR single.
 

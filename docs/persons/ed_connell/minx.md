@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Ed Connell](../ed_connell.md) - Megaminx - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=minx)
+### [Ed Connell](../ed_connell.md) - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=minx)
+#### Megaminx
 
 🔥 = PR average, ⚡ = PR single.
 

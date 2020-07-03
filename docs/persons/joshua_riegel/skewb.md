@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Joshua Riegel](../joshua_riegel.md) - Skewb - [2019RIEG02](https://www.worldcubeassociation.org/persons/2019RIEG02?event=skewb)
+### [Joshua Riegel](../joshua_riegel.md) - [2019RIEG02](https://www.worldcubeassociation.org/persons/2019RIEG02?event=skewb)
+#### Skewb
 
 🔥 = PR average, ⚡ = PR single.
 

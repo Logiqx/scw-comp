@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Ed Connell](../ed_connell.md) - Clock - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=clock)
+### [Ed Connell](../ed_connell.md) - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=clock)
+#### Clock
 
 🏆 = overall winner, 🔥 = PR average, ⚡ = PR single.
 

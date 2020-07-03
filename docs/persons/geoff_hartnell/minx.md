@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Geoff Hartnell](../geoff_hartnell.md) - Megaminx - [2017HART06](https://www.worldcubeassociation.org/persons/2017HART06?event=minx)
+### [Geoff Hartnell](../geoff_hartnell.md) - [2017HART06](https://www.worldcubeassociation.org/persons/2017HART06?event=minx)
+#### Megaminx
 
 🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 

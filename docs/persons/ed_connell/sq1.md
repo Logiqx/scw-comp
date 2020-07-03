@@ -1,5 +1,6 @@
 ## Senior Cubers Worldwide - Weekly Competition
-### [Ed Connell](../ed_connell.md) - Square-1 - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=sq1)
+### [Ed Connell](../ed_connell.md) - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=sq1)
+#### Square-1
 
 🔥 = PR average, ⚡ = PR single.
 
