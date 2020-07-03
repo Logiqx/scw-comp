@@ -5,7 +5,7 @@
 
 | Event | Single | Average | Trophies | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [3x3x3 FMC](ben_coppin/333fm.md) | 25 | - | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 2 | ⚡ x 2 |
+| [3x3x3 FMC](ben_coppin/333fm.md) | 25 | - | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 3</span>, <span style="white-space: nowrap">🥉 x 2</span> | <span style="white-space: nowrap">⚡ x 2</span> |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

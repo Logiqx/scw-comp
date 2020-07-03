@@ -5,8 +5,8 @@
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
-| [3x3x3](neilimixam_snetrem/333.md) | 14.32 | 20.01 | 🔥 x 1, ⚡ x 1 |
-| [4x4x4](neilimixam_snetrem/444.md) | 1:08.70 | 1:24.75 | 🔥 x 1, ⚡ x 1 |
+| [3x3x3](neilimixam_snetrem/333.md) | 14.32 | 20.01 | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
+| [4x4x4](neilimixam_snetrem/444.md) | 1:08.70 | 1:24.75 | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

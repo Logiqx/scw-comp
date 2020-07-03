@@ -5,7 +5,7 @@
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
-| [3x3x3](mark_charlesworth/333.md) | 27.78 | 30.02 | 🔥 x 2, ⚡ x 2 |
+| [3x3x3](mark_charlesworth/333.md) | 27.78 | 30.02 | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

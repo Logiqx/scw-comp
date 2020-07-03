@@ -7,27 +7,27 @@
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | 10:23.86 | DNF |  | 🥇 x 1, 🥈 x 1 | 💥 x 2, ⚡ x 2 |
+| [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | 10:23.86 | DNF |  | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 
 #### Over 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | 40+ | 10:52.00 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 4 | ⚡ x 1 |
-| [Jae Park](../../persons/jae_park/444bf.md) | 40+ | 6:19.94 | DNF | 🏆 x 3 | 🥇 x 4 | 💥 x 1, ⚡ x 1 |
-| [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | 10:23.86 | DNF |  | 🥇 x 1, 🥈 x 1 | 💥 x 2, ⚡ x 2 |
+| [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | 40+ | 10:52.00 | DNF | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 4</span> | <span style="white-space: nowrap">⚡ x 1</span> |
+| [Jae Park](../../persons/jae_park/444bf.md) | 40+ | 6:19.94 | DNF | <span style="white-space: nowrap">🏆 x 3</span> | <span style="white-space: nowrap">🥇 x 4</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
+| [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | 10:23.86 | DNF |  | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 
 #### Under 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Chris Hardwick](../../persons/chris_hardwick/444bf.md) | <40 | 6:21.08 | 8:34.50 | 🏆 x 2 |  | 💥 x 1, 🔥 x 1, ⚡ x 2 |
+| [Chris Hardwick](../../persons/chris_hardwick/444bf.md) | <40 | 6:21.08 | 8:34.50 | <span style="white-space: nowrap">🏆 x 2</span> |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 
 #### Under 20
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Zain Ali](../../persons/zain_ali/444bf.md) | <20 | 5:52.90 | DNF | 🏆 x 1 |  | 💥 x 1, ⚡ x 1 |
+| [Zain Ali](../../persons/zain_ali/444bf.md) | <20 | 5:52.90 | DNF | <span style="white-space: nowrap">🏆 x 1</span> |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

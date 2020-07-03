@@ -7,20 +7,20 @@
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 20.39 | 24.83 |  | 🥇 x 1, 🥈 x 1 | 💥 x 2, 🔥 x 1, ⚡ x 2 |
+| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 20.39 | 24.83 |  | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 
 #### Over 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.02 | 17.07 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | 💥 x 2, 🔥 x 1, ⚡ x 2 |
-| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 20.39 | 24.83 |  | 🥇 x 1, 🥈 x 1 | 💥 x 2, 🔥 x 1, ⚡ x 2 |
+| [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.02 | 17.07 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> |
+| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 20.39 | 24.83 |  | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 
 #### Under 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Ed Connell](../../persons/ed_connell/clock.md) | <40 | 16.70 | 18.69 | 🏆 x 1 |  | 🔥 x 2, ⚡ x 2 |
+| [Ed Connell](../../persons/ed_connell/clock.md) | <40 | 16.70 | 18.69 | <span style="white-space: nowrap">🏆 x 1</span> |  | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

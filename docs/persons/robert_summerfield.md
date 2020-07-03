@@ -5,7 +5,7 @@
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
-| [3x3x3](robert_summerfield/333.md) | 21.42 | 24.96 | 🔥 x 7, ⚡ x 5 |
+| [3x3x3](robert_summerfield/333.md) | 21.42 | 24.96 | <span style="white-space: nowrap">🔥 x 7</span>, <span style="white-space: nowrap">⚡ x 5</span> |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

@@ -5,7 +5,7 @@
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
-| [3x3x3](joffie_berkowitz/333.md) | 25.79 | 28.76 | 🔥 x 6, ⚡ x 3 |
+| [3x3x3](joffie_berkowitz/333.md) | 25.79 | 28.76 | <span style="white-space: nowrap">🔥 x 6</span>, <span style="white-space: nowrap">⚡ x 3</span> |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

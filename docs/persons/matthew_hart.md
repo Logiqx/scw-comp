@@ -5,7 +5,7 @@
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
-| [3x3x3](matthew_hart/333.md) | 22.72 | 24.96 | 🔥 x 1, ⚡ x 1 |
+| [3x3x3](matthew_hart/333.md) | 22.72 | 24.96 | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

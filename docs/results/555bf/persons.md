@@ -7,14 +7,14 @@
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Andy Nicholls](../../persons/andy_nicholls/555bf.md) | 40+ | 26:59.43 | DNF |  | 🥈 x 1 | ⚡ x 1 |
-| [Jae Park](../../persons/jae_park/555bf.md) | 40+ | 13:51.60 | DNF | 🏆 x 4 | 🥇 x 6 | 💥 x 3, ⚡ x 3 |
+| [Andy Nicholls](../../persons/andy_nicholls/555bf.md) | 40+ | 26:59.43 | DNF |  | <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">⚡ x 1</span> |
+| [Jae Park](../../persons/jae_park/555bf.md) | 40+ | 13:51.60 | DNF | <span style="white-space: nowrap">🏆 x 4</span> | <span style="white-space: nowrap">🥇 x 6</span> | <span style="white-space: nowrap">💥 x 3</span>, <span style="white-space: nowrap">⚡ x 3</span> |
 
 #### Under 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Chris Hardwick](../../persons/chris_hardwick/555bf.md) | <40 | 13:18.63 | DNF | 🏆 x 3 |  | 💥 x 1, ⚡ x 1 |
+| [Chris Hardwick](../../persons/chris_hardwick/555bf.md) | <40 | 13:18.63 | DNF | <span style="white-space: nowrap">🏆 x 3</span> |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
