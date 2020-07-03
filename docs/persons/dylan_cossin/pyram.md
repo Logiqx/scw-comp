@@ -2,7 +2,7 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Dylan Cossin](../dylan_cossin.md) - [2016COSS01](https://www.worldcubeassociation.org/persons/2016COSS01?event=pyram)
-#### Pyraminx
+#### Pyraminx Results
 
 🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 

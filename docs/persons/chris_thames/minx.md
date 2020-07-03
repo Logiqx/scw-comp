@@ -2,7 +2,7 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Chris Thames](../chris_thames.md) - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05?event=minx)
-#### Megaminx
+#### Megaminx Results
 
 🔥 = PR average, ⚡ = PR single.
 

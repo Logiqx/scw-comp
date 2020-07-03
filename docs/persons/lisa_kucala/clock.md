@@ -2,7 +2,7 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Lisa Kucala](../lisa_kucala.md) - [2019KUCA01](https://www.worldcubeassociation.org/persons/2019KUCA01?event=clock)
-#### Clock
+#### Clock Results
 
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 

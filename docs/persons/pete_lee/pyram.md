@@ -2,7 +2,7 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Pete Lee](../pete_lee.md) - [2018LEEP04](https://www.worldcubeassociation.org/persons/2018LEEP04?event=pyram)
-#### Pyraminx
+#### Pyraminx Results
 
 🔥 = PR average, ⚡ = PR single.
 

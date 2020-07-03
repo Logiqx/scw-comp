@@ -2,7 +2,7 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Michael George](../michael_george.md) - [2015GEOR02](https://www.worldcubeassociation.org/persons/2015GEOR02?event=pyram)
-#### Pyraminx
+#### Pyraminx Results
 
 🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 

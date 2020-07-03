@@ -2,7 +2,7 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Vani Muthukrishnan](../vani_muthukrishnan.md) - [2016MUTH05](https://www.worldcubeassociation.org/persons/2016MUTH05?event=sq1)
-#### Square-1
+#### Square-1 Results
 
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single.
 
