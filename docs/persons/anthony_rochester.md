@@ -3,7 +3,7 @@
 
 🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single.
 
-| Event | Single | Average | Trophies | Medals | Achievements|
+| Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](anthony_rochester/333.md) | 18.14 | 22.81 |  |  | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 3</span> |
 | [2x2x2](anthony_rochester/222.md) | 3.34 | 6.72 |  | <span style="white-space: nowrap">🥈 x 3</span>, <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">🔥 x 3</span>, <span style="white-space: nowrap">⚡ x 2</span> |

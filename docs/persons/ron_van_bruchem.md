@@ -3,7 +3,7 @@
 
 🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
-| Event | Single | Average | Trophies | Medals | Achievements|
+| Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
 | [4x4x4](ron_van_bruchem/444.md) | 46.32 | 49.81 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 1</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 

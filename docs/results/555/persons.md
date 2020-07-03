@@ -5,13 +5,13 @@
 
 #### Over 60
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | 6:41.82 | DNF |  |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 
 #### Over 50
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | 1:42.41 | 1:46.58 |  | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | 2:08.36 | 2:18.73 |  | <span style="white-space: nowrap">🥈 x 1</span>, <span style="white-space: nowrap">🥉 x 2</span> | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 3</span> |
@@ -21,7 +21,7 @@
 
 #### Over 40
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/555.md) | 40+ | 2:28.62 | 2:39.68 |  | <span style="white-space: nowrap">🥉 x 2</span> | <span style="white-space: nowrap">🔥 x 3</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 | [Andy Nicholls](../../persons/andy_nicholls/555.md) | 40+ | 1:38.52 | 1:46.32 | <span style="white-space: nowrap">🏆 x 7</span> | <span style="white-space: nowrap">🥇 x 9</span>, <span style="white-space: nowrap">🥈 x 2</span> | <span style="white-space: nowrap">💥 x 3</span>, <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 3</span> |
@@ -41,7 +41,7 @@
 
 #### Under 40
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Hardwick](../../persons/chris_hardwick/555.md) | <40 | 2:09.49 | 2:19.32 |  |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 | [Chris Thames](../../persons/chris_thames/555.md) | <40 | 4:59.21 | DNF |  |  | <span style="white-space: nowrap">⚡ x 3</span> |

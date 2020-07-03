@@ -5,14 +5,14 @@
 
 #### Over 50
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | [2020-05-26](2020-05-26.md) | 50+ | 2:02.45 |  | <span style="white-space: nowrap">🥈 x 1</span>, <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">💥 x 4</span>, <span style="white-space: nowrap">⚡ x 4</span> | [Link](https://www.facebook.com/events/1531820936993798/permalink/1533584773484081/) |
 | 2 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | [2020-04-28](2020-04-28.md) | 50+ | 3:35.63 |  |  | <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/534758690547855/permalink/535205530503171/) |
 
 #### Over 40
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Jae Park](../../persons/jae_park/333bf.md) | [2020-06-23](2020-06-23.md) | 40+ | 46.90 | <span style="white-space: nowrap">🏆 x 12</span> | <span style="white-space: nowrap">🥇 x 13</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/850175445522887/permalink/852285558645209/) |
 | 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | [2020-04-07](2020-04-07.md) | 40+ | 1:04.30 |  | <span style="white-space: nowrap">🥈 x 3</span> | <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/258196271885699/permalink/262125944826065/) |
@@ -29,7 +29,7 @@
 
 #### Under 40
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | [2020-06-16](2020-06-16.md) | <40 | 1:47.08 |  |  | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 4</span> | [Link](https://www.facebook.com/events/208176410240808/permalink/210547000003749/) |
 | 2 | [Go-ho Choi](../../persons/go_ho_choi/333bf.md) | [2020-02-11](2020-02-11.md) | <40 | 2:22.99 |  |  | <span style="white-space: nowrap">⚡ x 1</span> | |
@@ -37,13 +37,13 @@
 
 #### Under 30
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Joshua Riegel](../../persons/joshua_riegel/333bf.md) | [2020-06-09](2020-06-09.md) | <30 | 3:45.27 |  |  | <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/620460455211235/permalink/624275494829731/) |
 
 #### Under 20
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Zain Ali](../../persons/zain_ali/333bf.md) | [2020-05-26](2020-05-26.md) | <20 | 52.96 | <span style="white-space: nowrap">🏆 x 1</span> |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/1531820936993798/permalink/1535485533294005/) |
 

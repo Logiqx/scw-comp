@@ -5,19 +5,19 @@
 
 #### Over 60
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | 15:59.23 | DNF |  | <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 
 #### Over 50
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | 15:59.23 | DNF |  | <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 
 #### Over 40
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/777.md) | 40+ | 8:52.52 | DNF |  | <span style="white-space: nowrap">🥉 x 4</span> | <span style="white-space: nowrap">⚡ x 2</span> |
 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | 40+ | 4:58.23 | 5:24.33 | <span style="white-space: nowrap">🏆 x 8</span> | <span style="white-space: nowrap">🥇 x 8</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
@@ -27,7 +27,7 @@
 
 #### Under 40
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Ed Connell](../../persons/ed_connell/777.md) | <40 | 8:56.69 | DNF |  |  | <span style="white-space: nowrap">⚡ x 1</span> |
 | [Pete Lee](../../persons/pete_lee/777.md) | <40 | 7:59.28 | DNF |  |  | <span style="white-space: nowrap">⚡ x 6</span> |

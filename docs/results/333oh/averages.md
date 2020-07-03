@@ -5,14 +5,14 @@
 
 #### Over 50
 
-| # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Chris Wright](../../persons/chris_wright/333oh.md) | [2020-03-10](2020-03-10.md) | 50+ | 39.76 |  |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/684510792316675/permalink/685546418879779/) |
 | 2 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | [2020-03-10](2020-03-10.md) | 50+ | 1:57.43 |  |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/684510792316675/permalink/688822721885482/) |
 
 #### Over 40
 
-| # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Michael George](../../persons/michael_george/333oh.md) | [2020-04-28](2020-04-28.md) | 40+ | 21.87 | <span style="white-space: nowrap">🏆 x 11</span> | <span style="white-space: nowrap">🥇 x 14</span> | <span style="white-space: nowrap">💥 x 5</span>, <span style="white-space: nowrap">🔥 x 3</span>, <span style="white-space: nowrap">⚡ x 5</span> | [Link](https://www.facebook.com/events/535188653858103/permalink/535332343843734/) |
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | [2020-06-16](2020-06-16.md) | 40+ | 29.96 |  | <span style="white-space: nowrap">🥈 x 6</span>, <span style="white-space: nowrap">🥉 x 6</span> | <span style="white-space: nowrap">🔥 x 7</span>, <span style="white-space: nowrap">⚡ x 3</span> | [Link](https://www.facebook.com/events/604103587178706/permalink/608762373379494/) |
@@ -32,7 +32,7 @@
 
 #### Under 40
 
-| # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Phil Yu](../../persons/phil_yu/333oh.md) | [2020-06-09](2020-06-09.md) | <40 | 14.64 | <span style="white-space: nowrap">🏆 x 1</span> |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/903549840109576/permalink/904463093351584/) |
 | 2 | [Alex Friedman](../../persons/alex_friedman/333oh.md) | [2020-06-09](2020-06-09.md) | <40 | 23.83 |  |  | <span style="white-space: nowrap">🔥 x 4</span>, <span style="white-space: nowrap">⚡ x 4</span> | [Link](https://www.facebook.com/events/903549840109576/permalink/907939493003944/) |

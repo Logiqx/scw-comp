@@ -3,7 +3,7 @@
 
 🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
-| Event | Single | Average | Trophies | Achievements|
+| Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
 | [3x3x3](go_ho_choi/333.md) | 11.23 | 12.74 | <span style="white-space: nowrap">🏆 x 3</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">🔥 x 3</span>, <span style="white-space: nowrap">⚡ x 3</span> |
 | [2x2x2](go_ho_choi/222.md) | 3.50 | 4.50 |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |

@@ -5,19 +5,19 @@
 
 #### Over 60
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Donna Leiber](../../persons/donna_leiber/777.md) | [2020-05-26](2020-05-26.md) | 60+ | 15:59.23 |  | <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/637852836799991/permalink/640055109913097/) |
 
 #### Over 50
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Donna Leiber](../../persons/donna_leiber/777.md) | [2020-05-26](2020-05-26.md) | 60+ | 15:59.23 |  | <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/637852836799991/permalink/640055109913097/) |
 
 #### Over 40
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | [2020-05-05](2020-05-05.md) | 40+ | 4:58.23 | <span style="white-space: nowrap">🏆 x 8</span> | <span style="white-space: nowrap">🥇 x 8</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/557526585195168/permalink/558592678421892/) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | [2020-06-09](2020-06-09.md) | 40+ | 5:43.85 |  | <span style="white-space: nowrap">🥈 x 8</span> | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131048293927044/) |
@@ -27,7 +27,7 @@
 
 #### Under 40
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Peter Osudar](../../persons/peter_osudar/777.md) | [2020-06-23](2020-06-23.md) | <40 | 6:13.99 |  |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/268636114456043/permalink/276983293621325/) |
 | 2 | [Pete Lee](../../persons/pete_lee/777.md) | [2020-06-16](2020-06-16.md) | <40 | 7:59.28 |  |  | <span style="white-space: nowrap">⚡ x 6</span> | [Link](https://www.facebook.com/events/256188575607890/permalink/256481515578596/) |

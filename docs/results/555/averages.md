@@ -5,7 +5,7 @@
 
 #### Over 50
 
-| # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Chris Wright](../../persons/chris_wright/555.md) | [2020-03-03](2020-03-03.md) | 50+ | 1:46.58 |  | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639952702955113/) |
 | 2 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | [2020-04-14](2020-04-14.md) | 50+ | 2:18.73 |  | <span style="white-space: nowrap">🥈 x 1</span>, <span style="white-space: nowrap">🥉 x 2</span> | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 3</span> | [Link](https://www.facebook.com/events/1400953806773430/permalink/1402097503325727/) |
@@ -13,7 +13,7 @@
 
 #### Over 40
 
-| # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls/555.md) | [2020-05-12](2020-05-12.md) | 40+ | 1:46.32 | <span style="white-space: nowrap">🏆 x 7</span> | <span style="white-space: nowrap">🥇 x 9</span>, <span style="white-space: nowrap">🥈 x 2</span> | <span style="white-space: nowrap">💥 x 3</span>, <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 3</span> | [Link](https://www.facebook.com/events/276138643524223/permalink/276779116793509/) |
 | 2 | [Chris Wright](../../persons/chris_wright/555.md) | [2020-03-03](2020-03-03.md) | 50+ | 1:46.58 |  | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639952702955113/) |
@@ -31,7 +31,7 @@
 
 #### Under 40
 
-| # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Go-ho Choi](../../persons/go_ho_choi/555.md) | [2020-02-18](2020-02-18.md) | <40 | 1:30.42 | <span style="white-space: nowrap">🏆 x 5</span> |  | <span style="white-space: nowrap">💥 x 3</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 3</span> | [Link](https://www.facebook.com/events/538921670053895/permalink/539081640037898/) |
 | 2 | [Chris Hardwick](../../persons/chris_hardwick/555.md) | [2020-03-24](2020-03-24.md) | <40 | 2:19.32 |  |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/5078365835514885/permalink/5107384065946395/) |

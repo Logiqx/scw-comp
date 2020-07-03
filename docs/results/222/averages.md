@@ -5,13 +5,13 @@
 
 #### Over 60
 
-| # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Donna Leiber](../../persons/donna_leiber/222.md) | [2020-05-26](2020-05-26.md) | 60+ | 32.64 |  |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/688407551989463/permalink/690853598411525/) |
 
 #### Over 50
 
-| # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Chris Wright](../../persons/chris_wright/222.md) | [2020-02-25](2020-02-25.md) | 50+ | 5.17 |  | <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/2972213492840148/permalink/2980258662035631/) |
 | 2 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | [2020-04-28](2020-04-28.md) | 50+ | 5.74 |  | <span style="white-space: nowrap">🥈 x 3</span>, <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 4</span>, <span style="white-space: nowrap">⚡ x 3</span> | [Link](https://www.facebook.com/events/535188653858103/permalink/535791083797860/) |
@@ -24,7 +24,7 @@
 
 #### Over 40
 
-| # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Michael George](../../persons/michael_george/222.md) | [2020-05-05](2020-05-05.md) | 40+ | 4.40 | <span style="white-space: nowrap">🏆 x 12</span> | <span style="white-space: nowrap">🥇 x 15</span> | <span style="white-space: nowrap">💥 x 5</span>, <span style="white-space: nowrap">🔥 x 3</span>, <span style="white-space: nowrap">⚡ x 4</span> | [Link](https://www.facebook.com/events/3313106775587396/permalink/3315206338710773/) |
 | 2 | [Chris Wright](../../persons/chris_wright/222.md) | [2020-02-25](2020-02-25.md) | 50+ | 5.17 |  | <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/2972213492840148/permalink/2980258662035631/) |
@@ -52,7 +52,7 @@
 
 #### Under 40
 
-| # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Phil Yu](../../persons/phil_yu/222.md) | [2020-06-09](2020-06-09.md) | <40 | 4.25 | <span style="white-space: nowrap">🏆 x 1</span> |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/903549840109576/permalink/904458400018720/) |
 | 2 | [Go-ho Choi](../../persons/go_ho_choi/222.md) | [2020-02-11](2020-02-11.md) | <40 | 4.50 |  |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/176704156956327/permalink/178287783464631/) |
@@ -65,14 +65,14 @@
 
 #### Under 30
 
-| # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Raimon Schaap](../../persons/raimon_schaap/222.md) | [2020-03-10](2020-03-10.md) | <30 | 7.18 |  |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/654143022005686/permalink/657641461655842/) |
 | 2 | [Joshua Riegel](../../persons/joshua_riegel/222.md) | [2020-06-23](2020-06-23.md) | <30 | 9.71 |  |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/722150235200875/permalink/725673131515252/) |
 
 #### Under 20
 
-| # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Jaidon Adams](../../persons/jaidon_adams/222.md) | [2020-02-11](2020-02-11.md) | <20 | 3.10 | <span style="white-space: nowrap">🏆 x 1</span> |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/176704156956327/permalink/180633799896696/) |
 

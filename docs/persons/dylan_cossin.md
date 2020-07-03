@@ -3,7 +3,7 @@
 
 🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
-| Event | Single | Average | Trophies | Achievements|
+| Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
 | [Pyraminx](dylan_cossin/pyram.md) | 1.84 | 2.68 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 | [Skewb](dylan_cossin/skewb.md) | 3.37 | 3.97 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |

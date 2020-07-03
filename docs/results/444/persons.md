@@ -5,13 +5,13 @@
 
 #### Over 60
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | 4:08.00 | DNF |  |  | <span style="white-space: nowrap">💥 x 3</span>, <span style="white-space: nowrap">⚡ x 3</span> |
 
 #### Over 50
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/444.md) | 50+ | 50.41 | 56.44 |  | <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | 50+ | 56.70 | 1:03.64 |  | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 2</span>, <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">🔥 x 4</span>, <span style="white-space: nowrap">⚡ x 1</span> |
@@ -22,7 +22,7 @@
 
 #### Over 40
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/444.md) | 40+ | 1:02.34 | 1:14.67 |  | <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">🔥 x 7</span>, <span style="white-space: nowrap">⚡ x 6</span> |
 | [Andy Nicholls](../../persons/andy_nicholls/444.md) | 40+ | 54.56 | 1:01.28 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 6</span>, <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">🔥 x 4</span>, <span style="white-space: nowrap">⚡ x 4</span> |
@@ -47,7 +47,7 @@
 
 #### Under 40
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/444.md) | <40 | 2:24.65 | DNF |  |  | <span style="white-space: nowrap">⚡ x 1</span> |
 | [Chris Thames](../../persons/chris_thames/444.md) | <40 | 1:56.95 | 2:05.99 |  |  | <span style="white-space: nowrap">🔥 x 3</span>, <span style="white-space: nowrap">⚡ x 3</span> |
@@ -62,7 +62,7 @@
 
 #### Under 30
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Joshua Riegel](../../persons/joshua_riegel/444.md) | <30 | 1:26.83 | 1:34.79 |  |  | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 | [Raimon Schaap](../../persons/raimon_schaap/444.md) | <30 | 1:16.76 | 1:23.57 |  |  | <span style="white-space: nowrap">🔥 x 3</span>, <span style="white-space: nowrap">⚡ x 2</span> |

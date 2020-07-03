@@ -5,14 +5,14 @@
 
 #### Over 50
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | 35.64 | 39.76 |  |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 50+ | 1:26.57 | 1:57.43 |  |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 
 #### Over 40
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/333oh.md) | 40+ | 1:15.41 | 1:36.72 |  |  | <span style="white-space: nowrap">🔥 x 4</span>, <span style="white-space: nowrap">⚡ x 5</span> |
 | [Andy Nicholls](../../persons/andy_nicholls/333oh.md) | 40+ | 34.17 | 40.48 |  | <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 4</span> |
@@ -32,7 +32,7 @@
 
 #### Under 40
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Alex Friedman](../../persons/alex_friedman/333oh.md) | <40 | 21.43 | 23.83 |  |  | <span style="white-space: nowrap">🔥 x 4</span>, <span style="white-space: nowrap">⚡ x 4</span> |
 | [Chris Thames](../../persons/chris_thames/333oh.md) | <40 | 1:37.29 | 1:47.71 |  |  | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 1</span> |

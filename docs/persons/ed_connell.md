@@ -3,7 +3,7 @@
 
 🏆 = overall winner, 🔥 = PR average, ⚡ = PR single.
 
-| Event | Single | Average | Trophies | Achievements|
+| Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
 | [3x3x3](ed_connell/333.md) | 14.29 | 15.82 |  | <span style="white-space: nowrap">🔥 x 7</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 | [2x2x2](ed_connell/222.md) | 3.39 | 5.91 |  | <span style="white-space: nowrap">🔥 x 3</span>, <span style="white-space: nowrap">⚡ x 3</span> |

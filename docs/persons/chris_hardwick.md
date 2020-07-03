@@ -3,7 +3,7 @@
 
 🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
-| Event | Single | Average | Trophies | Achievements|
+| Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
 | [3x3x3](chris_hardwick/333.md) | 12.00 | 13.26 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🔥 x 3</span>, <span style="white-space: nowrap">⚡ x 3</span> |
 | [5x5x5](chris_hardwick/555.md) | 2:09.49 | 2:19.32 |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |

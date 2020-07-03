@@ -3,7 +3,7 @@
 
 🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
-| Event | Single | Average | Trophies | Achievements|
+| Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
 | [3x3x3](jaidon_adams/333.md) | 8.31 | 8.67 | <span style="white-space: nowrap">🏆 x 2</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 | [2x2x2](jaidon_adams/222.md) | 2.45 | 3.10 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |

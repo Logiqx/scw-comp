@@ -3,7 +3,7 @@
 
 🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
-| Event | Single | Average | Trophies | Medals | Achievements|
+| Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](daniel_smith/333.md) | 20.99 | 27.32 |  |  | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">🔥 x 4</span>, <span style="white-space: nowrap">⚡ x 8</span> |
 | [2x2x2](daniel_smith/222.md) | 4.70 | 7.65 |  | <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 3</span>, <span style="white-space: nowrap">⚡ x 4</span> |

@@ -3,7 +3,7 @@
 
 🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
-| Event | Single | Average | Trophies | Achievements|
+| Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
 | [3x3x3 BLD](zain_ali/333bf.md) | 52.96 | 1:01.73 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 | [4x4x4 BLD](zain_ali/444bf.md) | 5:52.90 | - | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |

@@ -5,14 +5,14 @@
 
 #### Over 50
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | 3:35.63 | DNF |  |  | <span style="white-space: nowrap">⚡ x 2</span> |
 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | 2:02.45 | DNF |  | <span style="white-space: nowrap">🥈 x 1</span>, <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">💥 x 4</span>, <span style="white-space: nowrap">⚡ x 4</span> |
 
 #### Over 40
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333bf.md) | 40+ | 2:00.58 | 2:24.45 |  | <span style="white-space: nowrap">🥈 x 2</span>, <span style="white-space: nowrap">🥉 x 2</span> | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | 1:07.73 | DNF | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 2</span>, <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">⚡ x 2</span> |
@@ -29,7 +29,7 @@
 
 #### Under 40
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Brooke Persoon](../../persons/brooke_persoon/333bf.md) | <40 | 18:05.78 | DNF |  |  | <span style="white-space: nowrap">⚡ x 1</span> |
 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | <40 | 1:47.08 | 2:13.74 |  |  | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 4</span> |
@@ -37,13 +37,13 @@
 
 #### Under 30
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Joshua Riegel](../../persons/joshua_riegel/333bf.md) | <30 | 3:45.27 | DNF |  |  | <span style="white-space: nowrap">⚡ x 1</span> |
 
 #### Under 20
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Zain Ali](../../persons/zain_ali/333bf.md) | <20 | 52.96 | 1:01.73 | <span style="white-space: nowrap">🏆 x 1</span> |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 

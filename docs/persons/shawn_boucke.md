@@ -3,7 +3,7 @@
 
 🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
-| Event | Single | Average | Trophies | Achievements|
+| Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
 | [3x3x3](shawn_boucke/333.md) | 10.19 | 13.04 | <span style="white-space: nowrap">🏆 x 9</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">🔥 x 4</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 | [2x2x2](shawn_boucke/222.md) | 4.34 | 4.55 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |

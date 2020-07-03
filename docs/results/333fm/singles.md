@@ -5,13 +5,13 @@
 
 #### Over 60
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Solution |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Solution |
 | :--: | :-- | :--: | :--: | :--: | :--: | :-- | :-- | :-- |
 | 1 | [Donna Leiber](../../persons/donna_leiber/333fm.md) | [2020-06-09](2020-06-09.md) | 60+ | 43 |  |  | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/855783411578420/permalink/859012521255509/) |
 
 #### Over 50
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Solution |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Solution |
 | :--: | :-- | :--: | :--: | :--: | :--: | :-- | :-- | :-- |
 | 1 | [David Roche](../../persons/david_roche/333fm.md) | [2020-03-17](2020-03-17.md) | 50+ | 21 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 3</span>, <span style="white-space: nowrap">🥈 x 5</span>, <span style="white-space: nowrap">🥉 x 4</span> | <span style="white-space: nowrap">💥 x 3</span>, <span style="white-space: nowrap">⚡ x 4</span> | [Link](https://www.facebook.com/events/210706923625115/permalink/211706620191812/) |
 | | [Александр Гилка](../../persons/александр_гилка/333fm.md) | [2020-03-24](2020-03-24.md) | 50+ | 21 | <span style="white-space: nowrap">🏆 x 5</span> | <span style="white-space: nowrap">🥇 x 5</span>, <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">⚡ x 3</span> | [Link](https://www.facebook.com/events/500266387310754/permalink/500800967257296/) |
@@ -22,7 +22,7 @@
 
 #### Over 40
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Solution |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Solution |
 | :--: | :-- | :--: | :--: | :--: | :--: | :-- | :-- | :-- |
 | 1 | [David Roche](../../persons/david_roche/333fm.md) | [2020-03-17](2020-03-17.md) | 50+ | 21 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 3</span>, <span style="white-space: nowrap">🥈 x 5</span>, <span style="white-space: nowrap">🥉 x 4</span> | <span style="white-space: nowrap">💥 x 3</span>, <span style="white-space: nowrap">⚡ x 4</span> | [Link](https://www.facebook.com/events/210706923625115/permalink/211706620191812/) |
 | | [Александр Гилка](../../persons/александр_гилка/333fm.md) | [2020-03-24](2020-03-24.md) | 50+ | 21 | <span style="white-space: nowrap">🏆 x 5</span> | <span style="white-space: nowrap">🥇 x 5</span>, <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">⚡ x 3</span> | [Link](https://www.facebook.com/events/500266387310754/permalink/500800967257296/) |
@@ -37,7 +37,7 @@
 
 #### Under 40
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Solution |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Solution |
 | :--: | :-- | :--: | :--: | :--: | :--: | :-- | :-- | :-- |
 | 1 | [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | [2020-04-21](2020-04-21.md) | <40 | 24 | <span style="white-space: nowrap">🏆 x 5</span> |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">⚡ x 4</span> | [Link](https://www.facebook.com/events/573932290186676/permalink/574620073451231/) |
 | 2 | [Adam Robson](../../persons/adam_robson/333fm.md) | [2020-06-02](2020-06-02.md) | <40 | 26 |  |  | <span style="white-space: nowrap">⚡ x 4</span> | [Link](https://www.facebook.com/events/3920457157996941/permalink/3937885802920743/) |

@@ -5,13 +5,13 @@
 
 #### Over 60
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |  |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 
 #### Over 50
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/333.md) | 50+ | 10.58 | 13.94 |  | <span style="white-space: nowrap">🥇 x 5</span>, <span style="white-space: nowrap">🥈 x 3</span> | <span style="white-space: nowrap">💥 x 4</span>, <span style="white-space: nowrap">🔥 x 3</span>, <span style="white-space: nowrap">⚡ x 3</span> |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | 14.59 | 18.05 |  | <span style="white-space: nowrap">🥉 x 3</span> | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 3</span> |
@@ -27,7 +27,7 @@
 
 #### Over 40
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/333.md) | 40+ | 15.39 | 19.03 |  |  | <span style="white-space: nowrap">🔥 x 6</span>, <span style="white-space: nowrap">⚡ x 4</span> |
 | [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | 14.08 | 17.00 |  | <span style="white-space: nowrap">🥈 x 2</span>, <span style="white-space: nowrap">🥉 x 4</span> | <span style="white-space: nowrap">🔥 x 4</span>, <span style="white-space: nowrap">⚡ x 3</span> |
@@ -69,7 +69,7 @@
 
 #### Under 40
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/333.md) | <40 | 19.54 | 23.72 |  |  | <span style="white-space: nowrap">🔥 x 4</span>, <span style="white-space: nowrap">⚡ x 6</span> |
 | [Alex Friedman](../../persons/alex_friedman/333.md) | <40 | 15.47 | 18.36 |  |  | <span style="white-space: nowrap">🔥 x 3</span>, <span style="white-space: nowrap">⚡ x 3</span> |
@@ -90,7 +90,7 @@
 
 #### Under 30
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Joshua Riegel](../../persons/joshua_riegel/333.md) | <30 | 25.53 | 29.09 |  |  | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 | [Peyton Blevins](../../persons/peyton_blevins/333.md) | <30 | 28.16 | 30.48 |  |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
@@ -99,7 +99,7 @@
 
 #### Under 20
 
-| Name | Age | Single | Average | Trophies | Medals | Achievements |
+| Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Jaidon Adams](../../persons/jaidon_adams/333.md) | <20 | 8.31 | 8.67 | <span style="white-space: nowrap">🏆 x 2</span> |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |
 | [Jonathan Charlesworth](../../persons/jonathan_charlesworth/333.md) | <20 | 9.13 | 10.26 | <span style="white-space: nowrap">🏆 x 1</span> |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> |

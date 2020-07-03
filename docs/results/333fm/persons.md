@@ -5,13 +5,13 @@
 
 #### Over 60
 
-| Name | Age | Single | Trophies | Medals | Achievements |
+| Name | Age | Single | Cups | Medals | Achievements |
 | :-- | :--: | :--: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | 43 |  |  | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">⚡ x 2</span> |
 
 #### Over 50
 
-| Name | Age | Single | Trophies | Medals | Achievements |
+| Name | Age | Single | Cups | Medals | Achievements |
 | :-- | :--: | :--: | :--: | :-- | :-- |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333fm.md) | 50+ | 43 |  | <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">⚡ x 1</span> |
 | [David Roche](../../persons/david_roche/333fm.md) | 50+ | 21 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 3</span>, <span style="white-space: nowrap">🥈 x 5</span>, <span style="white-space: nowrap">🥉 x 4</span> | <span style="white-space: nowrap">💥 x 3</span>, <span style="white-space: nowrap">⚡ x 4</span> |
@@ -22,7 +22,7 @@
 
 #### Over 40
 
-| Name | Age | Single | Trophies | Medals | Achievements |
+| Name | Age | Single | Cups | Medals | Achievements |
 | :-- | :--: | :--: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333fm.md) | 40+ | 36 |  | <span style="white-space: nowrap">🥉 x 3</span> | <span style="white-space: nowrap">⚡ x 2</span> |
 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 25 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 3</span>, <span style="white-space: nowrap">🥉 x 2</span> | <span style="white-space: nowrap">⚡ x 2</span> |
@@ -37,7 +37,7 @@
 
 #### Under 40
 
-| Name | Age | Single | Trophies | Medals | Achievements |
+| Name | Age | Single | Cups | Medals | Achievements |
 | :-- | :--: | :--: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/333fm.md) | <40 | 26 |  |  | <span style="white-space: nowrap">⚡ x 4</span> |
 | [Brooke Persoon](../../persons/brooke_persoon/333fm.md) | <40 | 42 |  |  | <span style="white-space: nowrap">⚡ x 1</span> |

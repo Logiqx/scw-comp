@@ -5,13 +5,13 @@
 
 #### Over 60
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Donna Leiber](../../persons/donna_leiber/555.md) | [2020-05-12](2020-05-12.md) | 60+ | 6:41.82 |  |  | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/276138643524223/permalink/278589523279135/) |
 
 #### Over 50
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Chris Wright](../../persons/chris_wright/555.md) | [2020-06-16](2020-06-16.md) | 50+ | 1:42.41 |  | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/256188575607890/permalink/257123418847739/) |
 | 2 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | [2020-04-21](2020-04-21.md) | 50+ | 2:08.36 |  | <span style="white-space: nowrap">🥈 x 1</span>, <span style="white-space: nowrap">🥉 x 2</span> | <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 3</span> | [Link](https://www.facebook.com/ciro.vignotto/videos/10221784538578284/) |
@@ -21,7 +21,7 @@
 
 #### Over 40
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls/555.md) | [2020-06-09](2020-06-09.md) | 40+ | 1:38.52 | <span style="white-space: nowrap">🏆 x 7</span> | <span style="white-space: nowrap">🥇 x 9</span>, <span style="white-space: nowrap">🥈 x 2</span> | <span style="white-space: nowrap">💥 x 3</span>, <span style="white-space: nowrap">🔥 x 2</span>, <span style="white-space: nowrap">⚡ x 3</span> | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131119780586562/) |
 | 2 | [Chris Wright](../../persons/chris_wright/555.md) | [2020-06-16](2020-06-16.md) | 50+ | 1:42.41 |  | <span style="white-space: nowrap">🥇 x 1</span>, <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 2</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/256188575607890/permalink/257123418847739/) |
@@ -41,7 +41,7 @@
 
 #### Under 40
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Go-ho Choi](../../persons/go_ho_choi/555.md) | [2020-04-21](2020-04-21.md) | <40 | 1:16.98 | <span style="white-space: nowrap">🏆 x 5</span> |  | <span style="white-space: nowrap">💥 x 3</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 3</span> | [Link](https://www.facebook.com/events/538096063773916/permalink/542383880011801/) |
 | 2 | [Pete Lee](../../persons/pete_lee/555.md) | [2020-04-21](2020-04-21.md) | <40 | 2:01.03 |  |  | <span style="white-space: nowrap">🔥 x 5</span>, <span style="white-space: nowrap">⚡ x 4</span> | [Link](https://www.facebook.com/events/538096063773916/permalink/539805363602986/) |

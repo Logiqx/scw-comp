@@ -5,13 +5,13 @@
 
 #### Over 50
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2020-06-16](2020-06-16.md) | 50+ | 24.84 | <span style="white-space: nowrap">🏆 x 2</span> | <span style="white-space: nowrap">🥇 x 2</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/296087658445428/permalink/301316697922524/) |
 
 #### Over 40
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2020-06-16](2020-06-16.md) | 50+ | 24.84 | <span style="white-space: nowrap">🏆 x 2</span> | <span style="white-space: nowrap">🥇 x 2</span> | <span style="white-space: nowrap">💥 x 1</span>, <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 1</span> | [Link](https://www.facebook.com/events/296087658445428/permalink/301316697922524/) |
 | 2 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | [2020-06-23](2020-06-23.md) | 40+ | 31.85 |  | <span style="white-space: nowrap">🥈 x 2</span> | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624283784392782/) |
@@ -19,7 +19,7 @@
 
 #### Under 40
 
-| # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Ed Connell](../../persons/ed_connell/sq1.md) | [2020-06-23](2020-06-23.md) | <40 | 48.40 |  |  | <span style="white-space: nowrap">🔥 x 1</span>, <span style="white-space: nowrap">⚡ x 2</span> | [Link](https://www.facebook.com/events/1618516681636159/permalink/1621436411344186/) |
 
