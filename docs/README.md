@@ -16,19 +16,12 @@ All of the competitions can be found in the group [calendar](https://www.faceboo
 
 ### Links
 
-#### Scrambles
+Here are the links that you will be needing to use on a weekly basis:
 
-You can find all of the scrambles on [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) as well as on the Facebook event pages.
-
-#### Submissions
-
-In addition to posting your video on Facebook you will need to submit your results using the Google [form](submit.html).
-
-You can view all of the latest submissions via Google [analytics](analytics.html) or via the linked Google [sheet](responses.html).
-
-#### Results
-
-You can find all of the past results and personal profiles on the [results](results/README.md) page.
+- You can find all of the scrambles on [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) as well as on the Facebook event pages.
+- In addition to posting your video on Facebook you will need to submit your results using the Google [form](submit.html).
+- You can view all of the latest submissions via Google [analytics](analytics.html) or via the linked Google [sheet](responses.html).
+- You can find all of the past results and personal profiles on the [results](results/README.md) page.
 
 
 
