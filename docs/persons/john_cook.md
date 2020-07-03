@@ -5,7 +5,7 @@
 
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
-| [3x3x3 FMC](john_cook/333fm.md) | 45 | - | <span style="white-space: nowrap">🥉 x 2</span> | <span style="white-space: nowrap">⚡ x 3</span> |
+| [<span style="white-space: nowrap">3x3x3 FMC</span>](john_cook/333fm.md) | 45 | - | <span style="white-space: nowrap">🥉 x 2</span> | <span style="white-space: nowrap">⚡ x 3</span> |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

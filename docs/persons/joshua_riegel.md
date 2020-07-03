@@ -11,7 +11,7 @@
 | [6x6x6](joshua_riegel/666.md) | 6:40.49 | - | <span style="white-space: nowrap">⚡ x 1</span> |
 | [Pyraminx](joshua_riegel/pyram.md) | 9.94 | 19.49 | <span style="white-space: nowrap">🔥 x 1, ⚡ x 1</span> |
 | [Skewb](joshua_riegel/skewb.md) | 23.14 | 31.86 | <span style="white-space: nowrap">🔥 x 1, ⚡ x 1</span> |
-| [3x3x3 BLD](joshua_riegel/333bf.md) | 3:45.27 | - | <span style="white-space: nowrap">⚡ x 1</span> |
+| [<span style="white-space: nowrap">3x3x3 BLD</span>](joshua_riegel/333bf.md) | 3:45.27 | - | <span style="white-space: nowrap">⚡ x 1</span> |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

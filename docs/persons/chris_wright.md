@@ -9,7 +9,7 @@
 | [2x2x2](chris_wright/222.md) | 4.39 | 5.17 | <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> |
 | [4x4x4](chris_wright/444.md) | 50.41 | 56.44 | <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> |
 | [5x5x5](chris_wright/555.md) | 1:42.41 | 1:46.58 | <span style="white-space: nowrap">🥇 x 1, 🥈 x 1</span> | <span style="white-space: nowrap">💥 x 2, 🔥 x 1, ⚡ x 2</span> |
-| [3x3x3 OH](chris_wright/333oh.md) | 35.64 | 39.76 | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> |
+| [<span style="white-space: nowrap">3x3x3 OH</span>](chris_wright/333oh.md) | 35.64 | 39.76 |  | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

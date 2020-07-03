@@ -8,7 +8,7 @@
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [<span style="white-space: nowrap">Geoff Hartnell</span>](../../persons/geoff_hartnell/minx.md) | [<span style="white-space: nowrap">2020-06-02</span>](2020-06-02.md) | 40+ | 1:39.69 | <span style="white-space: nowrap">🏆 x 5</span> | <span style="white-space: nowrap">🥇 x 5</span> | <span style="white-space: nowrap">💥 x 2, 🔥 x 2, ⚡ x 2</span> | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374121619479628/) |
-| 2 | [<span style="white-space: nowrap">Andy Nicholls</span>](../../persons/andy_nicholls/minx.md) | [<span style="white-space: nowrap">2020-06-16</span>](2020-06-16.md) | 40+ | 2:38.82 | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap">🥈 x 5</span> | <span style="white-space: nowrap">🔥 x 4, ⚡ x 4</span> | [Link](https://www.facebook.com/events/604103587178706/permalink/606984593557272/) |
+| 2 | [<span style="white-space: nowrap">Andy Nicholls</span>](../../persons/andy_nicholls/minx.md) | [<span style="white-space: nowrap">2020-06-16</span>](2020-06-16.md) | 40+ | 2:38.82 |  | <span style="white-space: nowrap">🥈 x 5</span> | <span style="white-space: nowrap">🔥 x 4, ⚡ x 4</span> | [Link](https://www.facebook.com/events/604103587178706/permalink/606984593557272/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

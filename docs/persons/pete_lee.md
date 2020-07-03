@@ -11,7 +11,7 @@
 | [5x5x5](pete_lee/555.md) | 2:01.03 | 2:27.42 | <span style="white-space: nowrap">🔥 x 5, ⚡ x 4</span> |
 | [6x6x6](pete_lee/666.md) | 4:35.73 | - | <span style="white-space: nowrap">⚡ x 4</span> |
 | [7x7x7](pete_lee/777.md) | 7:59.28 | - | <span style="white-space: nowrap">⚡ x 6</span> |
-| [3x3x3 OH](pete_lee/333oh.md) | 39.61 | 47.46 | <span style="white-space: nowrap">🔥 x 2, ⚡ x 1</span> |
+| [<span style="white-space: nowrap">3x3x3 OH</span>](pete_lee/333oh.md) | 39.61 | 47.46 | <span style="white-space: nowrap">🔥 x 2, ⚡ x 1</span> |
 | [Pyraminx](pete_lee/pyram.md) | 14.79 | 28.27 | <span style="white-space: nowrap">🔥 x 1, ⚡ x 2</span> |
 | [Skewb](pete_lee/skewb.md) | 16.61 | 24.67 | <span style="white-space: nowrap">🔥 x 1, ⚡ x 2</span> |
 

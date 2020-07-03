@@ -9,7 +9,7 @@
 | [2x2x2](chris_thames/222.md) | 4.11 | 10.38 | <span style="white-space: nowrap">🔥 x 3, ⚡ x 3</span> |
 | [4x4x4](chris_thames/444.md) | 1:56.95 | 2:05.99 | <span style="white-space: nowrap">🔥 x 3, ⚡ x 3</span> |
 | [5x5x5](chris_thames/555.md) | 4:59.21 | - | <span style="white-space: nowrap">⚡ x 3</span> |
-| [3x3x3 OH](chris_thames/333oh.md) | 1:37.29 | 1:47.71 | <span style="white-space: nowrap">🔥 x 2, ⚡ x 1</span> |
+| [<span style="white-space: nowrap">3x3x3 OH</span>](chris_thames/333oh.md) | 1:37.29 | 1:47.71 | <span style="white-space: nowrap">🔥 x 2, ⚡ x 1</span> |
 | [Megaminx](chris_thames/minx.md) | 6:02.13 | - | <span style="white-space: nowrap">⚡ x 1</span> |
 | [Pyraminx](chris_thames/pyram.md) | 15.94 | 20.09 | <span style="white-space: nowrap">🔥 x 2, ⚡ x 2</span> |
 | [Skewb](chris_thames/skewb.md) | 25.74 | 38.88 | <span style="white-space: nowrap">🔥 x 2, ⚡ x 1</span> |

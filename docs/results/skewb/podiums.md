@@ -12,8 +12,8 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
-| 1 | [<span style="white-space: nowrap">Michael George</span>](../../persons/michael_george/skewb.md) | 40+ | 6.02 | 8.16 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/296272458426948/) |
-| 2 | [<span style="white-space: nowrap">Vani Muthukrishnan</span>](../../persons/vani_muthukrishnan/skewb.md) | 40+ | 7.77 | 10.46 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/297667538287440/) |
+| 1 | [<span style="white-space: nowrap">Michael George</span>](../../persons/michael_george/skewb.md) | 40+ | 6.02 | 8.16 | <span style="white-space: nowrap">🏆 🥇 💥 🔥 ⚡</span> | [Link](https://www.facebook.com/events/296087658445428/permalink/296272458426948/) |
+| 2 | [<span style="white-space: nowrap">Vani Muthukrishnan</span>](../../persons/vani_muthukrishnan/skewb.md) | 40+ | 7.77 | 10.46 | <span style="white-space: nowrap">🥈 🔥 ⚡</span> | [Link](https://www.facebook.com/events/296087658445428/permalink/297667538287440/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

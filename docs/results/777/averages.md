@@ -8,13 +8,13 @@
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [<span style="white-space: nowrap">Andy Nicholls</span>](../../persons/andy_nicholls/777.md) | [<span style="white-space: nowrap">2020-05-05</span>](2020-05-05.md) | 40+ | 5:24.33 | <span style="white-space: nowrap">🏆 x 8</span> | <span style="white-space: nowrap">🥇 x 8</span> | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> | [Link](https://www.facebook.com/events/557526585195168/permalink/558592678421892/) |
-| 2 | [<span style="white-space: nowrap">Geoff Hartnell</span>](../../persons/geoff_hartnell/777.md) | [<span style="white-space: nowrap">2020-06-09</span>](2020-06-09.md) | 40+ | 5:58.03 | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap">🥈 x 8</span> | <span style="white-space: nowrap">🔥 x 2, ⚡ x 2</span> | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131048293927044/) |
+| 2 | [<span style="white-space: nowrap">Geoff Hartnell</span>](../../persons/geoff_hartnell/777.md) | [<span style="white-space: nowrap">2020-06-09</span>](2020-06-09.md) | 40+ | 5:58.03 |  | <span style="white-space: nowrap">🥈 x 8</span> | <span style="white-space: nowrap">🔥 x 2, ⚡ x 2</span> | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131048293927044/) |
 
 #### Under 40
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [<span style="white-space: nowrap">Peter Osudar</span>](../../persons/peter_osudar/777.md) | [<span style="white-space: nowrap">2020-06-23</span>](2020-06-23.md) | <40 | 6:36.78 | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap"></span> | <span style="white-space: nowrap">🔥 x 1, ⚡ x 1</span> | [Link](https://www.facebook.com/events/268636114456043/permalink/276983293621325/) |
+| 1 | [<span style="white-space: nowrap">Peter Osudar</span>](../../persons/peter_osudar/777.md) | [<span style="white-space: nowrap">2020-06-23</span>](2020-06-23.md) | <40 | 6:36.78 |  |  | <span style="white-space: nowrap">🔥 x 1, ⚡ x 1</span> | [Link](https://www.facebook.com/events/268636114456043/permalink/276983293621325/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
