@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Go-ho Choi
+### Go-ho Choi - [2007GOHO01](https://www.worldcubeassociation.org/persons/2007GOHO01)
 
 🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 

@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Stuart Salmon
+### Stuart Salmon - [2018SALM01](https://www.worldcubeassociation.org/persons/2018SALM01)
 
 🔥 = PR average, ⚡ = PR single.
 

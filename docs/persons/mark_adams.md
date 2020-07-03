@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Mark Adams
+### Mark Adams - [2015ADAM03](https://www.worldcubeassociation.org/persons/2015ADAM03)
 
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single.
 

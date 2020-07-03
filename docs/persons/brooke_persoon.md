@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Brooke Persoon
+### Brooke Persoon - [2019PERS01](https://www.worldcubeassociation.org/persons/2019PERS01)
 
 🔥 = PR average, ⚡ = PR single.
 

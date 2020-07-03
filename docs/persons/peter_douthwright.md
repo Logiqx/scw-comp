@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Peter Douthwright
+### Peter Douthwright - [2007DOUT01](https://www.worldcubeassociation.org/persons/2007DOUT01)
 
 🔥 = PR average, ⚡ = PR single.
 

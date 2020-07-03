@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Mark Charlesworth
+### Mark Charlesworth - [2017CHAR16](https://www.worldcubeassociation.org/persons/2017CHAR16)
 
 🔥 = PR average, ⚡ = PR single.
 

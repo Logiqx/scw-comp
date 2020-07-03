@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Jang Junho (장준호)
+### Jang Junho (장준호) - [2014JUNH01](https://www.worldcubeassociation.org/persons/2014JUNH01)
 
 🔥 = PR average, ⚡ = PR single.
 

@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Pontus Uggla
+### Pontus Uggla - [2014UGGL01](https://www.worldcubeassociation.org/persons/2014UGGL01)
 
 🔥 = PR average, ⚡ = PR single.
 

@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Kerrie Jarman
+### Kerrie Jarman - [2019JARM01](https://www.worldcubeassociation.org/persons/2019JARM01)
 
 🔥 = PR average, ⚡ = PR single.
 

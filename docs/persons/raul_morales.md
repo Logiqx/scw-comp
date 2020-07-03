@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Raúl Morales
+### Raúl Morales - [2013MORA02](https://www.worldcubeassociation.org/persons/2013MORA02)
 
 🔥 = PR average, ⚡ = PR single.
 

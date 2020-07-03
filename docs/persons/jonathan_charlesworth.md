@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Jonathan Charlesworth
+### Jonathan Charlesworth - [2016CHAR01](https://www.worldcubeassociation.org/persons/2016CHAR01)
 
 🏆 = overall winner, 🔥 = PR average, ⚡ = PR single.
 

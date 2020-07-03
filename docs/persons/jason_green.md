@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Jason Green
+### Jason Green - [2016GREE02](https://www.worldcubeassociation.org/persons/2016GREE02)
 
 🔥 = PR average, ⚡ = PR single.
 

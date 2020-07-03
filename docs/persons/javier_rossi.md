@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Javier Rossi
+### Javier Rossi - [2017ROSS10](https://www.worldcubeassociation.org/persons/2017ROSS10)
 
 🔥 = PR average, ⚡ = PR single.
 

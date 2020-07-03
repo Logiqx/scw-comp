@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### David Burchill
+### David Burchill - [2020BURC01](https://www.worldcubeassociation.org/persons/2020BURC01)
 
 🔥 = PR average, ⚡ = PR single.
 

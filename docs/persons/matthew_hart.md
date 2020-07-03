@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Matthew Hart
+### Matthew Hart - [2019HART11](https://www.worldcubeassociation.org/persons/2019HART11)
 
 🔥 = PR average, ⚡ = PR single.
 
