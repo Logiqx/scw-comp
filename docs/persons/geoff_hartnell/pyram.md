@@ -6,7 +6,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-06-16](../../results/pyram/2020-06-16.md) | 40+ | **19.74** | **24.12** | 🔥 ⚡ | **19.74** | 52.89 | 22.43 | 21.95 | 27.97 | [Link](https://www.facebook.com/events/296087658445428/permalink/296203821767145/) |
+| [<span style="white-space: nowrap">2020-06-16</span>](../../results/pyram/2020-06-16.md) | 40+ | **19.74** | **24.12** | 🔥 ⚡ | **19.74** | 52.89 | 22.43 | 21.95 | 27.97 | [Link](https://www.facebook.com/events/296087658445428/permalink/296203821767145/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
