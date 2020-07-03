@@ -4,7 +4,7 @@
 🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Achievements|
-| -- | --: | --: | :--: | :-- |
+| :-- | --: | --: | :--: | :-- |
 | [3x3x3](go_ho_choi/333.md) | 11.23 | 12.74 | 🏆 x 3 | 💥 x 2, 🔥 x 3, ⚡ x 3 |
 | [2x2x2](go_ho_choi/222.md) | 3.50 | 4.50 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [4x4x4](go_ho_choi/444.md) | 36.50 | 49.27 | 🏆 x 3 | 💥 x 4, 🔥 x 3, ⚡ x 5 |

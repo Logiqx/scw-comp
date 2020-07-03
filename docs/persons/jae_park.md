@@ -4,7 +4,7 @@
 🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Medals | Achievements|
-| -- | --: | --: | :--: | :-- | :-- |
+| :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](jae_park/333.md) | 17.58 | 22.30 |  |  | 🔥 x 5, ⚡ x 4 |
 | [2x2x2](jae_park/222.md) | 12.95 | 19.45 |  |  | 🔥 x 1, ⚡ x 1 |
 | [4x4x4](jae_park/444.md) | 2:03.34 | 2:30.77 |  |  | 🔥 x 1, ⚡ x 2 |

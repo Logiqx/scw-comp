@@ -6,13 +6,13 @@
 #### Over 60
 
 | # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
-| :--: | -- | :--: | :--: | --: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Donna Leiber](../../persons/donna_leiber/555.md) | [2020-05-12](2020-05-12.md) | 60+ | 6:41.82 |  |  | 💥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/276138643524223/permalink/278589523279135/) |
 
 #### Over 50
 
 | # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
-| :--: | -- | :--: | :--: | --: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Chris Wright](../../persons/chris_wright/555.md) | [2020-06-16](2020-06-16.md) | 50+ | 1:42.41 |  | 🥇 x 1, 🥈 x 1 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/256188575607890/permalink/257123418847739/) |
 | 2 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | [2020-04-21](2020-04-21.md) | 50+ | 2:08.36 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/ciro.vignotto/videos/10221784538578284/) |
 | 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | [2020-02-18](2020-02-18.md) | 50+ | 2:31.49 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/538921670053895/permalink/539390146673714/) |
@@ -22,7 +22,7 @@
 #### Over 40
 
 | # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
-| :--: | -- | :--: | :--: | --: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls/555.md) | [2020-06-09](2020-06-09.md) | 40+ | 1:38.52 | 🏆 x 7 | 🥇 x 9, 🥈 x 2 | 💥 x 3, 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131119780586562/) |
 | 2 | [Chris Wright](../../persons/chris_wright/555.md) | [2020-06-16](2020-06-16.md) | 50+ | 1:42.41 |  | 🥇 x 1, 🥈 x 1 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/256188575607890/permalink/257123418847739/) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | [2020-06-23](2020-06-23.md) | 40+ | 1:42.67 | 🏆 x 1 | 🥇 x 2, 🥈 x 8, 🥉 x 3 | 🔥 x 5, ⚡ x 4 | [Link](https://www.facebook.com/events/268636114456043/permalink/270237950962526/) |
@@ -42,7 +42,7 @@
 #### Under 40
 
 | # | Name | Date | Age | Single | Trophies | Medals | Achievements | Video |
-| :--: | -- | :--: | :--: | --: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Go-ho Choi](../../persons/go_ho_choi/555.md) | [2020-04-21](2020-04-21.md) | <40 | 1:16.98 | 🏆 x 5 |  | 💥 x 3, 🔥 x 1, ⚡ x 3 | [Link](https://www.facebook.com/events/538096063773916/permalink/542383880011801/) |
 | 2 | [Pete Lee](../../persons/pete_lee/555.md) | [2020-04-21](2020-04-21.md) | <40 | 2:01.03 |  |  | 🔥 x 5, ⚡ x 4 | [Link](https://www.facebook.com/events/538096063773916/permalink/539805363602986/) |
 | 3 | [Chris Hardwick](../../persons/chris_hardwick/555.md) | [2020-03-24](2020-03-24.md) | <40 | 2:09.49 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/5078365835514885/permalink/5107384065946395/) |

@@ -4,7 +4,7 @@
 🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Achievements|
-| -- | --: | --: | :--: | :-- |
+| :-- | --: | --: | :--: | :-- |
 | [3x3x3](shawn_boucke/333.md) | 10.19 | 13.04 | 🏆 x 9 | 💥 x 2, 🔥 x 4, ⚡ x 2 |
 | [2x2x2](shawn_boucke/222.md) | 4.34 | 4.55 | 🏆 x 1 | 🔥 x 1, ⚡ x 1 |
 | [4x4x4](shawn_boucke/444.md) | 46.21 | 49.52 | 🏆 x 4 | 💥 x 1, 🔥 x 1, ⚡ x 3 |

@@ -6,14 +6,14 @@
 #### Over 50
 
 | # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
-| :--: | -- | :--: | :--: | --: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Chris Wright](../../persons/chris_wright/333oh.md) | [2020-03-10](2020-03-10.md) | 50+ | 39.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/684510792316675/permalink/685546418879779/) |
 | 2 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | [2020-03-10](2020-03-10.md) | 50+ | 1:57.43 |  |  | 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/684510792316675/permalink/688822721885482/) |
 
 #### Over 40
 
 | # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
-| :--: | -- | :--: | :--: | --: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Michael George](../../persons/michael_george/333oh.md) | [2020-04-28](2020-04-28.md) | 40+ | 21.87 | 🏆 x 11 | 🥇 x 14 | 💥 x 5, 🔥 x 3, ⚡ x 5 | [Link](https://www.facebook.com/events/535188653858103/permalink/535332343843734/) |
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | [2020-06-16](2020-06-16.md) | 40+ | 29.96 |  | 🥈 x 6, 🥉 x 6 | 🔥 x 7, ⚡ x 3 | [Link](https://www.facebook.com/events/604103587178706/permalink/608762373379494/) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | [2020-05-26](2020-05-26.md) | 40+ | 30.96 |  | 🥈 x 7, 🥉 x 7 | 🔥 x 5, ⚡ x 4 | [Link](https://www.facebook.com/events/688407551989463/permalink/690561981774020/) |
@@ -33,7 +33,7 @@
 #### Under 40
 
 | # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
-| :--: | -- | :--: | :--: | --: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Phil Yu](../../persons/phil_yu/333oh.md) | [2020-06-09](2020-06-09.md) | <40 | 14.64 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/903549840109576/permalink/904463093351584/) |
 | 2 | [Alex Friedman](../../persons/alex_friedman/333oh.md) | [2020-06-09](2020-06-09.md) | <40 | 23.83 |  |  | 🔥 x 4, ⚡ x 4 | [Link](https://www.facebook.com/events/903549840109576/permalink/907939493003944/) |
 | 3 | [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | [2020-04-14](2020-04-14.md) | <40 | 24.49 | 🏆 x 2 |  | 💥 x 1, 🔥 x 2, ⚡ x 1 | [Link](https://www.facebook.com/events/982619255468618/permalink/987264148337462/) |

@@ -6,7 +6,7 @@
 #### Over 50
 
 | # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
-| :--: | -- | :--: | :--: | --: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Chris Wright](../../persons/chris_wright/555.md) | [2020-03-03](2020-03-03.md) | 50+ | 1:46.58 |  | 🥇 x 1, 🥈 x 1 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639952702955113/) |
 | 2 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | [2020-04-14](2020-04-14.md) | 50+ | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/1400953806773430/permalink/1402097503325727/) |
 | 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | [2020-02-18](2020-02-18.md) | 50+ | 2:42.21 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/538921670053895/permalink/539390146673714/) |
@@ -14,7 +14,7 @@
 #### Over 40
 
 | # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
-| :--: | -- | :--: | :--: | --: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls/555.md) | [2020-05-12](2020-05-12.md) | 40+ | 1:46.32 | 🏆 x 7 | 🥇 x 9, 🥈 x 2 | 💥 x 3, 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/276138643524223/permalink/276779116793509/) |
 | 2 | [Chris Wright](../../persons/chris_wright/555.md) | [2020-03-03](2020-03-03.md) | 50+ | 1:46.58 |  | 🥇 x 1, 🥈 x 1 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/2637344919882558/permalink/2639952702955113/) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | [2020-06-09](2020-06-09.md) | 40+ | 1:59.66 | 🏆 x 1 | 🥇 x 2, 🥈 x 8, 🥉 x 3 | 🔥 x 5, ⚡ x 4 | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131991020499438/) |
@@ -32,7 +32,7 @@
 #### Under 40
 
 | # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
-| :--: | -- | :--: | :--: | --: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Go-ho Choi](../../persons/go_ho_choi/555.md) | [2020-02-18](2020-02-18.md) | <40 | 1:30.42 | 🏆 x 5 |  | 💥 x 3, 🔥 x 1, ⚡ x 3 | [Link](https://www.facebook.com/events/538921670053895/permalink/539081640037898/) |
 | 2 | [Chris Hardwick](../../persons/chris_hardwick/555.md) | [2020-03-24](2020-03-24.md) | <40 | 2:19.32 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/5078365835514885/permalink/5107384065946395/) |
 | 3 | [Ed Connell](../../persons/ed_connell/555.md) | [2020-06-16](2020-06-16.md) | <40 | 2:26.48 |  |  | 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/256188575607890/permalink/258981835328564/) |

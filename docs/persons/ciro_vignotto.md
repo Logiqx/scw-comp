@@ -4,7 +4,7 @@
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Medals | Achievements|
-| -- | --: | --: | :-- | :-- |
+| :-- | --: | --: | :-- | :-- |
 | [3x3x3](ciro_vignotto/333.md) | 14.59 | 18.05 | 🥉 x 3 | 🔥 x 2, ⚡ x 3 |
 | [2x2x2](ciro_vignotto/222.md) | 3.87 | 5.74 | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
 | [4x4x4](ciro_vignotto/444.md) | 56.70 | 1:03.64 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 |

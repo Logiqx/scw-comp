@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [3x3x3](joffie_berkowitz/333.md) | 25.79 | 28.76 | 🔥 x 6, ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

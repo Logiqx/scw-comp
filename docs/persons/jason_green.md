@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [3x3x3](jason_green/333.md) | 17.22 | 18.51 | 🔥 x 1, ⚡ x 1 |
 | [3x3x3 OH](jason_green/333oh.md) | 41.05 | 42.76 | 🔥 x 1, ⚡ x 1 |
 

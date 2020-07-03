@@ -4,7 +4,7 @@
 🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Medals | Achievements|
-| -- | --: | --: | :--: | :-- | :-- |
+| :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](grzegorz_pacewicz/333.md) | 13.37 | 14.77 |  | 🥈 x 8, 🥉 x 3 | 🔥 x 3, ⚡ x 1 |
 | [2x2x2](grzegorz_pacewicz/222.md) | 4.73 | 5.86 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 1 |
 | [4x4x4](grzegorz_pacewicz/444.md) | 56.11 | 1:11.39 |  |  | 🔥 x 1, ⚡ x 1 |

@@ -4,7 +4,7 @@
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Medals | Achievements|
-| -- | --: | --: | :-- | :-- |
+| :-- | --: | --: | :-- | :-- |
 | [3x3x3](donna_leiber/333.md) | 52.97 | 59.90 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [2x2x2](donna_leiber/222.md) | 23.86 | 32.64 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [4x4x4](donna_leiber/444.md) | 4:08.00 | - |  | 💥 x 3, ⚡ x 3 |

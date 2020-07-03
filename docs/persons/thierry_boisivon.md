@@ -4,7 +4,7 @@
 🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Medals | Achievements|
-| -- | --: | --: | :--: | :-- | :-- |
+| :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](thierry_boisivon/333.md) | 14.08 | 16.63 |  | 🥈 x 1, 🥉 x 4 | 🔥 x 2, ⚡ x 5 |
 | [2x2x2](thierry_boisivon/222.md) | 3.18 | 6.81 |  | 🥈 x 1, 🥉 x 4 | 💥 x 1, 🔥 x 2, ⚡ x 5 |
 | [4x4x4](thierry_boisivon/444.md) | 1:12.69 | 1:21.31 |  |  | 🔥 x 2, ⚡ x 3 |

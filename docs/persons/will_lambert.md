@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [3x3x3](will_lambert/333.md) | 9.74 | 11.51 | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -4,7 +4,7 @@
 🏆 = overall winner, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Achievements|
-| -- | --: | --: | :--: | :-- |
+| :-- | --: | --: | :--: | :-- |
 | [3x3x3](ed_connell/333.md) | 14.29 | 15.82 |  | 🔥 x 7, ⚡ x 1 |
 | [2x2x2](ed_connell/222.md) | 3.39 | 5.91 |  | 🔥 x 3, ⚡ x 3 |
 | [4x4x4](ed_connell/444.md) | 1:00.92 | 1:07.97 |  | 🔥 x 2, ⚡ x 2 |

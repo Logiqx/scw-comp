@@ -6,13 +6,13 @@
 #### Over 60
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | 4:08.00 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 
 #### Over 50
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/444.md) | 50+ | 50.41 | 56.44 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | 50+ | 56.70 | 1:03.64 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 |
 | [Daniel Smith](../../persons/daniel_smith/444.md) | 50+ | 1:12.01 | 1:28.41 |  |  | 💥 x 1, 🔥 x 4, ⚡ x 5 |
@@ -23,7 +23,7 @@
 #### Over 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/444.md) | 40+ | 1:02.34 | 1:14.67 |  | 🥉 x 1 | 🔥 x 7, ⚡ x 6 |
 | [Andy Nicholls](../../persons/andy_nicholls/444.md) | 40+ | 54.56 | 1:01.28 | 🏆 x 1 | 🥇 x 1, 🥈 x 6, 🥉 x 1 | 🔥 x 4, ⚡ x 4 |
 | [Anthony Rochester](../../persons/anthony_rochester/444.md) | 40+ | 1:23.57 | 1:32.65 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -48,7 +48,7 @@
 #### Under 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/444.md) | <40 | 2:24.65 | DNF |  |  | ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/444.md) | <40 | 1:56.95 | 2:05.99 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Ed Connell](../../persons/ed_connell/444.md) | <40 | 1:00.92 | 1:07.97 |  |  | 🔥 x 2, ⚡ x 2 |
@@ -63,7 +63,7 @@
 #### Under 30
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Joshua Riegel](../../persons/joshua_riegel/444.md) | <30 | 1:26.83 | 1:34.79 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Raimon Schaap](../../persons/raimon_schaap/444.md) | <30 | 1:16.76 | 1:23.57 |  |  | 🔥 x 3, ⚡ x 2 |
 

@@ -4,7 +4,7 @@
 🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Medals | Achievements|
-| -- | --: | --: | :--: | :-- | :-- |
+| :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](andy_nicholls/333.md) | 14.08 | 17.00 |  | 🥈 x 2, 🥉 x 4 | 🔥 x 4, ⚡ x 3 |
 | [2x2x2](andy_nicholls/222.md) | 4.01 | 6.35 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 4, ⚡ x 3 |
 | [4x4x4](andy_nicholls/444.md) | 54.56 | 1:01.28 | 🏆 x 1 | 🥇 x 1, 🥈 x 6, 🥉 x 1 | 🔥 x 4, ⚡ x 4 |

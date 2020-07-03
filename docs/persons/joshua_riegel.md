@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [3x3x3](joshua_riegel/333.md) | 25.53 | 29.09 | 🔥 x 2, ⚡ x 2 |
 | [2x2x2](joshua_riegel/222.md) | 7.04 | 9.71 | 🔥 x 1, ⚡ x 1 |
 | [4x4x4](joshua_riegel/444.md) | 1:26.83 | 1:34.79 | 🔥 x 2, ⚡ x 2 |

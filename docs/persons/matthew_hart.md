@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [3x3x3](matthew_hart/333.md) | 22.72 | 24.96 | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -4,7 +4,7 @@
 🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Medals | Achievements|
-| -- | --: | --: | :--: | :-- | :-- |
+| :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](daniel_smith/333.md) | 20.99 | 27.32 |  |  | 💥 x 2, 🔥 x 4, ⚡ x 8 |
 | [2x2x2](daniel_smith/222.md) | 4.70 | 7.65 |  | 🥉 x 1 | 💥 x 1, 🔥 x 3, ⚡ x 4 |
 | [4x4x4](daniel_smith/444.md) | 1:12.01 | 1:28.41 |  |  | 💥 x 1, 🔥 x 4, ⚡ x 5 |

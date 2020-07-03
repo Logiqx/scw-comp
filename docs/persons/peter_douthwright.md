@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [3x3x3](peter_douthwright/333.md) | 31.12 | 35.24 | 🔥 x 5, ⚡ x 3 |
 | [2x2x2](peter_douthwright/222.md) | 6.53 | 10.79 | 🔥 x 2, ⚡ x 2 |
 | [4x4x4](peter_douthwright/444.md) | 2:20.53 | 2:42.21 | 🔥 x 2, ⚡ x 3 |

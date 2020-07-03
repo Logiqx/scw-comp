@@ -6,14 +6,14 @@
 #### Over 50
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | 3:35.63 | DNF |  |  | ⚡ x 2 |
 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | 2:02.45 | DNF |  | 🥈 x 1, 🥉 x 1 | 💥 x 4, ⚡ x 4 |
 
 #### Over 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333bf.md) | 40+ | 2:00.58 | 2:24.45 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 1, ⚡ x 1 |
 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | 1:07.73 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | ⚡ x 2 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | 1:04.30 | DNF |  | 🥈 x 3 | ⚡ x 2 |
@@ -30,7 +30,7 @@
 #### Under 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Brooke Persoon](../../persons/brooke_persoon/333bf.md) | <40 | 18:05.78 | DNF |  |  | ⚡ x 1 |
 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | <40 | 1:47.08 | 2:13.74 |  |  | 🔥 x 2, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/333bf.md) | <40 | 2:22.99 | DNF |  |  | ⚡ x 1 |
@@ -38,13 +38,13 @@
 #### Under 30
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Joshua Riegel](../../persons/joshua_riegel/333bf.md) | <30 | 3:45.27 | DNF |  |  | ⚡ x 1 |
 
 #### Under 20
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Zain Ali](../../persons/zain_ali/333bf.md) | <20 | 52.96 | 1:01.73 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 
 

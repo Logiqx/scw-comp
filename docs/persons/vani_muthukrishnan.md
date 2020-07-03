@@ -4,7 +4,7 @@
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Medals | Achievements|
-| -- | --: | --: | :-- | :-- |
+| :-- | --: | --: | :-- | :-- |
 | [3x3x3](vani_muthukrishnan/333.md) | 21.40 | 22.41 |  | 🔥 x 1, ⚡ x 1 |
 | [2x2x2](vani_muthukrishnan/222.md) | 5.76 | 6.57 | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Pyraminx](vani_muthukrishnan/pyram.md) | 8.72 | 9.41 | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |

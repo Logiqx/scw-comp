@@ -6,13 +6,13 @@
 #### Over 60
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 
 #### Over 50
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | 1:42.41 | 1:46.58 |  | 🥇 x 1, 🥈 x 1 | 💥 x 2, 🔥 x 1, ⚡ x 2 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | 2:31.49 | 2:42.21 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
@@ -22,7 +22,7 @@
 #### Over 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/555.md) | 40+ | 2:28.62 | 2:39.68 |  | 🥉 x 2 | 🔥 x 3, ⚡ x 2 |
 | [Andy Nicholls](../../persons/andy_nicholls/555.md) | 40+ | 1:38.52 | 1:46.32 | 🏆 x 7 | 🥇 x 9, 🥈 x 2 | 💥 x 3, 🔥 x 2, ⚡ x 3 |
 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | 1:42.41 | 1:46.58 |  | 🥇 x 1, 🥈 x 1 | 💥 x 2, 🔥 x 1, ⚡ x 2 |
@@ -42,7 +42,7 @@
 #### Under 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Hardwick](../../persons/chris_hardwick/555.md) | <40 | 2:09.49 | 2:19.32 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/555.md) | <40 | 4:59.21 | DNF |  |  | ⚡ x 3 |
 | [Ed Connell](../../persons/ed_connell/555.md) | <40 | 2:18.73 | 2:26.48 |  |  | 🔥 x 2, ⚡ x 2 |

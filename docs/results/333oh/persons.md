@@ -6,14 +6,14 @@
 #### Over 50
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | 35.64 | 39.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 50+ | 1:26.57 | 1:57.43 |  |  | 🔥 x 1, ⚡ x 2 |
 
 #### Over 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/333oh.md) | 40+ | 1:15.41 | 1:36.72 |  |  | 🔥 x 4, ⚡ x 5 |
 | [Andy Nicholls](../../persons/andy_nicholls/333oh.md) | 40+ | 34.17 | 40.48 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 4 |
 | [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | 35.64 | 39.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
@@ -33,7 +33,7 @@
 #### Under 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Alex Friedman](../../persons/alex_friedman/333oh.md) | <40 | 21.43 | 23.83 |  |  | 🔥 x 4, ⚡ x 4 |
 | [Chris Thames](../../persons/chris_thames/333oh.md) | <40 | 1:37.29 | 1:47.71 |  |  | 🔥 x 2, ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/333oh.md) | <40 | 22.50 | 34.04 |  |  | 🔥 x 1, ⚡ x 1 |

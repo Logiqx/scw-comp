@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [3x3x3](jamie_brady/333.md) | 21.03 | 24.65 | 🔥 x 1, ⚡ x 2 |
 | [4x4x4](jamie_brady/444.md) | 2:24.93 | 2:38.28 | 🔥 x 1, ⚡ x 1 |
 | [3x3x3 OH](jamie_brady/333oh.md) | 30.75 | 34.85 | 🔥 x 4, ⚡ x 3 |

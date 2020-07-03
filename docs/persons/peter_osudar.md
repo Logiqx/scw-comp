@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [4x4x4](peter_osudar/444.md) | 1:29.48 | 1:35.22 | 🔥 x 1, ⚡ x 1 |
 | [5x5x5](peter_osudar/555.md) | 2:35.63 | 2:41.55 | 🔥 x 1, ⚡ x 1 |
 | [6x6x6](peter_osudar/666.md) | 4:08.97 | 4:43.10 | 🔥 x 1, ⚡ x 1 |

@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [3x3x3](jang_junho/333.md) | 20.33 | 25.66 | 🔥 x 4, ⚡ x 2 |
 | [2x2x2](jang_junho/222.md) | 9.01 | 10.40 | 🔥 x 2, ⚡ x 3 |
 | [4x4x4](jang_junho/444.md) | 2:31.31 | 2:58.70 | 🔥 x 1, ⚡ x 1 |

@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [3x3x3](pete_lee/333.md) | 15.42 | 19.11 | 🔥 x 5, ⚡ x 3 |
 | [2x2x2](pete_lee/222.md) | 4.68 | 7.23 | 🔥 x 3, ⚡ x 4 |
 | [4x4x4](pete_lee/444.md) | 54.90 | 1:04.39 | 🔥 x 7, ⚡ x 8 |

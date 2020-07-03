@@ -4,7 +4,7 @@
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Medals | Achievements|
-| -- | --: | --: | :-- | :-- |
+| :-- | --: | --: | :-- | :-- |
 | [3x3x3](chris_wright/333.md) | 10.58 | 13.94 | 🥇 x 5, 🥈 x 3 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
 | [2x2x2](chris_wright/222.md) | 4.39 | 5.17 | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [4x4x4](chris_wright/444.md) | 50.41 | 56.44 | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |

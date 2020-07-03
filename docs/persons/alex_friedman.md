@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [3x3x3](alex_friedman/333.md) | 15.47 | 18.36 | 🔥 x 3, ⚡ x 3 |
 | [3x3x3 OH](alex_friedman/333oh.md) | 21.43 | 23.83 | 🔥 x 4, ⚡ x 4 |
 

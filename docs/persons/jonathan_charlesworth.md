@@ -4,7 +4,7 @@
 🏆 = overall winner, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Achievements|
-| -- | --: | --: | :--: | :-- |
+| :-- | --: | --: | :--: | :-- |
 | [3x3x3](jonathan_charlesworth/333.md) | 9.13 | 10.26 | 🏆 x 1 | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

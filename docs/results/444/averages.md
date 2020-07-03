@@ -6,7 +6,7 @@
 #### Over 50
 
 | # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
-| :--: | -- | :--: | :--: | --: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Ron van Bruchem](../../persons/ron_van_bruchem/444.md) | [2020-03-17](2020-03-17.md) | 50+ | 49.81 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
 | 2 | [Chris Wright](../../persons/chris_wright/444.md) | [2020-02-25](2020-02-25.md) | 50+ | 56.44 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/805797596592397/permalink/808666752972148/) |
 | 3 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | [2020-04-21](2020-04-21.md) | 50+ | 1:03.64 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 | [Link](https://www.facebook.com/events/538096063773916/permalink/539566816960174/) |
@@ -16,7 +16,7 @@
 #### Over 40
 
 | # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
-| :--: | -- | :--: | :--: | --: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Ron van Bruchem](../../persons/ron_van_bruchem/444.md) | [2020-03-17](2020-03-17.md) | 50+ | 49.81 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
 | 2 | [Michael George](../../persons/michael_george/444.md) | [2020-02-25](2020-02-25.md) | 40+ | 53.30 | 🏆 x 6 | 🥇 x 12, 🥈 x 2 | 💥 x 3, 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/805797596592397/permalink/805925283246295/) |
 | 3 | [Chris Wright](../../persons/chris_wright/444.md) | [2020-02-25](2020-02-25.md) | 50+ | 56.44 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/805797596592397/permalink/808666752972148/) |
@@ -40,7 +40,7 @@
 #### Under 40
 
 | # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
-| :--: | -- | :--: | :--: | --: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Go-ho Choi](../../persons/go_ho_choi/444.md) | [2020-03-31](2020-03-31.md) | <40 | 49.27 | 🏆 x 3 |  | 💥 x 4, 🔥 x 3, ⚡ x 5 | [Link](https://www.facebook.com/events/269276700734640/permalink/272981440364166/) |
 | 2 | [Shawn Boucké](../../persons/shawn_boucke/444.md) | [2020-02-04](2020-02-04.md) | <40 | 49.52 | 🏆 x 4 |  | 💥 x 1, 🔥 x 1, ⚡ x 3 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134991299980109/) |
 | 3 | [Pete Lee](../../persons/pete_lee/444.md) | [2020-06-23](2020-06-23.md) | <40 | 1:04.39 |  |  | 🔥 x 7, ⚡ x 8 | [Link](https://www.facebook.com/events/268636114456043/permalink/270820800904241/) |
@@ -54,7 +54,7 @@
 #### Under 30
 
 | # | Name | Date | Age | Average | Trophies | Medals | Achievements | Video |
-| :--: | -- | :--: | :--: | --: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Raimon Schaap](../../persons/raimon_schaap/444.md) | [2020-05-05](2020-05-05.md) | <30 | 1:23.57 |  |  | 🔥 x 3, ⚡ x 2 | [Link](https://www.facebook.com/events/557526585195168/permalink/557561768524983/) |
 | 2 | [Joshua Riegel](../../persons/joshua_riegel/444.md) | [2020-06-23](2020-06-23.md) | <30 | 1:34.79 |  |  | 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/268636114456043/permalink/276409987011989/) |
 

@@ -6,13 +6,13 @@
 #### Over 60
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 #### Over 50
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/333.md) | 50+ | 10.58 | 13.94 |  | 🥇 x 5, 🥈 x 3 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | 14.59 | 18.05 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 3 |
 | [Daniel Smith](../../persons/daniel_smith/333.md) | 50+ | 20.99 | 27.32 |  |  | 💥 x 2, 🔥 x 4, ⚡ x 8 |
@@ -28,7 +28,7 @@
 #### Over 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/333.md) | 40+ | 15.39 | 19.03 |  |  | 🔥 x 6, ⚡ x 4 |
 | [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | 14.08 | 17.00 |  | 🥈 x 2, 🥉 x 4 | 🔥 x 4, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/333.md) | 40+ | 18.14 | 22.81 |  |  | 🔥 x 2, ⚡ x 3 |
@@ -70,7 +70,7 @@
 #### Under 40
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/333.md) | <40 | 19.54 | 23.72 |  |  | 🔥 x 4, ⚡ x 6 |
 | [Alex Friedman](../../persons/alex_friedman/333.md) | <40 | 15.47 | 18.36 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Brooke Persoon](../../persons/brooke_persoon/333.md) | <40 | 39.40 | 47.49 |  |  | 🔥 x 2, ⚡ x 2 |
@@ -91,7 +91,7 @@
 #### Under 30
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Joshua Riegel](../../persons/joshua_riegel/333.md) | <30 | 25.53 | 29.09 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Peyton Blevins](../../persons/peyton_blevins/333.md) | <30 | 28.16 | 30.48 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Raimon Schaap](../../persons/raimon_schaap/333.md) | <30 | 13.58 | 15.99 |  |  | 🔥 x 5, ⚡ x 4 |
@@ -100,7 +100,7 @@
 #### Under 20
 
 | Name | Age | Single | Average | Trophies | Medals | Achievements |
-| -- | :--: | --: | --: | :--: | :-- | :-- |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Jaidon Adams](../../persons/jaidon_adams/333.md) | <20 | 8.31 | 8.67 | 🏆 x 2 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Jonathan Charlesworth](../../persons/jonathan_charlesworth/333.md) | <20 | 9.13 | 10.26 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 | [Will Lambert](../../persons/will_lambert/333.md) | <20 | 9.74 | 11.51 |  |  | 🔥 x 1, ⚡ x 1 |

@@ -4,7 +4,7 @@
 🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Medals | Achievements|
-| -- | --: | --: | :--: | :-- | :-- |
+| :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3 FMC](david_roche/333fm.md) | 21 | - | 🏆 x 1 | 🥇 x 3, 🥈 x 5, 🥉 x 4 | 💥 x 3, ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

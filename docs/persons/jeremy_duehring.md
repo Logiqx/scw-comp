@@ -4,7 +4,7 @@
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Medals | Achievements|
-| -- | --: | --: | :-- | :-- |
+| :-- | --: | --: | :-- | :-- |
 | [3x3x3](jeremy_duehring/333.md) | 14.22 | 16.26 | 🥈 x 2, 🥉 x 3 | 🔥 x 6, ⚡ x 3 |
 | [2x2x2](jeremy_duehring/222.md) | 3.44 | 6.08 | 🥈 x 3, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
 | [4x4x4](jeremy_duehring/444.md) | 52.35 | 1:02.91 | 🥈 x 2, 🥉 x 7 | 🔥 x 2, ⚡ x 2 |

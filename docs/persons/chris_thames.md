@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [3x3x3](chris_thames/333.md) | 26.69 | 31.20 | 🔥 x 4, ⚡ x 4 |
 | [2x2x2](chris_thames/222.md) | 4.11 | 10.38 | 🔥 x 3, ⚡ x 3 |
 | [4x4x4](chris_thames/444.md) | 1:56.95 | 2:05.99 | 🔥 x 3, ⚡ x 3 |

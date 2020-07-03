@@ -4,7 +4,7 @@
 🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Medals | Achievements|
-| -- | --: | --: | :--: | :-- | :-- |
+| :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](michael_george/333.md) | 11.64 | 13.67 | 🏆 x 5 | 🥇 x 17, 🥈 x 4 | 💥 x 5, 🔥 x 5, ⚡ x 3 |
 | [2x2x2](michael_george/222.md) | 3.20 | 4.40 | 🏆 x 12 | 🥇 x 15 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
 | [4x4x4](michael_george/444.md) | 45.67 | 53.30 | 🏆 x 6 | 🥇 x 12, 🥈 x 2 | 💥 x 3, 🔥 x 2, ⚡ x 2 |

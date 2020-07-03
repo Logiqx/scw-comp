@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [3x3x3](isak_majer/333.md) | 16.05 | 18.84 | 🔥 x 4, ⚡ x 4 |
 | [4x4x4](isak_majer/444.md) | 1:41.66 | 1:50.60 | 🔥 x 1, ⚡ x 1 |
 

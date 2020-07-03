@@ -4,7 +4,7 @@
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Medals | Achievements|
-| -- | --: | --: | :-- | :-- |
+| :-- | --: | --: | :-- | :-- |
 | [3x3x3](aaron_cumes/333.md) | 15.39 | 19.03 |  | 🔥 x 6, ⚡ x 4 |
 | [2x2x2](aaron_cumes/222.md) | 6.09 | 8.12 |  | 🔥 x 5, ⚡ x 6 |
 | [4x4x4](aaron_cumes/444.md) | 1:02.34 | 1:14.67 | 🥉 x 1 | 🔥 x 7, ⚡ x 6 |

@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [3x3x3](markus_niederost/333.md) | 19.98 | 23.60 | 🔥 x 1, ⚡ x 1 |
 | [2x2x2](markus_niederost/222.md) | 7.80 | 9.63 | 🔥 x 1, ⚡ x 1 |
 

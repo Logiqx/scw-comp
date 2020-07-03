@@ -4,7 +4,7 @@
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Medals | Achievements|
-| -- | --: | --: | :-- | :-- |
+| :-- | --: | --: | :-- | :-- |
 | [3x3x3 FMC](john_cook/333fm.md) | 45 | - | 🥉 x 2 | ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

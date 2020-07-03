@@ -4,7 +4,7 @@
 🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Trophies | Medals | Achievements|
-| -- | --: | --: | :--: | :-- | :-- |
+| :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](geoff_hartnell/333.md) | 14.77 | 17.54 |  | 🥈 x 2, 🥉 x 5 | 🔥 x 7, ⚡ x 4 |
 | [2x2x2](geoff_hartnell/222.md) | 5.86 | 12.64 |  |  | 🔥 x 1, ⚡ x 1 |
 | [4x4x4](geoff_hartnell/444.md) | 57.70 | 1:04.44 |  | 🥈 x 2, 🥉 x 5 | 🔥 x 4, ⚡ x 5 |

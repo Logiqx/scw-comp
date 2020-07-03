@@ -4,7 +4,7 @@
 🔥 = PR average, ⚡ = PR single.
 
 | Event | Single | Average | Achievements|
-| -- | --: | --: | :-- |
+| :-- | --: | --: | :-- |
 | [3x3x3](marcel_balzer/333.md) | 38.14 | 56.04 | 🔥 x 2, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

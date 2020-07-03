@@ -6,13 +6,13 @@
 #### Over 60
 
 | Name | Age | Single | Trophies | Medals | Achievements |
-| -- | :--: | :--: | :--: | :-- | :-- |
+| :-- | :--: | :--: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | 43 |  |  | 💥 x 2, ⚡ x 2 |
 
 #### Over 50
 
 | Name | Age | Single | Trophies | Medals | Achievements |
-| -- | :--: | :--: | :--: | :-- | :-- |
+| :-- | :--: | :--: | :--: | :-- | :-- |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333fm.md) | 50+ | 43 |  | 🥉 x 1 | ⚡ x 1 |
 | [David Roche](../../persons/david_roche/333fm.md) | 50+ | 21 | 🏆 x 1 | 🥇 x 3, 🥈 x 5, 🥉 x 4 | 💥 x 3, ⚡ x 4 |
 | [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | 43 |  |  | 💥 x 2, ⚡ x 2 |
@@ -23,7 +23,7 @@
 #### Over 40
 
 | Name | Age | Single | Trophies | Medals | Achievements |
-| -- | :--: | :--: | :--: | :-- | :-- |
+| :-- | :--: | :--: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333fm.md) | 40+ | 36 |  | 🥉 x 3 | ⚡ x 2 |
 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 25 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 2 | ⚡ x 2 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333fm.md) | 50+ | 43 |  | 🥉 x 1 | ⚡ x 1 |
@@ -38,7 +38,7 @@
 #### Under 40
 
 | Name | Age | Single | Trophies | Medals | Achievements |
-| -- | :--: | :--: | :--: | :-- | :-- |
+| :-- | :--: | :--: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/333fm.md) | <40 | 26 |  |  | ⚡ x 4 |
 | [Brooke Persoon](../../persons/brooke_persoon/333fm.md) | <40 | 42 |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/333fm.md) | <40 | 29 |  |  | ⚡ x 4 |

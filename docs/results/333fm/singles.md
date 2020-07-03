@@ -6,13 +6,13 @@
 #### Over 60
 
 | # | Name | Date | Age | Single | Trophies | Medals | Achievements | Solution |
-| :--: | -- | :--: | :--: | :--: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- | :-- | :-- |
 | 1 | [Donna Leiber](../../persons/donna_leiber/333fm.md) | [2020-06-09](2020-06-09.md) | 60+ | 43 |  |  | 💥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/855783411578420/permalink/859012521255509/) |
 
 #### Over 50
 
 | # | Name | Date | Age | Single | Trophies | Medals | Achievements | Solution |
-| :--: | -- | :--: | :--: | :--: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- | :-- | :-- |
 | 1 | [David Roche](../../persons/david_roche/333fm.md) | [2020-03-17](2020-03-17.md) | 50+ | 21 | 🏆 x 1 | 🥇 x 3, 🥈 x 5, 🥉 x 4 | 💥 x 3, ⚡ x 4 | [Link](https://www.facebook.com/events/210706923625115/permalink/211706620191812/) |
 | | [Александр Гилка](../../persons/александр_гилка/333fm.md) | [2020-03-24](2020-03-24.md) | 50+ | 21 | 🏆 x 5 | 🥇 x 5, 🥈 x 1 | 💥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/500266387310754/permalink/500800967257296/) |
 | 3 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | [2020-06-23](2020-06-23.md) | 50+ | 33 |  | 🥈 x 1, 🥉 x 2 | ⚡ x 2 | [Link](https://www.facebook.com/events/284763775909443/permalink/288504812202006/) |
@@ -23,7 +23,7 @@
 #### Over 40
 
 | # | Name | Date | Age | Single | Trophies | Medals | Achievements | Solution |
-| :--: | -- | :--: | :--: | :--: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- | :-- | :-- |
 | 1 | [David Roche](../../persons/david_roche/333fm.md) | [2020-03-17](2020-03-17.md) | 50+ | 21 | 🏆 x 1 | 🥇 x 3, 🥈 x 5, 🥉 x 4 | 💥 x 3, ⚡ x 4 | [Link](https://www.facebook.com/events/210706923625115/permalink/211706620191812/) |
 | | [Александр Гилка](../../persons/александр_гилка/333fm.md) | [2020-03-24](2020-03-24.md) | 50+ | 21 | 🏆 x 5 | 🥇 x 5, 🥈 x 1 | 💥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/500266387310754/permalink/500800967257296/) |
 | 3 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | [2020-03-10](2020-03-10.md) | 40+ | 25 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 2 | ⚡ x 2 | [Link](https://www.facebook.com/events/640532176759268/permalink/641063233372829/) |
@@ -38,7 +38,7 @@
 #### Under 40
 
 | # | Name | Date | Age | Single | Trophies | Medals | Achievements | Solution |
-| :--: | -- | :--: | :--: | :--: | :--: | :-- | :-- | -- |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- | :-- | :-- |
 | 1 | [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | [2020-04-21](2020-04-21.md) | <40 | 24 | 🏆 x 5 |  | 💥 x 1, ⚡ x 4 | [Link](https://www.facebook.com/events/573932290186676/permalink/574620073451231/) |
 | 2 | [Adam Robson](../../persons/adam_robson/333fm.md) | [2020-06-02](2020-06-02.md) | <40 | 26 |  |  | ⚡ x 4 | [Link](https://www.facebook.com/events/3920457157996941/permalink/3937885802920743/) |
 | 3 | [Ed Connell](../../persons/ed_connell/333fm.md) | [2020-06-09](2020-06-09.md) | <40 | 29 |  |  | ⚡ x 4 | [Link](https://www.facebook.com/events/855783411578420/permalink/856819448141483/) |
