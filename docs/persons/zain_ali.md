@@ -1,3 +1,5 @@
+<style>table {white-space: nowrap;}</style>
+
 ## Senior Cubers Worldwide - Weekly Competition
 ### Zain Ali
 
@@ -5,8 +7,8 @@
 
 | Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
-| [<span style="white-space: nowrap">3x3x3 BLD</span>](zain_ali/333bf.md) | 52.96 | 1:01.73 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🔥 x 1, ⚡ x 1</span> |
-| [<span style="white-space: nowrap">4x4x4 BLD</span>](zain_ali/444bf.md) | 5:52.90 | - | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">💥 x 1, ⚡ x 1</span> |
+| [3x3x3 BLD](zain_ali/333bf.md) | 52.96 | 1:01.73 | 🏆 x 1 | 🔥 x 1, ⚡ x 1 |
+| [4x4x4 BLD](zain_ali/444bf.md) | 5:52.90 | - | 🏆 x 1 | 💥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

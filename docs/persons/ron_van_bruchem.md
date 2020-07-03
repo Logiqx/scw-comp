@@ -1,3 +1,5 @@
+<style>table {white-space: nowrap;}</style>
+
 ## Senior Cubers Worldwide - Weekly Competition
 ### Ron van Bruchem
 
@@ -5,7 +7,7 @@
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [4x4x4](ron_van_bruchem/444.md) | 46.32 | 49.81 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 1</span> | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> |
+| [4x4x4](ron_van_bruchem/444.md) | 46.32 | 49.81 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

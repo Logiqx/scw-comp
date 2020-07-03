@@ -1,3 +1,5 @@
+<style>table {white-space: nowrap;}</style>
+
 ## Senior Cubers Worldwide - Weekly Competition
 ### John Cook
 
@@ -5,7 +7,7 @@
 
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
-| [<span style="white-space: nowrap">3x3x3 FMC</span>](john_cook/333fm.md) | 45 | - | <span style="white-space: nowrap">🥉 x 2</span> | <span style="white-space: nowrap">⚡ x 3</span> |
+| [3x3x3 FMC](john_cook/333fm.md) | 45 | - | 🥉 x 2 | ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

@@ -1,3 +1,5 @@
+<style>table {white-space: nowrap;}</style>
+
 ## Senior Cubers Worldwide - Weekly Competition
 ### 3x3x3 Fewest Moves Averages
 

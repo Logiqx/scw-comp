@@ -1,3 +1,5 @@
+<style>table {white-space: nowrap;}</style>
+
 ## Senior Cubers Worldwide - Weekly Competition
 ### Dylan Cossin - [2016COSS01](https://www.worldcubeassociation.org/persons/2016COSS01)
 
@@ -5,8 +7,8 @@
 
 | Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
-| [Pyraminx](dylan_cossin/pyram.md) | 1.84 | 2.68 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> |
-| [Skewb](dylan_cossin/skewb.md) | 3.37 | 3.97 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> |
+| [Pyraminx](dylan_cossin/pyram.md) | 1.84 | 2.68 | 🏆 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Skewb](dylan_cossin/skewb.md) | 3.37 | 3.97 | 🏆 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

@@ -1,3 +1,5 @@
+<style>table {white-space: nowrap;}</style>
+
 ## Senior Cubers Worldwide - Weekly Competition
 ### Mark Rivers - [2015RIVE05](https://www.worldcubeassociation.org/persons/2015RIVE05)
 
@@ -5,7 +7,7 @@
 
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
-| [<span style="white-space: nowrap">3x3x3 FMC</span>](mark_rivers/333fm.md) | 33 | - | <span style="white-space: nowrap">🥈 x 1, 🥉 x 2</span> | <span style="white-space: nowrap">⚡ x 2</span> |
+| [3x3x3 FMC](mark_rivers/333fm.md) | 33 | - | 🥈 x 1, 🥉 x 2 | ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

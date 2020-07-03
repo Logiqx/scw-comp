@@ -1,3 +1,5 @@
+<style>table {white-space: nowrap;}</style>
+
 ## Senior Cubers Worldwide - Weekly Competition
 ### Skewb Competitors
 
@@ -7,28 +9,28 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [<span style="white-space: nowrap">Michael George</span>](../../persons/michael_george/skewb.md) | 40+ | 6.02 | 8.16 | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 2</span> | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> |
-| [<span style="white-space: nowrap">Vani Muthukrishnan</span>](../../persons/vani_muthukrishnan/skewb.md) | 40+ | 7.77 | 10.46 |  | <span style="white-space: nowrap">🥈 x 1</span> | <span style="white-space: nowrap">🔥 x 1, ⚡ x 1</span> |
+| [Michael George](../../persons/michael_george/skewb.md) | 40+ | 6.02 | 8.16 | 🏆 x 1 | 🥇 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | 40+ | 7.77 | 10.46 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [<span style="white-space: nowrap">Chris Thames</span>](../../persons/chris_thames/skewb.md) | <40 | 25.74 | 38.88 |  |  | <span style="white-space: nowrap">🔥 x 2, ⚡ x 1</span> |
-| [<span style="white-space: nowrap">Ed Connell</span>](../../persons/ed_connell/skewb.md) | <40 | 8.83 | 13.91 |  |  | <span style="white-space: nowrap">🔥 x 2, ⚡ x 2</span> |
-| [<span style="white-space: nowrap">Pete Lee</span>](../../persons/pete_lee/skewb.md) | <40 | 16.61 | 24.67 |  |  | <span style="white-space: nowrap">🔥 x 1, ⚡ x 2</span> |
+| [Chris Thames](../../persons/chris_thames/skewb.md) | <40 | 25.74 | 38.88 |  |  | 🔥 x 2, ⚡ x 1 |
+| [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | 8.83 | 13.91 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Pete Lee](../../persons/pete_lee/skewb.md) | <40 | 16.61 | 24.67 |  |  | 🔥 x 1, ⚡ x 2 |
 
 #### Under 30
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [<span style="white-space: nowrap">Joshua Riegel</span>](../../persons/joshua_riegel/skewb.md) | <30 | 23.14 | 31.86 |  |  | <span style="white-space: nowrap">🔥 x 1, ⚡ x 1</span> |
+| [Joshua Riegel](../../persons/joshua_riegel/skewb.md) | <30 | 23.14 | 31.86 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 20
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [<span style="white-space: nowrap">Dylan Cossin</span>](../../persons/dylan_cossin/skewb.md) | <20 | 3.37 | 3.97 | <span style="white-space: nowrap">🏆 x 1</span> |  | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> |
+| [Dylan Cossin](../../persons/dylan_cossin/skewb.md) | <20 | 3.37 | 3.97 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

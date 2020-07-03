@@ -1,3 +1,5 @@
+<style>table {white-space: nowrap;}</style>
+
 ## Senior Cubers Worldwide - Weekly Competition
 ### Will Lambert
 
@@ -5,7 +7,7 @@
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
-| [3x3x3](will_lambert/333.md) | 9.74 | 11.51 | <span style="white-space: nowrap">🔥 x 1, ⚡ x 1</span> |
+| [3x3x3](will_lambert/333.md) | 9.74 | 11.51 | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

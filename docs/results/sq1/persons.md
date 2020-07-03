@@ -1,3 +1,5 @@
+<style>table {white-space: nowrap;}</style>
+
 ## Senior Cubers Worldwide - Weekly Competition
 ### Square-1 Competitors
 
@@ -7,21 +9,21 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [<span style="white-space: nowrap">Daniel Smith</span>](../../persons/daniel_smith/sq1.md) | 50+ | 24.84 | 29.69 | <span style="white-space: nowrap">🏆 x 2</span> | <span style="white-space: nowrap">🥇 x 2</span> | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> |
+| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 24.84 | 29.69 | 🏆 x 2 | 🥇 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 #### Over 40
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [<span style="white-space: nowrap">Andy Nicholls</span>](../../persons/andy_nicholls/sq1.md) | 40+ | 31.85 | 50.55 |  | <span style="white-space: nowrap">🥈 x 2</span> | <span style="white-space: nowrap">🔥 x 1, ⚡ x 2</span> |
-| [<span style="white-space: nowrap">Daniel Smith</span>](../../persons/daniel_smith/sq1.md) | 50+ | 24.84 | 29.69 | <span style="white-space: nowrap">🏆 x 2</span> | <span style="white-space: nowrap">🥇 x 2</span> | <span style="white-space: nowrap">💥 x 1, 🔥 x 1, ⚡ x 1</span> |
-| [<span style="white-space: nowrap">Vani Muthukrishnan</span>](../../persons/vani_muthukrishnan/sq1.md) | 40+ | 43.91 | 56.18 |  | <span style="white-space: nowrap">🥉 x 1</span> | <span style="white-space: nowrap">🔥 x 1, ⚡ x 1</span> |
+| [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | 31.85 | 50.55 |  | 🥈 x 2 | 🔥 x 1, ⚡ x 2 |
+| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 24.84 | 29.69 | 🏆 x 2 | 🥇 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | 43.91 | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [<span style="white-space: nowrap">Ed Connell</span>](../../persons/ed_connell/sq1.md) | <40 | 48.40 | 50.29 |  |  | <span style="white-space: nowrap">🔥 x 1, ⚡ x 2</span> |
+| [Ed Connell](../../persons/ed_connell/sq1.md) | <40 | 48.40 | 50.29 |  |  | 🔥 x 1, ⚡ x 2 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

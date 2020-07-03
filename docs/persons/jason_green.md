@@ -1,3 +1,5 @@
+<style>table {white-space: nowrap;}</style>
+
 ## Senior Cubers Worldwide - Weekly Competition
 ### Jason Green
 
@@ -5,8 +7,8 @@
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
-| [3x3x3](jason_green/333.md) | 17.22 | 18.51 | <span style="white-space: nowrap">🔥 x 1, ⚡ x 1</span> |
-| [<span style="white-space: nowrap">3x3x3 OH</span>](jason_green/333oh.md) | 41.05 | 42.76 | <span style="white-space: nowrap">🔥 x 1, ⚡ x 1</span> |
+| [3x3x3](jason_green/333.md) | 17.22 | 18.51 | 🔥 x 1, ⚡ x 1 |
+| [3x3x3 OH](jason_green/333oh.md) | 41.05 | 42.76 | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

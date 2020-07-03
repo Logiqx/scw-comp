@@ -1,3 +1,5 @@
+<style>table {white-space: nowrap;}</style>
+
 ## Senior Cubers Worldwide - Weekly Competition
 ### David Roche
 
@@ -5,7 +7,7 @@
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [<span style="white-space: nowrap">3x3x3 FMC</span>](david_roche/333fm.md) | 21 | - | <span style="white-space: nowrap">🏆 x 1</span> | <span style="white-space: nowrap">🥇 x 3, 🥈 x 5, 🥉 x 4</span> | <span style="white-space: nowrap">💥 x 3, ⚡ x 4</span> |
+| [3x3x3 FMC](david_roche/333fm.md) | 21 | - | 🏆 x 1 | 🥇 x 3, 🥈 x 5, 🥉 x 4 | 💥 x 3, ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
