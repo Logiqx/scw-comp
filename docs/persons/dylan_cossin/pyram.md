@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## Senior Cubers Worldwide - Weekly Competition
+## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
 ### [Dylan Cossin](../dylan_cossin.md) - [2016COSS01](https://www.worldcubeassociation.org/persons/2016COSS01?event=pyram)
 #### Pyraminx
 

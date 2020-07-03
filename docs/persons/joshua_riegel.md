@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## Senior Cubers Worldwide - Weekly Competition
+## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
 ### Joshua Riegel - [2019RIEG02](https://www.worldcubeassociation.org/persons/2019RIEG02)
 
 🔥 = PR average, ⚡ = PR single.

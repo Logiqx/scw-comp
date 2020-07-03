@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## Senior Cubers Worldwide - Weekly Competition
+## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
 ### Peter Douthwright
 
 🔥 = PR average, ⚡ = PR single.

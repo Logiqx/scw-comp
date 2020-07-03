@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## Senior Cubers Worldwide - Weekly Competition
+## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
 ### Yoann Lecoeur
 
 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 🔥 = PR average, ⚡ = PR single.

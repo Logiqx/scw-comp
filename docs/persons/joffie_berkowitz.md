@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## Senior Cubers Worldwide - Weekly Competition
+## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
 ### Joffie Berkowitz - [2016BERK01](https://www.worldcubeassociation.org/persons/2016BERK01)
 
 🔥 = PR average, ⚡ = PR single.

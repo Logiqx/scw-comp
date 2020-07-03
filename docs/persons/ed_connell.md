@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## Senior Cubers Worldwide - Weekly Competition
+## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
 ### Ed Connell - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04)
 
 🏆 = overall winner, 🔥 = PR average, ⚡ = PR single.

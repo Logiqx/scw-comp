@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## Senior Cubers Worldwide - Weekly Competition
+## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
 ### Chris Hardwick - [2003HARD01](https://www.worldcubeassociation.org/persons/2003HARD01)
 
 🏆 = overall winner, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.

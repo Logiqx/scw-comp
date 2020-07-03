@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## Senior Cubers Worldwide - Weekly Competition
+## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
 ### Historical Archive
 #### Individuals
 Competitors - [3x3x3](333/persons.md), [2x2x2](222/persons.md), [4x4x4](444/persons.md), [5x5x5](555/persons.md), [6x6x6](666/persons.md), [7x7x7](777/persons.md), [OH](333oh/persons.md), [Mega](minx/persons.md), [Pyra](pyram/persons.md), [Skewb](skewb/persons.md), [Sq-1](sq1/persons.md), [Clock](clock/persons.md), [3BLD](333bf/persons.md), [4BLD](444bf/persons.md), [5BLD](555bf/persons.md), [FMC](333fm/persons.md)

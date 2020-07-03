@@ -1,6 +1,6 @@
 <style>table {white-space: nowrap;}</style>
 
-## Senior Cubers Worldwide - Weekly Competition
+## [Senior Cubers Worldwide - Comp Results](/scw-comp/results/)
 ### Chris Thames - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05)
 
 🔥 = PR average, ⚡ = PR single.
