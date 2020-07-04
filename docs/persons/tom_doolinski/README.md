@@ -3,7 +3,7 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Tom Doolinski - [2008DOOL01](https://www.worldcubeassociation.org/persons/2008DOOL01)
 
-💥 = overall record, 🔥 = PR average, ⚡ = PR single.
+<span style="white-space: nowrap;">💥 = overall record</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |

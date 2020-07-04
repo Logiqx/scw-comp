@@ -3,7 +3,7 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Markus Niederöst - [2018NIED02](https://www.worldcubeassociation.org/persons/2018NIED02)
 
-🔥 = PR average, ⚡ = PR single.
+<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
