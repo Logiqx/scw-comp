@@ -4,13 +4,13 @@
 ### Skewb Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-#### [2020-06-23](2020-06-23.md)
+#### [2020-06-23](../../results/2020-06-23/skewb.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Michael George](../../persons/michael_george/skewb.md) | 40+ | 6.72 | 8.56 | 🥇 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623349754486185/) |
 
-#### [2020-06-16](2020-06-16.md)
+#### [2020-06-16](../../results/2020-06-16/skewb.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |

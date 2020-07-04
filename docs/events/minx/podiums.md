@@ -4,14 +4,14 @@
 ### Megaminx Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-#### [2020-06-23](2020-06-23.md)
+#### [2020-06-23](../../results/2020-06-23/minx.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:39.20 | 1:44.46 | 🏆 🥇 | [Link](https://www.facebook.com/events/722150235200875/permalink/722255608523671/) |
 | 2 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | 2:47.63 | 2:58.59 | 🥈 | [Link](https://www.facebook.com/events/722150235200875/permalink/726569791425586/) |
 
-#### [2020-06-16](2020-06-16.md)
+#### [2020-06-16](../../results/2020-06-16/minx.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
@@ -19,7 +19,7 @@
 | 2 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | 2:21.01 | 2:38.82 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/604103587178706/permalink/606984593557272/) |
 | 3 | [Aaron Cumes](../../persons/aaron_cumes/minx.md) | 40+ | 3:52.70 | DNF | 🥉 ⚡ | [Link](https://www.facebook.com/events/604103587178706/permalink/604969967092068/) |
 
-#### [2020-06-09](2020-06-09.md)
+#### [2020-06-09](../../results/2020-06-09/minx.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
@@ -27,7 +27,7 @@
 | 2 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | 2:27.52 | 2:41.98 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/903549840109576/permalink/904277553370138/) |
 | 3 | [Aaron Cumes](../../persons/aaron_cumes/minx.md) | 40+ | 4:50.67 | DNF | 🥉 | [Link](https://www.facebook.com/events/903549840109576/permalink/903679113429982/) |
 
-#### [2020-06-02](2020-06-02.md)
+#### [2020-06-02](../../results/2020-06-02/minx.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
@@ -35,7 +35,7 @@
 | 2 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | 2:48.09 | 2:57.26 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374518846106572/) |
 | 3 | [Aaron Cumes](../../persons/aaron_cumes/minx.md) | 40+ | 4:39.94 | DNF | 🥉 | [Link](https://www.facebook.com/events/3373950429496747/permalink/3380188232206300/) |
 
-#### [2020-05-26](2020-05-26.md)
+#### [2020-05-26](../../results/2020-05-26/minx.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |

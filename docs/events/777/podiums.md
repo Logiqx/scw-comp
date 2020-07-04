@@ -4,21 +4,21 @@
 ### 7x7x7 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-#### [2020-06-23](2020-06-23.md)
+#### [2020-06-23](../../results/2020-06-23/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | 40+ | 5:27.12 | 5:36.09 | 🏆 🥇 | [Link](https://www.facebook.com/events/268636114456043/permalink/277354050250916/) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 5:55.41 | 6:08.83 | 🥈 | [Link](https://www.facebook.com/events/268636114456043/permalink/270157680970553/) |
 
-#### [2020-06-16](2020-06-16.md)
+#### [2020-06-16](../../results/2020-06-16/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | 40+ | 5:14.31 | 5:37.43 | 🏆 🥇 | [Link](https://www.facebook.com/events/256188575607890/permalink/258506312042783/) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 5:45.83 | 6:12.28 | 🥈 | [Link](https://www.facebook.com/events/256188575607890/permalink/256977715528976/) |
 
-#### [2020-06-09](2020-06-09.md)
+#### [2020-06-09](../../results/2020-06-09/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
@@ -26,7 +26,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 5:43.85 | 5:58.03 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131048293927044/) |
 | 3 | [Jeremy Duehring](../../persons/jeremy_duehring/777.md) | 40+ | 8:08.23 | DNF | 🥉 ⚡ | [Link](https://www.facebook.com/jeremy.duehring/videos/10160093213052846/) |
 
-#### [2020-06-02](2020-06-02.md)
+#### [2020-06-02](../../results/2020-06-02/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
@@ -34,7 +34,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 6:01.11 | 6:18.97 | 🥈 | [Link](https://www.facebook.com/events/573401076937046/permalink/573753436901810/) |
 | 3 | [Aaron Cumes](../../persons/aaron_cumes/777.md) | 40+ | 8:52.52 | DNF | 🥉 ⚡ | [Link](https://www.facebook.com/events/573401076937046/permalink/574489523494868/) |
 
-#### [2020-05-26](2020-05-26.md)
+#### [2020-05-26](../../results/2020-05-26/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
@@ -42,7 +42,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 6:00.54 | DNF | 🥈 | [Link](https://www.facebook.com/events/637852836799991/permalink/638017150116893/) |
 | 3 | [Aaron Cumes](../../persons/aaron_cumes/777.md) | 40+ | 9:40.79 | DNF | 🥉 | [Link](https://www.facebook.com/events/637852836799991/permalink/637940170124591/) |
 
-#### [2020-05-19](2020-05-19.md)
+#### [2020-05-19](../../results/2020-05-19/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
@@ -50,7 +50,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 6:05.13 | 6:23.25 | 🥈 | [Link](https://www.facebook.com/events/201300894172579/permalink/202026737433328/) |
 | 3 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | 18:58.28 | DNF | 🥉 | [Link](https://www.facebook.com/events/201300894172579/permalink/204801627155839/) |
 
-#### [2020-05-12](2020-05-12.md)
+#### [2020-05-12](../../results/2020-05-12/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
@@ -58,7 +58,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 6:02.05 | 6:03.94 | 🥈 🔥 | [Link](https://www.facebook.com/events/276138643524223/permalink/276382340166520/) |
 | 3 | [Aaron Cumes](../../persons/aaron_cumes/777.md) | 40+ | 9:46.67 | DNF | 🥉 | [Link](https://www.facebook.com/events/276138643524223/permalink/276285016842919/) |
 
-#### [2020-05-05](2020-05-05.md)
+#### [2020-05-05](../../results/2020-05-05/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |

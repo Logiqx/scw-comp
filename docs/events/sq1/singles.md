@@ -9,21 +9,21 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2020-06-16](2020-06-16.md) | 50+ | 24.84 | 🏆 x 2 | 🥇 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428/permalink/301316697922524/) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2020-06-16](../../results/2020-06-16/sq1.md) | 50+ | 24.84 | 🏆 x 2 | 🥇 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428/permalink/301316697922524/) |
 
 #### Over 40
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2020-06-16](2020-06-16.md) | 50+ | 24.84 | 🏆 x 2 | 🥇 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428/permalink/301316697922524/) |
-| 2 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | [2020-06-23](2020-06-23.md) | 40+ | 31.85 |  | 🥈 x 2 | 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624283784392782/) |
-| 3 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | [2020-06-16](2020-06-16.md) | 40+ | 43.91 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428/permalink/298743144846546/) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2020-06-16](../../results/2020-06-16/sq1.md) | 50+ | 24.84 | 🏆 x 2 | 🥇 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428/permalink/301316697922524/) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | [2020-06-23](../../results/2020-06-23/sq1.md) | 40+ | 31.85 |  | 🥈 x 2 | 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624283784392782/) |
+| 3 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | [2020-06-16](../../results/2020-06-16/sq1.md) | 40+ | 43.91 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428/permalink/298743144846546/) |
 
 #### Under 40
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Ed Connell](../../persons/ed_connell/sq1.md) | [2020-06-23](2020-06-23.md) | <40 | 48.40 |  |  | 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1621436411344186/) |
+| 1 | [Ed Connell](../../persons/ed_connell/sq1.md) | [2020-06-23](../../results/2020-06-23/sq1.md) | <40 | 48.40 |  |  | 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1621436411344186/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
