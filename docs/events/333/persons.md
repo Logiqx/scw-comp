@@ -107,6 +107,12 @@
 | [Jonathan Charlesworth](../../persons/jonathan_charlesworth/333.md) | <20 | 9.13 | 10.26 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 | [Will Lambert](../../persons/will_lambert/333.md) | <20 | 9.74 | 11.51 |  |  | 🔥 x 1, ⚡ x 1 |
 
+#### Under 10
+
+| Name | Age | Single | Average | Cups | Medals | Achievements |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
+| [Newton Nguyen](../../persons/newton_nguyen/333.md) | <10 | 14.46 | 18.10 |  |  | 💥 x 3, 🔥 x 3, ⚡ x 3 |
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

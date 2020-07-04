@@ -107,6 +107,12 @@
 | 2 | [Jonathan Charlesworth](../../persons/jonathan_charlesworth/333.md) | [2020-05-26](../../results/2020-05-26/333.md) | <20 | 9.13 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/688407551989463/permalink/690761785087373/) |
 | 3 | [Will Lambert](../../persons/will_lambert/333.md) | [2020-01-28](../../results/2020-01-28/333.md) | <20 | 9.74 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/Willislwynlambert/videos/10221470476215884/) |
 
+#### Under 10
+
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
+| 1 | [Newton Nguyen](../../persons/newton_nguyen/333.md) | [2020-06-16](../../results/2020-06-16/333.md) | <10 | 14.46 |  |  | 💥 x 3, 🔥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/604103587178706/permalink/608566270065771/) |
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
