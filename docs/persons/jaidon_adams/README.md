@@ -3,7 +3,7 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Jaidon Adams - [2018ADAM11](https://www.worldcubeassociation.org/persons/2018ADAM11)
 
-<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">💥 = overall record</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">💥 = overall record (age category)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
