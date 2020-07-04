@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Donna Leiber](../donna_leiber.md)
+### [Donna Leiber](README.md)
 #### Megaminx Results
 
 💥 = overall record, 🔥 = PR average, ⚡ = PR single.

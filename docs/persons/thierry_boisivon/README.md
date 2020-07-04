@@ -1,0 +1,18 @@
+<style>table {white-space: nowrap;}</style>
+
+## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+### Thierry Boisivon - [2011BOIS01](https://www.worldcubeassociation.org/persons/2011BOIS01)
+
+🏆 = overall winner, 🥇 = 1st senior, 🥈 = 2nd senior, 🥉 = 3rd senior, 💥 = overall record, 🔥 = PR average, ⚡ = PR single.
+
+| Event | Single | Average | Cups | Medals | Achievements|
+| :-- | --: | --: | :--: | :-- | :-- |
+| [3x3x3](333.md) | 14.08 | 16.63 |  | 🥈 x 1, 🥉 x 4 | 🔥 x 2, ⚡ x 5 |
+| [2x2x2](222.md) | 3.18 | 6.81 |  | 🥈 x 1, 🥉 x 4 | 💥 x 1, 🔥 x 2, ⚡ x 5 |
+| [4x4x4](444.md) | 1:12.69 | 1:21.31 |  |  | 🔥 x 2, ⚡ x 3 |
+| [3x3x3 OH](333oh.md) | 23.59 | 29.96 |  | 🥈 x 6, 🥉 x 6 | 🔥 x 7, ⚡ x 3 |
+| [3x3x3 BLD](333bf.md) | 1:11.93 | 1:31.27 | 🏆 x 1 | 🥇 x 1, 🥈 x 6, 🥉 x 4 | 🔥 x 3, ⚡ x 2 |
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

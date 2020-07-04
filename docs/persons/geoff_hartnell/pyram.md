@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Geoff Hartnell](../geoff_hartnell.md) - [2017HART06](https://www.worldcubeassociation.org/persons/2017HART06?event=pyram)
+### [Geoff Hartnell](README.md) - [2017HART06](https://www.worldcubeassociation.org/persons/2017HART06?event=pyram)
 #### Pyraminx Results
 
 🔥 = PR average, ⚡ = PR single.

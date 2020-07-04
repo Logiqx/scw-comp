@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Ed Connell](../ed_connell.md) - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=clock)
+### [Ed Connell](README.md) - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=clock)
 #### Clock Results
 
 🏆 = overall winner, 🔥 = PR average, ⚡ = PR single.

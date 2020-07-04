@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Aaron Cumes](../aaron_cumes.md) - [2018CUME02](https://www.worldcubeassociation.org/persons/2018CUME02?event=pyram)
+### [Aaron Cumes](README.md) - [2018CUME02](https://www.worldcubeassociation.org/persons/2018CUME02?event=pyram)
 #### Pyraminx Results
 
 🔥 = PR average, ⚡ = PR single.

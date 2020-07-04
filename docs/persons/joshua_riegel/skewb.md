@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Joshua Riegel](../joshua_riegel.md) - [2019RIEG02](https://www.worldcubeassociation.org/persons/2019RIEG02?event=skewb)
+### [Joshua Riegel](README.md) - [2019RIEG02](https://www.worldcubeassociation.org/persons/2019RIEG02?event=skewb)
 #### Skewb Results
 
 🔥 = PR average, ⚡ = PR single.

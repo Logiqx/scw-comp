@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Chris Thames](../chris_thames.md) - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05?event=pyram)
+### [Chris Thames](README.md) - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05?event=pyram)
 #### Pyraminx Results
 
 🔥 = PR average, ⚡ = PR single.
