@@ -40,8 +40,8 @@
 | [Jae Park](../../persons/jae_park/222.md) | 40+ | 12.95 | 19.45 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/222.md) | 40+ | 4.76 | 10.94 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Jang Junho (장준호)](../../persons/jang_junho/222.md) | 40+ | 9.01 | 10.40 |  |  | 🔥 x 2, ⚡ x 3 |
-| [Jeremy Duehring](../../persons/jeremy_duehring/222.md) | 40+ | 3.44 | 6.08 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
-| [Jo Cocco](../../persons/jo_cocco/222.md) | 40+ | 10.83 | 14.11 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Jeremy Duehring](../../persons/jeremy_duehring/222.md) | 40+ | 3.44 | 6.09 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
+| [Jo Cocco](../../persons/jo_cocco/222.md) | 40+ | 10.83 | 14.12 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 4.92 | 8.14 |  | 🥉 x 3 | 💥 x 1, 🔥 x 3, ⚡ x 5 |
 | [Markus Niederöst](../../persons/markus_niederost/222.md) | 50+ | 7.80 | 9.63 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Michael George](../../persons/michael_george/222.md) | 40+ | 3.20 | 4.40 | 🏆 x 12 | 🥇 x 15 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
@@ -61,7 +61,7 @@
 | [Chris Thames](../../persons/chris_thames/222.md) | <40 | 4.11 | 10.38 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Ed Connell](../../persons/ed_connell/222.md) | <40 | 3.39 | 5.91 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Go-ho Choi](../../persons/go_ho_choi/222.md) | <40 | 3.50 | 4.50 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Pete Lee](../../persons/pete_lee/222.md) | <40 | 4.68 | 7.23 |  |  | 🔥 x 3, ⚡ x 4 |
+| [Pete Lee](../../persons/pete_lee/222.md) | <40 | 4.68 | 7.24 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Phil Yu](../../persons/phil_yu/222.md) | <40 | 2.87 | 4.25 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Shawn Boucké](../../persons/shawn_boucke/222.md) | <40 | 4.34 | 4.55 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 

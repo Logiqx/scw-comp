@@ -74,7 +74,7 @@
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Michael George](../../persons/michael_george/333.md) | 40+ | 14.62 | 15.97 | 🥇 | [Link](https://www.facebook.com/events/535188653858103/permalink/535317900511845/) |
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333.md) | 40+ | 16.63 | 17.46 | 🥈 | [Link](https://www.facebook.com/events/535188653858103/permalink/536876093689359/) |
-| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 16.81 | 18.24 | 🥉 🔥 | [Link](https://www.facebook.com/events/535188653858103/permalink/538266426883659/) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 16.81 | 18.25 | 🥉 🔥 | [Link](https://www.facebook.com/events/535188653858103/permalink/538266426883659/) |
 
 #### [2020-04-21](../../results/2020-04-21/333.md)
 
@@ -178,7 +178,7 @@
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Michael George](../../persons/michael_george/333.md) | 40+ | 13.28 | 15.05 | 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/michael.george.545/videos/10212902094667466/) |
 | 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | 13.37 | 15.58 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/grzegorz.pacewicz/videos/2843577535688602/) |
-| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 17.33 | 19.62 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/geoff.hartnell.9/videos/10158249932051694/) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 17.33 | 19.63 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/geoff.hartnell.9/videos/10158249932051694/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

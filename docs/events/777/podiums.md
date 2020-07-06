@@ -16,7 +16,7 @@
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | 40+ | 5:14.31 | 5:37.43 | 🏆 🥇 | [Link](https://www.facebook.com/events/256188575607890/permalink/258506312042783/) |
-| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 5:45.83 | 6:12.28 | 🥈 | [Link](https://www.facebook.com/events/256188575607890/permalink/256977715528976/) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 5:45.83 | 6:12.27 | 🥈 | [Link](https://www.facebook.com/events/256188575607890/permalink/256977715528976/) |
 
 #### [2020-06-09](../../results/2020-06-09/777.md)
 

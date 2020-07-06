@@ -58,7 +58,7 @@
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Michael George](../../persons/michael_george/333oh.md) | 40+ | 22.61 | 24.12 | 🏆 🥇 | [Link](https://www.facebook.com/events/546188069600739/permalink/550198452533034/) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | 27.93 | 35.92 | 🥈 | [Link](https://www.facebook.com/events/546188069600739/permalink/548662439353302/) |
-| 3 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | 32.71 | 36.67 | 🥉 | [Link](https://www.facebook.com/events/546188069600739/permalink/550269032525976/) |
+| 3 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | 32.71 | 36.68 | 🥉 | [Link](https://www.facebook.com/events/546188069600739/permalink/550269032525976/) |
 
 #### [2020-05-05](../../results/2020-05-05/333oh.md)
 
@@ -114,7 +114,7 @@
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Michael George](../../persons/michael_george/333oh.md) | 40+ | 20.92 | 22.57 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/684510792316675/permalink/684649052302849/) |
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | 25.02 | 34.80 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/684510792316675/permalink/687069845394103/) |
-| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | 28.58 | 35.10 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/684510792316675/permalink/686046518829769/) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | 28.58 | 35.11 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/684510792316675/permalink/686046518829769/) |
 
 #### [2020-02-18](../../results/2020-02-18/333oh.md)
 

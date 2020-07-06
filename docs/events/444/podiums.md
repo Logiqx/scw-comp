@@ -18,7 +18,7 @@
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Michael George](../../persons/michael_george/444.md) | 40+ | 57.07 | 59.02 | 🏆 🥇 | [Link](https://www.facebook.com/events/256188575607890/permalink/257812302112184/) |
 | 2 | [Andy Nicholls](../../persons/andy_nicholls/444.md) | 40+ | 1:00.04 | 1:04.09 | 🥈 | [Link](https://www.facebook.com/events/256188575607890/permalink/258503442043070/) |
-| 3 | [Jeremy Duehring](../../persons/jeremy_duehring/444.md) | 40+ | 59.87 | 1:04.75 | 🥉 | [Link](https://www.facebook.com/jeremy.duehring/videos/10160146958702846/) |
+| 3 | [Jeremy Duehring](../../persons/jeremy_duehring/444.md) | 40+ | 59.87 | 1:04.74 | 🥉 | [Link](https://www.facebook.com/jeremy.duehring/videos/10160146958702846/) |
 
 #### [2020-06-09](../../results/2020-06-09/444.md)
 
@@ -58,7 +58,7 @@
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Michael George](../../persons/michael_george/444.md) | 40+ | 53.58 | 57.86 | 🥇 | [Link](https://www.facebook.com/events/276138643524223/permalink/280281956443225/) |
 | 2 | [Andy Nicholls](../../persons/andy_nicholls/444.md) | 40+ | 57.15 | 1:02.62 | 🥈 🔥 | [Link](https://www.facebook.com/events/276138643524223/permalink/276779903460097/) |
-| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | 1:10.52 | 1:16.63 | 🥉 | [Link](https://www.facebook.com/events/276138643524223/permalink/278335703304517/) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | 1:10.52 | 1:16.62 | 🥉 | [Link](https://www.facebook.com/events/276138643524223/permalink/278335703304517/) |
 
 #### [2020-05-05](../../results/2020-05-05/444.md)
 

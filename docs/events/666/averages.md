@@ -23,7 +23,7 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Peter Osudar](../../persons/peter_osudar/666.md) | [2020-06-23](../../results/2020-06-23/666.md) | <40 | 4:43.10 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/268636114456043/permalink/276193687033619/) |
+| 1 | [Peter Osudar](../../persons/peter_osudar/666.md) | [2020-06-23](../../results/2020-06-23/666.md) | <40 | 4:43.11 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/268636114456043/permalink/276193687033619/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

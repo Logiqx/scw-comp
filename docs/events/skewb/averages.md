@@ -17,7 +17,7 @@
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Ed Connell](../../persons/ed_connell/skewb.md) | [2020-06-23](../../results/2020-06-23/skewb.md) | <40 | 13.91 |  |  | 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623313707823123/) |
-| 2 | [Pete Lee](../../persons/pete_lee/skewb.md) | [2020-06-16](../../results/2020-06-16/skewb.md) | <40 | 24.67 |  |  | 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/296087658445428/permalink/299518714768989/) |
+| 2 | [Pete Lee](../../persons/pete_lee/skewb.md) | [2020-06-16](../../results/2020-06-16/skewb.md) | <40 | 24.68 |  |  | 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/296087658445428/permalink/299518714768989/) |
 | 3 | [Chris Thames](../../persons/chris_thames/skewb.md) | [2020-06-23](../../results/2020-06-23/skewb.md) | <40 | 38.88 |  |  | 🔥 x 2, ⚡ x 1 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623169454504215/) |
 
 #### Under 30

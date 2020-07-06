@@ -16,7 +16,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | 40+ | 32.05 | 49.44 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | 40+ | 32.05 | 49.45 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 8.08 | 9.54 |  | 🥈 x 1, 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/pyram.md) | 40+ | 19.74 | 24.12 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 11.08 | 14.79 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 1 |
@@ -29,7 +29,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Thames](../../persons/chris_thames/pyram.md) | <40 | 15.94 | 20.09 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Ed Connell](../../persons/ed_connell/pyram.md) | <40 | 15.14 | 17.15 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Pete Lee](../../persons/pete_lee/pyram.md) | <40 | 14.79 | 28.27 |  |  | 🔥 x 1, ⚡ x 2 |
+| [Pete Lee](../../persons/pete_lee/pyram.md) | <40 | 14.79 | 28.28 |  |  | 🔥 x 1, ⚡ x 2 |
 
 #### Under 30
 

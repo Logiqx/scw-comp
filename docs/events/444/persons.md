@@ -55,12 +55,12 @@
 | [Chris Thames](../../persons/chris_thames/444.md) | <40 | 1:56.95 | 2:05.99 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Ed Connell](../../persons/ed_connell/444.md) | <40 | 1:00.92 | 1:07.97 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Go-ho Choi](../../persons/go_ho_choi/444.md) | <40 | 36.50 | 49.27 | 🏆 x 3 |  | 💥 x 4, 🔥 x 3, ⚡ x 5 |
-| [Isak Majer](../../persons/isak_majer/444.md) | <40 | 1:41.66 | 1:50.60 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Isak Majer](../../persons/isak_majer/444.md) | <40 | 1:41.66 | 1:50.59 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/444.md) | <40 | 2:24.93 | 2:38.28 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Neilimixam Snetrem](../../persons/neilimixam_snetrem/444.md) | <40 | 1:08.70 | 1:24.75 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/444.md) | <40 | 54.90 | 1:04.39 |  |  | 🔥 x 7, ⚡ x 8 |
 | [Peter Osudar](../../persons/peter_osudar/444.md) | <40 | 1:29.48 | 1:35.22 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Shawn Boucké](../../persons/shawn_boucke/444.md) | <40 | 46.21 | 49.52 | 🏆 x 4 |  | 💥 x 1, 🔥 x 1, ⚡ x 3 |
+| [Shawn Boucké](../../persons/shawn_boucke/444.md) | <40 | 46.21 | 49.51 | 🏆 x 4 |  | 💥 x 1, 🔥 x 1, ⚡ x 3 |
 
 #### Under 30
 

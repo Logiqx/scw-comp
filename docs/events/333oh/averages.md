@@ -41,9 +41,9 @@
 | 3 | [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | [2020-04-14](../../results/2020-04-14/333oh.md) | <40 | 24.49 | 🏆 x 2 |  | 💥 x 1, 🔥 x 2, ⚡ x 1 | [Link](https://www.facebook.com/events/982619255468618/permalink/987264148337462/) |
 | 4 | [Shawn Boucké](../../persons/shawn_boucke/333oh.md) | [2020-02-18](../../results/2020-02-18/333oh.md) | <40 | 27.70 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1621909717949318/) |
 | 5 | [Ed Connell](../../persons/ed_connell/333oh.md) | [2020-04-07](../../results/2020-04-07/333oh.md) | <40 | 34.04 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/682716079141575/permalink/684177285662121/) |
-| 6 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333oh.md) | [2020-06-23](../../results/2020-06-23/333oh.md) | <40 | 34.85 |  |  | 🔥 x 4, ⚡ x 3 | [Link](https://www.facebook.com/events/722150235200875/permalink/725813714834527/) |
+| 6 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333oh.md) | [2020-06-23](../../results/2020-06-23/333oh.md) | <40 | 34.86 |  |  | 🔥 x 4, ⚡ x 3 | [Link](https://www.facebook.com/events/722150235200875/permalink/725813714834527/) |
 | 7 | [Pete Lee](../../persons/pete_lee/333oh.md) | [2020-04-14](../../results/2020-04-14/333oh.md) | <40 | 47.46 |  |  | 🔥 x 2, ⚡ x 1 | [Link](https://www.facebook.com/events/982619255468618/permalink/985950998468777/) |
-| 8 | [Chris Thames](../../persons/chris_thames/333oh.md) | [2020-06-23](../../results/2020-06-23/333oh.md) | <40 | 1:47.71 |  |  | 🔥 x 2, ⚡ x 1 | [Link](https://www.facebook.com/events/722150235200875/permalink/725711178178114/) |
+| 8 | [Chris Thames](../../persons/chris_thames/333oh.md) | [2020-06-23](../../results/2020-06-23/333oh.md) | <40 | 1:47.72 |  |  | 🔥 x 2, ⚡ x 1 | [Link](https://www.facebook.com/events/722150235200875/permalink/725711178178114/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

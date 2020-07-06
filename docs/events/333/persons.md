@@ -22,18 +22,18 @@
 | [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) | 50+ | 25.79 | 28.76 |  |  | 🔥 x 6, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | 25.22 | 27.36 |  |  | 🔥 x 4, ⚡ x 4 |
-| [Markus Niederöst](../../persons/markus_niederost/333.md) | 50+ | 19.98 | 23.60 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Markus Niederöst](../../persons/markus_niederost/333.md) | 50+ | 19.98 | 23.61 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/333.md) | 50+ | 20.85 | 24.84 |  |  | 🔥 x 3, ⚡ x 3 |
-| [Peter Douthwright](../../persons/peter_douthwright/333.md) | 50+ | 31.12 | 35.24 |  |  | 🔥 x 5, ⚡ x 3 |
+| [Peter Douthwright](../../persons/peter_douthwright/333.md) | 50+ | 31.12 | 35.25 |  |  | 🔥 x 5, ⚡ x 3 |
 | [Robert Summerfield](../../persons/robert_summerfield/333.md) | 50+ | 21.42 | 24.96 |  |  | 🔥 x 7, ⚡ x 5 |
 
 #### Over 40
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Aaron Cumes](../../persons/aaron_cumes/333.md) | 40+ | 15.39 | 19.03 |  |  | 🔥 x 6, ⚡ x 4 |
+| [Aaron Cumes](../../persons/aaron_cumes/333.md) | 40+ | 15.39 | 19.04 |  |  | 🔥 x 6, ⚡ x 4 |
 | [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | 14.08 | 17.00 |  | 🥈 x 2, 🥉 x 4 | 🔥 x 4, ⚡ x 3 |
-| [Anthony Rochester](../../persons/anthony_rochester/333.md) | 40+ | 18.14 | 22.81 |  |  | 🔥 x 2, ⚡ x 3 |
+| [Anthony Rochester](../../persons/anthony_rochester/333.md) | 40+ | 18.14 | 22.82 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Chris Wright](../../persons/chris_wright/333.md) | 50+ | 10.58 | 13.94 |  | 🥇 x 5, 🥈 x 3 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | 14.59 | 18.05 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 3 |
 | [Daniel Smith](../../persons/daniel_smith/333.md) | 50+ | 20.99 | 27.32 |  |  | 💥 x 2, 🔥 x 4, ⚡ x 8 |
@@ -53,17 +53,17 @@
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/333.md) | 40+ | 38.26 | 40.14 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Kerrie Jarman](../../persons/kerrie_jarman/333.md) | 40+ | 47.24 | 53.32 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | 25.22 | 27.36 |  |  | 🔥 x 4, ⚡ x 4 |
-| [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | 38.14 | 56.04 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | 38.14 | 56.05 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Mark Charlesworth](../../persons/mark_charlesworth/333.md) | 40+ | 27.78 | 30.02 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Markus Niederöst](../../persons/markus_niederost/333.md) | 50+ | 19.98 | 23.60 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Markus Niederöst](../../persons/markus_niederost/333.md) | 50+ | 19.98 | 23.61 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Michael George](../../persons/michael_george/333.md) | 40+ | 11.64 | 13.67 | 🏆 x 5 | 🥇 x 17, 🥈 x 4 | 💥 x 5, 🔥 x 5, ⚡ x 3 |
 | [Michael Policastro](../../persons/michael_policastro/333.md) | 40+ | 34.15 | 35.24 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/333.md) | 50+ | 20.85 | 24.84 |  |  | 🔥 x 3, ⚡ x 3 |
-| [Peter Douthwright](../../persons/peter_douthwright/333.md) | 50+ | 31.12 | 35.24 |  |  | 🔥 x 5, ⚡ x 3 |
+| [Peter Douthwright](../../persons/peter_douthwright/333.md) | 50+ | 31.12 | 35.25 |  |  | 🔥 x 5, ⚡ x 3 |
 | [Pontus Uggla](../../persons/pontus_uggla/333.md) | 40+ | 18.25 | 20.09 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/333.md) | 40+ | 15.73 | 19.60 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Robert Summerfield](../../persons/robert_summerfield/333.md) | 50+ | 21.42 | 24.96 |  |  | 🔥 x 7, ⚡ x 5 |
-| [Stuart Salmon](../../persons/stuart_salmon/333.md) | 40+ | 22.76 | 32.88 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Stuart Salmon](../../persons/stuart_salmon/333.md) | 40+ | 22.76 | 32.89 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333.md) | 40+ | 14.08 | 16.63 |  | 🥈 x 1, 🥉 x 4 | 🔥 x 2, ⚡ x 5 |
 | [Timothy Salay](../../persons/timothy_salay/333.md) | 40+ | 24.45 | 31.22 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333.md) | 40+ | 21.40 | 22.41 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -86,7 +86,7 @@
 | [Neilimixam Snetrem](../../persons/neilimixam_snetrem/333.md) | <40 | 14.32 | 20.01 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/333.md) | <40 | 15.42 | 19.11 |  |  | 🔥 x 5, ⚡ x 3 |
 | [Phil Yu](../../persons/phil_yu/333.md) | <40 | 8.12 | 9.64 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Shawn Boucké](../../persons/shawn_boucke/333.md) | <40 | 10.19 | 13.04 | 🏆 x 9 |  | 💥 x 2, 🔥 x 4, ⚡ x 2 |
+| [Shawn Boucké](../../persons/shawn_boucke/333.md) | <40 | 10.19 | 13.04 | 🏆 x 9 |  | 💥 x 2, 🔥 x 3, ⚡ x 2 |
 | [Stew Alla](../../persons/stew_alla/333.md) | <40 | 20.69 | 23.27 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Zack Âû Black](../../persons/zack_au_black/333.md) | <40 | 15.72 | 21.80 |  |  | 🔥 x 2, ⚡ x 2 |
 

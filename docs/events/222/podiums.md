@@ -33,7 +33,7 @@
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Michael George](../../persons/michael_george/222.md) | 40+ | 4.40 | 5.02 | 🏆 🥇 | [Link](https://www.facebook.com/events/3373950429496747/permalink/3376936499198140/) |
-| 2 | [Jeremy Duehring](../../persons/jeremy_duehring/222.md) | 40+ | 3.44 | 6.08 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374457722779351/) |
+| 2 | [Jeremy Duehring](../../persons/jeremy_duehring/222.md) | 40+ | 3.44 | 6.09 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374457722779351/) |
 | 3 | [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | 7.99 | 8.16 | 🥉 | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381536338738156/) |
 
 #### [2020-05-26](../../results/2020-05-26/222.md)
@@ -57,7 +57,7 @@
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Michael George](../../persons/michael_george/222.md) | 40+ | 4.09 | 5.36 | 🏆 🥇 | [Link](https://www.facebook.com/events/546188069600739/permalink/550183102534569/) |
-| 2 | [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | 3.46 | 7.96 | 🥈 | [Link](https://www.facebook.com/events/546188069600739/permalink/549151575971055/) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | 3.46 | 7.97 | 🥈 | [Link](https://www.facebook.com/events/546188069600739/permalink/549151575971055/) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 7.61 | 8.14 | 🥉 🔥 | [Link](https://www.facebook.com/events/546188069600739/permalink/547730619446484/) |
 
 #### [2020-05-05](../../results/2020-05-05/222.md)

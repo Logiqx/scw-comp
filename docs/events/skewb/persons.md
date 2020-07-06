@@ -18,7 +18,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Thames](../../persons/chris_thames/skewb.md) | <40 | 25.74 | 38.88 |  |  | 🔥 x 2, ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | 8.83 | 13.91 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Pete Lee](../../persons/pete_lee/skewb.md) | <40 | 16.61 | 24.67 |  |  | 🔥 x 1, ⚡ x 2 |
+| [Pete Lee](../../persons/pete_lee/skewb.md) | <40 | 16.61 | 24.68 |  |  | 🔥 x 1, ⚡ x 2 |
 
 #### Under 30
 

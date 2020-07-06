@@ -44,12 +44,12 @@
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Go-ho Choi](../../persons/go_ho_choi/444.md) | [2020-03-31](../../results/2020-03-31/444.md) | <40 | 49.27 | 🏆 x 3 |  | 💥 x 4, 🔥 x 3, ⚡ x 5 | [Link](https://www.facebook.com/events/269276700734640/permalink/272981440364166/) |
-| 2 | [Shawn Boucké](../../persons/shawn_boucke/444.md) | [2020-02-04](../../results/2020-02-04/444.md) | <40 | 49.52 | 🏆 x 4 |  | 💥 x 1, 🔥 x 1, ⚡ x 3 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134991299980109/) |
+| 2 | [Shawn Boucké](../../persons/shawn_boucke/444.md) | [2020-02-04](../../results/2020-02-04/444.md) | <40 | 49.51 | 🏆 x 4 |  | 💥 x 1, 🔥 x 1, ⚡ x 3 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2134991299980109/) |
 | 3 | [Pete Lee](../../persons/pete_lee/444.md) | [2020-06-23](../../results/2020-06-23/444.md) | <40 | 1:04.39 |  |  | 🔥 x 7, ⚡ x 8 | [Link](https://www.facebook.com/events/268636114456043/permalink/270820800904241/) |
 | 4 | [Ed Connell](../../persons/ed_connell/444.md) | [2020-04-14](../../results/2020-04-14/444.md) | <40 | 1:07.97 |  |  | 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/1400953806773430/permalink/1404450843090393/) |
 | 5 | [Neilimixam Snetrem](../../persons/neilimixam_snetrem/444.md) | [2020-06-16](../../results/2020-06-16/444.md) | <40 | 1:24.75 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/256188575607890/permalink/257142405512507&comment_id=257163745510373&notif_t=event_mall_comment&notif_id=1592413285803230&ref=m_notif/) |
 | 6 | [Peter Osudar](../../persons/peter_osudar/444.md) | [2020-06-23](../../results/2020-06-23/444.md) | <40 | 1:35.22 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/268636114456043/permalink/273323990653922/) |
-| 7 | [Isak Majer](../../persons/isak_majer/444.md) | [2020-02-04](../../results/2020-02-04/444.md) | <40 | 1:50.60 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |
+| 7 | [Isak Majer](../../persons/isak_majer/444.md) | [2020-02-04](../../results/2020-02-04/444.md) | <40 | 1:50.59 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |
 | 8 | [Chris Thames](../../persons/chris_thames/444.md) | [2020-06-16](../../results/2020-06-16/444.md) | <40 | 2:05.99 |  |  | 🔥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/256188575607890/permalink/259049098655171/) |
 | 9 | [Jamie Brady (Deansie)](../../persons/jamie_brady/444.md) | [2020-02-04](../../results/2020-02-04/444.md) | <40 | 2:38.28 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
 

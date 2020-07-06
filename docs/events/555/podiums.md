@@ -50,7 +50,7 @@
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls/555.md) | 40+ | 1:47.27 | 1:53.85 | 🏆 🥇 | [Link](https://www.facebook.com/events/201300894172579/permalink/202113550757980/) |
 | 2 | [Michael George](../../persons/michael_george/555.md) | 40+ | 1:58.07 | 2:02.63 | 🥈 | [Link](https://www.facebook.com/events/201300894172579/permalink/202491050720230/) |
-| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | 1:57.10 | 2:04.57 | 🥉 | [Link](https://www.facebook.com/events/201300894172579/permalink/202443604058308/) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | 1:57.10 | 2:04.58 | 🥉 | [Link](https://www.facebook.com/events/201300894172579/permalink/202443604058308/) |
 
 #### [2020-05-12](../../results/2020-05-12/555.md)
 
@@ -73,7 +73,7 @@
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Michael George](../../persons/michael_george/555.md) | 40+ | 2:01.71 | 2:07.69 | 🏆 🥇 | [Link](https://www.facebook.com/events/543220986391837/permalink/545736689473600/) |
-| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | 2:02.98 | 2:10.61 | 🥈 | [Link](https://www.facebook.com/events/543220986391837/permalink/546335199413749/) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | 2:02.98 | 2:10.62 | 🥈 | [Link](https://www.facebook.com/events/543220986391837/permalink/546335199413749/) |
 | 3 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | 2:15.07 | 2:21.08 | 🥉 | [Link](https://www.facebook.com/events/543220986391837/permalink/543799589667310/) |
 
 #### [2020-04-21](../../results/2020-04-21/555.md)
@@ -82,7 +82,7 @@
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | 2:04.30 | 2:06.47 | 🥇 | [Link](https://www.facebook.com/events/538096063773916/permalink/542682863315236/) |
 | 2 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | 2:08.36 | 2:26.64 | 🥈 ⚡ | [Link](https://www.facebook.com/ciro.vignotto/videos/10221784538578284/) |
-| 3 | [Aaron Cumes](../../persons/aaron_cumes/555.md) | 40+ | 2:42.30 | 2:53.14 | 🥉 | [Link](https://www.facebook.com/events/538096063773916/permalink/539523343631188/) |
+| 3 | [Aaron Cumes](../../persons/aaron_cumes/555.md) | 40+ | 2:42.30 | 2:53.15 | 🥉 | [Link](https://www.facebook.com/events/538096063773916/permalink/539523343631188/) |
 
 #### [2020-04-14](../../results/2020-04-14/555.md)
 

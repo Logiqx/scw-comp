@@ -21,7 +21,7 @@
 | 3 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | [2020-06-16](../../results/2020-06-16/pyram.md) | 50+ | 9.54 |  | 🥈 x 1, 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428/permalink/301316697922524/) |
 | 4 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | [2020-06-23](../../results/2020-06-23/pyram.md) | 50+ | 14.79 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 1 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624302671057560/) |
 | 5 | [Geoff Hartnell](../../persons/geoff_hartnell/pyram.md) | [2020-06-16](../../results/2020-06-16/pyram.md) | 40+ | 24.12 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428/permalink/296203821767145/) |
-| 6 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | [2020-06-16](../../results/2020-06-16/pyram.md) | 40+ | 49.44 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428/permalink/296167008437493/) |
+| 6 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | [2020-06-16](../../results/2020-06-16/pyram.md) | 40+ | 49.45 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428/permalink/296167008437493/) |
 
 #### Under 40
 
@@ -29,7 +29,7 @@
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Ed Connell](../../persons/ed_connell/pyram.md) | [2020-06-16](../../results/2020-06-16/pyram.md) | <40 | 17.15 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428/permalink/299485738105620/) |
 | 2 | [Chris Thames](../../persons/chris_thames/pyram.md) | [2020-06-23](../../results/2020-06-23/pyram.md) | <40 | 20.09 |  |  | 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1622324837922010/) |
-| 3 | [Pete Lee](../../persons/pete_lee/pyram.md) | [2020-06-16](../../results/2020-06-16/pyram.md) | <40 | 28.27 |  |  | 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/296087658445428/permalink/299520834768777/) |
+| 3 | [Pete Lee](../../persons/pete_lee/pyram.md) | [2020-06-16](../../results/2020-06-16/pyram.md) | <40 | 28.28 |  |  | 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/296087658445428/permalink/299520834768777/) |
 
 #### Under 30
 

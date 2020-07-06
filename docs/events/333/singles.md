@@ -74,7 +74,7 @@
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Phil Yu](../../persons/phil_yu/333.md) | [2020-06-09](../../results/2020-06-09/333.md) | <40 | 8.12 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/903549840109576/permalink/904460240018536/) |
-| 2 | [Shawn Boucké](../../persons/shawn_boucke/333.md) | [2020-03-24](../../results/2020-03-24/333.md) | <40 | 10.19 | 🏆 x 9 |  | 💥 x 2, 🔥 x 4, ⚡ x 2 | [Link](https://www.facebook.com/events/524456301543611/permalink/525838088072099/) |
+| 2 | [Shawn Boucké](../../persons/shawn_boucke/333.md) | [2020-03-24](../../results/2020-03-24/333.md) | <40 | 10.19 | 🏆 x 9 |  | 💥 x 2, 🔥 x 3, ⚡ x 2 | [Link](https://www.facebook.com/events/524456301543611/permalink/525838088072099/) |
 | 3 | [Go-ho Choi](../../persons/go_ho_choi/333.md) | [2020-02-18](../../results/2020-02-18/333.md) | <40 | 11.23 | 🏆 x 3 |  | 💥 x 2, 🔥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/1618332754973681/permalink/1618631721610451/) |
 | 4 | [Chris Hardwick](../../persons/chris_hardwick/333.md) | [2020-06-16](../../results/2020-06-16/333.md) | <40 | 12.00 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/604103587178706/permalink/607285570193841/) |
 | 5 | [Ed Connell](../../persons/ed_connell/333.md) | [2020-03-31](../../results/2020-03-31/333.md) | <40 | 14.29 |  |  | 🔥 x 7, ⚡ x 1 | [Link](https://www.facebook.com/events/207898257161923/permalink/209185620366520/) |

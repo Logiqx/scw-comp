@@ -14,8 +14,8 @@
 | 5 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 11.08 | 20.62 | 🔥 ⚡ | 16.69 | 23.21 | 21.95 | 11.08 | 1:11.83 | [Link](https://www.facebook.com/events/296087658445428/permalink/300269538027240/) |
 | 6 | [Geoff Hartnell](../../persons/geoff_hartnell/pyram.md) | 40+ | 19.74 | 24.12 | 🔥 ⚡ | 19.74 | 52.89 | 22.43 | 21.95 | 27.97 | [Link](https://www.facebook.com/events/296087658445428/permalink/296203821767145/) |
 | 7 | [Chris Thames](../../persons/chris_thames/pyram.md) | <40 | 22.27 | 26.98 | 🔥 ⚡ | 25.40 | 23.92 | 31.62 | 22.27 | 34.86 | [Link](https://www.facebook.com/events/296087658445428/permalink/299088241478703/) |
-| 8 | [Pete Lee](../../persons/pete_lee/pyram.md) | <40 | 16.74 | 28.27 | 🔥 ⚡ | 16.74 | 34.31 | 31.88 | 18.64 | 49.60 | [Link](https://www.facebook.com/events/296087658445428/permalink/299520834768777/) |
-| 9 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | 40+ | 32.05 | 49.44 | 🔥 ⚡ | 35.17 | 32.05 | 1:07.65 | 45.52 | DNF | [Link](https://www.facebook.com/events/296087658445428/permalink/296167008437493/) |
+| 8 | [Pete Lee](../../persons/pete_lee/pyram.md) | <40 | 16.74 | 28.28 | 🔥 ⚡ | 16.74 | 34.31 | 31.88 | 18.64 | 49.60 | [Link](https://www.facebook.com/events/296087658445428/permalink/299520834768777/) |
+| 9 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | 40+ | 32.05 | 49.45 | 🔥 ⚡ | 35.17 | 32.05 | 1:07.65 | 45.52 | DNF | [Link](https://www.facebook.com/events/296087658445428/permalink/296167008437493/) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

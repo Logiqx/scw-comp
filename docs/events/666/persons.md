@@ -36,7 +36,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Ed Connell](../../persons/ed_connell/666.md) | <40 | 5:56.45 | DNF |  |  | ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/666.md) | <40 | 4:35.73 | DNF |  |  | ⚡ x 4 |
-| [Peter Osudar](../../persons/peter_osudar/666.md) | <40 | 4:08.97 | 4:43.10 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Peter Osudar](../../persons/peter_osudar/666.md) | <40 | 4:08.97 | 4:43.11 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 30
 
