@@ -49,6 +49,10 @@ The rules are fairly straightforward and are detailed on the separate event page
 
 Approximately 5% of the submissions contain typos in the results. Providing the best and average allows my Python script check for typos whilst processing the results. If my Python script detects an anomaly then I refer back to the video post on Facebook and if necessary, check the times in the video.
 
+#### Why has my average been increased / decreased 0.01?
+
+Some timers do not calculate averages correctly and people calculating them by hand may also make mistakes. Whilst solve times are truncated to two decimal places (e.g. 19.556 is truncated to 19.55), averages should be rounded (e.g. 19.553 becomes 19.55 whereas 19.556 becomes 19.56). The results page for this competition will always show averages based on the correct rounding.
+
 #### Do I have to provide a video?
 
 The main concept behind this competition is to be able to share our solves with each other, encourage positive feedback / critique, gain inspiration from others and provide a medium through which we can improve. Filming solves is a great way to replicate competition nerves and for anyone who competes (or plans to compete) in WCA competitions it is a useful way of practicing.
