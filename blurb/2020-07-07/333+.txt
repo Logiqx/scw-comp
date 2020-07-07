@@ -1,6 +1,6 @@
 This competition includes 3x3x3, 2x2x2, One-Handed and Megaminx.
 
-Scrambles can be found at https://logiqx.github.io/scw-comp/scrambles.html
+Scrambles can be found at https://logiqx.github.io/scw-comp/scrambles/
 
 Please submit your results via https://logiqx.github.io/scw-comp/submit.html
  

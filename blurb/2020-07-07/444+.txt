@@ -1,6 +1,6 @@
 This competition includes 4x4x4, 5x5x5, 6x6x6 and 7x7x7.
 
-Scrambles can be found at https://logiqx.github.io/scw-comp/scrambles.html
+Scrambles can be found at https://logiqx.github.io/scw-comp/scrambles/
 
 Please submit your results via https://logiqx.github.io/scw-comp/submit.html
  

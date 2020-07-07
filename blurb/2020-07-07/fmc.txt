@@ -1,4 +1,4 @@
-Scramble can be found at https://logiqx.github.io/scw-comp/scrambles.html
+Scramble can be found at https://logiqx.github.io/scw-comp/scrambles/
 
 Please submit your results via https://logiqx.github.io/scw-comp/submit.html
  
