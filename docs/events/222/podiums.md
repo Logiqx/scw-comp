@@ -4,6 +4,14 @@
 ### 2x2x2 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-06-30](../../results/2020-06-30/222.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael George](../../persons/michael_george/222.md) | 40+ | 5.06 | 5.46 | 🏆 🥇 | [Link](https://www.facebook.com/events/679860472562391/permalink/680653352483103/) |
+| 2 | [Thierry Boisivon](../../persons/thierry_boisivon/222.md) | 40+ | 6.44 | 7.13 | 🥈 | [Link](https://www.facebook.com/events/679860472562391/permalink/683377892210649/) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 3.89 | 8.32 | 🥉 ⚡ | [Link](https://www.facebook.com/events/679860472562391/permalink/683843868830718/) |
+
 #### [2020-06-23](../../results/2020-06-23/222.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

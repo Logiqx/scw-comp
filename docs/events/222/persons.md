@@ -19,7 +19,7 @@
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
 | [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | 4.70 | 7.65 |  | 🥉 x 1 | 💥 x 1, 🔥 x 3, ⚡ x 4 |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 4.92 | 8.14 |  | 🥉 x 3 | 💥 x 1, 🔥 x 3, ⚡ x 5 |
+| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 3.89 | 8.14 |  | 🥉 x 4 | 💥 x 1, 🔥 x 3, ⚡ x 6 |
 | [Markus Niederöst](../../persons/markus_niederost/222.md) | 50+ | 7.80 | 9.63 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/222.md) | 50+ | 6.96 | 9.38 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Peter Douthwright](../../persons/peter_douthwright/222.md) | 50+ | 6.53 | 10.79 |  |  | 🔥 x 2, ⚡ x 2 |
@@ -42,13 +42,13 @@
 | [Jang Junho (장준호)](../../persons/jang_junho/222.md) | 40+ | 9.01 | 10.40 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/222.md) | 40+ | 3.44 | 6.09 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
 | [Jo Cocco](../../persons/jo_cocco/222.md) | 40+ | 10.83 | 14.12 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 4.92 | 8.14 |  | 🥉 x 3 | 💥 x 1, 🔥 x 3, ⚡ x 5 |
+| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 3.89 | 8.14 |  | 🥉 x 4 | 💥 x 1, 🔥 x 3, ⚡ x 6 |
 | [Markus Niederöst](../../persons/markus_niederost/222.md) | 50+ | 7.80 | 9.63 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Michael George](../../persons/michael_george/222.md) | 40+ | 3.20 | 4.40 | 🏆 x 12 | 🥇 x 15 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
+| [Michael George](../../persons/michael_george/222.md) | 40+ | 3.20 | 4.40 | 🏆 x 13 | 🥇 x 16 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
 | [Peter Andersson](../../persons/peter_andersson/222.md) | 50+ | 6.96 | 9.38 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Peter Douthwright](../../persons/peter_douthwright/222.md) | 50+ | 6.53 | 10.79 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Stuart Salmon](../../persons/stuart_salmon/222.md) | 40+ | 8.07 | 12.10 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Thierry Boisivon](../../persons/thierry_boisivon/222.md) | 40+ | 3.18 | 6.81 |  | 🥈 x 1, 🥉 x 4 | 💥 x 1, 🔥 x 2, ⚡ x 5 |
+| [Thierry Boisivon](../../persons/thierry_boisivon/222.md) | 40+ | 3.18 | 6.81 |  | 🥈 x 2, 🥉 x 4 | 💥 x 1, 🔥 x 2, ⚡ x 5 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/222.md) | 40+ | 5.76 | 6.57 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/222.md) | 40+ | 3.53 | 5.83 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 
@@ -62,6 +62,7 @@
 | [Ed Connell](../../persons/ed_connell/222.md) | <40 | 3.39 | 5.91 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Go-ho Choi](../../persons/go_ho_choi/222.md) | <40 | 3.50 | 4.50 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/222.md) | <40 | 4.68 | 7.24 |  |  | 🔥 x 3, ⚡ x 4 |
+| [Peter Osudar](../../persons/peter_osudar/222.md) | <40 | 7.21 | 9.40 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Phil Yu](../../persons/phil_yu/222.md) | <40 | 2.87 | 4.25 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Shawn Boucké](../../persons/shawn_boucke/222.md) | <40 | 4.34 | 4.55 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 

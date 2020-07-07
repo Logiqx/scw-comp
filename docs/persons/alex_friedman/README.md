@@ -3,12 +3,12 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Alex Friedman - [2016FRIE06](https://www.worldcubeassociation.org/persons/2016FRIE06)
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-| Event | Single | Average | Achievements|
-| :-- | --: | --: | :-- |
-| [3x3x3](333.md) | 15.47 | 18.36 | 🔥 x 3, ⚡ x 3 |
-| [3x3x3 OH](333oh.md) | 21.43 | 23.83 | 🔥 x 4, ⚡ x 4 |
+| Event | Single | Average | Cups | Achievements|
+| :-- | --: | --: | :--: | :-- |
+| [3x3x3](333.md) | 15.47 | 18.36 |  | 🔥 x 3, ⚡ x 3 |
+| [3x3x3 OH](333oh.md) | 19.20 | 22.99 | 🏆 x 1 | 🔥 x 5, ⚡ x 5 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

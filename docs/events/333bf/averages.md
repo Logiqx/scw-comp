@@ -5,14 +5,21 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### Over 50
+
+| # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
+| 1 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | [2020-06-30](../../results/2020-06-30/333bf.md) | 50+ | 3:12.88 |  | 🥈 x 1, 🥉 x 1 | 💥 x 5, 🔥 x 1, ⚡ x 4 | [Link](https://www.facebook.com/events/348465022802357/permalink/349204916061701/) |
+
 #### Over 40
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Jae Park](../../persons/jae_park/333bf.md) | [2020-02-11](../../results/2020-02-11/333bf.md) | 40+ | 57.66 | 🏆 x 12 | 🥇 x 13 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/173728187264773/permalink/173945660576359/) |
-| 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | [2020-04-21](../../results/2020-04-21/333bf.md) | 40+ | 1:31.27 | 🏆 x 1 | 🥇 x 1, 🥈 x 6, 🥉 x 4 | 🔥 x 3, ⚡ x 2 | [Link](https://www.facebook.com/events/1312095715657208/permalink/1316281738571939/) |
-| 3 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | [2020-04-28](../../results/2020-04-28/333bf.md) | 40+ | 2:06.80 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/534758690547855/permalink/535432553813802/) |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | [2020-02-11](../../results/2020-02-11/333bf.md) | 40+ | 57.66 | 🏆 x 13 | 🥇 x 14 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/173728187264773/permalink/173945660576359/) |
+| 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | [2020-04-21](../../results/2020-04-21/333bf.md) | 40+ | 1:31.27 | 🏆 x 1 | 🥇 x 1, 🥈 x 7, 🥉 x 4 | 🔥 x 3, ⚡ x 2 | [Link](https://www.facebook.com/events/1312095715657208/permalink/1316281738571939/) |
+| 3 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | [2020-04-28](../../results/2020-04-28/333bf.md) | 40+ | 2:06.80 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/534758690547855/permalink/535432553813802/) |
 | 4 | [Andy Nicholls](../../persons/andy_nicholls/333bf.md) | [2020-02-11](../../results/2020-02-11/333bf.md) | 40+ | 2:24.45 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/173728187264773/permalink/174217337215858/) |
+| 5 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | [2020-06-30](../../results/2020-06-30/333bf.md) | 50+ | 3:12.88 |  | 🥈 x 1, 🥉 x 1 | 💥 x 5, 🔥 x 1, ⚡ x 4 | [Link](https://www.facebook.com/events/348465022802357/permalink/349204916061701/) |
 
 #### Under 40
 

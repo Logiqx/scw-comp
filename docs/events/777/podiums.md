@@ -4,6 +4,13 @@
 ### 7x7x7 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-06-30](../../results/2020-06-30/777.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | 40+ | 5:14.28 | 5:41.58 | 🏆 🥇 | [Link](https://www.facebook.com/events/284746466306313/permalink/285160832931543/) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 5:39.36 | 5:59.44 | 🥈 ⚡ | [Link](https://www.facebook.com/events/284746466306313/permalink/285669486214011/) |
+
 #### [2020-06-23](../../results/2020-06-23/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

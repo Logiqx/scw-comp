@@ -18,7 +18,7 @@
 | 1 | [Ron van Bruchem](../../persons/ron_van_bruchem/444.md) | [2020-03-17](../../results/2020-03-17/444.md) | 50+ | 46.32 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
 | 2 | [Chris Wright](../../persons/chris_wright/444.md) | [2020-02-25](../../results/2020-02-25/444.md) | 50+ | 50.41 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/805797596592397/permalink/808666752972148/) |
 | 3 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | [2020-03-17](../../results/2020-03-17/444.md) | 50+ | 56.70 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 | [Link](https://www.facebook.com/events/211732526904866/permalink/212061480205304/) |
-| 4 | [Daniel Smith](../../persons/daniel_smith/444.md) | [2020-06-16](../../results/2020-06-16/444.md) | 50+ | 1:12.01 |  |  | 💥 x 1, 🔥 x 4, ⚡ x 5 | [Link](https://www.facebook.com/events/256188575607890/permalink/260576965169051/) |
+| 4 | [Daniel Smith](../../persons/daniel_smith/444.md) | [2020-06-16](../../results/2020-06-16/444.md) | 50+ | 1:12.01 |  |  | 💥 x 1, 🔥 x 5, ⚡ x 5 | [Link](https://www.facebook.com/events/256188575607890/permalink/260576965169051/) |
 | 5 | [Peter Douthwright](../../persons/peter_douthwright/444.md) | [2020-03-31](../../results/2020-03-31/444.md) | 50+ | 2:20.53 |  |  | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
 | 6 | [Donna Leiber](../../persons/donna_leiber/444.md) | [2020-05-26](../../results/2020-05-26/444.md) | 60+ | 4:08.00 |  |  | 💥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/637852836799991/permalink/640053636579911/) |
 
@@ -26,26 +26,27 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Michael George](../../persons/michael_george/444.md) | [2020-05-05](../../results/2020-05-05/444.md) | 40+ | 45.67 | 🏆 x 6 | 🥇 x 12, 🥈 x 2 | 💥 x 3, 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/557526585195168/permalink/559133148367845/) |
+| 1 | [Michael George](../../persons/michael_george/444.md) | [2020-05-05](../../results/2020-05-05/444.md) | 40+ | 45.67 | 🏆 x 7 | 🥇 x 13, 🥈 x 2 | 💥 x 3, 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/557526585195168/permalink/559133148367845/) |
 | 2 | [Ron van Bruchem](../../persons/ron_van_bruchem/444.md) | [2020-03-17](../../results/2020-03-17/444.md) | 50+ | 46.32 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/211732526904866/permalink/216281769783275/) |
 | 3 | [Chris Wright](../../persons/chris_wright/444.md) | [2020-02-25](../../results/2020-02-25/444.md) | 50+ | 50.41 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/805797596592397/permalink/808666752972148/) |
 | 4 | [Jeremy Duehring](../../persons/jeremy_duehring/444.md) | [2020-04-14](../../results/2020-04-14/444.md) | 40+ | 52.35 |  | 🥈 x 2, 🥉 x 7 | 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/1400953806773430/permalink/1406261962909281/) |
-| 5 | [Andy Nicholls](../../persons/andy_nicholls/444.md) | [2020-06-09](../../results/2020-06-09/444.md) | 40+ | 54.56 | 🏆 x 1 | 🥇 x 1, 🥈 x 6, 🥉 x 1 | 🔥 x 4, ⚡ x 4 | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131107933921080/) |
+| 5 | [Andy Nicholls](../../persons/andy_nicholls/444.md) | [2020-06-09](../../results/2020-06-09/444.md) | 40+ | 54.56 | 🏆 x 1 | 🥇 x 1, 🥈 x 7, 🥉 x 1 | 🔥 x 4, ⚡ x 4 | [Link](https://www.facebook.com/events/1130228284009045/permalink/1131107933921080/) |
 | 6 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444.md) | [2020-02-25](../../results/2020-02-25/444.md) | 40+ | 56.11 |  |  | 🔥 x 1, ⚡ x 1 | |
 | 7 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | [2020-03-17](../../results/2020-03-17/444.md) | 50+ | 56.70 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 | [Link](https://www.facebook.com/events/211732526904866/permalink/212061480205304/) |
-| 8 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | [2020-06-16](../../results/2020-06-16/444.md) | 40+ | 57.70 |  | 🥈 x 2, 🥉 x 5 | 🔥 x 4, ⚡ x 5 | [Link](https://www.facebook.com/events/256188575607890/permalink/257661045460643/) |
+| 8 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | [2020-06-16](../../results/2020-06-16/444.md) | 40+ | 57.70 |  | 🥈 x 2, 🥉 x 6 | 🔥 x 4, ⚡ x 5 | [Link](https://www.facebook.com/events/256188575607890/permalink/257661045460643/) |
 | 9 | [Yoann Lecoeur](../../persons/yoann_lecoeur/444.md) | [2020-02-25](../../results/2020-02-25/444.md) | 40+ | 1:00.53 |  |  | 🔥 x 2, ⚡ x 1 | [Link](https://www.facebook.com/events/805797596592397/permalink/808608119644678/) |
 | 10 | [Aaron Cumes](../../persons/aaron_cumes/444.md) | [2020-06-16](../../results/2020-06-16/444.md) | 40+ | 1:02.34 |  | 🥉 x 1 | 🔥 x 7, ⚡ x 6 | [Link](https://www.facebook.com/events/256188575607890/permalink/257120222181392/) |
-| 11 | [Daniel Smith](../../persons/daniel_smith/444.md) | [2020-06-16](../../results/2020-06-16/444.md) | 50+ | 1:12.01 |  |  | 💥 x 1, 🔥 x 4, ⚡ x 5 | [Link](https://www.facebook.com/events/256188575607890/permalink/260576965169051/) |
+| 11 | [Daniel Smith](../../persons/daniel_smith/444.md) | [2020-06-16](../../results/2020-06-16/444.md) | 50+ | 1:12.01 |  |  | 💥 x 1, 🔥 x 5, ⚡ x 5 | [Link](https://www.facebook.com/events/256188575607890/permalink/260576965169051/) |
 | 12 | [Thierry Boisivon](../../persons/thierry_boisivon/444.md) | [2020-04-21](../../results/2020-04-21/444.md) | 40+ | 1:12.69 |  |  | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/538096063773916/permalink/541927596724096/) |
-| 13 | [Anthony Rochester](../../persons/anthony_rochester/444.md) | [2020-05-19](../../results/2020-05-19/444.md) | 40+ | 1:23.57 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/201300894172579/permalink/203252107310791/) |
-| 14 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/444.md) | [2020-06-02](../../results/2020-06-02/444.md) | 40+ | 1:32.33 |  |  | 🔥 x 5, ⚡ x 4 | [Link](https://www.facebook.com/events/573401076937046/permalink/578462709764216/) |
-| 15 | [Jae Park](../../persons/jae_park/444.md) | [2020-02-25](../../results/2020-02-25/444.md) | 40+ | 2:03.34 |  |  | 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/805797596592397/permalink/806066883232135/) |
-| 16 | [Peter Douthwright](../../persons/peter_douthwright/444.md) | [2020-03-31](../../results/2020-03-31/444.md) | 50+ | 2:20.53 |  |  | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
-| 17 | [Jang Junho (장준호)](../../persons/jang_junho/444.md) | [2020-02-25](../../results/2020-02-25/444.md) | 40+ | 2:31.31 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/805797596592397/permalink/810015492837274/) |
-| 18 | [Jo Cocco](../../persons/jo_cocco/444.md) | [2020-03-31](../../results/2020-03-31/444.md) | 40+ | 2:55.79 |  |  | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/269276700734640/permalink/271293767199600/) |
-| 19 | [Joshua M. Woodward](../../persons/joshua_m_woodward/444.md) | [2020-02-04](../../results/2020-02-04/444.md) | 40+ | 3:13.21 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/joshua.m.woodward.9/videos/10157599917355342/) |
-| 20 | [Donna Leiber](../../persons/donna_leiber/444.md) | [2020-05-26](../../results/2020-05-26/444.md) | 60+ | 4:08.00 |  |  | 💥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/637852836799991/permalink/640053636579911/) |
+| 13 | [Jason Green](../../persons/jason_green/444.md) | [2020-06-30](../../results/2020-06-30/444.md) | 40+ | 1:16.33 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/284746466306313/permalink/289392965841663/) |
+| 14 | [Anthony Rochester](../../persons/anthony_rochester/444.md) | [2020-05-19](../../results/2020-05-19/444.md) | 40+ | 1:23.57 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/201300894172579/permalink/203252107310791/) |
+| 15 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/444.md) | [2020-06-02](../../results/2020-06-02/444.md) | 40+ | 1:32.33 |  |  | 🔥 x 5, ⚡ x 4 | [Link](https://www.facebook.com/events/573401076937046/permalink/578462709764216/) |
+| 16 | [Jae Park](../../persons/jae_park/444.md) | [2020-02-25](../../results/2020-02-25/444.md) | 40+ | 2:03.34 |  |  | 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/805797596592397/permalink/806066883232135/) |
+| 17 | [Peter Douthwright](../../persons/peter_douthwright/444.md) | [2020-03-31](../../results/2020-03-31/444.md) | 50+ | 2:20.53 |  |  | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/269276700734640/permalink/273111433684500/) |
+| 18 | [Jang Junho (장준호)](../../persons/jang_junho/444.md) | [2020-02-25](../../results/2020-02-25/444.md) | 40+ | 2:31.31 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/805797596592397/permalink/810015492837274/) |
+| 19 | [Jo Cocco](../../persons/jo_cocco/444.md) | [2020-03-31](../../results/2020-03-31/444.md) | 40+ | 2:55.79 |  |  | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/269276700734640/permalink/271293767199600/) |
+| 20 | [Joshua M. Woodward](../../persons/joshua_m_woodward/444.md) | [2020-02-04](../../results/2020-02-04/444.md) | 40+ | 3:13.21 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/joshua.m.woodward.9/videos/10157599917355342/) |
+| 21 | [Donna Leiber](../../persons/donna_leiber/444.md) | [2020-05-26](../../results/2020-05-26/444.md) | 60+ | 4:08.00 |  |  | 💥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/637852836799991/permalink/640053636579911/) |
 
 #### Under 40
 
@@ -58,7 +59,7 @@
 | 5 | [Neilimixam Snetrem](../../persons/neilimixam_snetrem/444.md) | [2020-06-16](../../results/2020-06-16/444.md) | <40 | 1:08.70 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/256188575607890/permalink/257142405512507&comment_id=257163745510373&notif_t=event_mall_comment&notif_id=1592413285803230&ref=m_notif/) |
 | 6 | [Peter Osudar](../../persons/peter_osudar/444.md) | [2020-06-23](../../results/2020-06-23/444.md) | <40 | 1:29.48 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/268636114456043/permalink/273323990653922/) |
 | 7 | [Isak Majer](../../persons/isak_majer/444.md) | [2020-02-04](../../results/2020-02-04/444.md) | <40 | 1:41.66 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139081646237741/) |
-| 8 | [Chris Thames](../../persons/chris_thames/444.md) | [2020-06-02](../../results/2020-06-02/444.md) | <40 | 1:56.95 |  |  | 🔥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/573401076937046/permalink/574702816806872/) |
+| 8 | [Chris Thames](../../persons/chris_thames/444.md) | [2020-06-02](../../results/2020-06-02/444.md) | <40 | 1:56.95 |  |  | 🔥 x 4, ⚡ x 3 | [Link](https://www.facebook.com/events/573401076937046/permalink/574702816806872/) |
 | 9 | [Adam Robson](../../persons/adam_robson/444.md) | [2020-02-25](../../results/2020-02-25/444.md) | <40 | 2:24.65 |  |  | ⚡ x 1 | [Link](https://www.facebook.com/events/805797596592397/permalink/809621066210050/) |
 | 10 | [Jamie Brady (Deansie)](../../persons/jamie_brady/444.md) | [2020-02-04](../../results/2020-02-04/444.md) | <40 | 2:24.93 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/groups/1604105099735401/permalink/2139163042896268/) |
 
@@ -67,7 +68,7 @@
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Raimon Schaap](../../persons/raimon_schaap/444.md) | [2020-04-14](../../results/2020-04-14/444.md) | <30 | 1:16.76 |  |  | 🔥 x 3, ⚡ x 2 | [Link](https://www.facebook.com/events/1400953806773430/permalink/1405207589681385/) |
-| 2 | [Joshua Riegel](../../persons/joshua_riegel/444.md) | [2020-06-23](../../results/2020-06-23/444.md) | <30 | 1:26.83 |  |  | 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/268636114456043/permalink/276409987011989/) |
+| 2 | [Joshua Riegel](../../persons/joshua_riegel/444.md) | [2020-06-30](../../results/2020-06-30/444.md) | <30 | 1:24.50 |  |  | 🔥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/284746466306313/permalink/287582532689373/) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -4,6 +4,13 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-06-30](../../results/2020-06-30/clock.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 21.12 | 22.45 | 🥇 💥 🔥 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1723076847844725/) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.14 | DNF | 🥈 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1718868751598868/) |
+
 #### [2020-06-23](../../results/2020-06-23/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

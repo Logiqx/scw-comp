@@ -4,6 +4,14 @@
 ### 6x6x6 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-06-30](../../results/2020-06-30/666.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | 40+ | 3:31.17 | 3:35.12 | 🏆 🥇 💥 🔥 | [Link](https://www.facebook.com/events/284746466306313/permalink/285158502931776/) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | 4:05.01 | 4:15.52 | 🥈 | [Link](https://www.facebook.com/events/284746466306313/permalink/287520846028875/) |
+| 3 | [Michael George](../../persons/michael_george/666.md) | 40+ | 5:19.50 | DNF | 🥉 | [Link](https://www.facebook.com/events/284746466306313/permalink/289826182465008/) |
+
 #### [2020-06-23](../../results/2020-06-23/666.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
