@@ -1,0 +1,40 @@
+## [Senior Cubers Worldwide - Weekly Competition](/scw-comp/scrambles/)
+Text scrambles to copy/paste into csTimer can be found on [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles).
+
+### Scramble Sheets
+#### Latest Competition
+2020-07-07 - [3x3x3](2020-07-07/333.pdf), [2x2x2](2020-07-07/222.pdf), [4x4x4](2020-07-07/444.pdf), [5x5x5](2020-07-07/555.pdf), [6x6x6](2020-07-07/666.pdf), [7x7x7](2020-07-07/777.pdf), [OH](2020-07-07/333oh.pdf), [Mega](2020-07-07/minx.pdf), [Pyra](2020-07-07/pyram.pdf), [Skewb](2020-07-07/skewb.pdf), [Sq-1](2020-07-07/sq1.pdf), [Clock](2020-07-07/clock.pdf), [3BLD](2020-07-07/333bf.pdf), [4BLD](2020-07-07/444bf.pdf), [5BLD](2020-07-07/555bf.pdf), [FMC](2020-07-07/333fm.pdf)
+
+#### Past Competitions
+2020-06-30 - [3x3x3](2020-06-30/333.pdf), [2x2x2](2020-06-30/222.pdf), [4x4x4](2020-06-30/444.pdf), [5x5x5](2020-06-30/555.pdf), [6x6x6](2020-06-30/666.pdf), [7x7x7](2020-06-30/777.pdf), [OH](2020-06-30/333oh.pdf), [Mega](2020-06-30/minx.pdf), [Pyra](2020-06-30/pyram.pdf), [Skewb](2020-06-30/skewb.pdf), [Sq-1](2020-06-30/sq1.pdf), [Clock](2020-06-30/clock.pdf), [3BLD](2020-06-30/333bf.pdf), [4BLD](2020-06-30/444bf.pdf), [5BLD](2020-06-30/555bf.pdf), [FMC](2020-06-30/333fm.pdf)
+
+2020-06-23 - [3x3x3](2020-06-23/333.pdf), [2x2x2](2020-06-23/222.pdf), [4x4x4](2020-06-23/444.pdf), [5x5x5](2020-06-23/555.pdf), [6x6x6](2020-06-23/666.pdf), [7x7x7](2020-06-23/777.pdf), [OH](2020-06-23/333oh.pdf), [Mega](2020-06-23/minx.pdf), [Pyra](2020-06-23/pyram.pdf), [Skewb](2020-06-23/skewb.pdf), [Sq-1](2020-06-23/sq1.pdf), [Clock](2020-06-23/clock.pdf), [3BLD](2020-06-23/333bf.pdf), [4BLD](2020-06-23/444bf.pdf), [5BLD](2020-06-23/555bf.pdf), [FMC](2020-06-23/333fm.pdf)
+
+2020-06-16 - [3x3x3](2020-06-16/333.pdf), [2x2x2](2020-06-16/222.pdf), [4x4x4](2020-06-16/444.pdf), [5x5x5](2020-06-16/555.pdf), [6x6x6](2020-06-16/666.pdf), [7x7x7](2020-06-16/777.pdf), [OH](2020-06-16/333oh.pdf), [Mega](2020-06-16/minx.pdf), [Pyra](2020-06-16/pyram.pdf), [Skewb](2020-06-16/skewb.pdf), [Sq-1](2020-06-16/sq1.pdf), [Clock](2020-06-16/clock.pdf), [3BLD](2020-06-16/333bf.pdf), [4BLD](2020-06-16/444bf.pdf), [5BLD](2020-06-16/555bf.pdf), [FMC](2020-06-16/333fm.pdf)
+
+2020-06-09 - [3x3x3](2020-06-09/333.pdf), [2x2x2](2020-06-09/222.pdf), [4x4x4](2020-06-09/444.pdf), [5x5x5](2020-06-09/555.pdf), [6x6x6](2020-06-09/666.pdf), [7x7x7](2020-06-09/777.pdf), [OH](2020-06-09/333oh.pdf), [Mega](2020-06-09/minx.pdf), [3BLD](2020-06-09/333bf.pdf), [4BLD](2020-06-09/444bf.pdf), [5BLD](2020-06-09/555bf.pdf), [FMC](2020-06-09/333fm.pdf)
+
+2020-06-02 - [3x3x3](2020-06-02/333.pdf), [2x2x2](2020-06-02/222.pdf), [4x4x4](2020-06-02/444.pdf), [5x5x5](2020-06-02/555.pdf), [6x6x6](2020-06-02/666.pdf), [7x7x7](2020-06-02/777.pdf), [OH](2020-06-02/333oh.pdf), [Mega](2020-06-02/minx.pdf), [3BLD](2020-06-02/333bf.pdf), [4BLD](2020-06-02/444bf.pdf), [5BLD](2020-06-02/555bf.pdf), [FMC](2020-06-02/333fm.pdf)
+
+2020-05-26 - [3x3x3](2020-05-26/333.pdf), [2x2x2](2020-05-26/222.pdf), [4x4x4](2020-05-26/444.pdf), [5x5x5](2020-05-26/555.pdf), [6x6x6](2020-05-26/666.pdf), [7x7x7](2020-05-26/777.pdf), [OH](2020-05-26/333oh.pdf), [Mega](2020-05-26/minx.pdf), [3BLD](2020-05-26/333bf.pdf), [4BLD](2020-05-26/444bf.pdf), [5BLD](2020-05-26/555bf.pdf), [FMC](2020-05-26/333fm.pdf)
+
+2020-05-19 - [3x3x3](2020-05-19/333.pdf), [2x2x2](2020-05-19/222.pdf), [4x4x4](2020-05-19/444.pdf), [5x5x5](2020-05-19/555.pdf), [6x6x6](2020-05-19/666.pdf), [7x7x7](2020-05-19/777.pdf), [OH](2020-05-19/333oh.pdf), [3BLD](2020-05-19/333bf.pdf), [4BLD](2020-05-19/444bf.pdf), [5BLD](2020-05-19/555bf.pdf), [FMC](2020-05-19/333fm.pdf)
+
+2020-05-12 - [3x3x3](2020-05-12/333.pdf), [2x2x2](2020-05-12/222.pdf), [4x4x4](2020-05-12/444.pdf), [5x5x5](2020-05-12/555.pdf), [6x6x6](2020-05-12/666.pdf), [7x7x7](2020-05-12/777.pdf), [OH](2020-05-12/333oh.pdf), [3BLD](2020-05-12/333bf.pdf), [4BLD](2020-05-12/444bf.pdf), [5BLD](2020-05-12/555bf.pdf), [FMC](2020-05-12/333fm.pdf)
+
+2020-05-05 - [3x3x3](2020-05-05/333.pdf), [2x2x2](2020-05-05/222.pdf), [4x4x4](2020-05-05/444.pdf), [5x5x5](2020-05-05/555.pdf), [6x6x6](2020-05-05/666.pdf), [7x7x7](2020-05-05/777.pdf), [OH](2020-05-05/333oh.pdf), [3BLD](2020-05-05/333bf.pdf), [4BLD](2020-05-05/444bf.pdf), [5BLD](2020-05-05/555bf.pdf), [FMC](2020-05-05/333fm.pdf)
+
+2020-04-28 - [3x3x3](2020-04-28/333.pdf), [2x2x2](2020-04-28/222.pdf), [4x4x4](2020-04-28/444.pdf), [5x5x5](2020-04-28/555.pdf), [OH](2020-04-28/333oh.pdf), [3BLD](2020-04-28/333bf.pdf), [FMC](2020-04-28/333fm.pdf)
+
+2020-04-21 - [3x3x3](2020-04-21/333.pdf), [2x2x2](2020-04-21/222.pdf), [4x4x4](2020-04-21/444.pdf), [5x5x5](2020-04-21/555.pdf), [OH](2020-04-21/333oh.pdf), [3BLD](2020-04-21/333bf.pdf), [FMC](2020-04-21/333fm.pdf)
+
+2020-04-14 - [3x3x3](2020-04-14/333.pdf), [2x2x2](2020-04-14/222.pdf), [4x4x4](2020-04-14/444.pdf), [5x5x5](2020-04-14/555.pdf), [OH](2020-04-14/333oh.pdf), [3BLD](2020-04-14/333bf.pdf), [FMC](2020-04-14/333fm.pdf)
+
+2020-04-07 - [3x3x3](2020-04-07/333.pdf), [OH](2020-04-07/333oh.pdf), [3BLD](2020-04-07/333bf.pdf), [FMC](2020-04-07/333fm.pdf)
+
+#### Project Code
+Python code for these reports can be found at [https://github.com/Logiqx/scw-comp](https://github.com/Logiqx/scw-comp)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>
