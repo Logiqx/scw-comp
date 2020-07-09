@@ -8,23 +8,23 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 34.24 | 38.53 | 🏆 🥇 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1721982251287518/) |
-| 2 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | 41.50 | 53.79 | 🥈 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1718881488264261/) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 34.24 | 38.53 | 🏆 🥇 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1721982251287518) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | 41.50 | 53.79 | 🥈 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1718881488264261) |
 
 #### [2020-06-23](../../results/2020-06-23/sq1.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 29.94 | 36.27 | 🏆 🥇 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624493677705126/) |
-| 2 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | 31.85 | 51.45 | 🥈 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624283784392782/) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 29.94 | 36.27 | 🏆 🥇 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1624493677705126) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | 31.85 | 51.45 | 🥈 ⚡ | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1624283784392782) |
 
 #### [2020-06-16](../../results/2020-06-16/sq1.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 24.84 | 29.69 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/301316697922524/) |
-| 2 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | 39.54 | 50.55 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/298844614836399/) |
-| 3 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | 43.91 | 56.18 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/298743144846546/) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 24.84 | 29.69 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=301316697922524) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | 39.54 | 50.55 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=298844614836399) |
+| 3 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | 43.91 | 56.18 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=298743144846546) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

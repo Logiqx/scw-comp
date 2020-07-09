@@ -7,9 +7,9 @@
 
 | # | Name | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:38.72 | 1:45.10 | 🏆 🥇 | 1:50.26 | 1:46.01 | 1:38.72 | 1:41.12 | 1:48.16 | [Link](https://www.facebook.com/events/604103587178706/permalink/604206750501723/) |
-| 2 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | 2:21.01 | 2:38.82 | 🥈 🔥 ⚡ | 2:54.55 | 2:21.01 | 2:40.89 | DNS | DNS | [Link](https://www.facebook.com/events/604103587178706/permalink/606984593557272/) |
-| 3 | [Aaron Cumes](../../persons/aaron_cumes/minx.md) | 40+ | 3:52.70 | DNF | 🥉 ⚡ | 3:52.70 | DNS | DNS | DNS | DNS | [Link](https://www.facebook.com/events/604103587178706/permalink/604969967092068/) |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:38.72 | 1:45.10 | 🏆 🥇 | 1:50.26 | 1:46.01 | 1:38.72 | 1:41.12 | 1:48.16 | [Link](https://www.facebook.com/events/604103587178706?view=permalink&id=604206750501723) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | 2:21.01 | 2:38.82 | 🥈 🔥 ⚡ | 2:54.55 | 2:21.01 | 2:40.89 | DNS | DNS | [Link](https://www.facebook.com/events/604103587178706?view=permalink&id=606984593557272) |
+| 3 | [Aaron Cumes](../../persons/aaron_cumes/minx.md) | 40+ | 3:52.70 | DNF | 🥉 ⚡ | 3:52.70 | DNS | DNS | DNS | DNS | [Link](https://www.facebook.com/events/604103587178706?view=permalink&id=604969967092068) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

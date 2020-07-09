@@ -8,25 +8,25 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
-| 1 | [Michael George](../../persons/michael_george/pyram.md) | 40+ | 6.29 | 6.83 | 🏆 🥇 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1717720541713689/) |
-| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 9.18 | 11.44 | 🥈 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1721982251287518/) |
-| 3 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 14.03 | 16.13 | 🥉 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1723076134511463/) |
+| 1 | [Michael George](../../persons/michael_george/pyram.md) | 40+ | 6.29 | 6.83 | 🏆 🥇 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1717720541713689) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 9.18 | 11.44 | 🥈 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1721982251287518) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 14.03 | 16.13 | 🥉 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1723076134511463) |
 
 #### [2020-06-23](../../results/2020-06-23/pyram.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
-| 1 | [Michael George](../../persons/michael_george/pyram.md) | 40+ | 4.50 | 6.03 | 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623347121153115/) |
-| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 9.63 | 10.65 | 🥈 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624493677705126/) |
-| 3 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 12.39 | 14.79 | 🥉 🔥 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624302671057560/) |
+| 1 | [Michael George](../../persons/michael_george/pyram.md) | 40+ | 4.50 | 6.03 | 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1623347121153115) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 9.63 | 10.65 | 🥈 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1624493677705126) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 12.39 | 14.79 | 🥉 🔥 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1624302671057560) |
 
 #### [2020-06-16](../../results/2020-06-16/pyram.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
-| 1 | [Michael George](../../persons/michael_george/pyram.md) | 40+ | 6.02 | 7.05 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/296273825093478/) |
-| 2 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) | 40+ | 8.72 | 9.41 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/297660754954785/) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 8.08 | 9.54 | 🥉 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/301316697922524/) |
+| 1 | [Michael George](../../persons/michael_george/pyram.md) | 40+ | 6.02 | 7.05 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=296273825093478) |
+| 2 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) | 40+ | 8.72 | 9.41 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=297660754954785) |
+| 3 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 8.08 | 9.54 | 🥉 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=301316697922524) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
