@@ -9,8 +9,8 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | [2020-05-05](../../results/2020-05-05/777.md) | 40+ | 5:24.33 | 🏆 x 9 | 🥇 x 9 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/557526585195168?view=permalink&id=558592678421892) |
-| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | [2020-06-09](../../results/2020-06-09/777.md) | 40+ | 5:58.03 |  | 🥈 x 9 | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/1130228284009045?view=permalink&id=1131048293927044) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | [2020-05-05](../../results/2020-05-05/777.md) | 40+ | 5:24.33 | 🏆 x 10 | 🥇 x 10 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/557526585195168?view=permalink&id=558592678421892) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | [2020-06-09](../../results/2020-06-09/777.md) | 40+ | 5:58.03 |  | 🥈 x 10 | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/1130228284009045?view=permalink&id=1131048293927044) |
 
 #### Under 40
 

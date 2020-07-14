@@ -4,6 +4,13 @@
 ### Pyraminx Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-07-07](../../results/2020-07-07/pyram.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael George](../../persons/michael_george/pyram.md) | 40+ | 5.87 | 6.22 | 🏆 🥇 | [Link](https://www.facebook.com/michael.george.545/videos/10213958025625080) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 8.22 | 11.53 | 🥈 | [Link](https://www.facebook.com/events/198255948253934?view=permalink&id=201763404569855) |
+
 #### [2020-06-30](../../results/2020-06-30/pyram.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

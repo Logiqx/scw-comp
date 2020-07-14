@@ -15,9 +15,9 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Jae Park](../../persons/jae_park/333bf.md) | [2020-02-11](../../results/2020-02-11/333bf.md) | 40+ | 57.66 | 🏆 x 13 | 🥇 x 14 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/173728187264773?view=permalink&id=173945660576359) |
-| 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | [2020-04-21](../../results/2020-04-21/333bf.md) | 40+ | 1:31.27 | 🏆 x 1 | 🥇 x 1, 🥈 x 7, 🥉 x 4 | 🔥 x 3, ⚡ x 2 | [Link](https://www.facebook.com/events/1312095715657208?view=permalink&id=1316281738571939) |
-| 3 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | [2020-04-28](../../results/2020-04-28/333bf.md) | 40+ | 2:06.80 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/534758690547855?view=permalink&id=535432553813802) |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | [2020-02-11](../../results/2020-02-11/333bf.md) | 40+ | 57.66 | 🏆 x 14 | 🥇 x 15 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/173728187264773?view=permalink&id=173945660576359) |
+| 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | [2020-04-21](../../results/2020-04-21/333bf.md) | 40+ | 1:31.27 | 🏆 x 1 | 🥇 x 1, 🥈 x 8, 🥉 x 4 | 🔥 x 3, ⚡ x 2 | [Link](https://www.facebook.com/events/1312095715657208?view=permalink&id=1316281738571939) |
+| 3 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | [2020-04-28](../../results/2020-04-28/333bf.md) | 40+ | 2:06.80 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/534758690547855?view=permalink&id=535432553813802) |
 | 4 | [Andy Nicholls](../../persons/andy_nicholls/333bf.md) | [2020-02-11](../../results/2020-02-11/333bf.md) | 40+ | 2:24.45 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/173728187264773?view=permalink&id=174217337215858) |
 | 5 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | [2020-06-30](../../results/2020-06-30/333bf.md) | 50+ | 3:12.88 |  | 🥈 x 1, 🥉 x 1 | 💥 x 5, 🔥 x 1, ⚡ x 4 | [Link](https://www.facebook.com/events/348465022802357?view=permalink&id=349204916061701) |
 
@@ -25,7 +25,7 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | [2020-06-16](../../results/2020-06-16/333bf.md) | <40 | 2:13.74 |  |  | 🔥 x 2, ⚡ x 4 | [Link](https://www.facebook.com/events/208176410240808?view=permalink&id=210547000003749) |
+| 1 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | [2020-07-07](../../results/2020-07-07/333bf.md) | <40 | 1:56.16 |  |  | 🔥 x 3, ⚡ x 4 | [Link](https://www.facebook.com/events/296526488422565?view=permalink&id=299786304763250) |
 
 #### Under 20
 

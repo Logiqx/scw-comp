@@ -4,6 +4,14 @@
 ### 4x4x4 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-07-07](../../results/2020-07-07/444.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | 1:02.96 | 1:09.32 | 🏆 🥇 | [Link](https://www.facebook.com/events/307625317040136?view=permalink&id=309604123508922) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/444.md) | 40+ | 55.71 | 1:12.16 | 🥈 | [Link](https://www.facebook.com/events/307625317040136?view=permalink&id=309142093555125) |
+| 3 | [Aaron Cumes](../../persons/aaron_cumes/444.md) | 40+ | 1:09.36 | 1:17.90 | 🥉 | [Link](https://www.facebook.com/events/307625317040136?view=permalink&id=308438983625436) |
+
 #### [2020-06-30](../../results/2020-06-30/444.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

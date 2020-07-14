@@ -22,8 +22,8 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | [2020-06-16](../../results/2020-06-16/666.md) | 40+ | 3:27.31 | 🏆 x 8 | 🥇 x 8, 🥈 x 1 | 💥 x 4, 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/256188575607890?view=permalink&id=258506008709480) |
-| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | [2020-06-16](../../results/2020-06-16/666.md) | 40+ | 3:44.19 | 🏆 x 1 | 🥇 x 1, 🥈 x 7, 🥉 x 1 | 🔥 x 3, ⚡ x 2 | [Link](https://www.facebook.com/events/256188575607890?view=permalink&id=257143898845691) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | [2020-06-16](../../results/2020-06-16/666.md) | 40+ | 3:27.31 | 🏆 x 9 | 🥇 x 9, 🥈 x 1 | 💥 x 4, 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/256188575607890?view=permalink&id=258506008709480) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | [2020-06-16](../../results/2020-06-16/666.md) | 40+ | 3:44.19 | 🏆 x 1 | 🥇 x 1, 🥈 x 8, 🥉 x 1 | 🔥 x 3, ⚡ x 2 | [Link](https://www.facebook.com/events/256188575607890?view=permalink&id=257143898845691) |
 | 3 | [Aaron Cumes](../../persons/aaron_cumes/666.md) | [2020-06-02](../../results/2020-06-02/666.md) | 40+ | 5:00.57 |  | 🥉 x 4 | ⚡ x 3 | [Link](https://www.facebook.com/events/573401076937046?view=permalink&id=574489523494868) |
 | 4 | [Jeremy Duehring](../../persons/jeremy_duehring/666.md) | [2020-06-09](../../results/2020-06-09/666.md) | 40+ | 5:06.63 |  | 🥉 x 1 | ⚡ x 2 | [Link](https://www.facebook.com/jeremy.duehring/videos/10160093205957846) |
 | 5 | [Michael George](../../persons/michael_george/666.md) | [2020-06-23](../../results/2020-06-23/666.md) | 40+ | 5:13.38 |  | 🥉 x 3 | ⚡ x 6 | [Link](https://www.facebook.com/events/268636114456043?view=permalink&id=281297979856523) |

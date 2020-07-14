@@ -15,9 +15,9 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Jae Park](../../persons/jae_park/444bf.md) | [2020-06-30](../../results/2020-06-30/444bf.md) | 40+ | 6:09.94 | 🏆 x 4 | 🥇 x 5 | 💥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/348465022802357?view=permalink&id=348961916086001) |
+| 1 | [Jae Park](../../persons/jae_park/444bf.md) | [2020-07-07](../../results/2020-07-07/444bf.md) | 40+ | 6:01.41 | 🏆 x 5 | 🥇 x 6 | 💥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/296526488422565?view=permalink&id=300368631371684) |
 | 2 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | [2020-05-19](../../results/2020-05-19/444bf.md) | 50+ | 10:23.86 |  | 🥇 x 1, 🥈 x 1 | 💥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/2608037409484307?view=permalink&id=2612310882390293) |
-| 3 | [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | [2020-05-19](../../results/2020-05-19/444bf.md) | 40+ | 10:52.00 | 🏆 x 1 | 🥇 x 1, 🥈 x 4 | ⚡ x 1 | [Link](https://www.facebook.com/events/2608037409484307?view=permalink&id=2609949869293061) |
+| 3 | [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | [2020-05-19](../../results/2020-05-19/444bf.md) | 40+ | 10:52.00 | 🏆 x 1 | 🥇 x 1, 🥈 x 5 | ⚡ x 1 | [Link](https://www.facebook.com/events/2608037409484307?view=permalink&id=2609949869293061) |
 
 #### Under 40
 

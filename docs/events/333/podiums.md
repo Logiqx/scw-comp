@@ -4,6 +4,14 @@
 ### 3x3x3 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-07-07](../../results/2020-07-07/333.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael George](../../persons/michael_george/333.md) | 40+ | 15.14 | 16.20 | 🏆 🥇 | [Link](https://www.facebook.com/michael.george.545/videos/10213958166468601) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 13.84 | 17.10 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/271667090769235?view=permalink&id=274188943850383) |
+| 3 | [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | 15.84 | 17.43 | 🥉 | [Link](https://www.facebook.com/events/271667090769235?view=permalink&id=273231523946125) |
+
 #### [2020-06-30](../../results/2020-06-30/333.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

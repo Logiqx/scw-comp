@@ -15,14 +15,14 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | [2020-06-23](../../results/2020-06-23/clock.md) | 40+ | 12.02 | 🏆 x 1 | 🥇 x 1, 🥈 x 2 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1624284247726069) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | [2020-06-23](../../results/2020-06-23/clock.md) | 40+ | 12.02 | 🏆 x 2 | 🥇 x 2, 🥈 x 2 | 💥 x 3, 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1624284247726069) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | [2020-06-23](../../results/2020-06-23/clock.md) | 50+ | 20.39 |  | 🥇 x 2, 🥈 x 1 | 💥 x 3, 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1624299994391161) |
 
 #### Under 40
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Ed Connell](../../persons/ed_connell/clock.md) | [2020-06-30](../../results/2020-06-30/clock.md) | <40 | 16.31 | 🏆 x 2 |  | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1720527314766345) |
+| 1 | [Ed Connell](../../persons/ed_connell/clock.md) | [2020-06-30](../../results/2020-06-30/clock.md) | <40 | 16.31 | 🏆 x 2 |  | 🔥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1720527314766345) |
 | 2 | [Peter Osudar](../../persons/peter_osudar/clock.md) | [2020-06-30](../../results/2020-06-30/clock.md) | <40 | 19.18 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1716739918478418) |
 
 

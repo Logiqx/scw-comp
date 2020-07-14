@@ -4,6 +4,14 @@
 ### 3x3x3 One-Handed Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-07-07](../../results/2020-07-07/333oh.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael George](../../persons/michael_george/333oh.md) | 40+ | 21.76 | 24.88 | 🏆 🥇 | [Link](https://www.facebook.com/michael.george.545/videos/10213958206269596) |
+| 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | 27.76 | 31.20 | 🥈 | [Link](https://www.facebook.com/events/271667090769235?view=permalink&id=275249050411039) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | 24.40 | 35.40 | 🥉 ⚡ | [Link](https://www.facebook.com/events/271667090769235?view=permalink&id=275075220428422) |
+
 #### [2020-06-30](../../results/2020-06-30/333oh.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

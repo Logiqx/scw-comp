@@ -15,8 +15,8 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | 40+ | 10:52.00 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 4 | ⚡ x 1 |
-| [Jae Park](../../persons/jae_park/444bf.md) | 40+ | 6:09.94 | DNF | 🏆 x 4 | 🥇 x 5 | 💥 x 2, ⚡ x 2 |
+| [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | 40+ | 10:52.00 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 5 | ⚡ x 1 |
+| [Jae Park](../../persons/jae_park/444bf.md) | 40+ | 6:01.41 | DNF | 🏆 x 5 | 🥇 x 6 | 💥 x 3, ⚡ x 3 |
 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | 10:23.86 | DNF |  | 🥇 x 1, 🥈 x 1 | 💥 x 2, ⚡ x 2 |
 
 #### Under 40

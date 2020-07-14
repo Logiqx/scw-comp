@@ -9,7 +9,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 8.08 | 9.54 |  | 🥈 x 2, 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 8.08 | 9.54 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 11.08 | 14.79 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 1 |
 
 #### Over 40
@@ -17,10 +17,10 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | 40+ | 32.05 | 49.45 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 8.08 | 9.54 |  | 🥈 x 2, 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 8.08 | 9.54 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/pyram.md) | 40+ | 19.74 | 24.12 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 11.08 | 14.79 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 1 |
-| [Michael George](../../persons/michael_george/pyram.md) | 40+ | 4.50 | 6.03 | 🏆 x 2 | 🥇 x 3 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
+| [Michael George](../../persons/michael_george/pyram.md) | 40+ | 4.50 | 6.03 | 🏆 x 3 | 🥇 x 4 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) | 40+ | 8.72 | 9.41 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40
@@ -28,7 +28,7 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Thames](../../persons/chris_thames/pyram.md) | <40 | 12.64 | 18.36 |  |  | 🔥 x 3, ⚡ x 3 |
-| [Ed Connell](../../persons/ed_connell/pyram.md) | <40 | 15.14 | 17.15 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Ed Connell](../../persons/ed_connell/pyram.md) | <40 | 12.27 | 14.70 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Pete Lee](../../persons/pete_lee/pyram.md) | <40 | 14.79 | 28.28 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Peter Osudar](../../persons/peter_osudar/pyram.md) | <40 | 6.95 | 9.55 |  |  | 🔥 x 1, ⚡ x 1 |
 
@@ -36,7 +36,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Joshua Riegel](../../persons/joshua_riegel/pyram.md) | <30 | 9.94 | 16.52 |  |  | 🔥 x 2, ⚡ x 1 |
+| [Joshua Riegel](../../persons/joshua_riegel/pyram.md) | <30 | 9.94 | 16.34 |  |  | 🔥 x 3, ⚡ x 1 |
 
 #### Under 20
 
