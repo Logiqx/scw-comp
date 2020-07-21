@@ -91,7 +91,9 @@
   "Go-ho Choi": {
     "age": "<40",
     "aliases": [
-      "Goho Choi"
+      "Goho Choi",
+      "Choi Go-ho",
+      "Choi Goho"
     ],
     "id": 22,
     "wcaId": "2007GOHO01"
@@ -285,6 +287,11 @@
     "id": 42,
     "wcaId": "2013MORA02"
   },
+  "Rob Peters": {
+    "age": "40+",
+    "id": 73,
+    "wcaId": "2016PETE06"
+  },
   "Robert Summerfield": {
     "age": "50+",
     "aliases": [
@@ -336,6 +343,10 @@
   "Will Lambert": {
     "age": "<20",
     "id": 2
+  },
+  "Yi-Wei Chen": {
+    "age": "40+",
+    "id": 74
   },
   "Yoann Lecoeur": {
     "age": "40+",
