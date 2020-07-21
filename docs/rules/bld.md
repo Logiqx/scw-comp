@@ -6,7 +6,7 @@
 
 ##### Rules
 
-- Entry in one continuous video (3BLD). 4BLD and 5BLD can use multiple videos in comments.
+- Entry in one continuous video (3BLD), 4BLD and 5BLD can use multiple videos in comments
 - Cube and timer visible, ideally showing you blindfolded as well
 - Solve time includes memo and execution
 - Best solve wins, unlike the other events which are based on the average
@@ -27,7 +27,7 @@ Note: You choose how many attempts but use the scrambles in order
 
 ##### Links
 
-1. You can find all of the scramble sheets via the [index](scrambles/README.md) (PDF only) or [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) (PDF + text).
+1. You can find all of the scramble sheets via the [index](scrambles/README.md) (PDF only) or [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) (PDF + text)
 2. You can find your profile and previous bests on [GitHub Pages](../results/README.md)
 3. Submit your results via the redirect to [Google Forms](../submit.html)
 
