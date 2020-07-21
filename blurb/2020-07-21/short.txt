@@ -1,0 +1,9 @@
+This competition includes Pyraminx, Skewb, Square-1 and Clock.
+
+Scrambles can be found at https://logiqx.github.io/scw-comp/scrambles/
+
+Please submit your results via https://logiqx.github.io/scw-comp/submit.html
+ 
+View past results and profiles at https://logiqx.github.io/scw-comp/results/
+
+Full instructions and more can be found at https://logiqx.github.io/scw-comp/
