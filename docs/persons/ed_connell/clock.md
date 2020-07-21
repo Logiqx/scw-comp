@@ -8,6 +8,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-07-14](../../results/2020-07-14/clock.md) | <40 | 17.11 | 18.94 |  | 17.11 | 20.40 | 26.39 | 17.48 | 18.94 | [Link](https://www.facebook.com/events/413064016333950?view=permalink&id=416494672657551) |
 | [2020-07-07](../../results/2020-07-07/clock.md) | <40 | 16.94 | **18.18** | 🔥 | 19.91 | 18.18 | 17.44 | 18.91 | 16.94 | [Link](https://www.facebook.com/events/198255948253934?view=permalink&id=200420561370806) |
 | [2020-06-30](../../results/2020-06-30/clock.md) | <40 | **16.31** | 18.75 | 🏆 ⚡ | 16.61 | 19.10 | 20.65 | 20.54 | **16.31** | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1720527314766345) |
 | [2020-06-23](../../results/2020-06-23/clock.md) | <40 | **16.70** | **18.69** | 🏆 🔥 ⚡ | **16.70** | 29.37 | 17.60 | 20.58 | 17.88 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1621527954668365) |

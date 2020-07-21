@@ -32,14 +32,14 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/333.md) | 40+ | 15.39 | 19.04 |  |  | 🔥 x 6, ⚡ x 4 |
-| [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | 14.08 | 17.00 |  | 🥈 x 2, 🥉 x 6 | 🔥 x 4, ⚡ x 3 |
+| [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | 14.08 | 17.00 |  | 🥈 x 3, 🥉 x 6 | 🔥 x 4, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/333.md) | 40+ | 18.14 | 22.82 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Chris Wright](../../persons/chris_wright/333.md) | 50+ | 10.58 | 13.94 |  | 🥇 x 5, 🥈 x 3 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | 14.59 | 18.05 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 3 |
 | [Daniel Smith](../../persons/daniel_smith/333.md) | 50+ | 20.99 | 25.95 |  |  | 💥 x 2, 🔥 x 5, ⚡ x 8 |
 | [David Burchill](../../persons/david_burchill/333.md) | 50+ | 28.50 | 34.84 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 13.84 | 17.10 |  | 🥈 x 3, 🥉 x 5 | 🔥 x 8, ⚡ x 5 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 13.84 | 17.10 |  | 🥈 x 3, 🥉 x 6 | 🔥 x 8, ⚡ x 5 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | 13.37 | 14.77 |  | 🥈 x 8, 🥉 x 3 | 🔥 x 3, ⚡ x 1 |
 | [Huy Nguyen](../../persons/huy_nguyen/333.md) | 40+ | 17.19 | 20.72 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/333.md) | 40+ | 17.58 | 22.30 |  |  | 🔥 x 5, ⚡ x 4 |
@@ -53,7 +53,7 @@
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/333.md) | 40+ | 38.26 | 40.14 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Kerrie Jarman](../../persons/kerrie_jarman/333.md) | 40+ | 41.01 | 48.20 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | 23.79 | 27.36 |  |  | 🔥 x 4, ⚡ x 5 |
-| [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | 36.28 | 43.20 |  |  | 🔥 x 3, ⚡ x 4 |
+| [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | 36.28 | 41.21 |  |  | 🔥 x 4, ⚡ x 4 |
 | [Mark Charlesworth](../../persons/mark_charlesworth/333.md) | 40+ | 27.78 | 30.02 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Markus Niederöst](../../persons/markus_niederost/333.md) | 50+ | 19.98 | 23.61 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Michael George](../../persons/michael_george/333.md) | 40+ | 11.64 | 13.44 | 🏆 x 6 | 🥇 x 19, 🥈 x 4 | 💥 x 6, 🔥 x 6, ⚡ x 3 |
@@ -62,11 +62,13 @@
 | [Peter Douthwright](../../persons/peter_douthwright/333.md) | 50+ | 31.12 | 35.25 |  |  | 🔥 x 5, ⚡ x 3 |
 | [Pontus Uggla](../../persons/pontus_uggla/333.md) | 40+ | 18.25 | 20.09 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/333.md) | 40+ | 15.73 | 19.60 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Rob Peters](../../persons/rob_peters/333.md) | 40+ | 16.76 | 19.00 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Robert Summerfield](../../persons/robert_summerfield/333.md) | 50+ | 20.77 | 24.27 |  |  | 🔥 x 8, ⚡ x 6 |
 | [Stuart Salmon](../../persons/stuart_salmon/333.md) | 40+ | 22.76 | 32.89 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Thierry Boisivon](../../persons/thierry_boisivon/333.md) | 40+ | 13.85 | 15.44 |  | 🥈 x 2, 🥉 x 4 | 🔥 x 3, ⚡ x 6 |
+| [Thierry Boisivon](../../persons/thierry_boisivon/333.md) | 40+ | 13.85 | 15.44 |  | 🥇 x 1, 🥈 x 2, 🥉 x 4 | 🔥 x 3, ⚡ x 6 |
 | [Timothy Salay](../../persons/timothy_salay/333.md) | 40+ | 24.45 | 31.22 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333.md) | 40+ | 21.40 | 22.41 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | 17.85 | 35.69 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333.md) | 40+ | 16.76 | 21.05 |  |  | 🔥 x 1, ⚡ x 3 |
 
 #### Under 40
@@ -78,13 +80,13 @@
 | [Brooke Persoon](../../persons/brooke_persoon/333.md) | <40 | 39.40 | 47.49 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Chris Hardwick](../../persons/chris_hardwick/333.md) | <40 | 11.30 | 12.82 | 🏆 x 2 |  | 🔥 x 4, ⚡ x 4 |
 | [Chris Thames](../../persons/chris_thames/333.md) | <40 | 26.69 | 31.20 |  |  | 🔥 x 4, ⚡ x 4 |
-| [Ed Connell](../../persons/ed_connell/333.md) | <40 | 12.27 | 15.82 |  |  | 🔥 x 7, ⚡ x 2 |
+| [Ed Connell](../../persons/ed_connell/333.md) | <40 | 12.27 | 15.82 | 🏆 x 1 |  | 🔥 x 7, ⚡ x 2 |
 | [Go-ho Choi](../../persons/go_ho_choi/333.md) | <40 | 11.23 | 12.74 | 🏆 x 3 |  | 💥 x 2, 🔥 x 3, ⚡ x 3 |
 | [Isak Majer](../../persons/isak_majer/333.md) | <40 | 16.05 | 18.84 |  |  | 🔥 x 4, ⚡ x 4 |
-| [Jamie Brady (Deansie)](../../persons/jamie_brady/333.md) | <40 | 21.03 | 24.65 |  |  | 🔥 x 1, ⚡ x 2 |
-| [Matthew Hart](../../persons/matthew_hart/333.md) | <40 | 22.72 | 24.96 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Jamie Brady (Deansie)](../../persons/jamie_brady/333.md) | <40 | 20.75 | 24.65 |  |  | 🔥 x 1, ⚡ x 3 |
+| [Matthew Hart](../../persons/matthew_hart/333.md) | <40 | 19.27 | 24.96 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Neilimixam Snetrem](../../persons/neilimixam_snetrem/333.md) | <40 | 14.32 | 20.01 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Pete Lee](../../persons/pete_lee/333.md) | <40 | 15.24 | 19.06 |  |  | 🔥 x 6, ⚡ x 4 |
+| [Pete Lee](../../persons/pete_lee/333.md) | <40 | 15.24 | 18.62 |  |  | 🔥 x 7, ⚡ x 4 |
 | [Phil Yu](../../persons/phil_yu/333.md) | <40 | 8.12 | 9.64 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Shawn Boucké](../../persons/shawn_boucke/333.md) | <40 | 10.19 | 13.04 | 🏆 x 9 |  | 💥 x 2, 🔥 x 3, ⚡ x 2 |
 | [Stew Alla](../../persons/stew_alla/333.md) | <40 | 20.69 | 23.27 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -94,7 +96,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Joshua Riegel](../../persons/joshua_riegel/333.md) | <30 | 25.44 | 29.09 |  |  | 🔥 x 2, ⚡ x 3 |
+| [Joshua Riegel](../../persons/joshua_riegel/333.md) | <30 | 25.44 | 28.24 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Peyton Blevins](../../persons/peyton_blevins/333.md) | <30 | 28.16 | 30.48 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Raimon Schaap](../../persons/raimon_schaap/333.md) | <30 | 13.58 | 15.99 |  |  | 🔥 x 5, ⚡ x 4 |
 | [Tom Doolinski](../../persons/tom_doolinski/333.md) | <30 | 13.48 | 14.99 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |

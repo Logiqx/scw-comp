@@ -4,6 +4,14 @@
 ### 3x3x3 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-07-14](../../results/2020-07-14/333.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Thierry Boisivon](../../persons/thierry_boisivon/333.md) | 40+ | 16.58 | 18.10 | 🥇 | [Link](https://www.facebook.com/events/1157754364595802?view=permalink&id=1161144010923504) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | 15.53 | 18.74 | 🥈 | [Link](https://www.facebook.com/events/1157754364595802?view=permalink&id=1160333601004545) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 16.05 | 18.77 | 🥉 | [Link](https://www.facebook.com/events/1157754364595802?view=permalink&id=1158783711159534) |
+
 #### [2020-07-07](../../results/2020-07-07/333.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

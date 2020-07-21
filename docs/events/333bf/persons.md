@@ -10,7 +10,7 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | 3:35.63 | DNF |  |  | ⚡ x 2 |
-| [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | 2:02.45 | 3:12.88 |  | 🥈 x 1, 🥉 x 1 | 💥 x 5, 🔥 x 1, ⚡ x 4 |
+| [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | 2:02.45 | 3:12.88 |  | 🥈 x 2, 🥉 x 1 | 💥 x 5, 🔥 x 1, ⚡ x 4 |
 
 #### Over 40
 
@@ -24,9 +24,9 @@
 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | 3:35.63 | DNF |  |  | ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/333bf.md) | 40+ | 2:31.65 | DNF |  | 🥉 x 1 | ⚡ x 3 |
 | [Mark Adams](../../persons/mark_adams/333bf.md) | 40+ | 1:46.60 | DNF |  | 🥉 x 1 | ⚡ x 1 |
-| [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | 2:02.45 | 3:12.88 |  | 🥈 x 1, 🥉 x 1 | 💥 x 5, 🔥 x 1, ⚡ x 4 |
+| [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | 2:02.45 | 3:12.88 |  | 🥈 x 2, 🥉 x 1 | 💥 x 5, 🔥 x 1, ⚡ x 4 |
 | [Stuart Salmon](../../persons/stuart_salmon/333bf.md) | 40+ | 3:24.37 | DNF |  |  | ⚡ x 1 |
-| [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | 40+ | 1:11.93 | 1:31.27 | 🏆 x 1 | 🥇 x 1, 🥈 x 8, 🥉 x 4 | 🔥 x 3, ⚡ x 2 |
+| [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | 40+ | 1:11.93 | 1:31.27 | 🏆 x 2 | 🥇 x 2, 🥈 x 8, 🥉 x 4 | 🔥 x 3, ⚡ x 2 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333bf.md) | 40+ | 2:01.73 | DNF |  |  | ⚡ x 2 |
 
 #### Under 40
@@ -34,14 +34,14 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Brooke Persoon](../../persons/brooke_persoon/333bf.md) | <40 | 18:05.78 | DNF |  |  | ⚡ x 1 |
-| [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | <40 | 1:47.08 | 1:56.16 |  |  | 🔥 x 3, ⚡ x 4 |
+| [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | <40 | 1:25.61 | 1:56.16 |  |  | 🔥 x 3, ⚡ x 5 |
 | [Go-ho Choi](../../persons/go_ho_choi/333bf.md) | <40 | 2:22.99 | DNF |  |  | ⚡ x 1 |
 
 #### Under 30
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Joshua Riegel](../../persons/joshua_riegel/333bf.md) | <30 | 3:01.14 | DNF |  |  | ⚡ x 3 |
+| [Joshua Riegel](../../persons/joshua_riegel/333bf.md) | <30 | 2:41.76 | DNF |  |  | ⚡ x 4 |
 
 #### Under 20
 

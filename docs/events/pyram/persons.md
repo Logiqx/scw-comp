@@ -9,7 +9,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 8.08 | 9.54 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 8.08 | 9.54 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 11.08 | 14.79 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 1 |
 
 #### Over 40
@@ -17,7 +17,7 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | 40+ | 32.05 | 49.45 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 8.08 | 9.54 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 8.08 | 9.54 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/pyram.md) | 40+ | 19.74 | 24.12 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 11.08 | 14.79 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 1 |
 | [Michael George](../../persons/michael_george/pyram.md) | 40+ | 4.50 | 6.03 | 🏆 x 3 | 🥇 x 4 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
@@ -36,7 +36,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Joshua Riegel](../../persons/joshua_riegel/pyram.md) | <30 | 9.94 | 16.34 |  |  | 🔥 x 3, ⚡ x 1 |
+| [Joshua Riegel](../../persons/joshua_riegel/pyram.md) | <30 | 9.32 | 16.34 |  |  | 🔥 x 3, ⚡ x 2 |
 
 #### Under 20
 

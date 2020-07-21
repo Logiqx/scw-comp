@@ -4,6 +4,13 @@
 ### Square-1 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-07-14](../../results/2020-07-14/sq1.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 25.81 | 28.83 | 🏆 🥇 💥 🔥 | [Link](https://www.facebook.com/events/413064016333950?view=permalink&id=416744259299259) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | 36.99 | 49.65 | 🥈 🔥 | [Link](https://www.facebook.com/events/413064016333950?view=permalink&id=415320132775005) |
+
 #### [2020-07-07](../../results/2020-07-07/sq1.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

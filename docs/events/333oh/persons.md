@@ -16,10 +16,10 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Aaron Cumes](../../persons/aaron_cumes/333oh.md) | 40+ | 1:11.14 | 1:24.89 |  |  | 🔥 x 6, ⚡ x 6 |
-| [Andy Nicholls](../../persons/andy_nicholls/333oh.md) | 40+ | 33.37 | 40.48 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 5 |
+| [Aaron Cumes](../../persons/aaron_cumes/333oh.md) | 40+ | 1:07.19 | 1:17.51 |  |  | 🔥 x 7, ⚡ x 7 |
+| [Andy Nicholls](../../persons/andy_nicholls/333oh.md) | 40+ | 33.37 | 40.48 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 5 |
 | [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | 35.64 | 39.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | 24.40 | 30.96 |  | 🥈 x 7, 🥉 x 9 | 🔥 x 5, ⚡ x 5 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | 24.40 | 30.96 |  | 🥈 x 8, 🥉 x 9 | 🔥 x 5, ⚡ x 5 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) | 40+ | 24.78 | 32.65 | 🏆 x 1 | 🥇 x 1, 🥈 x 2 | 🔥 x 3, ⚡ x 2 |
 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | 33.19 | 41.84 |  |  | 🔥 x 4, ⚡ x 1 |
 | [Jang Junho (장준호)](../../persons/jang_junho/333oh.md) | 40+ | 59.25 | 1:06.79 |  |  | 🔥 x 3, ⚡ x 3 |
@@ -29,7 +29,7 @@
 | [Michael George](../../persons/michael_george/333oh.md) | 40+ | 18.57 | 21.87 | 🏆 x 12 | 🥇 x 16 | 💥 x 5, 🔥 x 3, ⚡ x 5 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 50+ | 1:26.57 | 1:57.43 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Raúl Morales](../../persons/raul_morales/333oh.md) | 40+ | 31.07 | 37.84 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | 23.59 | 29.96 |  | 🥈 x 8, 🥉 x 6 | 🔥 x 7, ⚡ x 3 |
+| [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | 23.59 | 29.96 |  | 🥇 x 1, 🥈 x 8, 🥉 x 6 | 🔥 x 7, ⚡ x 3 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333oh.md) | 40+ | 31.59 | 38.24 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40
@@ -38,7 +38,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Alex Friedman](../../persons/alex_friedman/333oh.md) | <40 | 19.20 | 22.99 | 🏆 x 1 |  | 🔥 x 5, ⚡ x 5 |
 | [Chris Thames](../../persons/chris_thames/333oh.md) | <40 | 1:20.83 | 1:27.80 |  |  | 🔥 x 4, ⚡ x 3 |
-| [Ed Connell](../../persons/ed_connell/333oh.md) | <40 | 22.50 | 34.04 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Ed Connell](../../persons/ed_connell/333oh.md) | <40 | 22.50 | 32.78 | 🏆 x 1 |  | 🔥 x 2, ⚡ x 1 |
 | [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | <40 | 22.13 | 24.49 | 🏆 x 2 |  | 💥 x 1, 🔥 x 2, ⚡ x 1 |
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333oh.md) | <40 | 30.75 | 34.86 |  |  | 🔥 x 4, ⚡ x 3 |
 | [Pete Lee](../../persons/pete_lee/333oh.md) | <40 | 39.61 | 47.46 |  |  | 🔥 x 2, ⚡ x 1 |
@@ -49,7 +49,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Joshua Riegel](../../persons/joshua_riegel/333oh.md) | <30 | 1:36.79 | 1:37.52 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Joshua Riegel](../../persons/joshua_riegel/333oh.md) | <30 | 1:12.64 | 1:17.63 |  |  | 🔥 x 3, ⚡ x 3 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

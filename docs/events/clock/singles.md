@@ -10,13 +10,16 @@
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | [2020-06-23](../../results/2020-06-23/clock.md) | 50+ | 20.39 |  | 🥇 x 2, 🥈 x 1 | 💥 x 3, 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1624299994391161) |
+| 2 | [Peter Andersson](../../persons/peter_andersson/clock.md) | [2020-07-14](../../results/2020-07-14/clock.md) | 50+ | 25.94 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/413064016333950?view=permalink&id=416535092653509) |
 
 #### Over 40
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | [2020-06-23](../../results/2020-06-23/clock.md) | 40+ | 12.02 | 🏆 x 2 | 🥇 x 2, 🥈 x 2 | 💥 x 3, 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1624284247726069) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | [2020-06-23](../../results/2020-06-23/clock.md) | 40+ | 12.02 | 🏆 x 3 | 🥇 x 3, 🥈 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 2 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1624284247726069) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | [2020-06-23](../../results/2020-06-23/clock.md) | 50+ | 20.39 |  | 🥇 x 2, 🥈 x 1 | 💥 x 3, 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1624299994391161) |
+| 3 | [Peter Andersson](../../persons/peter_andersson/clock.md) | [2020-07-14](../../results/2020-07-14/clock.md) | 50+ | 25.94 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/413064016333950?view=permalink&id=416535092653509) |
+| 4 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/clock.md) | [2020-07-14](../../results/2020-07-14/clock.md) | 40+ | 40.24 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/413064016333950?view=permalink&id=417360065904345) |
 
 #### Under 40
 

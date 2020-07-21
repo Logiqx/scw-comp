@@ -22,8 +22,8 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | [2020-07-07](../../results/2020-07-07/minx.md) | 40+ | 1:31.46 | 🏆 x 7 | 🥇 x 7 | 💥 x 3, 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/271667090769235?view=permalink&id=272231690712775) |
-| 2 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | [2020-06-16](../../results/2020-06-16/minx.md) | 40+ | 2:21.01 |  | 🥈 x 6 | 🔥 x 4, ⚡ x 4 | [Link](https://www.facebook.com/events/604103587178706?view=permalink&id=606984593557272) |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | [2020-07-07](../../results/2020-07-07/minx.md) | 40+ | 1:31.46 | 🏆 x 7 | 🥇 x 8 | 💥 x 3, 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/271667090769235?view=permalink&id=272231690712775) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | [2020-06-16](../../results/2020-06-16/minx.md) | 40+ | 2:21.01 |  | 🥈 x 7 | 🔥 x 4, ⚡ x 4 | [Link](https://www.facebook.com/events/604103587178706?view=permalink&id=606984593557272) |
 | 3 | [Aaron Cumes](../../persons/aaron_cumes/minx.md) | [2020-06-16](../../results/2020-06-16/minx.md) | 40+ | 3:52.70 |  | 🥉 x 3 | ⚡ x 2 | [Link](https://www.facebook.com/events/604103587178706?view=permalink&id=604969967092068) |
 | 4 | [Jo Cocco](../../persons/jo_cocco/minx.md) | [2020-05-26](../../results/2020-05-26/minx.md) | 40+ | 3:55.83 |  | 🥉 x 1 | ⚡ x 1 | [Link](https://www.facebook.com/events/688407551989463?view=permalink&id=689392185224333) |
 | 5 | [Donna Leiber](../../persons/donna_leiber/minx.md) | [2020-05-26](../../results/2020-05-26/minx.md) | 60+ | 7:34.18 |  |  | 💥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/688407551989463?view=permalink&id=690856405077911) |
@@ -33,8 +33,9 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Ed Connell](../../persons/ed_connell/minx.md) | [2020-05-26](../../results/2020-05-26/minx.md) | <40 | 3:24.48 |  |  | ⚡ x 1 | [Link](https://www.facebook.com/events/688407551989463?view=permalink&id=691174248379460) |
-| 2 | [Chris Thames](../../persons/chris_thames/minx.md) | [2020-05-26](../../results/2020-05-26/minx.md) | <40 | 6:02.13 |  |  | ⚡ x 1 | [Link](https://www.facebook.com/events/688407551989463?view=permalink&id=690392548457630) |
+| 1 | [Go-ho Choi](../../persons/go_ho_choi/minx.md) | [2020-07-14](../../results/2020-07-14/minx.md) | <40 | 53.33 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/1157754364595802?view=permalink&id=1158593647845207) |
+| 2 | [Ed Connell](../../persons/ed_connell/minx.md) | [2020-05-26](../../results/2020-05-26/minx.md) | <40 | 3:24.48 |  |  | ⚡ x 1 | [Link](https://www.facebook.com/events/688407551989463?view=permalink&id=691174248379460) |
+| 3 | [Chris Thames](../../persons/chris_thames/minx.md) | [2020-05-26](../../results/2020-05-26/minx.md) | <40 | 6:02.13 |  |  | ⚡ x 1 | [Link](https://www.facebook.com/events/688407551989463?view=permalink&id=690392548457630) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

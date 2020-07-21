@@ -9,7 +9,7 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | [2020-06-16](../../results/2020-06-16/pyram.md) | 50+ | 9.54 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=301316697922524) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | [2020-06-16](../../results/2020-06-16/pyram.md) | 50+ | 9.54 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=301316697922524) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | [2020-06-23](../../results/2020-06-23/pyram.md) | 50+ | 14.79 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 1 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1624302671057560) |
 
 #### Over 40
@@ -18,7 +18,7 @@
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Michael George](../../persons/michael_george/pyram.md) | [2020-06-23](../../results/2020-06-23/pyram.md) | 40+ | 6.03 | 🏆 x 3 | 🥇 x 4 | 💥 x 2, 🔥 x 2, ⚡ x 2 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1623347121153115) |
 | 2 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) | [2020-06-16](../../results/2020-06-16/pyram.md) | 40+ | 9.41 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=297660754954785) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | [2020-06-16](../../results/2020-06-16/pyram.md) | 50+ | 9.54 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=301316697922524) |
+| 3 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | [2020-06-16](../../results/2020-06-16/pyram.md) | 50+ | 9.54 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=301316697922524) |
 | 4 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | [2020-06-23](../../results/2020-06-23/pyram.md) | 50+ | 14.79 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 1 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1624302671057560) |
 | 5 | [Geoff Hartnell](../../persons/geoff_hartnell/pyram.md) | [2020-06-16](../../results/2020-06-16/pyram.md) | 40+ | 24.12 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=296203821767145) |
 | 6 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | [2020-06-16](../../results/2020-06-16/pyram.md) | 40+ | 49.45 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=296167008437493) |
@@ -36,7 +36,7 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Joshua Riegel](../../persons/joshua_riegel/pyram.md) | [2020-07-07](../../results/2020-07-07/pyram.md) | <30 | 16.34 |  |  | 🔥 x 3, ⚡ x 1 | [Link](https://www.facebook.com/events/198255948253934?view=permalink&id=201571987922330) |
+| 1 | [Joshua Riegel](../../persons/joshua_riegel/pyram.md) | [2020-07-07](../../results/2020-07-07/pyram.md) | <30 | 16.34 |  |  | 🔥 x 3, ⚡ x 2 | [Link](https://www.facebook.com/events/198255948253934?view=permalink&id=201571987922330) |
 
 #### Under 20
 

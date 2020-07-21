@@ -4,6 +4,14 @@
 ### 2x2x2 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-07-14](../../results/2020-07-14/222.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls/222.md) | 40+ | 5.20 | 7.38 | 🥇 | [Link](https://www.facebook.com/events/413064016333950?view=permalink&id=415320132775005) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | 3.68 | 7.90 | 🥈 💥 ⚡ | [Link](https://www.facebook.com/events/1157754364595802?view=permalink&id=1162027974168441) |
+| 3 | [Thierry Boisivon](../../persons/thierry_boisivon/222.md) | 40+ | 3.51 | 8.05 | 🥉 | [Link](https://www.facebook.com/events/1157754364595802?view=permalink&id=1161523690885536) |
+
 #### [2020-07-07](../../results/2020-07-07/222.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

@@ -18,7 +18,7 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Thames](../../persons/chris_thames/skewb.md) | <40 | 9.60 | 19.07 |  |  | 🔥 x 3, ⚡ x 2 |
-| [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | 4.85 | 11.31 |  |  | 🔥 x 3, ⚡ x 3 |
+| [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | 4.85 | 11.31 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 3 |
 | [Pete Lee](../../persons/pete_lee/skewb.md) | <40 | 6.84 | 13.62 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Peter Osudar](../../persons/peter_osudar/skewb.md) | <40 | 3.87 | 9.52 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 

@@ -18,7 +18,7 @@
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Peter Osudar](../../persons/peter_osudar/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | 9.52 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1716706685148408) |
-| 2 | [Ed Connell](../../persons/ed_connell/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | 11.31 |  |  | 🔥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1720525514766525) |
+| 2 | [Ed Connell](../../persons/ed_connell/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | 11.31 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1720525514766525) |
 | 3 | [Pete Lee](../../persons/pete_lee/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | 13.62 |  |  | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1720808974738179) |
 | 4 | [Chris Thames](../../persons/chris_thames/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | 19.07 |  |  | 🔥 x 3, ⚡ x 2 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1718574104961666) |
 
