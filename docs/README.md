@@ -39,9 +39,9 @@ The rules are fairly straightforward and are detailed on the separate event page
 
 ### FAQ
 
-#### How do I get the permalink?
+#### How do I get the video / permalink?
 
-- On a computer you just click on the time of the post and it opens it via the permalink.
+- On a computer you just click on the video and it opens via the video link.
 - On an Android phone / tablet you simply click on "..." and use the "copy link" option.
 - On an iPhone / iPad you have to save the post. You then have access to "copy link" via the saved post.
 
