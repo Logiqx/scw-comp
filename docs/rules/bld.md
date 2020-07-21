@@ -27,7 +27,7 @@ Note: You choose how many attempts but use the scrambles in order
 
 ##### Links
 
-1. PDF and text scrambles can be found on [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) as well as on the Facebook event pages.
+1. You can find all of the scramble sheets via the [index](scrambles/README.md) (PDF only) or [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) (PDF + text).
 2. You can find your profile and previous bests on [GitHub Pages](../results/README.md)
 3. Submit your results via the redirect to [Google Forms](../submit.html)
 
