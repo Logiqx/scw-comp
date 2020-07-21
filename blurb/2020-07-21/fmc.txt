@@ -1,7 +1,3 @@
-Scramble can be found at https://logiqx.github.io/scw-comp/scrambles/
+This competition includes Fewest Moves.
 
-Please submit your result via https://logiqx.github.io/scw-comp/submit.html
- 
-View past results and profiles at https://logiqx.github.io/scw-comp/results/
-
-Full instructions and more can be found at https://logiqx.github.io/scw-comp/
+Full instructions - https://logiqx.github.io/scw-comp/rules/fmc.html
