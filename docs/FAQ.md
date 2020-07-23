@@ -28,6 +28,8 @@ If you have a slow internet connection then you can reduce the size of the video
 
 I did a very quick video about how to use Handbrake and posted it on [Facebook](https://www.facebook.com/groups/1604105099735401/permalink/2168677073278198/).
 
+Handbrake is also available for Windows, macOS, Linux and even Android. It does not appear to be available on iOS.
+
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
