@@ -1,17 +1,15 @@
 ## Senior Cubers Worldwide - Weekly Competition
 
-### Short Video Competition
+### Short Video Competition - Pyraminx, Skewb, Square-1 and Clock
 
-#### Pyraminx, Skewb, Square-1 and Clock
-
-##### Rules
+#### Rules
 
 - Entry in one continuous video
 - Cube and timer visible
 - Inspection limit of 15 seconds
 - You can use an "extra" solve if you are interrupted mid-solve (much like per WCA comps)
 
-##### Process
+#### Process
 
 - Use the 5 scrambles provided for Ao5 / Mo3 <sup>[1]</sup> - see cutoffs below
 - Post your video directly to the event page or upload to YouTube and share the link
@@ -22,7 +20,7 @@
   - Indicate if it is your fastest single to date with a ⚡ emoji <sup>[2]</sup>
 - Submit your results via the Google Form <sup>[3]</sup>
 
-##### Cutoffs
+#### Cutoffs
 
 - Pyraminx: Everyone should attempt five solves for an Ao5
 - Skewb: Everyone should attempt five solves for an Ao5
@@ -31,11 +29,12 @@
 
 Ao5 = average of 5 (discard fastest and slowest solves), Mo3 = mean of 3
 
-##### Links
+#### Links
 
 1. You can find all of the scramble sheets via the [index](scrambles/README.md) (PDF only) or [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) (PDF + text)
 2. You can find your profile and previous bests on [GitHub Pages](../results/README.md)
 3. Submit your results via the redirect to [Google Forms](../submit.html)
+4. Check out the [FAQ](../FAQ.md) for a list of "frequently asked questions" and answers
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

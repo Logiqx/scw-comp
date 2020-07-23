@@ -1,10 +1,8 @@
 ## Senior Cubers Worldwide - Weekly Competition
 
-### BLD Video Competition
+### BLD Video Competition - 3BLD, 4BLD and 5BLD
 
-#### 3BLD, 4BLD and 5BLD
-
-##### Rules
+#### Rules
 
 - Entry in one continuous video (3BLD), 4BLD and 5BLD can use multiple videos in comments
 - Cube and timer visible, ideally showing you blindfolded as well
@@ -12,7 +10,7 @@
 - Best solve wins, unlike the other events which are based on the average
 - You can use an "extra" solve if you are interrupted mid-solve (much like per WCA comps)
 
-##### Process
+#### Process
 
 - Use the 3 scrambles provided <sup>[1]</sup> - either 1, 2 or 3 attempts
 - Post your video directly to the event page or upload to YouTube and share the link
@@ -25,11 +23,12 @@
 
 Note: You choose how many attempts but use the scrambles in order
 
-##### Links
+#### Links
 
 1. You can find all of the scramble sheets via the [index](scrambles/README.md) (PDF only) or [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) (PDF + text)
 2. You can find your profile and previous bests on [GitHub Pages](../results/README.md)
 3. Submit your results via the redirect to [Google Forms](../submit.html)
+4. Check out the [FAQ](../FAQ.md) for a list of "frequently asked questions" and answers
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
