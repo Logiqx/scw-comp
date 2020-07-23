@@ -18,7 +18,7 @@
 
 #### Links
 
-1. You can find all of the scramble sheets via the [index](scrambles/README.md) (PDF only) or [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) (PDF + text)
+1. You can find all of the scramble sheets via the [index](../scrambles/README.md) (PDF only) or [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) (PDF + text)
 2. You can find your profile and previous bests on [GitHub Pages](../results/README.md)
 3. Submit your results via the redirect to [Google Forms](../submit.html)
 4. Check out the [FAQ](../FAQ.md) for a list of "frequently asked questions" and answers
