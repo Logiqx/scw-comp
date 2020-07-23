@@ -16,11 +16,11 @@
 
 - Use the 3 scrambles provided <sup>[1]</sup> - either 1, 2 or 3 attempts
 - Post your video directly to the event page or upload to YouTube and share the link
-- Include your age category (e.g. 40+) in the video description
-- Include your times and Mo3 in the video description, written to 2 decimal places
-- Please write times unambiguously; e.g. 1:19.32 rather than 1:17.32 + 2 and DNF rather than 1:17.32 (DNF)
-- Show if it is your fastest average to date with a 🔥 emoji <sup>[2]</sup>
-- Show if it is your fastest single to date with a ⚡ emoji <sup>[2]</sup>
+  - Include your age category (e.g. 40+) in the video description
+  - Include your times and Mo3 in the video description, written to 2 decimal places
+  - Please write times unambiguously; e.g. 1:19.32 rather than 1:17.32 + 2 and DNF rather than 1:17.32 (DNF)
+  - Show if it is your fastest average to date with a 🔥 emoji <sup>[2]</sup>
+  - Show if it is your fastest single to date with a ⚡ emoji <sup>[2]</sup>
 - Submit your results via the Google Form <sup>[3]</sup>
 
 Note: You choose how many attempts but use the scrambles in order

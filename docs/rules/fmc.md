@@ -13,9 +13,9 @@
 
 - Use the scramble provided <sup>[1]</sup>
 - Post your solution and reconstruction/description directly to the event page
-- Include your age category (e.g. 40+) in the description
-- Include your result as a number (eg. 32)
-- Show if it is your fastest single to date with a ⚡ emoji <sup>[2]</sup>
+  - Include your age category (e.g. 40+) in the description
+  - Include your result as a number (eg. 32)
+  - Show if it is your fastest single to date with a ⚡ emoji <sup>[2]</sup>
 - Submit your results via the Google Form <sup>[3]</sup> - even if your result was a DNF
 
 ##### Links
