@@ -7,11 +7,11 @@
 
 | # | Name | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:32.08 | 1:39.69 | 🏆 🥇 💥 🔥 ⚡ | 1:36.25 | 1:48.70 | 1:32.08 | DNF | 1:34.11 | [Link](https://www.facebook.com/events/3373950429496747?view=permalink&id=3374121619479628) |
-| 2 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | 2:48.09 | 2:57.26 | 🥈 🔥 ⚡ | 2:48.09 | 3:15.37 | 2:48.32 | DNS | DNS | [Link](https://www.facebook.com/events/3373950429496747?view=permalink&id=3374518846106572) |
-| 3 | [Aaron Cumes](../../persons/aaron_cumes/minx.md) | 40+ | 4:39.94 | DNF | 🥉 | 4:39.94 | DNS | DNS | DNS | DNS | [Link](https://www.facebook.com/events/3373950429496747?view=permalink&id=3380188232206300) |
-| 4 | [Chris Thames](../../persons/chris_thames/minx.md) | <40 | 6:57.18 | DNF |  | 6:57.18 | DNS | DNS | DNS | DNS | [Link](https://www.facebook.com/events/3373950429496747?view=permalink&id=3379579568933833) |
-| 5 | [Daniel Smith](../../persons/daniel_smith/minx.md) | 50+ | 8:11.77 | DNF | ⚡ | 8:11.77 | 8:37.62 | DNS | DNS | DNS | [Link](https://www.facebook.com/events/3373950429496747?view=permalink&id=3381536338738156) |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:32.08 | 1:39.69 | 🏆 🥇 💥 🔥 ⚡ | 1:36.25 | 1:48.70 | 1:32.08 | DNF | 1:34.11 | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374121619479628) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | 2:48.09 | 2:57.26 | 🥈 🔥 ⚡ | 2:48.09 | 3:15.37 | 2:48.32 | DNS | DNS | [Link](https://www.facebook.com/events/3373950429496747/permalink/3374518846106572) |
+| 3 | [Aaron Cumes](../../persons/aaron_cumes/minx.md) | 40+ | 4:39.94 | DNF | 🥉 | 4:39.94 | DNS | DNS | DNS | DNS | [Link](https://www.facebook.com/events/3373950429496747/permalink/3380188232206300) |
+| 4 | [Chris Thames](../../persons/chris_thames/minx.md) | <40 | 6:57.18 | DNF |  | 6:57.18 | DNS | DNS | DNS | DNS | [Link](https://www.facebook.com/events/3373950429496747/permalink/3379579568933833) |
+| 5 | [Daniel Smith](../../persons/daniel_smith/minx.md) | 50+ | 8:11.77 | DNF | ⚡ | 8:11.77 | 8:37.62 | DNS | DNS | DNS | [Link](https://www.facebook.com/events/3373950429496747/permalink/3381536338738156) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

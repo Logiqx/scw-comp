@@ -9,9 +9,9 @@
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | [2020-07-07](../../results/2020-07-07/pyram.md) | 40+ | 5.87 | 6.22 | 🏆 🥇 | 6.37 | 5.94 | 5.87 | 7.21 | 6.34 | [Link](https://www.facebook.com/michael.george.545/videos/10213958025625080) |
-| [2020-06-30](../../results/2020-06-30/pyram.md) | 40+ | 6.29 | 6.83 | 🏆 🥇 | 6.52 | 6.29 | 9.26 | 6.64 | 7.32 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1717720541713689) |
-| [2020-06-23](../../results/2020-06-23/pyram.md) | 40+ | **4.50** | **6.03** | 🥇 💥 🔥 ⚡ | 4.71 | 13.70 | 8.60 | 4.78 | **4.50** | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1623347121153115) |
-| [2020-06-16](../../results/2020-06-16/pyram.md) | 40+ | **6.02** | **7.05** | 🏆 🥇 💥 🔥 ⚡ | 7.57 | **6.02** | 9.72 | 7.26 | 6.33 | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=296273825093478) |
+| [2020-06-30](../../results/2020-06-30/pyram.md) | 40+ | 6.29 | 6.83 | 🏆 🥇 | 6.52 | 6.29 | 9.26 | 6.64 | 7.32 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1717720541713689) |
+| [2020-06-23](../../results/2020-06-23/pyram.md) | 40+ | **4.50** | **6.03** | 🥇 💥 🔥 ⚡ | 4.71 | 13.70 | 8.60 | 4.78 | **4.50** | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623347121153115) |
+| [2020-06-16](../../results/2020-06-16/pyram.md) | 40+ | **6.02** | **7.05** | 🏆 🥇 💥 🔥 ⚡ | 7.57 | **6.02** | 9.72 | 7.26 | 6.33 | [Link](https://www.facebook.com/events/296087658445428/permalink/296273825093478) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

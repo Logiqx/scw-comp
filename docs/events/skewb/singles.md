@@ -9,24 +9,24 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Michael George](../../persons/michael_george/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | 40+ | 2.78 | 🏆 x 2 | 🥇 x 4 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1717709441714799) |
+| 1 | [Michael George](../../persons/michael_george/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | 40+ | 2.78 | 🏆 x 2 | 🥇 x 4 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1717709441714799) |
 | 2 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | 40+ | 4.15 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/jeremy.duehring/videos/10160203751947846) |
-| 3 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | [2020-06-16](../../results/2020-06-16/skewb.md) | 40+ | 7.77 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428?view=permalink&id=297667538287440) |
+| 3 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | [2020-06-16](../../results/2020-06-16/skewb.md) | 40+ | 7.77 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/296087658445428/permalink/297667538287440) |
 
 #### Under 40
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Peter Osudar](../../persons/peter_osudar/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | 3.87 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1716706685148408) |
-| 2 | [Ed Connell](../../persons/ed_connell/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | 4.85 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1720525514766525) |
-| 3 | [Pete Lee](../../persons/pete_lee/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | 6.84 |  |  | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1720808974738179) |
-| 4 | [Chris Thames](../../persons/chris_thames/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | 9.60 |  |  | 🔥 x 3, ⚡ x 2 | [Link](https://www.facebook.com/events/1716512181834525?view=permalink&id=1718574104961666) |
+| 1 | [Peter Osudar](../../persons/peter_osudar/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | 3.87 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1716706685148408) |
+| 2 | [Ed Connell](../../persons/ed_connell/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | 4.85 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 3 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1720525514766525) |
+| 3 | [Pete Lee](../../persons/pete_lee/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | 6.84 |  |  | 🔥 x 2, ⚡ x 3 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1720808974738179) |
+| 4 | [Chris Thames](../../persons/chris_thames/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | 9.60 |  |  | 🔥 x 3, ⚡ x 2 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1718574104961666) |
 
 #### Under 30
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Joshua Riegel](../../persons/joshua_riegel/skewb.md) | [2020-06-23](../../results/2020-06-23/skewb.md) | <30 | 23.14 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/1618516681636159?view=permalink&id=1623941544427006) |
+| 1 | [Joshua Riegel](../../persons/joshua_riegel/skewb.md) | [2020-06-23](../../results/2020-06-23/skewb.md) | <30 | 23.14 |  |  | 🔥 x 1, ⚡ x 1 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1623941544427006) |
 
 #### Under 20
 
