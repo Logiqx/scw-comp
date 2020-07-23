@@ -17,9 +17,9 @@
 - Post your video directly to the event page or upload to YouTube and share the link
   - Include your age category (e.g. 40+) in the video description
   - Include your times and Ao5 / Mo3 in the video description, written to 2 decimal places
-  - Please write times unambiguously; e.g. 9.32 rather than 7.32 + 2 and DNF rather than 7.32 (DNF)
-  - Show if it is your fastest average to date with a 🔥 emoji <sup>[2]</sup>
-  - Show if it is your fastest single to date with a ⚡ emoji <sup>[2]</sup>
+    - Please write times unambiguously; e.g. 9.32 rather than 7.32 + 2
+  - Indicate if it is your fastest average to date with a 🔥 emoji <sup>[2]</sup>
+  - Indicate if it is your fastest single to date with a ⚡ emoji <sup>[2]</sup>
 - Submit your results via the Google Form <sup>[3]</sup>
 
 ##### Cutoffs
