@@ -8,9 +8,9 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | **6.84** | **13.62** | 🔥 ⚡ | **6.84** | 14.06 | 34.51 | 14.86 | 11.95 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1720808974738179) |
-| [2020-06-23](../../results/2020-06-23/skewb.md) | <40 | **16.61** | 25.86 | ⚡ | 32.70 | 22.37 | **16.61** | 27.03 | 28.18 | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624129321074895) |
-| [2020-06-16](../../results/2020-06-16/skewb.md) | <40 | **17.80** | **24.68** | 🔥 ⚡ | 25.68 | 18.65 | 29.70 | 40.16 | **17.80** | [Link](https://www.facebook.com/events/296087658445428/permalink/299518714768989) |
+| [2020-06-30](../../results/2020-06-30/skewb.md) | <40 | **6.84** | **13.62** | 🔥 ⚡ | **6.84** | 14.06 | 34.51 | 14.86 | 11.95 | [Desktop](https://www.facebook.com/events/1716512181834525/permalink/1720808974738179) / [Mobile](https://m.facebook.com/events/1716512181834525?view=permalink&id=1720808974738179) |
+| [2020-06-23](../../results/2020-06-23/skewb.md) | <40 | **16.61** | 25.86 | ⚡ | 32.70 | 22.37 | **16.61** | 27.03 | 28.18 | [Desktop](https://www.facebook.com/events/1618516681636159/permalink/1624129321074895) / [Mobile](https://m.facebook.com/events/1618516681636159?view=permalink&id=1624129321074895) |
+| [2020-06-16](../../results/2020-06-16/skewb.md) | <40 | **17.80** | **24.68** | 🔥 ⚡ | 25.68 | 18.65 | 29.70 | 40.16 | **17.80** | [Desktop](https://www.facebook.com/events/296087658445428/permalink/299518714768989) / [Mobile](https://m.facebook.com/events/296087658445428?view=permalink&id=299518714768989) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

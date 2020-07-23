@@ -8,7 +8,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-07-14](../../results/2020-07-14/minx.md) | <40 | **53.33** | **1:06.45** | 🏆 💥 🔥 ⚡ | 1:10.22 | 1:10.10 | **53.33** | 1:15.95 | 59.04 | [Link](https://www.facebook.com/events/1157754364595802/permalink/1158593647845207) |
+| [2020-07-14](../../results/2020-07-14/minx.md) | <40 | **53.33** | **1:06.45** | 🏆 💥 🔥 ⚡ | 1:10.22 | 1:10.10 | **53.33** | 1:15.95 | 59.04 | [Desktop](https://www.facebook.com/events/1157754364595802/permalink/1158593647845207) / [Mobile](https://m.facebook.com/events/1157754364595802?view=permalink&id=1158593647845207) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

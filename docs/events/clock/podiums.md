@@ -8,36 +8,36 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.62 | 13.12 | 🏆 🥇 💥 🔥 | [Link](https://www.facebook.com/events/413064016333950/permalink/415320132775005) |
-| 2 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | 25.94 | 34.18 | 🥈 🔥 ⚡ | [Link](https://www.facebook.com/events/413064016333950/permalink/416535092653509) |
-| 3 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/clock.md) | 40+ | 40.24 | 48.22 | 🥉 🔥 ⚡ | [Link](https://www.facebook.com/events/413064016333950/permalink/417360065904345) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.62 | 13.12 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/413064016333950/permalink/415320132775005) / [Mobile](https://m.facebook.com/events/413064016333950?view=permalink&id=415320132775005) |
+| 2 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | 25.94 | 34.18 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/413064016333950/permalink/416535092653509) / [Mobile](https://m.facebook.com/events/413064016333950?view=permalink&id=416535092653509) |
+| 3 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/clock.md) | 40+ | 40.24 | 48.22 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/413064016333950/permalink/417360065904345) / [Mobile](https://m.facebook.com/events/413064016333950?view=permalink&id=417360065904345) |
 
 #### [2020-07-07](../../results/2020-07-07/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.16 | 14.14 | 🏆 🥇 💥 🔥 | [Link](https://www.facebook.com/events/198255948253934/permalink/199581191454743) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.16 | 14.14 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/198255948253934/permalink/199581191454743) / [Mobile](https://m.facebook.com/events/198255948253934?view=permalink&id=199581191454743) |
 
 #### [2020-06-30](../../results/2020-06-30/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
-| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 21.12 | 22.45 | 🥇 💥 🔥 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1723076847844725) |
-| 2 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.14 | DNF | 🥈 | [Link](https://www.facebook.com/events/1716512181834525/permalink/1718868751598868) |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 21.12 | 22.45 | 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/1716512181834525/permalink/1723076847844725) / [Mobile](https://m.facebook.com/events/1716512181834525?view=permalink&id=1723076847844725) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.14 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/1716512181834525/permalink/1718868751598868) / [Mobile](https://m.facebook.com/events/1716512181834525?view=permalink&id=1718868751598868) |
 
 #### [2020-06-23](../../results/2020-06-23/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
-| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 20.39 | 29.17 | 🥇 💥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624299994391161) |
-| 2 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.02 | DNF | 🥈 💥 ⚡ | [Link](https://www.facebook.com/events/1618516681636159/permalink/1624284247726069) |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 20.39 | 29.17 | 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/1618516681636159/permalink/1624299994391161) / [Mobile](https://m.facebook.com/events/1618516681636159?view=permalink&id=1624299994391161) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.02 | DNF | 🥈 💥 ⚡ | [Desktop](https://www.facebook.com/events/1618516681636159/permalink/1624284247726069) / [Mobile](https://m.facebook.com/events/1618516681636159?view=permalink&id=1624284247726069) |
 
 #### [2020-06-16](../../results/2020-06-16/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 14.32 | 17.07 | 🏆 🥇 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/298845524836308) |
-| 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 22.23 | 24.83 | 🥈 💥 🔥 ⚡ | [Link](https://www.facebook.com/events/296087658445428/permalink/300271461360381) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 14.32 | 17.07 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/296087658445428/permalink/298845524836308) / [Mobile](https://m.facebook.com/events/296087658445428?view=permalink&id=298845524836308) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 22.23 | 24.83 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/296087658445428/permalink/300271461360381) / [Mobile](https://m.facebook.com/events/296087658445428?view=permalink&id=300271461360381) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

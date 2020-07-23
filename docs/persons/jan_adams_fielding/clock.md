@@ -8,7 +8,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2020-07-14](../../results/2020-07-14/clock.md) | 40+ | **40.24** | **48.22** | 🥉 🔥 ⚡ | 49.27 | 51.30 | 44.09 | **40.24** | 54.24 | [Link](https://www.facebook.com/events/413064016333950/permalink/417360065904345) |
+| [2020-07-14](../../results/2020-07-14/clock.md) | 40+ | **40.24** | **48.22** | 🥉 🔥 ⚡ | 49.27 | 51.30 | 44.09 | **40.24** | 54.24 | [Desktop](https://www.facebook.com/events/413064016333950/permalink/417360065904345) / [Mobile](https://m.facebook.com/events/413064016333950?view=permalink&id=417360065904345) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -7,7 +7,7 @@
 
 | # | Name | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| 1 | [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | 7.88 | 13.83 | 🏆 | 11.68 | 7.88 | 14.95 | 14.86 | 19.34 | [Link](https://www.facebook.com/events/413064016333950/permalink/416493985990953) |
+| 1 | [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | 7.88 | 13.83 | 🏆 | 11.68 | 7.88 | 14.95 | 14.86 | 19.34 | [Desktop](https://www.facebook.com/events/413064016333950/permalink/416493985990953) / [Mobile](https://m.facebook.com/events/413064016333950?view=permalink&id=416493985990953) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
