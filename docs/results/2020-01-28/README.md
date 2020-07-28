@@ -7,7 +7,9 @@
 
 #### [3x3x3](333.md)
 
-<span style="white-space: nowrap;">🏆 [Jaidon Adams](../../persons/jaidon_adams/333.md) 8.67</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333.md) 15.05</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 15.58</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/333.md) 19.63</span>
+<span style="white-space: nowrap;">🏆 [Jaidon Adams](../../persons/jaidon_adams/333.md) 8.67</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333.md) 15.05</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 15.58</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/333.md) 19.63</span>
 
 💥 x 3 = <span style="white-space: nowrap;">[Jaidon Adams](../../persons/jaidon_adams/333.md) <20</span>, <span style="white-space: nowrap;">[Tom Doolinski](../../persons/tom_doolinski/333.md) <30</span>, <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/333.md) 40+</span>
 

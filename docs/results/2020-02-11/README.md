@@ -7,7 +7,9 @@
 
 #### [3x3x3](333.md)
 
-<span style="white-space: nowrap;">🏆 [Jaidon Adams](../../persons/jaidon_adams/333.md) 10.11</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333.md) 15.62</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 16.05</span>, <span style="white-space: nowrap;">🥉 [Andy Nicholls](../../persons/andy_nicholls/333.md) 18.35</span>
+<span style="white-space: nowrap;">🏆 [Jaidon Adams](../../persons/jaidon_adams/333.md) 10.11</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333.md) 15.62</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 16.05</span>, <span style="white-space: nowrap;">🥉 [Andy Nicholls](../../persons/andy_nicholls/333.md) 18.35</span>
 
 💥 x 2 = <span style="white-space: nowrap;">[Go-ho Choi](../../persons/go_ho_choi/333.md) <40</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/333.md) 50+</span>
 
@@ -17,7 +19,9 @@
 
 #### [2x2x2](222.md)
 
-<span style="white-space: nowrap;">🏆 [Jaidon Adams](../../persons/jaidon_adams/222.md) 3.10</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/222.md) 4.93</span>, <span style="white-space: nowrap;">🥈 [Jeremy Duehring](../../persons/jeremy_duehring/222.md) 6.30</span>, <span style="white-space: nowrap;">🥉 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/222.md) 6.45</span>
+<span style="white-space: nowrap;">🏆 [Jaidon Adams](../../persons/jaidon_adams/222.md) 3.10</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/222.md) 4.93</span>, <span style="white-space: nowrap;">🥈 [Jeremy Duehring](../../persons/jeremy_duehring/222.md) 6.30</span>, <span style="white-space: nowrap;">🥉 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/222.md) 6.45</span>
 
 💥 x 5 = <span style="white-space: nowrap;">[Jaidon Adams](../../persons/jaidon_adams/222.md) <20</span>, <span style="white-space: nowrap;">[Go-ho Choi](../../persons/go_ho_choi/222.md) <40</span>, <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/222.md) 40+</span>, <span style="white-space: nowrap;">[Lisa Kucala](../../persons/lisa_kucala/222.md) 50+</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/222.md) 50+</span>
 
@@ -27,7 +31,9 @@
 
 #### [3x3x3 Blindfolded](333bf.md)
 
-<span style="white-space: nowrap;">🏆 [Jae Park](../../persons/jae_park/333bf.md) 48.68</span>, <span style="white-space: nowrap;">🥇 [Jae Park](../../persons/jae_park/333bf.md) 48.68</span>, <span style="white-space: nowrap;">🥈 [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:22.00</span>, <span style="white-space: nowrap;">🥉 [Mark Adams](../../persons/mark_adams/333bf.md) 1:46.60</span>
+<span style="white-space: nowrap;">🏆 [Jae Park](../../persons/jae_park/333bf.md) 48.68</span>
+
+<span style="white-space: nowrap;">🥇 [Jae Park](../../persons/jae_park/333bf.md) 48.68</span>, <span style="white-space: nowrap;">🥈 [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:22.00</span>, <span style="white-space: nowrap;">🥉 [Mark Adams](../../persons/mark_adams/333bf.md) 1:46.60</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/333bf.md) 40+</span>
 
@@ -37,7 +43,9 @@
 
 #### [3x3x3 Fewest Moves](333fm.md)
 
-<span style="white-space: nowrap;">🏆 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 25</span>, <span style="white-space: nowrap;">🥇 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 25</span>, <span style="white-space: nowrap;">🥈 [Ben Coppin](../../persons/ben_coppin/333fm.md) 26</span>, <span style="white-space: nowrap;">🥉 [David Roche](../../persons/david_roche/333fm.md) 30</span>
+<span style="white-space: nowrap;">🏆 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 25</span>
+
+<span style="white-space: nowrap;">🥇 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 25</span>, <span style="white-space: nowrap;">🥈 [Ben Coppin](../../persons/ben_coppin/333fm.md) 26</span>, <span style="white-space: nowrap;">🥉 [David Roche](../../persons/david_roche/333fm.md) 30</span>
 
 💥 x 2 = <span style="white-space: nowrap;">[Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 40+</span>, <span style="white-space: nowrap;">[David Roche](../../persons/david_roche/333fm.md) 50+</span>
 

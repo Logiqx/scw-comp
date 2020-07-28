@@ -7,7 +7,9 @@
 
 #### [3x3x3](333.md)
 
-<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/333.md) 13.73</span>, <span style="white-space: nowrap;">🥇 [Chris Wright](../../persons/chris_wright/333.md) 14.53</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 15.64</span>, <span style="white-space: nowrap;">🥉 [Andy Nicholls](../../persons/andy_nicholls/333.md) 18.48</span>
+<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/333.md) 13.73</span>
+
+<span style="white-space: nowrap;">🥇 [Chris Wright](../../persons/chris_wright/333.md) 14.53</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 15.64</span>, <span style="white-space: nowrap;">🥉 [Andy Nicholls](../../persons/andy_nicholls/333.md) 18.48</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Chris Wright](../../persons/chris_wright/333.md) 50+</span>
 
@@ -17,7 +19,9 @@
 
 #### [2x2x2](222.md)
 
-<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/222.md) 4.55</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/222.md) 5.08</span>, <span style="white-space: nowrap;">🥈 [Chris Wright](../../persons/chris_wright/222.md) 5.17</span>, <span style="white-space: nowrap;">🥉 [Yoann Lecoeur](../../persons/yoann_lecoeur/222.md) 5.83</span>
+<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/222.md) 4.55</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/222.md) 5.08</span>, <span style="white-space: nowrap;">🥈 [Chris Wright](../../persons/chris_wright/222.md) 5.17</span>, <span style="white-space: nowrap;">🥉 [Yoann Lecoeur](../../persons/yoann_lecoeur/222.md) 5.83</span>
 
 💥 x 2 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/222.md) 40+</span>, <span style="white-space: nowrap;">[Chris Wright](../../persons/chris_wright/222.md) 50+</span>
 
@@ -27,7 +31,9 @@
 
 #### [4x4x4](444.md)
 
-<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/444.md) 53.30</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/444.md) 53.30</span>, <span style="white-space: nowrap;">🥈 [Chris Wright](../../persons/chris_wright/444.md) 56.44</span>, <span style="white-space: nowrap;">🥉 [Jeremy Duehring](../../persons/jeremy_duehring/444.md) 1:04.99</span>
+<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/444.md) 53.30</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/444.md) 53.30</span>, <span style="white-space: nowrap;">🥈 [Chris Wright](../../persons/chris_wright/444.md) 56.44</span>, <span style="white-space: nowrap;">🥉 [Jeremy Duehring](../../persons/jeremy_duehring/444.md) 1:04.99</span>
 
 💥 x 2 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/444.md) 40+</span>, <span style="white-space: nowrap;">[Chris Wright](../../persons/chris_wright/444.md) 50+</span>
 
@@ -37,7 +43,9 @@
 
 #### [3x3x3 Fewest Moves](333fm.md)
 
-<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/333fm.md) 25</span>, <span style="white-space: nowrap;">🥇 [David Roche](../../persons/david_roche/333fm.md) 28</span>, <span style="white-space: nowrap;">🥇 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 28</span>, <span style="white-space: nowrap;">🥉 [John Cook](../../persons/john_cook/333fm.md) 45</span>
+<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/333fm.md) 25</span>
+
+<span style="white-space: nowrap;">🥇 [David Roche](../../persons/david_roche/333fm.md) 28</span>, <span style="white-space: nowrap;">🥇 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 28</span>, <span style="white-space: nowrap;">🥉 [John Cook](../../persons/john_cook/333fm.md) 45</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Shawn Boucké](../../persons/shawn_boucke/333fm.md) <40</span>
 

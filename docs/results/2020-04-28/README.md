@@ -7,7 +7,9 @@
 
 #### [3x3x3](333.md)
 
-<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/333.md) 13.77</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333.md) 15.97</span>, <span style="white-space: nowrap;">🥈 [Thierry Boisivon](../../persons/thierry_boisivon/333.md) 17.46</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/333.md) 18.25</span>
+<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/333.md) 13.77</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333.md) 15.97</span>, <span style="white-space: nowrap;">🥈 [Thierry Boisivon](../../persons/thierry_boisivon/333.md) 17.46</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/333.md) 18.25</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Newton Nguyen](../../persons/newton_nguyen/333.md) <10</span>
 
@@ -17,7 +19,9 @@
 
 #### [2x2x2](222.md)
 
-<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/222.md) 5.28</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/222.md) 5.28</span>, <span style="white-space: nowrap;">🥈 [Ciro Vignotto](../../persons/ciro_vignotto/222.md) 5.74</span>, <span style="white-space: nowrap;">🥉 [Anthony Rochester](../../persons/anthony_rochester/222.md) 7.16</span>
+<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/222.md) 5.28</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/222.md) 5.28</span>, <span style="white-space: nowrap;">🥈 [Ciro Vignotto](../../persons/ciro_vignotto/222.md) 5.74</span>, <span style="white-space: nowrap;">🥉 [Anthony Rochester](../../persons/anthony_rochester/222.md) 7.16</span>
 
 💥 x 2 = <span style="white-space: nowrap;">[Ciro Vignotto](../../persons/ciro_vignotto/222.md) 50+</span>, <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/222.md) 40+</span>
 
@@ -27,17 +31,23 @@
 
 #### [4x4x4](444.md)
 
-<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/444.md) 51.59</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/444.md) 1:01.68</span>, <span style="white-space: nowrap;">🥈 [Ciro Vignotto](../../persons/ciro_vignotto/444.md) 1:04.83</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/444.md) 1:14.79</span>
+<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/444.md) 51.59</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/444.md) 1:01.68</span>, <span style="white-space: nowrap;">🥈 [Ciro Vignotto](../../persons/ciro_vignotto/444.md) 1:04.83</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/444.md) 1:14.79</span>
 
 ⚡ x 1 = <span style="white-space: nowrap;">[Shawn Boucké](../../persons/shawn_boucke/444.md) 46.87</span>
 
 #### [5x5x5](555.md)
 
-<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/555.md) 2:07.69</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/555.md) 2:07.69</span>, <span style="white-space: nowrap;">🥈 [Geoff Hartnell](../../persons/geoff_hartnell/555.md) 2:10.62</span>, <span style="white-space: nowrap;">🥉 [Ciro Vignotto](../../persons/ciro_vignotto/555.md) 2:21.08</span>
+<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/555.md) 2:07.69</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/555.md) 2:07.69</span>, <span style="white-space: nowrap;">🥈 [Geoff Hartnell](../../persons/geoff_hartnell/555.md) 2:10.62</span>, <span style="white-space: nowrap;">🥉 [Ciro Vignotto](../../persons/ciro_vignotto/555.md) 2:21.08</span>
 
 #### [3x3x3 One-Handed](333oh.md)
 
-<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/333oh.md) 21.87</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333oh.md) 21.87</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) 32.65</span>, <span style="white-space: nowrap;">🥉 [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) 32.89</span>
+<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/333oh.md) 21.87</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333oh.md) 21.87</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) 32.65</span>, <span style="white-space: nowrap;">🥉 [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) 32.89</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/333oh.md) 40+</span>
 
@@ -47,7 +57,9 @@
 
 #### [3x3x3 Blindfolded](333bf.md)
 
-<span style="white-space: nowrap;">🏆 [Jae Park](../../persons/jae_park/333bf.md) 1:10.91</span>, <span style="white-space: nowrap;">🥇 [Jae Park](../../persons/jae_park/333bf.md) 1:10.91</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) 1:11.73</span>, <span style="white-space: nowrap;">🥉 [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:47.09</span>
+<span style="white-space: nowrap;">🏆 [Jae Park](../../persons/jae_park/333bf.md) 1:10.91</span>
+
+<span style="white-space: nowrap;">🥇 [Jae Park](../../persons/jae_park/333bf.md) 1:10.91</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) 1:11.73</span>, <span style="white-space: nowrap;">🥉 [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:47.09</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Huy Nguyen](../../persons/huy_nguyen/333bf.md) 2:06.80</span>
 
@@ -55,7 +67,9 @@
 
 #### [3x3x3 Fewest Moves](333fm.md)
 
-<span style="white-space: nowrap;">🏆 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 25</span>, <span style="white-space: nowrap;">🥇 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 25</span>, <span style="white-space: nowrap;">🥈 [David Roche](../../persons/david_roche/333fm.md) 28</span>, <span style="white-space: nowrap;">🥉 [Ben Coppin](../../persons/ben_coppin/333fm.md) 31</span>
+<span style="white-space: nowrap;">🏆 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 25</span>
+
+<span style="white-space: nowrap;">🥇 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 25</span>, <span style="white-space: nowrap;">🥈 [David Roche](../../persons/david_roche/333fm.md) 28</span>, <span style="white-space: nowrap;">🥉 [Ben Coppin](../../persons/ben_coppin/333fm.md) 31</span>
 
 ⚡ x 1 = <span style="white-space: nowrap;">[Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 25</span>
 

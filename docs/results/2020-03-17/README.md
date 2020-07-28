@@ -7,7 +7,9 @@
 
 #### [3x3x3](333.md)
 
-<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/333.md) 13.85</span>, <span style="white-space: nowrap;">🥇 [Chris Wright](../../persons/chris_wright/333.md) 14.47</span>, <span style="white-space: nowrap;">🥈 [Michael George](../../persons/michael_george/333.md) 14.51</span>, <span style="white-space: nowrap;">🥉 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 17.31</span>
+<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/333.md) 13.85</span>
+
+<span style="white-space: nowrap;">🥇 [Chris Wright](../../persons/chris_wright/333.md) 14.47</span>, <span style="white-space: nowrap;">🥈 [Michael George](../../persons/michael_george/333.md) 14.51</span>, <span style="white-space: nowrap;">🥉 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 17.31</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Chris Wright](../../persons/chris_wright/333.md) 50+</span>
 
@@ -17,7 +19,9 @@
 
 #### [4x4x4](444.md)
 
-<span style="white-space: nowrap;">🏆 [Ron van Bruchem](../../persons/ron_van_bruchem/444.md) 49.81</span>, <span style="white-space: nowrap;">🥇 [Ron van Bruchem](../../persons/ron_van_bruchem/444.md) 49.81</span>, <span style="white-space: nowrap;">🥈 [Michael George](../../persons/michael_george/444.md) 1:01.39</span>, <span style="white-space: nowrap;">🥉 [Jeremy Duehring](../../persons/jeremy_duehring/444.md) 1:02.91</span>
+<span style="white-space: nowrap;">🏆 [Ron van Bruchem](../../persons/ron_van_bruchem/444.md) 49.81</span>
+
+<span style="white-space: nowrap;">🥇 [Ron van Bruchem](../../persons/ron_van_bruchem/444.md) 49.81</span>, <span style="white-space: nowrap;">🥈 [Michael George](../../persons/michael_george/444.md) 1:01.39</span>, <span style="white-space: nowrap;">🥉 [Jeremy Duehring](../../persons/jeremy_duehring/444.md) 1:02.91</span>
 
 💥 x 2 = <span style="white-space: nowrap;">[Ron van Bruchem](../../persons/ron_van_bruchem/444.md) 50+</span>, <span style="white-space: nowrap;">[Go-ho Choi](../../persons/go_ho_choi/444.md) <40</span>
 
@@ -27,7 +31,9 @@
 
 #### [3x3x3 Blindfolded](333bf.md)
 
-<span style="white-space: nowrap;">🏆 [Jae Park](../../persons/jae_park/333bf.md) 50.42</span>, <span style="white-space: nowrap;">🥇 [Jae Park](../../persons/jae_park/333bf.md) 50.42</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) 1:19.91</span>, <span style="white-space: nowrap;">🥉 [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:48.80</span>
+<span style="white-space: nowrap;">🏆 [Jae Park](../../persons/jae_park/333bf.md) 50.42</span>
+
+<span style="white-space: nowrap;">🥇 [Jae Park](../../persons/jae_park/333bf.md) 50.42</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) 1:19.91</span>, <span style="white-space: nowrap;">🥉 [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:48.80</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Peter Andersson](../../persons/peter_andersson/333bf.md) 50+</span>
 
@@ -37,7 +43,9 @@
 
 #### [3x3x3 Fewest Moves](333fm.md)
 
-<span style="white-space: nowrap;">🏆 [David Roche](../../persons/david_roche/333fm.md) 21</span>, <span style="white-space: nowrap;">🥇 [David Roche](../../persons/david_roche/333fm.md) 21</span>, <span style="white-space: nowrap;">🥈 [Александр Гилка](../../persons/александр_гилка/333fm.md) 23</span>, <span style="white-space: nowrap;">🥉 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 33</span>
+<span style="white-space: nowrap;">🏆 [David Roche](../../persons/david_roche/333fm.md) 21</span>
+
+<span style="white-space: nowrap;">🥇 [David Roche](../../persons/david_roche/333fm.md) 21</span>, <span style="white-space: nowrap;">🥈 [Александр Гилка](../../persons/александр_гилка/333fm.md) 23</span>, <span style="white-space: nowrap;">🥉 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 33</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[David Roche](../../persons/david_roche/333fm.md) 50+</span>
 

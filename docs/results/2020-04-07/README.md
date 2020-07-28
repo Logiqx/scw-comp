@@ -7,7 +7,9 @@
 
 #### [3x3x3](333.md)
 
-<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/333.md) 13.67</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333.md) 13.67</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 16.07</span>, <span style="white-space: nowrap;">🥉 [Ciro Vignotto](../../persons/ciro_vignotto/333.md) 18.05</span>
+<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/333.md) 13.67</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333.md) 13.67</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 16.07</span>, <span style="white-space: nowrap;">🥉 [Ciro Vignotto](../../persons/ciro_vignotto/333.md) 18.05</span>
 
 💥 x 2 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/333.md) 40+</span>, <span style="white-space: nowrap;">[Newton Nguyen](../../persons/newton_nguyen/333.md) <10</span>
 
@@ -17,7 +19,9 @@
 
 #### [3x3x3 One-Handed](333oh.md)
 
-<span style="white-space: nowrap;">🏆 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) 33.03</span>, <span style="white-space: nowrap;">🥇 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) 33.03</span>, <span style="white-space: nowrap;">🥈 [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) 34.18</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) 38.23</span>
+<span style="white-space: nowrap;">🏆 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) 33.03</span>
+
+<span style="white-space: nowrap;">🥇 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) 33.03</span>, <span style="white-space: nowrap;">🥈 [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) 34.18</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) 38.23</span>
 
 🔥 x 4 = <span style="white-space: nowrap;">[Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) 33.03</span>, <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/333oh.md) 34.04</span>, <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) 34.18</span>, <span style="white-space: nowrap;">[Jang Junho (장준호)](../../persons/jang_junho/333oh.md) 1:06.79</span>
 
@@ -25,7 +29,9 @@
 
 #### [3x3x3 Blindfolded](333bf.md)
 
-<span style="white-space: nowrap;">🏆 [Jae Park](../../persons/jae_park/333bf.md) 55.58</span>, <span style="white-space: nowrap;">🥇 [Jae Park](../../persons/jae_park/333bf.md) 55.58</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) 1:04.30</span>, <span style="white-space: nowrap;">🥉 [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:27.34</span>
+<span style="white-space: nowrap;">🏆 [Jae Park](../../persons/jae_park/333bf.md) 55.58</span>
+
+<span style="white-space: nowrap;">🥇 [Jae Park](../../persons/jae_park/333bf.md) 55.58</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) 1:04.30</span>, <span style="white-space: nowrap;">🥉 [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:27.34</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Peter Andersson](../../persons/peter_andersson/333bf.md) 50+</span>
 
@@ -35,7 +41,9 @@
 
 #### [3x3x3 Fewest Moves](333fm.md)
 
-<span style="white-space: nowrap;">🏆 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 27</span>, <span style="white-space: nowrap;">🥇 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 27</span>, <span style="white-space: nowrap;">🥈 [David Roche](../../persons/david_roche/333fm.md) 31</span>, <span style="white-space: nowrap;">🥈 [Michael George](../../persons/michael_george/333fm.md) 31</span>
+<span style="white-space: nowrap;">🏆 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 27</span>
+
+<span style="white-space: nowrap;">🥇 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 27</span>, <span style="white-space: nowrap;">🥈 [David Roche](../../persons/david_roche/333fm.md) 31</span>, <span style="white-space: nowrap;">🥈 [Michael George](../../persons/michael_george/333fm.md) 31</span>
 
 ⚡ x 2 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/333fm.md) 31</span>, <span style="white-space: nowrap;">[Ciro Vignotto](../../persons/ciro_vignotto/333fm.md) 43</span>
 

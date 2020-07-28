@@ -7,7 +7,9 @@
 
 #### [3x3x3](333.md)
 
-<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/333.md) 14.36</span>, <span style="white-space: nowrap;">🥇 [Chris Wright](../../persons/chris_wright/333.md) 14.85</span>, <span style="white-space: nowrap;">🥈 [Michael George](../../persons/michael_george/333.md) 15.34</span>, <span style="white-space: nowrap;">🥉 [Thierry Boisivon](../../persons/thierry_boisivon/333.md) 17.82</span>
+<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/333.md) 14.36</span>
+
+<span style="white-space: nowrap;">🥇 [Chris Wright](../../persons/chris_wright/333.md) 14.85</span>, <span style="white-space: nowrap;">🥈 [Michael George](../../persons/michael_george/333.md) 15.34</span>, <span style="white-space: nowrap;">🥉 [Thierry Boisivon](../../persons/thierry_boisivon/333.md) 17.82</span>
 
 🔥 x 8 = <span style="white-space: nowrap;">[Isak Majer](../../persons/isak_majer/333.md) 19.08</span>, <span style="white-space: nowrap;">[Raimon Schaap](../../persons/raimon_schaap/333.md) 19.15</span>, <span style="white-space: nowrap;">[Aaron Cumes](../../persons/aaron_cumes/333.md) 20.91</span>, <span style="white-space: nowrap;">[Adam Robson](../../persons/adam_robson/333.md) 23.72</span>, <span style="white-space: nowrap;">[Timothy Salay](../../persons/timothy_salay/333.md) 36.06</span>, <span style="white-space: nowrap;">[Peter Douthwright](../../persons/peter_douthwright/333.md) 38.36</span>, <span style="white-space: nowrap;">[Brooke Persoon](../../persons/brooke_persoon/333.md) 47.49</span>, <span style="white-space: nowrap;">[Jo Cocco](../../persons/jo_cocco/333.md) 58.76</span>
 
@@ -15,7 +17,9 @@
 
 #### [5x5x5](555.md)
 
-<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/555.md) 1:32.67</span>, <span style="white-space: nowrap;">🥇 [Chris Wright](../../persons/chris_wright/555.md) 1:46.58</span>, <span style="white-space: nowrap;">🥈 [Andy Nicholls](../../persons/andy_nicholls/555.md) 1:54.70</span>, <span style="white-space: nowrap;">🥉 [Michael George](../../persons/michael_george/555.md) 2:03.46</span>
+<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/555.md) 1:32.67</span>
+
+<span style="white-space: nowrap;">🥇 [Chris Wright](../../persons/chris_wright/555.md) 1:46.58</span>, <span style="white-space: nowrap;">🥈 [Andy Nicholls](../../persons/andy_nicholls/555.md) 1:54.70</span>, <span style="white-space: nowrap;">🥉 [Michael George](../../persons/michael_george/555.md) 2:03.46</span>
 
 💥 x 2 = <span style="white-space: nowrap;">[Go-ho Choi](../../persons/go_ho_choi/555.md) <40</span>, <span style="white-space: nowrap;">[Chris Wright](../../persons/chris_wright/555.md) 50+</span>
 
@@ -25,7 +29,9 @@
 
 #### [3x3x3 Blindfolded](333bf.md)
 
-<span style="white-space: nowrap;">🏆 [Jae Park](../../persons/jae_park/333bf.md) 48.96</span>, <span style="white-space: nowrap;">🥇 [Jae Park](../../persons/jae_park/333bf.md) 48.96</span>, <span style="white-space: nowrap;">🥈 [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:22.11</span>, <span style="white-space: nowrap;">🥉 [Jeremy Duehring](../../persons/jeremy_duehring/333bf.md) 2:39.49</span>
+<span style="white-space: nowrap;">🏆 [Jae Park](../../persons/jae_park/333bf.md) 48.96</span>
+
+<span style="white-space: nowrap;">🥇 [Jae Park](../../persons/jae_park/333bf.md) 48.96</span>, <span style="white-space: nowrap;">🥈 [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:22.11</span>, <span style="white-space: nowrap;">🥉 [Jeremy Duehring](../../persons/jeremy_duehring/333bf.md) 2:39.49</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:50.71</span>
 
@@ -33,7 +39,9 @@
 
 #### [3x3x3 Fewest Moves](333fm.md)
 
-<span style="white-space: nowrap;">🏆 [Александр Гилка](../../persons/александр_гилка/333fm.md) 23</span>, <span style="white-space: nowrap;">🥇 [Александр Гилка](../../persons/александр_гилка/333fm.md) 23</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 28</span>, <span style="white-space: nowrap;">🥉 [David Roche](../../persons/david_roche/333fm.md) 30</span>
+<span style="white-space: nowrap;">🏆 [Александр Гилка](../../persons/александр_гилка/333fm.md) 23</span>
+
+<span style="white-space: nowrap;">🥇 [Александр Гилка](../../persons/александр_гилка/333fm.md) 23</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 28</span>, <span style="white-space: nowrap;">🥉 [David Roche](../../persons/david_roche/333fm.md) 30</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Александр Гилка](../../persons/александр_гилка/333fm.md) 50+</span>
 

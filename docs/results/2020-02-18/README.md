@@ -7,7 +7,9 @@
 
 #### [3x3x3](333.md)
 
-<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/333.md) 12.74</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333.md) 14.46</span>, <span style="white-space: nowrap;">🥈 [Chris Wright](../../persons/chris_wright/333.md) 14.97</span>, <span style="white-space: nowrap;">🥉 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 15.23</span>
+<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/333.md) 12.74</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333.md) 14.46</span>, <span style="white-space: nowrap;">🥈 [Chris Wright](../../persons/chris_wright/333.md) 14.97</span>, <span style="white-space: nowrap;">🥉 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 15.23</span>
 
 💥 x 3 = <span style="white-space: nowrap;">[Go-ho Choi](../../persons/go_ho_choi/333.md) <40</span>, <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/333.md) 40+</span>, <span style="white-space: nowrap;">[Chris Wright](../../persons/chris_wright/333.md) 50+</span>
 
@@ -17,7 +19,9 @@
 
 #### [5x5x5](555.md)
 
-<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/555.md) 1:30.42</span>, <span style="white-space: nowrap;">🥇 [Andy Nicholls](../../persons/andy_nicholls/555.md) 1:51.41</span>, <span style="white-space: nowrap;">🥈 [Michael George](../../persons/michael_george/555.md) 2:04.38</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/555.md) 2:08.70</span>
+<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/555.md) 1:30.42</span>
+
+<span style="white-space: nowrap;">🥇 [Andy Nicholls](../../persons/andy_nicholls/555.md) 1:51.41</span>, <span style="white-space: nowrap;">🥈 [Michael George](../../persons/michael_george/555.md) 2:04.38</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/555.md) 2:08.70</span>
 
 💥 x 3 = <span style="white-space: nowrap;">[Go-ho Choi](../../persons/go_ho_choi/555.md) <40</span>, <span style="white-space: nowrap;">[Andy Nicholls](../../persons/andy_nicholls/555.md) 40+</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/555.md) 50+</span>
 
@@ -27,7 +31,9 @@
 
 #### [3x3x3 One-Handed](333oh.md)
 
-<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/333oh.md) 25.73</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333oh.md) 27.32</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) 35.44</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) 37.28</span>
+<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/333oh.md) 25.73</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333oh.md) 27.32</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) 35.44</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) 37.28</span>
 
 💥 x 2 = <span style="white-space: nowrap;">[Go-ho Choi](../../persons/go_ho_choi/333oh.md) <40</span>, <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/333oh.md) 40+</span>
 
@@ -37,7 +43,9 @@
 
 #### [3x3x3 Fewest Moves](333fm.md)
 
-<span style="white-space: nowrap;">🏆 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 26</span>, <span style="white-space: nowrap;">🥇 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 26</span>, <span style="white-space: nowrap;">🥈 [David Roche](../../persons/david_roche/333fm.md) 27</span>, <span style="white-space: nowrap;">🥉 [John Cook](../../persons/john_cook/333fm.md) 55</span>
+<span style="white-space: nowrap;">🏆 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 26</span>
+
+<span style="white-space: nowrap;">🥇 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 26</span>, <span style="white-space: nowrap;">🥈 [David Roche](../../persons/david_roche/333fm.md) 27</span>, <span style="white-space: nowrap;">🥉 [John Cook](../../persons/john_cook/333fm.md) 55</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[David Roche](../../persons/david_roche/333fm.md) 50+</span>
 

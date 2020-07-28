@@ -7,7 +7,9 @@
 
 #### [3x3x3](333.md)
 
-<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/333.md) 13.74</span>, <span style="white-space: nowrap;">🥇 [Chris Wright](../../persons/chris_wright/333.md) 13.94</span>, <span style="white-space: nowrap;">🥈 [Michael George](../../persons/michael_george/333.md) 14.40</span>, <span style="white-space: nowrap;">🥉 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 15.99</span>
+<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/333.md) 13.74</span>
+
+<span style="white-space: nowrap;">🥇 [Chris Wright](../../persons/chris_wright/333.md) 13.94</span>, <span style="white-space: nowrap;">🥈 [Michael George](../../persons/michael_george/333.md) 14.40</span>, <span style="white-space: nowrap;">🥉 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 15.99</span>
 
 💥 x 2 = <span style="white-space: nowrap;">[Chris Wright](../../persons/chris_wright/333.md) 50+</span>, <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/333.md) 40+</span>
 
@@ -17,7 +19,9 @@
 
 #### [2x2x2](222.md)
 
-<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/222.md) 5.07</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/222.md) 5.07</span>, <span style="white-space: nowrap;">🥈 [Yoann Lecoeur](../../persons/yoann_lecoeur/222.md) 6.10</span>, <span style="white-space: nowrap;">🥉 [Jeremy Duehring](../../persons/jeremy_duehring/222.md) 6.85</span>
+<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/222.md) 5.07</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/222.md) 5.07</span>, <span style="white-space: nowrap;">🥈 [Yoann Lecoeur](../../persons/yoann_lecoeur/222.md) 6.10</span>, <span style="white-space: nowrap;">🥉 [Jeremy Duehring](../../persons/jeremy_duehring/222.md) 6.85</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Raimon Schaap](../../persons/raimon_schaap/222.md) 7.18</span>
 
@@ -25,7 +29,9 @@
 
 #### [3x3x3 One-Handed](333oh.md)
 
-<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/333oh.md) 22.57</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333oh.md) 22.57</span>, <span style="white-space: nowrap;">🥈 [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) 34.80</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) 35.11</span>
+<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/333oh.md) 22.57</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333oh.md) 22.57</span>, <span style="white-space: nowrap;">🥈 [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) 34.80</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) 35.11</span>
 
 💥 x 2 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/333oh.md) 40+</span>, <span style="white-space: nowrap;">[Chris Wright](../../persons/chris_wright/333oh.md) 50+</span>
 
@@ -35,7 +41,9 @@
 
 #### [3x3x3 Fewest Moves](333fm.md)
 
-<span style="white-space: nowrap;">🏆 [Александр Гилка](../../persons/александр_гилка/333fm.md) 24</span>, <span style="white-space: nowrap;">🥇 [Александр Гилка](../../persons/александр_гилка/333fm.md) 24</span>, <span style="white-space: nowrap;">🥈 [Ben Coppin](../../persons/ben_coppin/333fm.md) 25</span>, <span style="white-space: nowrap;">🥉 [David Roche](../../persons/david_roche/333fm.md) 26</span>
+<span style="white-space: nowrap;">🏆 [Александр Гилка](../../persons/александр_гилка/333fm.md) 24</span>
+
+<span style="white-space: nowrap;">🥇 [Александр Гилка](../../persons/александр_гилка/333fm.md) 24</span>, <span style="white-space: nowrap;">🥈 [Ben Coppin](../../persons/ben_coppin/333fm.md) 25</span>, <span style="white-space: nowrap;">🥉 [David Roche](../../persons/david_roche/333fm.md) 26</span>
 
 ⚡ x 2 = <span style="white-space: nowrap;">[Ben Coppin](../../persons/ben_coppin/333fm.md) 25</span>, <span style="white-space: nowrap;">[David Roche](../../persons/david_roche/333fm.md) 26</span>
 

@@ -7,7 +7,9 @@
 
 #### [3x3x3](333.md)
 
-<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/333.md) 14.10</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333.md) 15.54</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 18.61</span>, <span style="white-space: nowrap;">🥉 [Thierry Boisivon](../../persons/thierry_boisivon/333.md) 18.75</span>
+<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/333.md) 14.10</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333.md) 15.54</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 18.61</span>, <span style="white-space: nowrap;">🥉 [Thierry Boisivon](../../persons/thierry_boisivon/333.md) 18.75</span>
 
 🔥 x 6 = <span style="white-space: nowrap;">[Raimon Schaap](../../persons/raimon_schaap/333.md) 18.73</span>, <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/333.md) 21.73</span>, <span style="white-space: nowrap;">[Zack Âû Black](../../persons/zack_au_black/333.md) 22.98</span>, <span style="white-space: nowrap;">[Robert Summerfield](../../persons/robert_summerfield/333.md) 28.02</span>, <span style="white-space: nowrap;">[Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) 33.94</span>, <span style="white-space: nowrap;">[Kerrie Jarman](../../persons/kerrie_jarman/333.md) 53.32</span>
 
@@ -15,7 +17,9 @@
 
 #### [2x2x2](222.md)
 
-<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/222.md) 4.76</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/222.md) 4.76</span>, <span style="white-space: nowrap;">🥈 [Jeremy Duehring](../../persons/jeremy_duehring/222.md) 6.10</span>, <span style="white-space: nowrap;">🥉 [Ciro Vignotto](../../persons/ciro_vignotto/222.md) 7.34</span>
+<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/222.md) 4.76</span>
+
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/222.md) 4.76</span>, <span style="white-space: nowrap;">🥈 [Jeremy Duehring](../../persons/jeremy_duehring/222.md) 6.10</span>, <span style="white-space: nowrap;">🥉 [Ciro Vignotto](../../persons/ciro_vignotto/222.md) 7.34</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/222.md) 40+</span>
 
@@ -25,7 +29,9 @@
 
 #### [4x4x4](444.md)
 
-<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/444.md) 49.27</span>, <span style="white-space: nowrap;">🥇 [Ciro Vignotto](../../persons/ciro_vignotto/444.md) 1:04.62</span>, <span style="white-space: nowrap;">🥈 [Jeremy Duehring](../../persons/jeremy_duehring/444.md) 1:08.96</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/444.md) 1:14.08</span>
+<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/444.md) 49.27</span>
+
+<span style="white-space: nowrap;">🥇 [Ciro Vignotto](../../persons/ciro_vignotto/444.md) 1:04.62</span>, <span style="white-space: nowrap;">🥈 [Jeremy Duehring](../../persons/jeremy_duehring/444.md) 1:08.96</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/444.md) 1:14.08</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Go-ho Choi](../../persons/go_ho_choi/444.md) <40</span>
 
@@ -35,7 +41,9 @@
 
 #### [3x3x3 Fewest Moves](333fm.md)
 
-<span style="white-space: nowrap;">🏆 [Александр Гилка](../../persons/александр_гилка/333fm.md) 24</span>, <span style="white-space: nowrap;">🥇 [Александр Гилка](../../persons/александр_гилка/333fm.md) 24</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 31</span>, <span style="white-space: nowrap;">🥉 [David Roche](../../persons/david_roche/333fm.md) 33</span>
+<span style="white-space: nowrap;">🏆 [Александр Гилка](../../persons/александр_гилка/333fm.md) 24</span>
+
+<span style="white-space: nowrap;">🥇 [Александр Гилка](../../persons/александр_гилка/333fm.md) 24</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 31</span>, <span style="white-space: nowrap;">🥉 [David Roche](../../persons/david_roche/333fm.md) 33</span>
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
