@@ -5,65 +5,65 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-#### 3x3x3
+#### [3x3x3](333.md)
 
-🏆 [Shawn Boucké](../../persons/shawn_boucke/333.md), 🥇 [Michael George](../../persons/michael_george/333.md), 🥈 [Chris Wright](../../persons/chris_wright/333.md), 🥉 [Ciro Vignotto](../../persons/ciro_vignotto/333.md)
+<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/333.md) 13.22</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333.md) 14.28</span>, <span style="white-space: nowrap;">🥈 [Chris Wright](../../persons/chris_wright/333.md) 14.51</span>, <span style="white-space: nowrap;">🥉 [Ciro Vignotto](../../persons/ciro_vignotto/333.md) 18.38</span>
 
-🔥 x 6 = [Chris Hardwick](../../persons/chris_hardwick/333.md) 13.42, [Ed Connell](../../persons/ed_connell/333.md) 18.29, [Alex Friedman](../../persons/alex_friedman/333.md) 19.12, [Huy Nguyen](../../persons/huy_nguyen/333.md) 20.72, [Jan Adams-Fielding](../../persons/jan_adams_fielding/333.md) 31.76, [Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) 32.69
+🔥 x 6 = <span style="white-space: nowrap;">[Chris Hardwick](../../persons/chris_hardwick/333.md) 13.42</span>, <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/333.md) 18.29</span>, <span style="white-space: nowrap;">[Alex Friedman](../../persons/alex_friedman/333.md) 19.12</span>, <span style="white-space: nowrap;">[Huy Nguyen](../../persons/huy_nguyen/333.md) 20.72</span>, <span style="white-space: nowrap;">[Jan Adams-Fielding](../../persons/jan_adams_fielding/333.md) 31.76</span>, <span style="white-space: nowrap;">[Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) 32.69</span>
 
-⚡ x 4 = [Chris Hardwick](../../persons/chris_hardwick/333.md) 12.30, [Huy Nguyen](../../persons/huy_nguyen/333.md) 17.19, [Alex Friedman](../../persons/alex_friedman/333.md) 17.57, [Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) 25.79
+⚡ x 4 = <span style="white-space: nowrap;">[Chris Hardwick](../../persons/chris_hardwick/333.md) 12.30</span>, <span style="white-space: nowrap;">[Huy Nguyen](../../persons/huy_nguyen/333.md) 17.19</span>, <span style="white-space: nowrap;">[Alex Friedman](../../persons/alex_friedman/333.md) 17.57</span>, <span style="white-space: nowrap;">[Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) 25.79</span>
 
-#### 2x2x2
+#### [2x2x2](222.md)
 
-🏆 [Michael George](../../persons/michael_george/222.md), 🥇 [Michael George](../../persons/michael_george/222.md), 🥈 [Ciro Vignotto](../../persons/ciro_vignotto/222.md), 🥉 [Thierry Boisivon](../../persons/thierry_boisivon/222.md)
+<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/222.md) 5.25</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/222.md) 5.25</span>, <span style="white-space: nowrap;">🥈 [Ciro Vignotto](../../persons/ciro_vignotto/222.md) 6.66</span>, <span style="white-space: nowrap;">🥉 [Thierry Boisivon](../../persons/thierry_boisivon/222.md) 7.83</span>
 
-💥 x 1 = [Michael George](../../persons/michael_george/222.md) 40+
+💥 x 1 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/222.md) 40+</span>
 
-🔥 x 2 = [Ciro Vignotto](../../persons/ciro_vignotto/222.md) 6.66, [Jang Junho (장준호)](../../persons/jang_junho/222.md) 10.40
+🔥 x 2 = <span style="white-space: nowrap;">[Ciro Vignotto](../../persons/ciro_vignotto/222.md) 6.66</span>, <span style="white-space: nowrap;">[Jang Junho (장준호)](../../persons/jang_junho/222.md) 10.40</span>
 
-⚡ x 4 = [Michael George](../../persons/michael_george/222.md) 3.34, [Thierry Boisivon](../../persons/thierry_boisivon/222.md) 4.47, [Lisa Kucala](../../persons/lisa_kucala/222.md) 7.01, [Jang Junho (장준호)](../../persons/jang_junho/222.md) 9.01
+⚡ x 4 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/222.md) 3.34</span>, <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/222.md) 4.47</span>, <span style="white-space: nowrap;">[Lisa Kucala](../../persons/lisa_kucala/222.md) 7.01</span>, <span style="white-space: nowrap;">[Jang Junho (장준호)](../../persons/jang_junho/222.md) 9.01</span>
 
-#### 4x4x4
+#### [4x4x4](444.md)
 
-🏆 [Shawn Boucké](../../persons/shawn_boucke/444.md), 🥇 [Michael George](../../persons/michael_george/444.md), 🥈 [Ciro Vignotto](../../persons/ciro_vignotto/444.md), 🥉 [Jeremy Duehring](../../persons/jeremy_duehring/444.md)
+<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/444.md) 54.39</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/444.md) 1:00.32</span>, <span style="white-space: nowrap;">🥈 [Ciro Vignotto](../../persons/ciro_vignotto/444.md) 1:03.64</span>, <span style="white-space: nowrap;">🥉 [Jeremy Duehring](../../persons/jeremy_duehring/444.md) 1:13.15</span>
 
-💥 x 1 = [Go-ho Choi](../../persons/go_ho_choi/444.md) <40
+💥 x 1 = <span style="white-space: nowrap;">[Go-ho Choi](../../persons/go_ho_choi/444.md) <40</span>
 
-🔥 x 1 = [Ciro Vignotto](../../persons/ciro_vignotto/444.md) 1:03.64
+🔥 x 1 = <span style="white-space: nowrap;">[Ciro Vignotto](../../persons/ciro_vignotto/444.md) 1:03.64</span>
 
-⚡ x 2 = [Go-ho Choi](../../persons/go_ho_choi/444.md) 42.38, [Thierry Boisivon](../../persons/thierry_boisivon/444.md) 1:12.69
+⚡ x 2 = <span style="white-space: nowrap;">[Go-ho Choi](../../persons/go_ho_choi/444.md) 42.38</span>, <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/444.md) 1:12.69</span>
 
-#### 5x5x5
+#### [5x5x5](555.md)
 
-🏆 [Go-ho Choi](../../persons/go_ho_choi/555.md), 🥇 [Geoff Hartnell](../../persons/geoff_hartnell/555.md), 🥈 [Ciro Vignotto](../../persons/ciro_vignotto/555.md), 🥉 [Aaron Cumes](../../persons/aaron_cumes/555.md)
+<span style="white-space: nowrap;">🏆 [Go-ho Choi](../../persons/go_ho_choi/555.md) 1:31.87</span>, <span style="white-space: nowrap;">🥇 [Geoff Hartnell](../../persons/geoff_hartnell/555.md) 2:06.47</span>, <span style="white-space: nowrap;">🥈 [Ciro Vignotto](../../persons/ciro_vignotto/555.md) 2:26.64</span>, <span style="white-space: nowrap;">🥉 [Aaron Cumes](../../persons/aaron_cumes/555.md) 2:53.15</span>
 
-💥 x 1 = [Go-ho Choi](../../persons/go_ho_choi/555.md) <40
+💥 x 1 = <span style="white-space: nowrap;">[Go-ho Choi](../../persons/go_ho_choi/555.md) <40</span>
 
-🔥 x 1 = [Pete Lee](../../persons/pete_lee/555.md) 2:27.42
+🔥 x 1 = <span style="white-space: nowrap;">[Pete Lee](../../persons/pete_lee/555.md) 2:27.42</span>
 
-⚡ x 3 = [Go-ho Choi](../../persons/go_ho_choi/555.md) 1:16.98, [Pete Lee](../../persons/pete_lee/555.md) 2:01.03, [Ciro Vignotto](../../persons/ciro_vignotto/555.md) 2:08.36
+⚡ x 3 = <span style="white-space: nowrap;">[Go-ho Choi](../../persons/go_ho_choi/555.md) 1:16.98</span>, <span style="white-space: nowrap;">[Pete Lee](../../persons/pete_lee/555.md) 2:01.03</span>, <span style="white-space: nowrap;">[Ciro Vignotto](../../persons/ciro_vignotto/555.md) 2:08.36</span>
 
-#### 3x3x3 One-Handed
+#### [3x3x3 One-Handed](333oh.md)
 
-🏆 [Michael George](../../persons/michael_george/333oh.md), 🥇 [Michael George](../../persons/michael_george/333oh.md), 🥈 [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md), 🥉 [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md)
+<span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/333oh.md) 24.20</span>, <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333oh.md) 24.20</span>, <span style="white-space: nowrap;">🥈 [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) 35.12</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) 35.95</span>
 
-🔥 x 1 = [Alex Friedman](../../persons/alex_friedman/333oh.md) 28.00
+🔥 x 1 = <span style="white-space: nowrap;">[Alex Friedman](../../persons/alex_friedman/333oh.md) 28.00</span>
 
-⚡ x 2 = [Alex Friedman](../../persons/alex_friedman/333oh.md) 23.36, [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) 23.59
+⚡ x 2 = <span style="white-space: nowrap;">[Alex Friedman](../../persons/alex_friedman/333oh.md) 23.36</span>, <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) 23.59</span>
 
-#### 3x3x3 Blindfolded
+#### [3x3x3 Blindfolded](333bf.md)
 
-🏆 [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md), 🥇 [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md)
+<span style="white-space: nowrap;">🏆 [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:11.93</span>, <span style="white-space: nowrap;">🥇 [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:11.93</span>
 
-🔥 x 1 = [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:31.27
+🔥 x 1 = <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:31.27</span>
 
-⚡ x 2 = [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:11.93, [Chris Hardwick](../../persons/chris_hardwick/333bf.md) 2:20.12
+⚡ x 2 = <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) 1:11.93</span>, <span style="white-space: nowrap;">[Chris Hardwick](../../persons/chris_hardwick/333bf.md) 2:20.12</span>
 
-#### 3x3x3 Fewest Moves
+#### [3x3x3 Fewest Moves](333fm.md)
 
-🏆 [Shawn Boucké](../../persons/shawn_boucke/333fm.md), 🥇 [David Roche](../../persons/david_roche/333fm.md), 🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md), 🥉 [Michael George](../../persons/michael_george/333fm.md)
+<span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/333fm.md) 24</span>, <span style="white-space: nowrap;">🥇 [David Roche](../../persons/david_roche/333fm.md) 26</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) 31</span>, <span style="white-space: nowrap;">🥉 [Michael George](../../persons/michael_george/333fm.md) 37</span>
 
-⚡ x 1 = [Shawn Boucké](../../persons/shawn_boucke/333fm.md) 24
+⚡ x 1 = <span style="white-space: nowrap;">[Shawn Boucké](../../persons/shawn_boucke/333fm.md) 24</span>
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
