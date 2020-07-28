@@ -4,6 +4,15 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-07-21](../../results/2020-07-21/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) | 40+ | 25 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/720490528496412/permalink/721909435021188) / [Mobile](https://m.facebook.com/events/720490528496412?view=permalink&id=721909435021188) |
+| 2 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 30 | 🥈 | [Desktop](https://www.facebook.com/events/720490528496412/permalink/721162581762540) / [Mobile](https://m.facebook.com/events/720490528496412?view=permalink&id=721162581762540) |
+| 3 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | 32 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/720490528496412/permalink/724724328073032) / [Mobile](https://m.facebook.com/events/720490528496412?view=permalink&id=724724328073032) |
+| 3 | [Michael George](../../persons/michael_george/333fm.md) | 40+ | 32 | 🥉 | [Desktop](https://www.facebook.com/events/720490528496412/permalink/721779755034156) / [Mobile](https://m.facebook.com/events/720490528496412?view=permalink&id=721779755034156) |
+
 #### [2020-07-14](../../results/2020-07-14/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |

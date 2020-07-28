@@ -4,6 +4,14 @@
 ### Megaminx Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-07-21](../../results/2020-07-21/minx.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:37.18 | 1:52.83 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1842039515939197/permalink/1842207662589049) / [Mobile](https://m.facebook.com/events/1842039515939197?view=permalink&id=1842207662589049) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | 2:35.89 | 2:38.71 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/1842039515939197/permalink/1847689885374160) / [Mobile](https://m.facebook.com/events/1842039515939197?view=permalink&id=1847689885374160) |
+| 3 | [Aaron Cumes](../../persons/aaron_cumes/minx.md) | 40+ | 4:21.38 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/1842039515939197/permalink/1844070282402787) / [Mobile](https://m.facebook.com/events/1842039515939197?view=permalink&id=1844070282402787) |
+
 #### [2020-07-14](../../results/2020-07-14/minx.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

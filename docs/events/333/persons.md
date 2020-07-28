@@ -39,7 +39,7 @@
 | [Daniel Smith](../../persons/daniel_smith/333.md) | 50+ | 20.99 | 25.95 |  |  | 💥 x 2, 🔥 x 5, ⚡ x 8 |
 | [David Burchill](../../persons/david_burchill/333.md) | 50+ | 28.50 | 34.84 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 13.84 | 17.10 |  | 🥈 x 3, 🥉 x 6 | 🔥 x 8, ⚡ x 5 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 13.84 | 17.10 |  | 🥈 x 4, 🥉 x 6 | 🔥 x 8, ⚡ x 5 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | 13.37 | 14.77 |  | 🥈 x 8, 🥉 x 3 | 🔥 x 3, ⚡ x 1 |
 | [Huy Nguyen](../../persons/huy_nguyen/333.md) | 40+ | 17.19 | 20.72 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/333.md) | 40+ | 17.58 | 22.30 |  |  | 🔥 x 5, ⚡ x 4 |
@@ -53,22 +53,22 @@
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/333.md) | 40+ | 38.26 | 40.14 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Kerrie Jarman](../../persons/kerrie_jarman/333.md) | 40+ | 41.01 | 48.20 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | 23.79 | 27.36 |  |  | 🔥 x 4, ⚡ x 5 |
-| [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | 36.28 | 41.21 |  |  | 🔥 x 4, ⚡ x 4 |
+| [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | 33.41 | 39.68 |  |  | 🔥 x 5, ⚡ x 5 |
 | [Mark Charlesworth](../../persons/mark_charlesworth/333.md) | 40+ | 27.78 | 30.02 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Markus Niederöst](../../persons/markus_niederost/333.md) | 50+ | 19.98 | 23.61 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Michael George](../../persons/michael_george/333.md) | 40+ | 11.64 | 13.44 | 🏆 x 6 | 🥇 x 19, 🥈 x 4 | 💥 x 6, 🔥 x 6, ⚡ x 3 |
+| [Michael George](../../persons/michael_george/333.md) | 40+ | 11.64 | 13.44 | 🏆 x 7 | 🥇 x 20, 🥈 x 4 | 💥 x 6, 🔥 x 6, ⚡ x 3 |
 | [Michael Policastro](../../persons/michael_policastro/333.md) | 40+ | 34.15 | 35.24 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/333.md) | 50+ | 20.85 | 24.84 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/333.md) | 50+ | 31.12 | 35.25 |  |  | 🔥 x 5, ⚡ x 3 |
 | [Pontus Uggla](../../persons/pontus_uggla/333.md) | 40+ | 18.25 | 20.09 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/333.md) | 40+ | 15.73 | 19.60 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Rob Peters](../../persons/rob_peters/333.md) | 40+ | 16.76 | 19.00 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Rob Peters](../../persons/rob_peters/333.md) | 40+ | 16.38 | 18.35 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Robert Summerfield](../../persons/robert_summerfield/333.md) | 50+ | 20.77 | 24.27 |  |  | 🔥 x 8, ⚡ x 6 |
 | [Stuart Salmon](../../persons/stuart_salmon/333.md) | 40+ | 22.76 | 32.89 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333.md) | 40+ | 13.85 | 15.44 |  | 🥇 x 1, 🥈 x 2, 🥉 x 4 | 🔥 x 3, ⚡ x 6 |
 | [Timothy Salay](../../persons/timothy_salay/333.md) | 40+ | 24.45 | 31.22 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333.md) | 40+ | 21.40 | 22.41 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | 17.85 | 35.69 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | 17.85 | 24.66 |  |  | 🔥 x 2, ⚡ x 1 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333.md) | 40+ | 16.76 | 21.05 |  |  | 🔥 x 1, ⚡ x 3 |
 
 #### Under 40
@@ -99,6 +99,7 @@
 | [Joshua Riegel](../../persons/joshua_riegel/333.md) | <30 | 25.44 | 28.24 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Peyton Blevins](../../persons/peyton_blevins/333.md) | <30 | 28.16 | 30.48 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Raimon Schaap](../../persons/raimon_schaap/333.md) | <30 | 13.58 | 15.99 |  |  | 🔥 x 5, ⚡ x 4 |
+| [Scott Knight](../../persons/scott_knight/333.md) | <30 | 29.36 | 31.02 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Tom Doolinski](../../persons/tom_doolinski/333.md) | <30 | 13.48 | 14.99 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 #### Under 20

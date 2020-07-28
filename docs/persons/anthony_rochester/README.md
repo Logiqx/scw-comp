@@ -10,7 +10,7 @@
 | [3x3x3](333.md) | 18.14 | 22.82 |  |  | 🔥 x 2, ⚡ x 3 |
 | [2x2x2](222.md) | 3.34 | 6.72 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
 | [4x4x4](444.md) | 1:23.57 | 1:32.65 |  |  | 🔥 x 1, ⚡ x 1 |
-| [3x3x3 BLD](333bf.md) | 1:07.73 | - | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | ⚡ x 2 |
+| [3x3x3 BLD](333bf.md) | 1:07.73 | - | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 2 | ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

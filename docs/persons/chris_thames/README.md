@@ -13,7 +13,7 @@
 | [5x5x5](555.md) | 4:59.21 | - | ⚡ x 3 |
 | [3x3x3 OH](333oh.md) | 1:20.83 | 1:27.80 | 🔥 x 4, ⚡ x 3 |
 | [Megaminx](minx.md) | 6:02.13 | - | ⚡ x 1 |
-| [Pyraminx](pyram.md) | 12.64 | 18.36 | 🔥 x 3, ⚡ x 3 |
+| [Pyraminx](pyram.md) | 9.89 | 18.36 | 🔥 x 3, ⚡ x 4 |
 | [Skewb](skewb.md) | 9.60 | 19.07 | 🔥 x 3, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

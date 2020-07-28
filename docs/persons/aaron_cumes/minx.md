@@ -8,6 +8,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-07-21](../../results/2020-07-21/minx.md) | 40+ | 4:21.38 | DNF | 🥉 | 4:21.38 | DNS | DNS | DNS | DNS | [Desktop](https://www.facebook.com/events/1842039515939197/permalink/1844070282402787) / [Mobile](https://m.facebook.com/events/1842039515939197?view=permalink&id=1844070282402787) |
 | [2020-06-16](../../results/2020-06-16/minx.md) | 40+ | **3:52.70** | DNF | 🥉 ⚡ | **3:52.70** | DNS | DNS | DNS | DNS | [Desktop](https://www.facebook.com/events/604103587178706/permalink/604969967092068) / [Mobile](https://m.facebook.com/events/604103587178706?view=permalink&id=604969967092068) |
 | [2020-06-09](../../results/2020-06-09/minx.md) | 40+ | 4:50.67 | DNF | 🥉 | 4:50.67 | DNS | DNS | DNS | DNS | [Desktop](https://www.facebook.com/events/903549840109576/permalink/903679113429982) / [Mobile](https://m.facebook.com/events/903549840109576?view=permalink&id=903679113429982) |
 | [2020-06-02](../../results/2020-06-02/minx.md) | 40+ | 4:39.94 | DNF | 🥉 | 4:39.94 | DNS | DNS | DNS | DNS | [Desktop](https://www.facebook.com/events/3373950429496747/permalink/3380188232206300) / [Mobile](https://m.facebook.com/events/3373950429496747?view=permalink&id=3380188232206300) |

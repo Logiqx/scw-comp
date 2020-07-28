@@ -4,6 +4,14 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-07-21](../../results/2020-07-21/clock.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.44 | 14.91 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/560843031255896/permalink/564261080914091) / [Mobile](https://m.facebook.com/events/560843031255896?view=permalink&id=564261080914091) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 18.96 | 22.19 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/560843031255896/permalink/563903597616506) / [Mobile](https://m.facebook.com/events/560843031255896?view=permalink&id=563903597616506) |
+| 3 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/clock.md) | 40+ | 50.04 | 51.52 | 🥉 | [Desktop](https://www.facebook.com/events/560843031255896/permalink/564524470887752) / [Mobile](https://m.facebook.com/events/560843031255896?view=permalink&id=564524470887752) |
+
 #### [2020-07-14](../../results/2020-07-14/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

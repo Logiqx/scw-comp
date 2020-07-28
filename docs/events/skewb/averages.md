@@ -9,7 +9,7 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Michael George](../../persons/michael_george/skewb.md) | [2020-06-16](../../results/2020-06-16/skewb.md) | 40+ | 8.16 | 🏆 x 2 | 🥇 x 4 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/events/296087658445428/permalink/296272458426948) / [Mobile](https://m.facebook.com/events/296087658445428?view=permalink&id=296272458426948) |
+| 1 | [Michael George](../../persons/michael_george/skewb.md) | [2020-06-16](../../results/2020-06-16/skewb.md) | 40+ | 8.16 | 🏆 x 3 | 🥇 x 5 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/events/296087658445428/permalink/296272458426948) / [Mobile](https://m.facebook.com/events/296087658445428?view=permalink&id=296272458426948) |
 | 2 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | [2020-06-16](../../results/2020-06-16/skewb.md) | 40+ | 10.46 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/296087658445428/permalink/297667538287440) / [Mobile](https://m.facebook.com/events/296087658445428?view=permalink&id=297667538287440) |
 | 3 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | 40+ | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/jeremy.duehring/videos/10160203751947846) / [Mobile](https://m.facebook.com/jeremy.duehring/videos/10160203751947846) |
 

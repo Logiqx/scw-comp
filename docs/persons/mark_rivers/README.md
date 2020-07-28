@@ -7,7 +7,7 @@
 
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
-| [3x3x3 FMC](333fm.md) | 33 | - | 🥈 x 2, 🥉 x 2 | ⚡ x 2 |
+| [3x3x3 FMC](333fm.md) | 32 | - | 🥈 x 2, 🥉 x 3 | ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

@@ -19,16 +19,16 @@
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
 | [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | 3.68 | 7.65 |  | 🥈 x 1, 🥉 x 2 | 💥 x 2, 🔥 x 3, ⚡ x 5 |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 3.89 | 8.14 |  | 🥉 x 4 | 💥 x 1, 🔥 x 3, ⚡ x 6 |
+| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 3.89 | 7.57 |  | 🥈 x 1, 🥉 x 4 | 💥 x 1, 🔥 x 4, ⚡ x 6 |
 | [Markus Niederöst](../../persons/markus_niederost/222.md) | 50+ | 7.80 | 9.63 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Peter Andersson](../../persons/peter_andersson/222.md) | 50+ | 6.96 | 9.38 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Peter Andersson](../../persons/peter_andersson/222.md) | 50+ | 6.82 | 9.38 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/222.md) | 50+ | 6.53 | 10.79 |  |  | 🔥 x 2, ⚡ x 2 |
 
 #### Over 40
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Aaron Cumes](../../persons/aaron_cumes/222.md) | 40+ | 6.09 | 8.12 |  |  | 🔥 x 5, ⚡ x 6 |
+| [Aaron Cumes](../../persons/aaron_cumes/222.md) | 40+ | 6.09 | 7.67 |  | 🥉 x 1 | 🔥 x 6, ⚡ x 6 |
 | [Andy Nicholls](../../persons/andy_nicholls/222.md) | 40+ | 4.01 | 6.35 |  | 🥇 x 1, 🥈 x 3, 🥉 x 1 | 🔥 x 4, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | 3.34 | 6.72 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | 4.39 | 5.17 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
@@ -42,10 +42,10 @@
 | [Jang Junho (장준호)](../../persons/jang_junho/222.md) | 40+ | 9.01 | 10.40 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/222.md) | 40+ | 3.44 | 6.09 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
 | [Jo Cocco](../../persons/jo_cocco/222.md) | 40+ | 10.83 | 14.12 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 3.89 | 8.14 |  | 🥉 x 4 | 💥 x 1, 🔥 x 3, ⚡ x 6 |
+| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 3.89 | 7.57 |  | 🥈 x 1, 🥉 x 4 | 💥 x 1, 🔥 x 4, ⚡ x 6 |
 | [Markus Niederöst](../../persons/markus_niederost/222.md) | 50+ | 7.80 | 9.63 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Michael George](../../persons/michael_george/222.md) | 40+ | 3.20 | 4.40 | 🏆 x 14 | 🥇 x 17 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
-| [Peter Andersson](../../persons/peter_andersson/222.md) | 50+ | 6.96 | 9.38 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Michael George](../../persons/michael_george/222.md) | 40+ | 3.20 | 4.40 | 🏆 x 15 | 🥇 x 18 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
+| [Peter Andersson](../../persons/peter_andersson/222.md) | 50+ | 6.82 | 9.38 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/222.md) | 50+ | 6.53 | 10.79 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Stuart Salmon](../../persons/stuart_salmon/222.md) | 40+ | 8.07 | 12.10 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/222.md) | 40+ | 3.18 | 6.10 |  | 🥈 x 3, 🥉 x 5 | 💥 x 1, 🔥 x 3, ⚡ x 5 |
@@ -61,7 +61,7 @@
 | [Chris Thames](../../persons/chris_thames/222.md) | <40 | 4.11 | 8.03 |  |  | 🔥 x 4, ⚡ x 3 |
 | [Ed Connell](../../persons/ed_connell/222.md) | <40 | 2.74 | 5.73 | 🏆 x 1 |  | 💥 x 1, 🔥 x 4, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/222.md) | <40 | 3.50 | 4.50 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Matthew Hart](../../persons/matthew_hart/222.md) | <40 | 11.88 | 15.72 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Matthew Hart](../../persons/matthew_hart/222.md) | <40 | 9.59 | 14.60 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Pete Lee](../../persons/pete_lee/222.md) | <40 | 4.68 | 7.24 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Peter Osudar](../../persons/peter_osudar/222.md) | <40 | 7.21 | 9.40 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Phil Yu](../../persons/phil_yu/222.md) | <40 | 2.87 | 4.25 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
@@ -73,6 +73,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Joshua Riegel](../../persons/joshua_riegel/222.md) | <30 | 3.85 | 9.71 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Raimon Schaap](../../persons/raimon_schaap/222.md) | <30 | 4.63 | 7.18 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Scott Knight](../../persons/scott_knight/222.md) | <30 | 8.70 | 10.34 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 20
 
