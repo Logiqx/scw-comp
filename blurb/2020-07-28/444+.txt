@@ -1,0 +1,3 @@
+This competition includes 4x4x4, 5x5x5, 6x6x6 and 7x7x7.
+
+Full instructions - https://logiqx.github.io/scw-comp/rules/444+.html

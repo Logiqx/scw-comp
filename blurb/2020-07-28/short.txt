@@ -1,0 +1,3 @@
+This competition includes Pyraminx, Skewb, Square-1 and Clock.
+
+Full instructions - https://logiqx.github.io/scw-comp/rules/short.html

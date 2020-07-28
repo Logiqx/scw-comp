@@ -1,0 +1,3 @@
+This competition is for 3x3x3 Fewest Moves.
+
+Full instructions - https://logiqx.github.io/scw-comp/rules/fmc.html
