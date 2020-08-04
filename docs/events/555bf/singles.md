@@ -16,7 +16,7 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Chris Hardwick](../../persons/chris_hardwick/555bf.md) | [2020-05-12](../../results/2020-05-12/555bf.md) | <40 | 13:18.63 | 🏆 x 4 |  | 💥 x 2, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/367340484222677/permalink/369728393983886) / [Mobile](https://m.facebook.com/events/367340484222677?view=permalink&id=369728393983886) |
+| 1 | [Chris Hardwick](../../persons/chris_hardwick/555bf.md) | [2020-07-28](../../results/2020-07-28/555bf.md) | <40 | 11:58.53 | 🏆 x 5 |  | 💥 x 3, 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/319204229264839/permalink/320492622469333) / [Mobile](https://m.facebook.com/events/319204229264839?view=permalink&id=320492622469333) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

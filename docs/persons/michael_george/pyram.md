@@ -8,6 +8,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-07-28](../../results/2020-07-28/pyram.md) | 40+ | 4.60 | **5.56** | 🏆 🥇 💥 🔥 | 5.85 | 5.56 | 5.26 | 4.60 | 6.66 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214080089276595) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214080089276595) |
 | [2020-07-21](../../results/2020-07-21/pyram.md) | 40+ | 6.51 | 6.99 | 🏆 🥇 | 6.51 | 9.72 | 6.93 | 6.64 | 7.41 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214011713407241) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214011713407241) |
 | [2020-07-07](../../results/2020-07-07/pyram.md) | 40+ | 5.87 | 6.22 | 🏆 🥇 | 6.37 | 5.94 | 5.87 | 7.21 | 6.34 | [Desktop](https://www.facebook.com/michael.george.545/videos/10213958025625080) / [Mobile](https://m.facebook.com/michael.george.545/videos/10213958025625080) |
 | [2020-06-30](../../results/2020-06-30/pyram.md) | 40+ | 6.29 | 6.83 | 🏆 🥇 | 6.52 | 6.29 | 9.26 | 6.64 | 7.32 | [Desktop](https://www.facebook.com/events/1716512181834525/permalink/1717720541713689) / [Mobile](https://m.facebook.com/events/1716512181834525?view=permalink&id=1717720541713689) |

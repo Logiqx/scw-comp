@@ -7,8 +7,8 @@
 
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
-| [3x3x3](333.md) | 16.38 | 18.35 | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [4x4x4](444.md) | 53.64 | 1:05.35 | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
+| [3x3x3](333.md) | 15.00 | 16.58 | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
+| [4x4x4](444.md) | 53.64 | 1:05.35 | 🥈 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

@@ -15,8 +15,8 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | [2020-06-30](../../results/2020-06-30/666.md) | 40+ | 3:35.12 | 🏆 x 10 | 🥇 x 11, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 4 | [Desktop](https://www.facebook.com/events/284746466306313/permalink/285158502931776) / [Mobile](https://m.facebook.com/events/284746466306313?view=permalink&id=285158502931776) |
-| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | [2020-06-16](../../results/2020-06-16/666.md) | 40+ | 3:54.60 | 🏆 x 1 | 🥇 x 1, 🥈 x 10, 🥉 x 1 | 🔥 x 3, ⚡ x 2 | [Desktop](https://www.facebook.com/events/256188575607890/permalink/257143898845691) / [Mobile](https://m.facebook.com/events/256188575607890?view=permalink&id=257143898845691) |
+| 1 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | [2020-06-30](../../results/2020-06-30/666.md) | 40+ | 3:35.12 | 🏆 x 11 | 🥇 x 12, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 4 | [Desktop](https://www.facebook.com/events/284746466306313/permalink/285158502931776) / [Mobile](https://m.facebook.com/events/284746466306313?view=permalink&id=285158502931776) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | [2020-06-16](../../results/2020-06-16/666.md) | 40+ | 3:54.60 | 🏆 x 1 | 🥇 x 1, 🥈 x 11, 🥉 x 1 | 🔥 x 3, ⚡ x 2 | [Desktop](https://www.facebook.com/events/256188575607890/permalink/257143898845691) / [Mobile](https://m.facebook.com/events/256188575607890?view=permalink&id=257143898845691) |
 | 3 | [Daniel Smith](../../persons/daniel_smith/666.md) | [2020-05-05](../../results/2020-05-05/666.md) | 50+ | 5:54.57 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/557526585195168/permalink/562187611395732) / [Mobile](https://m.facebook.com/events/557526585195168?view=permalink&id=562187611395732) |
 
 #### Under 40
@@ -24,7 +24,8 @@
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | [2020-07-14](../../results/2020-07-14/666.md) | <40 | 2:40.63 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/2729568740635198/permalink/2730916483833757) / [Mobile](https://m.facebook.com/events/2729568740635198?view=permalink&id=2730916483833757) |
-| 2 | [Peter Osudar](../../persons/peter_osudar/666.md) | [2020-06-23](../../results/2020-06-23/666.md) | <40 | 4:43.11 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/268636114456043/permalink/276193687033619) / [Mobile](https://m.facebook.com/events/268636114456043?view=permalink&id=276193687033619) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | [2020-07-28](../../results/2020-07-28/666.md) | <40 | 3:53.20 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/299658408049797/permalink/303432914339013) / [Mobile](https://m.facebook.com/events/299658408049797?view=permalink&id=303432914339013) |
+| 3 | [Peter Osudar](../../persons/peter_osudar/666.md) | [2020-06-23](../../results/2020-06-23/666.md) | <40 | 4:43.11 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/268636114456043/permalink/276193687033619) / [Mobile](https://m.facebook.com/events/268636114456043?view=permalink&id=276193687033619) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

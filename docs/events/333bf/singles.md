@@ -16,9 +16,9 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Jae Park](../../persons/jae_park/333bf.md) | [2020-06-23](../../results/2020-06-23/333bf.md) | 40+ | 46.90 | 🏆 x 15 | 🥇 x 16 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/events/850175445522887/permalink/852285558645209) / [Mobile](https://m.facebook.com/events/850175445522887?view=permalink&id=852285558645209) |
-| 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | [2020-04-07](../../results/2020-04-07/333bf.md) | 40+ | 1:04.30 |  | 🥈 x 3 | ⚡ x 2 | [Desktop](https://www.facebook.com/events/258196271885699/permalink/262125944826065) / [Mobile](https://m.facebook.com/events/258196271885699?view=permalink&id=262125944826065) |
-| 3 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | [2020-05-05](../../results/2020-05-05/333bf.md) | 40+ | 1:07.73 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 2 | ⚡ x 2 | [Desktop](https://www.facebook.com/events/2624652641189887/permalink/2625346837787134) / [Mobile](https://m.facebook.com/events/2624652641189887?view=permalink&id=2625346837787134) |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | [2020-06-23](../../results/2020-06-23/333bf.md) | 40+ | 46.90 | 🏆 x 16 | 🥇 x 17 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/events/850175445522887/permalink/852285558645209) / [Mobile](https://m.facebook.com/events/850175445522887?view=permalink&id=852285558645209) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | [2020-07-28](../../results/2020-07-28/333bf.md) | 40+ | 55.88 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 2 | ⚡ x 3 | [Desktop](https://www.facebook.com/events/319204229264839/permalink/323398642178731) / [Mobile](https://m.facebook.com/events/319204229264839?view=permalink&id=323398642178731) |
+| 3 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | [2020-04-07](../../results/2020-04-07/333bf.md) | 40+ | 1:04.30 |  | 🥈 x 3, 🥉 x 1 | ⚡ x 2 | [Desktop](https://www.facebook.com/events/258196271885699/permalink/262125944826065) / [Mobile](https://m.facebook.com/events/258196271885699?view=permalink&id=262125944826065) |
 | 4 | [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | [2020-04-21](../../results/2020-04-21/333bf.md) | 40+ | 1:11.93 | 🏆 x 2 | 🥇 x 2, 🥈 x 9, 🥉 x 4 | 🔥 x 3, ⚡ x 2 | [Desktop](https://www.facebook.com/events/1312095715657208/permalink/1316281738571939) / [Mobile](https://m.facebook.com/events/1312095715657208?view=permalink&id=1316281738571939) |
 | 5 | [Mark Adams](../../persons/mark_adams/333bf.md) | [2020-02-11](../../results/2020-02-11/333bf.md) | 40+ | 1:46.60 |  | 🥉 x 1 | ⚡ x 1 | [Desktop](https://www.facebook.com/events/173728187264773/permalink/176409236996668) / [Mobile](https://m.facebook.com/events/173728187264773?view=permalink&id=176409236996668) |
 | 6 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | [2020-04-14](../../results/2020-04-14/333bf.md) | 40+ | 1:49.46 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 3 | [Desktop](https://www.facebook.com/events/232067087873656/permalink/233219761091722) / [Mobile](https://m.facebook.com/events/232067087873656?view=permalink&id=233219761091722) |
@@ -41,7 +41,7 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Joshua Riegel](../../persons/joshua_riegel/333bf.md) | [2020-07-14](../../results/2020-07-14/333bf.md) | <30 | 2:41.76 |  |  | ⚡ x 4 | [Desktop](https://www.facebook.com/events/2796452740585923/permalink/2800577833506747) / [Mobile](https://m.facebook.com/events/2796452740585923?view=permalink&id=2800577833506747) |
+| 1 | [Joshua Riegel](../../persons/joshua_riegel/333bf.md) | [2020-07-14](../../results/2020-07-14/333bf.md) | <30 | 2:41.76 |  |  | 🔥 x 1, ⚡ x 4 | [Desktop](https://www.facebook.com/events/2796452740585923/permalink/2800577833506747) / [Mobile](https://m.facebook.com/events/2796452740585923?view=permalink&id=2800577833506747) |
 
 #### Under 20
 

@@ -4,6 +4,14 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-07-28](../../results/2020-07-28/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | 40+ | 54.78 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/319204229264839/permalink/322713965580532) / [Mobile](https://m.facebook.com/events/319204229264839?view=permalink&id=322713965580532) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | 55.88 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/319204229264839/permalink/323398642178731) / [Mobile](https://m.facebook.com/events/319204229264839?view=permalink&id=323398642178731) |
+| 3 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | 1:04.61 | DNF | 🥉 | [Desktop](https://www.facebook.com/grzegorz.pacewicz/videos/3295962327116785) / [Mobile](https://m.facebook.com/grzegorz.pacewicz/videos/3295962327116785) |
+
 #### [2020-07-21](../../results/2020-07-21/333bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

@@ -15,7 +15,7 @@
 | [7x7x7](777.md) | 8:36.39 | - | 🥉 x 5 | ⚡ x 3 |
 | [3x3x3 OH](333oh.md) | 1:01.02 | 1:17.51 |  | 🔥 x 7, ⚡ x 8 |
 | [Megaminx](minx.md) | 3:52.70 | - | 🥉 x 4 | ⚡ x 2 |
-| [Pyraminx](pyram.md) | 32.05 | 49.45 |  | 🔥 x 1, ⚡ x 1 |
+| [Pyraminx](pyram.md) | 13.09 | 13.95 | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

@@ -10,7 +10,7 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | 40+ | 4.15 | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Michael George](../../persons/michael_george/skewb.md) | 40+ | 2.78 | 8.16 | 🏆 x 3 | 🥇 x 5 | 💥 x 2, 🔥 x 1, ⚡ x 2 |
+| [Michael George](../../persons/michael_george/skewb.md) | 40+ | 2.78 | 7.97 | 🏆 x 4 | 🥇 x 6 | 💥 x 3, 🔥 x 2, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | 40+ | 7.77 | 10.46 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40
