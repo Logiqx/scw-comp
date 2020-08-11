@@ -8,14 +8,14 @@
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
 | [3x3x3](333.md) | 15.39 | 19.04 |  | 🔥 x 6, ⚡ x 4 |
-| [2x2x2](222.md) | 6.09 | 7.67 | 🥉 x 1 | 🔥 x 6, ⚡ x 6 |
+| [2x2x2](222.md) | 6.09 | 7.63 | 🥉 x 1 | 🔥 x 7, ⚡ x 6 |
 | [4x4x4](444.md) | 1:02.34 | 1:13.17 | 🥉 x 2 | 🔥 x 8, ⚡ x 6 |
 | [5x5x5](555.md) | 2:28.62 | 2:39.68 | 🥉 x 2 | 🔥 x 3, ⚡ x 2 |
 | [6x6x6](666.md) | 5:00.57 | - | 🥉 x 4 | ⚡ x 3 |
 | [7x7x7](777.md) | 8:36.39 | - | 🥉 x 5 | ⚡ x 3 |
 | [3x3x3 OH](333oh.md) | 1:01.02 | 1:17.51 |  | 🔥 x 7, ⚡ x 8 |
 | [Megaminx](minx.md) | 3:52.70 | - | 🥉 x 4 | ⚡ x 2 |
-| [Pyraminx](pyram.md) | 13.09 | 13.95 | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
+| [Pyraminx](pyram.md) | 12.36 | 13.95 | 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

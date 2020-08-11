@@ -4,6 +4,14 @@
 ### 3x3x3 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-04](../../results/2020-08-04/333.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael George](../../persons/michael_george/333.md) | 40+ | 13.70 | 15.57 | 🥇 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214116381383875) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214116381383875) |
+| 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333.md) | 40+ | 15.11 | 17.37 | 🥈 | [Desktop](https://www.facebook.com/events/748440219235440/permalink/749239179155544) / [Mobile](https://m.facebook.com/events/748440219235440?view=permalink&id=749239179155544) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 15.58 | 18.45 | 🥉 | [Desktop](https://www.facebook.com/events/748440219235440/permalink/751521218927340) / [Mobile](https://m.facebook.com/events/748440219235440?view=permalink&id=751521218927340) |
+
 #### [2020-07-28](../../results/2020-07-28/333.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

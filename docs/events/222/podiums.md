@@ -4,6 +4,14 @@
 ### 2x2x2 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-04](../../results/2020-08-04/222.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael George](../../persons/michael_george/222.md) | 40+ | 4.56 | 5.31 | 🏆 🥇 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214116364103443) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214116364103443) |
+| 2 | [Thierry Boisivon](../../persons/thierry_boisivon/222.md) | 40+ | 5.92 | 6.69 | 🥈 | [Desktop](https://www.facebook.com/events/748440219235440/permalink/749239265822202) / [Mobile](https://m.facebook.com/events/748440219235440?view=permalink&id=749239265822202) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | 5.99 | 7.04 | 🥉 | [Desktop](https://www.facebook.com/events/748440219235440/permalink/750112302401565) / [Mobile](https://m.facebook.com/events/748440219235440?view=permalink&id=750112302401565) |
+
 #### [2020-07-28](../../results/2020-07-28/222.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

@@ -26,7 +26,7 @@
 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | 40+ | 3:27.31 | 3:35.12 | 🏆 x 11 | 🥇 x 12, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 4 |
 | [Daniel Smith](../../persons/daniel_smith/666.md) | 50+ | 5:28.23 | 5:54.57 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/666.md) | 60+ | 12:04.43 | DNF |  |  | 💥 x 3, ⚡ x 3 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | 3:44.19 | 3:54.60 | 🏆 x 1 | 🥇 x 1, 🥈 x 11, 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | 3:36.08 | 3:45.49 | 🏆 x 2 | 🥇 x 2, 🥈 x 11, 🥉 x 1 | 🔥 x 4, ⚡ x 3 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/666.md) | 40+ | 5:06.63 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 | [Michael George](../../persons/michael_george/666.md) | 40+ | 4:37.39 | DNF |  | 🥉 x 4 | ⚡ x 7 |
 

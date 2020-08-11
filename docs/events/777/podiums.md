@@ -4,6 +4,12 @@
 ### 7x7x7 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-04](../../results/2020-08-04/777.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 6:21.80 | 6:29.38 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/770016233779888/permalink/770774767037368) / [Mobile](https://m.facebook.com/events/770016233779888?view=permalink&id=770774767037368) |
+
 #### [2020-07-28](../../results/2020-07-28/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

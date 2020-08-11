@@ -4,6 +4,12 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-04](../../results/2020-08-04/clock.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/clock.md) | 40+ | 32.81 | 39.96 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1546469592197852/permalink/1552721968239281) / [Mobile](https://m.facebook.com/events/1546469592197852?view=permalink&id=1552721968239281) |
+
 #### [2020-07-28](../../results/2020-07-28/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

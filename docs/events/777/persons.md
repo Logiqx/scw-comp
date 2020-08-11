@@ -24,7 +24,7 @@
 | [Aaron Cumes](../../persons/aaron_cumes/777.md) | 40+ | 8:36.39 | DNF |  | 🥉 x 5 | ⚡ x 3 |
 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | 40+ | 4:58.23 | 5:24.33 | 🏆 x 12 | 🥇 x 12, 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | 15:59.23 | DNF |  | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 5:25.71 | 5:37.68 | 🏆 x 1 | 🥇 x 1, 🥈 x 12 | 🔥 x 3, ⚡ x 4 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 5:25.71 | 5:37.68 | 🏆 x 2 | 🥇 x 2, 🥈 x 12 | 🔥 x 3, ⚡ x 4 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/777.md) | 40+ | 8:08.23 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 
 #### Under 40

@@ -9,13 +9,13 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2020-07-14](../../results/2020-07-14/sq1.md) | 50+ | 28.83 | 🏆 x 7 | 🥇 x 7 | 💥 x 2, 🔥 x 2, ⚡ x 1 | [Desktop](https://www.facebook.com/events/413064016333950/permalink/416744259299259) / [Mobile](https://m.facebook.com/events/413064016333950?view=permalink&id=416744259299259) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2020-08-04](../../results/2020-08-04/sq1.md) | 50+ | 26.95 | 🏆 x 8 | 🥇 x 8 | 💥 x 3, 🔥 x 3, ⚡ x 2 | [Desktop](https://www.facebook.com/events/1546469592197852/permalink/1551920904986054) / [Mobile](https://m.facebook.com/events/1546469592197852?view=permalink&id=1551920904986054) |
 
 #### Over 40
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2020-07-14](../../results/2020-07-14/sq1.md) | 50+ | 28.83 | 🏆 x 7 | 🥇 x 7 | 💥 x 2, 🔥 x 2, ⚡ x 1 | [Desktop](https://www.facebook.com/events/413064016333950/permalink/416744259299259) / [Mobile](https://m.facebook.com/events/413064016333950?view=permalink&id=416744259299259) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2020-08-04](../../results/2020-08-04/sq1.md) | 50+ | 26.95 | 🏆 x 8 | 🥇 x 8 | 💥 x 3, 🔥 x 3, ⚡ x 2 | [Desktop](https://www.facebook.com/events/1546469592197852/permalink/1551920904986054) / [Mobile](https://m.facebook.com/events/1546469592197852?view=permalink&id=1551920904986054) |
 | 2 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | [2020-07-14](../../results/2020-07-14/sq1.md) | 40+ | 49.65 |  | 🥈 x 6 | 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/413064016333950/permalink/415320132775005) / [Mobile](https://m.facebook.com/events/413064016333950?view=permalink&id=415320132775005) |
 | 3 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | [2020-06-16](../../results/2020-06-16/sq1.md) | 40+ | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/296087658445428/permalink/298743144846546) / [Mobile](https://m.facebook.com/events/296087658445428?view=permalink&id=298743144846546) |
 
@@ -23,7 +23,7 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Ed Connell](../../persons/ed_connell/sq1.md) | [2020-07-21](../../results/2020-07-21/sq1.md) | <40 | 38.62 |  |  | 💥 x 1, 🔥 x 3, ⚡ x 4 | [Desktop](https://www.facebook.com/events/560843031255896/permalink/563251044348428) / [Mobile](https://m.facebook.com/events/560843031255896?view=permalink&id=563251044348428) |
+| 1 | [Ed Connell](../../persons/ed_connell/sq1.md) | [2020-08-04](../../results/2020-08-04/sq1.md) | <40 | 36.33 |  |  | 💥 x 1, 🔥 x 4, ⚡ x 4 | [Desktop](https://www.facebook.com/events/1546469592197852/permalink/1550671401777671) / [Mobile](https://m.facebook.com/events/1546469592197852?view=permalink&id=1550671401777671) |
 | 2 | [Peter Osudar](../../persons/peter_osudar/sq1.md) | [2020-06-30](../../results/2020-06-30/sq1.md) | <40 | 1:03.67 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1716512181834525/permalink/1716712041814539) / [Mobile](https://m.facebook.com/events/1716512181834525?view=permalink&id=1716712041814539) |
 
 

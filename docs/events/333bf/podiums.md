@@ -4,6 +4,13 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-04](../../results/2020-08-04/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | 40+ | 1:36.75 | 1:45.52 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/334004550950225/permalink/334547280895952) / [Mobile](https://m.facebook.com/events/334004550950225?view=permalink&id=334547280895952) |
+| 2 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | 2:20.04 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/334004550950225/permalink/338390607178286) / [Mobile](https://m.facebook.com/events/334004550950225?view=permalink&id=338390607178286) |
+
 #### [2020-07-28](../../results/2020-07-28/333bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

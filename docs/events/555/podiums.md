@@ -4,6 +4,14 @@
 ### 5x5x5 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-04](../../results/2020-08-04/555.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | 1:57.63 | 2:01.11 | 🥇 | [Desktop](https://www.facebook.com/events/770016233779888/permalink/772249213556590) / [Mobile](https://m.facebook.com/events/770016233779888?view=permalink&id=772249213556590) |
+| 2 | [Michael George](../../persons/michael_george/555.md) | 40+ | 1:53.93 | 2:09.61 | 🥈 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214123849170565) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214123849170565) |
+| 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | 2:35.22 | 2:39.63 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/770016233779888/permalink/775225113259000) / [Mobile](https://m.facebook.com/events/770016233779888?view=permalink&id=775225113259000) |
+
 #### [2020-07-28](../../results/2020-07-28/555.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

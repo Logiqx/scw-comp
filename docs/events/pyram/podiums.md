@@ -4,6 +4,14 @@
 ### Pyraminx Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-04](../../results/2020-08-04/pyram.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael George](../../persons/michael_george/pyram.md) | 40+ | 5.47 | 6.34 | 🏆 🥇 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214123730527599) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214123730527599) |
+| 2 | [Thierry Boisivon](../../persons/thierry_boisivon/pyram.md) | 40+ | 7.44 | 9.77 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1546469592197852/permalink/1547561085422036) / [Mobile](https://m.facebook.com/events/1546469592197852?view=permalink&id=1547561085422036) |
+| 3 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 10.12 | 11.40 | 🥉 | [Desktop](https://www.facebook.com/events/1546469592197852/permalink/1551920904986054) / [Mobile](https://m.facebook.com/events/1546469592197852?view=permalink&id=1551920904986054) |
+
 #### [2020-07-28](../../results/2020-07-28/pyram.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
