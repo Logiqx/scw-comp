@@ -50,6 +50,11 @@ The 4 prizes will be awarded to 4 different people in a single week but everyone
 
 
 
+### Past Winners
+
+You can view the past winners ($5 gift cards for TheCubicle) via the linked Google [sheet](winners.html).
+
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

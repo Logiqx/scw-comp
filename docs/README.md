@@ -22,7 +22,7 @@ Here are the links that you will be needing to use on a weekly basis:
 - In addition to posting your video on Facebook you will need to submit your results using the Google [form](submit.html).
 - You can view all of the latest submissions via Google [analytics](analytics.html) or via the linked Google [sheet](responses.html).
 - You can find all of the past results and personal profiles on the [results](results/README.md) page.
-- You can view the past winners ($5 gift cards for TheCubicle) via the linked Google [sheet](winners.html).
+- You can view the past winners ($5 gift cards for TheCubicle) via the linked Google [sheet](prizes/winners.html).
 
 
 
