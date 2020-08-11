@@ -1,0 +1,7 @@
+B' L' U R B' L' R B' R U' B l' r b
+B' U B' R' L B U B R' L B u l r' b'
+L' B U R B' U B L' U' R' L' u b'
+U' L' B' U B R U' B R U L u l r' b'
+B U L' R U B' U' L R' B L b'
+B' R U R B L' B' R' L' U L u' l r b
+L' U' R L U B R L U' B R l' b'
