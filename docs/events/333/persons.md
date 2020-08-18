@@ -31,10 +31,11 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Aaron Cumes](../../persons/aaron_cumes/333.md) | 40+ | 15.39 | 19.04 |  |  | 🔥 x 6, ⚡ x 4 |
+| [Aaron Cumes](../../persons/aaron_cumes/333.md) | 40+ | 15.18 | 19.04 |  |  | 🔥 x 6, ⚡ x 5 |
 | [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | 14.08 | 17.00 |  | 🥈 x 3, 🥉 x 6 | 🔥 x 4, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/333.md) | 40+ | 18.14 | 21.34 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Chris Wright](../../persons/chris_wright/333.md) | 50+ | 10.58 | 13.94 |  | 🥇 x 5, 🥈 x 3 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
+| [Christoph Woittequand](../../persons/christoph_woittequand/333.md) | 40+ | 16.69 | 18.24 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | 14.59 | 18.05 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 3 |
 | [Daniel Smith](../../persons/daniel_smith/333.md) | 50+ | 20.99 | 25.81 |  |  | 💥 x 2, 🔥 x 6, ⚡ x 8 |
 | [David Burchill](../../persons/david_burchill/333.md) | 50+ | 28.50 | 34.84 |  |  | 🔥 x 3, ⚡ x 4 |
@@ -53,16 +54,16 @@
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/333.md) | 40+ | 38.26 | 40.14 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Kerrie Jarman](../../persons/kerrie_jarman/333.md) | 40+ | 41.01 | 48.20 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | 23.79 | 27.36 |  |  | 🔥 x 4, ⚡ x 5 |
-| [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | 30.40 | 37.26 |  |  | 🔥 x 6, ⚡ x 6 |
+| [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | 28.63 | 37.26 |  |  | 🔥 x 7, ⚡ x 7 |
 | [Mark Charlesworth](../../persons/mark_charlesworth/333.md) | 40+ | 27.78 | 30.02 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Markus Niederöst](../../persons/markus_niederost/333.md) | 50+ | 19.98 | 23.61 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Michael George](../../persons/michael_george/333.md) | 40+ | 11.64 | 13.44 | 🏆 x 7 | 🥇 x 22, 🥈 x 4 | 💥 x 6, 🔥 x 6, ⚡ x 3 |
+| [Michael George](../../persons/michael_george/333.md) | 40+ | 11.64 | 13.44 | 🏆 x 7 | 🥇 x 23, 🥈 x 4 | 💥 x 6, 🔥 x 6, ⚡ x 3 |
 | [Michael Policastro](../../persons/michael_policastro/333.md) | 40+ | 34.15 | 35.24 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/333.md) | 50+ | 20.85 | 24.84 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/333.md) | 50+ | 31.12 | 35.25 |  |  | 🔥 x 5, ⚡ x 3 |
 | [Pontus Uggla](../../persons/pontus_uggla/333.md) | 40+ | 18.25 | 20.09 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/333.md) | 40+ | 15.73 | 19.60 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Rob Peters](../../persons/rob_peters/333.md) | 40+ | 15.00 | 16.58 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
+| [Rob Peters](../../persons/rob_peters/333.md) | 40+ | 15.00 | 16.58 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
 | [Robert Summerfield](../../persons/robert_summerfield/333.md) | 50+ | 20.77 | 24.27 |  |  | 🔥 x 8, ⚡ x 6 |
 | [Stuart Salmon](../../persons/stuart_salmon/333.md) | 40+ | 22.76 | 32.89 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333.md) | 40+ | 13.85 | 15.44 |  | 🥇 x 1, 🥈 x 3, 🥉 x 5 | 🔥 x 3, ⚡ x 6 |
@@ -79,11 +80,11 @@
 | [Alex Friedman](../../persons/alex_friedman/333.md) | <40 | 15.47 | 18.36 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Brooke Persoon](../../persons/brooke_persoon/333.md) | <40 | 39.40 | 47.49 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Chris Hardwick](../../persons/chris_hardwick/333.md) | <40 | 11.30 | 12.82 | 🏆 x 2 |  | 🔥 x 4, ⚡ x 4 |
-| [Chris Thames](../../persons/chris_thames/333.md) | <40 | 17.55 | 31.20 |  |  | 🔥 x 4, ⚡ x 5 |
+| [Chris Thames](../../persons/chris_thames/333.md) | <40 | 17.55 | 29.09 |  |  | 🔥 x 5, ⚡ x 5 |
 | [Ed Connell](../../persons/ed_connell/333.md) | <40 | 12.27 | 15.82 | 🏆 x 1 |  | 🔥 x 7, ⚡ x 2 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) | <40 | 12.57 | 13.93 | 🏆 x 2 |  | 🔥 x 2, ⚡ x 2 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) | <40 | 10.83 | 13.93 | 🏆 x 3 |  | 🔥 x 2, ⚡ x 3 |
 | [Go-ho Choi](../../persons/go_ho_choi/333.md) | <40 | 11.23 | 12.74 | 🏆 x 3 |  | 💥 x 2, 🔥 x 3, ⚡ x 3 |
-| [Greg Simmons](../../persons/greg_simmons/333.md) | <40 | 24.17 | 26.87 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Greg Simmons](../../persons/greg_simmons/333.md) | <40 | 22.51 | 26.17 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Isak Majer](../../persons/isak_majer/333.md) | <40 | 16.05 | 18.84 |  |  | 🔥 x 4, ⚡ x 4 |
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333.md) | <40 | 20.75 | 24.65 |  |  | 🔥 x 1, ⚡ x 3 |
 | [Matthew Hart](../../persons/matthew_hart/333.md) | <40 | 18.91 | 23.26 |  |  | 🔥 x 2, ⚡ x 3 |

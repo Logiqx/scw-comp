@@ -28,9 +28,9 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Aaron Cumes](../../persons/aaron_cumes/222.md) | 40+ | 6.09 | 7.63 |  | 🥉 x 1 | 🔥 x 7, ⚡ x 6 |
+| [Aaron Cumes](../../persons/aaron_cumes/222.md) | 40+ | 6.09 | 7.63 |  | 🥉 x 2 | 🔥 x 7, ⚡ x 6 |
 | [Andy Nicholls](../../persons/andy_nicholls/222.md) | 40+ | 4.01 | 6.35 |  | 🥇 x 1, 🥈 x 3, 🥉 x 1 | 🔥 x 4, ⚡ x 3 |
-| [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | 3.34 | 5.29 |  | 🥈 x 4, 🥉 x 2 | 🔥 x 4, ⚡ x 2 |
+| [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | 3.34 | 5.29 |  | 🥈 x 5, 🥉 x 2 | 🔥 x 4, ⚡ x 2 |
 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | 4.39 | 5.17 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
 | [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | 3.68 | 7.65 |  | 🥈 x 1, 🥉 x 2 | 💥 x 2, 🔥 x 3, ⚡ x 5 |
@@ -44,7 +44,7 @@
 | [Jo Cocco](../../persons/jo_cocco/222.md) | 40+ | 10.83 | 14.12 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 3.89 | 7.57 |  | 🥈 x 1, 🥉 x 4 | 💥 x 1, 🔥 x 4, ⚡ x 6 |
 | [Markus Niederöst](../../persons/markus_niederost/222.md) | 50+ | 7.80 | 9.63 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Michael George](../../persons/michael_george/222.md) | 40+ | 3.20 | 4.40 | 🏆 x 17 | 🥇 x 20 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
+| [Michael George](../../persons/michael_george/222.md) | 40+ | 3.20 | 4.40 | 🏆 x 18 | 🥇 x 21 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
 | [Peter Andersson](../../persons/peter_andersson/222.md) | 50+ | 6.82 | 9.38 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/222.md) | 50+ | 6.53 | 10.79 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Stuart Salmon](../../persons/stuart_salmon/222.md) | 40+ | 8.07 | 12.10 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -59,7 +59,7 @@
 | [Adam Robson](../../persons/adam_robson/222.md) | <40 | 3.91 | 6.87 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Brooke Persoon](../../persons/brooke_persoon/222.md) | <40 | 10.73 | 13.95 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/222.md) | <40 | 4.11 | 7.84 |  |  | 🔥 x 5, ⚡ x 3 |
-| [Ed Connell](../../persons/ed_connell/222.md) | <40 | 2.74 | 5.64 | 🏆 x 1 |  | 💥 x 1, 🔥 x 5, ⚡ x 4 |
+| [Ed Connell](../../persons/ed_connell/222.md) | <40 | 2.74 | 5.47 | 🏆 x 1 |  | 💥 x 1, 🔥 x 6, ⚡ x 4 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | <40 | 4.33 | 5.91 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Go-ho Choi](../../persons/go_ho_choi/222.md) | <40 | 3.50 | 4.50 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Matthew Hart](../../persons/matthew_hart/222.md) | <40 | 8.11 | 14.60 |  |  | 🔥 x 2, ⚡ x 3 |

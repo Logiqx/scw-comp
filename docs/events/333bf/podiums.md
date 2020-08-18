@@ -4,6 +4,14 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-11](../../results/2020-08-11/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | 40+ | 53.38 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/329177618122625/permalink/332209941152726) / [Mobile](https://m.facebook.com/events/329177618122625?view=permalink&id=332209941152726) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | 1:28.16 | 1:41.14 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/329177618122625/permalink/330235344683519) / [Mobile](https://m.facebook.com/events/329177618122625?view=permalink&id=330235344683519) |
+| 3 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | 1:54.01 | 2:16.46 | 🥉 | [Desktop](https://www.facebook.com/events/329177618122625/permalink/333717691001951) / [Mobile](https://m.facebook.com/events/329177618122625?view=permalink&id=333717691001951) |
+
 #### [2020-08-04](../../results/2020-08-04/333bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

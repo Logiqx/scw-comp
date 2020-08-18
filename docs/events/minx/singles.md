@@ -22,7 +22,7 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | [2020-08-04](../../results/2020-08-04/minx.md) | 40+ | 1:31.40 | 🏆 x 10 | 🥇 x 11 | 💥 x 4, 🔥 x 2, ⚡ x 4 | [Desktop](https://www.facebook.com/events/748440219235440/permalink/748797962532999) / [Mobile](https://m.facebook.com/events/748440219235440?view=permalink&id=748797962532999) |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | [2020-08-11](../../results/2020-08-11/minx.md) | 40+ | 1:27.50 | 🏆 x 11 | 🥇 x 12 | 💥 x 5, 🔥 x 2, ⚡ x 5 | [Desktop](https://www.facebook.com/events/338631130511019/permalink/339146337126165) / [Mobile](https://m.facebook.com/events/338631130511019?view=permalink&id=339146337126165) |
 | 2 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | [2020-06-16](../../results/2020-06-16/minx.md) | 40+ | 2:21.01 |  | 🥈 x 8 | 🔥 x 5, ⚡ x 4 | [Desktop](https://www.facebook.com/events/604103587178706/permalink/606984593557272) / [Mobile](https://m.facebook.com/events/604103587178706?view=permalink&id=606984593557272) |
 | 3 | [Aaron Cumes](../../persons/aaron_cumes/minx.md) | [2020-06-16](../../results/2020-06-16/minx.md) | 40+ | 3:52.70 |  | 🥉 x 4 | ⚡ x 2 | [Desktop](https://www.facebook.com/events/604103587178706/permalink/604969967092068) / [Mobile](https://m.facebook.com/events/604103587178706?view=permalink&id=604969967092068) |
 | 4 | [Jo Cocco](../../persons/jo_cocco/minx.md) | [2020-05-26](../../results/2020-05-26/minx.md) | 40+ | 3:55.83 |  | 🥉 x 1 | ⚡ x 1 | [Desktop](https://www.facebook.com/events/688407551989463/permalink/689392185224333) / [Mobile](https://m.facebook.com/events/688407551989463?view=permalink&id=689392185224333) |
@@ -34,8 +34,9 @@
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Go-ho Choi](../../persons/go_ho_choi/minx.md) | [2020-07-14](../../results/2020-07-14/minx.md) | <40 | 53.33 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1157754364595802/permalink/1158593647845207) / [Mobile](https://m.facebook.com/events/1157754364595802?view=permalink&id=1158593647845207) |
-| 2 | [Ed Connell](../../persons/ed_connell/minx.md) | [2020-05-26](../../results/2020-05-26/minx.md) | <40 | 3:24.48 |  |  | ⚡ x 1 | [Desktop](https://www.facebook.com/events/688407551989463/permalink/691174248379460) / [Mobile](https://m.facebook.com/events/688407551989463?view=permalink&id=691174248379460) |
-| 3 | [Chris Thames](../../persons/chris_thames/minx.md) | [2020-05-26](../../results/2020-05-26/minx.md) | <40 | 6:02.13 |  |  | ⚡ x 1 | [Desktop](https://www.facebook.com/events/688407551989463/permalink/690392548457630) / [Mobile](https://m.facebook.com/events/688407551989463?view=permalink&id=690392548457630) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | [2020-08-11](../../results/2020-08-11/minx.md) | <40 | 1:57.48 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/338631130511019/permalink/343518013355664) / [Mobile](https://m.facebook.com/events/338631130511019?view=permalink&id=343518013355664) |
+| 3 | [Ed Connell](../../persons/ed_connell/minx.md) | [2020-05-26](../../results/2020-05-26/minx.md) | <40 | 3:24.48 |  |  | ⚡ x 1 | [Desktop](https://www.facebook.com/events/688407551989463/permalink/691174248379460) / [Mobile](https://m.facebook.com/events/688407551989463?view=permalink&id=691174248379460) |
+| 4 | [Chris Thames](../../persons/chris_thames/minx.md) | [2020-05-26](../../results/2020-05-26/minx.md) | <40 | 6:02.13 |  |  | ⚡ x 1 | [Desktop](https://www.facebook.com/events/688407551989463/permalink/690392548457630) / [Mobile](https://m.facebook.com/events/688407551989463?view=permalink&id=690392548457630) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

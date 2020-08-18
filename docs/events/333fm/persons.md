@@ -27,7 +27,7 @@
 | Name | Age | Single | Cups | Medals | Achievements |
 | :-- | :--: | :--: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333fm.md) | 40+ | 36 |  | 🥈 x 1, 🥉 x 4 | ⚡ x 2 |
-| [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 25 | 🏆 x 5 | 🥇 x 6, 🥈 x 4, 🥉 x 2 | ⚡ x 2 |
+| [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 25 | 🏆 x 5 | 🥇 x 7, 🥈 x 4, 🥉 x 2 | ⚡ x 2 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333fm.md) | 50+ | 43 |  | 🥉 x 1 | ⚡ x 1 |
 | [David Roche](../../persons/david_roche/333fm.md) | 50+ | 21 | 🏆 x 1 | 🥇 x 3, 🥈 x 5, 🥉 x 4 | 💥 x 3, ⚡ x 4 |
 | [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | 40 |  | 🥈 x 2, 🥉 x 3 | 💥 x 3, ⚡ x 3 |
@@ -46,7 +46,7 @@
 | [Chris Hardwick](../../persons/chris_hardwick/333fm.md) | <40 | 43 |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/333fm.md) | <40 | 29 |  |  | ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/333fm.md) | <40 | 41 |  |  | ⚡ x 1 |
-| [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | <40 | 24 | 🏆 x 8 |  | 💥 x 1, ⚡ x 4 |
+| [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | <40 | 24 | 🏆 x 9 |  | 💥 x 1, ⚡ x 4 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

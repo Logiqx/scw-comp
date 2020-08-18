@@ -4,6 +4,14 @@
 ### 4x4x4 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-11](../../results/2020-08-11/444.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael George](../../persons/michael_george/444.md) | 40+ | 56.02 | 1:00.42 | 🥇 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214158862725882) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214158862725882) |
+| 2 | [Rob Peters](../../persons/rob_peters/444.md) | 40+ | 55.06 | 1:01.01 | 🥈 🔥 | [Desktop](https://www.facebook.com/667027593/videos/10158644222542594) / [Mobile](https://m.facebook.com/667027593/videos/10158644222542594) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | 1:04.78 | 1:11.78 | 🥉 | [Desktop](https://www.facebook.com/events/1112228215845470/permalink/1116068815461410) / [Mobile](https://m.facebook.com/events/1112228215845470?view=permalink&id=1116068815461410) |
+
 #### [2020-08-04](../../results/2020-08-04/444.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

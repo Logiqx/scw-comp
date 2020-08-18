@@ -4,6 +4,13 @@
 ### Skewb Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-11](../../results/2020-08-11/skewb.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael George](../../persons/michael_george/skewb.md) | 40+ | 6.18 | 9.17 | 🏆 🥇 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214158800364323) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214158800364323) |
+| 2 | [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | 40+ | 23.50 | 24.73 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/354677798881328/permalink/357354948613613) / [Mobile](https://m.facebook.com/events/354677798881328?view=permalink&id=357354948613613) |
+
 #### [2020-08-04](../../results/2020-08-04/skewb.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

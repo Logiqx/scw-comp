@@ -9,14 +9,14 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 22.82 | 26.95 | 🏆 x 8 | 🥇 x 8 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
+| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 22.82 | 26.95 | 🏆 x 9 | 🥇 x 9 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
 
 #### Over 40
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | 31.85 | 49.65 |  | 🥈 x 6 | 🔥 x 2, ⚡ x 2 |
-| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 22.82 | 26.95 | 🏆 x 8 | 🥇 x 8 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
+| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 22.82 | 26.95 | 🏆 x 9 | 🥇 x 9 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | 43.91 | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40
