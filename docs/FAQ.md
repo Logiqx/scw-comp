@@ -4,9 +4,17 @@
 
 #### How do I get the video / permalink?
 
-- On a computer you just click on the video and it opens via the video link.
+Facebook video:
+
+- On a computer you just click on the video and it opens via the "video" link.
 - On an Android phone / tablet you simply click on "..." and use the "copy link" option.
 - On an iPhone / iPad you have to save the post. You then have access to "copy link" via the saved post.
+
+YouTube video:
+
+- On a computer you just click on the timestamp of your post and it opens via the "permalink".
+- On an Android phone / tablet you simply click on "..." and use the "copy link" option.
+- On an iPhone / iPad, I'm not sure... please let me know if you figure it out!
 
 #### Why do I need to provide the best and average?
 
