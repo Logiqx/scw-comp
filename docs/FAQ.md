@@ -24,6 +24,10 @@ Approximately 5% of the submissions contain typos in the results. Providing the 
 
 Some timers do not calculate averages correctly and people calculating them by hand may also make mistakes. Whilst solve times are truncated to two decimal places (e.g. 19.556 is truncated to 19.55), averages should be rounded (e.g. 19.553 becomes 19.55 whereas 19.556 becomes 19.56). The results page for this competition will always show averages based on the correct rounding.
 
+#### Why the medals are only for over 40s?
+
+It dates back to the early competitions when some sub-10 teenagers took part. Some regulars in the group (including some members who hadn't taken part but followed the results) thought it was unfair for the seniors to be deprived of the top spot(s) by the youngsters. I think it was Geoff Hartnell who suggested medals to recognise the top seniors but I may have misremembered that point. The definition of "senior" was taken from the senior rankings (WCA results for the over 40s) and is the main demographic of the group so it seemed to make sense. I did consider doing similar for other age categories (e.g. over 50 and under 40) but it would be somewhat confusing to see multiple medals in the results. The cup is for the overall winner, regardless of age.
+
 #### Do I have to provide a video?
 
 The main concept behind this competition is to be able to share our solves with each other, encourage positive feedback / critique, gain inspiration from others and provide a medium through which we can improve. Filming solves is a great way to replicate competition nerves and for anyone who competes (or plans to compete) in WCA competitions it is a useful way of practicing.
