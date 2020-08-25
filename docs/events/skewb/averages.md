@@ -9,10 +9,10 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Michael George](../../persons/michael_george/skewb.md) | [2020-07-28](../../results/2020-07-28/skewb.md) | 40+ | 7.97 | 🏆 x 6 | 🥇 x 8 | 💥 x 3, 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214080167638554) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214080167638554) |
+| 1 | [Michael George](../../persons/michael_george/skewb.md) | [2020-08-18](../../results/2020-08-18/skewb.md) | 40+ | 7.91 | 🏆 x 7 | 🥇 x 9 | 💥 x 4, 🔥 x 3, ⚡ x 2 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214193835400177) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214193835400177) |
 | 2 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | [2020-06-16](../../results/2020-06-16/skewb.md) | 40+ | 10.46 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/296087658445428/permalink/297667538287440) / [Mobile](https://m.facebook.com/events/296087658445428?view=permalink&id=297667538287440) |
 | 3 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | 40+ | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/jeremy.duehring/videos/10160203751947846) / [Mobile](https://m.facebook.com/jeremy.duehring/videos/10160203751947846) |
-| 4 | [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | [2020-08-11](../../results/2020-08-11/skewb.md) | 40+ | 24.73 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/354677798881328/permalink/357354948613613) / [Mobile](https://m.facebook.com/events/354677798881328?view=permalink&id=357354948613613) |
+| 4 | [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | [2020-08-18](../../results/2020-08-18/skewb.md) | 40+ | 24.26 |  | 🥈 x 2 | 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/940960439648894/permalink/941539536257651) / [Mobile](https://m.facebook.com/events/940960439648894?view=permalink&id=941539536257651) |
 
 #### Under 40
 

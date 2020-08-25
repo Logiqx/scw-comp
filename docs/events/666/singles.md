@@ -23,7 +23,7 @@
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | [2020-07-21](../../results/2020-07-21/666.md) | 40+ | 3:27.31 | 🏆 x 11 | 🥇 x 12, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 4 | [Desktop](https://www.facebook.com/events/3081159145282455/permalink/3081819258549777) / [Mobile](https://m.facebook.com/events/3081159145282455?view=permalink&id=3081819258549777) |
-| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | [2020-08-04](../../results/2020-08-04/666.md) | 40+ | 3:36.08 | 🏆 x 2 | 🥇 x 3, 🥈 x 11, 🥉 x 1 | 🔥 x 4, ⚡ x 3 | [Desktop](https://www.facebook.com/events/770016233779888/permalink/771383613643150) / [Mobile](https://m.facebook.com/events/770016233779888?view=permalink&id=771383613643150) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | [2020-08-04](../../results/2020-08-04/666.md) | 40+ | 3:36.08 | 🏆 x 3 | 🥇 x 4, 🥈 x 11, 🥉 x 1 | 🔥 x 4, ⚡ x 3 | [Desktop](https://www.facebook.com/events/770016233779888/permalink/771383613643150) / [Mobile](https://m.facebook.com/events/770016233779888?view=permalink&id=771383613643150) |
 | 3 | [Michael George](../../persons/michael_george/666.md) | [2020-07-21](../../results/2020-07-21/666.md) | 40+ | 4:37.39 |  | 🥉 x 4 | ⚡ x 7 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214016558128356) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214016558128356) |
 | 4 | [Aaron Cumes](../../persons/aaron_cumes/666.md) | [2020-06-02](../../results/2020-06-02/666.md) | 40+ | 5:00.57 |  | 🥉 x 4 | ⚡ x 3 | [Desktop](https://www.facebook.com/events/573401076937046/permalink/574489523494868) / [Mobile](https://m.facebook.com/events/573401076937046?view=permalink&id=574489523494868) |
 | 5 | [Jeremy Duehring](../../persons/jeremy_duehring/666.md) | [2020-06-09](../../results/2020-06-09/666.md) | 40+ | 5:06.63 |  | 🥉 x 1 | ⚡ x 2 | [Desktop](https://www.facebook.com/jeremy.duehring/videos/10160093205957846) / [Mobile](https://m.facebook.com/jeremy.duehring/videos/10160093205957846) |
@@ -44,7 +44,7 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Joshua Riegel](../../persons/joshua_riegel/666.md) | [2020-06-23](../../results/2020-06-23/666.md) | <30 | 6:40.49 |  |  | ⚡ x 1 | [Desktop](https://www.facebook.com/events/268636114456043/permalink/277021946950793) / [Mobile](https://m.facebook.com/events/268636114456043?view=permalink&id=277021946950793) |
+| 1 | [Joshua Riegel](../../persons/joshua_riegel/666.md) | [2020-08-18](../../results/2020-08-18/666.md) | <30 | 6:39.98 |  |  | ⚡ x 2 | [Desktop](https://www.facebook.com/events/3231806576868309/permalink/3239500212765612) / [Mobile](https://m.facebook.com/events/3231806576868309?view=permalink&id=3239500212765612) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

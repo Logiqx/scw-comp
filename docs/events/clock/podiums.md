@@ -4,6 +4,13 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-18](../../results/2020-08-18/clock.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | 28.86 | 32.95 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/940960439648894/permalink/942714116140193) / [Mobile](https://m.facebook.com/events/940960439648894?view=permalink&id=942714116140193) |
+| 2 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/clock.md) | 40+ | 41.80 | 49.55 | 🥈 | [Desktop](https://www.facebook.com/events/940960439648894/permalink/948695655542039) / [Mobile](https://m.facebook.com/events/940960439648894?view=permalink&id=948695655542039) |
+
 #### [2020-08-04](../../results/2020-08-04/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

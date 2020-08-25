@@ -4,6 +4,14 @@
 ### 4x4x4 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-18](../../results/2020-08-18/444.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael George](../../persons/michael_george/444.md) | 40+ | 52.82 | 59.01 | 🥇 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214193924682409) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214193924682409) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | 54.94 | 1:10.65 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/3231806576868309/permalink/3249002181815415) / [Mobile](https://m.facebook.com/events/3231806576868309?view=permalink&id=3249002181815415) |
+| 3 | [Aaron Cumes](../../persons/aaron_cumes/444.md) | 40+ | 1:08.84 | 1:22.01 | 🥉 | [Desktop](https://www.facebook.com/events/3231806576868309/permalink/3236133686435598) / [Mobile](https://m.facebook.com/events/3231806576868309?view=permalink&id=3236133686435598) |
+
 #### [2020-08-11](../../results/2020-08-11/444.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

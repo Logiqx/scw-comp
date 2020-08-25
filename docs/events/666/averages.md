@@ -16,7 +16,7 @@
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | [2020-06-30](../../results/2020-06-30/666.md) | 40+ | 3:35.12 | 🏆 x 11 | 🥇 x 12, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 4 | [Desktop](https://www.facebook.com/events/284746466306313/permalink/285158502931776) / [Mobile](https://m.facebook.com/events/284746466306313?view=permalink&id=285158502931776) |
-| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | [2020-08-04](../../results/2020-08-04/666.md) | 40+ | 3:45.49 | 🏆 x 2 | 🥇 x 3, 🥈 x 11, 🥉 x 1 | 🔥 x 4, ⚡ x 3 | [Desktop](https://www.facebook.com/events/770016233779888/permalink/771383613643150) / [Mobile](https://m.facebook.com/events/770016233779888?view=permalink&id=771383613643150) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | [2020-08-04](../../results/2020-08-04/666.md) | 40+ | 3:45.49 | 🏆 x 3 | 🥇 x 4, 🥈 x 11, 🥉 x 1 | 🔥 x 4, ⚡ x 3 | [Desktop](https://www.facebook.com/events/770016233779888/permalink/771383613643150) / [Mobile](https://m.facebook.com/events/770016233779888?view=permalink&id=771383613643150) |
 | 3 | [Daniel Smith](../../persons/daniel_smith/666.md) | [2020-05-05](../../results/2020-05-05/666.md) | 50+ | 5:54.57 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/557526585195168/permalink/562187611395732) / [Mobile](https://m.facebook.com/events/557526585195168?view=permalink&id=562187611395732) |
 
 #### Under 40

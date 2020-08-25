@@ -18,7 +18,7 @@
 | [Pyraminx](pyram.md) | 9.40 | 12.77 |  | 🔥 x 4, ⚡ x 4 |
 | [Skewb](skewb.md) | 4.85 | 11.31 | 🏆 x 1 | 🔥 x 3, ⚡ x 3 |
 | [Square-1](sq1.md) | 23.83 | 36.33 |  | 💥 x 1, 🔥 x 4, ⚡ x 4 |
-| [Clock](clock.md) | 13.88 | 15.56 | 🏆 x 4 | 🔥 x 6, ⚡ x 4 |
+| [Clock](clock.md) | 13.88 | 15.56 | 🏆 x 5 | 🔥 x 6, ⚡ x 4 |
 | [3x3x3 FMC](333fm.md) | 29 | - |  | ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -51,6 +51,9 @@
   },
   "Christoph Woittequand": {
     "age": "40+",
+    "aliases": [
+      "Woittequand Christoph"
+    ],
     "id": 78,
     "wcaId": "2005WOIT01"
   },
@@ -181,6 +184,11 @@
     "age": "50+",
     "id": 40,
     "wcaId": "2018COOK04"
+  },
+  "John Neo Stanley": {
+    "age": "40+",
+    "id": 79,
+    "skipDraw": "2020-08-18"
   },
   "Jonathan Charlesworth": {
     "age": "<20",

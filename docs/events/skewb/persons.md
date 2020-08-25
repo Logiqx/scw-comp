@@ -9,9 +9,9 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | 40+ | 23.50 | 24.73 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | 40+ | 14.77 | 24.26 |  | 🥈 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | 40+ | 4.15 | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Michael George](../../persons/michael_george/skewb.md) | 40+ | 2.78 | 7.97 | 🏆 x 6 | 🥇 x 8 | 💥 x 3, 🔥 x 2, ⚡ x 2 |
+| [Michael George](../../persons/michael_george/skewb.md) | 40+ | 2.78 | 7.91 | 🏆 x 7 | 🥇 x 9 | 💥 x 4, 🔥 x 3, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | 40+ | 7.77 | 10.46 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40

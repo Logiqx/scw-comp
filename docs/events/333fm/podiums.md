@@ -4,6 +4,13 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-18](../../results/2020-08-18/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 28 | 🥇 | [Desktop](https://www.facebook.com/events/1040688916351072/permalink/1042750266144937) / [Mobile](https://m.facebook.com/events/1040688916351072?view=permalink&id=1042750266144937) |
+| 2 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | 36 | 🥈 | [Desktop](https://www.facebook.com/events/1040688916351072/permalink/1046405722446058) / [Mobile](https://m.facebook.com/events/1040688916351072?view=permalink&id=1046405722446058) |
+
 #### [2020-08-11](../../results/2020-08-11/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |

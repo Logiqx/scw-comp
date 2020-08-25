@@ -4,6 +4,14 @@
 ### 3x3x3 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-18](../../results/2020-08-18/333.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael George](../../persons/michael_george/333.md) | 40+ | 13.52 | 15.04 | 🥇 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214193869921040) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214193869921040) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 15.25 | 18.30 | 🥈 | [Desktop](https://www.facebook.com/events/357518755418063/permalink/361773054992633) / [Mobile](https://m.facebook.com/events/357518755418063?view=permalink&id=361773054992633) |
+| 3 | [Aaron Cumes](../../persons/aaron_cumes/333.md) | 40+ | 16.87 | 19.31 | 🥉 | [Desktop](https://www.facebook.com/events/357518755418063/permalink/358075692029036) / [Mobile](https://m.facebook.com/events/357518755418063?view=permalink&id=358075692029036) |
+
 #### [2020-08-11](../../results/2020-08-11/333.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

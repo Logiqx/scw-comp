@@ -4,6 +4,14 @@
 ### 3x3x3 One-Handed Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-18](../../results/2020-08-18/333oh.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael George](../../persons/michael_george/333oh.md) | 40+ | 21.46 | 23.17 | 🏆 🥇 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214193917202222) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214193917202222) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | 21.17 | 34.82 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/357518755418063/permalink/361776554992283) / [Mobile](https://m.facebook.com/events/357518755418063?view=permalink&id=361776554992283) |
+| 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | 36.21 | 38.86 | 🥉 | [Desktop](https://www.facebook.com/events/357518755418063/permalink/362138078289464) / [Mobile](https://m.facebook.com/events/357518755418063?view=permalink&id=362138078289464) |
+
 #### [2020-08-11](../../results/2020-08-11/333oh.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
