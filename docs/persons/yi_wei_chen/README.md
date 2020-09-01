@@ -8,7 +8,8 @@
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
 | [3x3x3](333.md) | 17.85 | 22.33 |  | 🔥 x 3, ⚡ x 1 |
-| [5x5x5](555.md) | 3:39.34 | 3:48.71 | 🥉 x 2 | 🔥 x 3, ⚡ x 3 |
+| [5x5x5](555.md) | 3:36.67 | 3:48.27 | 🥉 x 2 | 🔥 x 4, ⚡ x 4 |
+| [3x3x3 FMC](333fm.md) | 40 | - |  | ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

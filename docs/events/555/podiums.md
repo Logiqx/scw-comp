@@ -4,6 +4,14 @@
 ### 5x5x5 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-25](../../results/2020-08-25/555.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | 2:07.22 | 2:11.25 | 🥇 | [Desktop](https://www.facebook.com/events/375269430142971/permalink/378052523197995) / [Mobile](https://m.facebook.com/events/375269430142971?view=permalink&id=378052523197995) |
+| 2 | [Jason Green](../../persons/jason_green/555.md) | 40+ | 2:31.09 | 2:50.91 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/jasongreenbowler/videos/10163944661080425) / [Mobile](https://m.facebook.com/jasongreenbowler/videos/10163944661080425) |
+| 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | 2:35.62 | 2:51.75 | 🥉 | [Desktop](https://www.facebook.com/events/375269430142971/permalink/379899466346634) / [Mobile](https://m.facebook.com/events/375269430142971?view=permalink&id=379899466346634) |
+
 #### [2020-08-18](../../results/2020-08-18/555.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

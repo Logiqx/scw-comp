@@ -26,7 +26,7 @@
 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | 2:21.01 | 2:38.71 |  | 🥈 x 8 | 🔥 x 5, ⚡ x 4 |
 | [Daniel Smith](../../persons/daniel_smith/minx.md) | 50+ | 8:11.77 | DNF |  |  | ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:27.50 | 1:39.69 | 🏆 x 12 | 🥇 x 13 | 💥 x 5, 🔥 x 2, ⚡ x 5 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:27.50 | 1:39.69 | 🏆 x 13 | 🥇 x 14 | 💥 x 5, 🔥 x 2, ⚡ x 5 |
 | [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | 3:55.83 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 
 #### Under 40

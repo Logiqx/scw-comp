@@ -4,6 +4,13 @@
 ### 7x7x7 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-25](../../results/2020-08-25/777.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 5:59.10 | 6:07.51 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/375269430142971/permalink/375909670078947) / [Mobile](https://m.facebook.com/events/375269430142971?view=permalink&id=375909670078947) |
+| 2 | [Aaron Cumes](../../persons/aaron_cumes/777.md) | 40+ | 8:38.75 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/375269430142971/permalink/377468433256404) / [Mobile](https://m.facebook.com/events/375269430142971?view=permalink&id=377468433256404) |
+
 #### [2020-08-18](../../results/2020-08-18/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

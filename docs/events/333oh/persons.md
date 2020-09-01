@@ -19,11 +19,11 @@
 | [Aaron Cumes](../../persons/aaron_cumes/333oh.md) | 40+ | 1:01.02 | 1:17.51 |  |  | 🔥 x 7, ⚡ x 8 |
 | [Andy Nicholls](../../persons/andy_nicholls/333oh.md) | 40+ | 33.37 | 40.48 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 5 |
 | [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | 35.64 | 39.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | 21.17 | 30.96 |  | 🥈 x 11, 🥉 x 11 | 🔥 x 5, ⚡ x 6 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | 21.17 | 30.96 |  | 🥇 x 1, 🥈 x 11, 🥉 x 11 | 🔥 x 5, ⚡ x 6 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) | 40+ | 24.78 | 32.65 | 🏆 x 1 | 🥇 x 1, 🥈 x 2 | 🔥 x 3, ⚡ x 2 |
-| [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | 29.48 | 38.02 |  | 🥉 x 2 | 🔥 x 6, ⚡ x 2 |
+| [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | 29.48 | 37.76 |  | 🥉 x 3 | 🔥 x 7, ⚡ x 2 |
 | [Jang Junho (장준호)](../../persons/jang_junho/333oh.md) | 40+ | 59.25 | 1:06.79 |  |  | 🔥 x 3, ⚡ x 3 |
-| [Jason Green](../../persons/jason_green/333oh.md) | 40+ | 41.05 | 42.76 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Jason Green](../../persons/jason_green/333oh.md) | 40+ | 30.77 | 36.01 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/333oh.md) | 40+ | 36.79 | 44.49 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jo Cocco](../../persons/jo_cocco/333oh.md) | 40+ | 1:30.67 | 1:45.62 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Michael George](../../persons/michael_george/333oh.md) | 40+ | 18.57 | 21.87 | 🏆 x 17 | 🥇 x 21 | 💥 x 5, 🔥 x 3, ⚡ x 5 |
@@ -38,7 +38,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Alex Friedman](../../persons/alex_friedman/333oh.md) | <40 | 19.20 | 22.99 | 🏆 x 1 |  | 🔥 x 5, ⚡ x 5 |
 | [Chris Thames](../../persons/chris_thames/333oh.md) | <40 | 1:06.23 | 1:14.05 |  |  | 🔥 x 5, ⚡ x 4 |
-| [Ed Connell](../../persons/ed_connell/333oh.md) | <40 | 22.50 | 32.70 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 1 |
+| [Ed Connell](../../persons/ed_connell/333oh.md) | <40 | 22.50 | 32.70 | 🏆 x 2 |  | 🔥 x 3, ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333oh.md) | <40 | 26.22 | 32.39 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | <40 | 22.13 | 24.49 | 🏆 x 2 |  | 💥 x 1, 🔥 x 2, ⚡ x 1 |
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333oh.md) | <40 | 30.75 | 34.86 |  |  | 🔥 x 4, ⚡ x 3 |
@@ -51,6 +51,7 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Joshua Riegel](../../persons/joshua_riegel/333oh.md) | <30 | 1:12.64 | 1:17.63 |  |  | 🔥 x 3, ⚡ x 3 |
+| [Timothy Babb](../../persons/timothy_babb/333oh.md) | <30 | 40.64 | 44.13 |  |  | 🔥 x 1, ⚡ x 1 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

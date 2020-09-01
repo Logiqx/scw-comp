@@ -4,6 +4,14 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-25](../../results/2020-08-25/clock.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Denis Reimer](../../persons/denis_reimer/clock.md) | 40+ | 20.99 | 24.33 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/denis.reimer.5473/videos/655101431768152) / [Mobile](https://m.facebook.com/denis.reimer.5473/videos/655101431768152) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | 21.19 | 25.62 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/335350317875490/permalink/336484241095431) / [Mobile](https://m.facebook.com/events/335350317875490?view=permalink&id=336484241095431) |
+| 3 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/clock.md) | 40+ | 26.90 | 43.62 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/335350317875490/permalink/340431677367354) / [Mobile](https://m.facebook.com/events/335350317875490?view=permalink&id=340431677367354) |
+
 #### [2020-08-18](../../results/2020-08-18/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

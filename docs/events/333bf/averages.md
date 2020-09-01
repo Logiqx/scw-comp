@@ -15,10 +15,10 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Jae Park](../../persons/jae_park/333bf.md) | [2020-02-11](../../results/2020-02-11/333bf.md) | 40+ | 57.66 | 🏆 x 18 | 🥇 x 19 | 💥 x 2, 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/events/173728187264773/permalink/173945660576359) / [Mobile](https://m.facebook.com/events/173728187264773?view=permalink&id=173945660576359) |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | [2020-02-11](../../results/2020-02-11/333bf.md) | 40+ | 57.66 | 🏆 x 19 | 🥇 x 20 | 💥 x 3, 🔥 x 1, ⚡ x 3 | [Desktop](https://www.facebook.com/events/173728187264773/permalink/173945660576359) / [Mobile](https://m.facebook.com/events/173728187264773?view=permalink&id=173945660576359) |
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | [2020-04-21](../../results/2020-04-21/333bf.md) | 40+ | 1:31.27 | 🏆 x 3 | 🥇 x 3, 🥈 x 9, 🥉 x 4 | 🔥 x 3, ⚡ x 2 | [Desktop](https://www.facebook.com/events/1312095715657208/permalink/1316281738571939) / [Mobile](https://m.facebook.com/events/1312095715657208?view=permalink&id=1316281738571939) |
-| 3 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | [2020-08-11](../../results/2020-08-11/333bf.md) | 40+ | 1:41.14 | 🏆 x 1 | 🥇 x 1, 🥈 x 4, 🥉 x 3 | 🔥 x 1, ⚡ x 3 | [Desktop](https://www.facebook.com/events/329177618122625/permalink/330235344683519) / [Mobile](https://m.facebook.com/events/329177618122625?view=permalink&id=330235344683519) |
-| 4 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | [2020-08-18](../../results/2020-08-18/333bf.md) | 40+ | 1:58.19 |  | 🥈 x 1, 🥉 x 4 | 🔥 x 3, ⚡ x 3 | [Desktop](https://www.facebook.com/events/2504353356469935/permalink/2509601155945155) / [Mobile](https://m.facebook.com/events/2504353356469935?view=permalink&id=2509601155945155) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | [2020-08-11](../../results/2020-08-11/333bf.md) | 40+ | 1:41.14 | 🏆 x 1 | 🥇 x 1, 🥈 x 4, 🥉 x 4 | 🔥 x 1, ⚡ x 3 | [Desktop](https://www.facebook.com/events/329177618122625/permalink/330235344683519) / [Mobile](https://m.facebook.com/events/329177618122625?view=permalink&id=330235344683519) |
+| 4 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | [2020-08-25](../../results/2020-08-25/333bf.md) | 40+ | 1:43.25 |  | 🥈 x 2, 🥉 x 4 | 🔥 x 4, ⚡ x 4 | [Desktop](https://www.facebook.com/events/2697073243839990/permalink/2702723526608295) / [Mobile](https://m.facebook.com/events/2697073243839990?view=permalink&id=2702723526608295) |
 | 5 | [Andy Nicholls](../../persons/andy_nicholls/333bf.md) | [2020-02-11](../../results/2020-02-11/333bf.md) | 40+ | 2:24.45 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/173728187264773/permalink/174217337215858) / [Mobile](https://m.facebook.com/events/173728187264773?view=permalink&id=174217337215858) |
 | 6 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | [2020-06-30](../../results/2020-06-30/333bf.md) | 50+ | 3:12.88 |  | 🥈 x 2, 🥉 x 1 | 💥 x 5, 🔥 x 1, ⚡ x 4 | [Desktop](https://www.facebook.com/events/348465022802357/permalink/349204916061701) / [Mobile](https://m.facebook.com/events/348465022802357?view=permalink&id=349204916061701) |
 
@@ -26,13 +26,13 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | [2020-07-07](../../results/2020-07-07/333bf.md) | <40 | 1:56.16 |  |  | 🔥 x 3, ⚡ x 5 | [Desktop](https://www.facebook.com/events/296526488422565/permalink/299786304763250) / [Mobile](https://m.facebook.com/events/296526488422565?view=permalink&id=299786304763250) |
+| 1 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | [2020-08-25](../../results/2020-08-25/333bf.md) | <40 | 1:54.34 |  |  | 🔥 x 4, ⚡ x 5 | [Desktop](https://www.facebook.com/events/2697073243839990/permalink/2698127857067862) / [Mobile](https://m.facebook.com/events/2697073243839990?view=permalink&id=2698127857067862) |
 
 #### Under 30
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Joshua Riegel](../../persons/joshua_riegel/333bf.md) | [2020-07-28](../../results/2020-07-28/333bf.md) | <30 | 3:18.54 |  |  | 🔥 x 1, ⚡ x 5 | [Desktop](https://www.facebook.com/events/319204229264839/permalink/323687092149886) / [Mobile](https://m.facebook.com/events/319204229264839?view=permalink&id=323687092149886) |
+| 1 | [Joshua Riegel](../../persons/joshua_riegel/333bf.md) | [2020-07-28](../../results/2020-07-28/333bf.md) | <30 | 3:18.54 |  |  | 🔥 x 1, ⚡ x 6 | [Desktop](https://www.facebook.com/events/319204229264839/permalink/323687092149886) / [Mobile](https://m.facebook.com/events/319204229264839?view=permalink&id=323687092149886) |
 
 #### Under 20
 

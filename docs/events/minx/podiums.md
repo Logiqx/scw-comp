@@ -4,6 +4,12 @@
 ### Megaminx Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-25](../../results/2020-08-25/minx.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:33.07 | 1:46.57 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2812216602434889/permalink/2812686935721189) / [Mobile](https://m.facebook.com/events/2812216602434889?view=permalink&id=2812686935721189) |
+
 #### [2020-08-18](../../results/2020-08-18/minx.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

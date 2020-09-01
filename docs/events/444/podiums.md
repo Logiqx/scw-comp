@@ -4,6 +4,14 @@
 ### 4x4x4 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-08-25](../../results/2020-08-25/444.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | 1:06.61 | 1:10.72 | 🥇 | [Desktop](https://www.facebook.com/events/375269430142971/permalink/378056619864252) / [Mobile](https://m.facebook.com/events/375269430142971?view=permalink&id=378056619864252) |
+| 2 | [Jason Green](../../persons/jason_green/444.md) | 40+ | 1:06.29 | 1:14.80 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/jasongreenbowler/videos/10163944613835425) / [Mobile](https://m.facebook.com/jasongreenbowler/videos/10163944613835425) |
+| 3 | [Aaron Cumes](../../persons/aaron_cumes/444.md) | 40+ | 1:03.19 | 1:15.87 | 🥉 | [Desktop](https://www.facebook.com/events/375269430142971/permalink/376616833341564) / [Mobile](https://m.facebook.com/events/375269430142971?view=permalink&id=376616833341564) |
+
 #### [2020-08-18](../../results/2020-08-18/444.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

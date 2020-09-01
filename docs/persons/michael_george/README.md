@@ -15,7 +15,7 @@
 | [3x3x3 OH](333oh.md) | 18.57 | 21.87 | 🏆 x 17 | 🥇 x 21 | 💥 x 5, 🔥 x 3, ⚡ x 5 |
 | [Pyraminx](pyram.md) | 4.50 | 5.56 | 🏆 x 8 | 🥇 x 9 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
 | [Skewb](skewb.md) | 2.78 | 7.91 | 🏆 x 7 | 🥇 x 9 | 💥 x 4, 🔥 x 3, ⚡ x 2 |
-| [3x3x3 FMC](333fm.md) | 31 | - |  | 🥇 x 1, 🥈 x 4, 🥉 x 4 | ⚡ x 3 |
+| [3x3x3 FMC](333fm.md) | 31 | - |  | 🥇 x 1, 🥈 x 4, 🥉 x 5 | ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
