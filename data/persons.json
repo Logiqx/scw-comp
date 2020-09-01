@@ -77,6 +77,11 @@
     "id": 38,
     "wcaId": "2014ROCH07"
   },
+  "Denis Reimer": {
+    "age": "40+",
+    "id": 81,
+    "wcaId": "2016REIM01"
+  },
   "Donna Leiber": {
     "age": "60+",
     "id": 62
@@ -186,7 +191,7 @@
     "wcaId": "2018COOK04"
   },
   "John Neo Stanley": {
-    "age": "40+",
+    "age": "50+",
     "id": 79,
     "skipDraw": "2020-08-18"
   },
@@ -348,6 +353,11 @@
     "age": "40+",
     "id": 29,
     "wcaId": "2011BOIS01"
+  },
+  "Timothy Babb": {
+    "age": "<30",
+    "id": 80,
+    "wcaId": "2015BABB01"
   },
   "Timothy Salay": {
     "age": "40+",
