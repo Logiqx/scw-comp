@@ -32,7 +32,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Aaron Cumes](../../persons/aaron_cumes/333.md) | 40+ | 15.18 | 19.04 |  | 🥉 x 2 | 🔥 x 6, ⚡ x 5 |
+| [Aaron Cumes](../../persons/aaron_cumes/333.md) | 40+ | 15.18 | 19.04 |  | 🥉 x 1 | 🔥 x 6, ⚡ x 5 |
 | [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | 14.08 | 17.00 |  | 🥈 x 3, 🥉 x 6 | 🔥 x 4, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/333.md) | 40+ | 16.31 | 21.34 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Chris Wright](../../persons/chris_wright/333.md) | 50+ | 10.58 | 13.94 |  | 🥇 x 5, 🥈 x 3 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
@@ -42,13 +42,13 @@
 | [David Burchill](../../persons/david_burchill/333.md) | 50+ | 28.50 | 34.84 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Denis Reimer](../../persons/denis_reimer/333.md) | 40+ | 20.77 | 26.10 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 13.84 | 17.10 |  | 🥇 x 1, 🥈 x 5, 🥉 x 7 | 🔥 x 8, ⚡ x 5 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 13.84 | 17.10 |  | 🥈 x 6, 🥉 x 7 | 🔥 x 8, ⚡ x 5 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | 13.37 | 14.77 |  | 🥈 x 8, 🥉 x 3 | 🔥 x 3, ⚡ x 1 |
 | [Huy Nguyen](../../persons/huy_nguyen/333.md) | 40+ | 17.19 | 20.72 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/333.md) | 40+ | 17.58 | 22.30 |  |  | 🔥 x 5, ⚡ x 4 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/333.md) | 40+ | 20.95 | 25.58 |  |  | 🔥 x 11, ⚡ x 9 |
 | [Jang Junho (장준호)](../../persons/jang_junho/333.md) | 40+ | 20.33 | 25.66 |  |  | 🔥 x 4, ⚡ x 2 |
-| [Jason Green](../../persons/jason_green/333.md) | 40+ | 17.22 | 18.51 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Jason Green](../../persons/jason_green/333.md) | 40+ | 17.22 | 18.51 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Jean van den Bergh](../../persons/jean_van_den_bergh/333.md) | 40+ | 38.55 | 40.85 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/333.md) | 40+ | 14.22 | 16.26 |  | 🥈 x 2, 🥉 x 3 | 🔥 x 6, ⚡ x 3 |
 | [Jo Cocco](../../persons/jo_cocco/333.md) | 40+ | 37.21 | 46.19 |  |  | 🔥 x 5, ⚡ x 4 |
@@ -56,6 +56,7 @@
 | [John Neo Stanley](../../persons/john_neo_stanley/333.md) | 50+ | 29.01 | 35.57 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/333.md) | 40+ | 38.26 | 40.14 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Kerrie Jarman](../../persons/kerrie_jarman/333.md) | 40+ | 41.01 | 48.20 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | 11.27 | 12.94 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | 23.79 | 27.36 |  |  | 🔥 x 4, ⚡ x 5 |
 | [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | 28.14 | 35.40 |  |  | 🔥 x 8, ⚡ x 8 |
 | [Mark Charlesworth](../../persons/mark_charlesworth/333.md) | 40+ | 27.78 | 30.02 |  |  | 🔥 x 2, ⚡ x 2 |
@@ -85,7 +86,7 @@
 | [Chris Hardwick](../../persons/chris_hardwick/333.md) | <40 | 11.30 | 12.82 | 🏆 x 2 |  | 🔥 x 4, ⚡ x 4 |
 | [Chris Thames](../../persons/chris_thames/333.md) | <40 | 17.55 | 29.09 |  |  | 🔥 x 5, ⚡ x 5 |
 | [Ed Connell](../../persons/ed_connell/333.md) | <40 | 12.27 | 15.82 | 🏆 x 1 |  | 🔥 x 7, ⚡ x 2 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) | <40 | 10.83 | 13.93 | 🏆 x 5 |  | 🔥 x 2, ⚡ x 3 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) | <40 | 10.83 | 13.93 | 🏆 x 4 |  | 🔥 x 2, ⚡ x 3 |
 | [Go-ho Choi](../../persons/go_ho_choi/333.md) | <40 | 11.23 | 12.74 | 🏆 x 3 |  | 💥 x 2, 🔥 x 3, ⚡ x 3 |
 | [Greg Simmons](../../persons/greg_simmons/333.md) | <40 | 22.51 | 26.17 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Isak Majer](../../persons/isak_majer/333.md) | <40 | 16.05 | 18.84 |  |  | 🔥 x 4, ⚡ x 4 |

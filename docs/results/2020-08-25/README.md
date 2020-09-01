@@ -7,15 +7,15 @@
 
 #### [3x3x3](333.md)
 
-<span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) 14.43</span>
+<span style="white-space: nowrap;">🏆 [Konsta Jukka](../../persons/konsta_jukka/333.md) 12.94</span>
 
-<span style="white-space: nowrap;">🥇 [Geoff Hartnell](../../persons/geoff_hartnell/333.md) 17.44</span>, <span style="white-space: nowrap;">🥈 [Jason Green](../../persons/jason_green/333.md) 18.97</span>, <span style="white-space: nowrap;">🥉 [Aaron Cumes](../../persons/aaron_cumes/333.md) 20.58</span>
+<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/333.md) 12.94</span>, <span style="white-space: nowrap;">🥈 [Geoff Hartnell](../../persons/geoff_hartnell/333.md) 17.44</span>, <span style="white-space: nowrap;">🥉 [Jason Green](../../persons/jason_green/333.md) 18.97</span>
 
-💥 x 1 = <span style="white-space: nowrap;">[Newton Nguyen](../../persons/newton_nguyen/333.md) <10</span>
+💥 x 2 = <span style="white-space: nowrap;">[Konsta Jukka](../../persons/konsta_jukka/333.md) 40+</span>, <span style="white-space: nowrap;">[Newton Nguyen](../../persons/newton_nguyen/333.md) <10</span>
 
-🔥 x 4 = <span style="white-space: nowrap;">[Newton Nguyen](../../persons/newton_nguyen/333.md) 17.16</span>, <span style="white-space: nowrap;">[Timothy Babb](../../persons/timothy_babb/333.md) 22.57</span>, <span style="white-space: nowrap;">[Denis Reimer](../../persons/denis_reimer/333.md) 26.10</span>, <span style="white-space: nowrap;">[John Neo Stanley](../../persons/john_neo_stanley/333.md) 35.57</span>
+🔥 x 5 = <span style="white-space: nowrap;">[Konsta Jukka](../../persons/konsta_jukka/333.md) 12.94</span>, <span style="white-space: nowrap;">[Newton Nguyen](../../persons/newton_nguyen/333.md) 17.16</span>, <span style="white-space: nowrap;">[Timothy Babb](../../persons/timothy_babb/333.md) 22.57</span>, <span style="white-space: nowrap;">[Denis Reimer](../../persons/denis_reimer/333.md) 26.10</span>, <span style="white-space: nowrap;">[John Neo Stanley](../../persons/john_neo_stanley/333.md) 35.57</span>
 
-⚡ x 4 = <span style="white-space: nowrap;">[Timothy Babb](../../persons/timothy_babb/333.md) 19.32</span>, <span style="white-space: nowrap;">[Denis Reimer](../../persons/denis_reimer/333.md) 20.77</span>, <span style="white-space: nowrap;">[Jan Adams-Fielding](../../persons/jan_adams_fielding/333.md) 20.95</span>, <span style="white-space: nowrap;">[John Neo Stanley](../../persons/john_neo_stanley/333.md) 33.68</span>
+⚡ x 5 = <span style="white-space: nowrap;">[Konsta Jukka](../../persons/konsta_jukka/333.md) 11.27</span>, <span style="white-space: nowrap;">[Timothy Babb](../../persons/timothy_babb/333.md) 19.32</span>, <span style="white-space: nowrap;">[Denis Reimer](../../persons/denis_reimer/333.md) 20.77</span>, <span style="white-space: nowrap;">[Jan Adams-Fielding](../../persons/jan_adams_fielding/333.md) 20.95</span>, <span style="white-space: nowrap;">[John Neo Stanley](../../persons/john_neo_stanley/333.md) 33.68</span>
 
 #### [2x2x2](222.md)
 

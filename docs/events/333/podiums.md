@@ -8,9 +8,9 @@
 
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
-| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 14.51 | 17.44 | 🥇 | [Desktop](https://www.facebook.com/events/2812216602434889/permalink/2816632028660013) / [Mobile](https://m.facebook.com/events/2812216602434889?view=permalink&id=2816632028660013) |
-| 2 | [Jason Green](../../persons/jason_green/333.md) | 40+ | 17.93 | 18.97 | 🥈 | [Desktop](https://www.facebook.com/jasongreenbowler/videos/10163944541995425) / [Mobile](https://m.facebook.com/jasongreenbowler/videos/10163944541995425) |
-| 3 | [Aaron Cumes](../../persons/aaron_cumes/333.md) | 40+ | 19.02 | 20.58 | 🥉 | [Desktop](https://www.facebook.com/events/2812216602434889/permalink/2813090202347529) / [Mobile](https://m.facebook.com/events/2812216602434889?view=permalink&id=2813090202347529) |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | 11.27 | 12.94 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2812216602434889/permalink/2812794762377073) / [Mobile](https://m.facebook.com/events/2812216602434889?view=permalink&id=2812794762377073) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 14.51 | 17.44 | 🥈 | [Desktop](https://www.facebook.com/events/2812216602434889/permalink/2816632028660013) / [Mobile](https://m.facebook.com/events/2812216602434889?view=permalink&id=2816632028660013) |
+| 3 | [Jason Green](../../persons/jason_green/333.md) | 40+ | 17.93 | 18.97 | 🥉 | [Desktop](https://www.facebook.com/jasongreenbowler/videos/10163944541995425) / [Mobile](https://m.facebook.com/jasongreenbowler/videos/10163944541995425) |
 
 #### [2020-08-18](../../results/2020-08-18/333.md)
 
