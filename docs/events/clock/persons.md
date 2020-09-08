@@ -16,10 +16,10 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Aaron Cumes](../../persons/aaron_cumes/clock.md) | 40+ | 45.35 | 1:04.04 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Aaron Cumes](../../persons/aaron_cumes/clock.md) | 40+ | 28.87 | 41.68 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.02 | 13.12 | 🏆 x 4 | 🥇 x 4, 🥈 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 2 |
-| [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | 21.19 | 25.62 |  | 🥇 x 1, 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
-| [Denis Reimer](../../persons/denis_reimer/clock.md) | 40+ | 20.99 | 24.33 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | 18.16 | 24.82 |  | 🥇 x 1, 🥈 x 2 | 🔥 x 3, ⚡ x 3 |
+| [Denis Reimer](../../persons/denis_reimer/clock.md) | 40+ | 17.23 | 21.16 | 🏆 x 1 | 🥇 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/clock.md) | 40+ | 26.90 | 43.62 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/clock.md) | 40+ | 32.81 | 39.96 |  | 🥇 x 2, 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 18.96 | 22.19 |  | 🥇 x 2, 🥈 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
@@ -29,8 +29,8 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Ed Connell](../../persons/ed_connell/clock.md) | <40 | 13.88 | 15.56 | 🏆 x 5 |  | 🔥 x 6, ⚡ x 4 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/clock.md) | <40 | 18.53 | 25.63 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Ed Connell](../../persons/ed_connell/clock.md) | <40 | 13.88 | 15.56 | 🏆 x 6 |  | 🔥 x 6, ⚡ x 4 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/clock.md) | <40 | 18.17 | 23.64 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Peter Osudar](../../persons/peter_osudar/clock.md) | <40 | 19.18 | 21.63 |  |  | 🔥 x 1, ⚡ x 1 |
 
 

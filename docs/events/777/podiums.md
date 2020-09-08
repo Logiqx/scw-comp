@@ -4,6 +4,12 @@
 ### 7x7x7 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-01](../../results/2020-09-01/777.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Aaron Cumes](../../persons/aaron_cumes/777.md) | 40+ | 8:15.68 | DNF | 🥇 ⚡ | [Desktop](https://www.facebook.com/events/987180995036806/permalink/990818838006355) / [Mobile](https://m.facebook.com/events/987180995036806?view=permalink&id=990818838006355) |
+
 #### [2020-08-25](../../results/2020-08-25/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

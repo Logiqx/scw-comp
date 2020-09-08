@@ -4,6 +4,14 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-01](../../results/2020-09-01/clock.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Denis Reimer](../../persons/denis_reimer/clock.md) | 40+ | 17.23 | 21.16 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/denis.reimer.5473/videos/660175297927432) / [Mobile](https://m.facebook.com/denis.reimer.5473/videos/660175297927432) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | 18.16 | 24.82 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2626236590959927/permalink/2628464524070467) / [Mobile](https://m.facebook.com/events/2626236590959927?view=permalink&id=2628464524070467) |
+| 3 | [Aaron Cumes](../../persons/aaron_cumes/clock.md) | 40+ | 28.87 | 41.68 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2626236590959927/permalink/2627724244144495) / [Mobile](https://m.facebook.com/events/2626236590959927?view=permalink&id=2627724244144495) |
+
 #### [2020-08-25](../../results/2020-08-25/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

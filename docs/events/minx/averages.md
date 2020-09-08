@@ -17,7 +17,7 @@
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Go-ho Choi](../../persons/go_ho_choi/minx.md) | [2020-07-14](../../results/2020-07-14/minx.md) | <40 | 1:06.45 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1157754364595802/permalink/1158593647845207) / [Mobile](https://m.facebook.com/events/1157754364595802?view=permalink&id=1158593647845207) |
-| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | [2020-08-11](../../results/2020-08-11/minx.md) | <40 | 2:04.70 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/338631130511019/permalink/343518013355664) / [Mobile](https://m.facebook.com/events/338631130511019?view=permalink&id=343518013355664) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | [2020-08-11](../../results/2020-08-11/minx.md) | <40 | 2:04.70 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/338631130511019/permalink/343518013355664) / [Mobile](https://m.facebook.com/events/338631130511019?view=permalink&id=343518013355664) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

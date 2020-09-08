@@ -4,6 +4,12 @@
 ### 6x6x6 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-01](../../results/2020-09-01/666.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | 3:44.60 | 3:57.32 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/617967617/videos/pcb.988636808224558/10158632768542618) / [Mobile](https://m.facebook.com/617967617/videos/pcb.988636808224558/10158632768542618) |
+
 #### [2020-08-25](../../results/2020-08-25/666.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

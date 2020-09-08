@@ -4,6 +4,13 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-01](../../results/2020-09-01/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | 40+ | 53.44 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/341866283526200/permalink/342856113427217) / [Mobile](https://m.facebook.com/events/341866283526200?view=permalink&id=342856113427217) |
+| 2 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | 1:53.12 | 1:59.28 | 🥈 | [Desktop](https://www.facebook.com/events/341866283526200/permalink/346990013013827) / [Mobile](https://m.facebook.com/events/341866283526200?view=permalink&id=346990013013827) |
+
 #### [2020-08-25](../../results/2020-08-25/333bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

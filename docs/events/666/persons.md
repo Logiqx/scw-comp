@@ -28,6 +28,7 @@
 | [Donna Leiber](../../persons/donna_leiber/666.md) | 60+ | 12:04.43 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | 3:36.08 | 3:45.49 | 🏆 x 3 | 🥇 x 5, 🥈 x 11, 🥉 x 1 | 🔥 x 4, ⚡ x 3 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/666.md) | 40+ | 5:06.63 | DNF |  | 🥉 x 1 | ⚡ x 2 |
+| [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | 3:44.60 | 3:57.32 |  | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Michael George](../../persons/michael_george/666.md) | 40+ | 4:37.39 | DNF |  | 🥉 x 4 | ⚡ x 7 |
 
 #### Under 40
@@ -35,9 +36,9 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Ed Connell](../../persons/ed_connell/666.md) | <40 | 5:56.45 | DNF |  |  | ⚡ x 1 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | <40 | 3:31.88 | 3:45.45 | 🏆 x 2 |  | 🔥 x 2, ⚡ x 2 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | <40 | 3:29.87 | 3:45.45 | 🏆 x 3 |  | 🔥 x 2, ⚡ x 3 |
 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | <40 | 2:37.68 | 2:40.63 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Pete Lee](../../persons/pete_lee/666.md) | <40 | 4:35.73 | DNF |  |  | ⚡ x 4 |
+| [Pete Lee](../../persons/pete_lee/666.md) | <40 | 4:10.24 | 4:32.76 |  |  | 🔥 x 1, ⚡ x 5 |
 | [Peter Osudar](../../persons/peter_osudar/666.md) | <40 | 4:08.97 | 4:43.11 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 30

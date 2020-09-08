@@ -17,15 +17,17 @@
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | [2020-06-30](../../results/2020-06-30/666.md) | 40+ | 3:35.12 | 🏆 x 11 | 🥇 x 12, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 4 | [Desktop](https://www.facebook.com/events/284746466306313/permalink/285158502931776) / [Mobile](https://m.facebook.com/events/284746466306313?view=permalink&id=285158502931776) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | [2020-08-04](../../results/2020-08-04/666.md) | 40+ | 3:45.49 | 🏆 x 3 | 🥇 x 5, 🥈 x 11, 🥉 x 1 | 🔥 x 4, ⚡ x 3 | [Desktop](https://www.facebook.com/events/770016233779888/permalink/771383613643150) / [Mobile](https://m.facebook.com/events/770016233779888?view=permalink&id=771383613643150) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/666.md) | [2020-05-05](../../results/2020-05-05/666.md) | 50+ | 5:54.57 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/557526585195168/permalink/562187611395732) / [Mobile](https://m.facebook.com/events/557526585195168?view=permalink&id=562187611395732) |
+| 3 | [Konsta Jukka](../../persons/konsta_jukka/666.md) | [2020-09-01](../../results/2020-09-01/666.md) | 40+ | 3:57.32 |  | 🥇 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/617967617/videos/pcb.988636808224558/10158632768542618) / [Mobile](https://m.facebook.com/617967617/videos/pcb.988636808224558/10158632768542618) |
+| 4 | [Daniel Smith](../../persons/daniel_smith/666.md) | [2020-05-05](../../results/2020-05-05/666.md) | 50+ | 5:54.57 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/557526585195168/permalink/562187611395732) / [Mobile](https://m.facebook.com/events/557526585195168?view=permalink&id=562187611395732) |
 
 #### Under 40
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | [2020-07-14](../../results/2020-07-14/666.md) | <40 | 2:40.63 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/2729568740635198/permalink/2730916483833757) / [Mobile](https://m.facebook.com/events/2729568740635198?view=permalink&id=2730916483833757) |
-| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | [2020-08-25](../../results/2020-08-25/666.md) | <40 | 3:45.45 | 🏆 x 2 |  | 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/375269430142971/permalink/380008199669094) / [Mobile](https://m.facebook.com/events/375269430142971?view=permalink&id=380008199669094) |
-| 3 | [Peter Osudar](../../persons/peter_osudar/666.md) | [2020-06-23](../../results/2020-06-23/666.md) | <40 | 4:43.11 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/268636114456043/permalink/276193687033619) / [Mobile](https://m.facebook.com/events/268636114456043?view=permalink&id=276193687033619) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | [2020-08-25](../../results/2020-08-25/666.md) | <40 | 3:45.45 | 🏆 x 3 |  | 🔥 x 2, ⚡ x 3 | [Desktop](https://www.facebook.com/events/375269430142971/permalink/380008199669094) / [Mobile](https://m.facebook.com/events/375269430142971?view=permalink&id=380008199669094) |
+| 3 | [Pete Lee](../../persons/pete_lee/666.md) | [2020-09-01](../../results/2020-09-01/666.md) | <40 | 4:32.76 |  |  | 🔥 x 1, ⚡ x 5 | [Desktop](https://www.facebook.com/events/987180995036806/permalink/988682058220033) / [Mobile](https://m.facebook.com/events/987180995036806?view=permalink&id=988682058220033) |
+| 4 | [Peter Osudar](../../persons/peter_osudar/666.md) | [2020-06-23](../../results/2020-06-23/666.md) | <40 | 4:43.11 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/268636114456043/permalink/276193687033619) / [Mobile](https://m.facebook.com/events/268636114456043?view=permalink&id=276193687033619) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

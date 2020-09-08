@@ -14,7 +14,7 @@
 | [6x6x6](666.md) | 12:04.43 | - |  | 💥 x 3, ⚡ x 3 |
 | [7x7x7](777.md) | 15:59.23 | - | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
 | [Megaminx](minx.md) | 7:34.18 | - |  | 💥 x 1, ⚡ x 1 |
-| [3x3x3 FMC](333fm.md) | 40 | - | 🥈 x 2, 🥉 x 3 | 💥 x 3, ⚡ x 3 |
+| [3x3x3 FMC](333fm.md) | 40 | - | 🥈 x 2, 🥉 x 4 | 💥 x 3, ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

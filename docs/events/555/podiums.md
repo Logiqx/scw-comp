@@ -4,6 +4,14 @@
 ### 5x5x5 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-01](../../results/2020-09-01/555.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | 2:35.61 | 2:44.91 | 🥇 | [Desktop](https://www.facebook.com/events/987180995036806/permalink/992470331174539) / [Mobile](https://m.facebook.com/events/987180995036806?view=permalink&id=992470331174539) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | 3:32.70 | 3:42.81 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/987180995036806/permalink/987838534971052) / [Mobile](https://m.facebook.com/events/987180995036806?view=permalink&id=987838534971052) |
+| 3 | [Jae Park](../../persons/jae_park/555.md) | 40+ | 5:12.61 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/987180995036806/permalink/988277498260489) / [Mobile](https://m.facebook.com/events/987180995036806?view=permalink&id=988277498260489) |
+
 #### [2020-08-25](../../results/2020-08-25/555.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

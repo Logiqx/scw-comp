@@ -4,6 +4,14 @@
 ### 3x3x3 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-01](../../results/2020-09-01/333.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | 9.40 | 10.67 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/617967617/videos/10158631124347618) / [Mobile](https://m.facebook.com/617967617/videos/10158631124347618) |
+| 2 | [Michael George](../../persons/michael_george/333.md) | 40+ | 11.96 | 14.81 | 🥈 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214233673396102) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214233673396102) |
+| 3 | [Chris Wright](../../persons/chris_wright/333.md) | 50+ | 14.04 | 14.86 | 🥉 | [Desktop](https://www.facebook.com/christopher.wright.94617999/videos/10157623919417874) / [Mobile](https://m.facebook.com/christopher.wright.94617999/videos/10157623919417874) |
+
 #### [2020-08-25](../../results/2020-08-25/333.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

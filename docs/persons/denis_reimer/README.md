@@ -7,8 +7,8 @@
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [3x3x3](333.md) | 20.77 | 26.10 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Clock](clock.md) | 20.99 | 24.33 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
+| [3x3x3](333.md) | 19.64 | 24.93 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Clock](clock.md) | 17.23 | 21.16 | 🏆 x 1 | 🥇 x 2 | 🔥 x 2, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

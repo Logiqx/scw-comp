@@ -4,6 +4,14 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-01](../../results/2020-09-01/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 27 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2722940861324520/permalink/2726372110981395) / [Mobile](https://m.facebook.com/events/2722940861324520?view=permalink&id=2726372110981395) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | 49 | 🥈 | [Desktop](https://www.facebook.com/events/2722940861324520/permalink/2724559384496001) / [Mobile](https://m.facebook.com/events/2722940861324520?view=permalink&id=2724559384496001) |
+| 3 | [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | 54 | 🥉 | [Desktop](https://www.facebook.com/events/2722940861324520/permalink/2726661450952461) / [Mobile](https://m.facebook.com/events/2722940861324520?view=permalink&id=2726661450952461) |
+
 #### [2020-08-25](../../results/2020-08-25/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |

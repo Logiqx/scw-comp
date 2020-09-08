@@ -4,6 +4,14 @@
 ### Skewb Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-01](../../results/2020-09-01/skewb.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael George](../../persons/michael_george/skewb.md) | 40+ | 6.08 | 8.60 | 🏆 🥇 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214233784038868) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214233784038868) |
+| 2 | [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | 40+ | 17.60 | 18.74 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/2626236590959927/permalink/2627091540874432) / [Mobile](https://m.facebook.com/events/2626236590959927?view=permalink&id=2627091540874432) |
+| 3 | [Marcel Balzer](../../persons/marcel_balzer/skewb.md) | 40+ | 27.44 | 55.24 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/marcel.balzer.9216/videos/10160386343317516) / [Mobile](https://m.facebook.com/marcel.balzer.9216/videos/10160386343317516) |
+
 #### [2020-08-25](../../results/2020-08-25/skewb.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

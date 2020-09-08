@@ -4,6 +4,14 @@
 ### 4x4x4 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-01](../../results/2020-09-01/444.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael George](../../persons/michael_george/444.md) | 40+ | 49.82 | 58.68 | 🥇 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214233575513655) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214233575513655) |
+| 2 | [Aaron Cumes](../../persons/aaron_cumes/444.md) | 40+ | 1:10.52 | 1:16.89 | 🥈 | [Desktop](https://www.facebook.com/events/987180995036806/permalink/989193771502195) / [Mobile](https://m.facebook.com/events/987180995036806?view=permalink&id=989193771502195) |
+| 3 | [Daniel Smith](../../persons/daniel_smith/444.md) | 50+ | 1:18.33 | 1:28.52 | 🥉 | [Desktop](https://www.facebook.com/events/987180995036806/permalink/992470331174539) / [Mobile](https://m.facebook.com/events/987180995036806?view=permalink&id=992470331174539) |
+
 #### [2020-08-25](../../results/2020-08-25/444.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

@@ -35,7 +35,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Thames](../../persons/chris_thames/minx.md) | <40 | 6:02.13 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/minx.md) | <40 | 3:24.48 | DNF |  |  | ⚡ x 1 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | <40 | 1:57.48 | 2:04.70 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | <40 | 1:57.48 | 2:04.70 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 | [Go-ho Choi](../../persons/go_ho_choi/minx.md) | <40 | 53.33 | 1:06.45 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 
