@@ -15,6 +15,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
+| [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | 1:54.48 | 2:17.73 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Daniel Smith](../../persons/daniel_smith/minx.md) | 50+ | 8:11.77 | DNF |  |  | ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 
@@ -24,8 +25,10 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/minx.md) | 40+ | 3:52.70 | DNF |  | 🥉 x 4 | ⚡ x 2 |
 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | 2:21.01 | 2:38.71 |  | 🥈 x 8 | 🔥 x 5, ⚡ x 4 |
+| [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | 1:54.48 | 2:17.73 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Daniel Smith](../../persons/daniel_smith/minx.md) | 50+ | 8:11.77 | DNF |  |  | ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | 40+ | 1:21.66 | 1:44.37 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:27.50 | 1:39.69 | 🏆 x 13 | 🥇 x 14 | 💥 x 5, 🔥 x 2, ⚡ x 5 |
 | [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | 3:55.83 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 
@@ -33,6 +36,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
+| [Adam Robson](../../persons/adam_robson/minx.md) | <40 | 4:37.65 | DNF |  |  | ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/minx.md) | <40 | 6:02.13 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/minx.md) | <40 | 3:24.48 | DNF |  |  | ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | <40 | 1:57.48 | 2:04.70 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |

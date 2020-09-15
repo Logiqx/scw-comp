@@ -4,6 +4,13 @@
 ### Skewb Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-08](../../results/2020-09-08/skewb.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | 4.71 | 7.43 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1438001453064843/permalink/1439265732938415) / [Mobile](https://m.facebook.com/events/1438001453064843?view=permalink&id=1439265732938415) |
+| 2 | [Marcel Balzer](../../persons/marcel_balzer/skewb.md) | 40+ | 34.63 | 55.09 | 🥈 🔥 | [Desktop](https://www.facebook.com/marcel.balzer.9216/videos/10160398649212516) / [Mobile](https://m.facebook.com/marcel.balzer.9216/videos/10160398649212516) |
+
 #### [2020-09-01](../../results/2020-09-01/skewb.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

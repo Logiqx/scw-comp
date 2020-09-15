@@ -9,20 +9,22 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 22.82 | 26.95 | 🏆 x 12 | 🥇 x 12 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
+| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 20.69 | 26.95 | 🏆 x 13 | 🥇 x 13 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
 
 #### Over 40
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | 31.85 | 49.65 |  | 🥈 x 6 | 🔥 x 2, ⚡ x 2 |
-| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 22.82 | 26.95 | 🏆 x 12 | 🥇 x 12 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
+| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 20.69 | 26.95 | 🏆 x 13 | 🥇 x 13 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | 40+ | 27.34 | 32.92 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | 43.91 | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
+| [Adam Robson](../../persons/adam_robson/sq1.md) | <40 | 2:46.56 | 4:04.78 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/sq1.md) | <40 | 23.83 | 36.33 |  |  | 💥 x 1, 🔥 x 4, ⚡ x 4 |
 | [Peter Osudar](../../persons/peter_osudar/sq1.md) | <40 | 55.64 | 1:03.67 |  |  | 🔥 x 1, ⚡ x 1 |
 

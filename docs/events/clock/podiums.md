@@ -4,6 +4,14 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-08](../../results/2020-09-08/clock.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | 13.07 | 15.20 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1438001453064843/permalink/1443799822485006) / [Mobile](https://m.facebook.com/events/1438001453064843?view=permalink&id=1443799822485006) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | 17.19 | 20.08 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1438001453064843/permalink/1439005372964451) / [Mobile](https://m.facebook.com/events/1438001453064843?view=permalink&id=1439005372964451) |
+| 3 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/clock.md) | 40+ | 34.05 | 42.18 | 🥉 | [Desktop](https://www.facebook.com/events/1438001453064843/permalink/1443279142537074) / [Mobile](https://m.facebook.com/events/1438001453064843?view=permalink&id=1443279142537074) |
+
 #### [2020-09-01](../../results/2020-09-01/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

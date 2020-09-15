@@ -4,6 +4,13 @@
 ### 7x7x7 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-08](../../results/2020-09-08/777.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | 4:13.70 | 4:36.98 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/342884623427933/permalink/344001823316213) / [Mobile](https://m.facebook.com/events/342884623427933?view=permalink&id=344001823316213) |
+| 2 | [Chris Wright](../../persons/chris_wright/777.md) | 50+ | 4:58.03 | 5:15.92 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/christopher.wright.94617999/videos/10157638636232874) / [Mobile](https://m.facebook.com/christopher.wright.94617999/videos/10157638636232874) |
+
 #### [2020-09-01](../../results/2020-09-01/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

@@ -8,6 +8,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-09-08](../../results/2020-09-08/skewb.md) | 40+ | 34.63 | **55.09** | 🥈 🔥 | 46.22 | 1:07.54 | 34.63 | 1:01.07 | 57.98 | [Desktop](https://www.facebook.com/marcel.balzer.9216/videos/10160398649212516) / [Mobile](https://m.facebook.com/marcel.balzer.9216/videos/10160398649212516) |
 | [2020-09-01](../../results/2020-09-01/skewb.md) | 40+ | **27.44** | **55.24** | 🥉 🔥 ⚡ | 1:24.73 | 1:18.40 | **27.44** | 49.75 | 37.56 | [Desktop](https://www.facebook.com/marcel.balzer.9216/videos/10160386343317516) / [Mobile](https://m.facebook.com/marcel.balzer.9216/videos/10160386343317516) |
 
 

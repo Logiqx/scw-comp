@@ -4,6 +4,13 @@
 ### Megaminx Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-08](../../results/2020-09-08/minx.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | 40+ | 1:21.66 | 1:44.37 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/660661614881054/permalink/665531487727400) / [Mobile](https://m.facebook.com/events/660661614881054?view=permalink&id=665531487727400) |
+| 2 | [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | 1:54.48 | 2:17.73 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/christopher.wright.94617999/videos/10157638865557874) / [Mobile](https://m.facebook.com/christopher.wright.94617999/videos/10157638865557874) |
+
 
 #### [2020-08-25](../../results/2020-08-25/minx.md)
 

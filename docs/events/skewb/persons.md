@@ -10,9 +10,10 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | 40+ | 14.77 | 18.74 |  | 🥈 x 4 | 🔥 x 4, ⚡ x 2 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | 4.71 | 7.43 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/skewb.md) | 40+ | 7.88 | 12.16 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | 40+ | 4.15 | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Marcel Balzer](../../persons/marcel_balzer/skewb.md) | 40+ | 27.44 | 55.24 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Marcel Balzer](../../persons/marcel_balzer/skewb.md) | 40+ | 27.44 | 55.09 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 1 |
 | [Michael George](../../persons/michael_george/skewb.md) | 40+ | 2.78 | 7.91 | 🏆 x 8 | 🥇 x 10 | 💥 x 4, 🔥 x 3, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | 40+ | 7.77 | 10.46 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 
@@ -20,9 +21,10 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
+| [Adam Robson](../../persons/adam_robson/skewb.md) | <40 | 28.41 | 38.18 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/skewb.md) | <40 | 9.60 | 19.07 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | 4.85 | 11.31 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 3 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | <40 | 8.68 | 10.77 |  |  | 🔥 x 1, ⚡ x 2 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | <40 | 6.70 | 9.23 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Pete Lee](../../persons/pete_lee/skewb.md) | <40 | 6.84 | 13.62 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Peter Osudar](../../persons/peter_osudar/skewb.md) | <40 | 3.87 | 9.52 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 

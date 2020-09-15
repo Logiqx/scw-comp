@@ -4,6 +4,13 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-08](../../results/2020-09-08/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 29 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/328891351562846/permalink/330632104722104) / [Mobile](https://m.facebook.com/events/328891351562846?view=permalink&id=330632104722104) |
+| 2 | [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | 56 | 🥈 | [Desktop](https://www.facebook.com/events/328891351562846/permalink/331018928016755) / [Mobile](https://m.facebook.com/events/328891351562846?view=permalink&id=331018928016755) |
+
 #### [2020-09-01](../../results/2020-09-01/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |

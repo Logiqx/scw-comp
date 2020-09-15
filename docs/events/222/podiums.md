@@ -4,6 +4,14 @@
 ### 2x2x2 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-08](../../results/2020-09-08/222.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | 3.02 | 4.91 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/660661614881054/permalink/663650014582214) / [Mobile](https://m.facebook.com/events/660661614881054?view=permalink&id=663650014582214) |
+| 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/222.md) | 40+ | 4.57 | 6.23 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/660661614881054/permalink/662197464727469) / [Mobile](https://m.facebook.com/events/660661614881054?view=permalink&id=662197464727469) |
+| 3 | [Fumiki Koseki](../../persons/fumiki_koseki/222.md) | 40+ | 4.84 | 6.33 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/660661614881054/permalink/665963447684204) / [Mobile](https://m.facebook.com/events/660661614881054?view=permalink&id=665963447684204) |
+
 #### [2020-09-01](../../results/2020-09-01/222.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
