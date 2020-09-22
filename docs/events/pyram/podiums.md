@@ -4,6 +4,14 @@
 ### Pyraminx Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-15](../../results/2020-09-15/pyram.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) | 40+ | 7.01 | 7.83 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/681386202727964/permalink/684674805732437) / [Mobile](https://m.facebook.com/events/681386202727964?view=permalink&id=684674805732437) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 9.71 | 11.26 | 🥈 | [Desktop](https://www.facebook.com/events/681386202727964/permalink/686868562179728) / [Mobile](https://m.facebook.com/events/681386202727964?view=permalink&id=686868562179728) |
+| 3 | [Marcel Balzer](../../persons/marcel_balzer/pyram.md) | 40+ | 17.83 | 25.27 | 🥉 ⚡ | [Desktop](https://www.facebook.com/marcel.balzer.9216/videos/10160430425607516) / [Mobile](https://m.facebook.com/marcel.balzer.9216/videos/10160430425607516) |
+
 #### [2020-09-08](../../results/2020-09-08/pyram.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

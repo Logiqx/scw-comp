@@ -15,7 +15,7 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Jae Park](../../persons/jae_park/444bf.md) | [2020-09-08](../../results/2020-09-08/444bf.md) | 40+ | 5:21.77 | 🏆 x 13 | 🥇 x 14 | 💥 x 5, ⚡ x 5 | [Desktop](https://www.facebook.com/events/255657718878285/permalink/256857075425016) / [Mobile](https://m.facebook.com/events/255657718878285?view=permalink&id=256857075425016) |
+| 1 | [Jae Park](../../persons/jae_park/444bf.md) | [2020-09-08](../../results/2020-09-08/444bf.md) | 40+ | 5:21.77 | 🏆 x 14 | 🥇 x 15 | 💥 x 5, ⚡ x 5 | [Desktop](https://www.facebook.com/events/255657718878285/permalink/256857075425016) / [Mobile](https://m.facebook.com/events/255657718878285?view=permalink&id=256857075425016) |
 | 2 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | [2020-05-19](../../results/2020-05-19/444bf.md) | 50+ | 10:23.86 |  | 🥇 x 1, 🥈 x 1 | 💥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/2608037409484307/permalink/2612310882390293) / [Mobile](https://m.facebook.com/events/2608037409484307?view=permalink&id=2612310882390293) |
 | 3 | [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | [2020-05-19](../../results/2020-05-19/444bf.md) | 40+ | 10:52.00 | 🏆 x 1 | 🥇 x 1, 🥈 x 5 | ⚡ x 1 | [Desktop](https://www.facebook.com/events/2608037409484307/permalink/2609949869293061) / [Mobile](https://m.facebook.com/events/2608037409484307?view=permalink&id=2609949869293061) |
 
@@ -23,7 +23,7 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Chris Hardwick](../../persons/chris_hardwick/444bf.md) | [2020-08-25](../../results/2020-08-25/444bf.md) | <40 | 6:10.32 | 🏆 x 2 |  | 💥 x 1, 🔥 x 1, ⚡ x 3 | [Desktop](https://www.facebook.com/events/2697073243839990/permalink/2698138830400098) / [Mobile](https://m.facebook.com/events/2697073243839990?view=permalink&id=2698138830400098) |
+| 1 | [Chris Hardwick](../../persons/chris_hardwick/444bf.md) | [2020-09-15](../../results/2020-09-15/444bf.md) | <40 | 6:03.91 | 🏆 x 2 |  | 💥 x 2, 🔥 x 2, ⚡ x 4 | [Desktop](https://www.facebook.com/events/345183733276011/permalink/347343903059994) / [Mobile](https://m.facebook.com/events/345183733276011?view=permalink&id=347343903059994) |
 
 #### Under 20
 

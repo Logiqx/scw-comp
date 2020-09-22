@@ -4,6 +4,14 @@
 ### 4x4x4 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-15](../../results/2020-09-15/444.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | 45.94 | 56.39 | 🥇 ⚡ | [Desktop](https://www.facebook.com/events/655903882008117/permalink/659478714983967) / [Mobile](https://m.facebook.com/events/655903882008117?view=permalink&id=659478714983967) |
+| 2 | [Chris Wright](../../persons/chris_wright/444.md) | 50+ | 56.48 | 57.97 | 🥈 | [Desktop](https://www.facebook.com/christopher.wright.94617999/videos/10157647488517874) / [Mobile](https://m.facebook.com/christopher.wright.94617999/videos/10157647488517874) |
+| 3 | [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | 56.85 | 1:04.57 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/655903882008117/permalink/660708578194314) / [Mobile](https://m.facebook.com/events/655903882008117?view=permalink&id=660708578194314) |
+
 #### [2020-09-08](../../results/2020-09-08/444.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

@@ -4,6 +4,14 @@
 ### 3x3x3 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-15](../../results/2020-09-15/333.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | 8.64 | 10.38 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3404368289613252/permalink/3422520961131318) / [Mobile](https://m.facebook.com/events/3404368289613252?view=permalink&id=3422520961131318) |
+| 2 | [Chris Wright](../../persons/chris_wright/333.md) | 50+ | 12.74 | 13.67 | 🥈 💥 🔥 | [Desktop](https://www.facebook.com/christopher.wright.94617999/videos/10157647751332874) / [Mobile](https://m.facebook.com/christopher.wright.94617999/videos/10157647751332874) |
+| 3 | [Fumiki Koseki](../../persons/fumiki_koseki/333.md) | 40+ | 15.65 | 16.97 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/3404368289613252/permalink/3417646524952095) / [Mobile](https://m.facebook.com/events/3404368289613252?view=permalink&id=3417646524952095) |
+
 #### [2020-09-08](../../results/2020-09-08/333.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

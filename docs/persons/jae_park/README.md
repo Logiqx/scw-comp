@@ -12,8 +12,8 @@
 | [4x4x4](444.md) | 2:03.34 | 2:30.77 |  |  | 🔥 x 1, ⚡ x 2 |
 | [5x5x5](555.md) | 4:56.47 | 5:55.66 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 4 |
 | [3x3x3 BLD](333bf.md) | 45.10 | 57.66 | 🏆 x 21 | 🥇 x 22 | 💥 x 4, 🔥 x 1, ⚡ x 4 |
-| [4x4x4 BLD](444bf.md) | 5:21.77 | - | 🏆 x 13 | 🥇 x 14 | 💥 x 5, ⚡ x 5 |
-| [5x5x5 BLD](555bf.md) | 13:51.60 | - | 🏆 x 7 | 🥇 x 12 | 💥 x 3, ⚡ x 3 |
+| [4x4x4 BLD](444bf.md) | 5:21.77 | - | 🏆 x 14 | 🥇 x 15 | 💥 x 5, ⚡ x 5 |
+| [5x5x5 BLD](555bf.md) | 13:51.60 | - | 🏆 x 7 | 🥇 x 13 | 💥 x 3, ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

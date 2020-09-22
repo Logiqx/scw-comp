@@ -4,6 +4,14 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-15](../../results/2020-09-15/clock.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | 12.48 | 14.10 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/681386202727964/permalink/684677592398825) / [Mobile](https://m.facebook.com/events/681386202727964?view=permalink&id=684677592398825) |
+| 2 | [Aaron Cumes](../../persons/aaron_cumes/clock.md) | 40+ | 26.22 | 32.71 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/681386202727964/permalink/683494675850450) / [Mobile](https://m.facebook.com/events/681386202727964?view=permalink&id=683494675850450) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | 17.92 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/681386202727964/permalink/683949432471641) / [Mobile](https://m.facebook.com/events/681386202727964?view=permalink&id=683949432471641) |
+
 #### [2020-09-08](../../results/2020-09-08/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

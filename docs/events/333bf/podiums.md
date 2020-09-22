@@ -4,6 +4,14 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-15](../../results/2020-09-15/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | 1:11.87 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/345183733276011/permalink/347629796364738) / [Mobile](https://m.facebook.com/events/345183733276011?view=permalink&id=347629796364738) |
+| 2 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | 1:40.28 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/345183733276011/permalink/349829676144750) / [Mobile](https://m.facebook.com/events/345183733276011?view=permalink&id=349829676144750) |
+| 3 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | 3:06.64 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/javier.rossi.96/videos/3904116566269088) / [Mobile](https://m.facebook.com/javier.rossi.96/videos/3904116566269088) |
+
 #### [2020-09-08](../../results/2020-09-08/333bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
