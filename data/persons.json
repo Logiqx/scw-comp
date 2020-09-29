@@ -223,6 +223,11 @@
     "id": 54,
     "wcaId": "2019JARM01"
   },
+  "Kerry Go": {
+    "age": "50+",
+    "id": 85,
+    "wcaId": "2019GOKE01"
+  },
   "Konsta Jukka": {
     "age": "40+",
     "id": 82,
@@ -390,6 +395,11 @@
   "Will Lambert": {
     "age": "<20",
     "id": 2
+  },
+  "Wojciech Poljanowski": {
+    "age": "50+",
+    "id": 84,
+    "wcaId": "2010POLJ01"
   },
   "Yi-Wei Chen": {
     "age": "40+",
