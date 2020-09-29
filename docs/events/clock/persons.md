@@ -18,10 +18,11 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/clock.md) | 40+ | 26.22 | 32.71 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.02 | 13.12 | 🏆 x 4 | 🥇 x 4, 🥈 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 2 |
-| [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | 17.19 | 20.08 |  | 🥇 x 1, 🥈 x 3, 🥉 x 1 | 🔥 x 4, ⚡ x 4 |
+| [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | 15.50 | 16.18 |  | 🥇 x 1, 🥈 x 4, 🥉 x 1 | 🔥 x 5, ⚡ x 5 |
 | [Denis Reimer](../../persons/denis_reimer/clock.md) | 40+ | 17.23 | 21.16 | 🏆 x 1 | 🥇 x 2 | 🔥 x 2, ⚡ x 2 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | 12.48 | 14.10 | 🏆 x 2 | 🥇 x 2 | 🔥 x 2, ⚡ x 2 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | 10.40 | 14.10 | 🏆 x 2 | 🥇 x 3 | 💥 x 1, 🔥 x 2, ⚡ x 3 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/clock.md) | 40+ | 26.90 | 43.62 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Jae Park](../../persons/jae_park/clock.md) | 40+ | 39.60 | 43.06 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/clock.md) | 40+ | 32.81 | 39.96 |  | 🥇 x 2, 🥈 x 1, 🥉 x 3 | 🔥 x 2, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 18.96 | 22.19 |  | 🥇 x 2, 🥈 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | 25.94 | 34.18 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
@@ -30,9 +31,10 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Adam Robson](../../persons/adam_robson/clock.md) | <40 | 14.63 | 16.94 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Adam Robson](../../persons/adam_robson/clock.md) | <40 | 12.48 | 15.66 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Ed Connell](../../persons/ed_connell/clock.md) | <40 | 13.88 | 15.56 | 🏆 x 6 |  | 🔥 x 6, ⚡ x 4 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/clock.md) | <40 | 18.17 | 23.64 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Go-ho Choi](../../persons/go_ho_choi/clock.md) | <40 | 10.95 | 12.60 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Peter Osudar](../../persons/peter_osudar/clock.md) | <40 | 19.18 | 21.63 |  |  | 🔥 x 1, ⚡ x 1 |
 
 

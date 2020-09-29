@@ -4,10 +4,11 @@
 ### [Fumiki Koseki](README.md) - [2005KOSE01](https://www.worldcubeassociation.org/persons/2005KOSE01?event=clock)
 #### Clock Results
 
-<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-09-22](../../results/2020-09-22/clock.md) | 40+ | **10.40** | 14.20 | 🥇 💥 ⚡ | 16.94 | 12.82 | 15.65 | 14.14 | **10.40** | [Desktop](https://www.facebook.com/events/361626694990606/permalink/362915021528440) / [Mobile](https://m.facebook.com/events/361626694990606?view=permalink&id=362915021528440) |
 | [2020-09-15](../../results/2020-09-15/clock.md) | 40+ | **12.48** | **14.10** | 🏆 🥇 🔥 ⚡ | 15.25 | 14.11 | 15.24 | 12.95 | **12.48** | [Desktop](https://www.facebook.com/events/681386202727964/permalink/684677592398825) / [Mobile](https://m.facebook.com/events/681386202727964?view=permalink&id=684677592398825) |
 | [2020-09-08](../../results/2020-09-08/clock.md) | 40+ | **13.07** | **15.20** | 🏆 🥇 🔥 ⚡ | 15.12 | 15.59 | **13.07** | 16.66 | 14.89 | [Desktop](https://www.facebook.com/events/1438001453064843/permalink/1443799822485006) / [Mobile](https://m.facebook.com/events/1438001453064843?view=permalink&id=1443799822485006) |
 

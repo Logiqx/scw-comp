@@ -16,14 +16,14 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | 40+ | 10:52.00 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 5 | ⚡ x 1 |
-| [Jae Park](../../persons/jae_park/444bf.md) | 40+ | 5:21.77 | DNF | 🏆 x 14 | 🥇 x 15 | 💥 x 5, ⚡ x 5 |
+| [Jae Park](../../persons/jae_park/444bf.md) | 40+ | 5:21.77 | DNF | 🏆 x 15 | 🥇 x 16 | 💥 x 5, ⚡ x 5 |
 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | 10:23.86 | DNF |  | 🥇 x 1, 🥈 x 1 | 💥 x 2, ⚡ x 2 |
 
 #### Under 40
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Chris Hardwick](../../persons/chris_hardwick/444bf.md) | <40 | 6:03.91 | 6:59.60 | 🏆 x 2 |  | 💥 x 2, 🔥 x 2, ⚡ x 4 |
+| [Chris Hardwick](../../persons/chris_hardwick/444bf.md) | <40 | 5:38.07 | 5:54.69 | 🏆 x 2 |  | 💥 x 3, 🔥 x 3, ⚡ x 5 |
 
 #### Under 20
 

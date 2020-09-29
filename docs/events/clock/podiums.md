@@ -4,6 +4,14 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-22](../../results/2020-09-22/clock.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | 10.40 | 14.20 | 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/361626694990606/permalink/362915021528440) / [Mobile](https://m.facebook.com/events/361626694990606?view=permalink&id=362915021528440) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | 15.50 | 16.18 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/361626694990606/permalink/361801888306420) / [Mobile](https://m.facebook.com/events/361626694990606?view=permalink&id=361801888306420) |
+| 3 | [Jae Park](../../persons/jae_park/clock.md) | 40+ | 39.60 | 43.06 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/361626694990606/permalink/361750568311552) / [Mobile](https://m.facebook.com/events/361626694990606?view=permalink&id=361750568311552) |
+
 #### [2020-09-15](../../results/2020-09-15/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

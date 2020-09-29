@@ -4,6 +4,12 @@
 ### 4x4x4 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-22](../../results/2020-09-22/444bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/444bf.md) | 40+ | 5:22.49 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/4389765994427083/permalink/4399490356787980) / [Mobile](https://m.facebook.com/events/4389765994427083?view=permalink&id=4399490356787980) |
+
 #### [2020-09-15](../../results/2020-09-15/444bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

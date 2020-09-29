@@ -4,6 +4,14 @@
 ### 5x5x5 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-22](../../results/2020-09-22/555.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | 1:31.73 | 1:37.91 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/342541897161786/permalink/343949387021037) / [Mobile](https://m.facebook.com/events/342541897161786?view=permalink&id=343949387021037) |
+| 2 | [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | 1:49.26 | 1:53.70 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/342541897161786/permalink/345663906849585) / [Mobile](https://m.facebook.com/events/342541897161786?view=permalink&id=345663906849585) |
+| 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | 2:47.55 | 2:59.45 | 🥉 | [Desktop](https://www.facebook.com/events/342541897161786/permalink/346735893409053) / [Mobile](https://m.facebook.com/events/342541897161786?view=permalink&id=346735893409053) |
+
 #### [2020-09-15](../../results/2020-09-15/555.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
