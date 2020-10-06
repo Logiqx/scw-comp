@@ -4,6 +4,13 @@
 ### 6x6x6 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-29](../../results/2020-09-29/666.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/666.md) | 40+ | 2:42.01 | 2:55.39 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/427181104911253/permalink/432492021046828) / [Mobile](https://m.facebook.com/events/427181104911253?view=permalink&id=432492021046828) |
+| 2 | [Jae Park](../../persons/jae_park/666.md) | 40+ | 12:20.61 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/427181104911253/permalink/430448351251195) / [Mobile](https://m.facebook.com/events/427181104911253?view=permalink&id=430448351251195) |
+
 #### [2020-09-22](../../results/2020-09-22/666.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

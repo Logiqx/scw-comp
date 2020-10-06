@@ -17,7 +17,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | 1:41.03 | 1:46.58 |  | 🥇 x 1, 🥈 x 3 | 💥 x 3, 🔥 x 1, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
-| [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | 2:19.29 | 2:39.63 |  | 🥇 x 1, 🥈 x 2, 🥉 x 7 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
+| [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | 2:19.29 | 2:39.63 |  | 🥇 x 1, 🥈 x 2, 🥉 x 8 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | 5:50.00 | DNF |  |  | ⚡ x 1 |
 
@@ -27,18 +27,19 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/555.md) | 40+ | 2:28.62 | 2:39.68 |  | 🥉 x 2 | 🔥 x 3, ⚡ x 2 |
 | [Andy Nicholls](../../persons/andy_nicholls/555.md) | 40+ | 1:38.52 | 1:46.32 | 🏆 x 12 | 🥇 x 14, 🥈 x 2 | 💥 x 3, 🔥 x 2, ⚡ x 3 |
+| [Anthony Rochester](../../persons/anthony_rochester/555.md) | 40+ | 3:45.86 | 3:53.73 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | 1:41.03 | 1:46.58 |  | 🥇 x 1, 🥈 x 3 | 💥 x 3, 🔥 x 1, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
-| [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | 2:19.29 | 2:39.63 |  | 🥇 x 1, 🥈 x 2, 🥉 x 7 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
+| [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | 2:19.29 | 2:39.63 |  | 🥇 x 1, 🥈 x 2, 🥉 x 8 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | 1:30.40 | 1:37.91 | 🏆 x 3 | 🥇 x 3 | 💥 x 2, 🔥 x 3, ⚡ x 2 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | 1:25.53 | 1:37.91 | 🏆 x 4 | 🥇 x 4 | 💥 x 3, 🔥 x 3, ⚡ x 3 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | 1:42.67 | 1:57.43 | 🏆 x 1 | 🥇 x 6, 🥈 x 12, 🥉 x 4 | 🔥 x 6, ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/555.md) | 40+ | 2:37.21 | 2:48.50 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/555.md) | 40+ | 4:56.47 | 5:55.66 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 4 |
 | [Jason Green](../../persons/jason_green/555.md) | 40+ | 2:31.09 | 2:50.91 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/555.md) | 40+ | 2:17.14 | 2:31.20 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/555.md) | 40+ | 4:06.17 | 4:17.14 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | 1:49.26 | 1:53.70 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | 1:43.75 | 1:53.34 |  | 🥈 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Michael George](../../persons/michael_george/555.md) | 40+ | 1:43.65 | 2:00.85 | 🏆 x 1 | 🥇 x 2, 🥈 x 4, 🥉 x 9 | 🔥 x 5, ⚡ x 5 |
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | 5:50.00 | DNF |  |  | ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/555.md) | 40+ | 2:17.13 | 2:27.99 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -55,7 +56,7 @@
 | [Ed Connell](../../persons/ed_connell/555.md) | <40 | 2:06.81 | 2:17.21 |  |  | 🔥 x 5, ⚡ x 4 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | <40 | 1:45.15 | 1:51.50 | 🏆 x 5 |  | 🔥 x 5, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/555.md) | <40 | 1:16.98 | 1:30.42 | 🏆 x 5 |  | 💥 x 3, 🔥 x 1, ⚡ x 3 |
-| [Pete Lee](../../persons/pete_lee/555.md) | <40 | 1:56.79 | 2:15.93 |  |  | 🔥 x 7, ⚡ x 5 |
+| [Pete Lee](../../persons/pete_lee/555.md) | <40 | 1:56.79 | 2:14.63 |  |  | 🔥 x 8, ⚡ x 5 |
 | [Peter Osudar](../../persons/peter_osudar/555.md) | <40 | 2:35.63 | 2:41.55 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 30

@@ -17,7 +17,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/444.md) | 50+ | 50.41 | 56.44 |  | 🥈 x 3 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | 50+ | 56.70 | 1:03.64 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 |
-| [Daniel Smith](../../persons/daniel_smith/444.md) | 50+ | 1:05.61 | 1:21.85 |  | 🥉 x 2 | 💥 x 1, 🔥 x 5, ⚡ x 6 |
+| [Daniel Smith](../../persons/daniel_smith/444.md) | 50+ | 1:05.61 | 1:21.85 |  | 🥈 x 1, 🥉 x 2 | 💥 x 1, 🔥 x 5, ⚡ x 6 |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | 4:08.00 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/444.md) | 50+ | 2:20.53 | 2:42.21 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Ron van Bruchem](../../persons/ron_van_bruchem/444.md) | 50+ | 46.32 | 49.81 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
@@ -28,12 +28,12 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/444.md) | 40+ | 1:02.34 | 1:13.17 |  | 🥈 x 1, 🥉 x 4 | 🔥 x 8, ⚡ x 6 |
 | [Andy Nicholls](../../persons/andy_nicholls/444.md) | 40+ | 54.56 | 1:00.45 | 🏆 x 2 | 🥇 x 3, 🥈 x 8, 🥉 x 1 | 🔥 x 5, ⚡ x 4 |
-| [Anthony Rochester](../../persons/anthony_rochester/444.md) | 40+ | 1:13.54 | 1:25.19 |  |  | 🔥 x 2, ⚡ x 3 |
+| [Anthony Rochester](../../persons/anthony_rochester/444.md) | 40+ | 1:13.54 | 1:25.19 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Chris Wright](../../persons/chris_wright/444.md) | 50+ | 50.41 | 56.44 |  | 🥈 x 3 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | 50+ | 56.70 | 1:03.64 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 |
-| [Daniel Smith](../../persons/daniel_smith/444.md) | 50+ | 1:05.61 | 1:21.85 |  | 🥉 x 2 | 💥 x 1, 🔥 x 5, ⚡ x 6 |
+| [Daniel Smith](../../persons/daniel_smith/444.md) | 50+ | 1:05.61 | 1:21.85 |  | 🥈 x 1, 🥉 x 2 | 💥 x 1, 🔥 x 5, ⚡ x 6 |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | 4:08.00 | DNF |  |  | 💥 x 3, ⚡ x 3 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | 45.94 | 55.30 | 🏆 x 1 | 🥇 x 3 | 🔥 x 2, ⚡ x 2 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | 45.94 | 55.30 | 🏆 x 1 | 🥇 x 4 | 🔥 x 2, ⚡ x 2 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | 54.94 | 1:04.44 | 🏆 x 1 | 🥇 x 2, 🥈 x 3, 🥉 x 10 | 🔥 x 4, ⚡ x 6 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444.md) | 40+ | 56.11 | 1:11.39 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/444.md) | 40+ | 2:03.34 | 2:30.77 |  |  | 🔥 x 1, ⚡ x 2 |
@@ -67,7 +67,7 @@
 | [Neilimixam Snetrem](../../persons/neilimixam_snetrem/444.md) | <40 | 1:08.70 | 1:24.75 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/444.md) | <40 | 54.90 | 1:04.39 |  |  | 🔥 x 7, ⚡ x 8 |
 | [Peter Osudar](../../persons/peter_osudar/444.md) | <40 | 1:29.48 | 1:35.22 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Shawn Boucké](../../persons/shawn_boucke/444.md) | <40 | 44.36 | 49.51 | 🏆 x 10 |  | 💥 x 1, 🔥 x 1, ⚡ x 6 |
+| [Shawn Boucké](../../persons/shawn_boucke/444.md) | <40 | 43.27 | 49.51 | 🏆 x 11 |  | 💥 x 1, 🔥 x 1, ⚡ x 7 |
 
 #### Under 30
 

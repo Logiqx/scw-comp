@@ -8,6 +8,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-09-29](../../results/2020-09-29/pyram.md) | 40+ | 14.35 | **16.55** | 🥉 🔥 | 17.97 | 16.91 | 14.35 | 14.77 | 24.51 | [Desktop](https://www.facebook.com/marcel.balzer.9216/videos/10160463717057516) / [Mobile](https://m.facebook.com/marcel.balzer.9216/videos/10160463717057516) |
 | [2020-09-22](../../results/2020-09-22/pyram.md) | 40+ | **10.03** | **18.62** | 🔥 ⚡ | 20.28 | **10.03** | 31.51 | 14.54 | 21.04 | [Desktop](https://www.facebook.com/marcel.balzer.9216/videos/10160441685652516) / [Mobile](https://m.facebook.com/marcel.balzer.9216/videos/10160441685652516) |
 | [2020-09-15](../../results/2020-09-15/pyram.md) | 40+ | **17.83** | 25.27 | 🥉 ⚡ | **17.83** | 31.94 | 18.41 | 25.46 | 39.38 | [Desktop](https://www.facebook.com/marcel.balzer.9216/videos/10160430425607516) / [Mobile](https://m.facebook.com/marcel.balzer.9216/videos/10160430425607516) |
 | [2020-09-08](../../results/2020-09-08/pyram.md) | 40+ | 22.09 | **24.43** | 🥉 🔥 | 33.87 | 22.09 | 23.86 | 22.52 | 26.90 | [Desktop](https://www.facebook.com/marcel.balzer.9216/videos/10160398664217516) / [Mobile](https://m.facebook.com/marcel.balzer.9216/videos/10160398664217516) |

@@ -4,6 +4,14 @@
 ### 3x3x3 One-Handed Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-29](../../results/2020-09-29/333oh.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | 23.97 | 25.50 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1202263490156156/permalink/1206036753112163) / [Mobile](https://m.facebook.com/events/1202263490156156?view=permalink&id=1206036753112163) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | 24.85 | 32.28 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1202263490156156/permalink/1207957422920096) / [Mobile](https://m.facebook.com/events/1202263490156156?view=permalink&id=1207957422920096) |
+| 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | 31.74 | 34.93 | 🥉 | [Desktop](https://www.facebook.com/events/1202263490156156/permalink/1207207106328461) / [Mobile](https://m.facebook.com/events/1202263490156156?view=permalink&id=1207207106328461) |
+
 #### [2020-09-22](../../results/2020-09-22/333oh.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

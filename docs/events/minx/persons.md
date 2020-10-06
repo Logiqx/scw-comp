@@ -28,10 +28,10 @@
 | [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | 1:54.48 | 2:17.73 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Daniel Smith](../../persons/daniel_smith/minx.md) | 50+ | 8:11.77 | DNF |  |  | ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | 40+ | 1:21.66 | 1:38.89 | 🏆 x 3 | 🥇 x 3 | 💥 x 2, 🔥 x 2, ⚡ x 1 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | 40+ | 1:21.66 | 1:38.89 | 🏆 x 4 | 🥇 x 4 | 💥 x 2, 🔥 x 2, ⚡ x 1 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:27.50 | 1:39.69 | 🏆 x 13 | 🥇 x 14 | 💥 x 5, 🔥 x 2, ⚡ x 5 |
 | [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | 3:55.83 | DNF |  | 🥉 x 1 | ⚡ x 1 |
-| [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | 1:30.25 | 1:43.13 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | 1:30.25 | 1:43.13 |  | 🥈 x 2 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40
 

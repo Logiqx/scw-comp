@@ -22,7 +22,7 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | [2020-09-08](../../results/2020-09-08/777.md) | 40+ | 4:13.70 | 🏆 x 3 | 🥇 x 3 | 💥 x 2, 🔥 x 2, ⚡ x 1 | [Desktop](https://www.facebook.com/events/342884623427933/permalink/344001823316213) / [Mobile](https://m.facebook.com/events/342884623427933?view=permalink&id=344001823316213) |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | [2020-09-08](../../results/2020-09-08/777.md) | 40+ | 4:13.70 | 🏆 x 4 | 🥇 x 4 | 💥 x 2, 🔥 x 2, ⚡ x 1 | [Desktop](https://www.facebook.com/events/342884623427933/permalink/344001823316213) / [Mobile](https://m.facebook.com/events/342884623427933?view=permalink&id=344001823316213) |
 | 2 | [Chris Wright](../../persons/chris_wright/777.md) | [2020-09-15](../../results/2020-09-15/777.md) | 50+ | 4:55.42 |  | 🥈 x 2 | 💥 x 2, 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/christopher.wright.94617999/videos/10157654181102874) / [Mobile](https://m.facebook.com/christopher.wright.94617999/videos/10157654181102874) |
 | 3 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | [2020-05-05](../../results/2020-05-05/777.md) | 40+ | 4:58.23 | 🏆 x 12 | 🥇 x 12, 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/557526585195168/permalink/558592678421892) / [Mobile](https://m.facebook.com/events/557526585195168?view=permalink&id=558592678421892) |
 | 4 | [Konsta Jukka](../../persons/konsta_jukka/777.md) | [2020-09-15](../../results/2020-09-15/777.md) | 40+ | 5:22.88 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 1 | [Desktop](https://www.facebook.com/events/655903882008117/permalink/662009514730887) / [Mobile](https://m.facebook.com/events/655903882008117?view=permalink&id=662009514730887) |
@@ -35,8 +35,8 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Peter Osudar](../../persons/peter_osudar/777.md) | [2020-06-23](../../results/2020-06-23/777.md) | <40 | 6:13.99 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/268636114456043/permalink/276983293621325) / [Mobile](https://m.facebook.com/events/268636114456043?view=permalink&id=276983293621325) |
-| 2 | [Pete Lee](../../persons/pete_lee/777.md) | [2020-09-15](../../results/2020-09-15/777.md) | <40 | 6:45.40 | 🏆 x 1 |  | ⚡ x 11 | [Desktop](https://www.facebook.com/events/655903882008117/permalink/656542655277573) / [Mobile](https://m.facebook.com/events/655903882008117?view=permalink&id=656542655277573) |
+| 1 | [Pete Lee](../../persons/pete_lee/777.md) | [2020-09-29](../../results/2020-09-29/777.md) | <40 | 5:57.42 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 12 | [Desktop](https://www.facebook.com/events/427181104911253/permalink/427800921515938) / [Mobile](https://m.facebook.com/events/427181104911253?view=permalink&id=427800921515938) |
+| 2 | [Peter Osudar](../../persons/peter_osudar/777.md) | [2020-06-23](../../results/2020-06-23/777.md) | <40 | 6:13.99 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/268636114456043/permalink/276983293621325) / [Mobile](https://m.facebook.com/events/268636114456043?view=permalink&id=276983293621325) |
 | 3 | [Ed Connell](../../persons/ed_connell/777.md) | [2020-05-26](../../results/2020-05-26/777.md) | <40 | 8:56.69 |  |  | ⚡ x 1 | [Desktop](https://www.facebook.com/events/637852836799991/permalink/640364566548818) / [Mobile](https://m.facebook.com/events/637852836799991?view=permalink&id=640364566548818) |
 | 4 | [Adam Robson](../../persons/adam_robson/777.md) | [2020-09-08](../../results/2020-09-08/777.md) | <40 | 11:27.00 |  |  | ⚡ x 1 | [Desktop](https://www.facebook.com/100005428097972/videos/1463469130510676) / [Mobile](https://m.facebook.com/100005428097972/videos/1463469130510676) |
 

@@ -7,9 +7,9 @@
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
-| [3x3x3](333.md) | 17.30 | 24.30 | 🔥 x 1, ⚡ x 1 |
-| [2x2x2](222.md) | 7.19 | 8.35 | 🔥 x 1, ⚡ x 1 |
-| [3x3x3 OH](333oh.md) | 34.07 | 37.96 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [3x3x3](333.md) | 17.30 | 23.00 | 🔥 x 2, ⚡ x 1 |
+| [2x2x2](222.md) | 6.85 | 7.60 | 🔥 x 2, ⚡ x 2 |
+| [3x3x3 OH](333oh.md) | 31.04 | 36.03 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

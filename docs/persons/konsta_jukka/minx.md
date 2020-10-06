@@ -8,6 +8,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-09-29](../../results/2020-09-29/minx.md) | 40+ | 1:35.54 | 1:46.04 | 🥈 | 1:53.36 | 1:39.77 | 1:35.54 | 1:47.04 | 1:51.32 | [Desktop](https://www.facebook.com/events/1202263490156156/permalink/1206041296445042) / [Mobile](https://m.facebook.com/events/1202263490156156?view=permalink&id=1206041296445042) |
 | [2020-09-22](../../results/2020-09-22/minx.md) | 40+ | **1:30.25** | **1:43.13** | 🥈 🔥 ⚡ | **1:30.25** | 1:54.35 | 1:38.74 | 2:02.50 | 1:36.30 | [Desktop](https://www.facebook.com/events/349197636276246/permalink/351981522664524) / [Mobile](https://m.facebook.com/events/349197636276246?view=permalink&id=351981522664524) |
 
 

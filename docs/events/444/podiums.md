@@ -4,6 +4,14 @@
 ### 4x4x4 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-09-29](../../results/2020-09-29/444.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | 50.07 | 55.32 | 🥇 | [Desktop](https://www.facebook.com/events/427181104911253/permalink/432490194380344) / [Mobile](https://m.facebook.com/events/427181104911253?view=permalink&id=432490194380344) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/444.md) | 50+ | 1:21.21 | 1:26.05 | 🥈 | [Desktop](https://www.facebook.com/events/427181104911253/permalink/431743861121644) / [Mobile](https://m.facebook.com/events/427181104911253?view=permalink&id=431743861121644) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/444.md) | 40+ | 1:25.24 | 1:37.43 | 🥉 | [Desktop](https://www.facebook.com/events/427181104911253/permalink/430328897929807) / [Mobile](https://m.facebook.com/events/427181104911253?view=permalink&id=430328897929807) |
+
 #### [2020-09-22](../../results/2020-09-22/444.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
