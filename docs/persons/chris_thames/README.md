@@ -15,7 +15,7 @@
 | [Megaminx](minx.md) | 6:02.13 | - | ⚡ x 1 |
 | [Pyraminx](pyram.md) | 9.53 | 17.32 | 🔥 x 4, ⚡ x 5 |
 | [Skewb](skewb.md) | 9.60 | 19.07 | 🔥 x 3, ⚡ x 2 |
-| [3x3x3 FMC](333fm.md) | 62 | - | ⚡ x 2 |
+| [3x3x3 FMC](333fm.md) | 49 | - | ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

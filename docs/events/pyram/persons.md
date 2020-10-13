@@ -9,7 +9,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 5.26 | 9.30 | 🏆 x 1 | 🥇 x 2, 🥈 x 12, 🥉 x 2 | 💥 x 4, 🔥 x 2, ⚡ x 3 |
+| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 5.26 | 9.15 | 🏆 x 1 | 🥇 x 2, 🥈 x 13, 🥉 x 2 | 💥 x 5, 🔥 x 3, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 11.08 | 14.79 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 1 |
 
 #### Over 40
@@ -18,8 +18,8 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | 40+ | 11.80 | 13.95 |  | 🥈 x 1, 🥉 x 5 | 🔥 x 2, ⚡ x 4 |
 | [Anthony Rochester](../../persons/anthony_rochester/pyram.md) | 40+ | 14.15 | 23.10 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 5.26 | 9.30 | 🏆 x 1 | 🥇 x 2, 🥈 x 12, 🥉 x 2 | 💥 x 4, 🔥 x 2, ⚡ x 3 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) | 40+ | 5.65 | 7.20 | 🏆 x 4 | 🥇 x 4 | 🔥 x 3, ⚡ x 1 |
+| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 5.26 | 9.15 | 🏆 x 1 | 🥇 x 2, 🥈 x 13, 🥉 x 2 | 💥 x 5, 🔥 x 3, ⚡ x 3 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) | 40+ | 5.37 | 6.37 | 🏆 x 5 | 🥇 x 5 | 🔥 x 4, ⚡ x 2 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/pyram.md) | 40+ | 19.74 | 24.12 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 11.08 | 14.79 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 1 |
 | [Marcel Balzer](../../persons/marcel_balzer/pyram.md) | 40+ | 10.03 | 16.55 |  | 🥉 x 3 | 🔥 x 4, ⚡ x 3 |
@@ -33,7 +33,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/pyram.md) | <40 | 12.02 | 16.72 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Chris Thames](../../persons/chris_thames/pyram.md) | <40 | 9.53 | 17.32 |  |  | 🔥 x 4, ⚡ x 5 |
-| [Ed Connell](../../persons/ed_connell/pyram.md) | <40 | 9.40 | 12.77 |  |  | 🔥 x 4, ⚡ x 4 |
+| [Ed Connell](../../persons/ed_connell/pyram.md) | <40 | 8.61 | 11.81 |  |  | 🔥 x 5, ⚡ x 5 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) | <40 | 4.59 | 7.72 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/pyram.md) | <40 | 14.79 | 28.28 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Peter Osudar](../../persons/peter_osudar/pyram.md) | <40 | 6.95 | 9.55 |  |  | 🔥 x 1, ⚡ x 1 |

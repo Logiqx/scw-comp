@@ -11,7 +11,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | 35.64 | 39.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 50+ | 1:26.57 | 1:57.43 |  |  | 🔥 x 1, ⚡ x 2 |
-| [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | 31.04 | 36.03 |  |  | 💥 x 2, 🔥 x 2, ⚡ x 2 |
+| [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | 31.04 | 35.12 |  | 🥉 x 1 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
 
 #### Over 40
 
@@ -20,7 +20,7 @@
 | [Aaron Cumes](../../persons/aaron_cumes/333oh.md) | 40+ | 1:01.02 | 1:17.51 |  |  | 🔥 x 7, ⚡ x 8 |
 | [Andy Nicholls](../../persons/andy_nicholls/333oh.md) | 40+ | 33.37 | 40.48 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 5 |
 | [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | 35.64 | 39.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | 24.85 | 28.76 |  | 🥈 x 4 | 🔥 x 2, ⚡ x 2 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | 24.85 | 28.76 |  | 🥈 x 5 | 🔥 x 2, ⚡ x 2 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | 21.17 | 30.96 |  | 🥇 x 1, 🥈 x 11, 🥉 x 11 | 🔥 x 5, ⚡ x 6 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) | 40+ | 24.78 | 32.65 | 🏆 x 1 | 🥇 x 1, 🥈 x 2 | 🔥 x 3, ⚡ x 2 |
 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | 29.48 | 34.44 |  | 🥈 x 1, 🥉 x 7 | 🔥 x 8, ⚡ x 2 |
@@ -28,12 +28,12 @@
 | [Jason Green](../../persons/jason_green/333oh.md) | 40+ | 30.77 | 36.01 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/333oh.md) | 40+ | 36.79 | 44.49 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jo Cocco](../../persons/jo_cocco/333oh.md) | 40+ | 1:30.67 | 1:45.62 |  |  | 🔥 x 2, ⚡ x 3 |
-| [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | 20.75 | 22.45 | 🏆 x 4 | 🥇 x 4 | 🔥 x 3, ⚡ x 2 |
+| [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | 20.75 | 22.45 | 🏆 x 5 | 🥇 x 5 | 🔥 x 3, ⚡ x 2 |
 | [Michael George](../../persons/michael_george/333oh.md) | 40+ | 18.57 | 21.87 | 🏆 x 18 | 🥇 x 22 | 💥 x 5, 🔥 x 3, ⚡ x 5 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 50+ | 1:26.57 | 1:57.43 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Raúl Morales](../../persons/raul_morales/333oh.md) | 40+ | 31.07 | 37.84 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | 23.59 | 29.77 |  | 🥇 x 1, 🥈 x 10, 🥉 x 7 | 🔥 x 8, ⚡ x 3 |
-| [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | 31.04 | 36.03 |  |  | 💥 x 2, 🔥 x 2, ⚡ x 2 |
+| [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | 31.04 | 35.12 |  | 🥉 x 1 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333oh.md) | 40+ | 31.59 | 38.24 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40

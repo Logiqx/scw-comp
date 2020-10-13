@@ -4,6 +4,14 @@
 ### 3x3x3 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-10-06](../../results/2020-10-06/333.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | 9.27 | 10.16 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2645965315652815/permalink/2649584665290880) / [Mobile](https://m.facebook.com/events/2645965315652815?view=permalink&id=2649584665290880) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333.md) | 40+ | 16.72 | 18.18 | 🥈 | [Desktop](https://www.facebook.com/events/2645965315652815/permalink/2652048831711130) / [Mobile](https://m.facebook.com/events/2645965315652815?view=permalink&id=2652048831711130) |
+| 3 | [Aaron Cumes](../../persons/aaron_cumes/333.md) | 40+ | 18.21 | 21.33 | 🥉 | [Desktop](https://www.facebook.com/events/2645965315652815/permalink/2647307025518644) / [Mobile](https://m.facebook.com/events/2645965315652815?view=permalink&id=2647307025518644) |
+
 #### [2020-09-29](../../results/2020-09-29/333.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

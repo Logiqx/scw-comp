@@ -4,6 +4,14 @@
 ### 3x3x3 One-Handed Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-10-06](../../results/2020-10-06/333oh.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | 21.06 | 24.61 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2645965315652815/permalink/2649584571957556) / [Mobile](https://m.facebook.com/events/2645965315652815?view=permalink&id=2649584571957556) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | 26.72 | 32.31 | 🥈 | [Desktop](https://www.facebook.com/events/2645965315652815/permalink/2652051668377513) / [Mobile](https://m.facebook.com/events/2645965315652815?view=permalink&id=2652051668377513) |
+| 3 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | 31.60 | 35.12 | 🥉 💥 🔥 | [Desktop](https://www.facebook.com/events/2645965315652815/permalink/2649640285285318) / [Mobile](https://m.facebook.com/events/2645965315652815?view=permalink&id=2649640285285318) |
+
 #### [2020-09-29](../../results/2020-09-29/333oh.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

@@ -4,6 +4,12 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-10-06](../../results/2020-10-06/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | 2:35.69 | DNF | 🥇 | [Desktop](https://www.facebook.com/events/1046370112467687/permalink/1048355432269155) / [Mobile](https://m.facebook.com/events/1046370112467687?view=permalink&id=1048355432269155) |
+
 #### [2020-09-29](../../results/2020-09-29/333bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

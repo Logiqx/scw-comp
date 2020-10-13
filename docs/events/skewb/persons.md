@@ -10,9 +10,9 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | 40+ | 14.77 | 18.74 |  | 🥈 x 4 | 🔥 x 4, ⚡ x 2 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | 4.71 | 7.02 | 🏆 x 4 | 🥇 x 4 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | 4.71 | 7.02 | 🏆 x 5 | 🥇 x 5 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/skewb.md) | 40+ | 7.88 | 12.16 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Jae Park](../../persons/jae_park/skewb.md) | 40+ | 34.88 | 59.00 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Jae Park](../../persons/jae_park/skewb.md) | 40+ | 25.98 | 35.79 |  | 🥈 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | 40+ | 4.15 | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Marcel Balzer](../../persons/marcel_balzer/skewb.md) | 40+ | 27.44 | 47.53 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 1 |
 | [Michael George](../../persons/michael_george/skewb.md) | 40+ | 2.78 | 7.91 | 🏆 x 8 | 🥇 x 10 | 💥 x 4, 🔥 x 3, ⚡ x 2 |

@@ -4,6 +4,14 @@
 ### 5x5x5 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-10-06](../../results/2020-10-06/555.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | 1:40.92 | 1:43.14 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2766581680255939/permalink/2772744492972991) / [Mobile](https://m.facebook.com/events/2766581680255939?view=permalink&id=2772744492972991) |
+| 2 | [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | 1:54.00 | 2:05.30 | 🥈 | [Desktop](https://www.facebook.com/events/2766581680255939/permalink/2770166706564103) / [Mobile](https://m.facebook.com/events/2766581680255939?view=permalink&id=2770166706564103) |
+| 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | 2:39.68 | 2:50.16 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2766581680255939/permalink/2769788749935232) / [Mobile](https://m.facebook.com/events/2766581680255939?view=permalink&id=2769788749935232) |
+
 #### [2020-09-29](../../results/2020-09-29/555.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

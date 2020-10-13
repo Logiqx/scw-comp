@@ -4,6 +4,14 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-10-06](../../results/2020-10-06/clock.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | 12.00 | 12.72 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/365989921479949/permalink/371503000928641) / [Mobile](https://m.facebook.com/events/365989921479949?view=permalink&id=371503000928641) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/clock.md) | 50+ | 25.80 | 27.90 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/365989921479949/permalink/371466237598984) / [Mobile](https://m.facebook.com/events/365989921479949?view=permalink&id=371466237598984) |
+| 3 | [Jae Park](../../persons/jae_park/clock.md) | 40+ | 32.68 | 34.67 | 🥉 | [Desktop](https://www.facebook.com/events/365989921479949/permalink/367087978036810) / [Mobile](https://m.facebook.com/events/365989921479949?view=permalink&id=367087978036810) |
+
 #### [2020-09-29](../../results/2020-09-29/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
