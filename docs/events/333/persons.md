@@ -20,7 +20,7 @@
 | [Daniel Smith](../../persons/daniel_smith/333.md) | 50+ | 20.99 | 25.24 |  |  | 💥 x 2, 🔥 x 7, ⚡ x 8 |
 | [David Burchill](../../persons/david_burchill/333.md) | 50+ | 28.50 | 34.84 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) | 50+ | 25.79 | 28.76 |  |  | 🔥 x 6, ⚡ x 3 |
+| [Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) | 50+ | 25.09 | 28.76 |  |  | 🔥 x 6, ⚡ x 4 |
 | [John Neo Stanley](../../persons/john_neo_stanley/333.md) | 50+ | 28.51 | 31.31 |  |  | 🔥 x 5, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/333.md) | 50+ | 30.50 | 36.55 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | 23.79 | 27.36 |  |  | 🔥 x 4, ⚡ x 5 |
@@ -28,13 +28,13 @@
 | [Peter Andersson](../../persons/peter_andersson/333.md) | 50+ | 20.85 | 24.84 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/333.md) | 50+ | 31.12 | 35.25 |  |  | 🔥 x 5, ⚡ x 3 |
 | [Robert Summerfield](../../persons/robert_summerfield/333.md) | 50+ | 20.77 | 24.27 |  |  | 🔥 x 8, ⚡ x 6 |
-| [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333.md) | 50+ | 17.30 | 22.53 |  |  | 🔥 x 3, ⚡ x 1 |
+| [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333.md) | 50+ | 17.30 | 22.13 |  |  | 🔥 x 4, ⚡ x 1 |
 
 #### Over 40
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Aaron Cumes](../../persons/aaron_cumes/333.md) | <40 | 15.18 | 18.93 |  | 🥉 x 3 | 🔥 x 8, ⚡ x 6 |
+| [Aaron Cumes](../../persons/aaron_cumes/333.md) | <40 | 15.18 | 18.93 |  | 🥉 x 4 | 🔥 x 8, ⚡ x 6 |
 | [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | 14.08 | 17.00 |  | 🥈 x 3, 🥉 x 6 | 🔥 x 4, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/333.md) | 40+ | 16.31 | 20.10 |  |  | 🔥 x 6, ⚡ x 4 |
 | [Chris Wright](../../persons/chris_wright/333.md) | 50+ | 10.58 | 13.67 |  | 🥇 x 5, 🥈 x 4, 🥉 x 2 | 💥 x 5, 🔥 x 4, ⚡ x 3 |
@@ -44,7 +44,7 @@
 | [David Burchill](../../persons/david_burchill/333.md) | 50+ | 28.50 | 34.84 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Denis Reimer](../../persons/denis_reimer/333.md) | 40+ | 19.64 | 24.93 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/333.md) | 40+ | 13.64 | 15.92 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 3, ⚡ x 1 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/333.md) | 40+ | 13.64 | 15.92 |  | 🥈 x 4, 🥉 x 1 | 🔥 x 3, ⚡ x 1 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 13.84 | 17.10 |  | 🥈 x 6, 🥉 x 7 | 🔥 x 8, ⚡ x 5 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | 13.37 | 14.77 |  | 🥈 x 8, 🥉 x 4 | 🔥 x 3, ⚡ x 1 |
 | [Huy Nguyen](../../persons/huy_nguyen/333.md) | 40+ | 17.19 | 20.72 |  |  | 🔥 x 3, ⚡ x 4 |
@@ -55,12 +55,12 @@
 | [Jean van den Bergh](../../persons/jean_van_den_bergh/333.md) | 40+ | 32.96 | 34.96 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/333.md) | 40+ | 14.22 | 16.26 |  | 🥈 x 2, 🥉 x 3 | 🔥 x 6, ⚡ x 3 |
 | [Jo Cocco](../../persons/jo_cocco/333.md) | 40+ | 37.21 | 46.19 |  |  | 🔥 x 5, ⚡ x 4 |
-| [Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) | 50+ | 25.79 | 28.76 |  |  | 🔥 x 6, ⚡ x 3 |
+| [Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) | 50+ | 25.09 | 28.76 |  |  | 🔥 x 6, ⚡ x 4 |
 | [John Neo Stanley](../../persons/john_neo_stanley/333.md) | 50+ | 28.51 | 31.31 |  |  | 🔥 x 5, ⚡ x 3 |
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/333.md) | 40+ | 38.26 | 40.14 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Kerrie Jarman](../../persons/kerrie_jarman/333.md) | 40+ | 41.01 | 48.20 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/333.md) | 50+ | 30.50 | 36.55 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | 8.62 | 10.11 | 🏆 x 7 | 🥇 x 7 | 💥 x 3, 🔥 x 3, ⚡ x 3 |
+| [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | 8.55 | 10.11 | 🏆 x 8 | 🥇 x 8 | 💥 x 4, 🔥 x 3, ⚡ x 4 |
 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | 23.79 | 27.36 |  |  | 🔥 x 4, ⚡ x 5 |
 | [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | 26.19 | 29.43 |  |  | 🔥 x 11, ⚡ x 10 |
 | [Mark Charlesworth](../../persons/mark_charlesworth/333.md) | 40+ | 27.78 | 30.02 |  |  | 🔥 x 2, ⚡ x 2 |
@@ -77,7 +77,7 @@
 | [Thierry Boisivon](../../persons/thierry_boisivon/333.md) | 40+ | 13.85 | 15.44 |  | 🥇 x 1, 🥈 x 3, 🥉 x 5 | 🔥 x 3, ⚡ x 6 |
 | [Timothy Salay](../../persons/timothy_salay/333.md) | 40+ | 24.45 | 31.22 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333.md) | 40+ | 21.40 | 22.41 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333.md) | 50+ | 17.30 | 22.53 |  |  | 🔥 x 3, ⚡ x 1 |
+| [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333.md) | 50+ | 17.30 | 22.13 |  |  | 🔥 x 4, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | 17.85 | 22.33 |  |  | 🔥 x 3, ⚡ x 1 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333.md) | 40+ | 16.76 | 21.05 |  |  | 🔥 x 1, ⚡ x 3 |
 
@@ -85,9 +85,10 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Aaron Cumes](../../persons/aaron_cumes/333.md) | <40 | 18.58 | 19.24 |  | 🥉 x 3 | 🔥 x 8, ⚡ x 6 |
+| [Aaron Cumes](../../persons/aaron_cumes/333.md) | <40 | 18.58 | 19.24 |  | 🥉 x 4 | 🔥 x 8, ⚡ x 6 |
 | [Adam Robson](../../persons/adam_robson/333.md) | <40 | 19.54 | 23.39 |  |  | 🔥 x 5, ⚡ x 6 |
 | [Alex Friedman](../../persons/alex_friedman/333.md) | <40 | 15.47 | 18.36 |  |  | 🔥 x 3, ⚡ x 3 |
+| [Amit Sheffer](../../persons/amit_sheffer/333.md) | <40 | 12.30 | 14.43 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Brooke Persoon](../../persons/brooke_persoon/333.md) | <40 | 39.40 | 47.49 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Chris Hardwick](../../persons/chris_hardwick/333.md) | <40 | 11.30 | 12.82 | 🏆 x 2 |  | 🔥 x 4, ⚡ x 4 |
 | [Chris Thames](../../persons/chris_thames/333.md) | <40 | 17.55 | 29.09 |  |  | 🔥 x 5, ⚡ x 5 |

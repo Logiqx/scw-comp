@@ -4,6 +4,12 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-10-13](../../results/2020-10-13/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 37 | 🥇 | [Desktop](https://www.facebook.com/events/671611896802943/permalink/673654716598661) / [Mobile](https://m.facebook.com/events/671611896802943?view=permalink&id=673654716598661) |
+
 #### [2020-10-06](../../results/2020-10-06/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |

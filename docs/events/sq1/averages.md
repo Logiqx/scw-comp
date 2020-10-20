@@ -9,16 +9,17 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2020-08-04](../../results/2020-08-04/sq1.md) | 50+ | 26.95 | 🏆 x 16 | 🥇 x 16, 🥈 x 1 | 💥 x 5, 🔥 x 3, ⚡ x 4 | [Desktop](https://www.facebook.com/events/1546469592197852/permalink/1551920904986054) / [Mobile](https://m.facebook.com/events/1546469592197852?view=permalink&id=1551920904986054) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2020-08-04](../../results/2020-08-04/sq1.md) | 50+ | 26.95 | 🏆 x 17 | 🥇 x 17, 🥈 x 1 | 💥 x 5, 🔥 x 3, ⚡ x 4 | [Desktop](https://www.facebook.com/events/1546469592197852/permalink/1551920904986054) / [Mobile](https://m.facebook.com/events/1546469592197852?view=permalink&id=1551920904986054) |
 
 #### Over 40
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2020-08-04](../../results/2020-08-04/sq1.md) | 50+ | 26.95 | 🏆 x 16 | 🥇 x 16, 🥈 x 1 | 💥 x 5, 🔥 x 3, ⚡ x 4 | [Desktop](https://www.facebook.com/events/1546469592197852/permalink/1551920904986054) / [Mobile](https://m.facebook.com/events/1546469592197852?view=permalink&id=1551920904986054) |
-| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | [2020-10-06](../../results/2020-10-06/sq1.md) | 40+ | 30.42 | 🏆 x 1 | 🥇 x 1, 🥈 x 4 | 🔥 x 3, ⚡ x 2 | [Desktop](https://www.facebook.com/events/365989921479949/permalink/371502230928718) / [Mobile](https://m.facebook.com/events/365989921479949?view=permalink&id=371502230928718) |
-| 3 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | [2020-07-14](../../results/2020-07-14/sq1.md) | 40+ | 49.65 |  | 🥈 x 6 | 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/413064016333950/permalink/415320132775005) / [Mobile](https://m.facebook.com/events/413064016333950?view=permalink&id=415320132775005) |
-| 4 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | [2020-06-16](../../results/2020-06-16/sq1.md) | 40+ | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/296087658445428/permalink/298743144846546) / [Mobile](https://m.facebook.com/events/296087658445428?view=permalink&id=298743144846546) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2020-08-04](../../results/2020-08-04/sq1.md) | 50+ | 26.95 | 🏆 x 17 | 🥇 x 17, 🥈 x 1 | 💥 x 5, 🔥 x 3, ⚡ x 4 | [Desktop](https://www.facebook.com/events/1546469592197852/permalink/1551920904986054) / [Mobile](https://m.facebook.com/events/1546469592197852?view=permalink&id=1551920904986054) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | [2020-10-06](../../results/2020-10-06/sq1.md) | 40+ | 30.42 | 🏆 x 1 | 🥇 x 1, 🥈 x 5 | 🔥 x 3, ⚡ x 2 | [Desktop](https://www.facebook.com/events/365989921479949/permalink/371502230928718) / [Mobile](https://m.facebook.com/events/365989921479949?view=permalink&id=371502230928718) |
+| 3 | [Konsta Jukka](../../persons/konsta_jukka/sq1.md) | [2020-10-13](../../results/2020-10-13/sq1.md) | 40+ | 48.01 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/718285385437639/permalink/722677474998430) / [Mobile](https://m.facebook.com/events/718285385437639?view=permalink&id=722677474998430) |
+| 4 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | [2020-07-14](../../results/2020-07-14/sq1.md) | 40+ | 49.65 |  | 🥈 x 6 | 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/413064016333950/permalink/415320132775005) / [Mobile](https://m.facebook.com/events/413064016333950?view=permalink&id=415320132775005) |
+| 5 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | [2020-06-16](../../results/2020-06-16/sq1.md) | 40+ | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/296087658445428/permalink/298743144846546) / [Mobile](https://m.facebook.com/events/296087658445428?view=permalink&id=298743144846546) |
 
 #### Under 40
 
