@@ -4,6 +4,13 @@
 ### 4x4x4 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-10-20](../../results/2020-10-20/444bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/444bf.md) | 40+ | 6:55.69 | DNF | 🥇 | [Desktop](https://www.facebook.com/events/365280181488304/permalink/366040118078977) / [Mobile](https://m.facebook.com/events/365280181488304?view=permalink&id=366040118078977) |
+| 2 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | 9:56.40 | DNF | 🥈 💥 ⚡ | [Desktop](https://www.facebook.com/events/365280181488304/permalink/366582954691360) / [Mobile](https://m.facebook.com/events/365280181488304?view=permalink&id=366582954691360) |
+
 #### [2020-10-13](../../results/2020-10-13/444bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

@@ -4,6 +4,13 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-10-20](../../results/2020-10-20/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | 1:02.44 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/365280181488304/permalink/370245154325140) / [Mobile](https://m.facebook.com/events/365280181488304?view=permalink&id=370245154325140) |
+| 2 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333bf.md) | 40+ | 1:50.43 | 2:50.79 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/365280181488304/permalink/369891551027167) / [Mobile](https://m.facebook.com/events/365280181488304?view=permalink&id=369891551027167) |
+
 #### [2020-10-13](../../results/2020-10-13/333bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

@@ -4,6 +4,14 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-10-20](../../results/2020-10-20/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) | 40+ | 25 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/3058979497541923/permalink/3069804739792732) / [Mobile](https://m.facebook.com/events/3058979497541923?view=permalink&id=3069804739792732) |
+| 2 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 31 | 🥈 | [Desktop](https://www.facebook.com/events/3058979497541923/permalink/3065675073539032) / [Mobile](https://m.facebook.com/events/3058979497541923?view=permalink&id=3065675073539032) |
+| 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | 43 | 🥉 | [Desktop](https://www.facebook.com/events/3058979497541923/permalink/3073895529383653) / [Mobile](https://m.facebook.com/events/3058979497541923?view=permalink&id=3073895529383653) |
+
 #### [2020-10-13](../../results/2020-10-13/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |

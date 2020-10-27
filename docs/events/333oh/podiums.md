@@ -4,6 +4,14 @@
 ### 3x3x3 One-Handed Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-10-20](../../results/2020-10-20/333oh.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | 23.96 | 28.36 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1017705805364611/permalink/1021628458305679) / [Mobile](https://m.facebook.com/events/1017705805364611?view=permalink&id=1021628458305679) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | 25.92 | 30.71 | 🥈 | [Desktop](https://www.facebook.com/events/1017705805364611/permalink/1023561028112422) / [Mobile](https://m.facebook.com/events/1017705805364611?view=permalink&id=1023561028112422) |
+| 3 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333oh.md) | 40+ | 33.54 | 40.99 | 🥉 | [Desktop](https://www.facebook.com/events/1017705805364611/permalink/1022443291557529) / [Mobile](https://m.facebook.com/events/1017705805364611?view=permalink&id=1022443291557529) |
+
 #### [2020-10-13](../../results/2020-10-13/333oh.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

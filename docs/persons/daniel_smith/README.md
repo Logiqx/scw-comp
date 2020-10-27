@@ -13,9 +13,9 @@
 | [5x5x5](555.md) | 2:19.29 | 2:39.63 |  | 🥇 x 1, 🥈 x 2, 🥉 x 9 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [6x6x6](666.md) | 5:28.23 | 5:54.57 |  | 🥈 x 1, 🥉 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Megaminx](minx.md) | 8:11.77 | - |  |  | ⚡ x 1 |
-| [Pyraminx](pyram.md) | 5.26 | 9.15 | 🏆 x 1 | 🥇 x 2, 🥈 x 14, 🥉 x 2 | 💥 x 5, 🔥 x 3, ⚡ x 3 |
-| [Square-1](sq1.md) | 18.13 | 26.95 | 🏆 x 17 | 🥇 x 17, 🥈 x 1 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
-| [Clock](clock.md) | 25.80 | 27.90 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
+| [Pyraminx](pyram.md) | 5.26 | 8.91 | 🏆 x 1 | 🥇 x 2, 🥈 x 15, 🥉 x 2 | 💥 x 6, 🔥 x 4, ⚡ x 3 |
+| [Square-1](sq1.md) | 18.13 | 26.95 | 🏆 x 18 | 🥇 x 18, 🥈 x 1 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
+| [Clock](clock.md) | 25.80 | 27.90 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

@@ -32,14 +32,14 @@
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | 2:19.29 | 2:39.63 |  | 🥇 x 1, 🥈 x 2, 🥉 x 9 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | 1:25.53 | 1:34.04 | 🏆 x 6 | 🥇 x 6 | 💥 x 4, 🔥 x 4, ⚡ x 3 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | 1:25.53 | 1:34.04 | 🏆 x 7 | 🥇 x 7 | 💥 x 4, 🔥 x 4, ⚡ x 3 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | 1:42.67 | 1:57.43 | 🏆 x 1 | 🥇 x 6, 🥈 x 12, 🥉 x 4 | 🔥 x 6, ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/555.md) | 40+ | 2:37.21 | 2:48.50 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/555.md) | 40+ | 4:56.47 | 5:55.66 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 4 |
 | [Jason Green](../../persons/jason_green/555.md) | 40+ | 2:31.09 | 2:50.91 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/555.md) | 40+ | 2:17.14 | 2:31.20 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/555.md) | 40+ | 4:06.17 | 4:17.14 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | 1:35.85 | 1:49.30 |  | 🥈 x 4 | 🔥 x 3, ⚡ x 3 |
+| [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | 1:35.85 | 1:49.30 |  | 🥈 x 5 | 🔥 x 3, ⚡ x 3 |
 | [Michael George](../../persons/michael_george/555.md) | 40+ | 1:43.65 | 2:00.85 | 🏆 x 1 | 🥇 x 2, 🥈 x 4, 🥉 x 9 | 🔥 x 5, ⚡ x 5 |
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | 5:50.00 | DNF |  |  | ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/555.md) | 40+ | 2:17.13 | 2:27.99 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -56,7 +56,7 @@
 | [Ed Connell](../../persons/ed_connell/555.md) | <40 | 2:04.34 | 2:17.21 |  |  | 🔥 x 5, ⚡ x 5 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | <40 | 1:45.15 | 1:51.50 | 🏆 x 5 |  | 🔥 x 5, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/555.md) | <40 | 1:16.98 | 1:30.42 | 🏆 x 5 |  | 💥 x 3, 🔥 x 1, ⚡ x 3 |
-| [Pete Lee](../../persons/pete_lee/555.md) | <40 | 1:56.79 | 2:14.63 |  |  | 🔥 x 8, ⚡ x 5 |
+| [Pete Lee](../../persons/pete_lee/555.md) | <40 | 1:52.40 | 2:14.63 |  |  | 🔥 x 8, ⚡ x 6 |
 | [Peter Osudar](../../persons/peter_osudar/555.md) | <40 | 2:35.63 | 2:41.55 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 30
