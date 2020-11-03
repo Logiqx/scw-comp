@@ -28,8 +28,8 @@
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | [2020-07-14](../../results/2020-07-14/666.md) | <40 | 2:40.63 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/2729568740635198/permalink/2730916483833757) / [Mobile](https://m.facebook.com/events/2729568740635198?view=permalink&id=2730916483833757) |
-| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | [2020-11-03](../../results/2020-11-03/666.md) | <40 | 3:34.03 | 🏆 x 3 |  | 🔥 x 5, ⚡ x 5 | [Desktop](https://www.facebook.com/events/1621959871298390/permalink/1628704757290568) / [Mobile](https://m.facebook.com/events/1621959871298390?view=permalink&id=1628704757290568) |
-| 3 | [Pete Lee](../../persons/pete_lee/666.md) | [2020-11-03](../../results/2020-11-03/666.md) | <40 | 4:26.92 |  |  | 🔥 x 3, ⚡ x 5 | [Desktop](https://www.facebook.com/events/1621959871298390/permalink/1623989491095428) / [Mobile](https://m.facebook.com/events/1621959871298390?view=permalink&id=1623989491095428) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | [2020-10-27](../../results/2020-10-27/666.md) | <40 | 3:34.03 | 🏆 x 3 |  | 🔥 x 5, ⚡ x 5 | [Desktop](https://www.facebook.com/events/1621959871298390/permalink/1628704757290568) / [Mobile](https://m.facebook.com/events/1621959871298390?view=permalink&id=1628704757290568) |
+| 3 | [Pete Lee](../../persons/pete_lee/666.md) | [2020-10-27](../../results/2020-10-27/666.md) | <40 | 4:26.92 |  |  | 🔥 x 3, ⚡ x 5 | [Desktop](https://www.facebook.com/events/1621959871298390/permalink/1623989491095428) / [Mobile](https://m.facebook.com/events/1621959871298390?view=permalink&id=1623989491095428) |
 | 4 | [Peter Osudar](../../persons/peter_osudar/666.md) | [2020-06-23](../../results/2020-06-23/666.md) | <40 | 4:43.11 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/268636114456043/permalink/276193687033619) / [Mobile](https://m.facebook.com/events/268636114456043?view=permalink&id=276193687033619) |
 
 

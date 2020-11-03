@@ -15,7 +15,7 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | [2020-11-03](../../results/2020-11-03/minx.md) | 40+ | 1:38.02 | 🏆 x 3 | 🥇 x 3, 🥈 x 3 | 💥 x 1, 🔥 x 2, ⚡ x 1 | [Desktop](https://www.facebook.com/events/814285582657691/permalink/818979982188251) / [Mobile](https://m.facebook.com/events/814285582657691?view=permalink&id=818979982188251) |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | [2020-10-27](../../results/2020-10-27/minx.md) | 40+ | 1:38.02 | 🏆 x 3 | 🥇 x 3, 🥈 x 3 | 💥 x 1, 🔥 x 2, ⚡ x 1 | [Desktop](https://www.facebook.com/events/814285582657691/permalink/818979982188251) / [Mobile](https://m.facebook.com/events/814285582657691?view=permalink&id=818979982188251) |
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | [2020-09-22](../../results/2020-09-22/minx.md) | 40+ | 1:38.89 | 🏆 x 5 | 🥇 x 5, 🥈 x 3 | 💥 x 2, 🔥 x 2, ⚡ x 1 | [Desktop](https://www.facebook.com/events/349197636276246/permalink/350482712814405) / [Mobile](https://m.facebook.com/events/349197636276246?view=permalink&id=350482712814405) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | [2020-06-02](../../results/2020-06-02/minx.md) | 40+ | 1:39.69 | 🏆 x 13 | 🥇 x 14 | 💥 x 5, 🔥 x 2, ⚡ x 5 | [Desktop](https://www.facebook.com/events/3373950429496747/permalink/3374121619479628) / [Mobile](https://m.facebook.com/events/3373950429496747?view=permalink&id=3374121619479628) |
 | 4 | [Chris Wright](../../persons/chris_wright/minx.md) | [2020-09-08](../../results/2020-09-08/minx.md) | 50+ | 2:17.73 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/christopher.wright.94617999/videos/10157638865557874) / [Mobile](https://m.facebook.com/christopher.wright.94617999/videos/10157638865557874) |
@@ -26,7 +26,7 @@
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Go-ho Choi](../../persons/go_ho_choi/minx.md) | [2020-07-14](../../results/2020-07-14/minx.md) | <40 | 1:06.45 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1157754364595802/permalink/1158593647845207) / [Mobile](https://m.facebook.com/events/1157754364595802?view=permalink&id=1158593647845207) |
-| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | [2020-11-03](../../results/2020-11-03/minx.md) | <40 | 1:43.79 | 🏆 x 1 |  | 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/814285582657691/permalink/819937962092453) / [Mobile](https://m.facebook.com/events/814285582657691?view=permalink&id=819937962092453) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | [2020-10-27](../../results/2020-10-27/minx.md) | <40 | 1:43.79 | 🏆 x 1 |  | 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/814285582657691/permalink/819937962092453) / [Mobile](https://m.facebook.com/events/814285582657691?view=permalink&id=819937962092453) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -15,7 +15,7 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Jae Park](../../persons/jae_park/444bf.md) | [2020-11-03](../../results/2020-11-03/444bf.md) | 40+ | 5:15.32 | 🏆 x 18 | 🥇 x 21 | 💥 x 6, ⚡ x 6 | [Desktop](https://www.facebook.com/events/376582863532396/permalink/377168223473860) / [Mobile](https://m.facebook.com/events/376582863532396?view=permalink&id=377168223473860) |
+| 1 | [Jae Park](../../persons/jae_park/444bf.md) | [2020-10-27](../../results/2020-10-27/444bf.md) | 40+ | 5:15.32 | 🏆 x 18 | 🥇 x 21 | 💥 x 6, ⚡ x 6 | [Desktop](https://www.facebook.com/events/376582863532396/permalink/377168223473860) / [Mobile](https://m.facebook.com/events/376582863532396?view=permalink&id=377168223473860) |
 | 2 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | [2020-10-20](../../results/2020-10-20/444bf.md) | 50+ | 9:56.40 |  | 🥇 x 1, 🥈 x 3 | 💥 x 3, ⚡ x 3 | [Desktop](https://www.facebook.com/events/365280181488304/permalink/366582954691360) / [Mobile](https://m.facebook.com/events/365280181488304?view=permalink&id=366582954691360) |
 | 3 | [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | [2020-05-19](../../results/2020-05-19/444bf.md) | 40+ | 10:52.00 | 🏆 x 1 | 🥇 x 1, 🥈 x 5 | ⚡ x 1 | [Desktop](https://www.facebook.com/events/2608037409484307/permalink/2609949869293061) / [Mobile](https://m.facebook.com/events/2608037409484307?view=permalink&id=2609949869293061) |
 
