@@ -4,6 +4,14 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-03](../../results/2020-11-03/clock.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | 10.81 | 12.06 | 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/3728096903891317/permalink/3740227296011611) / [Mobile](https://m.facebook.com/events/3728096903891317?view=permalink&id=3740227296011611) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 20.41 | 23.11 | 🥈 | [Desktop](https://www.facebook.com/events/3728096903891317/permalink/3748237725210568) / [Mobile](https://m.facebook.com/events/3728096903891317?view=permalink&id=3748237725210568) |
+| 3 | [Daniel Smith](../../persons/daniel_smith/clock.md) | 50+ | 26.06 | 36.57 | 🥉 | [Desktop](https://www.facebook.com/events/3728096903891317/permalink/3748086008559073) / [Mobile](https://m.facebook.com/events/3728096903891317?view=permalink&id=3748086008559073) |
+
 #### [2020-10-20](../../results/2020-10-20/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

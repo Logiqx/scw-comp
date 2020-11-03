@@ -35,7 +35,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Brooke Persoon](../../persons/brooke_persoon/333bf.md) | <40 | 18:05.78 | DNF |  |  | ⚡ x 1 |
 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | <40 | 1:12.91 | 1:27.55 | 🏆 x 2 |  | 🔥 x 6, ⚡ x 6 |
-| [Ed Connell](../../persons/ed_connell/333bf.md) | <40 | 4:05.63 | DNF |  |  | ⚡ x 3 |
+| [Ed Connell](../../persons/ed_connell/333bf.md) | <40 | 4:05.63 | DNF | 🏆 x 1 |  | ⚡ x 3 |
 | [Go-ho Choi](../../persons/go_ho_choi/333bf.md) | <40 | 2:22.99 | DNF |  |  | ⚡ x 1 |
 
 #### Under 30

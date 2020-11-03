@@ -15,8 +15,8 @@
 | [Skewb](skewb.md) | 25.98 | 35.79 |  | 🥈 x 3 | 🔥 x 2, ⚡ x 2 |
 | [Clock](clock.md) | 28.82 | 32.79 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 3, ⚡ x 3 |
 | [3x3x3 BLD](333bf.md) | 45.10 | 57.66 | 🏆 x 23 | 🥇 x 24 | 💥 x 4, 🔥 x 1, ⚡ x 4 |
-| [4x4x4 BLD](444bf.md) | 5:21.77 | - | 🏆 x 17 | 🥇 x 20 | 💥 x 5, ⚡ x 5 |
-| [5x5x5 BLD](555bf.md) | 12:10.99 | - | 🏆 x 8 | 🥇 x 16 | 💥 x 4, ⚡ x 4 |
+| [4x4x4 BLD](444bf.md) | 5:15.32 | - | 🏆 x 18 | 🥇 x 21 | 💥 x 6, ⚡ x 6 |
+| [5x5x5 BLD](555bf.md) | 12:10.99 | - | 🏆 x 9 | 🥇 x 17 | 💥 x 4, ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

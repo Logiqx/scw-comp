@@ -10,7 +10,7 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | 40+ | 14.77 | 18.74 |  | 🥈 x 4 | 🔥 x 4, ⚡ x 2 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | 3.98 | 7.02 | 🏆 x 7 | 🥇 x 7 | 💥 x 3, 🔥 x 3, ⚡ x 3 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | 3.98 | 7.02 | 🏆 x 8 | 🥇 x 8 | 💥 x 3, 🔥 x 3, ⚡ x 3 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/skewb.md) | 40+ | 7.88 | 12.16 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/skewb.md) | 40+ | 25.98 | 35.79 |  | 🥈 x 3 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | 40+ | 4.15 | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
@@ -25,7 +25,7 @@
 | [Adam Robson](../../persons/adam_robson/skewb.md) | <40 | 28.41 | 38.18 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/skewb.md) | <40 | 9.60 | 19.07 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | 4.85 | 11.31 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 3 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | <40 | 6.70 | 9.23 |  |  | 🔥 x 2, ⚡ x 3 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | <40 | 6.52 | 9.23 |  |  | 🔥 x 2, ⚡ x 4 |
 | [Pete Lee](../../persons/pete_lee/skewb.md) | <40 | 6.84 | 13.62 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Peter Osudar](../../persons/peter_osudar/skewb.md) | <40 | 3.87 | 9.52 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 

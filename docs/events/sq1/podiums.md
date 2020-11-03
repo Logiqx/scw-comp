@@ -4,6 +4,14 @@
 ### Square-1 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-03](../../results/2020-11-03/sq1.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | 40+ | 25.65 | 29.93 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/3728096903891317/permalink/3740224232678584) / [Mobile](https://m.facebook.com/events/3728096903891317?view=permalink&id=3740224232678584) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 22.94 | 30.34 | 🥈 | [Desktop](https://www.facebook.com/events/3728096903891317/permalink/3748086008559073) / [Mobile](https://m.facebook.com/events/3728096903891317?view=permalink&id=3748086008559073) |
+| 3 | [Konsta Jukka](../../persons/konsta_jukka/sq1.md) | 40+ | 31.30 | 44.55 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/3728096903891317/permalink/3744217232279284) / [Mobile](https://m.facebook.com/events/3728096903891317?view=permalink&id=3744217232279284) |
+
 #### [2020-10-20](../../results/2020-10-20/sq1.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

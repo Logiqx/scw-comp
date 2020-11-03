@@ -35,7 +35,7 @@
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | [2020-09-08](../../results/2020-09-08/333bf.md) | <40 | 1:12.91 | 🏆 x 2 |  | 🔥 x 6, ⚡ x 6 | [Desktop](https://www.facebook.com/events/255657718878285/permalink/257066415404082) / [Mobile](https://m.facebook.com/events/255657718878285?view=permalink&id=257066415404082) |
 | 2 | [Go-ho Choi](../../persons/go_ho_choi/333bf.md) | [2020-02-11](../../results/2020-02-11/333bf.md) | <40 | 2:22.99 |  |  | ⚡ x 1 | |
-| 3 | [Ed Connell](../../persons/ed_connell/333bf.md) | [2020-10-20](../../results/2020-10-20/333bf.md) | <40 | 4:05.63 |  |  | ⚡ x 3 | [Desktop](https://www.facebook.com/events/365280181488304/permalink/369283274421328) / [Mobile](https://m.facebook.com/events/365280181488304?view=permalink&id=369283274421328) |
+| 3 | [Ed Connell](../../persons/ed_connell/333bf.md) | [2020-10-20](../../results/2020-10-20/333bf.md) | <40 | 4:05.63 | 🏆 x 1 |  | ⚡ x 3 | [Desktop](https://www.facebook.com/events/365280181488304/permalink/369283274421328) / [Mobile](https://m.facebook.com/events/365280181488304?view=permalink&id=369283274421328) |
 | 4 | [Brooke Persoon](../../persons/brooke_persoon/333bf.md) | [2020-03-03](../../results/2020-03-03/333bf.md) | <40 | 18:05.78 |  |  | ⚡ x 1 | [Desktop](https://www.facebook.com/events/186820176097844/permalink/191609515618910) / [Mobile](https://m.facebook.com/events/186820176097844?view=permalink&id=191609515618910) |
 
 #### Under 30

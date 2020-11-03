@@ -3,11 +3,12 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Greg Simmons
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-| Event | Single | Average | Achievements|
-| :-- | --: | --: | :-- |
-| [3x3x3](333.md) | 22.51 | 26.17 | 🔥 x 2, ⚡ x 2 |
+| Event | Single | Average | Cups | Achievements|
+| :-- | --: | --: | :--: | :-- |
+| [3x3x3](333.md) | 22.51 | 26.17 |  | 🔥 x 2, ⚡ x 2 |
+| [Clock](clock.md) | 10.47 | 11.91 | 🏆 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

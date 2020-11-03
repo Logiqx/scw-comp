@@ -26,10 +26,10 @@
 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | 40+ | 4:58.23 | 5:24.33 | 🏆 x 12 | 🥇 x 12, 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/777.md) | 50+ | 4:55.42 | 5:05.66 |  | 🥈 x 2 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | 15:59.23 | DNF |  | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | 4:10.31 | 4:22.17 | 🏆 x 7 | 🥇 x 7 | 💥 x 4, 🔥 x 2, ⚡ x 3 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | 4:04.63 | 4:11.37 | 🏆 x 8 | 🥇 x 8 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 5:25.71 | 5:37.68 | 🏆 x 5 | 🥇 x 5, 🥈 x 12 | 🔥 x 3, ⚡ x 4 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/777.md) | 40+ | 8:08.23 | DNF |  | 🥉 x 1 | ⚡ x 2 |
-| [Konsta Jukka](../../persons/konsta_jukka/777.md) | 40+ | 4:52.98 | 5:09.11 |  | 🥈 x 4, 🥉 x 1 | 🔥 x 4, ⚡ x 4 |
+| [Konsta Jukka](../../persons/konsta_jukka/777.md) | 40+ | 4:52.98 | 5:09.11 |  | 🥈 x 5, 🥉 x 1 | 🔥 x 4, ⚡ x 4 |
 
 #### Under 40
 
@@ -37,6 +37,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/777.md) | <40 | 11:27.00 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/777.md) | <40 | 8:56.69 | DNF |  |  | ⚡ x 1 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/777.md) | <40 | 6:07.52 | 6:15.86 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/777.md) | <40 | 5:57.42 | 7:06.95 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 12 |
 | [Peter Osudar](../../persons/peter_osudar/777.md) | <40 | 6:13.99 | 6:36.78 |  |  | 🔥 x 1, ⚡ x 1 |
 
