@@ -4,6 +4,14 @@
 ### 2x2x2 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-03](../../results/2020-11-03/222.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | 3.79 | 4.85 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1239637256416110/permalink/1245109302535572) / [Mobile](https://m.facebook.com/events/1239637256416110?view=permalink&id=1245109302535572) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/222.md) | 40+ | 6.72 | 7.84 | 🥈 | [Desktop](https://www.facebook.com/events/1239637256416110/permalink/1245602182486284) / [Mobile](https://m.facebook.com/events/1239637256416110?view=permalink&id=1245602182486284) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 7.55 | 9.22 | 🥉 | [Desktop](https://www.facebook.com/events/1239637256416110/permalink/1245137969199372) / [Mobile](https://m.facebook.com/events/1239637256416110?view=permalink&id=1245137969199372) |
+
 #### [2020-10-27](../../results/2020-10-27/222.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

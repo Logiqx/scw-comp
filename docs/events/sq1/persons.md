@@ -9,16 +9,16 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 18.13 | 26.95 | 🏆 x 18 | 🥇 x 18, 🥈 x 2 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
+| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 18.13 | 26.95 | 🏆 x 18 | 🥇 x 18, 🥈 x 3 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
 
 #### Over 40
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | 31.85 | 49.65 |  | 🥈 x 6 | 🔥 x 2, ⚡ x 2 |
-| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 18.13 | 26.95 | 🏆 x 18 | 🥇 x 18, 🥈 x 2 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | 40+ | 20.73 | 29.93 | 🏆 x 2 | 🥇 x 2, 🥈 x 6 | 🔥 x 4, ⚡ x 3 |
-| [Konsta Jukka](../../persons/konsta_jukka/sq1.md) | 40+ | 31.30 | 43.73 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 2 |
+| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 18.13 | 26.95 | 🏆 x 18 | 🥇 x 18, 🥈 x 3 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | 40+ | 20.73 | 29.01 | 🏆 x 3 | 🥇 x 3, 🥈 x 6 | 🔥 x 5, ⚡ x 3 |
+| [Konsta Jukka](../../persons/konsta_jukka/sq1.md) | 40+ | 24.21 | 42.31 |  | 🥉 x 4 | 🔥 x 3, ⚡ x 3 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | 43.91 | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40

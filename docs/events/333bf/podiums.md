@@ -4,6 +4,12 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-03](../../results/2020-11-03/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | 40+ | 54.79 | 57.55 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/2761297674142255/permalink/2763988847206471) / [Mobile](https://m.facebook.com/events/2761297674142255?view=permalink&id=2763988847206471) |
+
 
 #### [2020-10-20](../../results/2020-10-20/333bf.md)
 

@@ -4,6 +4,13 @@
 ### 4x4x4 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-03](../../results/2020-11-03/444.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | 50.48 | 53.77 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/391709741873523/permalink/396414048069759) / [Mobile](https://m.facebook.com/events/391709741873523?view=permalink&id=396414048069759) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | 46.40 | 54.69 | 🥈 | [Desktop](https://www.facebook.com/events/391709741873523/permalink/396762764701554) / [Mobile](https://m.facebook.com/events/391709741873523?view=permalink&id=396762764701554) |
+
 #### [2020-10-27](../../results/2020-10-27/444.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

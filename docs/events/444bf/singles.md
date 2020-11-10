@@ -23,7 +23,7 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Chris Hardwick](../../persons/chris_hardwick/444bf.md) | [2020-10-20](../../results/2020-10-20/444bf.md) | <40 | 5:09.70 | 🏆 x 4 |  | 💥 x 4, 🔥 x 3, ⚡ x 7 | [Desktop](https://www.facebook.com/events/365280181488304/permalink/368032671213055) / [Mobile](https://m.facebook.com/events/365280181488304?view=permalink&id=368032671213055) |
+| 1 | [Chris Hardwick](../../persons/chris_hardwick/444bf.md) | [2020-10-20](../../results/2020-10-20/444bf.md) | <40 | 5:09.70 | 🏆 x 5 |  | 💥 x 4, 🔥 x 3, ⚡ x 7 | [Desktop](https://www.facebook.com/events/365280181488304/permalink/368032671213055) / [Mobile](https://m.facebook.com/events/365280181488304?view=permalink&id=368032671213055) |
 
 #### Under 20
 

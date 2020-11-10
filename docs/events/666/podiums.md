@@ -4,6 +4,13 @@
 ### 6x6x6 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-03](../../results/2020-11-03/666.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/666.md) | 40+ | 2:44.28 | 2:56.43 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/391709741873523/permalink/396764054701425) / [Mobile](https://m.facebook.com/events/391709741873523?view=permalink&id=396764054701425) |
+| 2 | [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | 3:20.55 | 3:23.10 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/391709741873523/permalink/396414698069694) / [Mobile](https://m.facebook.com/events/391709741873523?view=permalink&id=396414698069694) |
+
 #### [2020-10-27](../../results/2020-10-27/666.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

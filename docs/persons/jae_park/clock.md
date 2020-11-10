@@ -8,6 +8,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-11-03](../../results/2020-11-03/clock.md) | 40+ | 31.74 | 35.66 | 🥉 | 35.12 | 42.17 | 37.77 | 34.10 | 31.74 | [Desktop](https://www.facebook.com/events/406412140373592/permalink/407121370302669) / [Mobile](https://m.facebook.com/events/406412140373592?view=permalink&id=407121370302669) |
 | [2020-10-13](../../results/2020-10-13/clock.md) | 40+ | **28.82** | **32.79** | 🥈 🔥 ⚡ | 36.02 | 40.34 | 30.67 | **28.82** | 31.68 | [Desktop](https://www.facebook.com/events/718285385437639/permalink/720435565222621) / [Mobile](https://m.facebook.com/events/718285385437639?view=permalink&id=720435565222621) |
 | [2020-10-06](../../results/2020-10-06/clock.md) | 40+ | 32.68 | 34.67 | 🥉 | 33.42 | 35.79 | 34.80 | 32.68 | 36.23 | [Desktop](https://www.facebook.com/events/365989921479949/permalink/367087978036810) / [Mobile](https://m.facebook.com/events/365989921479949?view=permalink&id=367087978036810) |
 | [2020-09-29](../../results/2020-09-29/clock.md) | 40+ | **30.89** | **34.42** | 🔥 ⚡ | 42.65 | **30.89** | 36.16 | 31.33 | 35.77 | [Desktop](https://www.facebook.com/events/318437286122261/permalink/319126449386678) / [Mobile](https://m.facebook.com/events/318437286122261?view=permalink&id=319126449386678) |
