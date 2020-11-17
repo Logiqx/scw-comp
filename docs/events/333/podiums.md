@@ -4,6 +4,14 @@
 ### 3x3x3 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-10](../../results/2020-11-10/333.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | 10.43 | 12.82 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/355672432175632/permalink/360671078342434) / [Mobile](https://m.facebook.com/events/355672432175632?view=permalink&id=360671078342434) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333.md) | 40+ | 14.72 | 16.46 | 🥈 | [Desktop](https://www.facebook.com/events/355672432175632/permalink/359811581761717) / [Mobile](https://m.facebook.com/events/355672432175632?view=permalink&id=359811581761717) |
+| 3 | [Christoph Woittequand](../../persons/christoph_woittequand/333.md) | 40+ | 12.05 | 18.84 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/355672432175632/permalink/360062621736613) / [Mobile](https://m.facebook.com/events/355672432175632?view=permalink&id=360062621736613) |
+
 #### [2020-11-03](../../results/2020-11-03/333.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

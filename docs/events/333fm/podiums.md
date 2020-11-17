@@ -4,6 +4,13 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-10](../../results/2020-11-10/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 28 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/280668606638446/permalink/282025989836041) / [Mobile](https://m.facebook.com/events/280668606638446?view=permalink&id=282025989836041) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | 56 | 🥈 | [Desktop](https://www.facebook.com/events/280668606638446/permalink/285390882832885) / [Mobile](https://m.facebook.com/events/280668606638446?view=permalink&id=285390882832885) |
+
 #### [2020-11-03](../../results/2020-11-03/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |

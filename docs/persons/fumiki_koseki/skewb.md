@@ -8,6 +8,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-11-10](../../results/2020-11-10/skewb.md) | 40+ | 5.12 | 7.52 | 🏆 🥇 | 7.79 | 5.96 | 8.82 | 15.17 | 5.12 | [Desktop](https://www.facebook.com/events/758374458225984/permalink/762801124449984) / [Mobile](https://m.facebook.com/events/758374458225984?view=permalink&id=762801124449984) |
 | [2020-11-03](../../results/2020-11-03/skewb.md) | 40+ | 6.06 | 7.35 | 🏆 🥇 | 6.19 | 6.06 | 6.38 | 9.49 | 10.49 | [Desktop](https://www.facebook.com/events/406412140373592/permalink/411439369870869) / [Mobile](https://m.facebook.com/events/406412140373592?view=permalink&id=411439369870869) |
 | [2020-10-27](../../results/2020-10-27/skewb.md) | 40+ | 4.55 | 7.60 | 🏆 🥇 | 8.58 | 11.58 | 4.55 | 5.75 | 8.48 | [Desktop](https://www.facebook.com/events/3728096903891317/permalink/3740219522679055) / [Mobile](https://m.facebook.com/events/3728096903891317?view=permalink&id=3740219522679055) |
 | [2020-10-20](../../results/2020-10-20/skewb.md) | 40+ | 5.53 | 7.04 | 🏆 🥇 | 8.04 | 11.27 | 6.78 | 5.53 | 6.31 | [Desktop](https://www.facebook.com/events/3475733505840328/permalink/3494840813929597) / [Mobile](https://m.facebook.com/events/3475733505840328?view=permalink&id=3494840813929597) |

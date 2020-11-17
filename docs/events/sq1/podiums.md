@@ -4,6 +4,13 @@
 ### Square-1 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-10](../../results/2020-11-10/sq1.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | 25.91 | 29.56 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/758374458225984/permalink/763972280999535) / [Mobile](https://m.facebook.com/events/758374458225984?view=permalink&id=763972280999535) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | 40+ | 25.12 | 33.65 | 🥈 | [Desktop](https://www.facebook.com/events/758374458225984/permalink/762802244449872) / [Mobile](https://m.facebook.com/events/758374458225984?view=permalink&id=762802244449872) |
+
 #### [2020-11-03](../../results/2020-11-03/sq1.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

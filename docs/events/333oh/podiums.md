@@ -4,6 +4,13 @@
 ### 3x3x3 One-Handed Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-10](../../results/2020-11-10/333oh.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | 19.45 | 24.51 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/355672432175632/permalink/360671055009103) / [Mobile](https://m.facebook.com/events/355672432175632?view=permalink&id=360671055009103) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | 25.44 | 29.44 | 🥈 | [Desktop](https://www.facebook.com/events/355672432175632/permalink/359813561761519) / [Mobile](https://m.facebook.com/events/355672432175632?view=permalink&id=359813561761519) |
+
 #### [2020-11-03](../../results/2020-11-03/333oh.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
