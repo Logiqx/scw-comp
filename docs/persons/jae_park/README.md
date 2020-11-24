@@ -14,9 +14,9 @@
 | [6x6x6](666.md) | 12:20.61 | - |  | 🥈 x 1 | ⚡ x 1 |
 | [Skewb](skewb.md) | 17.82 | 26.94 |  | 🥈 x 4 | 🔥 x 3, ⚡ x 3 |
 | [Clock](clock.md) | 28.82 | 32.79 |  | 🥈 x 1, 🥉 x 3 | 🔥 x 3, ⚡ x 3 |
-| [3x3x3 BLD](333bf.md) | 45.10 | 57.55 | 🏆 x 25 | 🥇 x 26 | 💥 x 5, 🔥 x 2, ⚡ x 4 |
-| [4x4x4 BLD](444bf.md) | 5:15.32 | - | 🏆 x 18 | 🥇 x 21 | 💥 x 6, ⚡ x 6 |
-| [5x5x5 BLD](555bf.md) | 12:10.99 | - | 🏆 x 10 | 🥇 x 18 | 💥 x 4, ⚡ x 4 |
+| [3x3x3 BLD](333bf.md) | 45.10 | 57.55 | 🏆 x 25 | 🥇 x 27 | 💥 x 5, 🔥 x 2, ⚡ x 4 |
+| [4x4x4 BLD](444bf.md) | 4:38.38 | - | 🏆 x 19 | 🥇 x 22 | 💥 x 7, ⚡ x 7 |
+| [5x5x5 BLD](555bf.md) | 12:10.99 | - | 🏆 x 11 | 🥇 x 19 | 💥 x 4, ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

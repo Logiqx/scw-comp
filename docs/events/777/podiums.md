@@ -4,6 +4,12 @@
 ### 7x7x7 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-17](../../results/2020-11-17/777.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | 4:25.11 | 4:33.48 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/385577379164063/permalink/389306528791148) / [Mobile](https://m.facebook.com/events/385577379164063?view=permalink&id=389306528791148) |
+
 #### [2020-11-10](../../results/2020-11-10/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

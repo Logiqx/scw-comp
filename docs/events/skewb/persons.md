@@ -11,7 +11,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | 40+ | 14.77 | 18.74 |  | 🥈 x 4 | 🔥 x 4, ⚡ x 2 |
 | [Anthony Rochester](../../persons/anthony_rochester/skewb.md) | 40+ | 24.04 | 41.18 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | 3.98 | 7.02 | 🏆 x 10 | 🥇 x 10 | 💥 x 3, 🔥 x 3, ⚡ x 3 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | 3.98 | 7.02 | 🏆 x 11 | 🥇 x 11 | 💥 x 3, 🔥 x 3, ⚡ x 3 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/skewb.md) | 40+ | 7.88 | 12.16 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/skewb.md) | 40+ | 17.82 | 26.94 |  | 🥈 x 4 | 🔥 x 3, ⚡ x 3 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | 40+ | 4.15 | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |

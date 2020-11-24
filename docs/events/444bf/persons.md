@@ -9,15 +9,15 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | 9:56.40 | DNF |  | 🥇 x 1, 🥈 x 3 | 💥 x 3, ⚡ x 3 |
+| [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | 9:09.91 | DNF |  | 🥇 x 1, 🥈 x 4 | 💥 x 4, ⚡ x 4 |
 
 #### Over 40
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | 40+ | 10:52.00 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 5 | ⚡ x 1 |
-| [Jae Park](../../persons/jae_park/444bf.md) | 40+ | 5:15.32 | DNF | 🏆 x 18 | 🥇 x 21 | 💥 x 6, ⚡ x 6 |
-| [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | 9:56.40 | DNF |  | 🥇 x 1, 🥈 x 3 | 💥 x 3, ⚡ x 3 |
+| [Jae Park](../../persons/jae_park/444bf.md) | 40+ | 4:38.38 | DNF | 🏆 x 19 | 🥇 x 22 | 💥 x 7, ⚡ x 7 |
+| [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | 9:09.91 | DNF |  | 🥇 x 1, 🥈 x 4 | 💥 x 4, ⚡ x 4 |
 
 #### Under 40
 

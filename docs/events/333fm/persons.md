@@ -27,7 +27,7 @@
 | Name | Age | Single | Cups | Medals | Achievements |
 | :-- | :--: | :--: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333fm.md) | 40+ | 36 |  | 🥈 x 1, 🥉 x 4 | ⚡ x 2 |
-| [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 25 | 🏆 x 10 | 🥇 x 16, 🥈 x 7, 🥉 x 2 | ⚡ x 2 |
+| [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 25 | 🏆 x 11 | 🥇 x 17, 🥈 x 7, 🥉 x 2 | ⚡ x 2 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333fm.md) | 50+ | 43 |  | 🥉 x 1 | ⚡ x 1 |
 | [David Roche](../../persons/david_roche/333fm.md) | 50+ | 21 | 🏆 x 1 | 🥇 x 3, 🥈 x 5, 🥉 x 4 | 💥 x 3, ⚡ x 4 |
 | [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | 40 |  | 🥈 x 3, 🥉 x 5 | 💥 x 3, ⚡ x 3 |

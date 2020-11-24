@@ -4,6 +4,13 @@
 ### 5x5x5 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-17](../../results/2020-11-17/555.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | 1:30.57 | 1:37.56 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/385577379164063/permalink/389302218791579) / [Mobile](https://m.facebook.com/events/385577379164063?view=permalink&id=389302218791579) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | 2:37.65 | 2:58.71 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/385577379164063/permalink/387565812298553) / [Mobile](https://m.facebook.com/events/385577379164063?view=permalink&id=387565812298553) |
+
 #### [2020-11-10](../../results/2020-11-10/555.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

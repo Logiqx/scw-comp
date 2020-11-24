@@ -4,6 +4,13 @@
 ### Megaminx Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-17](../../results/2020-11-17/minx.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | 1:30.27 | 1:41.45 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/770207250227350/permalink/774783456436396) / [Mobile](https://m.facebook.com/events/770207250227350?view=permalink&id=774783456436396) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | 40+ | 1:41.16 | 1:50.54 | 🥈 | [Desktop](https://www.facebook.com/events/770207250227350/permalink/773966986518043) / [Mobile](https://m.facebook.com/events/770207250227350?view=permalink&id=773966986518043) |
+
 #### [2020-11-10](../../results/2020-11-10/minx.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
