@@ -54,9 +54,10 @@
     "skipDraw": "2020-06-23",
     "wcaId": "2011WRIG01"
   },
-  "Christophe Woittequand": {
+  "Christoph Woittequand": {
     "age": "40+",
     "aliases": [
+      "Christophe Woittequand",
       "Woittequand Christophe",
       "Woittequand Christoph",
       "Woittequand"
@@ -422,7 +423,8 @@
   },
   "Zain Ali": {
     "age": "<20",
-    "id": 65
+    "id": 65,
+    "wcaId": "2019BEHZ01"
   },
   "Александр Гилка": {
     "age": "50+",
