@@ -3,15 +3,15 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Yi-Wei Chen
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-| Event | Single | Average | Medals | Achievements|
-| :-- | --: | --: | :-- | :-- |
-| [3x3x3](333.md) | 17.85 | 21.19 |  | 🔥 x 4, ⚡ x 1 |
-| [4x4x4](444.md) | 1:08.81 | 1:21.39 | 🥉 x 1 | 🔥 x 4, ⚡ x 4 |
-| [5x5x5](555.md) | 2:37.65 | 2:50.16 | 🥈 x 3, 🥉 x 3 | 🔥 x 7, ⚡ x 10 |
-| [6x6x6](666.md) | 6:53.30 | - |  | ⚡ x 1 |
-| [3x3x3 FMC](333fm.md) | 38 | - | 🥈 x 4, 🥉 x 1 | ⚡ x 2 |
+| Event | Single | Average | Cups | Medals | Achievements|
+| :-- | --: | --: | :--: | :-- | :-- |
+| [3x3x3](333.md) | 16.37 | 19.50 |  |  | 🔥 x 5, ⚡ x 2 |
+| [4x4x4](444.md) | 1:08.81 | 1:21.39 |  | 🥉 x 1 | 🔥 x 4, ⚡ x 4 |
+| [5x5x5](555.md) | 2:37.65 | 2:49.32 |  | 🥈 x 3, 🥉 x 4 | 🔥 x 8, ⚡ x 10 |
+| [6x6x6](666.md) | 6:53.30 | - |  |  | ⚡ x 1 |
+| [3x3x3 FMC](333fm.md) | 36 | - | 🏆 x 1 | 🥇 x 1, 🥈 x 4, 🥉 x 1 | ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

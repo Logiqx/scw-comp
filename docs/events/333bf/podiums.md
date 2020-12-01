@@ -4,6 +4,13 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-24](../../results/2020-11-24/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | 40+ | 52.89 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/388171482493213/permalink/391124625531232) / [Mobile](https://m.facebook.com/events/388171482493213?view=permalink&id=391124625531232) |
+| 2 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | 5:30.40 | DNF | 🥈 | [Desktop](https://www.facebook.com/100000123498724/videos/4114270951920314) / [Mobile](https://m.facebook.com/100000123498724/videos/4114270951920314) |
+
 #### [2020-11-17](../../results/2020-11-17/333bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

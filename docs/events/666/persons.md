@@ -28,8 +28,8 @@
 | [Chris Wright](../../persons/chris_wright/666.md) | 50+ | 3:08.84 | 3:18.98 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Daniel Smith](../../persons/daniel_smith/666.md) | 50+ | 5:28.23 | 5:54.57 |  | 🥈 x 1, 🥉 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/666.md) | 60+ | 12:04.43 | DNF |  |  | 💥 x 3, ⚡ x 3 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/666.md) | 40+ | 2:38.63 | 2:44.23 | 🏆 x 11 | 🥇 x 11 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | 3:36.08 | 3:45.49 | 🏆 x 3 | 🥇 x 5, 🥈 x 11, 🥉 x 1 | 🔥 x 4, ⚡ x 3 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/666.md) | 40+ | 2:38.63 | 2:44.23 | 🏆 x 12 | 🥇 x 12 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | 3:36.08 | 3:45.49 | 🏆 x 3 | 🥇 x 5, 🥈 x 12, 🥉 x 1 | 🔥 x 4, ⚡ x 3 |
 | [Jae Park](../../persons/jae_park/666.md) | 40+ | 12:20.61 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/666.md) | 40+ | 5:06.63 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 | [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | 3:13.39 | 3:23.10 |  | 🥇 x 1, 🥈 x 6 | 🔥 x 5, ⚡ x 4 |

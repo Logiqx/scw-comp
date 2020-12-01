@@ -8,6 +8,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-11-24](../../results/2020-11-24/pyram.md) | 50+ | 11.97 | 13.46 | 🥉 | 13.25 | 11.97 | 13.51 | 13.62 | 17.58 | [Desktop](https://www.facebook.com/events/422848532078775/permalink/426213585075603) / [Mobile](https://m.facebook.com/events/422848532078775?view=permalink&id=426213585075603) |
 | [2020-11-10](../../results/2020-11-10/pyram.md) | 50+ | **8.37** | **12.73** | 🥉 🔥 ⚡ | **8.37** | 12.33 | 11.56 | 20.39 | 14.29 | [Desktop](https://www.facebook.com/events/758374458225984/permalink/763052824424814) / [Mobile](https://m.facebook.com/events/758374458225984?view=permalink&id=763052824424814) |
 | [2020-11-03](../../results/2020-11-03/pyram.md) | 50+ | 12.38 | 15.52 | 🥉 | 17.95 | 16.71 | 14.88 | 14.97 | 12.38 | [Desktop](https://www.facebook.com/events/406412140373592/permalink/411118319902974) / [Mobile](https://m.facebook.com/events/406412140373592?view=permalink&id=411118319902974) |
 | [2020-10-27](../../results/2020-10-27/pyram.md) | 50+ | 15.09 | 16.78 | 🥉 | 15.09 | 15.39 | 19.42 | 22.06 | 15.54 | [Desktop](https://www.facebook.com/events/3728096903891317/permalink/3748242581876749) / [Mobile](https://m.facebook.com/events/3728096903891317?view=permalink&id=3748242581876749) |

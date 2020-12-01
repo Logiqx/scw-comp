@@ -4,6 +4,12 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-11-24](../../results/2020-11-24/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | 36 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/3426745807421507/permalink/3440046912758063) / [Mobile](https://m.facebook.com/events/3426745807421507?view=permalink&id=3440046912758063) |
+
 #### [2020-11-17](../../results/2020-11-17/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |

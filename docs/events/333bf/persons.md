@@ -9,7 +9,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | 3:06.64 | DNF |  | 🥉 x 2 | ⚡ x 3 |
+| [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | 3:06.64 | DNF |  | 🥈 x 1, 🥉 x 2 | ⚡ x 3 |
 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | 1:57.81 | 3:12.88 |  | 🥇 x 1, 🥈 x 2, 🥉 x 3 | 💥 x 6, 🔥 x 1, ⚡ x 5 |
 
 #### Over 40
@@ -20,8 +20,8 @@
 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | 55.88 | 1:41.14 | 🏆 x 2 | 🥇 x 3, 🥈 x 4, 🥉 x 4 | 🔥 x 1, ⚡ x 3 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | 57.12 | 1:12.80 | 🏆 x 1 | 🥇 x 1, 🥈 x 7, 🥉 x 1 | 🔥 x 1, ⚡ x 4 |
 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | 1:29.68 | 1:43.25 |  | 🥈 x 6, 🥉 x 6 | 🔥 x 4, ⚡ x 4 |
-| [Jae Park](../../persons/jae_park/333bf.md) | 40+ | 45.10 | 57.55 | 🏆 x 25 | 🥇 x 27 | 💥 x 5, 🔥 x 2, ⚡ x 4 |
-| [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | 3:06.64 | DNF |  | 🥉 x 2 | ⚡ x 3 |
+| [Jae Park](../../persons/jae_park/333bf.md) | 40+ | 45.10 | 57.55 | 🏆 x 26 | 🥇 x 28 | 💥 x 5, 🔥 x 2, ⚡ x 4 |
+| [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | 3:06.64 | DNF |  | 🥈 x 1, 🥉 x 2 | ⚡ x 3 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/333bf.md) | 40+ | 2:31.65 | DNF |  | 🥉 x 1 | ⚡ x 3 |
 | [Mark Adams](../../persons/mark_adams/333bf.md) | 40+ | 1:46.60 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | 1:57.81 | 3:12.88 |  | 🥇 x 1, 🥈 x 2, 🥉 x 3 | 💥 x 6, 🔥 x 1, ⚡ x 5 |

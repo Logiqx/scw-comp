@@ -35,7 +35,7 @@
 | [John Cook](../../persons/john_cook/333fm.md) | 50+ | 45 |  | 🥉 x 2 | ⚡ x 3 |
 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | 32 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 3 | ⚡ x 3 |
 | [Michael George](../../persons/michael_george/333fm.md) | 40+ | 31 |  | 🥇 x 1, 🥈 x 4, 🥉 x 5 | ⚡ x 3 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | 38 |  | 🥈 x 4, 🥉 x 1 | ⚡ x 2 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | 36 | 🏆 x 1 | 🥇 x 1, 🥈 x 4, 🥉 x 1 | ⚡ x 3 |
 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | 21 | 🏆 x 5 | 🥇 x 5, 🥈 x 1 | 💥 x 2, ⚡ x 3 |
 
 #### Under 40

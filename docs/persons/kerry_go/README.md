@@ -7,7 +7,10 @@
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
-| [3x3x3](333.md) | 30.50 | 36.55 | 🔥 x 1, ⚡ x 1 |
+| [3x3x3](333.md) | 27.91 | 36.55 | 🔥 x 1, ⚡ x 2 |
+| [4x4x4](444.md) | 1:47.83 | 2:08.30 | 🔥 x 1, ⚡ x 1 |
+| [5x5x5](555.md) | 3:30.80 | 3:37.00 | 🔥 x 1, ⚡ x 1 |
+| [Megaminx](minx.md) | 3:40.96 | - | ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
