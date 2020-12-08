@@ -4,6 +4,13 @@
 ### 7x7x7 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-12-01](../../results/2020-12-01/777.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | 4:11.84 | 4:19.57 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1067911153659963/permalink/1072802943170784) / [Mobile](https://m.facebook.com/events/1067911153659963?view=permalink&id=1072802943170784) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 5:44.57 | 5:51.15 | 🥈 | [Desktop](https://www.facebook.com/events/1067911153659963/permalink/1069090936875318) / [Mobile](https://m.facebook.com/events/1067911153659963?view=permalink&id=1069090936875318) |
+
 #### [2020-11-24](../../results/2020-11-24/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

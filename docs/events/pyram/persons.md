@@ -9,7 +9,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 5.26 | 8.91 | 🏆 x 1 | 🥇 x 2, 🥈 x 20, 🥉 x 2 | 💥 x 6, 🔥 x 4, ⚡ x 3 |
+| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 5.26 | 8.91 | 🏆 x 1 | 🥇 x 2, 🥈 x 21, 🥉 x 2 | 💥 x 6, 🔥 x 4, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 8.37 | 12.73 |  | 🥉 x 8 | 🔥 x 3, ⚡ x 2 |
 
 #### Over 40
@@ -18,8 +18,8 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | 40+ | 11.80 | 13.95 |  | 🥈 x 1, 🥉 x 5 | 🔥 x 2, ⚡ x 4 |
 | [Anthony Rochester](../../persons/anthony_rochester/pyram.md) | 40+ | 14.15 | 23.10 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 5.26 | 8.91 | 🏆 x 1 | 🥇 x 2, 🥈 x 20, 🥉 x 2 | 💥 x 6, 🔥 x 4, ⚡ x 3 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) | 40+ | 5.05 | 6.32 | 🏆 x 12 | 🥇 x 12 | 🔥 x 5, ⚡ x 3 |
+| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 5.26 | 8.91 | 🏆 x 1 | 🥇 x 2, 🥈 x 21, 🥉 x 2 | 💥 x 6, 🔥 x 4, ⚡ x 3 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) | 40+ | 5.05 | 6.32 | 🏆 x 13 | 🥇 x 13 | 🔥 x 5, ⚡ x 3 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/pyram.md) | 40+ | 19.74 | 24.12 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 8.37 | 12.73 |  | 🥉 x 8 | 🔥 x 3, ⚡ x 2 |
 | [Marcel Balzer](../../persons/marcel_balzer/pyram.md) | 40+ | 10.03 | 16.55 |  | 🥉 x 3 | 🔥 x 4, ⚡ x 3 |

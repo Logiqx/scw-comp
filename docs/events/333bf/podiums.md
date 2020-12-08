@@ -4,6 +4,13 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-12-01](../../results/2020-12-01/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | 2:50.37 | DNF | 🥇 ⚡ | [Desktop](https://www.facebook.com/100000123498724/videos/4134454599901949) / [Mobile](https://m.facebook.com/100000123498724/videos/4134454599901949) |
+| 2 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | 2:54.68 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/200499568213598/permalink/201197981477090) / [Mobile](https://m.facebook.com/events/200499568213598?view=permalink&id=201197981477090) |
+
 #### [2020-11-24](../../results/2020-11-24/333bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

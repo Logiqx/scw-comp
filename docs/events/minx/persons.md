@@ -30,11 +30,11 @@
 | [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | 1:54.48 | 2:17.73 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Daniel Smith](../../persons/daniel_smith/minx.md) | 50+ | 8:11.77 | DNF |  |  | ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | 40+ | 1:21.66 | 1:38.89 | 🏆 x 5 | 🥇 x 5, 🥈 x 6, 🥉 x 1 | 💥 x 2, 🔥 x 2, ⚡ x 1 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:27.50 | 1:39.69 | 🏆 x 13 | 🥇 x 14, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 5 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | 40+ | 1:21.66 | 1:37.12 | 🏆 x 6 | 🥇 x 6, 🥈 x 6, 🥉 x 1 | 💥 x 2, 🔥 x 3, ⚡ x 1 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:27.50 | 1:39.69 | 🏆 x 13 | 🥇 x 14, 🥈 x 1, 🥉 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 5 |
 | [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | 3:55.83 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | 3:40.96 | DNF |  |  | ⚡ x 1 |
-| [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | 1:25.99 | 1:32.06 | 🏆 x 7 | 🥇 x 7, 🥈 x 3 | 💥 x 3, 🔥 x 4, ⚡ x 3 |
+| [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | 1:25.99 | 1:32.06 | 🏆 x 7 | 🥇 x 7, 🥈 x 4 | 💥 x 3, 🔥 x 4, ⚡ x 3 |
 
 #### Under 40
 
@@ -43,7 +43,7 @@
 | [Adam Robson](../../persons/adam_robson/minx.md) | <40 | 4:37.65 | DNF |  |  | ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/minx.md) | <40 | 6:02.13 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/minx.md) | <40 | 3:24.48 | DNF |  |  | ⚡ x 1 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | <40 | 1:34.88 | 1:40.47 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 2 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | <40 | 1:34.88 | 1:40.06 | 🏆 x 1 |  | 🔥 x 4, ⚡ x 2 |
 | [Go-ho Choi](../../persons/go_ho_choi/minx.md) | <40 | 53.33 | 1:06.45 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 

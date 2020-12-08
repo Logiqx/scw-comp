@@ -15,9 +15,9 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | [2020-11-10](../../results/2020-11-10/minx.md) | 40+ | 1:32.06 | 🏆 x 7 | 🥇 x 7, 🥈 x 3 | 💥 x 3, 🔥 x 4, ⚡ x 3 | [Desktop](https://www.facebook.com/events/355672432175632/permalink/360672271675648) / [Mobile](https://m.facebook.com/events/355672432175632?view=permalink&id=360672271675648) |
-| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | [2020-09-22](../../results/2020-09-22/minx.md) | 40+ | 1:38.89 | 🏆 x 5 | 🥇 x 5, 🥈 x 6, 🥉 x 1 | 💥 x 2, 🔥 x 2, ⚡ x 1 | [Desktop](https://www.facebook.com/events/349197636276246/permalink/350482712814405) / [Mobile](https://m.facebook.com/events/349197636276246?view=permalink&id=350482712814405) |
-| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | [2020-06-02](../../results/2020-06-02/minx.md) | 40+ | 1:39.69 | 🏆 x 13 | 🥇 x 14, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 5 | [Desktop](https://www.facebook.com/events/3373950429496747/permalink/3374121619479628) / [Mobile](https://m.facebook.com/events/3373950429496747?view=permalink&id=3374121619479628) |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | [2020-11-10](../../results/2020-11-10/minx.md) | 40+ | 1:32.06 | 🏆 x 7 | 🥇 x 7, 🥈 x 4 | 💥 x 3, 🔥 x 4, ⚡ x 3 | [Desktop](https://www.facebook.com/events/355672432175632/permalink/360672271675648) / [Mobile](https://m.facebook.com/events/355672432175632?view=permalink&id=360672271675648) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | [2020-12-01](../../results/2020-12-01/minx.md) | 40+ | 1:37.12 | 🏆 x 6 | 🥇 x 6, 🥈 x 6, 🥉 x 1 | 💥 x 2, 🔥 x 3, ⚡ x 1 | [Desktop](https://www.facebook.com/events/456949201957439/permalink/461347924850900) / [Mobile](https://m.facebook.com/events/456949201957439?view=permalink&id=461347924850900) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | [2020-06-02](../../results/2020-06-02/minx.md) | 40+ | 1:39.69 | 🏆 x 13 | 🥇 x 14, 🥈 x 1, 🥉 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 5 | [Desktop](https://www.facebook.com/events/3373950429496747/permalink/3374121619479628) / [Mobile](https://m.facebook.com/events/3373950429496747?view=permalink&id=3374121619479628) |
 | 4 | [Chris Wright](../../persons/chris_wright/minx.md) | [2020-09-08](../../results/2020-09-08/minx.md) | 50+ | 2:17.73 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/christopher.wright.94617999/videos/10157638865557874) / [Mobile](https://m.facebook.com/christopher.wright.94617999/videos/10157638865557874) |
 | 5 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | [2020-07-21](../../results/2020-07-21/minx.md) | 40+ | 2:38.71 |  | 🥈 x 8 | 🔥 x 5, ⚡ x 4 | [Desktop](https://www.facebook.com/events/1842039515939197/permalink/1847689885374160) / [Mobile](https://m.facebook.com/events/1842039515939197?view=permalink&id=1847689885374160) |
 
@@ -26,7 +26,7 @@
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Go-ho Choi](../../persons/go_ho_choi/minx.md) | [2020-07-14](../../results/2020-07-14/minx.md) | <40 | 1:06.45 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1157754364595802/permalink/1158593647845207) / [Mobile](https://m.facebook.com/events/1157754364595802?view=permalink&id=1158593647845207) |
-| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | [2020-11-03](../../results/2020-11-03/minx.md) | <40 | 1:40.47 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 2 | [Desktop](https://www.facebook.com/events/1239637256416110/permalink/1246181089095060) / [Mobile](https://m.facebook.com/events/1239637256416110?view=permalink&id=1246181089095060) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | [2020-12-01](../../results/2020-12-01/minx.md) | <40 | 1:40.06 | 🏆 x 1 |  | 🔥 x 4, ⚡ x 2 | [Desktop](https://www.facebook.com/events/456949201957439/permalink/461063471546012) / [Mobile](https://m.facebook.com/events/456949201957439?view=permalink&id=461063471546012) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -4,6 +4,14 @@
 ### Megaminx Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-12-01](../../results/2020-12-01/minx.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | 40+ | 1:32.03 | 1:37.12 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/456949201957439/permalink/461347924850900) / [Mobile](https://m.facebook.com/events/456949201957439?view=permalink&id=461347924850900) |
+| 2 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | 1:34.58 | 1:41.12 | 🥈 | [Desktop](https://www.facebook.com/events/456949201957439/permalink/461685664817126) / [Mobile](https://m.facebook.com/events/456949201957439?view=permalink&id=461685664817126) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:33.96 | 1:45.77 | 🥉 | [Desktop](https://www.facebook.com/events/456949201957439/permalink/461368938182132) / [Mobile](https://m.facebook.com/events/456949201957439?view=permalink&id=461368938182132) |
+
 #### [2020-11-24](../../results/2020-11-24/minx.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
