@@ -17,10 +17,10 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | 4.39 | 5.17 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
-| [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | 3.55 | 7.65 |  | 🥈 x 1, 🥉 x 7 | 💥 x 3, 🔥 x 3, ⚡ x 6 |
+| [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | 3.55 | 7.65 |  | 🥈 x 1, 🥉 x 8 | 💥 x 3, 🔥 x 3, ⚡ x 6 |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [John Neo Stanley](../../persons/john_neo_stanley/222.md) | 50+ | 9.18 | 11.36 |  |  | 🔥 x 3, ⚡ x 3 |
-| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 3.89 | 7.57 |  | 🥈 x 1, 🥉 x 8 | 💥 x 1, 🔥 x 4, ⚡ x 6 |
+| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 3.89 | 7.57 |  | 🥈 x 2, 🥉 x 8 | 💥 x 1, 🔥 x 4, ⚡ x 6 |
 | [Markus Niederöst](../../persons/markus_niederost/222.md) | 50+ | 7.80 | 9.63 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/222.md) | 50+ | 6.82 | 9.38 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/222.md) | 50+ | 6.53 | 10.79 |  |  | 🔥 x 2, ⚡ x 2 |
@@ -35,9 +35,9 @@
 | [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | 3.29 | 5.29 |  | 🥇 x 2, 🥈 x 5, 🥉 x 4 | 🔥 x 4, ⚡ x 3 |
 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | 4.39 | 5.17 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
-| [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | 3.55 | 7.65 |  | 🥈 x 1, 🥉 x 7 | 💥 x 3, 🔥 x 3, ⚡ x 6 |
+| [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | 3.55 | 7.65 |  | 🥈 x 1, 🥉 x 8 | 💥 x 3, 🔥 x 3, ⚡ x 6 |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/222.md) | 40+ | 3.80 | 5.82 |  | 🥈 x 9, 🥉 x 4 | 🔥 x 4, ⚡ x 3 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/222.md) | 40+ | 3.80 | 5.82 | 🏆 x 1 | 🥇 x 1, 🥈 x 9, 🥉 x 4 | 🔥 x 4, ⚡ x 3 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/222.md) | 40+ | 5.86 | 12.64 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/222.md) | 40+ | 4.57 | 5.86 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jae Park](../../persons/jae_park/222.md) | 40+ | 12.95 | 19.45 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -47,7 +47,7 @@
 | [Jo Cocco](../../persons/jo_cocco/222.md) | 40+ | 10.83 | 14.12 |  |  | 🔥 x 2, ⚡ x 2 |
 | [John Neo Stanley](../../persons/john_neo_stanley/222.md) | 50+ | 9.18 | 11.36 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | 2.33 | 3.89 | 🏆 x 12 | 🥇 x 12, 🥈 x 1 | 💥 x 5, 🔥 x 5, ⚡ x 3 |
-| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 3.89 | 7.57 |  | 🥈 x 1, 🥉 x 8 | 💥 x 1, 🔥 x 4, ⚡ x 6 |
+| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 3.89 | 7.57 |  | 🥈 x 2, 🥉 x 8 | 💥 x 1, 🔥 x 4, ⚡ x 6 |
 | [Marcel Balzer](../../persons/marcel_balzer/222.md) | 40+ | 4.55 | 9.02 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Markus Niederöst](../../persons/markus_niederost/222.md) | 50+ | 7.80 | 9.63 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Michael George](../../persons/michael_george/222.md) | 40+ | 3.20 | 4.40 | 🏆 x 19 | 🥇 x 23 | 💥 x 5, 🔥 x 3, ⚡ x 4 |

@@ -4,6 +4,12 @@
 ### 4x4x4 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-12-08](../../results/2020-12-08/444bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) | 40+ | 9:43.01 | DNF | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/672444916797296/permalink/675837576458030) / [Mobile](https://m.facebook.com/events/672444916797296?view=permalink&id=675837576458030) |
+
 #### [2020-12-01](../../results/2020-12-01/444bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

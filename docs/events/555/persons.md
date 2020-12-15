@@ -33,8 +33,8 @@
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | 2:19.29 | 2:39.63 |  | 🥇 x 1, 🥈 x 2, 🥉 x 9 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | 1:25.53 | 1:33.11 | 🏆 x 13 | 🥇 x 13 | 💥 x 5, 🔥 x 5, ⚡ x 3 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | 1:42.67 | 1:57.43 | 🏆 x 1 | 🥇 x 6, 🥈 x 14, 🥉 x 4 | 🔥 x 6, ⚡ x 4 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | 1:25.53 | 1:29.94 | 🏆 x 14 | 🥇 x 14 | 💥 x 6, 🔥 x 6, ⚡ x 3 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | 1:42.67 | 1:57.43 | 🏆 x 1 | 🥇 x 6, 🥈 x 15, 🥉 x 4 | 🔥 x 6, ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/555.md) | 40+ | 2:37.21 | 2:48.50 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/555.md) | 40+ | 4:56.47 | 5:55.66 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 4 |
 | [Jason Green](../../persons/jason_green/555.md) | 40+ | 2:31.09 | 2:50.91 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
@@ -45,7 +45,7 @@
 | [Michael George](../../persons/michael_george/555.md) | 40+ | 1:43.65 | 2:00.85 | 🏆 x 1 | 🥇 x 2, 🥈 x 4, 🥉 x 9 | 🔥 x 5, ⚡ x 5 |
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | 5:50.00 | DNF |  |  | ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/555.md) | 40+ | 2:17.13 | 2:27.99 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | 2:37.65 | 2:49.14 |  | 🥈 x 3, 🥉 x 5 | 🔥 x 9, ⚡ x 10 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | 2:28.75 | 2:49.14 |  | 🥈 x 3, 🥉 x 6 | 🔥 x 9, ⚡ x 11 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/555.md) | 40+ | 2:36.25 | 2:52.60 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40

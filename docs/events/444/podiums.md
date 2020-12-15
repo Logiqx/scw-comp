@@ -4,6 +4,14 @@
 ### 4x4x4 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-12-08](../../results/2020-12-08/444.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | 49.39 | 57.87 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/209111367450307/permalink/213367780357999) / [Mobile](https://m.facebook.com/events/209111367450307?view=permalink&id=213367780357999) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | 58.80 | 1:10.45 | 🥈 | [Desktop](https://www.facebook.com/events/209111367450307/permalink/211773300517447) / [Mobile](https://m.facebook.com/events/209111367450307?view=permalink&id=211773300517447) |
+| 3 | [Daniel Smith](../../persons/daniel_smith/444.md) | 50+ | 1:14.62 | 1:22.58 | 🥉 | [Desktop](https://www.facebook.com/events/209111367450307/permalink/213390027022441) / [Mobile](https://m.facebook.com/events/209111367450307?view=permalink&id=213390027022441) |
+
 #### [2020-12-01](../../results/2020-12-01/444.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

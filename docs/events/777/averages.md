@@ -15,11 +15,11 @@
 
 | # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | [2020-10-27](../../results/2020-10-27/777.md) | 40+ | 4:11.37 | 🏆 x 13 | 🥇 x 13 | 💥 x 6, 🔥 x 3, ⚡ x 5 | [Desktop](https://www.facebook.com/events/1621959871298390/permalink/1626210474206663) / [Mobile](https://m.facebook.com/events/1621959871298390?view=permalink&id=1626210474206663) |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | [2020-10-27](../../results/2020-10-27/777.md) | 40+ | 4:11.37 | 🏆 x 14 | 🥇 x 14 | 💥 x 6, 🔥 x 3, ⚡ x 5 | [Desktop](https://www.facebook.com/events/1621959871298390/permalink/1626210474206663) / [Mobile](https://m.facebook.com/events/1621959871298390?view=permalink&id=1626210474206663) |
 | 2 | [Chris Wright](../../persons/chris_wright/777.md) | [2020-09-15](../../results/2020-09-15/777.md) | 50+ | 5:05.66 |  | 🥈 x 2 | 💥 x 2, 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/christopher.wright.94617999/videos/10157654181102874) / [Mobile](https://m.facebook.com/christopher.wright.94617999/videos/10157654181102874) |
 | 3 | [Konsta Jukka](../../persons/konsta_jukka/777.md) | [2020-10-20](../../results/2020-10-20/777.md) | 40+ | 5:09.11 |  | 🥈 x 6, 🥉 x 1 | 🔥 x 4, ⚡ x 4 | [Desktop](https://www.facebook.com/events/758279974902955/permalink/762043601193259) / [Mobile](https://m.facebook.com/events/758279974902955?view=permalink&id=762043601193259) |
 | 4 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | [2020-05-05](../../results/2020-05-05/777.md) | 40+ | 5:24.33 | 🏆 x 12 | 🥇 x 12, 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/557526585195168/permalink/558592678421892) / [Mobile](https://m.facebook.com/events/557526585195168?view=permalink&id=558592678421892) |
-| 5 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | [2020-07-21](../../results/2020-07-21/777.md) | 40+ | 5:37.68 | 🏆 x 5 | 🥇 x 5, 🥈 x 14 | 🔥 x 3, ⚡ x 4 | [Desktop](https://www.facebook.com/events/3081159145282455/permalink/3082216445176725) / [Mobile](https://m.facebook.com/events/3081159145282455?view=permalink&id=3082216445176725) |
+| 5 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | [2020-07-21](../../results/2020-07-21/777.md) | 40+ | 5:37.68 | 🏆 x 5 | 🥇 x 5, 🥈 x 15 | 🔥 x 3, ⚡ x 5 | [Desktop](https://www.facebook.com/events/3081159145282455/permalink/3082216445176725) / [Mobile](https://m.facebook.com/events/3081159145282455?view=permalink&id=3082216445176725) |
 
 #### Under 40
 

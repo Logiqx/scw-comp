@@ -4,6 +4,14 @@
 ### 2x2x2 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-12-08](../../results/2020-12-08/222.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/222.md) | 40+ | 5.43 | 6.47 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1026387727837469/permalink/1030555887420653) / [Mobile](https://m.facebook.com/events/1026387727837469?view=permalink&id=1030555887420653) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 6.48 | 7.92 | 🥈 | [Desktop](https://www.facebook.com/events/1026387727837469/permalink/1029805687495673) / [Mobile](https://m.facebook.com/events/1026387727837469?view=permalink&id=1029805687495673) |
+| 3 | [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | 9.68 | 10.25 | 🥉 | [Desktop](https://www.facebook.com/events/1026387727837469/permalink/1030581224084786) / [Mobile](https://m.facebook.com/events/1026387727837469?view=permalink&id=1030581224084786) |
+
 #### [2020-12-01](../../results/2020-12-01/222.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
