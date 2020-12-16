@@ -9,6 +9,7 @@
 | # | Name | Age | Single | Average | Awards | Video |
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) | 40+ | 9:43.01 | DNF | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/672444916797296/permalink/675837576458030) / [Mobile](https://m.facebook.com/events/672444916797296?view=permalink&id=675837576458030) |
+| 2 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | 12:35.15 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/672444916797296/permalink/672985756743212) / [Mobile](https://m.facebook.com/events/672444916797296?view=permalink&id=672985756743212) |
 
 #### [2020-12-01](../../results/2020-12-01/444bf.md)
 

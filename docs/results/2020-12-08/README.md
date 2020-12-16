@@ -115,7 +115,7 @@
 
 <span style="white-space: nowrap;">🏆 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) 9:43.01</span>
 
-<span style="white-space: nowrap;">🥇 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) 9:43.01</span>
+<span style="white-space: nowrap;">🥇 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) 9:43.01</span>, <span style="white-space: nowrap;">🥈 [Peter Andersson](../../persons/peter_andersson/444bf.md) 12:35.15</span>
 
 ⚡ x 1 = <span style="white-space: nowrap;">[Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) 9:43.01</span>
 
