@@ -4,6 +4,14 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-12-15](../../results/2020-12-15/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | 23 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/422286948911898/permalink/422897708850822) / [Mobile](https://m.facebook.com/events/422286948911898?view=permalink&id=422897708850822) |
+| 2 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 37 | 🥈 | [Desktop](https://www.facebook.com/events/422286948911898/permalink/423319898808603) / [Mobile](https://m.facebook.com/events/422286948911898?view=permalink&id=423319898808603) |
+| 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | 54 | 🥉 | [Desktop](https://www.facebook.com/events/422286948911898/permalink/422812688859324) / [Mobile](https://m.facebook.com/events/422286948911898?view=permalink&id=422812688859324) |
+
 #### [2020-12-08](../../results/2020-12-08/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |

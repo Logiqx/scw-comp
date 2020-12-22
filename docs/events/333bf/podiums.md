@@ -4,6 +4,14 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-12-15](../../results/2020-12-15/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | 1:02.26 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/732335260998911/permalink/734667097432394) / [Mobile](https://m.facebook.com/events/732335260998911?view=permalink&id=734667097432394) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | 1:36.28 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/732335260998911/permalink/733751307523973) / [Mobile](https://m.facebook.com/events/732335260998911?view=permalink&id=733751307523973) |
+| 3 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | 2:42.22 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/732335260998911/permalink/735808980651539) / [Mobile](https://m.facebook.com/events/732335260998911?view=permalink&id=735808980651539) |
+
 #### [2020-12-08](../../results/2020-12-08/333bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

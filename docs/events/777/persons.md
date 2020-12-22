@@ -26,8 +26,8 @@
 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | 40+ | 4:58.23 | 5:24.33 | 🏆 x 12 | 🥇 x 12, 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/777.md) | 50+ | 4:55.42 | 5:05.66 |  | 🥈 x 2 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | 15:59.23 | DNF |  | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | 3:58.92 | 4:11.37 | 🏆 x 14 | 🥇 x 14 | 💥 x 6, 🔥 x 3, ⚡ x 5 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 5:11.94 | 5:37.68 | 🏆 x 5 | 🥇 x 5, 🥈 x 15 | 🔥 x 3, ⚡ x 5 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | 3:58.92 | 4:11.37 | 🏆 x 15 | 🥇 x 15 | 💥 x 6, 🔥 x 3, ⚡ x 5 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 5:11.94 | 5:37.68 | 🏆 x 5 | 🥇 x 5, 🥈 x 16 | 🔥 x 3, ⚡ x 5 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/777.md) | 40+ | 8:08.23 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 | [Konsta Jukka](../../persons/konsta_jukka/777.md) | 40+ | 4:52.98 | 5:09.11 |  | 🥈 x 6, 🥉 x 1 | 🔥 x 4, ⚡ x 4 |
 

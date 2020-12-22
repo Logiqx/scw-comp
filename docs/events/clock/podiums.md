@@ -4,6 +4,12 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-12-15](../../results/2020-12-15/clock.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | 10.93 | 13.34 | 🥇 | [Desktop](https://www.facebook.com/events/440319056977468/permalink/444038896605484) / [Mobile](https://m.facebook.com/events/440319056977468?view=permalink&id=444038896605484) |
+
 #### [2020-12-08](../../results/2020-12-08/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
