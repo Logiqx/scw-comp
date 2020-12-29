@@ -16,7 +16,7 @@
 | [Clock](clock.md) | 26.90 | 43.62 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [3x3x3 BLD](333bf.md) | 57.12 | 1:12.80 | 🏆 x 2 | 🥇 x 2, 🥈 x 7, 🥉 x 1 | 🔥 x 1, ⚡ x 4 |
 | [4x4x4 BLD](444bf.md) | 9:43.01 | - | 🏆 x 1 | 🥇 x 1 | ⚡ x 1 |
-| [3x3x3 FMC](333fm.md) | 25 | - | 🏆 x 12 | 🥇 x 17, 🥈 x 7, 🥉 x 1 | 💥 x 1, ⚡ x 6 |
+| [3x3x3 FMC](333fm.md) | 25 | - | 🏆 x 12 | 🥇 x 17, 🥈 x 7, 🥉 x 2 | 💥 x 1, ⚡ x 6 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

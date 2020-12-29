@@ -4,6 +4,12 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-12-22](../../results/2020-12-22/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | 1:49.92 | 2:20.28 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/202291541546544/permalink/207036257738739) / [Mobile](https://m.facebook.com/events/202291541546544?view=permalink&id=207036257738739) |
+
 #### [2020-12-15](../../results/2020-12-15/333bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

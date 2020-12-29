@@ -34,8 +34,8 @@
 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | 50+ | 56.70 | 1:03.64 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 |
 | [Daniel Smith](../../persons/daniel_smith/444.md) | 50+ | 1:05.61 | 1:21.51 |  | 🥈 x 1, 🥉 x 4 | 💥 x 1, 🔥 x 6, ⚡ x 6 |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | 4:08.00 | DNF |  |  | 💥 x 3, ⚡ x 3 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | 45.74 | 52.99 | 🏆 x 3 | 🥇 x 8, 🥈 x 7 | 🔥 x 3, ⚡ x 3 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | 53.89 | 1:04.44 | 🏆 x 1 | 🥇 x 2, 🥈 x 4, 🥉 x 13 | 🔥 x 4, ⚡ x 7 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | 45.74 | 52.99 | 🏆 x 3 | 🥇 x 8, 🥈 x 8 | 🔥 x 3, ⚡ x 3 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | 53.89 | 1:04.44 | 🏆 x 1 | 🥇 x 2, 🥈 x 4, 🥉 x 14 | 🔥 x 4, ⚡ x 7 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444.md) | 40+ | 56.11 | 1:11.39 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/444.md) | 40+ | 2:03.34 | 2:30.77 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/444.md) | 40+ | 1:32.33 | 1:41.26 |  |  | 🔥 x 6, ⚡ x 4 |
@@ -45,7 +45,7 @@
 | [Jo Cocco](../../persons/jo_cocco/444.md) | 40+ | 2:55.79 | 3:24.75 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/444.md) | 40+ | 3:13.21 | 3:38.78 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Kerry Go](../../persons/kerry_go/444.md) | 50+ | 1:47.83 | 2:08.30 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | 46.84 | 52.91 | 🏆 x 7 | 🥇 x 7, 🥈 x 4, 🥉 x 2 | 🔥 x 5, ⚡ x 5 |
+| [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | 46.25 | 52.91 | 🏆 x 8 | 🥇 x 8, 🥈 x 4, 🥉 x 2 | 🔥 x 5, ⚡ x 6 |
 | [Michael George](../../persons/michael_george/444.md) | 40+ | 45.67 | 53.30 | 🏆 x 8 | 🥇 x 18, 🥈 x 3 | 💥 x 3, 🔥 x 2, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/444.md) | 50+ | 2:20.53 | 2:42.21 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Rob Peters](../../persons/rob_peters/444.md) | 40+ | 53.64 | 1:01.01 |  | 🥈 x 4, 🥉 x 1 | 🔥 x 3, ⚡ x 2 |

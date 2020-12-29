@@ -4,6 +4,14 @@
 ### 4x4x4 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-12-22](../../results/2020-12-22/444.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | 46.25 | 53.43 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/202563571576862/permalink/207720074394545) / [Mobile](https://m.facebook.com/events/202563571576862?view=permalink&id=207720074394545) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | 45.95 | 53.71 | 🥈 | [Desktop](https://www.facebook.com/events/202563571576862/permalink/207371254429427) / [Mobile](https://m.facebook.com/events/202563571576862?view=permalink&id=207371254429427) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | 1:00.71 | 1:09.48 | 🥉 | [Desktop](https://www.facebook.com/events/202563571576862/permalink/204724231360796) / [Mobile](https://m.facebook.com/events/202563571576862?view=permalink&id=204724231360796) |
+
 #### [2020-12-15](../../results/2020-12-15/444.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

@@ -4,6 +4,14 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-12-22](../../results/2020-12-22/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | 26 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/406621274108354/permalink/407724827331332) / [Mobile](https://m.facebook.com/events/406621274108354?view=permalink&id=407724827331332) |
+| 2 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 29 | 🥈 | [Desktop](https://www.facebook.com/events/406621274108354/permalink/407725843997897) / [Mobile](https://m.facebook.com/events/406621274108354?view=permalink&id=407725843997897) |
+| 3 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) | 40+ | 31 | 🥉 | [Desktop](https://www.facebook.com/events/406621274108354/permalink/410709250366223) / [Mobile](https://m.facebook.com/events/406621274108354?view=permalink&id=410709250366223) |
+
 #### [2020-12-15](../../results/2020-12-15/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |
