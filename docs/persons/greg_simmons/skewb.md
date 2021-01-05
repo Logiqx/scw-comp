@@ -8,6 +8,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2020-12-29](../../results/2020-12-29/skewb.md) | <40 | 9.44 | 15.26 |  | 16.70 | 16.99 | 18.34 | 12.08 | 9.44 | [Desktop](https://www.facebook.com/61305327/videos/10102431113661144) / [Mobile](https://m.facebook.com/61305327/videos/10102431113661144) |
 | [2020-12-22](../../results/2020-12-22/skewb.md) | <40 | 13.58 | 16.77 |  | 17.45 | 15.20 | 20.10 | 13.58 | 17.66 | [Desktop](https://www.facebook.com/events/415132489930417/permalink/419964256113907) / [Mobile](https://m.facebook.com/events/415132489930417?view=permalink&id=419964256113907) |
 | [2020-12-15](../../results/2020-12-15/skewb.md) | <40 | 12.56 | 14.30 |  | 15.39 | 13.44 | 18.86 | 14.06 | 12.56 | [Desktop](https://www.facebook.com/61305327/videos/10102424985057914) / [Mobile](https://m.facebook.com/61305327/videos/10102424985057914) |
 | [2020-12-08](../../results/2020-12-08/skewb.md) | <40 | 13.79 | 15.14 |  | 16.16 | 13.89 | 13.79 | 17.94 | 15.38 | [Desktop](https://www.facebook.com/61305327/videos/10102421068072584) / [Mobile](https://m.facebook.com/61305327/videos/10102421068072584) |

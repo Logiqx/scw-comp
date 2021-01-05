@@ -4,6 +4,13 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2020-12-29](../../results/2020-12-29/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | 1:00.79 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/208055800692336/permalink/210290230468893) / [Mobile](https://m.facebook.com/events/208055800692336?view=permalink&id=210290230468893) |
+| 2 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | 1:52.85 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/208055800692336/permalink/211155570382359) / [Mobile](https://m.facebook.com/events/208055800692336?view=permalink&id=211155570382359) |
+
 #### [2020-12-22](../../results/2020-12-22/333bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
