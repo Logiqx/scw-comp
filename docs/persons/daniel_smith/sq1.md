@@ -8,6 +8,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2021-01-05](../../results/2021-01-05/sq1.md) | 50+ | 20.61 | 30.29 | 🥈 | 32.11 | 31.72 | 32.59 | 20.61 | 27.04 | [Desktop](https://www.facebook.com/events/430051568136756/permalink/434390421036204) / [Mobile](https://m.facebook.com/events/430051568136756?view=permalink&id=434390421036204) |
 | [2020-12-29](../../results/2020-12-29/sq1.md) | 50+ | **17.23** | 31.98 | 🥈 💥 ⚡ | **17.23** | 35.09 | 28.55 | 33.67 | 33.73 | [Desktop](https://www.facebook.com/events/386974942389757/permalink/389954205425164) / [Mobile](https://m.facebook.com/events/386974942389757?view=permalink&id=389954205425164) |
 | [2020-12-22](../../results/2020-12-22/sq1.md) | 50+ | 22.68 | 29.51 | 🥈 | 25.23 | 22.68 | 35.03 | 36.67 | 28.28 | [Desktop](https://www.facebook.com/events/758481858355136/permalink/762665831270072) / [Mobile](https://m.facebook.com/events/758481858355136?view=permalink&id=762665831270072) |
 | [2020-12-15](../../results/2020-12-15/sq1.md) | 50+ | 24.47 | 30.30 | 🏆 🥇 | 29.62 | 1:04.41 | 33.69 | 24.47 | 27.58 | [Desktop](https://www.facebook.com/events/440319056977468/permalink/444136416595732) / [Mobile](https://m.facebook.com/events/440319056977468?view=permalink&id=444136416595732) |

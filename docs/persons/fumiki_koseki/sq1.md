@@ -4,10 +4,11 @@
 ### [Fumiki Koseki](README.md) - [2005KOSE01](https://www.worldcubeassociation.org/persons/2005KOSE01?event=sq1)
 #### Square-1 Results
 
-<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2021-01-05](../../results/2021-01-05/sq1.md) | 40+ | **18.69** | **24.60** | 🏆 🥇 💥 🔥 ⚡ | 37.86 | 23.10 | 29.03 | **18.69** | 21.68 | [Desktop](https://www.facebook.com/events/430051568136756/permalink/434358744372705) / [Mobile](https://m.facebook.com/events/430051568136756?view=permalink&id=434358744372705) |
 | [2020-12-29](../../results/2020-12-29/sq1.md) | 40+ | 24.40 | 27.77 | 🏆 🥇 | 24.40 | 29.54 | 31.28 | 26.82 | 26.95 | [Desktop](https://www.facebook.com/events/386974942389757/permalink/390353418718576) / [Mobile](https://m.facebook.com/events/386974942389757?view=permalink&id=390353418718576) |
 | [2020-12-22](../../results/2020-12-22/sq1.md) | 40+ | 24.63 | **27.32** | 🏆 🥇 🔥 | 24.63 | 26.09 | 48.13 | 27.60 | 28.27 | [Desktop](https://www.facebook.com/events/415132489930417/permalink/419470772829922) / [Mobile](https://m.facebook.com/events/415132489930417?view=permalink&id=419470772829922) |
 | [2020-12-15](../../results/2020-12-15/sq1.md) | 40+ | 22.45 | 31.54 | 🥈 | 27.62 | 40.36 | 26.63 | 47.99 | 22.45 | [Desktop](https://www.facebook.com/events/440319056977468/permalink/444038246605549) / [Mobile](https://m.facebook.com/events/440319056977468?view=permalink&id=444038246605549) |
