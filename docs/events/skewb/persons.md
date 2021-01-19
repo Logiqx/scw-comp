@@ -11,7 +11,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | 40+ | 14.77 | 18.74 |  | 🥈 x 4 | 🔥 x 4, ⚡ x 2 |
 | [Anthony Rochester](../../persons/anthony_rochester/skewb.md) | 40+ | 24.04 | 41.18 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | 3.23 | 6.73 | 🏆 x 18 | 🥇 x 18 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | 3.23 | 6.73 | 🏆 x 19 | 🥇 x 19 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/skewb.md) | 40+ | 7.88 | 12.16 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/skewb.md) | 40+ | 17.82 | 26.94 |  | 🥈 x 4 | 🔥 x 3, ⚡ x 3 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | 40+ | 4.15 | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
@@ -28,6 +28,7 @@
 | [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | 4.85 | 11.31 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 3 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | <40 | 6.52 | 9.23 |  |  | 🔥 x 2, ⚡ x 4 |
 | [Greg Simmons](../../persons/greg_simmons/skewb.md) | <40 | 7.57 | 12.32 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Nick Agatyn](../../persons/nick_agatyn/skewb.md) | <40 | 9.71 | 11.79 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/skewb.md) | <40 | 6.84 | 13.62 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Peter Osudar](../../persons/peter_osudar/skewb.md) | <40 | 3.87 | 9.52 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 

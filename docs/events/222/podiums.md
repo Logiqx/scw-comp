@@ -4,6 +4,14 @@
 ### 2x2x2 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-01-12](../../results/2021-01-12/222.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | 2.67 | 5.25 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/154842819532367/permalink/157785015904814) / [Mobile](https://m.facebook.com/events/154842819532367?view=permalink&id=157785015904814) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/222.md) | 40+ | 4.36 | 6.78 | 🥈 | [Desktop](https://www.facebook.com/events/154842819532367/permalink/157684892581493) / [Mobile](https://m.facebook.com/events/154842819532367?view=permalink&id=157684892581493) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | 6.14 | 7.34 | 🥉 | [Desktop](https://www.facebook.com/events/154842819532367/permalink/155950982754884) / [Mobile](https://m.facebook.com/events/154842819532367?view=permalink&id=155950982754884) |
+
 #### [2021-01-05](../../results/2021-01-05/222.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

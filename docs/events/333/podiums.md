@@ -4,6 +4,14 @@
 ### 3x3x3 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-01-12](../../results/2021-01-12/333.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | 11.36 | 12.35 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/154842819532367/permalink/157785015904814) / [Mobile](https://m.facebook.com/events/154842819532367?view=permalink&id=157785015904814) |
+| 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | 13.73 | 15.09 | 🥈 | [Desktop](https://www.facebook.com/100001091500137/videos/3790013387711674) / [Mobile](https://m.facebook.com/100001091500137/videos/3790013387711674) |
+| 3 | [Fumiki Koseki](../../persons/fumiki_koseki/333.md) | 40+ | 15.99 | 16.25 | 🥉 | [Desktop](https://www.facebook.com/events/154842819532367/permalink/157684892581493) / [Mobile](https://m.facebook.com/events/154842819532367?view=permalink&id=157684892581493) |
+
 #### [2021-01-05](../../results/2021-01-05/333.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

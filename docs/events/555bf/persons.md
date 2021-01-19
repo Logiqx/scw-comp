@@ -5,12 +5,18 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### Over 50
+
+| Name | Age | Single | Average | Cups | Medals | Achievements |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
+| [Jae Park](../../persons/jae_park/555bf.md) | 50+ | 13:25.00 | DNF | 🏆 x 12 | 🥇 x 20 | 💥 x 5, ⚡ x 5 |
+
 #### Over 40
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/555bf.md) | 40+ | 23:35.85 | DNF |  | 🥇 x 1, 🥈 x 2 | ⚡ x 2 |
-| [Jae Park](../../persons/jae_park/555bf.md) | 40+ | 12:10.99 | DNF | 🏆 x 11 | 🥇 x 19 | 💥 x 4, ⚡ x 4 |
+| [Jae Park](../../persons/jae_park/555bf.md) | 50+ | 12:10.99 | DNF | 🏆 x 12 | 🥇 x 20 | 💥 x 5, ⚡ x 5 |
 
 #### Under 40
 
