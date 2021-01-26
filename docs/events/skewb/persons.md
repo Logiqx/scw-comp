@@ -5,15 +5,21 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### Over 50
+
+| Name | Age | Single | Average | Cups | Medals | Achievements |
+| :-- | :--: | --: | --: | :--: | :-- | :-- |
+| [Jae Park](../../persons/jae_park/skewb.md) | 50+ | 31.27 | 44.02 |  | 🥈 x 5 | 💥 x 1, 🔥 x 4, ⚡ x 4 |
+
 #### Over 40
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | 40+ | 14.77 | 18.74 |  | 🥈 x 4 | 🔥 x 4, ⚡ x 2 |
 | [Anthony Rochester](../../persons/anthony_rochester/skewb.md) | 40+ | 24.04 | 41.18 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | 3.23 | 6.73 | 🏆 x 19 | 🥇 x 19 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | 3.23 | 6.73 | 🏆 x 20 | 🥇 x 20 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/skewb.md) | 40+ | 7.88 | 12.16 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Jae Park](../../persons/jae_park/skewb.md) | 40+ | 17.82 | 26.94 |  | 🥈 x 4 | 🔥 x 3, ⚡ x 3 |
+| [Jae Park](../../persons/jae_park/skewb.md) | 50+ | 17.82 | 26.94 |  | 🥈 x 5 | 💥 x 1, 🔥 x 4, ⚡ x 4 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | 40+ | 4.15 | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Marcel Balzer](../../persons/marcel_balzer/skewb.md) | 40+ | 27.44 | 47.53 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 1 |
 | [Michael George](../../persons/michael_george/skewb.md) | 40+ | 2.78 | 7.91 | 🏆 x 8 | 🥇 x 10 | 💥 x 4, 🔥 x 3, ⚡ x 2 |

@@ -4,6 +4,13 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-01-19](../../results/2021-01-19/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | 21 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/208650107637875/permalink/209239197578966) / [Mobile](https://m.facebook.com/events/208650107637875?view=permalink&id=209239197578966) |
+| 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) | 40+ | 30 | 🥈 | [Desktop](https://www.facebook.com/events/208650107637875/permalink/212360843933468) / [Mobile](https://m.facebook.com/events/208650107637875?view=permalink&id=212360843933468) |
+
 #### [2021-01-12](../../results/2021-01-12/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |

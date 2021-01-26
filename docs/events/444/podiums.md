@@ -4,6 +4,14 @@
 ### 4x4x4 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-01-19](../../results/2021-01-19/444.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | 49.96 | 58.26 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/801984480354340/permalink/805199883366133) / [Mobile](https://m.facebook.com/events/801984480354340?view=permalink&id=805199883366133) |
+| 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444.md) | 40+ | 1:00.81 | 1:05.85 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/259430338941057/permalink/261711668712924) / [Mobile](https://m.facebook.com/events/259430338941057?view=permalink&id=261711668712924) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | 50.44 | 1:07.11 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/801984480354340/permalink/803551883530933) / [Mobile](https://m.facebook.com/events/801984480354340?view=permalink&id=803551883530933) |
+
 #### [2021-01-12](../../results/2021-01-12/444.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

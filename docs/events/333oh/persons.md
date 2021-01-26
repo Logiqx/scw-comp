@@ -20,10 +20,10 @@
 | [Aaron Cumes](../../persons/aaron_cumes/333oh.md) | 40+ | 1:01.02 | 1:17.51 |  |  | 🔥 x 7, ⚡ x 8 |
 | [Andy Nicholls](../../persons/andy_nicholls/333oh.md) | 40+ | 33.37 | 40.48 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 5 |
 | [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | 35.64 | 39.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | 20.41 | 26.24 |  | 🥈 x 17, 🥉 x 2 | 🔥 x 6, ⚡ x 5 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | 21.17 | 30.89 |  | 🥇 x 1, 🥈 x 13, 🥉 x 16 | 🔥 x 6, ⚡ x 6 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | 20.41 | 26.24 | 🏆 x 1 | 🥇 x 1, 🥈 x 17, 🥉 x 2 | 🔥 x 6, ⚡ x 5 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | 21.17 | 29.99 |  | 🥇 x 1, 🥈 x 14, 🥉 x 16 | 🔥 x 7, ⚡ x 6 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) | 40+ | 24.78 | 32.65 | 🏆 x 1 | 🥇 x 1, 🥈 x 2 | 🔥 x 3, ⚡ x 2 |
-| [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | 29.37 | 34.44 |  | 🥈 x 1, 🥉 x 10 | 🔥 x 8, ⚡ x 3 |
+| [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | 29.37 | 34.44 |  | 🥈 x 1, 🥉 x 11 | 🔥 x 8, ⚡ x 3 |
 | [Jang Junho (장준호)](../../persons/jang_junho/333oh.md) | 40+ | 59.25 | 1:06.79 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Jason Green](../../persons/jason_green/333oh.md) | 40+ | 30.77 | 36.01 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/333oh.md) | 40+ | 36.79 | 44.49 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |

@@ -4,6 +4,14 @@
 ### Megaminx Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-01-19](../../results/2021-01-19/minx.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | 1:30.79 | 1:38.27 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/259430338941057/permalink/262726048611486) / [Mobile](https://m.facebook.com/events/259430338941057?view=permalink&id=262726048611486) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | 40+ | 1:36.00 | 1:43.42 | 🥈 | [Desktop](https://www.facebook.com/events/259430338941057/permalink/262921921925232) / [Mobile](https://m.facebook.com/events/259430338941057?view=permalink&id=262921921925232) |
+| 3 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | 3:28.47 | 3:44.83 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/259430338941057/permalink/262510761966348) / [Mobile](https://m.facebook.com/events/259430338941057?view=permalink&id=262510761966348) |
+
 #### [2021-01-12](../../results/2021-01-12/minx.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

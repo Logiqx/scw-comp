@@ -7,7 +7,7 @@
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [3x3x3 FMC](333fm.md) | 21 | - | 🏆 x 11 | 🥇 x 11, 🥈 x 1 | 💥 x 2, ⚡ x 3 |
+| [3x3x3 FMC](333fm.md) | 21 | - | 🏆 x 12 | 🥇 x 12, 🥈 x 1 | 💥 x 3, ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

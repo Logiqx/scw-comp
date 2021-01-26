@@ -10,8 +10,8 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Daniel Smith](../../persons/daniel_smith/clock.md) | 50+ | 25.80 | 27.90 |  | 🥈 x 1, 🥉 x 3 | 🔥 x 2, ⚡ x 2 |
-| [Jae Park](../../persons/jae_park/clock.md) | 50+ | 32.53 | 38.82 |  | 🥈 x 1, 🥉 x 4 | 🔥 x 4, ⚡ x 4 |
-| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 15.48 | 17.90 |  | 🥇 x 2, 🥈 x 10, 🥉 x 2 | 💥 x 8, 🔥 x 6, ⚡ x 7 |
+| [Jae Park](../../persons/jae_park/clock.md) | 50+ | 31.20 | 38.29 |  | 🥈 x 1, 🥉 x 4 | 🔥 x 5, ⚡ x 5 |
+| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 15.14 | 16.04 |  | 🥇 x 2, 🥈 x 11, 🥉 x 2 | 💥 x 9, 🔥 x 7, ⚡ x 8 |
 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | 25.94 | 34.18 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Over 40
@@ -20,14 +20,14 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/clock.md) | 40+ | 26.22 | 32.71 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | 12.02 | 13.12 | 🏆 x 4 | 🥇 x 4, 🥈 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 2 |
-| [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | 15.36 | 16.18 |  | 🥇 x 1, 🥈 x 6, 🥉 x 1 | 🔥 x 5, ⚡ x 6 |
+| [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | 15.36 | 16.18 |  | 🥇 x 1, 🥈 x 6, 🥉 x 2 | 🔥 x 5, ⚡ x 6 |
 | [Daniel Smith](../../persons/daniel_smith/clock.md) | 50+ | 25.80 | 27.90 |  | 🥈 x 1, 🥉 x 3 | 🔥 x 2, ⚡ x 2 |
 | [Denis Reimer](../../persons/denis_reimer/clock.md) | 40+ | 17.23 | 21.16 | 🏆 x 1 | 🥇 x 2 | 🔥 x 2, ⚡ x 2 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | 9.45 | 12.06 | 🏆 x 6 | 🥇 x 19 | 💥 x 4, 🔥 x 5, ⚡ x 4 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | 9.45 | 12.06 | 🏆 x 7 | 🥇 x 20 | 💥 x 4, 🔥 x 5, ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/clock.md) | 40+ | 26.90 | 43.62 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Jae Park](../../persons/jae_park/clock.md) | 50+ | 28.82 | 32.79 |  | 🥈 x 1, 🥉 x 4 | 🔥 x 4, ⚡ x 4 |
+| [Jae Park](../../persons/jae_park/clock.md) | 50+ | 28.82 | 32.79 |  | 🥈 x 1, 🥉 x 4 | 🔥 x 5, ⚡ x 5 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/clock.md) | 40+ | 32.81 | 37.15 |  | 🥇 x 2, 🥈 x 1, 🥉 x 3 | 🔥 x 3, ⚡ x 3 |
-| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 15.48 | 17.90 |  | 🥇 x 2, 🥈 x 10, 🥉 x 2 | 💥 x 8, 🔥 x 6, ⚡ x 7 |
+| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 15.14 | 16.04 |  | 🥇 x 2, 🥈 x 11, 🥉 x 2 | 💥 x 9, 🔥 x 7, ⚡ x 8 |
 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | 25.94 | 34.18 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40

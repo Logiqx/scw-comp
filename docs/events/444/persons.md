@@ -19,8 +19,8 @@
 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | 50+ | 56.70 | 1:03.64 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 |
 | [Daniel Smith](../../persons/daniel_smith/444.md) | 50+ | 1:05.61 | 1:21.23 |  | 🥈 x 1, 🥉 x 4 | 💥 x 1, 🔥 x 7, ⚡ x 6 |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | 4:08.00 | DNF |  |  | 💥 x 3, ⚡ x 3 |
-| [Jae Park](../../persons/jae_park/444.md) | 50+ | 2:27.59 | 2:41.77 |  |  | 🔥 x 2, ⚡ x 3 |
-| [Kerry Go](../../persons/kerry_go/444.md) | 50+ | 1:47.83 | 2:08.30 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Jae Park](../../persons/jae_park/444.md) | 50+ | 2:15.67 | 2:28.36 |  |  | 🔥 x 3, ⚡ x 4 |
+| [Kerry Go](../../persons/kerry_go/444.md) | 50+ | 1:40.75 | 2:08.30 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/444.md) | 50+ | 2:20.53 | 2:42.21 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Ron van Bruchem](../../persons/ron_van_bruchem/444.md) | 50+ | 46.32 | 49.81 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
@@ -35,17 +35,17 @@
 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | 50+ | 56.70 | 1:03.64 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 |
 | [Daniel Smith](../../persons/daniel_smith/444.md) | 50+ | 1:05.61 | 1:21.23 |  | 🥈 x 1, 🥉 x 4 | 💥 x 1, 🔥 x 7, ⚡ x 6 |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | 4:08.00 | DNF |  |  | 💥 x 3, ⚡ x 3 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | 44.16 | 51.80 | 🏆 x 6 | 🥇 x 11, 🥈 x 8 | 💥 x 1, 🔥 x 4, ⚡ x 4 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | 53.89 | 1:04.44 | 🏆 x 1 | 🥇 x 2, 🥈 x 5, 🥉 x 16 | 🔥 x 4, ⚡ x 7 |
-| [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444.md) | 40+ | 56.11 | 1:11.39 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Jae Park](../../persons/jae_park/444.md) | 50+ | 2:03.34 | 2:30.77 |  |  | 🔥 x 2, ⚡ x 3 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | 44.16 | 51.80 | 🏆 x 7 | 🥇 x 12, 🥈 x 8 | 💥 x 1, 🔥 x 4, ⚡ x 4 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | 50.44 | 1:04.44 | 🏆 x 1 | 🥇 x 2, 🥈 x 5, 🥉 x 17 | 🔥 x 4, ⚡ x 8 |
+| [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444.md) | 40+ | 56.11 | 1:05.85 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 1 |
+| [Jae Park](../../persons/jae_park/444.md) | 50+ | 2:03.34 | 2:28.36 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/444.md) | 40+ | 1:32.33 | 1:41.26 |  |  | 🔥 x 6, ⚡ x 4 |
 | [Jang Junho (장준호)](../../persons/jang_junho/444.md) | 40+ | 2:31.31 | 2:58.70 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jason Green](../../persons/jason_green/444.md) | 40+ | 1:06.29 | 1:14.80 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/444.md) | 40+ | 52.35 | 1:02.91 |  | 🥈 x 2, 🥉 x 7 | 🔥 x 2, ⚡ x 2 |
 | [Jo Cocco](../../persons/jo_cocco/444.md) | 40+ | 2:02.00 | 2:31.68 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/444.md) | 40+ | 3:13.21 | 3:38.78 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Kerry Go](../../persons/kerry_go/444.md) | 50+ | 1:47.83 | 2:08.30 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Kerry Go](../../persons/kerry_go/444.md) | 50+ | 1:40.75 | 2:08.30 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | 44.85 | 52.91 | 🏆 x 8 | 🥇 x 8, 🥈 x 6, 🥉 x 2 | 🔥 x 5, ⚡ x 7 |
 | [Michael George](../../persons/michael_george/444.md) | 40+ | 45.67 | 53.30 | 🏆 x 8 | 🥇 x 18, 🥈 x 3 | 💥 x 3, 🔥 x 2, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/444.md) | 50+ | 2:20.53 | 2:42.21 |  |  | 🔥 x 2, ⚡ x 3 |
@@ -61,7 +61,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/444.md) | <40 | 1:55.29 | 2:03.40 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Chris Hardwick](../../persons/chris_hardwick/444.md) | <40 | 1:04.26 | 1:14.74 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Chris Thames](../../persons/chris_thames/444.md) | <40 | 1:48.62 | 1:58.93 |  |  | 🔥 x 5, ⚡ x 6 |
+| [Chris Thames](../../persons/chris_thames/444.md) | <40 | 1:40.13 | 1:52.97 |  |  | 🔥 x 6, ⚡ x 7 |
 | [Ed Connell](../../persons/ed_connell/444.md) | <40 | 51.95 | 1:03.98 | 🏆 x 1 |  | 🔥 x 4, ⚡ x 5 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) | <40 | 50.34 | 53.40 | 🏆 x 1 |  | 🔥 x 2, ⚡ x 3 |
 | [Go-ho Choi](../../persons/go_ho_choi/444.md) | <40 | 36.50 | 49.27 | 🏆 x 3 |  | 💥 x 4, 🔥 x 3, ⚡ x 5 |

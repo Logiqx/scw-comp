@@ -5,17 +5,23 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### Over 50
+
+| # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
+| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
+| 1 | [Jae Park](../../persons/jae_park/skewb.md) | [2021-01-19](../../results/2021-01-19/skewb.md) | 50+ | 31.27 |  | 🥈 x 5 | 💥 x 1, 🔥 x 4, ⚡ x 4 | [Desktop](https://www.facebook.com/events/4019154624783622/permalink/4021285421237209) / [Mobile](https://m.facebook.com/events/4019154624783622?view=permalink&id=4021285421237209) |
+
 #### Over 40
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Michael George](../../persons/michael_george/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | 40+ | 2.78 | 🏆 x 8 | 🥇 x 10 | 💥 x 4, 🔥 x 3, ⚡ x 2 | [Desktop](https://www.facebook.com/events/1716512181834525/permalink/1717709441714799) / [Mobile](https://m.facebook.com/events/1716512181834525?view=permalink&id=1717709441714799) |
-| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | [2020-12-01](../../results/2020-12-01/skewb.md) | 40+ | 3.23 | 🏆 x 19 | 🥇 x 19 | 💥 x 4, 🔥 x 4, ⚡ x 4 | [Desktop](https://www.facebook.com/events/714027339539738/permalink/718660842409721) / [Mobile](https://m.facebook.com/events/714027339539738?view=permalink&id=718660842409721) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | [2020-12-01](../../results/2020-12-01/skewb.md) | 40+ | 3.23 | 🏆 x 20 | 🥇 x 20 | 💥 x 4, 🔥 x 4, ⚡ x 4 | [Desktop](https://www.facebook.com/events/714027339539738/permalink/718660842409721) / [Mobile](https://m.facebook.com/events/714027339539738?view=permalink&id=718660842409721) |
 | 3 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | [2020-06-30](../../results/2020-06-30/skewb.md) | 40+ | 4.15 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/jeremy.duehring/videos/10160203751947846) / [Mobile](https://m.facebook.com/jeremy.duehring/videos/10160203751947846) |
 | 4 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | [2020-06-16](../../results/2020-06-16/skewb.md) | 40+ | 7.77 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/296087658445428/permalink/297667538287440) / [Mobile](https://m.facebook.com/events/296087658445428?view=permalink&id=297667538287440) |
 | 5 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/skewb.md) | [2020-08-25](../../results/2020-08-25/skewb.md) | 40+ | 7.88 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/335350317875490/permalink/340431677367354) / [Mobile](https://m.facebook.com/events/335350317875490?view=permalink&id=340431677367354) |
 | 6 | [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | [2020-08-18](../../results/2020-08-18/skewb.md) | 40+ | 14.77 |  | 🥈 x 4 | 🔥 x 4, ⚡ x 2 | [Desktop](https://www.facebook.com/events/940960439648894/permalink/941539536257651) / [Mobile](https://m.facebook.com/events/940960439648894?view=permalink&id=941539536257651) |
-| 7 | [Jae Park](../../persons/jae_park/skewb.md) | [2020-11-03](../../results/2020-11-03/skewb.md) | 40+ | 17.82 |  | 🥈 x 4 | 🔥 x 3, ⚡ x 3 | [Desktop](https://www.facebook.com/events/406412140373592/permalink/407131340301672) / [Mobile](https://m.facebook.com/events/406412140373592?view=permalink&id=407131340301672) |
+| 7 | [Jae Park](../../persons/jae_park/skewb.md) | [2020-11-03](../../results/2020-11-03/skewb.md) | 40+ | 17.82 |  | 🥈 x 5 | 💥 x 1, 🔥 x 4, ⚡ x 4 | [Desktop](https://www.facebook.com/events/406412140373592/permalink/407131340301672) / [Mobile](https://m.facebook.com/events/406412140373592?view=permalink&id=407131340301672) |
 | 8 | [Anthony Rochester](../../persons/anthony_rochester/skewb.md) | [2020-11-10](../../results/2020-11-10/skewb.md) | 40+ | 24.04 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/758374458225984/permalink/759394218124008) / [Mobile](https://m.facebook.com/events/758374458225984?view=permalink&id=759394218124008) |
 | 9 | [Marcel Balzer](../../persons/marcel_balzer/skewb.md) | [2020-09-01](../../results/2020-09-01/skewb.md) | 40+ | 27.44 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 1 | [Desktop](https://www.facebook.com/marcel.balzer.9216/videos/10160386343317516) / [Mobile](https://m.facebook.com/marcel.balzer.9216/videos/10160386343317516) |
 

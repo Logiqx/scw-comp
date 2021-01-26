@@ -4,10 +4,11 @@
 ### [Jae Park](README.md) - [2015PARK24](https://www.worldcubeassociation.org/persons/2015PARK24?event=skewb)
 #### Skewb Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2021-01-19](../../results/2021-01-19/skewb.md) | 50+ | **31.27** | **44.02** | 🥈 💥 🔥 ⚡ | **31.27** | 46.33 | 42.77 | 42.95 | 47.38 | [Desktop](https://www.facebook.com/events/4019154624783622/permalink/4021285421237209) / [Mobile](https://m.facebook.com/events/4019154624783622?view=permalink&id=4021285421237209) |
 | [2020-11-03](../../results/2020-11-03/skewb.md) | 40+ | **17.82** | **26.94** | 🥈 🔥 ⚡ | 31.61 | 53.19 | **17.82** | 24.56 | 24.66 | [Desktop](https://www.facebook.com/events/406412140373592/permalink/407131340301672) / [Mobile](https://m.facebook.com/events/406412140373592?view=permalink&id=407131340301672) |
 | [2020-10-13](../../results/2020-10-13/skewb.md) | 40+ | 30.76 | 40.90 | 🥈 | 45.99 | 58.80 | 40.01 | 30.76 | 36.70 | [Desktop](https://www.facebook.com/events/718285385437639/permalink/720435565222621) / [Mobile](https://m.facebook.com/events/718285385437639?view=permalink&id=720435565222621) |
 | [2020-10-06](../../results/2020-10-06/skewb.md) | 40+ | **25.98** | **35.79** | 🥈 🔥 ⚡ | 33.60 | 38.61 | 35.16 | 39.84 | **25.98** | [Desktop](https://www.facebook.com/events/365989921479949/permalink/367093694702905) / [Mobile](https://m.facebook.com/events/365989921479949?view=permalink&id=367093694702905) |
