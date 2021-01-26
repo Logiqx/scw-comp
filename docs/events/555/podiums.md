@@ -10,7 +10,7 @@
 | :--: | :-- | :--: | --: | --: | :--: | :-- |
 | 1 | [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | 1:27.42 | 1:43.56 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/801984480354340/permalink/805199883366133) / [Mobile](https://m.facebook.com/events/801984480354340?view=permalink&id=805199883366133) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | 1:59.18 | 2:06.06 | 🥈 | [Desktop](https://www.facebook.com/events/801984480354340/permalink/803031230249665) / [Mobile](https://m.facebook.com/events/801984480354340?view=permalink&id=803031230249665) |
-| 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | 2:39.60 | 2:47.58 | 🥉 | [Desktop](https://www.facebook.com/events/801984480354340/permalink/804951313390990) / [Mobile](https://m.facebook.com/events/801984480354340?view=permalink&id=804951313390990) |
+| 3 | [Aaron Cumes](../../persons/aaron_cumes/555.md) | 40+ | 2:21.64 | 2:32.97 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/801984480354340/permalink/804512616768193) / [Mobile](https://m.facebook.com/events/801984480354340?view=permalink&id=804512616768193) |
 
 #### [2021-01-12](../../results/2021-01-12/555.md)
 

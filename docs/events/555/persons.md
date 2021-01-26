@@ -27,7 +27,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Aaron Cumes](../../persons/aaron_cumes/555.md) | 40+ | 2:28.62 | 2:39.68 |  | 🥉 x 2 | 🔥 x 3, ⚡ x 2 |
+| [Aaron Cumes](../../persons/aaron_cumes/555.md) | 40+ | 2:21.64 | 2:32.97 |  | 🥉 x 3 | 🔥 x 4, ⚡ x 3 |
 | [Andy Nicholls](../../persons/andy_nicholls/555.md) | 40+ | 1:38.52 | 1:46.32 | 🏆 x 12 | 🥇 x 14, 🥈 x 2 | 💥 x 3, 🔥 x 2, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/555.md) | 40+ | 3:45.86 | 3:53.73 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | 1:41.03 | 1:46.58 |  | 🥇 x 1, 🥈 x 3 | 💥 x 3, 🔥 x 1, ⚡ x 3 |
@@ -46,7 +46,7 @@
 | [Michael George](../../persons/michael_george/555.md) | 40+ | 1:43.65 | 2:00.85 | 🏆 x 1 | 🥇 x 2, 🥈 x 4, 🥉 x 9 | 🔥 x 5, ⚡ x 5 |
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | 5:50.00 | DNF |  |  | ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/555.md) | 40+ | 2:17.13 | 2:27.99 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | 2:19.31 | 2:40.69 |  | 🥈 x 3, 🥉 x 10 | 🔥 x 11, ⚡ x 12 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | 2:19.31 | 2:40.69 |  | 🥈 x 3, 🥉 x 9 | 🔥 x 11, ⚡ x 12 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/555.md) | 40+ | 2:36.25 | 2:52.60 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40

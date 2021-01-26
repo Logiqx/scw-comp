@@ -39,9 +39,11 @@
 
 <span style="white-space: nowrap;">🏆 [Fumiki Koseki](../../persons/fumiki_koseki/555.md) 1:43.56</span>
 
-<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/555.md) 1:43.56</span>, <span style="white-space: nowrap;">🥈 [Geoff Hartnell](../../persons/geoff_hartnell/555.md) 2:06.06</span>, <span style="white-space: nowrap;">🥉 [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) 2:47.58</span>
+<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/555.md) 1:43.56</span>, <span style="white-space: nowrap;">🥈 [Geoff Hartnell](../../persons/geoff_hartnell/555.md) 2:06.06</span>, <span style="white-space: nowrap;">🥉 [Aaron Cumes](../../persons/aaron_cumes/555.md) 2:32.97</span>
 
-⚡ x 1 = <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/555.md) 4:38.03</span>
+🔥 x 1 = <span style="white-space: nowrap;">[Aaron Cumes](../../persons/aaron_cumes/555.md) 2:32.97</span>
+
+⚡ x 2 = <span style="white-space: nowrap;">[Aaron Cumes](../../persons/aaron_cumes/555.md) 2:21.64</span>, <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/555.md) 4:38.03</span>
 
 #### [6x6x6](666.md)
 
