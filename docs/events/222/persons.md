@@ -74,6 +74,7 @@
 | [Go-ho Choi](../../persons/go_ho_choi/222.md) | <40 | 3.50 | 4.50 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Greg Simmons](../../persons/greg_simmons/222.md) | <40 | 12.46 | 18.53 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Matthew Hart](../../persons/matthew_hart/222.md) | <40 | 8.11 | 14.60 |  |  | 🔥 x 2, ⚡ x 3 |
+| [Nick Agatyn](../../persons/nick_agatyn/222.md) | <40 | 8.45 | 10.18 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/222.md) | <40 | 4.68 | 7.24 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Peter Osudar](../../persons/peter_osudar/222.md) | <40 | 7.21 | 9.40 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Phil Yu](../../persons/phil_yu/222.md) | <40 | 2.87 | 4.25 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |

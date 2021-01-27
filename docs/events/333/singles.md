@@ -107,7 +107,8 @@
 | 18 | [Stew Alla](../../persons/stew_alla/333.md) | [2020-05-12](../../results/2020-05-12/333.md) | <40 | 20.69 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/546188069600739/permalink/550354812517398) / [Mobile](https://m.facebook.com/events/546188069600739?view=permalink&id=550354812517398) |
 | 19 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333.md) | [2020-07-14](../../results/2020-07-14/333.md) | <40 | 20.75 |  |  | 🔥 x 1, ⚡ x 3 | [Desktop](https://www.facebook.com/events/1157754364595802/permalink/1162019300835975) / [Mobile](https://m.facebook.com/events/1157754364595802?view=permalink&id=1162019300835975) |
 | 20 | [Scott Knight](../../persons/scott_knight/333.md) | [2021-01-12](../../results/2021-01-12/333.md) | <40 | 26.57 |  |  | 🔥 x 2, ⚡ x 3 | [Desktop](https://www.facebook.com/events/154842819532367/permalink/156337379382911) / [Mobile](https://m.facebook.com/events/154842819532367?view=permalink&id=156337379382911) |
-| 21 | [Brooke Persoon](../../persons/brooke_persoon/333.md) | [2020-03-03](../../results/2020-03-03/333.md) | <40 | 39.40 |  |  | 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/241721610185997/permalink/245749193116572) / [Mobile](https://m.facebook.com/events/241721610185997?view=permalink&id=245749193116572) |
+| 21 | [Nick Agatyn](../../persons/nick_agatyn/333.md) | [2021-01-19](../../results/2021-01-19/333.md) | <40 | 30.80 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/757743227/videos/10160878473693228) / [Mobile](https://m.facebook.com/757743227/videos/10160878473693228) |
+| 22 | [Brooke Persoon](../../persons/brooke_persoon/333.md) | [2020-03-03](../../results/2020-03-03/333.md) | <40 | 39.40 |  |  | 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/241721610185997/permalink/245749193116572) / [Mobile](https://m.facebook.com/events/241721610185997?view=permalink&id=245749193116572) |
 
 #### Under 30
 

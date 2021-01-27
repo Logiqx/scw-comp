@@ -35,7 +35,7 @@
 | [Chris Thames](../../persons/chris_thames/pyram.md) | <40 | 9.53 | 14.23 |  |  | 🔥 x 5, ⚡ x 5 |
 | [Ed Connell](../../persons/ed_connell/pyram.md) | <40 | 5.89 | 8.76 |  |  | 🔥 x 7, ⚡ x 8 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) | <40 | 4.59 | 7.72 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
-| [Nick Agatyn](../../persons/nick_agatyn/pyram.md) | <40 | 16.78 | 20.03 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Nick Agatyn](../../persons/nick_agatyn/pyram.md) | <40 | 14.75 | 18.24 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Pete Lee](../../persons/pete_lee/pyram.md) | <40 | 14.79 | 28.28 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Peter Osudar](../../persons/peter_osudar/pyram.md) | <40 | 6.95 | 9.55 |  |  | 🔥 x 1, ⚡ x 1 |
 

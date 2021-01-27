@@ -102,6 +102,7 @@
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333.md) | <40 | 20.75 | 24.65 |  |  | 🔥 x 1, ⚡ x 3 |
 | [Matthew Hart](../../persons/matthew_hart/333.md) | <40 | 18.91 | 23.26 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Neilimixam Snetrem](../../persons/neilimixam_snetrem/333.md) | <40 | 14.32 | 20.01 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Nick Agatyn](../../persons/nick_agatyn/333.md) | <40 | 30.80 | 36.84 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/333.md) | <40 | 12.85 | 17.88 |  |  | 🔥 x 8, ⚡ x 5 |
 | [Phil Yu](../../persons/phil_yu/333.md) | <40 | 8.12 | 9.64 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Scott Knight](../../persons/scott_knight/333.md) | <40 | 26.57 | 33.40 |  |  | 🔥 x 2, ⚡ x 3 |

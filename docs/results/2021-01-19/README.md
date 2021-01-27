@@ -11,9 +11,9 @@
 
 <span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/333.md) 16.24</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 16.36</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/333.md) 17.94</span>
 
-🔥 x 5 = <span style="white-space: nowrap;">[Anthony Rochester](../../persons/anthony_rochester/333.md) 19.88</span>, <span style="white-space: nowrap;">[Robert Summerfield](../../persons/robert_summerfield/333.md) 22.71</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/333.md) 24.56</span>, <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/333.md) 35.86</span>, <span style="white-space: nowrap;">[Leo Arroyo](../../persons/leo_arroyo/333.md) 1:00.72</span>
+🔥 x 6 = <span style="white-space: nowrap;">[Anthony Rochester](../../persons/anthony_rochester/333.md) 19.88</span>, <span style="white-space: nowrap;">[Robert Summerfield](../../persons/robert_summerfield/333.md) 22.71</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/333.md) 24.56</span>, <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/333.md) 35.86</span>, <span style="white-space: nowrap;">[Nick Agatyn](../../persons/nick_agatyn/333.md) 36.84</span>, <span style="white-space: nowrap;">[Leo Arroyo](../../persons/leo_arroyo/333.md) 1:00.72</span>
 
-⚡ x 3 = <span style="white-space: nowrap;">[Robert Summerfield](../../persons/robert_summerfield/333.md) 18.87</span>, <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/333.md) 31.40</span>, <span style="white-space: nowrap;">[Leo Arroyo](../../persons/leo_arroyo/333.md) 52.91</span>
+⚡ x 4 = <span style="white-space: nowrap;">[Robert Summerfield](../../persons/robert_summerfield/333.md) 18.87</span>, <span style="white-space: nowrap;">[Nick Agatyn](../../persons/nick_agatyn/333.md) 30.80</span>, <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/333.md) 31.40</span>, <span style="white-space: nowrap;">[Leo Arroyo](../../persons/leo_arroyo/333.md) 52.91</span>
 
 #### [2x2x2](222.md)
 
@@ -21,9 +21,9 @@
 
 <span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/222.md) 6.10</span>, <span style="white-space: nowrap;">🥈 [Anthony Rochester](../../persons/anthony_rochester/222.md) 6.98</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/222.md) 8.10</span>
 
-🔥 x 2 = <span style="white-space: nowrap;">[Kerry Go](../../persons/kerry_go/222.md) 12.36</span>, <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/222.md) 34.10</span>
+🔥 x 3 = <span style="white-space: nowrap;">[Nick Agatyn](../../persons/nick_agatyn/222.md) 10.18</span>, <span style="white-space: nowrap;">[Kerry Go](../../persons/kerry_go/222.md) 12.36</span>, <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/222.md) 34.10</span>
 
-⚡ x 2 = <span style="white-space: nowrap;">[Kerry Go](../../persons/kerry_go/222.md) 10.14</span>, <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/222.md) 24.31</span>
+⚡ x 3 = <span style="white-space: nowrap;">[Nick Agatyn](../../persons/nick_agatyn/222.md) 8.45</span>, <span style="white-space: nowrap;">[Kerry Go](../../persons/kerry_go/222.md) 10.14</span>, <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/222.md) 24.31</span>
 
 #### [4x4x4](444.md)
 
@@ -80,6 +80,10 @@
 <span style="white-space: nowrap;">🏆 [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 7.38</span>
 
 <span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 7.38</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/pyram.md) 11.72</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 14.20</span>
+
+🔥 x 1 = <span style="white-space: nowrap;">[Nick Agatyn](../../persons/nick_agatyn/pyram.md) 18.24</span>
+
+⚡ x 1 = <span style="white-space: nowrap;">[Nick Agatyn](../../persons/nick_agatyn/pyram.md) 14.75</span>
 
 #### [Skewb](skewb.md)
 
