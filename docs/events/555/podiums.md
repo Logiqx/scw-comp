@@ -4,6 +4,14 @@
 ### 5x5x5 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-01-26](../../results/2021-01-26/555.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | 1:21.05 | 1:47.49 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/886756952081472/permalink/890724758351358) / [Mobile](https://m.facebook.com/events/886756952081472?view=permalink&id=890724758351358) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | 1:50.20 | 2:08.89 | 🥈 | [Desktop](https://www.facebook.com/events/886756952081472/permalink/888512301905937) / [Mobile](https://m.facebook.com/events/886756952081472?view=permalink&id=888512301905937) |
+| 3 | [Jae Park](../../persons/jae_park/555.md) | 50+ | 5:21.45 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/886756952081472/permalink/887474695343031) / [Mobile](https://m.facebook.com/events/886756952081472?view=permalink&id=887474695343031) |
+
 #### [2021-01-19](../../results/2021-01-19/555.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

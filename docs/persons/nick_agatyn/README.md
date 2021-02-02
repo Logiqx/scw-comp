@@ -7,9 +7,9 @@
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
-| [3x3x3](333.md) | 30.80 | 36.84 | 🔥 x 1, ⚡ x 1 |
+| [3x3x3](333.md) | 30.80 | 35.74 | 🔥 x 2, ⚡ x 1 |
 | [2x2x2](222.md) | 8.45 | 10.18 | 🔥 x 1, ⚡ x 1 |
-| [Pyraminx](pyram.md) | 14.75 | 18.24 | 🔥 x 2, ⚡ x 2 |
+| [Pyraminx](pyram.md) | 10.86 | 14.40 | 🔥 x 3, ⚡ x 3 |
 | [Skewb](skewb.md) | 9.71 | 11.79 | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

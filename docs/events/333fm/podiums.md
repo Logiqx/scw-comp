@@ -4,6 +4,13 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-01-26](../../results/2021-01-26/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) | 40+ | 25 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/3437310179730186/permalink/3440076479453556) / [Mobile](https://m.facebook.com/events/3437310179730186?view=permalink&id=3440076479453556) |
+| 2 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 26 | 🥈 | [Desktop](https://www.facebook.com/events/3437310179730186/permalink/3439847039476500) / [Mobile](https://m.facebook.com/events/3437310179730186?view=permalink&id=3439847039476500) |
+
 #### [2021-01-19](../../results/2021-01-19/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |

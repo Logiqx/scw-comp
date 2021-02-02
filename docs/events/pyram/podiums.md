@@ -4,6 +4,14 @@
 ### Pyraminx Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-01-26](../../results/2021-01-26/pyram.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) | 40+ | 4.49 | 7.63 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/1092517657841225/permalink/1096773217415669) / [Mobile](https://m.facebook.com/events/1092517657841225?view=permalink&id=1096773217415669) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 8.74 | 12.29 | 🥈 | [Desktop](https://www.facebook.com/events/1092517657841225/permalink/1096397324119925) / [Mobile](https://m.facebook.com/events/1092517657841225?view=permalink&id=1096397324119925) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | 8.49 | 13.62 | 🥉 | [Desktop](https://www.facebook.com/events/1092517657841225/permalink/1096987997394191) / [Mobile](https://m.facebook.com/events/1092517657841225?view=permalink&id=1096987997394191) |
+
 #### [2021-01-19](../../results/2021-01-19/pyram.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

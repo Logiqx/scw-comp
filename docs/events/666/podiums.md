@@ -4,6 +4,14 @@
 ### 6x6x6 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-01-26](../../results/2021-01-26/666.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/666.md) | 40+ | 2:52.68 | 2:55.86 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/886756952081472/permalink/890724758351358) / [Mobile](https://m.facebook.com/events/886756952081472?view=permalink&id=890724758351358) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | 3:50.94 | 3:57.79 | 🥈 | [Desktop](https://www.facebook.com/events/886756952081472/permalink/887753345315166) / [Mobile](https://m.facebook.com/events/886756952081472?view=permalink&id=887753345315166) |
+| 3 | [Aaron Cumes](../../persons/aaron_cumes/666.md) | 40+ | 4:49.66 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/886756952081472/permalink/887647815325719) / [Mobile](https://m.facebook.com/events/886756952081472?view=permalink&id=887647815325719) |
+
 #### [2021-01-19](../../results/2021-01-19/666.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

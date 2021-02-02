@@ -20,7 +20,7 @@
 | [Daniel Smith](../../persons/daniel_smith/333.md) | 50+ | 17.97 | 24.56 |  |  | 💥 x 2, 🔥 x 9, ⚡ x 9 |
 | [David Burchill](../../persons/david_burchill/333.md) | 50+ | 28.50 | 34.84 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Jae Park](../../persons/jae_park/333.md) | 50+ | 31.40 | 35.86 |  |  | 🔥 x 7, ⚡ x 6 |
+| [Jae Park](../../persons/jae_park/333.md) | 50+ | 29.71 | 34.81 |  |  | 🔥 x 8, ⚡ x 7 |
 | [Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) | 50+ | 25.09 | 28.76 |  |  | 🔥 x 6, ⚡ x 4 |
 | [John Neo Stanley](../../persons/john_neo_stanley/333.md) | 50+ | 28.51 | 31.31 |  |  | 🔥 x 5, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/333.md) | 50+ | 27.91 | 31.87 |  |  | 🔥 x 2, ⚡ x 2 |
@@ -37,7 +37,7 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/333.md) | <40 | 15.18 | 18.44 |  | 🥉 x 4 | 🔥 x 9, ⚡ x 6 |
 | [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | 14.08 | 17.00 |  | 🥈 x 3, 🥉 x 6 | 🔥 x 4, ⚡ x 3 |
-| [Anthony Rochester](../../persons/anthony_rochester/333.md) | 40+ | 16.31 | 19.88 |  |  | 🔥 x 7, ⚡ x 4 |
+| [Anthony Rochester](../../persons/anthony_rochester/333.md) | 40+ | 15.75 | 19.88 |  |  | 🔥 x 7, ⚡ x 5 |
 | [Chris Wright](../../persons/chris_wright/333.md) | 50+ | 10.58 | 13.67 |  | 🥇 x 5, 🥈 x 4, 🥉 x 2 | 💥 x 5, 🔥 x 4, ⚡ x 3 |
 | [Christoph Woittequand](../../persons/christoph_woittequand/333.md) | 40+ | 12.05 | 17.03 |  | 🥉 x 5 | 🔥 x 5, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | 14.59 | 18.05 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 3 |
@@ -45,11 +45,11 @@
 | [David Burchill](../../persons/david_burchill/333.md) | 50+ | 28.50 | 34.84 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Denis Reimer](../../persons/denis_reimer/333.md) | 40+ | 19.64 | 24.93 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | 52.97 | 59.90 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/333.md) | 40+ | 12.41 | 15.43 | 🏆 x 1 | 🥇 x 1, 🥈 x 15, 🥉 x 3 | 🔥 x 5, ⚡ x 3 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/333.md) | 40+ | 12.41 | 14.90 | 🏆 x 1 | 🥇 x 1, 🥈 x 16, 🥉 x 3 | 🔥 x 6, ⚡ x 3 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | 13.84 | 16.74 |  | 🥈 x 6, 🥉 x 14 | 🔥 x 9, ⚡ x 5 |
-| [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | 13.37 | 14.77 |  | 🥈 x 11, 🥉 x 5 | 🔥 x 3, ⚡ x 1 |
+| [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | 12.84 | 14.77 |  | 🥈 x 11, 🥉 x 6 | 🔥 x 3, ⚡ x 2 |
 | [Huy Nguyen](../../persons/huy_nguyen/333.md) | 40+ | 17.19 | 20.72 |  |  | 🔥 x 3, ⚡ x 4 |
-| [Jae Park](../../persons/jae_park/333.md) | 50+ | 17.58 | 22.30 |  |  | 🔥 x 7, ⚡ x 6 |
+| [Jae Park](../../persons/jae_park/333.md) | 50+ | 17.58 | 22.30 |  |  | 🔥 x 8, ⚡ x 7 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/333.md) | 40+ | 19.90 | 24.76 |  |  | 🔥 x 12, ⚡ x 10 |
 | [Jang Junho (장준호)](../../persons/jang_junho/333.md) | 40+ | 20.33 | 25.66 |  |  | 🔥 x 4, ⚡ x 2 |
 | [Jason Green](../../persons/jason_green/333.md) | 40+ | 17.22 | 18.51 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
@@ -61,8 +61,8 @@
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/333.md) | 40+ | 38.26 | 40.14 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Kerrie Jarman](../../persons/kerrie_jarman/333.md) | 40+ | 41.01 | 48.20 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/333.md) | 50+ | 27.91 | 31.87 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | 8.55 | 10.11 | 🏆 x 21 | 🥇 x 21 | 💥 x 4, 🔥 x 3, ⚡ x 4 |
-| [Leo Arroyo](../../persons/leo_arroyo/333.md) | 40+ | 52.91 | 1:00.72 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | 8.55 | 10.11 | 🏆 x 22 | 🥇 x 22 | 💥 x 4, 🔥 x 3, ⚡ x 4 |
+| [Leo Arroyo](../../persons/leo_arroyo/333.md) | 40+ | 51.14 | 57.12 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | 22.43 | 25.94 |  |  | 🔥 x 5, ⚡ x 6 |
 | [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | 26.19 | 29.43 |  |  | 🔥 x 11, ⚡ x 10 |
 | [Mark Charlesworth](../../persons/mark_charlesworth/333.md) | 40+ | 27.78 | 30.02 |  |  | 🔥 x 2, ⚡ x 2 |
@@ -95,14 +95,14 @@
 | [Chris Hardwick](../../persons/chris_hardwick/333.md) | <40 | 11.30 | 12.82 | 🏆 x 2 |  | 🔥 x 4, ⚡ x 4 |
 | [Chris Thames](../../persons/chris_thames/333.md) | <40 | 17.55 | 28.04 |  |  | 🔥 x 6, ⚡ x 5 |
 | [Ed Connell](../../persons/ed_connell/333.md) | <40 | 12.27 | 14.70 | 🏆 x 1 |  | 🔥 x 9, ⚡ x 2 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) | <40 | 10.83 | 13.09 | 🏆 x 4 |  | 🔥 x 4, ⚡ x 3 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) | <40 | 10.81 | 13.09 | 🏆 x 4 |  | 🔥 x 4, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/333.md) | <40 | 11.23 | 12.74 | 🏆 x 3 |  | 💥 x 2, 🔥 x 3, ⚡ x 3 |
-| [Greg Simmons](../../persons/greg_simmons/333.md) | <40 | 17.83 | 20.79 |  |  | 🔥 x 5, ⚡ x 6 |
+| [Greg Simmons](../../persons/greg_simmons/333.md) | <40 | 13.96 | 18.92 |  |  | 🔥 x 6, ⚡ x 7 |
 | [Isak Majer](../../persons/isak_majer/333.md) | <40 | 16.05 | 18.84 |  |  | 🔥 x 4, ⚡ x 4 |
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333.md) | <40 | 20.75 | 24.65 |  |  | 🔥 x 1, ⚡ x 3 |
 | [Matthew Hart](../../persons/matthew_hart/333.md) | <40 | 18.91 | 23.26 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Neilimixam Snetrem](../../persons/neilimixam_snetrem/333.md) | <40 | 14.32 | 20.01 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Nick Agatyn](../../persons/nick_agatyn/333.md) | <40 | 30.80 | 36.84 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Nick Agatyn](../../persons/nick_agatyn/333.md) | <40 | 30.80 | 35.74 |  |  | 🔥 x 2, ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/333.md) | <40 | 12.85 | 17.88 |  |  | 🔥 x 8, ⚡ x 5 |
 | [Phil Yu](../../persons/phil_yu/333.md) | <40 | 8.12 | 9.64 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Scott Knight](../../persons/scott_knight/333.md) | <40 | 26.57 | 33.40 |  |  | 🔥 x 2, ⚡ x 3 |

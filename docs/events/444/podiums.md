@@ -4,6 +4,14 @@
 ### 4x4x4 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-01-26](../../results/2021-01-26/444.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | 49.91 | 55.74 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/886756952081472/permalink/890724758351358) / [Mobile](https://m.facebook.com/events/886756952081472?view=permalink&id=890724758351358) |
+| 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444.md) | 40+ | 59.68 | 1:06.25 | 🥈 | [Desktop](https://www.facebook.com/events/886756952081472/permalink/890137788410055) / [Mobile](https://m.facebook.com/events/886756952081472?view=permalink&id=890137788410055) |
+| 3 | [Aaron Cumes](../../persons/aaron_cumes/444.md) | 40+ | 1:05.41 | 1:09.72 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/886756952081472/permalink/888836881873479) / [Mobile](https://m.facebook.com/events/886756952081472?view=permalink&id=888836881873479) |
+
 #### [2021-01-19](../../results/2021-01-19/444.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

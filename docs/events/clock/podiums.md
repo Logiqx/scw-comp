@@ -4,6 +4,14 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-01-26](../../results/2021-01-26/clock.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | 10.98 | 12.82 | 🥇 | [Desktop](https://www.facebook.com/events/1092517657841225/permalink/1096773217415669) / [Mobile](https://m.facebook.com/events/1092517657841225?view=permalink&id=1096773217415669) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | 15.25 | 16.19 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1092517657841225/permalink/1095257660900558) / [Mobile](https://m.facebook.com/events/1092517657841225?view=permalink&id=1095257660900558) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 15.56 | 16.33 | 🥉 | [Desktop](https://www.facebook.com/events/1092517657841225/permalink/1096986474061010) / [Mobile](https://m.facebook.com/events/1092517657841225?view=permalink&id=1096986474061010) |
+
 #### [2021-01-19](../../results/2021-01-19/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

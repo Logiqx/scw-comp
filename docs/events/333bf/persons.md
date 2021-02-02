@@ -9,6 +9,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
+| [Jae Park](../../persons/jae_park/333bf.md) | 50+ | 56.92 | DNF | 🏆 x 26 | 🥇 x 29 | 💥 x 6, 🔥 x 2, ⚡ x 5 |
 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | 2:34.83 | DNF |  | 🥇 x 1, 🥈 x 1, 🥉 x 3 | ⚡ x 5 |
 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | 1:57.81 | 3:12.88 |  | 🥇 x 1, 🥈 x 4, 🥉 x 4 | 💥 x 6, 🔥 x 1, ⚡ x 5 |
 
@@ -17,10 +18,10 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333bf.md) | 40+ | 2:00.58 | 2:24.45 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 1, ⚡ x 1 |
-| [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | 55.88 | 1:41.14 | 🏆 x 2 | 🥇 x 3, 🥈 x 6, 🥉 x 5 | 🔥 x 1, ⚡ x 3 |
+| [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | 55.88 | 1:41.14 | 🏆 x 2 | 🥇 x 3, 🥈 x 6, 🥉 x 6 | 🔥 x 1, ⚡ x 3 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | 51.62 | 59.98 | 🏆 x 6 | 🥇 x 6, 🥈 x 7, 🥉 x 1 | 🔥 x 2, ⚡ x 5 |
-| [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | 1:24.47 | 1:43.11 | 🏆 x 2 | 🥇 x 2, 🥈 x 9, 🥉 x 6 | 🔥 x 5, ⚡ x 5 |
-| [Jae Park](../../persons/jae_park/333bf.md) | 40+ | 45.10 | 57.55 | 🏆 x 26 | 🥇 x 28 | 💥 x 5, 🔥 x 2, ⚡ x 4 |
+| [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | 1:23.53 | 1:43.11 | 🏆 x 2 | 🥇 x 2, 🥈 x 10, 🥉 x 6 | 🔥 x 5, ⚡ x 6 |
+| [Jae Park](../../persons/jae_park/333bf.md) | 50+ | 45.10 | 57.55 | 🏆 x 26 | 🥇 x 29 | 💥 x 6, 🔥 x 2, ⚡ x 5 |
 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | 2:34.83 | DNF |  | 🥇 x 1, 🥈 x 1, 🥉 x 3 | ⚡ x 5 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/333bf.md) | 40+ | 2:31.65 | DNF |  | 🥉 x 1 | ⚡ x 3 |
 | [Mark Adams](../../persons/mark_adams/333bf.md) | 40+ | 1:46.60 | DNF |  | 🥉 x 1 | ⚡ x 1 |
@@ -48,7 +49,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Zain Ali](../../persons/zain_ali/333bf.md) | <20 | 37.92 | 1:01.73 | 🏆 x 2 |  | 💥 x 1, 🔥 x 1, ⚡ x 2 |
+| [Zain Ali](../../persons/zain_ali/333bf.md) | <20 | 32.23 | 1:01.73 | 🏆 x 3 |  | 💥 x 2, 🔥 x 1, ⚡ x 3 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

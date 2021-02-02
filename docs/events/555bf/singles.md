@@ -9,13 +9,13 @@
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Jae Park](../../persons/jae_park/555bf.md) | [2021-01-12](../../results/2021-01-12/555bf.md) | 50+ | 13:25.00 | 🏆 x 13 | 🥇 x 21 | 💥 x 5, ⚡ x 5 | [Desktop](https://www.facebook.com/events/290317685967985/permalink/296436035356150) / [Mobile](https://m.facebook.com/events/290317685967985?view=permalink&id=296436035356150) |
+| 1 | [Jae Park](../../persons/jae_park/555bf.md) | [2021-01-26](../../results/2021-01-26/555bf.md) | 50+ | 12:53.41 | 🏆 x 14 | 🥇 x 22 | 💥 x 6, ⚡ x 6 | [Desktop](https://www.facebook.com/events/712047552829208/permalink/713458466021450) / [Mobile](https://m.facebook.com/events/712047552829208?view=permalink&id=713458466021450) |
 
 #### Over 40
 
 | # | Name | Date | Age | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Jae Park](../../persons/jae_park/555bf.md) | [2020-09-29](../../results/2020-09-29/555bf.md) | 40+ | 12:10.99 | 🏆 x 13 | 🥇 x 21 | 💥 x 5, ⚡ x 5 | [Desktop](https://www.facebook.com/events/1294868874190434/permalink/1297829270561061) / [Mobile](https://m.facebook.com/events/1294868874190434?view=permalink&id=1297829270561061) |
+| 1 | [Jae Park](../../persons/jae_park/555bf.md) | [2020-09-29](../../results/2020-09-29/555bf.md) | 40+ | 12:10.99 | 🏆 x 14 | 🥇 x 22 | 💥 x 6, ⚡ x 6 | [Desktop](https://www.facebook.com/events/1294868874190434/permalink/1297829270561061) / [Mobile](https://m.facebook.com/events/1294868874190434?view=permalink&id=1297829270561061) |
 | 2 | [Andy Nicholls](../../persons/andy_nicholls/555bf.md) | [2020-06-30](../../results/2020-06-30/555bf.md) | 40+ | 23:35.85 |  | 🥇 x 1, 🥈 x 2 | ⚡ x 2 | [Desktop](https://www.facebook.com/events/348465022802357/permalink/352552605726932) / [Mobile](https://m.facebook.com/events/348465022802357?view=permalink&id=352552605726932) |
 
 #### Under 40

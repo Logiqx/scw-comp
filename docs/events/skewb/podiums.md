@@ -4,6 +4,13 @@
 ### Skewb Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-01-26](../../results/2021-01-26/skewb.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | 4.15 | 7.02 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1092517657841225/permalink/1096773217415669) / [Mobile](https://m.facebook.com/events/1092517657841225?view=permalink&id=1096773217415669) |
+| 2 | [Jae Park](../../persons/jae_park/skewb.md) | 50+ | 37.74 | 43.00 | 🥈 💥 🔥 | [Desktop](https://www.facebook.com/events/1092517657841225/permalink/1093201991106125) / [Mobile](https://m.facebook.com/events/1092517657841225?view=permalink&id=1093201991106125) |
+
 #### [2021-01-19](../../results/2021-01-19/skewb.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
