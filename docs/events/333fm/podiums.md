@@ -4,6 +4,13 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-02](../../results/2021-02-02/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 23 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/117342666946735/permalink/117576583590010) / [Mobile](https://m.facebook.com/events/117342666946735?view=permalink&id=117576583590010) |
+| 2 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | 32 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/117342666946735/permalink/121218783225790) / [Mobile](https://m.facebook.com/events/117342666946735?view=permalink&id=121218783225790) |
+
 #### [2021-01-26](../../results/2021-01-26/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |

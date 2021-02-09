@@ -4,6 +4,14 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-02](../../results/2021-02-02/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | 50+ | 50.65 | DNF | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/508664813631510/permalink/511975453300446) / [Mobile](https://m.facebook.com/events/508664813631510?view=permalink&id=511975453300446) |
+| 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | 1:00.54 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/508664813631510/permalink/509498696881455) / [Mobile](https://m.facebook.com/events/508664813631510?view=permalink&id=509498696881455) |
+| 3 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | 1:29.06 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/508664813631510/permalink/512809013217090) / [Mobile](https://m.facebook.com/events/508664813631510?view=permalink&id=512809013217090) |
+
 #### [2021-01-26](../../results/2021-01-26/333bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |
