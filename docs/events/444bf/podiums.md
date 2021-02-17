@@ -4,6 +4,13 @@
 ### 4x4x4 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-09](../../results/2021-02-09/444bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/444bf.md) | 50+ | 5:31.38 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/426225478800941/permalink/427075135382642) / [Mobile](https://m.facebook.com/events/426225478800941?view=permalink&id=427075135382642) |
+| 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) | 40+ | 7:54.96 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/426225478800941/permalink/427043342052488) / [Mobile](https://m.facebook.com/events/426225478800941?view=permalink&id=427043342052488) |
+
 #### [2021-02-02](../../results/2021-02-02/444bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

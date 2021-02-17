@@ -4,6 +4,13 @@
 ### Pyraminx Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-09](../../results/2021-02-09/pyram.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) | 40+ | 4.02 | 6.72 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/466529388059949/permalink/470686107644277) / [Mobile](https://m.facebook.com/events/466529388059949?view=permalink&id=470686107644277) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | 9.15 | 11.97 | 🥈 | [Desktop](https://www.facebook.com/events/466529388059949/permalink/470507290995492) / [Mobile](https://m.facebook.com/events/466529388059949?view=permalink&id=470507290995492) |
+
 #### [2021-02-02](../../results/2021-02-02/pyram.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

@@ -9,7 +9,7 @@
 
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Jae Park](../../persons/jae_park/444bf.md) | 50+ | 4:33.83 | DNF | 🏆 x 24 | 🥇 x 27 | 💥 x 11, ⚡ x 11 |
+| [Jae Park](../../persons/jae_park/444bf.md) | 50+ | 4:33.83 | DNF | 🏆 x 25 | 🥇 x 28 | 💥 x 11, ⚡ x 11 |
 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | 9:09.91 | DNF | 🏆 x 2 | 🥇 x 3, 🥈 x 5 | 💥 x 4, ⚡ x 4 |
 
 #### Over 40
@@ -17,8 +17,8 @@
 | Name | Age | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | 40+ | 10:52.00 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 5 | ⚡ x 1 |
-| [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) | 40+ | 8:51.11 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 3 | ⚡ x 2 |
-| [Jae Park](../../persons/jae_park/444bf.md) | 50+ | 4:26.20 | DNF | 🏆 x 24 | 🥇 x 27 | 💥 x 11, ⚡ x 11 |
+| [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) | 40+ | 7:54.96 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 4 | ⚡ x 3 |
+| [Jae Park](../../persons/jae_park/444bf.md) | 50+ | 4:26.20 | DNF | 🏆 x 25 | 🥇 x 28 | 💥 x 11, ⚡ x 11 |
 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | 9:09.91 | DNF | 🏆 x 2 | 🥇 x 3, 🥈 x 5 | 💥 x 4, ⚡ x 4 |
 
 #### Under 40

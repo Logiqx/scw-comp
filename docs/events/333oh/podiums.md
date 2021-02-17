@@ -4,6 +4,14 @@
 ### 3x3x3 One-Handed Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-09](../../results/2021-02-09/333oh.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | 22.38 | 25.30 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/749806039307047/permalink/753823152238669) / [Mobile](https://m.facebook.com/events/749806039307047?view=permalink&id=753823152238669) |
+| 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | 23.88 | 32.23 | 🥈 | [Desktop](https://www.facebook.com/events/749806039307047/permalink/753680098919641) / [Mobile](https://m.facebook.com/events/749806039307047?view=permalink&id=753680098919641) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | 26.67 | 32.73 | 🥉 | [Desktop](https://www.facebook.com/events/749806039307047/permalink/753222112298773) / [Mobile](https://m.facebook.com/events/749806039307047?view=permalink&id=753222112298773) |
+
 #### [2021-02-02](../../results/2021-02-02/333oh.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

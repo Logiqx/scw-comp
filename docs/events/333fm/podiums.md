@@ -4,6 +4,15 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-09](../../results/2021-02-09/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | 24 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/324362745652604/permalink/324923552263190) / [Mobile](https://m.facebook.com/events/324362745652604?view=permalink&id=324923552263190) |
+| 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) | 40+ | 28 | 🥈 | [Desktop](https://www.facebook.com/events/324362745652604/permalink/324768808945331) / [Mobile](https://m.facebook.com/events/324362745652604?view=permalink&id=324768808945331) |
+| 3 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 29 | 🥉 | [Desktop](https://www.facebook.com/events/324362745652604/permalink/324762962279249) / [Mobile](https://m.facebook.com/events/324362745652604?view=permalink&id=324762962279249) |
+| 3 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | 29 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/324362745652604/permalink/325260145562864) / [Mobile](https://m.facebook.com/events/324362745652604?view=permalink&id=325260145562864) |
+
 #### [2021-02-02](../../results/2021-02-02/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |
