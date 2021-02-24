@@ -4,6 +4,14 @@
 ### 3x3x3 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-17](../../results/2021-02-17/333bf.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | 59.16 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/413157843303494/permalink/416156213003657) / [Mobile](https://m.facebook.com/events/413157843303494?view=permalink&id=416156213003657) |
+| 2 | [Jae Park](../../persons/jae_park/333bf.md) | 50+ | 1:00.15 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/413157843303494/permalink/416297279656217) / [Mobile](https://m.facebook.com/events/413157843303494?view=permalink&id=416297279656217) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | 1:18.71 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/413157843303494/permalink/414676206484991) / [Mobile](https://m.facebook.com/events/413157843303494?view=permalink&id=414676206484991) |
+
 #### [2021-02-09](../../results/2021-02-09/333bf.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

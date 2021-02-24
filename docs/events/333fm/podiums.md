@@ -4,6 +4,13 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-17](../../results/2021-02-17/333fm.md)
+
+| # | Name | Age | Single | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :-- |
+| 1 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | 27 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/426651405110180/permalink/426863151755672) / [Mobile](https://m.facebook.com/events/426651405110180?view=permalink&id=426863151755672) |
+| 2 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | 35 | 🥈 | [Desktop](https://www.facebook.com/events/426651405110180/permalink/426781105097210) / [Mobile](https://m.facebook.com/events/426651405110180?view=permalink&id=426781105097210) |
+
 #### [2021-02-09](../../results/2021-02-09/333fm.md)
 
 | # | Name | Age | Single | Awards | Solution |

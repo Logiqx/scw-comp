@@ -4,6 +4,14 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-17](../../results/2021-02-17/clock.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | 11.40 | 12.57 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1168738433581570/permalink/1172406853214728) / [Mobile](https://m.facebook.com/events/1168738433581570?view=permalink&id=1172406853214728) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | 13.48 | 15.42 | 🥈 💥 ⚡ | [Desktop](https://www.facebook.com/events/1168738433581570/permalink/1170902360031844) / [Mobile](https://m.facebook.com/events/1168738433581570?view=permalink&id=1170902360031844) |
+| 3 | [Jae Park](../../persons/jae_park/clock.md) | 50+ | 32.84 | 34.12 | 🥉 | [Desktop](https://www.facebook.com/events/1168738433581570/permalink/1171970309925049) / [Mobile](https://m.facebook.com/events/1168738433581570?view=permalink&id=1171970309925049) |
+
 #### [2021-02-09](../../results/2021-02-09/clock.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

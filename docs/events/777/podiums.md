@@ -4,6 +4,13 @@
 ### 7x7x7 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-17](../../results/2021-02-17/777.md)
+
+| # | Name | Age | Single | Average | Awards | Video |
+| :--: | :-- | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | 4:14.86 | 4:33.60 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1341827372862028/permalink/1345845149126917) / [Mobile](https://m.facebook.com/events/1341827372862028?view=permalink&id=1345845149126917) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | 5:42.97 | 5:52.80 | 🥈 | [Desktop](https://www.facebook.com/events/1341827372862028/permalink/1344033359308096) / [Mobile](https://m.facebook.com/events/1341827372862028?view=permalink&id=1344033359308096) |
+
 #### [2021-02-09](../../results/2021-02-09/777.md)
 
 | # | Name | Age | Single | Average | Awards | Video |

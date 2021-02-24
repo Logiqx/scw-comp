@@ -19,7 +19,7 @@
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
 | [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | 3.55 | 7.65 |  | 🥈 x 1, 🥉 x 8 | 💥 x 3, 🔥 x 3, ⚡ x 6 |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Jae Park](../../persons/jae_park/222.md) | 50+ | 20.94 | 33.59 |  |  | 🔥 x 3, ⚡ x 3 |
+| [Jae Park](../../persons/jae_park/222.md) | 50+ | 16.06 | 24.73 |  |  | 🔥 x 4, ⚡ x 4 |
 | [John Neo Stanley](../../persons/john_neo_stanley/222.md) | 50+ | 9.18 | 11.36 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/222.md) | 50+ | 10.14 | 12.36 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 3.89 | 7.57 |  | 🥈 x 2, 🥉 x 12 | 💥 x 1, 🔥 x 4, ⚡ x 6 |
@@ -34,22 +34,22 @@
 | :-- | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/222.md) | 40+ | 3.13 | 6.39 |  | 🥈 x 3, 🥉 x 2 | 💥 x 1, 🔥 x 8, ⚡ x 7 |
 | [Andy Nicholls](../../persons/andy_nicholls/222.md) | 40+ | 4.01 | 6.35 |  | 🥇 x 1, 🥈 x 3, 🥉 x 1 | 🔥 x 4, ⚡ x 3 |
-| [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | 3.29 | 5.17 |  | 🥇 x 2, 🥈 x 9, 🥉 x 6 | 🔥 x 5, ⚡ x 3 |
+| [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | 3.29 | 5.17 |  | 🥇 x 2, 🥈 x 9, 🥉 x 7 | 🔥 x 5, ⚡ x 3 |
 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | 4.39 | 5.17 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
 | [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | 3.55 | 7.65 |  | 🥈 x 1, 🥉 x 8 | 💥 x 3, 🔥 x 3, ⚡ x 6 |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/222.md) | 40+ | 3.80 | 5.52 | 🏆 x 2 | 🥇 x 2, 🥈 x 14, 🥉 x 7 | 🔥 x 5, ⚡ x 3 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/222.md) | 40+ | 5.86 | 12.64 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/222.md) | 40+ | 3.80 | 5.52 | 🏆 x 2 | 🥇 x 3, 🥈 x 14, 🥉 x 7 | 🔥 x 5, ⚡ x 3 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/222.md) | 40+ | 4.64 | 11.13 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/222.md) | 40+ | 4.57 | 5.86 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [Jae Park](../../persons/jae_park/222.md) | 50+ | 12.95 | 19.45 |  |  | 🔥 x 3, ⚡ x 3 |
+| [Jae Park](../../persons/jae_park/222.md) | 50+ | 12.95 | 19.45 |  |  | 🔥 x 4, ⚡ x 4 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/222.md) | 40+ | 3.34 | 10.72 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Jang Junho (장준호)](../../persons/jang_junho/222.md) | 40+ | 9.01 | 10.40 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/222.md) | 40+ | 3.44 | 6.09 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
 | [Jo Cocco](../../persons/jo_cocco/222.md) | 40+ | 10.83 | 14.12 |  |  | 🔥 x 2, ⚡ x 2 |
 | [John Neo Stanley](../../persons/john_neo_stanley/222.md) | 50+ | 9.18 | 11.36 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/222.md) | 50+ | 10.14 | 12.36 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | 1.77 | 3.86 | 🏆 x 19 | 🥇 x 20, 🥈 x 1 | 💥 x 7, 🔥 x 6, ⚡ x 4 |
+| [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | 1.77 | 3.86 | 🏆 x 19 | 🥇 x 20, 🥈 x 2 | 💥 x 7, 🔥 x 6, ⚡ x 4 |
 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | 3.89 | 7.57 |  | 🥈 x 2, 🥉 x 12 | 💥 x 1, 🔥 x 4, ⚡ x 6 |
 | [Marcel Balzer](../../persons/marcel_balzer/222.md) | 40+ | 4.55 | 9.02 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Markus Niederöst](../../persons/markus_niederost/222.md) | 50+ | 7.80 | 9.63 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -79,7 +79,7 @@
 | [Peter Osudar](../../persons/peter_osudar/222.md) | <40 | 7.21 | 9.40 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Phil Yu](../../persons/phil_yu/222.md) | <40 | 2.87 | 4.25 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Scott Knight](../../persons/scott_knight/222.md) | <40 | 8.50 | 10.46 |  |  | 🔥 x 3, ⚡ x 3 |
-| [Shawn Boucké](../../persons/shawn_boucke/222.md) | <40 | 3.03 | 4.55 | 🏆 x 2 |  | 🔥 x 1, ⚡ x 5 |
+| [Shawn Boucké](../../persons/shawn_boucke/222.md) | <40 | 3.03 | 4.55 | 🏆 x 3 |  | 🔥 x 1, ⚡ x 5 |
 
 #### Under 30
 
