@@ -35,12 +35,12 @@ do
 convert svg/$i.svg svg/$i.svg svg/$i.svg svg/$i.svg svg/$i.svg -splice 450x0+0+0 +append -chop 450x0+0+0 -resize 1200x120 -gravity center -extent 1200x120 wide/$i.png
 done
 
-for i in 666 777 333bf 444bf 555bf
+for i in 666 777 333fm 333bf 444bf 555bf
 do
 convert svg/$i.svg svg/$i.svg svg/$i.svg -splice 1000x0+0+0 +append -chop 1000x0+0+0 -resize 1200x120 -gravity center -extent 1200x120 wide/$i.png
 done
 
-for i in 333fm 333mbf
+for i in 333mbf
 do
 convert svg/$i.svg -splice 1000x0+0+0 +append -chop 1000x0+0+0 -resize 1200x120 -gravity center -extent 1200x120 wide/$i.png
 done
