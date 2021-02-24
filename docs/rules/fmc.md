@@ -4,17 +4,20 @@
 
 #### Rules
 
-- Competitors must post a solution and reconstruction/description of their solution
-- Time limit of one hour
+- Competitors must post a solution and reconstruction/description of their solution(s)
+- Time limit of one hour per scramble
 
 #### Process
 
-- Use the scramble provided <sup>[1]</sup>
+- Use the 3 scrambles provided <sup>[1]</sup> - either 1, 2 or 3 attempts
 - Post your solution and reconstruction/description directly to the event page
   - Include your age category (e.g. 40+) in the description
-  - Include your result as a number (eg. 32)
-  - Indicate if it is your fastest single to date with a ⚡ emoji <sup>[2]</sup>
+  - Include your results as a number (e.g. 32) and Mo3 written to 2 decimal places (e.g. 32.67) or DNF
+  - Indicate if it is your best average to date with a 🔥 emoji <sup>[2]</sup>
+  - Indicate if it is your best single to date with a ⚡ emoji <sup>[2]</sup>
 - Submit your results via the Google Form <sup>[3]</sup> - even if your result was a DNF
+
+Note: You choose how many attempts but use the scrambles in order
 
 #### Links
 
