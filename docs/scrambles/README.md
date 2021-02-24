@@ -1,11 +1,13 @@
-## [Senior Cubers Worldwide - Weekly Competition](/scw-comp/scrambles/)
+## [Senior Cubers Worldwide - Bi-Weekly Competition](/scw-comp/scrambles/)
 Text scrambles to copy/paste into csTimer can be found on [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles).
 
 ### Scramble Sheets
 #### Latest Competition
-2021-02-17 - [3x3x3](2021-02-17/333.pdf), [2x2x2](2021-02-17/222.pdf), [4x4x4](2021-02-17/444.pdf), [5x5x5](2021-02-17/555.pdf), [6x6x6](2021-02-17/666.pdf), [7x7x7](2021-02-17/777.pdf), [OH](2021-02-17/333oh.pdf), [Mega](2021-02-17/minx.pdf), [Pyra](2021-02-17/pyram.pdf), [Skewb](2021-02-17/skewb.pdf), [Sq-1](2021-02-17/sq1.pdf), [Clock](2021-02-17/clock.pdf), [3BLD](2021-02-17/333bf.pdf), [4BLD](2021-02-17/444bf.pdf), [5BLD](2021-02-17/555bf.pdf), [FMC](2021-02-17/333fm.pdf)
+2021-02-24 - [3x3x3](2021-02-24/333.pdf), [2x2x2](2021-02-24/222.pdf), [4x4x4](2021-02-24/444.pdf), [5x5x5](2021-02-24/555.pdf), [6x6x6](2021-02-24/666.pdf), [7x7x7](2021-02-24/777.pdf), [OH](2021-02-24/333oh.pdf), [Mega](2021-02-24/minx.pdf), [Pyra](2021-02-24/pyram.pdf), [Skewb](2021-02-24/skewb.pdf), [Sq-1](2021-02-24/sq1.pdf), [Clock](2021-02-24/clock.pdf), [3BLD](2021-02-24/333bf.pdf), [4BLD](2021-02-24/444bf.pdf), [5BLD](2021-02-24/555bf.pdf), [FMC #1](2021-02-24/333fm1.pdf), [FMC #2](2021-02-24/333fm2.pdf), [FMC #3](2021-02-24/333fm3.pdf)
 
 #### Past Competitions
+2021-02-17 - [3x3x3](2021-02-17/333.pdf), [2x2x2](2021-02-17/222.pdf), [4x4x4](2021-02-17/444.pdf), [5x5x5](2021-02-17/555.pdf), [6x6x6](2021-02-17/666.pdf), [7x7x7](2021-02-17/777.pdf), [OH](2021-02-17/333oh.pdf), [Mega](2021-02-17/minx.pdf), [Pyra](2021-02-17/pyram.pdf), [Skewb](2021-02-17/skewb.pdf), [Sq-1](2021-02-17/sq1.pdf), [Clock](2021-02-17/clock.pdf), [3BLD](2021-02-17/333bf.pdf), [4BLD](2021-02-17/444bf.pdf), [5BLD](2021-02-17/555bf.pdf), [FMC](2021-02-17/333fm.pdf)
+
 2021-02-09 - [3x3x3](2021-02-09/333.pdf), [2x2x2](2021-02-09/222.pdf), [4x4x4](2021-02-09/444.pdf), [5x5x5](2021-02-09/555.pdf), [6x6x6](2021-02-09/666.pdf), [7x7x7](2021-02-09/777.pdf), [OH](2021-02-09/333oh.pdf), [Mega](2021-02-09/minx.pdf), [Pyra](2021-02-09/pyram.pdf), [Skewb](2021-02-09/skewb.pdf), [Sq-1](2021-02-09/sq1.pdf), [Clock](2021-02-09/clock.pdf), [3BLD](2021-02-09/333bf.pdf), [4BLD](2021-02-09/444bf.pdf), [5BLD](2021-02-09/555bf.pdf), [FMC](2021-02-09/333fm.pdf)
 
 2021-02-02 - [3x3x3](2021-02-02/333.pdf), [2x2x2](2021-02-02/222.pdf), [4x4x4](2021-02-02/444.pdf), [5x5x5](2021-02-02/555.pdf), [6x6x6](2021-02-02/666.pdf), [7x7x7](2021-02-02/777.pdf), [OH](2021-02-02/333oh.pdf), [Mega](2021-02-02/minx.pdf), [Pyra](2021-02-02/pyram.pdf), [Skewb](2021-02-02/skewb.pdf), [Sq-1](2021-02-02/sq1.pdf), [Clock](2021-02-02/clock.pdf), [3BLD](2021-02-02/333bf.pdf), [4BLD](2021-02-02/444bf.pdf), [5BLD](2021-02-02/555bf.pdf), [FMC](2021-02-02/333fm.pdf)
