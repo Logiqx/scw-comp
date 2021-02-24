@@ -1,4 +1,4 @@
-## Senior Cubers Worldwide - Weekly Competition
+## Senior Cubers Worldwide - Bi-weekly Competition
 
 ![TheCubicle](cubicle.png)
 
@@ -6,7 +6,7 @@
 
 To encourage wide participation in the competition we are able to offer prizes, kindly provided by [TheCubicle](https://www.thecubicle.com/).
 
-Every week, 4 competitors will be selected at random and will receive a $5 gift card.
+Every competition, 4 competitors will be selected at random and will receive a $10 gift card.
 
 The more events you enter the greater your chance of winning!
 
@@ -19,7 +19,7 @@ The events / puzzles are grouped as follows for the prize draw:
 - 3x3x3, 2x2x2, One-Handed and Megaminx
 - 4x4x4, 5x5x5, 6x6x6 and 7x7x7
 - Pyraminx, Skewb, Square-1 and Clock
-- 3BLD, 4BLD, 5BLD, FMC ... plus MultiBLD when it is added to the weekly competition
+- 3BLD, 4BLD, 5BLD, FMC ... plus MultiBLD when it is added to the competition
 
 For each competition submission, your name will go into the prize draw, limited to 2 events / puzzles per group.
 
@@ -42,18 +42,19 @@ Here are some example to illustrate multiple entries into the prize draw:
 
 ### Limits
 
-A single competitor can have a maximum of 8 prize draw entries in a single week; 4 groups x 2 events.
+A single competitor can have a maximum of 8 prize draw entries in a single period; 4 groups x 2 events.
 
-Multiple entries will increase your chance of winning but there is a limit of one prize per competitor per week.
+Multiple entries will increase your chance of winning but there is a limit of one prize per competitor per period.
 
-The 4 prizes will be awarded to 4 different people in a single week but everyone is eligible to win again in future weeks.
+The 4 prizes will be awarded to 4 different people in a single period but everyone is eligible to win again in future competitions.
 
 
 
 ### Past Winners
 
-You can view the past winners ($5 gift cards for TheCubicle) via the linked Google [sheet](winners.html).
+You can view the past winners ($5 or $10 gift cards for TheCubicle) via the linked Google [sheet](winners.html).
 
+Note: The weekly competition awarded $5 prizes. The bi-weekly competition offers $10 prizes.
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 

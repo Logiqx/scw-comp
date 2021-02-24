@@ -1,8 +1,8 @@
-## Senior Cubers Worldwide - Weekly Competition
+## Senior Cubers Worldwide - Bi-weekly Competition
 
 ### Introduction
 
-This is the weekly video competition for the [Senior Cubers Worldwide](https://www.facebook.com/groups/1604105099735401/?ref=bookmarks) group on Facebook.
+This is the bi-weekly video competition for the [Senior Cubers Worldwide](https://www.facebook.com/groups/1604105099735401/?ref=bookmarks) group on Facebook.
 
 The general concept is to use the scrambles provided and to record your solves on camera. The video can be uploaded directly to Facebook or uploaded to YouTube and the link shared on Facebook.
 
@@ -16,13 +16,15 @@ All of the competitions can be found in the group [calendar](https://www.faceboo
 
 ### Links
 
-Here are the links that you will be needing to use on a weekly basis:
+Here are the links that you will be needing to use on a regular basis:
 
 - You can find all of the scramble sheets via the [index](scrambles/README.md) (PDF only) or [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) (PDF + text).
 - In addition to posting your video on Facebook you will need to submit your results using the Google [form](submit.html).
 - You can view all of the latest submissions via Google [analytics](analytics.html) or via the linked Google [sheet](responses.html).
 - You can find all of the past results and personal profiles on the [results](results/README.md) page.
-- You can view the past winners ($5 gift cards for TheCubicle) via the linked Google [sheet](prizes/winners.html).
+- You can view the past winners (either $5 or $10 gift cards for TheCubicle) via the linked Google [sheet](prizes/winners.html).
+
+Note: The weekly competition awarded $5 prizes. The bi-weekly competition offers $10 prizes.
 
 
 

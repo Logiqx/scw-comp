@@ -1,4 +1,4 @@
-## Senior Cubers Worldwide - Weekly Competition
+## Senior Cubers Worldwide - Bi-weekly Competition
 
 ### Short Video Competition - Pyraminx, Skewb, Square-1 and Clock
 

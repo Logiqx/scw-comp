@@ -1,4 +1,4 @@
-## Senior Cubers Worldwide - Weekly Competition
+## Senior Cubers Worldwide - Bi-weekly Competition
 
 ### FMC Competition - 3x3x3 Fewest Moves
 

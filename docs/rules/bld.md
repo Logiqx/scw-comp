@@ -1,4 +1,4 @@
-## Senior Cubers Worldwide - Weekly Competition
+## Senior Cubers Worldwide - Bi-weekly Competition
 
 ### BLD Video Competition - 3BLD, 4BLD and 5BLD
 
