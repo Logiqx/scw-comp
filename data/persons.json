@@ -7,6 +7,7 @@
   },
   "Adam Robson": {
     "age": "<40",
+    "country": "United Kingdom",
     "id": 15
   },
   "Alex Friedman": {
@@ -108,6 +109,7 @@
   },
   "Donna Leiber": {
     "age": "60+",
+    "country": "United States",
     "id": 62
   },
   "Dylan Cossin": {
@@ -153,6 +155,7 @@
   },
   "Greg Simmons": {
     "age": "<40",
+    "country": "United Kingdom",
     "id": 77
   },
   "Grzegorz Pacewicz": {
@@ -169,6 +172,7 @@
   },
   "Isak Majer": {
     "age": "<40",
+    "country": "Netherlands",
     "id": 9
   },
   "Jae Park": {
@@ -185,10 +189,12 @@
   },
   "Jamie Brady (Deansie)": {
     "age": "<40",
+    "country": "United Kingdom",
     "id": 13
   },
   "Jan Adams-Fielding": {
     "age": "40+",
+    "country": "United Kingdom",
     "id": 18
   },
   "Jang Junho (장준호)": {
@@ -211,6 +217,7 @@
   },
   "Jean van den Bergh": {
     "age": "40+",
+    "country": "Netherlands",
     "id": 45
   },
   "Jeremy Duehring": {
@@ -221,6 +228,7 @@
   },
   "Jo Cocco": {
     "age": "40+",
+    "country": "United Kingdom",
     "id": 20
   },
   "Joffie Berkowitz": {
@@ -237,6 +245,7 @@
   },
   "John Neo Stanley": {
     "age": "50+",
+    "country": "United Kingdom",
     "id": 79,
     "skipDraw": "2020-08-18"
   },
@@ -248,6 +257,7 @@
   },
   "Joshua M. Woodward": {
     "age": "40+",
+    "country": "United States",
     "id": 19
   },
   "Joshua Riegel": {
@@ -279,6 +289,7 @@
   },
   "Leo Arroyo": {
     "age": "40+",
+    "country": "???",
     "id": 88
   },
   "Lisa Kucala": {
@@ -289,6 +300,7 @@
   },
   "Marcel Balzer": {
     "age": "40+",
+    "country": "???",
     "id": 70
   },
   "Marius Rombout Ferreira van Riemsdijk": {
@@ -335,6 +347,7 @@
   },
   "Michael Policastro": {
     "age": "40+",
+    "country": "United States",
     "id": 17
   },
   "Neilimixam Snetrem": {
@@ -351,6 +364,7 @@
   },
   "Nick Agatyn": {
     "age": "<40",
+    "country": "???",
     "id": 87
   },
   "Pete Lee": {
@@ -379,6 +393,7 @@
   },
   "Peyton Blevins": {
     "age": "<30",
+    "country": "United States",
     "id": 16
   },
   "Phil Yu": {
@@ -396,6 +411,7 @@
   },
   "Raimon Schaap": {
     "age": "<30",
+    "country": "Netherlands",
     "id": 47
   },
   "Raúl Morales": {
@@ -415,6 +431,7 @@
     "aliases": [
       "Rob Summerfield"
     ],
+    "country": "United Kingdom",
     "id": 14
   },
   "Ron van Bruchem": {
@@ -425,10 +442,12 @@
   },
   "Scott Archibald": {
     "age": "<40",
+    "country": "???",
     "id": 89
   },
   "Scott Knight": {
     "age": "<40",
+    "country": "United States",
     "id": 75
   },
   "Shawn Boucké": {
@@ -439,6 +458,7 @@
   },
   "Stew Alla": {
     "age": "<40",
+    "country": "???",
     "id": 61
   },
   "Stuart Salmon": {
@@ -464,6 +484,7 @@
     "aliases": [
       "Tim Salay"
     ],
+    "country": "United States",
     "id": 48
   },
   "Tom Doolinski": {
@@ -480,6 +501,7 @@
   },
   "Will Lambert": {
     "age": "<20",
+    "country": "United Kingdom",
     "id": 2
   },
   "Wojciech Poljanowski": {
@@ -490,6 +512,7 @@
   },
   "Yi-Wei Chen": {
     "age": "40+",
+    "country": "Taiwan",
     "id": 74,
     "wcaId": "2020CHEN34"
   },
@@ -501,6 +524,7 @@
   },
   "Zack Âû Black": {
     "age": "<40",
+    "country": "United Kingdom",
     "id": 53
   },
   "Zain Ali": {
@@ -511,6 +535,7 @@
   },
   "Александр Гилка": {
     "age": "50+",
+    "country": "???",
     "id": 49
   }
 }
