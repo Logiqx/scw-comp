@@ -9,20 +9,10 @@ convert -resize 1200x628 -gravity center -extent 1200x628 svg/333fm.svg png/333f
 
 
 
-### Batch Convert SVG to PNG
+### Facebook
 
 ```
 mogrify -format png -path png -resize 900x471 -gravity center -extent 1200x628 svg/*.svg
-```
-
-
-
-### Batch Convert SVG to PNG
-
-Icons for Google Forms.
-
-```
-mogrify -format png -path wide -resize 1200x120 -gravity center -extent 1200x120 svg/*.svg
 ```
 
 
@@ -50,19 +40,9 @@ convert svg/222.svg svg/333.svg svg/444.svg svg/555.svg svg/666.svg svg/777.svg 
 
 
 
-
-
-### Append Images
+### Facebook Events
 
 #### 3x3x3+
-
-```
-convert svg/333.svg svg/222.svg svg/333oh.svg -splice 200x0+0+0 +append -chop 200x0+0+0 -resize 1000x628 -gravity center -extent 1200x628 png/333+.png
-```
-
-```
-convert svg/333.svg svg/222.svg svg/333oh.svg svg/minx.svg -splice 200x0+0+0 +append -chop 200x0+0+0 -resize 1000x628 -gravity center -extent 1200x628 png/333+.png
-```
 
 ```
 convert svg/333.svg svg/222.svg -splice 200x0+0+0 +append -chop 200x0+0+0 png/333+1.png
@@ -81,18 +61,6 @@ convert png/short+1.png png/short+2.png -splice 0x200+0+0 -append -chop 0x200+0+
 #### 4x4x4+
 
 ```
-convert svg/444.svg svg/555.svg -splice 200x0+0+0 +append -chop 200x0+0+0 -resize 1100x628 -gravity center -extent 1200x628 png/444+.png
-```
-
-```
-convert svg/444.svg svg/555.svg svg/666.svg svg/777.svg -splice 200x0+0+0 +append -chop 200x0+0+0 -resize 1100x628 -gravity center -extent 1200x628 png/444+.png
-```
-
-```
-convert svg/444.svg svg/555.svg svg/666.svg svg/777.svg svg/minx.svg -splice 200x0+0+0 +append -chop 200x0+0+0 -resize 1100x628 -gravity center -extent 1200x628 png/444+.png
-```
-
-```
 convert svg/444.svg svg/555.svg -splice 200x0+0+0 +append -chop 200x0+0+0 png/444+1.png
 convert svg/666.svg svg/777.svg -splice 200x0+0+0 +append -chop 200x0+0+0 png/444+2.png
 convert png/444+1.png png/444+2.png -splice 0x200+0+0 -append -chop 0x200+0+0 -bordercolor white -border 100x100 -resize 1000x628 -gravity center -extent 1200x628 png/444+.png
@@ -101,11 +69,7 @@ convert png/444+1.png png/444+2.png -splice 0x200+0+0 -append -chop 0x200+0+0 -b
 #### 3BLD+
 
 ```
-convert svg/333bf.svg svg/444bf.svg svg/555bf.svg -splice 200x0+0+0 +append -chop 200x0+0+0 -resize 1000x628 -gravity center -extent 1200x628 png/333bf+.png
-```
-
-```
-convert svg/333bf.svg -resize 1200x500 -gravity center -extent 1200x500 png/333bf+1.png
+convert svg/333bf.svg svg/333mbf.svg -splice 200x0+0+0 +append -chop 200x0+0+0 png/333bf+1.png
 convert svg/444bf.svg svg/555bf.svg -splice 200x0+0+0 +append -chop 200x0+0+0 png/333bf+2.png
 convert png/333bf+1.png png/333bf+2.png -splice 0x200+0+0 -append -chop 0x200+0+0 -bordercolor white -border 100x100 -resize 1000x628 -gravity center -extent 1200x628 png/333bf+.png
 ```
