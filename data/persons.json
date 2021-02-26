@@ -1,6 +1,7 @@
 {
   "Aaron Cumes": {
     "age": "40+",
+    "country": "United Kingdom",
     "id": 10,
     "wcaId": "2018CUME02"
   },
@@ -10,46 +11,55 @@
   },
   "Alex Friedman": {
     "age": "<40",
+    "country": "Israel",
     "id": 58,
     "wcaId": "2016FRIE06"
   },
   "Amit Sheffer": {
     "age": "<40",
+    "country": "Israel",
     "id": 86,
     "wcaId": "2010SHEF01"
   },
   "Andy Nicholls": {
     "age": "40+",
+    "country": "United Kingdom",
     "id": 23,
     "wcaId": "2015NICH04"
   },
   "Anthony Rochester": {
     "age": "40+",
+    "country": "Australia",
     "id": 57,
     "wcaId": "2019ROCH03"
   },
   "Ben Coppin": {
     "age": "40+",
+    "country": "United Kingdom",
     "id": 37,
     "wcaId": "2013COPP01"
   },
   "Brooke Persoon": {
     "age": "<40",
+    "country": "United States",
     "id": 32,
     "wcaId": "2019PERS01"
   },
   "Chris Hardwick": {
     "age": "<40",
+    "country": "United States",
     "id": 52,
     "wcaId": "2003HARD01"
   },
   "Chris Thames": {
     "age": "<40",
+    "country": "United States",
     "id": 60,
     "wcaId": "2019THAM05"
   },
   "Chris Wright": {
     "age": "50+",
+    "country": "United Kingdom",
     "id": 41,
     "skipDraw": "2020-06-23",
     "wcaId": "2011WRIG01"
@@ -62,31 +72,37 @@
       "Woittequand Christoph",
       "Woittequand"
     ],
+    "country": "France",
     "id": 78,
     "wcaId": "2005WOIT01"
   },
   "Ciro Vignotto": {
     "age": "50+",
+    "country": "Italy",
     "id": 50,
     "wcaId": "2014VIGN02"
   },
   "Daniel Smith": {
     "age": "50+",
+    "country": "United States",
     "id": 26,
     "wcaId": "2018SMIT42"
   },
   "David Burchill": {
     "age": "50+",
+    "country": "Canada",
     "id": 27,
     "wcaId": "2020BURC01"
   },
   "David Roche": {
     "age": "50+",
+    "country": "Australia",
     "id": 38,
     "wcaId": "2014ROCH07"
   },
   "Denis Reimer": {
     "age": "40+",
+    "country": "Canada",
     "id": 81,
     "wcaId": "2016REIM01"
   },
@@ -96,26 +112,31 @@
   },
   "Dylan Cossin": {
     "age": "<20",
+    "country": "United States",
     "id": 72,
     "wcaId": "2016COSS01"
   },
   "Ed Connell": {
     "age": "<40",
+    "country": "Ireland",
     "id": 39,
     "wcaId": "2018CONN04"
   },
   "Enrymar Cisneros": {
     "age": "<40",
+    "country": "Venezuela",
     "id": 76,
     "wcaId": "2013CISN01"
   },
   "Fumiki Koseki": {
     "age": "40+",
+    "country": "Japan",
     "id": 83,
     "wcaId": "2005KOSE01"
   },
   "Geoff Hartnell": {
     "age": "40+",
+    "country": "United Kingdom",
     "id": 6,
     "wcaId": "2017HART06"
   },
@@ -126,6 +147,7 @@
       "Choi Go-ho",
       "Choi Goho"
     ],
+    "country": "Republic of Korea",
     "id": 22,
     "wcaId": "2007GOHO01"
   },
@@ -135,11 +157,13 @@
   },
   "Grzegorz Pacewicz": {
     "age": "40+",
+    "country": "Poland",
     "id": 5,
     "wcaId": "2014PACE01"
   },
   "Huy Nguyen": {
     "age": "40+",
+    "country": "Canada",
     "id": 11,
     "wcaId": "2019NGUY29"
   },
@@ -149,11 +173,13 @@
   },
   "Jae Park": {
     "age": "50+",
+    "country": "United States",
     "id": 12,
     "wcaId": "2015PARK24"
   },
   "Jaidon Adams": {
     "age": "<20",
+    "country": "United Kingdom",
     "id": 1,
     "wcaId": "2018ADAM11"
   },
@@ -167,16 +193,19 @@
   },
   "Jang Junho (장준호)": {
     "age": "40+",
+    "country": "Republic of Korea",
     "id": 35,
     "wcaId": "2014JUNH01"
   },
   "Jason Green": {
     "age": "40+",
+    "country": "United States",
     "id": 33,
     "wcaId": "2016GREE02"
   },
   "Javier Rossi": {
     "age": "50+",
+    "country": "Argentina",
     "id": 56,
     "wcaId": "2017ROSS10"
   },
@@ -186,6 +215,7 @@
   },
   "Jeremy Duehring": {
     "age": "40+",
+    "country": "United States",
     "id": 24,
     "wcaId": "2016DUEH02"
   },
@@ -195,11 +225,13 @@
   },
   "Joffie Berkowitz": {
     "age": "50+",
+    "country": "South Africa",
     "id": 46,
     "wcaId": "2016BERK01"
   },
   "John Cook": {
     "age": "50+",
+    "country": "Australia",
     "id": 40,
     "wcaId": "2018COOK04"
   },
@@ -210,6 +242,7 @@
   },
   "Jonathan Charlesworth": {
     "age": "<20",
+    "country": "Australia",
     "id": 64,
     "wcaId": "2016CHAR01"
   },
@@ -222,21 +255,25 @@
     "aliases": [
       "Joshua David Riegel"
     ],
+    "country": "United States",
     "id": 63,
     "wcaId": "2019RIEG02"
   },
   "Kerrie Jarman": {
     "age": "40+",
+    "country": "Australia",
     "id": 54,
     "wcaId": "2019JARM01"
   },
   "Kerry Go": {
     "age": "50+",
+    "country": "United States",
     "id": 85,
     "wcaId": "2019GOKE01"
   },
   "Konsta Jukka": {
     "age": "40+",
+    "country": "Finland",
     "id": 82,
     "wcaId": "2008JUKK01"
   },
@@ -246,6 +283,7 @@
   },
   "Lisa Kucala": {
     "age": "50+",
+    "country": "United States",
     "id": 30,
     "wcaId": "2019KUCA01"
   },
@@ -255,36 +293,43 @@
   },
   "Marius Rombout Ferreira van Riemsdijk": {
     "age": "40+",
+    "country": "Brazil",
     "id": 90,
     "wcaId": "2014RIEM01"
   },
   "Mark Adams": {
     "age": "40+",
+    "country": "United Kingdom",
     "id": 36,
     "wcaId": "2015ADAM03"
   },
   "Mark Charlesworth": {
     "age": "40+",
+    "country": "Australia",
     "id": 44,
     "wcaId": "2017CHAR16"
   },
   "Mark Rivers": {
     "age": "50+",
+    "country": "United Kingdom",
     "id": 59,
     "wcaId": "2015RIVE05"
   },
   "Markus Niederöst": {
     "age": "50+",
+    "country": "Switzerland",
     "id": 68,
     "wcaId": "2018NIED02"
   },
   "Matthew Hart": {
     "age": "<40",
+    "country": "United Kingdom",
     "id": 25,
     "wcaId": "2019HART11"
   },
   "Michael George": {
     "age": "40+",
+    "country": "United Kingdom",
     "id": 4,
     "wcaId": "2015GEOR02"
   },
@@ -294,11 +339,13 @@
   },
   "Neilimixam Snetrem": {
     "age": "<40",
+    "country": "Belgium",
     "id": 69,
     "wcaId": "2018MERT01"
   },
   "Newton Nguyen": {
     "age": "<10",
+    "country": "Canada",
     "id": 55,
     "wcaId": "2019NGUY30"
   },
@@ -308,21 +355,25 @@
   },
   "Pete Lee": {
     "age": "<40",
+    "country": "United Kingdom",
     "id": 8,
     "wcaId": "2018LEEP04"
   },
   "Peter Andersson": {
     "age": "50+",
+    "country": "Sweden",
     "id": 43,
     "wcaId": "2013ANDE01"
   },
   "Peter Douthwright": {
     "age": "50+",
+    "country": "Canada",
     "id": 28,
     "wcaId": "2007DOUT01"
   },
   "Peter Osudar": {
     "age": "<40",
+    "country": "Canada",
     "id": 71,
     "wcaId": "2017OSUD01"
   },
@@ -332,12 +383,14 @@
   },
   "Phil Yu": {
     "age": "<40",
+    "country": "United States",
     "id": 66,
     "skipDraw": "2020-06-23",
     "wcaId": "2010YUPH01"
   },
   "Pontus Uggla": {
     "age": "40+",
+    "country": "Sweden",
     "id": 7,
     "wcaId": "2014UGGL01"
   },
@@ -347,11 +400,13 @@
   },
   "Raúl Morales": {
     "age": "40+",
+    "country": "Spain",
     "id": 42,
     "wcaId": "2013MORA02"
   },
   "Rob Peters": {
     "age": "40+",
+    "country": "United States",
     "id": 73,
     "wcaId": "2016PETE06"
   },
@@ -364,6 +419,7 @@
   },
   "Ron van Bruchem": {
     "age": "50+",
+    "country": "Netherlands",
     "id": 51,
     "wcaId": "2003BRUC01"
   },
@@ -377,6 +433,7 @@
   },
   "Shawn Boucké": {
     "age": "<40",
+    "country": "United States",
     "id": 21,
     "wcaId": "2016BOUC01"
   },
@@ -386,16 +443,19 @@
   },
   "Stuart Salmon": {
     "age": "40+",
+    "country": "United Kingdom",
     "id": 31,
     "wcaId": "2018SALM01"
   },
   "Thierry Boisivon": {
     "age": "40+",
+    "country": "France",
     "id": 29,
     "wcaId": "2011BOIS01"
   },
   "Timothy Babb": {
     "age": "<30",
+    "country": "Canada",
     "id": 80,
     "wcaId": "2015BABB01"
   },
@@ -408,11 +468,13 @@
   },
   "Tom Doolinski": {
     "age": "<30",
+    "country": "United Kingdom",
     "id": 3,
     "wcaId": "2008DOOL01"
   },
   "Vani Muthukrishnan": {
     "age": "40+",
+    "country": "India",
     "id": 67,
     "wcaId": "2016MUTH05"
   },
@@ -422,6 +484,7 @@
   },
   "Wojciech Poljanowski": {
     "age": "50+",
+    "country": "Poland",
     "id": 84,
     "wcaId": "2010POLJ01"
   },
@@ -432,6 +495,7 @@
   },
   "Yoann Lecoeur": {
     "age": "40+",
+    "country": "France",
     "id": 34,
     "wcaId": "2016LECO01"
   },
@@ -441,6 +505,7 @@
   },
   "Zain Ali": {
     "age": "<20",
+    "country": "India",
     "id": 65,
     "wcaId": "2019BEHZ01"
   },
