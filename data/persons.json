@@ -552,7 +552,8 @@
   "Will Lambert": {
     "age": "<20",
     "country": "United Kingdom",
-    "id": 2
+    "id": 2,
+    "wcaId": "2018LAMB02"
   },
   "Wojciech Poljanowski": {
     "age": "50+",
@@ -586,6 +587,9 @@
   },
   "Александр Гилка": {
     "age": "50+",
+    "aliases": [
+      "Alexander Gilka"
+    ],
     "country": "Ukraine",
     "id": 49
   }
