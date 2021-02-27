@@ -6,6 +6,8 @@
 
 <i class="flag flag-IN" />&nbsp;India
 
+![Vani Muthukrishnan](1551279182.jpg)
+
 #### Square-1 Results
 
 <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

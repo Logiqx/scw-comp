@@ -6,6 +6,8 @@
 
 <i class="flag flag-KR" />&nbsp;Republic of Korea
 
+![Jang Junho (장준호)](1513168942.jpg)
+
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|

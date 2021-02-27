@@ -6,6 +6,8 @@
 
 <i class="flag flag-IL" />&nbsp;Israel
 
+![Amit Sheffer](1535265709.png)
+
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|

@@ -6,6 +6,8 @@
 
 <i class="flag flag-US" />&nbsp;United States
 
+![Chris Thames](1606082430.jpg)
+
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|

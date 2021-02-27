@@ -6,6 +6,8 @@
 
 <i class="flag flag-AU" />&nbsp;Australia
 
+![Anthony Rochester](1556165958.jpg)
+
 #### Square-1 Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

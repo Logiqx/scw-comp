@@ -6,6 +6,8 @@
 
 <i class="flag flag-AU" />&nbsp;Australia
 
+![Kerrie Jarman](1559549947.jpg)
+
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|

@@ -6,6 +6,8 @@
 
 <i class="flag flag-CA" />&nbsp;Canada
 
+![Timothy Babb](1508133115.jpg)
+
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|

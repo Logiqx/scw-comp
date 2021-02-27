@@ -6,6 +6,8 @@
 
 <i class="flag flag-IL" />&nbsp;Israel
 
+![Alex Friedman](1583075012.jpg)
+
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Cups | Achievements|

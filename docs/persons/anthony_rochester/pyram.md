@@ -6,6 +6,8 @@
 
 <i class="flag flag-AU" />&nbsp;Australia
 
+![Anthony Rochester](1556165958.jpg)
+
 #### Pyraminx Results
 
 <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

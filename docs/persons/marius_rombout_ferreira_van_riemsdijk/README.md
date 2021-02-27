@@ -6,6 +6,8 @@
 
 <i class="flag flag-BR" />&nbsp;Brazil
 
+![Marius Rombout Ferreira van Riemsdijk](1532703737.jpeg)
+
 <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Medals | Achievements|

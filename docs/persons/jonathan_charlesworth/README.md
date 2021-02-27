@@ -6,6 +6,8 @@
 
 <i class="flag flag-AU" />&nbsp;Australia
 
+![Jonathan Charlesworth](1610366301.png)
+
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Cups | Achievements|

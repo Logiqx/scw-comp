@@ -6,6 +6,8 @@
 
 <i class="flag flag-IE" />&nbsp;Ireland
 
+![Ed Connell](1583010027.jpg)
+
 #### Clock Results
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

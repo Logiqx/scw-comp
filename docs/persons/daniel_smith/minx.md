@@ -6,6 +6,8 @@
 
 <i class="flag flag-US" />&nbsp;United States
 
+![Daniel Smith](1570678334.png)
+
 #### Megaminx Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

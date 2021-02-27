@@ -6,6 +6,8 @@
 
 <i class="flag flag-US" />&nbsp;United States
 
+![Dylan Cossin](1557022679.jpg)
+
 #### Skewb Results
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

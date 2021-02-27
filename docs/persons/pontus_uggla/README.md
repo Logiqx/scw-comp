@@ -6,6 +6,8 @@
 
 <i class="flag flag-SE" />&nbsp;Sweden
 
+![Pontus Uggla](1568618609.jpeg)
+
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|

@@ -6,6 +6,8 @@
 
 <i class="flag flag-IE" />&nbsp;Ireland
 
+![Ed Connell](1583010027.jpg)
+
 #### Square-1 Results
 
 <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

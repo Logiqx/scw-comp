@@ -6,6 +6,8 @@
 
 <i class="flag flag-CA" />&nbsp;Canada
 
+![Denis Reimer](1593979826.jpeg)
+
 #### Clock Results
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

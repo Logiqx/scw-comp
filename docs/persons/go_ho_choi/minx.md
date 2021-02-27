@@ -6,6 +6,8 @@
 
 <i class="flag flag-KR" />&nbsp;Republic of Korea
 
+![Go-ho Choi](1441150538.jpg)
+
 #### Megaminx Results
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
