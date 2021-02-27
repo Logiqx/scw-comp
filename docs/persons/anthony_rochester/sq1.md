@@ -3,6 +3,9 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Anthony Rochester](README.md) - [2019ROCH03](https://www.worldcubeassociation.org/persons/2019ROCH03?event=sq1)
+
+<i class="flag flag-AU" />&nbsp;Australia
+
 #### Square-1 Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

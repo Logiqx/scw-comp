@@ -3,6 +3,9 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Daniel Smith](README.md) - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42?event=minx)
+
+<i class="flag flag-US" />&nbsp;United States
+
 #### Megaminx Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

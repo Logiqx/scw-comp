@@ -3,6 +3,9 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Ed Connell](README.md) - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=minx)
+
+<i class="flag flag-IE" />&nbsp;Ireland
+
 #### Megaminx Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

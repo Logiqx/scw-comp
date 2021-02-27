@@ -3,6 +3,9 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Daniel Smith](README.md) - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42?event=sq1)
+
+<i class="flag flag-US" />&nbsp;United States
+
 #### Square-1 Results
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

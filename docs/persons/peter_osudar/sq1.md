@@ -3,6 +3,9 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Peter Osudar](README.md) - [2017OSUD01](https://www.worldcubeassociation.org/persons/2017OSUD01?event=sq1)
+
+<i class="flag flag-CA" />&nbsp;Canada
+
 #### Square-1 Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

@@ -3,6 +3,9 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Aaron Cumes](README.md) - [2018CUME02](https://www.worldcubeassociation.org/persons/2018CUME02?event=skewb)
+
+<i class="flag flag-GB" />&nbsp;United Kingdom
+
 #### Skewb Results
 
 <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

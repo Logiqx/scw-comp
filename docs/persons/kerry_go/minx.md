@@ -3,6 +3,9 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Kerry Go](README.md) - [2019GOKE01](https://www.worldcubeassociation.org/persons/2019GOKE01?event=minx)
+
+<i class="flag flag-US" />&nbsp;United States
+
 #### Megaminx Results
 
 <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

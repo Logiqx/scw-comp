@@ -3,6 +3,9 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Peter Osudar](README.md) - [2017OSUD01](https://www.worldcubeassociation.org/persons/2017OSUD01?event=skewb)
+
+<i class="flag flag-CA" />&nbsp;Canada
+
 #### Skewb Results
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

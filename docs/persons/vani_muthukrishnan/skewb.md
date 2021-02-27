@@ -3,6 +3,9 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Vani Muthukrishnan](README.md) - [2016MUTH05](https://www.worldcubeassociation.org/persons/2016MUTH05?event=skewb)
+
+<i class="flag flag-IN" />&nbsp;India
+
 #### Skewb Results
 
 <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

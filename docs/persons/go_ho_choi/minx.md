@@ -3,6 +3,9 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Go-ho Choi](README.md) - [2007GOHO01](https://www.worldcubeassociation.org/persons/2007GOHO01?event=minx)
+
+<i class="flag flag-KR" />&nbsp;Republic of Korea
+
 #### Megaminx Results
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

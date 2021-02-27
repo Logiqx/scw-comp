@@ -3,6 +3,9 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Enrymar Cisneros](README.md) - [2013CISN01](https://www.worldcubeassociation.org/persons/2013CISN01?event=skewb)
+
+<i class="flag flag-VE" />&nbsp;Venezuela
+
 #### Skewb Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

@@ -3,6 +3,9 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Joshua Riegel](README.md) - [2019RIEG02](https://www.worldcubeassociation.org/persons/2019RIEG02?event=pyram)
+
+<i class="flag flag-US" />&nbsp;United States
+
 #### Pyraminx Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

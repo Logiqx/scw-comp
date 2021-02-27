@@ -3,6 +3,9 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Chris Thames](README.md) - [2019THAM05](https://www.worldcubeassociation.org/persons/2019THAM05?event=skewb)
+
+<i class="flag flag-US" />&nbsp;United States
+
 #### Skewb Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

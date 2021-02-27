@@ -3,6 +3,9 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Ed Connell](README.md) - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04?event=clock)
+
+<i class="flag flag-IE" />&nbsp;Ireland
+
 #### Clock Results
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
