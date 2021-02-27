@@ -34,9 +34,9 @@
 
 <span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/444.md) 55.74</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444.md) 1:06.25</span>, <span style="white-space: nowrap;">🥉 [Aaron Cumes](../../persons/aaron_cumes/444.md) 1:09.72</span>
 
-🔥 x 3 = <span style="white-space: nowrap;">[Aaron Cumes](../../persons/aaron_cumes/444.md) 1:09.72</span>, <span style="white-space: nowrap;">[Scott Archibald](../../persons/scott_archibald/444.md) 1:40.28</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/444.md) 1:46.85</span>
+🔥 x 3 = <span style="white-space: nowrap;">[Aaron Cumes](../../persons/aaron_cumes/444.md) 1:09.72</span>, <span style="white-space: nowrap;">[Scott Knight](../../persons/scott_knight/444.md) 1:40.28</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/444.md) 1:46.85</span>
 
-⚡ x 2 = <span style="white-space: nowrap;">[Scott Archibald](../../persons/scott_archibald/444.md) 1:33.19</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/444.md) 1:38.64</span>
+⚡ x 2 = <span style="white-space: nowrap;">[Scott Knight](../../persons/scott_knight/444.md) 1:33.19</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/444.md) 1:38.64</span>
 
 #### [5x5x5](555.md)
 

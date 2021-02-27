@@ -72,8 +72,7 @@
 | [Neilimixam Snetrem](../../persons/neilimixam_snetrem/444.md) | <40 | 1:08.70 | 1:24.75 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/444.md) | <40 | 54.90 | 1:04.39 |  |  | 🔥 x 7, ⚡ x 8 |
 | [Peter Osudar](../../persons/peter_osudar/444.md) | <40 | 1:29.48 | 1:35.22 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Scott Archibald](../../persons/scott_archibald/444.md) | <40 | 1:33.19 | 1:40.28 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Scott Knight](../../persons/scott_knight/444.md) | <40 | 1:58.48 | 2:01.39 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Scott Knight](../../persons/scott_knight/444.md) | <40 | 1:33.19 | 1:40.28 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Shawn Boucké](../../persons/shawn_boucke/444.md) | <40 | 43.27 | 49.51 | 🏆 x 14 |  | 💥 x 1, 🔥 x 1, ⚡ x 7 |
 
 #### Under 30
