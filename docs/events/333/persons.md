@@ -108,7 +108,7 @@
 | [Phil Yu](../../persons/phil_yu/333.md) | <40 | <i class="flag flag-US" /> | 8.12 | 9.64 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Scott Knight](../../persons/scott_knight/333.md) | <40 | <i class="flag flag-GB" /> | 26.57 | 33.40 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Shawn Boucké](../../persons/shawn_boucke/333.md) | <40 | <i class="flag flag-US" /> | 10.19 | 13.04 | 🏆 x 9 |  | 💥 x 2, 🔥 x 3, ⚡ x 2 |
-| [Stew Alla](../../persons/stew_alla/333.md) | <40 | | 20.69 | 23.27 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Stew Alla](../../persons/stew_alla/333.md) | <40 | <i class="flag flag-GB" /> | 20.69 | 23.27 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Zack Âû Black](../../persons/zack_au_black/333.md) | <40 | <i class="flag flag-GB" /> | 15.72 | 21.80 |  |  | 🔥 x 2, ⚡ x 2 |
 
 #### Under 30
