@@ -1,4 +1,5 @@
 <style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Aaron Cumes](README.md) - [2018CUME02](https://www.worldcubeassociation.org/persons/2018CUME02?event=skewb)

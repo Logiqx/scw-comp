@@ -1,7 +1,10 @@
 <style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Robert Summerfield
+
+<i class="flag flag-GB" />&nbsp;United Kingdom
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 

@@ -1,7 +1,10 @@
 <style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Aaron Cumes - [2018CUME02](https://www.worldcubeassociation.org/persons/2018CUME02)
+
+<i class="flag flag-GB" />&nbsp;United Kingdom
 
 <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 

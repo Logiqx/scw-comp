@@ -1,4 +1,5 @@
 <style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Anthony Rochester](README.md) - [2019ROCH03](https://www.worldcubeassociation.org/persons/2019ROCH03?event=minx)

@@ -1,4 +1,5 @@
 <style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Daniel Smith](README.md) - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42?event=clock)

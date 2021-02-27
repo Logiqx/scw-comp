@@ -1,4 +1,5 @@
 <style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Andy Nicholls](README.md) - [2015NICH04](https://www.worldcubeassociation.org/persons/2015NICH04?event=clock)

@@ -1,7 +1,10 @@
 <style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Joffie Berkowitz - [2016BERK01](https://www.worldcubeassociation.org/persons/2016BERK01)
+
+<i class="flag flag-ZA" />&nbsp;South Africa
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 

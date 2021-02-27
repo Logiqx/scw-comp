@@ -1,4 +1,5 @@
 <style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Peter Andersson](README.md) - [2013ANDE01](https://www.worldcubeassociation.org/persons/2013ANDE01?event=clock)

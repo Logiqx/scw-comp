@@ -1,7 +1,10 @@
 <style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Mark Charlesworth - [2017CHAR16](https://www.worldcubeassociation.org/persons/2017CHAR16)
+
+<i class="flag flag-AU" />&nbsp;Australia
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 

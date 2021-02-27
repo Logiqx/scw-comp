@@ -1,4 +1,5 @@
 <style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Vani Muthukrishnan](README.md) - [2016MUTH05](https://www.worldcubeassociation.org/persons/2016MUTH05?event=skewb)

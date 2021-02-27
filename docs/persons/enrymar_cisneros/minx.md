@@ -1,4 +1,5 @@
 <style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Enrymar Cisneros](README.md) - [2013CISN01](https://www.worldcubeassociation.org/persons/2013CISN01?event=minx)

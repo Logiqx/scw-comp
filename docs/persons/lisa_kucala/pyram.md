@@ -1,4 +1,5 @@
 <style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Lisa Kucala](README.md) - [2019KUCA01](https://www.worldcubeassociation.org/persons/2019KUCA01?event=pyram)
