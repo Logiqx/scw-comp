@@ -8,9 +8,9 @@
 
 #### Under 40
 
-| # | Name | Date | Age | Average | Cups | Medals | Achievements | Video |
-| :--: | :-- | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Chris Hardwick](../../persons/chris_hardwick/444bf.md) | [2020-09-22](../../results/2020-09-22/444bf.md) | <40 | 5:54.69 | 🏆 x 5 |  | 💥 x 4, 🔥 x 3, ⚡ x 7 | [Desktop](https://www.facebook.com/events/4389765994427083/permalink/4395229370547412) / [Mobile](https://m.facebook.com/events/4389765994427083?view=permalink&id=4395229370547412) |
+| # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
+| :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
+| 1 | [Chris Hardwick](../../persons/chris_hardwick/444bf.md) | [2020-09-22](../../results/2020-09-22/444bf.md) | <40 | <i class="flag flag-US" /> | 5:54.69 | 🏆 x 5 |  | 💥 x 4, 🔥 x 3, ⚡ x 7 | [Desktop](https://www.facebook.com/events/4389765994427083/permalink/4395229370547412) / [Mobile](https://m.facebook.com/events/4389765994427083?view=permalink&id=4395229370547412) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
