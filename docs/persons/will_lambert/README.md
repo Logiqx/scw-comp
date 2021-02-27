@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Will Lambert
+### Will Lambert - [2018LAMB02](https://www.worldcubeassociation.org/persons/2018LAMB02)
 
 <i class="flag flag-GB" />&nbsp;United Kingdom
 
