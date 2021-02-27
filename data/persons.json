@@ -440,13 +440,11 @@
     "id": 51,
     "wcaId": "2003BRUC01"
   },
-  "Scott Archibald": {
-    "age": "<40",
-    "country": "???",
-    "id": 89
-  },
   "Scott Knight": {
     "age": "<40",
+    "aliases": [
+      "Scott Archibald"
+    ],
     "country": "United Kingdom",
     "id": 75
   },
@@ -535,7 +533,7 @@
   },
   "Александр Гилка": {
     "age": "50+",
-    "country": "???",
+    "country": "Ukraine",
     "id": 49
   }
 }
