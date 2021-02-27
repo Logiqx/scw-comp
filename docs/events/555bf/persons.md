@@ -8,22 +8,22 @@
 
 #### Over 50
 
-| Name | Age | Single | Average | Cups | Medals | Achievements |
-| :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Jae Park](../../persons/jae_park/555bf.md) | 50+ | 12:53.41 | DNF | 🏆 x 14 | 🥇 x 22 | 💥 x 6, ⚡ x 6 |
+| Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
+| :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
+| [Jae Park](../../persons/jae_park/555bf.md) | 50+ | <i class="flag flag-US" /> | 12:53.41 | DNF | 🏆 x 14 | 🥇 x 22 | 💥 x 6, ⚡ x 6 |
 
 #### Over 40
 
-| Name | Age | Single | Average | Cups | Medals | Achievements |
-| :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Andy Nicholls](../../persons/andy_nicholls/555bf.md) | 40+ | 23:35.85 | DNF |  | 🥇 x 1, 🥈 x 2 | ⚡ x 2 |
-| [Jae Park](../../persons/jae_park/555bf.md) | 50+ | 12:10.99 | DNF | 🏆 x 14 | 🥇 x 22 | 💥 x 6, ⚡ x 6 |
+| Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
+| :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
+| [Andy Nicholls](../../persons/andy_nicholls/555bf.md) | 40+ | <i class="flag flag-GB" /> | 23:35.85 | DNF |  | 🥇 x 1, 🥈 x 2 | ⚡ x 2 |
+| [Jae Park](../../persons/jae_park/555bf.md) | 50+ | <i class="flag flag-US" /> | 12:10.99 | DNF | 🏆 x 14 | 🥇 x 22 | 💥 x 6, ⚡ x 6 |
 
 #### Under 40
 
-| Name | Age | Single | Average | Cups | Medals | Achievements |
-| :-- | :--: | --: | --: | :--: | :-- | :-- |
-| [Chris Hardwick](../../persons/chris_hardwick/555bf.md) | <40 | 11:13.56 | 13:17.89 | 🏆 x 14 |  | 💥 x 5, 🔥 x 3, ⚡ x 3 |
+| Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
+| :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
+| [Chris Hardwick](../../persons/chris_hardwick/555bf.md) | <40 | <i class="flag flag-US" /> | 11:13.56 | 13:17.89 | 🏆 x 14 |  | 💥 x 5, 🔥 x 3, ⚡ x 3 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
