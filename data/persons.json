@@ -27,6 +27,9 @@
   },
   "Andy Nicholls": {
     "age": "40+",
+    "aliases": [
+      "AJ Nicholls"
+    ],
     "avatar": "1467286011.jpg",
     "country": "United Kingdom",
     "id": 23,
@@ -96,6 +99,9 @@
   },
   "Daniel Smith": {
     "age": "50+",
+    "aliases": [
+      "Dan Smith"
+    ],
     "avatar": "1570678334.png",
     "country": "United States",
     "id": 26,
@@ -214,6 +220,10 @@
   },
   "Jamie Brady (Deansie)": {
     "age": "<40",
+    "aliases": [
+      "Jamie Brady",
+      "Deansie Brady"
+    ],
     "country": "United Kingdom",
     "id": 13
   },
@@ -288,6 +298,10 @@
   },
   "Joshua M. Woodward": {
     "age": "40+",
+    "aliases": [
+      "Joshua M Woodward",
+      "Joshua Woodward"
+    ],
     "country": "United States",
     "id": 19
   },
@@ -390,6 +404,9 @@
   },
   "Neilimixam Snetrem": {
     "age": "<40",
+    "aliases": [
+      "Maximilien Mertens"
+    ],
     "avatar": "1600985063.jpg",
     "country": "Belgium",
     "id": 69,
@@ -430,6 +447,9 @@
   },
   "Peter Osudar": {
     "age": "<40",
+    "aliases": [
+      "Peter Michael"
+    ],
     "avatar": "1560125714.JPG",
     "country": "Canada",
     "id": 71,
