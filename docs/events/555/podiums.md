@@ -3,6 +3,7 @@
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### 5x5x5 Senior Podiums
+
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 #### [2021-02-24](../../results/2021-02-24/555.md)
