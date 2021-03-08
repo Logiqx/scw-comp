@@ -5,6 +5,14 @@
 ### 3x3x3 One-Handed Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-24](../../results/2021-02-24/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 20.08 | 23.67 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/264199631979561/permalink/272114027854788) / [Mobile](https://m.facebook.com/events/264199631979561?view=permalink&id=272114027854788) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 25.31 | 27.24 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/264199631979561/permalink/265961638470027) / [Mobile](https://m.facebook.com/events/264199631979561?view=permalink&id=265961638470027) |
+| 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 36.70 | 42.43 | 🥉 | [Desktop](https://www.facebook.com/events/264199631979561/permalink/272279781171546) / [Mobile](https://m.facebook.com/events/264199631979561?view=permalink&id=272279781171546) |
+
 #### [2021-02-17](../../results/2021-02-17/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

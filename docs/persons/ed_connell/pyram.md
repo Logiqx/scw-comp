@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2021-02-24](../../results/2021-02-24/pyram.md) | <40 | 11.98 | 12.64 |  | 11.98 | 12.80 | 12.32 | 19.19 | 12.80 | [Desktop](https://www.facebook.com/events/699856724029067/permalink/705690573445682) / [Mobile](https://m.facebook.com/events/699856724029067?view=permalink&id=705690573445682) |
 | [2021-02-09](../../results/2021-02-09/pyram.md) | <40 | 9.85 | 12.60 |  | 10.66 | 20.88 | 9.85 | 15.07 | 12.06 | [Desktop](https://www.facebook.com/events/466529388059949/permalink/470221034357451) / [Mobile](https://m.facebook.com/events/466529388059949?view=permalink&id=470221034357451) |
 | [2020-12-22](../../results/2020-12-22/pyram.md) | <40 | 9.56 | 12.64 |  | 12.83 | 10.26 | 14.82 | 9.56 | 18.79 | [Desktop](https://www.facebook.com/events/415132489930417/permalink/419691649474501) / [Mobile](https://m.facebook.com/events/415132489930417?view=permalink&id=419691649474501) |
 | [2020-12-08](../../results/2020-12-08/pyram.md) | <40 | **5.89** | 11.29 | ⚡ | 13.77 | 12.54 | 9.16 | 12.16 | **5.89** | [Desktop](https://www.facebook.com/events/728219131442079/permalink/731404011123591) / [Mobile](https://m.facebook.com/events/728219131442079?view=permalink&id=731404011123591) |

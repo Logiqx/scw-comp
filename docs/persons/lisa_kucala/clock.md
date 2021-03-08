@@ -8,10 +8,11 @@
 
 #### Clock Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2021-02-24](../../results/2021-02-24/clock.md) | 50+ | **12.96** | 14.99 | 🏆 🥇 💥 ⚡ | 13.29 | **12.96** | 20.61 | 15.29 | 16.39 | [Desktop](https://www.facebook.com/events/699856724029067/permalink/706262566721816) / [Mobile](https://m.facebook.com/events/699856724029067?view=permalink&id=706262566721816) |
 | [2021-02-17](../../results/2021-02-17/clock.md) | 50+ | **13.48** | 15.42 | 🥈 💥 ⚡ | **13.48** | 15.50 | 15.50 | 21.70 | 15.25 | [Desktop](https://www.facebook.com/events/1168738433581570/permalink/1170902360031844) / [Mobile](https://m.facebook.com/events/1168738433581570?view=permalink&id=1170902360031844) |
 | [2021-02-02](../../results/2021-02-02/clock.md) | 50+ | **14.31** | **14.60** | 🥈 💥 🔥 ⚡ | 14.46 | **14.31** | 16.07 | 14.62 | 14.72 | [Desktop](https://www.facebook.com/events/706077650319450/permalink/709813966612485) / [Mobile](https://m.facebook.com/events/706077650319450?view=permalink&id=709813966612485) |
 | [2021-01-26](../../results/2021-01-26/clock.md) | 50+ | 15.56 | 16.33 | 🥉 | 15.61 | 16.28 | 27.41 | 15.56 | 17.11 | [Desktop](https://www.facebook.com/events/1092517657841225/permalink/1096986474061010) / [Mobile](https://m.facebook.com/events/1092517657841225?view=permalink&id=1096986474061010) |

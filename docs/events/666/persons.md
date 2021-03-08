@@ -30,7 +30,7 @@
 | [Daniel Smith](../../persons/daniel_smith/666.md) | 50+ | <i class="flag flag-US" /> | 5:28.23 | 5:54.57 |  | 🥈 x 1, 🥉 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/666.md) | 60+ | <i class="flag flag-US" /> | 12:04.43 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/666.md) | 40+ | <i class="flag flag-JP" /> | 2:38.63 | 2:44.23 | 🏆 x 24 | 🥇 x 24 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | <i class="flag flag-GB" /> | 3:26.58 | 3:42.18 | 🏆 x 3 | 🥇 x 5, 🥈 x 22, 🥉 x 2 | 🔥 x 5, ⚡ x 4 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | <i class="flag flag-GB" /> | 3:26.58 | 3:42.18 | 🏆 x 3 | 🥇 x 6, 🥈 x 22, 🥉 x 2 | 🔥 x 5, ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/666.md) | 40+ | <i class="flag flag-US" /> | 12:20.61 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/666.md) | 40+ | <i class="flag flag-US" /> | 5:06.63 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 | [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | <i class="flag flag-FI" /> | 3:13.39 | 3:23.10 |  | 🥇 x 1, 🥈 x 7 | 🔥 x 5, ⚡ x 4 |
@@ -45,7 +45,7 @@
 | [Ed Connell](../../persons/ed_connell/666.md) | <40 | <i class="flag flag-IE" /> | 5:56.45 | DNF |  |  | ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | <40 | <i class="flag flag-VE" /> | 3:11.15 | 3:34.03 | 🏆 x 3 |  | 🔥 x 5, ⚡ x 8 |
 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | <40 | <i class="flag flag-KR" /> | 2:37.68 | 2:40.63 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Pete Lee](../../persons/pete_lee/666.md) | <40 | <i class="flag flag-GB" /> | 3:34.30 | 3:39.61 |  |  | 🔥 x 7, ⚡ x 13 |
+| [Pete Lee](../../persons/pete_lee/666.md) | <40 | <i class="flag flag-GB" /> | 3:31.10 | 3:39.61 | 🏆 x 1 |  | 🔥 x 7, ⚡ x 14 |
 | [Peter Osudar](../../persons/peter_osudar/666.md) | <40 | <i class="flag flag-CA" /> | 4:08.97 | 4:43.11 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 30

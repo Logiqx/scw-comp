@@ -5,6 +5,14 @@
 ### Pyraminx Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-24](../../results/2021-02-24/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) | 40+ | <i class="flag flag-IN" /> | 7.13 | 8.81 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/699856724029067/permalink/704807410200665) / [Mobile](https://m.facebook.com/events/699856724029067?view=permalink&id=704807410200665) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 10.86 | 13.22 | 🥈 | [Desktop](https://www.facebook.com/events/699856724029067/permalink/706336973381042) / [Mobile](https://m.facebook.com/events/699856724029067?view=permalink&id=706336973381042) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 12.00 | 15.21 | 🥉 | [Desktop](https://www.facebook.com/events/699856724029067/permalink/706260696722003) / [Mobile](https://m.facebook.com/events/699856724029067?view=permalink&id=706260696722003) |
+
 #### [2021-02-17](../../results/2021-02-17/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -11,8 +11,8 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Daniel Smith](../../persons/daniel_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 25.80 | 27.90 |  | 🥈 x 1, 🥉 x 3 | 🔥 x 2, ⚡ x 2 |
-| [Jae Park](../../persons/jae_park/clock.md) | 50+ | <i class="flag flag-US" /> | 27.61 | 32.22 |  | 🥈 x 1, 🥉 x 5 | 🔥 x 6, ⚡ x 6 |
-| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 13.48 | 14.60 |  | 🥇 x 2, 🥈 x 13, 🥉 x 3 | 💥 x 11, 🔥 x 8, ⚡ x 10 |
+| [Jae Park](../../persons/jae_park/clock.md) | 50+ | <i class="flag flag-US" /> | 24.69 | 31.52 |  | 🥈 x 2, 🥉 x 5 | 🔥 x 7, ⚡ x 7 |
+| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 12.96 | 14.60 | 🏆 x 1 | 🥇 x 3, 🥈 x 13, 🥉 x 3 | 💥 x 12, 🔥 x 8, ⚡ x 11 |
 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | <i class="flag flag-SE" /> | 25.94 | 34.18 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Over 40
@@ -26,9 +26,9 @@
 | [Denis Reimer](../../persons/denis_reimer/clock.md) | 40+ | <i class="flag flag-CA" /> | 17.23 | 21.16 | 🏆 x 1 | 🥇 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | <i class="flag flag-JP" /> | 9.45 | 11.24 | 🏆 x 10 | 🥇 x 24 | 💥 x 5, 🔥 x 6, ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/clock.md) | 40+ | <i class="flag flag-PL" /> | 26.90 | 43.62 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Jae Park](../../persons/jae_park/clock.md) | 50+ | <i class="flag flag-US" /> | 27.61 | 32.22 |  | 🥈 x 1, 🥉 x 5 | 🔥 x 6, ⚡ x 6 |
+| [Jae Park](../../persons/jae_park/clock.md) | 50+ | <i class="flag flag-US" /> | 24.69 | 31.52 |  | 🥈 x 2, 🥉 x 5 | 🔥 x 7, ⚡ x 7 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/clock.md) | 40+ | <i class="flag flag-GB" /> | 32.81 | 37.15 |  | 🥇 x 2, 🥈 x 1, 🥉 x 3 | 🔥 x 3, ⚡ x 3 |
-| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 13.48 | 14.60 |  | 🥇 x 2, 🥈 x 13, 🥉 x 3 | 💥 x 11, 🔥 x 8, ⚡ x 10 |
+| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 12.96 | 14.60 | 🏆 x 1 | 🥇 x 3, 🥈 x 13, 🥉 x 3 | 💥 x 12, 🔥 x 8, ⚡ x 11 |
 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | <i class="flag flag-SE" /> | 25.94 | 34.18 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40

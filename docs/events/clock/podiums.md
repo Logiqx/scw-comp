@@ -5,6 +5,13 @@
 ### Clock Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-24](../../results/2021-02-24/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 12.96 | 14.99 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/699856724029067/permalink/706262566721816) / [Mobile](https://m.facebook.com/events/699856724029067?view=permalink&id=706262566721816) |
+| 2 | [Jae Park](../../persons/jae_park/clock.md) | 50+ | <i class="flag flag-US" /> | 24.69 | 31.52 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/699856724029067/permalink/704607613553978) / [Mobile](https://m.facebook.com/events/699856724029067?view=permalink&id=704607613553978) |
+
 #### [2021-02-17](../../results/2021-02-17/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

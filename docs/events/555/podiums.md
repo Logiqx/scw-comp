@@ -5,6 +5,14 @@
 ### 5x5x5 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-24](../../results/2021-02-24/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 2:22.31 | 2:29.38 | 🥇 | [Desktop](https://www.facebook.com/events/256148192722702/permalink/257591695911685) / [Mobile](https://m.facebook.com/events/256148192722702?view=permalink&id=257591695911685) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | <i class="flag flag-TW" /> | 2:34.98 | 2:41.63 | 🥈 | [Desktop](https://www.facebook.com/events/256148192722702/permalink/258661835804671) / [Mobile](https://m.facebook.com/events/256148192722702?view=permalink&id=258661835804671) |
+| 3 | [Jae Park](../../persons/jae_park/555.md) | 50+ | <i class="flag flag-US" /> | 4:09.44 | 4:32.93 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/256148192722702/permalink/258882652449256) / [Mobile](https://m.facebook.com/events/256148192722702?view=permalink&id=258882652449256) |
+
 #### [2021-02-17](../../results/2021-02-17/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

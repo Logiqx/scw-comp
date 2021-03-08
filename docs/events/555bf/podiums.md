@@ -5,6 +5,12 @@
 ### 5x5x5 Blindfolded Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-24](../../results/2021-02-24/555bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/555bf.md) | 50+ | <i class="flag flag-US" /> | 14:38.37 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/860999258013341/permalink/865595654220368) / [Mobile](https://m.facebook.com/events/860999258013341?view=permalink&id=865595654220368) |
+
 
 
 #### [2021-01-26](../../results/2021-01-26/555bf.md)

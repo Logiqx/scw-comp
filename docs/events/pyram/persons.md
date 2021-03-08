@@ -10,8 +10,8 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.91 | 🏆 x 1 | 🥇 x 2, 🥈 x 30, 🥉 x 4 | 💥 x 6, 🔥 x 4, ⚡ x 3 |
-| [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 8.37 | 12.03 |  | 🥈 x 2, 🥉 x 15 | 🔥 x 4, ⚡ x 2 |
+| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.91 | 🏆 x 1 | 🥇 x 2, 🥈 x 31, 🥉 x 4 | 💥 x 6, 🔥 x 4, ⚡ x 3 |
+| [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 8.37 | 12.03 |  | 🥈 x 2, 🥉 x 16 | 🔥 x 4, ⚡ x 2 |
 
 #### Over 40
 
@@ -19,14 +19,14 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | 40+ | <i class="flag flag-GB" /> | 11.80 | 13.95 |  | 🥈 x 1, 🥉 x 5 | 🔥 x 2, ⚡ x 4 |
 | [Anthony Rochester](../../persons/anthony_rochester/pyram.md) | 40+ | <i class="flag flag-AU" /> | 12.66 | 14.29 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.91 | 🏆 x 1 | 🥇 x 2, 🥈 x 30, 🥉 x 4 | 💥 x 6, 🔥 x 4, ⚡ x 3 |
+| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.91 | 🏆 x 1 | 🥇 x 2, 🥈 x 31, 🥉 x 4 | 💥 x 6, 🔥 x 4, ⚡ x 3 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) | 40+ | <i class="flag flag-JP" /> | 4.02 | 6.32 | 🏆 x 24 | 🥇 x 24 | 💥 x 2, 🔥 x 5, ⚡ x 5 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/pyram.md) | 40+ | <i class="flag flag-GB" /> | 19.74 | 24.12 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 8.37 | 12.03 |  | 🥈 x 2, 🥉 x 15 | 🔥 x 4, ⚡ x 2 |
+| [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 8.37 | 12.03 |  | 🥈 x 2, 🥉 x 16 | 🔥 x 4, ⚡ x 2 |
 | [Marcel Balzer](../../persons/marcel_balzer/pyram.md) | 40+ | <i class="flag flag-DE" /> | 10.03 | 16.55 |  | 🥉 x 3 | 🔥 x 4, ⚡ x 3 |
 | [Michael George](../../persons/michael_george/pyram.md) | 40+ | <i class="flag flag-GB" /> | 4.50 | 5.56 | 🏆 x 9 | 🥇 x 10 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/pyram.md) | 40+ | <i class="flag flag-FR" /> | 7.44 | 9.77 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) | 40+ | <i class="flag flag-IN" /> | 8.72 | 9.41 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) | 40+ | <i class="flag flag-IN" /> | 7.13 | 8.81 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 
 #### Under 40
 

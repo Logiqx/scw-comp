@@ -5,6 +5,14 @@
 ### 3x3x3 Fewest Moves Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-24](../../results/2021-02-24/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) | 40+ | <i class="flag flag-PL" /> | 24 | 28.00 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/169585158108640/permalink/174697974264025) / [Mobile](https://m.facebook.com/events/169585158108640?view=permalink&id=174697974264025) |
+| 2 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | <i class="flag flag-GB" /> | 26 | 31.00 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/169585158108640/permalink/170470204686802) / [Mobile](https://m.facebook.com/events/169585158108640?view=permalink&id=170470204686802) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/333fm.md) | 40+ | <i class="flag flag-AU" /> | 43 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/169585158108640/permalink/171710494562773) / [Mobile](https://m.facebook.com/events/169585158108640?view=permalink&id=171710494562773) |
+
 #### [2021-02-17](../../results/2021-02-17/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

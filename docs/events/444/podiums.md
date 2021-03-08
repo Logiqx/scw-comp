@@ -5,6 +5,14 @@
 ### 4x4x4 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-24](../../results/2021-02-24/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Aaron Cumes](../../persons/aaron_cumes/444.md) | 40+ | <i class="flag flag-GB" /> | 1:02.63 | 1:11.32 | 🥇 | [Desktop](https://www.facebook.com/events/256148192722702/permalink/258911549113033) / [Mobile](https://m.facebook.com/events/256148192722702?view=permalink&id=258911549113033) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | <i class="flag flag-GB" /> | 1:02.07 | 1:11.89 | 🥈 | [Desktop](https://www.facebook.com/events/256148192722702/permalink/257598262577695) / [Mobile](https://m.facebook.com/events/256148192722702?view=permalink&id=257598262577695) |
+| 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/444.md) | 40+ | <i class="flag flag-TW" /> | 1:07.89 | 1:16.52 | 🥉 | [Desktop](https://www.facebook.com/events/256148192722702/permalink/258661555804699) / [Mobile](https://m.facebook.com/events/256148192722702?view=permalink&id=258661555804699) |
+
 #### [2021-02-17](../../results/2021-02-17/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

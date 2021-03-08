@@ -5,6 +5,12 @@
 ### 7x7x7 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-24](../../results/2021-02-24/777.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | <i class="flag flag-GB" /> | 5:20.86 | 5:36.50 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/256148192722702/permalink/257672249236963) / [Mobile](https://m.facebook.com/events/256148192722702?view=permalink&id=257672249236963) |
+
 #### [2021-02-17](../../results/2021-02-17/777.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

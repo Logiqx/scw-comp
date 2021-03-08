@@ -5,6 +5,14 @@
 ### 3x3x3 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-24](../../results/2021-02-24/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | <i class="flag flag-FI" /> | 10.45 | 11.13 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/264199631979561/permalink/272114027854788) / [Mobile](https://m.facebook.com/events/264199631979561?view=permalink&id=272114027854788) |
+| 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | <i class="flag flag-PL" /> | 15.41 | 16.52 | 🥈 | [Desktop](https://www.facebook.com/events/264199631979561/permalink/271962437869947) / [Mobile](https://m.facebook.com/events/264199631979561?view=permalink&id=271962437869947) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | <i class="flag flag-GB" /> | 15.16 | 18.05 | 🥉 | [Desktop](https://www.facebook.com/events/264199631979561/permalink/265968548469336) / [Mobile](https://m.facebook.com/events/264199631979561?view=permalink&id=265968548469336) |
+
 #### [2021-02-17](../../results/2021-02-17/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

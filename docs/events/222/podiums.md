@@ -5,6 +5,14 @@
 ### 2x2x2 Senior Podiums
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-02-24](../../results/2021-02-24/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | <i class="flag flag-FI" /> | 3.32 | 5.79 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/264199631979561/permalink/272114027854788) / [Mobile](https://m.facebook.com/events/264199631979561?view=permalink&id=272114027854788) |
+| 2 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/222.md) | 40+ | <i class="flag flag-IN" /> | 6.23 | 7.05 | 🥈 | [Desktop](https://www.facebook.com/events/264199631979561/permalink/269081578158033) / [Mobile](https://m.facebook.com/events/264199631979561?view=permalink&id=269081578158033) |
+| 3 | [Aaron Cumes](../../persons/aaron_cumes/222.md) | 40+ | <i class="flag flag-GB" /> | 7.74 | 8.49 | 🥉 | [Desktop](https://www.facebook.com/events/264199631979561/permalink/267456714987186) / [Mobile](https://m.facebook.com/events/264199631979561?view=permalink&id=267456714987186) |
+
 #### [2021-02-17](../../results/2021-02-17/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
