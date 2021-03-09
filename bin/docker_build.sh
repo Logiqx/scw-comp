@@ -8,6 +8,9 @@ IMAGE_TAG=$(git rev-parse --short=12 HEAD)
 # Docker Build
 DOCKER_BUILDKIT=1 docker build . --file Dockerfile --build-arg LOGIQX_DEBUG -t $IMAGE_NAME:$IMAGE_TAG
 
+# Run unit tests
+run_py_script Common_Functions.py
+
 # Refresh Scrambles
 run_py_script Weekly_Scrambles.py
 
