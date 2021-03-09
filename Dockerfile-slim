@@ -1,6 +1,6 @@
 # Base image versions
 ARG NOTEBOOK_VERSION=c39518a3252f
-ARG PYTHON_VERSION=3.8
+ARG PYTHON_VERSION=3.9
 ARG DEBIAN_VERSION=buster
 
 # Jupyter notebook image is used as the builder
