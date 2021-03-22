@@ -18,6 +18,8 @@ All of the competitions can be found in the group [calendar](https://www.faceboo
 
 Here are the links that you will be needing to use on a regular basis:
 
+[![Index](img\scrambles_pdf.png)](scrambles/README.md) [![GitHub](img\scrambles_txt.png)](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) [![Form](img\google_form.png)](submit.html) [![Analytics](img\google_analytics.png)](analytics.html) [![Sheet](img\google_sheet.png)](responses.html) [![Results](img\results.png)](results/README.md)
+
 - You can find all of the scramble sheets via the [index](scrambles/README.md) (PDF only) or [GitHub](https://github.com/Logiqx/scw-comp/tree/master/docs/scrambles) (PDF + text).
 - In addition to posting your video on Facebook you will need to submit your results using the Google [form](submit.html).
 - You can view all of the latest submissions via Google [analytics](analytics.html) or via the linked Google [sheet](responses.html).
