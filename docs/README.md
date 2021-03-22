@@ -35,7 +35,7 @@ The rules are fairly straightforward and are detailed on the separate event page
 - [3x3x3+](rules/333+.md) includes 2x2x2, 3x3x3, One-Handed and Megaminx
 - [4x4x4+](rules/444+.md) includes 4x4x4, 5x5x5, 6x6x6 and 7x7x7
 - [Short](rules/short.md) includes Pyraminx, Skewb, Square-1 and Clock
-- [BLD](rules/bld.md) includes 3BLD, 4BLD, 5BLD and MultiBLD.
+- [BLD](rules/bld.md) includes 3BLD, 4BLD, 5BLD and MultiBLD
 - [FMC](rules/fmc.md) is dedicated to FMC
 
 
