@@ -17,6 +17,7 @@
 #### Process
 
 - Use the 3 scrambles provided <sup>[1]</sup> - either 1, 2 or 3 attempts
+  - Use the first "n" scrambles provided for MBLD
 - Post your video directly to the event page or upload to YouTube and share the link
   - Include your age category (e.g. 40+) in the video description
   - Include your times and Mo3 in the video description, written to 2 decimal places
