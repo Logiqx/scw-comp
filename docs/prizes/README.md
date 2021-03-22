@@ -19,7 +19,7 @@ The events / puzzles are grouped as follows for the prize draw:
 - 3x3x3, 2x2x2, One-Handed and Megaminx
 - 4x4x4, 5x5x5, 6x6x6 and 7x7x7
 - Pyraminx, Skewb, Square-1 and Clock
-- 3BLD, 4BLD, 5BLD, FMC ... plus MultiBLD when it is added to the competition
+- 3BLD, 4BLD, 5BLD, MBLD and FMC
 
 For each competition submission, your name will go into the prize draw, limited to 2 events / puzzles per group.
 

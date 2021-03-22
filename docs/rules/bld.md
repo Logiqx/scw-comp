@@ -1,13 +1,17 @@
 ## Senior Cubers Worldwide - Bi-weekly Competition
 
-### BLD Video Competition - 3BLD, 4BLD and 5BLD
+### BLD Video Competition - 3BLD, 4BLD, 5BLD and MBLD
 
 #### Rules
 
-- Entry in one continuous video (3BLD), 4BLD and 5BLD can use multiple videos in comments
+- Entry in one continuous video (3BLD)
+  - 4BLD and 5BLD can use multiple videos in comments
+  - MBLD should be edited - utilising fast-forward to reduce the video duration
+- MBLD time limit applies - 10 min / cube, up to 1 hour. e.g. 2 cubes: 20 mins, 3 cubes: 30 mins
 - Cube and timer visible, ideally showing you blindfolded as well
 - Solve time includes memo and execution
-- Best solve wins, unlike the other events which are based on the average
+- Best solve wins, unlike the other WCA events which are based on the average
+  - MBLD scoring uses the WCA system based on "points" and the time taken
 - You can use an "extra" solve if you are interrupted mid-solve (much like per WCA comps)
 
 #### Process
