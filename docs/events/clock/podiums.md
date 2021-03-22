@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-03-08](../../results/2021-03-08/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | <i class="flag flag-AU" /> | 14.95 | 17.21 | 🥇 ⚡ | [Desktop](https://www.facebook.com/events/430030294875923/permalink/436951697517116) / [Mobile](https://m.facebook.com/events/430030294875923?view=permalink&id=436951697517116) |
+| 2 | [Jae Park](../../persons/jae_park/clock.md) | 50+ | <i class="flag flag-US" /> | 26.10 | 33.04 | 🥈 | [Desktop](https://www.facebook.com/events/430030294875923/permalink/436985344180418) / [Mobile](https://m.facebook.com/events/430030294875923?view=permalink&id=436985344180418) |
+
 #### [2021-02-24](../../results/2021-02-24/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -13,6 +13,7 @@
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
 | [3x3x3 BLD](333bf.md) | 2:34.83 | - | 🥇 x 1, 🥈 x 1, 🥉 x 3 | ⚡ x 5 |
+| [4x4x4 BLD](444bf.md) | 25:34.50 | - | 🥉 x 1 | ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

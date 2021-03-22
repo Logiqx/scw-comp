@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-03-08](../../results/2021-03-08/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 26.05 | 28.40 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/286026952942446/permalink/294712712073870) / [Mobile](https://m.facebook.com/events/286026952942446?view=permalink&id=294712712073870) |
+| 2 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 32.66 | 37.32 | 🥈 | [Desktop](https://www.facebook.com/events/286026952942446/permalink/294992762045865) / [Mobile](https://m.facebook.com/events/286026952942446?view=permalink&id=294992762045865) |
+
 #### [2021-02-24](../../results/2021-02-24/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-03-08](../../results/2021-03-08/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/222.md) | 40+ | <i class="flag flag-IN" /> | 4.72 | 5.74 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/286026952942446/permalink/288956532649488) / [Mobile](https://m.facebook.com/events/286026952942446?view=permalink&id=288956532649488) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | <i class="flag flag-AU" /> | 5.65 | 8.10 | 🥈 | [Desktop](https://www.facebook.com/events/286026952942446/permalink/290073569204451) / [Mobile](https://m.facebook.com/events/286026952942446?view=permalink&id=290073569204451) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | <i class="flag flag-US" /> | 8.07 | 8.61 | 🥉 | [Desktop](https://www.facebook.com/events/286026952942446/permalink/294406935437781) / [Mobile](https://m.facebook.com/events/286026952942446?view=permalink&id=294406935437781) |
+
 #### [2021-02-24](../../results/2021-02-24/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

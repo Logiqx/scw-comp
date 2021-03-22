@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-03-08](../../results/2021-03-08/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | <i class="flag flag-GB" /> | 58.80 | 1:03.18 | 🥇 🔥 | [Desktop](https://www.facebook.com/events/161142189072151/permalink/166771725175864) / [Mobile](https://m.facebook.com/events/161142189072151?view=permalink&id=166771725175864) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:22.28 | 1:26.86 | 🥈 | [Desktop](https://www.facebook.com/events/161142189072151/permalink/167603105092726) / [Mobile](https://m.facebook.com/events/161142189072151?view=permalink&id=167603105092726) |
+| 3 | [Jae Park](../../persons/jae_park/444.md) | 50+ | <i class="flag flag-US" /> | 1:59.01 | 2:07.71 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/161142189072151/permalink/163735428812827) / [Mobile](https://m.facebook.com/events/161142189072151?view=permalink&id=163735428812827) |
+
 #### [2021-02-24](../../results/2021-02-24/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

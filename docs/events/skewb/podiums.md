@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-03-08](../../results/2021-03-08/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | 40+ | <i class="flag flag-IN" /> | 4.49 | 8.06 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/430030294875923/permalink/435828854296067) / [Mobile](https://m.facebook.com/events/430030294875923?view=permalink&id=435828854296067) |
+| 2 | [Jae Park](../../persons/jae_park/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.94 | 34.95 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/430030294875923/permalink/436985344180418) / [Mobile](https://m.facebook.com/events/430030294875923?view=permalink&id=436985344180418) |
+
 #### [2021-02-24](../../results/2021-02-24/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
