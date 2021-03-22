@@ -4,7 +4,7 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### JM Tambaoan
 
-<i class="flag flag-JP" />&nbsp;Japan
+<i class="flag flag-PH" />&nbsp;Philippines
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
