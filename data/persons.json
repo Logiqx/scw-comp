@@ -205,6 +205,15 @@
     "country": "Netherlands",
     "id": 9
   },
+  "JM Tambaoan": {
+    "age": "40+",
+    "aliases": [
+      "Nhoj Naoabmat",
+      "John Tambaoan"
+    ],
+    "country": "???",
+    "id": 90
+  },
   "Jae Park": {
     "age": "50+",
     "avatar": "1533786318.jpeg",
@@ -524,6 +533,11 @@
     "country": "United States",
     "id": 21,
     "wcaId": "2016BOUC01"
+  },
+  "Stanley Watt": {
+    "age": "40+",
+    "country": "Canada",
+    "id": 91
   },
   "Stew Alla": {
     "age": "<40",
