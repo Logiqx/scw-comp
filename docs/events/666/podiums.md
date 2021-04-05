@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-03-22](../../results/2021-03-22/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | <i class="flag flag-GB" /> | 4:13.58 | 4:17.94 | 🥇 | [Desktop](https://www.facebook.com/events/2537500386546221/permalink/2546059955690264) / [Mobile](https://m.facebook.com/events/2537500386546221?view=permalink&id=2546059955690264) |
+| 2 | [Kerry Go](../../persons/kerry_go/666.md) | 50+ | <i class="flag flag-US" /> | 6:34.83 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/2537500386546221/permalink/2547152288914364) / [Mobile](https://m.facebook.com/events/2537500386546221?view=permalink&id=2547152288914364) |
+
 #### [2021-03-08](../../results/2021-03-08/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

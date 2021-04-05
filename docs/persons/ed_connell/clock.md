@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2021-03-22](../../results/2021-03-22/clock.md) | <40 | **13.47** | 15.81 | ⚡ | 14.66 | DNF | **13.47** | 17.15 | 15.62 | [Desktop](https://www.facebook.com/events/893368394782856/permalink/901622303957465) / [Mobile](https://m.facebook.com/events/893368394782856?view=permalink&id=901622303957465) |
 | [2020-12-22](../../results/2020-12-22/clock.md) | <40 | 14.28 | 18.35 |  | 22.58 | 20.33 | 14.28 | 17.26 | 17.45 | [Desktop](https://www.facebook.com/events/415132489930417/permalink/419691802807819) / [Mobile](https://m.facebook.com/events/415132489930417?view=permalink&id=419691802807819) |
 | [2020-10-20](../../results/2020-10-20/clock.md) | <40 | 15.55 | 18.90 |  | 20.27 | 21.32 | 17.13 | 19.31 | 15.55 | [Desktop](https://www.facebook.com/events/3475733505840328/permalink/3489321711148174) / [Mobile](https://m.facebook.com/events/3475733505840328?view=permalink&id=3489321711148174) |
 | [2020-10-06](../../results/2020-10-06/clock.md) | <40 | 15.76 | 18.25 |  | 19.99 | 15.76 | 21.53 | 16.24 | 18.53 | [Desktop](https://www.facebook.com/events/365989921479949/permalink/370930337652574) / [Mobile](https://m.facebook.com/events/365989921479949?view=permalink&id=370930337652574) |

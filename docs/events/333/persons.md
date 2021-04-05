@@ -24,7 +24,7 @@
 | [Jae Park](../../persons/jae_park/333.md) | 50+ | <i class="flag flag-US" /> | 24.34 | 32.55 |  |  | 🔥 x 9, ⚡ x 8 |
 | [Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) | 50+ | <i class="flag flag-ZA" /> | 25.09 | 28.76 |  |  | 🔥 x 6, ⚡ x 4 |
 | [John Neo Stanley](../../persons/john_neo_stanley/333.md) | 50+ | <i class="flag flag-GB" /> | 28.51 | 31.31 |  |  | 🔥 x 5, ⚡ x 3 |
-| [Kerry Go](../../persons/kerry_go/333.md) | 50+ | <i class="flag flag-US" /> | 27.91 | 31.87 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Kerry Go](../../persons/kerry_go/333.md) | 50+ | <i class="flag flag-US" /> | 24.84 | 31.58 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | <i class="flag flag-US" /> | 22.43 | 25.40 |  |  | 🔥 x 6, ⚡ x 6 |
 | [Markus Niederöst](../../persons/markus_niederost/333.md) | 50+ | <i class="flag flag-CH" /> | 19.98 | 23.61 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/333.md) | 50+ | <i class="flag flag-SE" /> | 20.85 | 24.84 |  |  | 🔥 x 3, ⚡ x 3 |
@@ -47,10 +47,10 @@
 | [Denis Reimer](../../persons/denis_reimer/333.md) | 40+ | <i class="flag flag-CA" /> | 19.64 | 24.93 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | <i class="flag flag-US" /> | 52.97 | 59.90 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/333.md) | 40+ | <i class="flag flag-JP" /> | 12.41 | 14.90 | 🏆 x 1 | 🥇 x 1, 🥈 x 17, 🥉 x 4 | 🔥 x 6, ⚡ x 3 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | <i class="flag flag-GB" /> | 13.49 | 14.96 |  | 🥇 x 1, 🥈 x 7, 🥉 x 17 | 🔥 x 10, ⚡ x 6 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | <i class="flag flag-GB" /> | 13.49 | 14.96 |  | 🥇 x 1, 🥈 x 8, 🥉 x 17 | 🔥 x 10, ⚡ x 6 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | <i class="flag flag-PL" /> | 12.84 | 14.77 |  | 🥈 x 13, 🥉 x 6 | 🔥 x 3, ⚡ x 2 |
 | [Huy Nguyen](../../persons/huy_nguyen/333.md) | 40+ | <i class="flag flag-CA" /> | 17.19 | 20.72 |  |  | 🔥 x 3, ⚡ x 4 |
-| [JM Tambaoan](../../persons/jm_tambaoan/333.md) | 40+ | <i class="flag flag-PH" /> | 18.31 | 22.39 |  |  | 🔥 x 1, ⚡ x 1 |
+| [JM Tambaoan](../../persons/jm_tambaoan/333.md) | 40+ | <i class="flag flag-PH" /> | 16.85 | 22.01 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jae Park](../../persons/jae_park/333.md) | 50+ | <i class="flag flag-US" /> | 17.58 | 22.30 |  |  | 🔥 x 9, ⚡ x 8 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/333.md) | 40+ | <i class="flag flag-GB" /> | 19.90 | 24.76 |  |  | 🔥 x 12, ⚡ x 10 |
 | [Jang Junho (장준호)](../../persons/jang_junho/333.md) | 40+ | <i class="flag flag-KR" /> | 20.33 | 25.66 |  |  | 🔥 x 4, ⚡ x 2 |
@@ -62,8 +62,8 @@
 | [John Neo Stanley](../../persons/john_neo_stanley/333.md) | 50+ | <i class="flag flag-GB" /> | 28.51 | 31.31 |  |  | 🔥 x 5, ⚡ x 3 |
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/333.md) | 40+ | <i class="flag flag-US" /> | 38.26 | 40.14 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Kerrie Jarman](../../persons/kerrie_jarman/333.md) | 40+ | <i class="flag flag-AU" /> | 41.01 | 48.20 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Kerry Go](../../persons/kerry_go/333.md) | 50+ | <i class="flag flag-US" /> | 27.91 | 31.87 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | <i class="flag flag-FI" /> | 8.55 | 10.11 | 🏆 x 26 | 🥇 x 26 | 💥 x 4, 🔥 x 3, ⚡ x 4 |
+| [Kerry Go](../../persons/kerry_go/333.md) | 50+ | <i class="flag flag-US" /> | 24.84 | 31.58 |  |  | 🔥 x 3, ⚡ x 3 |
+| [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | <i class="flag flag-FI" /> | 8.55 | 10.11 | 🏆 x 27 | 🥇 x 27 | 💥 x 4, 🔥 x 3, ⚡ x 4 |
 | [Leo Arroyo](../../persons/leo_arroyo/333.md) | 40+ | <i class="flag flag-ES" /> | 39.63 | 54.76 |  |  | 🔥 x 4, ⚡ x 4 |
 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | <i class="flag flag-US" /> | 22.43 | 25.40 |  |  | 🔥 x 6, ⚡ x 6 |
 | [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | <i class="flag flag-DE" /> | 26.19 | 29.43 |  |  | 🔥 x 11, ⚡ x 10 |
@@ -81,6 +81,7 @@
 | [Stuart Salmon](../../persons/stuart_salmon/333.md) | 40+ | <i class="flag flag-GB" /> | 22.76 | 32.89 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333.md) | 40+ | <i class="flag flag-FR" /> | 13.85 | 15.44 |  | 🥇 x 1, 🥈 x 3, 🥉 x 5 | 🔥 x 3, ⚡ x 6 |
 | [Timothy Salay](../../persons/timothy_salay/333.md) | 40+ | <i class="flag flag-US" /> | 24.45 | 31.22 |  |  | 🔥 x 3, ⚡ x 4 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | | 19.58 | 23.53 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333.md) | 40+ | <i class="flag flag-IN" /> | 19.25 | 21.09 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333.md) | 50+ | <i class="flag flag-PL" /> | 17.30 | 22.13 |  |  | 🔥 x 4, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | <i class="flag flag-TW" /> | 15.17 | 18.88 |  |  | 🔥 x 7, ⚡ x 3 |
@@ -105,7 +106,7 @@
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333.md) | <40 | <i class="flag flag-GB" /> | 20.75 | 24.65 |  |  | 🔥 x 1, ⚡ x 3 |
 | [Matthew Hart](../../persons/matthew_hart/333.md) | <40 | <i class="flag flag-GB" /> | 18.91 | 23.26 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Neilimixam Snetrem](../../persons/neilimixam_snetrem/333.md) | <40 | <i class="flag flag-BE" /> | 14.32 | 20.01 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Nick Agatyn](../../persons/nick_agatyn/333.md) | <40 | <i class="flag flag-AU" /> | 30.80 | 35.74 |  |  | 🔥 x 2, ⚡ x 1 |
+| [Nick Agatyn](../../persons/nick_agatyn/333.md) | <40 | <i class="flag flag-AU" /> | 27.28 | 32.75 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Pete Lee](../../persons/pete_lee/333.md) | <40 | <i class="flag flag-GB" /> | 12.85 | 17.48 |  |  | 🔥 x 9, ⚡ x 5 |
 | [Phil Yu](../../persons/phil_yu/333.md) | <40 | <i class="flag flag-US" /> | 8.12 | 9.64 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Scott Knight](../../persons/scott_knight/333.md) | <40 | <i class="flag flag-GB" /> | 26.57 | 33.40 |  |  | 🔥 x 2, ⚡ x 3 |
@@ -117,7 +118,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Joshua Riegel](../../persons/joshua_riegel/333.md) | <30 | <i class="flag flag-US" /> | 25.44 | 28.24 |  |  | 🔥 x 3, ⚡ x 3 |
+| [Joshua Riegel](../../persons/joshua_riegel/333.md) | <30 | <i class="flag flag-US" /> | 23.70 | 28.24 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Peyton Blevins](../../persons/peyton_blevins/333.md) | <30 | <i class="flag flag-US" /> | 28.16 | 30.48 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Raimon Schaap](../../persons/raimon_schaap/333.md) | <30 | <i class="flag flag-NL" /> | 13.58 | 15.99 |  |  | 🔥 x 5, ⚡ x 4 |
 | [Scott Knight](../../persons/scott_knight/333.md) | <40 | <i class="flag flag-GB" /> | 26.97 | 31.02 |  |  | 🔥 x 2, ⚡ x 3 |

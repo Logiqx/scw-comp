@@ -6,11 +6,11 @@
 
 <i class="flag flag-GB" />&nbsp;United Kingdom
 
-<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [3x3x3 FMC](333fm.md) | 23 | 31.00 | 🏆 x 13 | 🥇 x 20, 🥈 x 14, 🥉 x 5 | 🔥 x 1, ⚡ x 4 |
+| [3x3x3 FMC](333fm.md) | 23 | 26.33 | 🏆 x 14 | 🥇 x 21, 🥈 x 14, 🥉 x 5 | 💥 x 1, 🔥 x 2, ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

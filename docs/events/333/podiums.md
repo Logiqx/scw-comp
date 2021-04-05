@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-03-22](../../results/2021-03-22/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | <i class="flag flag-FI" /> | 8.93 | 11.18 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/802754890451423/permalink/810462349680677) / [Mobile](https://m.facebook.com/events/802754890451423?view=permalink&id=810462349680677) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | <i class="flag flag-GB" /> | 17.60 | 18.03 | 🥈 | [Desktop](https://www.facebook.com/events/802754890451423/permalink/807011106692468) / [Mobile](https://m.facebook.com/events/802754890451423?view=permalink&id=807011106692468) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/333.md) | 40+ | <i class="flag flag-PH" /> | 16.85 | 22.01 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/802754890451423/permalink/805360693524176) / [Mobile](https://m.facebook.com/events/802754890451423?view=permalink&id=805360693524176) |
+
 #### [2021-03-08](../../results/2021-03-08/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
