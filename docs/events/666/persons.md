@@ -31,11 +31,11 @@
 | [Daniel Smith](../../persons/daniel_smith/666.md) | 50+ | <i class="flag flag-US" /> | 5:28.23 | 5:54.57 |  | 🥈 x 1, 🥉 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/666.md) | 60+ | <i class="flag flag-US" /> | 12:04.43 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/666.md) | 40+ | <i class="flag flag-JP" /> | 2:38.63 | 2:44.23 | 🏆 x 24 | 🥇 x 24 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | <i class="flag flag-GB" /> | 3:26.58 | 3:42.18 | 🏆 x 3 | 🥇 x 8, 🥈 x 22, 🥉 x 2 | 🔥 x 5, ⚡ x 4 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | <i class="flag flag-GB" /> | 3:26.58 | 3:42.18 | 🏆 x 3 | 🥇 x 8, 🥈 x 23, 🥉 x 2 | 🔥 x 5, ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/666.md) | 40+ | <i class="flag flag-US" /> | 12:20.61 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/666.md) | 40+ | <i class="flag flag-US" /> | 5:06.63 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/666.md) | 50+ | <i class="flag flag-US" /> | 6:34.83 | DNF |  | 🥈 x 1 | ⚡ x 1 |
-| [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | <i class="flag flag-FI" /> | 3:13.39 | 3:23.10 |  | 🥇 x 1, 🥈 x 7 | 🔥 x 5, ⚡ x 4 |
+| [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | <i class="flag flag-FI" /> | 3:13.39 | 3:22.70 | 🏆 x 1 | 🥇 x 2, 🥈 x 7 | 🔥 x 6, ⚡ x 4 |
 | [Michael George](../../persons/michael_george/666.md) | 40+ | <i class="flag flag-GB" /> | 4:37.39 | DNF |  | 🥉 x 4 | ⚡ x 7 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) | 40+ | <i class="flag flag-TW" /> | 5:44.07 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 
@@ -54,7 +54,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Joshua Riegel](../../persons/joshua_riegel/666.md) | <30 | <i class="flag flag-US" /> | 6:39.98 | DNF |  |  | ⚡ x 2 |
+| [Joshua Riegel](../../persons/joshua_riegel/666.md) | <30 | <i class="flag flag-US" /> | 6:24.46 | DNF |  |  | ⚡ x 3 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

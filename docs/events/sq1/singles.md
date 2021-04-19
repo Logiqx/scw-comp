@@ -10,13 +10,13 @@
 
 | # | Name | Date | Age | 🌍 | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2021-03-08](../../results/2021-03-08/sq1.md) | 50+ | <i class="flag flag-US" /> | 15.88 | 🏆 x 31 | 🥇 x 31, 🥈 x 8 | 💥 x 9, 🔥 x 5, ⚡ x 6 | [Desktop](https://www.facebook.com/events/430030294875923/permalink/437450004133952) / [Mobile](https://m.facebook.com/events/430030294875923?view=permalink&id=437450004133952) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2021-03-08](../../results/2021-03-08/sq1.md) | 50+ | <i class="flag flag-US" /> | 15.88 | 🏆 x 32 | 🥇 x 32, 🥈 x 8 | 💥 x 10, 🔥 x 6, ⚡ x 6 | [Desktop](https://www.facebook.com/events/430030294875923/permalink/437450004133952) / [Mobile](https://m.facebook.com/events/430030294875923?view=permalink&id=437450004133952) |
 
 #### Over 40
 
 | # | Name | Date | Age | 🌍 | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2021-03-08](../../results/2021-03-08/sq1.md) | 50+ | <i class="flag flag-US" /> | 15.88 | 🏆 x 31 | 🥇 x 31, 🥈 x 8 | 💥 x 9, 🔥 x 5, ⚡ x 6 | [Desktop](https://www.facebook.com/events/430030294875923/permalink/437450004133952) / [Mobile](https://m.facebook.com/events/430030294875923?view=permalink&id=437450004133952) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2021-03-08](../../results/2021-03-08/sq1.md) | 50+ | <i class="flag flag-US" /> | 15.88 | 🏆 x 32 | 🥇 x 32, 🥈 x 8 | 💥 x 10, 🔥 x 6, ⚡ x 6 | [Desktop](https://www.facebook.com/events/430030294875923/permalink/437450004133952) / [Mobile](https://m.facebook.com/events/430030294875923?view=permalink&id=437450004133952) |
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | [2021-01-05](../../results/2021-01-05/sq1.md) | 40+ | <i class="flag flag-JP" /> | 18.69 | 🏆 x 8 | 🥇 x 8, 🥈 x 16 | 💥 x 2, 🔥 x 9, ⚡ x 4 | [Desktop](https://www.facebook.com/events/430051568136756/permalink/434358744372705) / [Mobile](https://m.facebook.com/events/430051568136756?view=permalink&id=434358744372705) |
 | 3 | [Konsta Jukka](../../persons/konsta_jukka/sq1.md) | [2020-11-03](../../results/2020-11-03/sq1.md) | 40+ | <i class="flag flag-FI" /> | 24.21 |  | 🥉 x 5 | 🔥 x 4, ⚡ x 3 | [Desktop](https://www.facebook.com/events/406412140373592/permalink/411102233237916) / [Mobile](https://m.facebook.com/events/406412140373592?view=permalink&id=411102233237916) |
 | 4 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | [2020-06-23](../../results/2020-06-23/sq1.md) | 40+ | <i class="flag flag-GB" /> | 31.85 |  | 🥈 x 6 | 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/1618516681636159/permalink/1624283784392782) / [Mobile](https://m.facebook.com/events/1618516681636159?view=permalink&id=1624283784392782) |

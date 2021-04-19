@@ -19,10 +19,10 @@
 | [6x6x6](666.md) | 3:11.15 | 3:33.30 | 🏆 x 5 | 🔥 x 6, ⚡ x 8 |
 | [7x7x7](777.md) | 5:25.36 | 5:38.80 | 🏆 x 1 | 🔥 x 4, ⚡ x 5 |
 | [3x3x3 OH](333oh.md) | 26.22 | 32.22 |  | 🔥 x 2, ⚡ x 1 |
-| [Megaminx](minx.md) | 1:20.62 | 1:28.43 | 🏆 x 8 | 🔥 x 8, ⚡ x 4 |
-| [Pyraminx](pyram.md) | 4.59 | 7.72 | 🏆 x 3 | 🔥 x 1, ⚡ x 1 |
-| [Skewb](skewb.md) | 6.52 | 9.23 |  | 🔥 x 2, ⚡ x 4 |
-| [Clock](clock.md) | 13.38 | 13.97 | 🏆 x 2 | 🔥 x 5, ⚡ x 5 |
+| [Megaminx](minx.md) | 1:20.62 | 1:28.43 | 🏆 x 9 | 🔥 x 8, ⚡ x 4 |
+| [Pyraminx](pyram.md) | 4.59 | 7.72 | 🏆 x 4 | 🔥 x 1, ⚡ x 1 |
+| [Skewb](skewb.md) | 6.52 | 9.23 | 🏆 x 1 | 🔥 x 2, ⚡ x 4 |
+| [Clock](clock.md) | 13.38 | 13.97 | 🏆 x 3 | 🔥 x 5, ⚡ x 5 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
