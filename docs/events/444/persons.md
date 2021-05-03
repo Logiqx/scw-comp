@@ -37,7 +37,7 @@
 | [Daniel Smith](../../persons/daniel_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:05.61 | 1:21.23 |  | 🥈 x 3, 🥉 x 5 | 💥 x 1, 🔥 x 7, ⚡ x 6 |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | <i class="flag flag-US" /> | 4:08.00 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | <i class="flag flag-JP" /> | 44.16 | 51.80 | 🏆 x 8 | 🥇 x 14, 🥈 x 10 | 💥 x 1, 🔥 x 4, ⚡ x 4 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | <i class="flag flag-GB" /> | 50.44 | 1:03.18 | 🏆 x 1 | 🥇 x 4, 🥈 x 7, 🥉 x 20 | 🔥 x 5, ⚡ x 8 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | <i class="flag flag-GB" /> | 50.44 | 1:03.18 | 🏆 x 1 | 🥇 x 4, 🥈 x 8, 🥉 x 20 | 🔥 x 5, ⚡ x 8 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444.md) | 40+ | <i class="flag flag-PL" /> | 56.11 | 1:05.85 |  | 🥈 x 2 | 🔥 x 2, ⚡ x 1 |
 | [JM Tambaoan](../../persons/jm_tambaoan/444.md) | 40+ | <i class="flag flag-PH" /> | 1:17.99 | 1:28.37 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 2 |
 | [Jae Park](../../persons/jae_park/444.md) | 50+ | <i class="flag flag-US" /> | 1:59.01 | 2:07.71 |  | 🥉 x 1 | 🔥 x 7, ⚡ x 7 |
@@ -48,13 +48,13 @@
 | [Jo Cocco](../../persons/jo_cocco/444.md) | 40+ | <i class="flag flag-GB" /> | 2:02.00 | 2:31.68 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/444.md) | 40+ | <i class="flag flag-US" /> | 3:13.21 | 3:38.78 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Kerry Go](../../persons/kerry_go/444.md) | 50+ | <i class="flag flag-US" /> | 1:40.14 | 1:50.29 |  |  | 🔥 x 2, ⚡ x 3 |
-| [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | <i class="flag flag-FI" /> | 44.69 | 50.11 | 🏆 x 10 | 🥇 x 11, 🥈 x 7, 🥉 x 2 | 🔥 x 6, ⚡ x 8 |
+| [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | <i class="flag flag-FI" /> | 44.69 | 50.11 | 🏆 x 11 | 🥇 x 12, 🥈 x 7, 🥉 x 2 | 🔥 x 6, ⚡ x 8 |
 | [Michael George](../../persons/michael_george/444.md) | 40+ | <i class="flag flag-GB" /> | 45.67 | 53.30 | 🏆 x 8 | 🥇 x 18, 🥈 x 3 | 💥 x 3, 🔥 x 2, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/444.md) | 50+ | <i class="flag flag-CA" /> | 2:20.53 | 2:42.21 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Rob Peters](../../persons/rob_peters/444.md) | 40+ | <i class="flag flag-US" /> | 53.64 | 1:01.01 |  | 🥈 x 4, 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
 | [Ron van Bruchem](../../persons/ron_van_bruchem/444.md) | 50+ | <i class="flag flag-NL" /> | 46.32 | 49.81 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/444.md) | 40+ | <i class="flag flag-FR" /> | 1:12.69 | 1:21.31 |  |  | 🔥 x 2, ⚡ x 3 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/444.md) | 40+ | <i class="flag flag-TW" /> | 59.72 | 1:14.75 |  | 🥉 x 3 | 🔥 x 7, ⚡ x 5 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/444.md) | 40+ | <i class="flag flag-TW" /> | 59.72 | 1:14.75 |  | 🥉 x 4 | 🔥 x 7, ⚡ x 5 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/444.md) | 40+ | <i class="flag flag-FR" /> | 1:00.53 | 1:11.54 |  |  | 🔥 x 2, ⚡ x 1 |
 
 #### Under 40

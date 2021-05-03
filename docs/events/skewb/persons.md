@@ -20,6 +20,7 @@
 | [Anthony Rochester](../../persons/anthony_rochester/skewb.md) | 40+ | <i class="flag flag-AU" /> | 24.04 | 41.18 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | <i class="flag flag-JP" /> | 3.23 | 6.30 | 🏆 x 24 | 🥇 x 24 | 💥 x 6, 🔥 x 6, ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/skewb.md) | 40+ | <i class="flag flag-PL" /> | 7.88 | 12.16 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
+| [JM Tambaoan](../../persons/jm_tambaoan/skewb.md) | 40+ | <i class="flag flag-PH" /> | 31.20 | 43.03 |  | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.94 | 26.94 |  | 🥇 x 1, 🥈 x 9 | 💥 x 4, 🔥 x 6, ⚡ x 6 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | 40+ | <i class="flag flag-US" /> | 4.15 | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Marcel Balzer](../../persons/marcel_balzer/skewb.md) | 40+ | <i class="flag flag-DE" /> | 27.44 | 47.53 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 1 |
@@ -35,7 +36,7 @@
 | [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | <i class="flag flag-IE" /> | 4.85 | 11.31 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 3 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | <40 | <i class="flag flag-VE" /> | 6.52 | 9.23 | 🏆 x 1 |  | 🔥 x 2, ⚡ x 4 |
 | [Greg Simmons](../../persons/greg_simmons/skewb.md) | <40 | <i class="flag flag-GB" /> | 7.57 | 12.32 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Nick Agatyn](../../persons/nick_agatyn/skewb.md) | <40 | <i class="flag flag-AU" /> | 7.27 | 10.84 | 🏆 x 1 |  | 🔥 x 2, ⚡ x 2 |
+| [Nick Agatyn](../../persons/nick_agatyn/skewb.md) | <40 | <i class="flag flag-AU" /> | 5.32 | 9.98 | 🏆 x 2 |  | 🔥 x 3, ⚡ x 3 |
 | [Pete Lee](../../persons/pete_lee/skewb.md) | <40 | <i class="flag flag-GB" /> | 6.84 | 13.62 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Peter Osudar](../../persons/peter_osudar/skewb.md) | <40 | <i class="flag flag-CA" /> | 3.87 | 9.52 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 

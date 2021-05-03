@@ -29,10 +29,11 @@
 | [Chris Wright](../../persons/chris_wright/777.md) | 50+ | <i class="flag flag-GB" /> | 4:55.42 | 5:05.66 |  | 🥈 x 2 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | <i class="flag flag-US" /> | 15:59.23 | DNF |  | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | <i class="flag flag-JP" /> | 3:58.92 | 4:11.37 | 🏆 x 24 | 🥇 x 24 | 💥 x 6, 🔥 x 3, ⚡ x 5 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | <i class="flag flag-GB" /> | 5:11.94 | 5:34.72 | 🏆 x 7 | 🥇 x 8, 🥈 x 26 | 🔥 x 4, ⚡ x 5 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | <i class="flag flag-GB" /> | 5:11.94 | 5:34.72 | 🏆 x 7 | 🥇 x 8, 🥈 x 27 | 🔥 x 4, ⚡ x 5 |
+| [JM Tambaoan](../../persons/jm_tambaoan/777.md) | 40+ | <i class="flag flag-PH" /> | 9:20.85 | 10:06.56 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/777.md) | 40+ | <i class="flag flag-US" /> | 8:08.23 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/777.md) | 50+ | <i class="flag flag-US" /> | 9:06.58 | DNF |  | 🥈 x 1 | ⚡ x 1 |
-| [Konsta Jukka](../../persons/konsta_jukka/777.md) | 40+ | <i class="flag flag-FI" /> | 4:52.98 | 5:09.11 | 🏆 x 1 | 🥇 x 1, 🥈 x 6, 🥉 x 1 | 🔥 x 4, ⚡ x 4 |
+| [Konsta Jukka](../../persons/konsta_jukka/777.md) | 40+ | <i class="flag flag-FI" /> | 4:44.78 | 5:09.11 | 🏆 x 2 | 🥇 x 2, 🥈 x 6, 🥉 x 1 | 🔥 x 4, ⚡ x 5 |
 
 #### Under 40
 
@@ -41,7 +42,7 @@
 | [Adam Robson](../../persons/adam_robson/777.md) | <40 | <i class="flag flag-GB" /> | 11:27.00 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/777.md) | <40 | <i class="flag flag-IE" /> | 8:56.69 | DNF |  |  | ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/777.md) | <40 | <i class="flag flag-VE" /> | 5:25.36 | 5:38.80 | 🏆 x 1 |  | 🔥 x 4, ⚡ x 5 |
-| [Pete Lee](../../persons/pete_lee/777.md) | <40 | <i class="flag flag-GB" /> | 5:34.61 | 5:59.77 | 🏆 x 1 |  | 🔥 x 7, ⚡ x 14 |
+| [Pete Lee](../../persons/pete_lee/777.md) | <40 | <i class="flag flag-GB" /> | 5:34.61 | 5:49.16 | 🏆 x 1 |  | 🔥 x 8, ⚡ x 14 |
 | [Peter Osudar](../../persons/peter_osudar/777.md) | <40 | <i class="flag flag-CA" /> | 6:13.99 | 6:36.78 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 30

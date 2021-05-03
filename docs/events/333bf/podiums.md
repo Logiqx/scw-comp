@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-04-19](../../results/2021-04-19/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | 50+ | <i class="flag flag-US" /> | 46.18 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/333638981660304/permalink/334442211579981) / [Mobile](https://m.facebook.com/events/333638981660304?view=permalink&id=334442211579981) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 48.47 | 1:13.66 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/333638981660304/permalink/335205001503702) / [Mobile](https://m.facebook.com/events/333638981660304?view=permalink&id=335205001503702) |
+| 3 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | <i class="flag flag-CA" /> | 1:40.61 | 1:46.90 | 🥉 | [Desktop](https://www.facebook.com/events/333638981660304/permalink/342972380726964) / [Mobile](https://m.facebook.com/events/333638981660304?view=permalink&id=342972380726964) |
+
 #### [2021-04-05](../../results/2021-04-05/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

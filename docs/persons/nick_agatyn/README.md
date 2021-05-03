@@ -10,10 +10,10 @@
 
 | Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
-| [3x3x3](333.md) | 27.28 | 32.75 |  | 🔥 x 3, ⚡ x 2 |
-| [2x2x2](222.md) | 8.40 | 10.18 |  | 🔥 x 1, ⚡ x 2 |
+| [3x3x3](333.md) | 27.28 | 30.20 |  | 🔥 x 4, ⚡ x 2 |
+| [2x2x2](222.md) | 8.40 | 9.61 |  | 🔥 x 2, ⚡ x 2 |
 | [Pyraminx](pyram.md) | 10.86 | 14.40 |  | 🔥 x 3, ⚡ x 3 |
-| [Skewb](skewb.md) | 7.27 | 10.84 | 🏆 x 1 | 🔥 x 2, ⚡ x 2 |
+| [Skewb](skewb.md) | 5.32 | 9.98 | 🏆 x 2 | 🔥 x 3, ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

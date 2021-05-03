@@ -10,16 +10,18 @@
 
 | Name | Age | 🌍 | Single | Cups | Medals | Achievements |
 | :-- | :--: | :--: | :--: | :--: | :-- | :-- |
-| [Jae Park](../../persons/jae_park/333mbf.md) | 50+ | <i class="flag flag-US" /> | 10/11 in 41:23 | 🏆 x 3 | 🥇 x 3 | 💥 x 3, ⚡ x 3 |
+| [Jae Park](../../persons/jae_park/333mbf.md) | 50+ | <i class="flag flag-US" /> | 10/11 in 41:23 | 🏆 x 4 | 🥇 x 4 | 💥 x 3, ⚡ x 3 |
+| [Javier Rossi](../../persons/javier_rossi/333mbf.md) | 50+ | <i class="flag flag-AR" /> | 2/2 in 12:59 |  | 🥉 x 1 | ⚡ x 1 |
 
 #### Over 40
 
 | Name | Age | 🌍 | Single | Cups | Medals | Achievements |
 | :-- | :--: | :--: | :--: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333mbf.md) | 40+ | <i class="flag flag-GB" /> | 4/6 in 56:43 |  |  | ⚡ x 1 |
-| [Anthony Rochester](../../persons/anthony_rochester/333mbf.md) | 40+ | <i class="flag flag-AU" /> | 12/17 in 56:47 |  | 🥈 x 3 | ⚡ x 2 |
+| [Anthony Rochester](../../persons/anthony_rochester/333mbf.md) | 40+ | <i class="flag flag-AU" /> | 12/17 in 56:47 |  | 🥈 x 4 | ⚡ x 2 |
 | [Huy Nguyen](../../persons/huy_nguyen/333mbf.md) | 40+ | <i class="flag flag-CA" /> | 3/3 in 9:20 |  | 🥉 x 2 | ⚡ x 1 |
-| [Jae Park](../../persons/jae_park/333mbf.md) | 50+ | <i class="flag flag-US" /> | 10/11 in 41:23 | 🏆 x 3 | 🥇 x 3 | 💥 x 3, ⚡ x 3 |
+| [Jae Park](../../persons/jae_park/333mbf.md) | 50+ | <i class="flag flag-US" /> | 10/11 in 41:23 | 🏆 x 4 | 🥇 x 4 | 💥 x 3, ⚡ x 3 |
+| [Javier Rossi](../../persons/javier_rossi/333mbf.md) | 50+ | <i class="flag flag-AR" /> | 2/2 in 12:59 |  | 🥉 x 1 | ⚡ x 1 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

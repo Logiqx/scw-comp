@@ -33,18 +33,19 @@
 | [Anthony Rochester](../../persons/anthony_rochester/555.md) | 40+ | <i class="flag flag-AU" /> | 3:45.86 | 3:53.73 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | <i class="flag flag-GB" /> | 1:41.03 | 1:46.58 |  | 🥇 x 1, 🥈 x 3 | 💥 x 3, 🔥 x 1, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | <i class="flag flag-IT" /> | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
+| [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | | 1:47.67 | 1:53.24 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:19.29 | 2:39.63 |  | 🥇 x 1, 🥈 x 3, 🥉 x 10 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | <i class="flag flag-US" /> | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | <i class="flag flag-JP" /> | 1:21.05 | 1:29.94 | 🏆 x 24 | 🥇 x 24 | 💥 x 7, 🔥 x 6, ⚡ x 4 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:42.67 | 1:57.43 | 🏆 x 1 | 🥇 x 9, 🥈 x 25, 🥉 x 5 | 🔥 x 6, ⚡ x 4 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:42.67 | 1:57.43 | 🏆 x 1 | 🥇 x 9, 🥈 x 25, 🥉 x 6 | 🔥 x 6, ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/555.md) | 40+ | <i class="flag flag-PL" /> | 2:37.21 | 2:48.50 |  |  | 🔥 x 1, ⚡ x 1 |
-| [JM Tambaoan](../../persons/jm_tambaoan/555.md) | 40+ | <i class="flag flag-PH" /> | 2:50.28 | 2:58.61 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 2 |
+| [JM Tambaoan](../../persons/jm_tambaoan/555.md) | 40+ | <i class="flag flag-PH" /> | 2:39.57 | 2:58.00 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Jae Park](../../persons/jae_park/555.md) | 50+ | <i class="flag flag-US" /> | 4:09.44 | 4:32.93 |  | 🥉 x 3 | 🔥 x 3, ⚡ x 7 |
 | [Jason Green](../../persons/jason_green/555.md) | 40+ | <i class="flag flag-US" /> | 2:31.09 | 2:50.91 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/555.md) | 40+ | <i class="flag flag-US" /> | 2:17.14 | 2:31.20 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/555.md) | 40+ | <i class="flag flag-US" /> | 4:06.17 | 4:17.14 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Kerry Go](../../persons/kerry_go/555.md) | 50+ | <i class="flag flag-US" /> | 3:02.77 | 3:37.00 |  |  | 🔥 x 1, ⚡ x 2 |
-| [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | <i class="flag flag-FI" /> | 1:35.85 | 1:47.35 | 🏆 x 1 | 🥇 x 1, 🥈 x 8 | 🔥 x 4, ⚡ x 3 |
+| [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | <i class="flag flag-FI" /> | 1:35.85 | 1:47.30 | 🏆 x 2 | 🥇 x 2, 🥈 x 8 | 🔥 x 5, ⚡ x 3 |
 | [Michael George](../../persons/michael_george/555.md) | 40+ | <i class="flag flag-GB" /> | 1:43.65 | 2:00.85 | 🏆 x 1 | 🥇 x 2, 🥈 x 4, 🥉 x 9 | 🔥 x 5, ⚡ x 5 |
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | <i class="flag flag-CA" /> | 5:50.00 | DNF |  |  | ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/555.md) | 40+ | <i class="flag flag-ES" /> | 2:17.13 | 2:27.99 |  |  | 🔥 x 1, ⚡ x 1 |

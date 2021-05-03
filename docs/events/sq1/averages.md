@@ -10,18 +10,20 @@
 
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2021-04-05](../../results/2021-04-05/sq1.md) | 50+ | <i class="flag flag-US" /> | 21.34 | 🏆 x 32 | 🥇 x 32, 🥈 x 8 | 💥 x 10, 🔥 x 6, ⚡ x 6 | [Desktop](https://www.facebook.com/events/469300370885865/permalink/476831766799392) / [Mobile](https://m.facebook.com/events/469300370885865?view=permalink&id=476831766799392) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2021-04-05](../../results/2021-04-05/sq1.md) | 50+ | <i class="flag flag-US" /> | 21.34 | 🏆 x 33 | 🥇 x 33, 🥈 x 8 | 💥 x 10, 🔥 x 6, ⚡ x 6 | [Desktop](https://www.facebook.com/events/469300370885865/permalink/476831766799392) / [Mobile](https://m.facebook.com/events/469300370885865?view=permalink&id=476831766799392) |
 
 #### Over 40
 
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2021-04-05](../../results/2021-04-05/sq1.md) | 50+ | <i class="flag flag-US" /> | 21.34 | 🏆 x 32 | 🥇 x 32, 🥈 x 8 | 💥 x 10, 🔥 x 6, ⚡ x 6 | [Desktop](https://www.facebook.com/events/469300370885865/permalink/476831766799392) / [Mobile](https://m.facebook.com/events/469300370885865?view=permalink&id=476831766799392) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | [2021-04-05](../../results/2021-04-05/sq1.md) | 50+ | <i class="flag flag-US" /> | 21.34 | 🏆 x 33 | 🥇 x 33, 🥈 x 8 | 💥 x 10, 🔥 x 6, ⚡ x 6 | [Desktop](https://www.facebook.com/events/469300370885865/permalink/476831766799392) / [Mobile](https://m.facebook.com/events/469300370885865?view=permalink&id=476831766799392) |
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | [2021-02-09](../../results/2021-02-09/sq1.md) | 40+ | <i class="flag flag-JP" /> | 24.34 | 🏆 x 8 | 🥇 x 8, 🥈 x 16 | 💥 x 2, 🔥 x 9, ⚡ x 4 | [Desktop](https://www.facebook.com/events/466529388059949/permalink/470686107644277) / [Mobile](https://m.facebook.com/events/466529388059949?view=permalink&id=470686107644277) |
 | 3 | [Konsta Jukka](../../persons/konsta_jukka/sq1.md) | [2021-02-09](../../results/2021-02-09/sq1.md) | 40+ | <i class="flag flag-FI" /> | 40.11 |  | 🥉 x 5 | 🔥 x 4, ⚡ x 3 | [Desktop](https://www.facebook.com/events/466529388059949/permalink/470833987629489) / [Mobile](https://m.facebook.com/events/466529388059949?view=permalink&id=470833987629489) |
 | 4 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | [2020-07-14](../../results/2020-07-14/sq1.md) | 40+ | <i class="flag flag-GB" /> | 49.65 |  | 🥈 x 6 | 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/413064016333950/permalink/415320132775005) / [Mobile](https://m.facebook.com/events/413064016333950?view=permalink&id=415320132775005) |
 | 5 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | [2020-06-16](../../results/2020-06-16/sq1.md) | 40+ | <i class="flag flag-IN" /> | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/296087658445428/permalink/298743144846546) / [Mobile](https://m.facebook.com/events/296087658445428?view=permalink&id=298743144846546) |
 | 6 | [Anthony Rochester](../../persons/anthony_rochester/sq1.md) | [2021-02-09](../../results/2021-02-09/sq1.md) | 40+ | <i class="flag flag-AU" /> | 1:19.99 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/466529388059949/permalink/469161501130071) / [Mobile](https://m.facebook.com/events/466529388059949?view=permalink&id=469161501130071) |
+| 7 | [Yi-Wei Chen](../../persons/yi_wei_chen/sq1.md) | [2021-04-19](../../results/2021-04-19/sq1.md) | 40+ | <i class="flag flag-TW" /> | 1:58.27 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/455121419077355/permalink/462025088386988) / [Mobile](https://m.facebook.com/events/455121419077355?view=permalink&id=462025088386988) |
+| 8 | [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | [2021-04-19](../../results/2021-04-19/sq1.md) | 40+ | <i class="flag flag-PH" /> | 2:31.07 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/455121419077355/permalink/460117508577746) / [Mobile](https://m.facebook.com/events/455121419077355?view=permalink&id=460117508577746) |
 
 #### Under 40
 

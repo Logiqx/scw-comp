@@ -25,6 +25,8 @@
 | [Square-1](sq1.md) | 23.83 | 36.33 |  | 💥 x 1, 🔥 x 4, ⚡ x 4 |
 | [Clock](clock.md) | 13.47 | 15.56 | 🏆 x 6 | 🔥 x 6, ⚡ x 5 |
 | [3x3x3 BLD](333bf.md) | 2:04.69 | 2:59.59 | 🏆 x 2 | 🔥 x 3, ⚡ x 7 |
+| [4x4x4 BLD](444bf.md) | - | - |  |  |
+| [3x3x3 MBLD](333mbf.md) | - | - |  |  |
 | [3x3x3 FMC](333fm.md) | 29 | - |  | ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

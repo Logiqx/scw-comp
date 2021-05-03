@@ -10,10 +10,11 @@
 
 #### Clock Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2021-04-19](../../results/2021-04-19/clock.md) | 40+ | **12.53** | **13.73** | 🏆 🥇 🔥 ⚡ | 15.02 | **12.53** | 15.58 | 13.16 | 13.02 | [Desktop](https://www.facebook.com/events/455121419077355/permalink/458570972065733) / [Mobile](https://m.facebook.com/events/455121419077355?view=permalink&id=458570972065733) |
 | [2021-04-05](../../results/2021-04-05/clock.md) | 40+ | 14.59 | DNF | 🥇 | DNF | 15.11 | 14.59 | 14.82 | DNF | [Desktop](https://www.facebook.com/events/469300370885865/permalink/470517074097528) / [Mobile](https://m.facebook.com/events/469300370885865?view=permalink&id=470517074097528) |
 | [2021-03-22](../../results/2021-03-22/clock.md) | 40+ | **13.01** | 16.24 | 🥇 ⚡ | 14.70 | 19.64 | 19.45 | **13.01** | 14.57 | [Desktop](https://www.facebook.com/events/893368394782856/permalink/895966414523054) / [Mobile](https://m.facebook.com/events/893368394782856?view=permalink&id=895966414523054) |
 | [2021-03-08](../../results/2021-03-08/clock.md) | 40+ | **14.95** | 17.21 | 🥇 ⚡ | **14.95** | 17.05 | 20.89 | 19.38 | 15.20 | [Desktop](https://www.facebook.com/events/430030294875923/permalink/436951697517116) / [Mobile](https://m.facebook.com/events/430030294875923?view=permalink&id=436951697517116) |

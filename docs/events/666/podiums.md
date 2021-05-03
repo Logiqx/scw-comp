@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-04-19](../../results/2021-04-19/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | <i class="flag flag-FI" /> | 2:59.31 | 3:18.51 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1009195762821458/permalink/1017253955348972) / [Mobile](https://m.facebook.com/events/1009195762821458?view=permalink&id=1017253955348972) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/666.md) | 40+ | <i class="flag flag-PH" /> | 5:12.14 | 5:49.15 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1009195762821458/permalink/1014370455637322) / [Mobile](https://m.facebook.com/events/1009195762821458?view=permalink&id=1014370455637322) |
+
 #### [2021-04-05](../../results/2021-04-05/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
