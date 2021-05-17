@@ -10,7 +10,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Jae Park](../../persons/jae_park/444bf.md) | 50+ | <i class="flag flag-US" /> | 4:33.83 | DNF | 🏆 x 29 | 🥇 x 32 | 💥 x 11, ⚡ x 11 |
+| [Jae Park](../../persons/jae_park/444bf.md) | 50+ | <i class="flag flag-US" /> | 4:33.83 | DNF | 🏆 x 30 | 🥇 x 33 | 💥 x 11, ⚡ x 11 |
 | [Javier Rossi](../../persons/javier_rossi/444bf.md) | 50+ | <i class="flag flag-AR" /> | 25:34.50 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | <i class="flag flag-SE" /> | 9:09.91 | DNF | 🏆 x 2 | 🥇 x 3, 🥈 x 5 | 💥 x 4, ⚡ x 4 |
 
@@ -19,9 +19,9 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | 40+ | <i class="flag flag-GB" /> | 10:52.00 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 5 | ⚡ x 1 |
-| [Anthony Rochester](../../persons/anthony_rochester/444bf.md) | 40+ | <i class="flag flag-AU" /> | 12:19.00 | DNF |  | 🥈 x 1 | ⚡ x 1 |
+| [Anthony Rochester](../../persons/anthony_rochester/444bf.md) | 40+ | <i class="flag flag-AU" /> | 9:22.30 | DNF |  | 🥈 x 2 | ⚡ x 2 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) | 40+ | <i class="flag flag-PL" /> | 7:54.96 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 4 | ⚡ x 3 |
-| [Jae Park](../../persons/jae_park/444bf.md) | 50+ | <i class="flag flag-US" /> | 4:26.20 | DNF | 🏆 x 29 | 🥇 x 32 | 💥 x 11, ⚡ x 11 |
+| [Jae Park](../../persons/jae_park/444bf.md) | 50+ | <i class="flag flag-US" /> | 4:26.20 | DNF | 🏆 x 30 | 🥇 x 33 | 💥 x 11, ⚡ x 11 |
 | [Javier Rossi](../../persons/javier_rossi/444bf.md) | 50+ | <i class="flag flag-AR" /> | 25:34.50 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | <i class="flag flag-SE" /> | 9:09.91 | DNF | 🏆 x 2 | 🥇 x 3, 🥈 x 5 | 💥 x 4, ⚡ x 4 |
 
@@ -30,6 +30,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Hardwick](../../persons/chris_hardwick/444bf.md) | <40 | <i class="flag flag-US" /> | 5:09.70 | 5:54.69 | 🏆 x 5 |  | 💥 x 4, 🔥 x 3, ⚡ x 7 |
+| [Ed Connell](../../persons/ed_connell/444bf.md) | <40 | <i class="flag flag-IE" /> | 20:04.82 | DNF |  |  | ⚡ x 1 |
 
 #### Under 20
 

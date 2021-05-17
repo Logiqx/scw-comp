@@ -10,14 +10,14 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Jae Park](../../persons/jae_park/555bf.md) | 50+ | <i class="flag flag-US" /> | 11:49.51 | DNF | 🏆 x 17 | 🥇 x 25 | 💥 x 7, ⚡ x 7 |
+| [Jae Park](../../persons/jae_park/555bf.md) | 50+ | <i class="flag flag-US" /> | 11:49.51 | DNF | 🏆 x 18 | 🥇 x 26 | 💥 x 7, ⚡ x 7 |
 
 #### Over 40
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/555bf.md) | 40+ | <i class="flag flag-GB" /> | 23:35.85 | DNF |  | 🥇 x 1, 🥈 x 2 | ⚡ x 2 |
-| [Jae Park](../../persons/jae_park/555bf.md) | 50+ | <i class="flag flag-US" /> | 11:49.51 | DNF | 🏆 x 17 | 🥇 x 25 | 💥 x 7, ⚡ x 7 |
+| [Jae Park](../../persons/jae_park/555bf.md) | 50+ | <i class="flag flag-US" /> | 11:49.51 | DNF | 🏆 x 18 | 🥇 x 26 | 💥 x 7, ⚡ x 7 |
 
 #### Under 40
 

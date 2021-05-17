@@ -22,6 +22,7 @@
 | [Skewb](skewb.md) | 28.41 | 38.18 | 🔥 x 1, ⚡ x 1 |
 | [Square-1](sq1.md) | 40.52 | 49.77 | 🔥 x 4, ⚡ x 4 |
 | [Clock](clock.md) | 11.43 | 13.49 | 🔥 x 5, ⚡ x 5 |
+| [3x3x3 BLD](333bf.md) | 3:38.95 | - | ⚡ x 1 |
 | [3x3x3 FMC](333fm.md) | 26 | - | ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

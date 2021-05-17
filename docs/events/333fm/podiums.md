@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-05-03](../../results/2021-05-03/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | <i class="flag flag-GB" /> | 27 | 28.67 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/177058757615887/permalink/178127077509055) / [Mobile](https://m.facebook.com/events/177058757615887?view=permalink&id=178127077509055) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | <i class="flag flag-TW" /> | 35 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/177058757615887/permalink/183026737019089) / [Mobile](https://m.facebook.com/events/177058757615887?view=permalink&id=183026737019089) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/333fm.md) | 40+ | <i class="flag flag-AU" /> | 48 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/177058757615887/permalink/181095203878909) / [Mobile](https://m.facebook.com/events/177058757615887?view=permalink&id=181095203878909) |
+
 #### [2021-04-19](../../results/2021-04-19/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

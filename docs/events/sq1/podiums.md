@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-05-03](../../results/2021-05-03/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 23.87 | 33.24 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1091923434665777/permalink/1100699580454829) / [Mobile](https://m.facebook.com/events/1091923434665777?view=permalink&id=1100699580454829) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/sq1.md) | 40+ | <i class="flag flag-TW" /> | 51.61 | 59.20 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1091923434665777/permalink/1095189344339186) / [Mobile](https://m.facebook.com/events/1091923434665777?view=permalink&id=1095189344339186) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/sq1.md) | 40+ | <i class="flag flag-AU" /> | 48.00 | 1:00.43 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1091923434665777/permalink/1095976800927107) / [Mobile](https://m.facebook.com/events/1091923434665777?view=permalink&id=1095976800927107) |
+
 #### [2021-04-19](../../results/2021-04-19/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

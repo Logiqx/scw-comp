@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-05-03](../../results/2021-05-03/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | <i class="flag flag-FI" /> | 48.00 | 52.42 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/158701836186375/permalink/166938658696026) / [Mobile](https://m.facebook.com/events/158701836186375?view=permalink&id=166938658696026) |
+| 2 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 53.07 | 1:05.57 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/158701836186375/permalink/162581779131714) / [Mobile](https://m.facebook.com/events/158701836186375?view=permalink&id=162581779131714) |
+| 3 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | <i class="flag flag-GB" /> | 1:05.76 | 1:06.72 | 🥉 | [Desktop](https://www.facebook.com/events/158701836186375/permalink/161641622559063) / [Mobile](https://m.facebook.com/events/158701836186375?view=permalink&id=161641622559063) |
+
 #### [2021-04-19](../../results/2021-04-19/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

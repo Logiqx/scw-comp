@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-05-03](../../results/2021-05-03/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | <i class="flag flag-AU" /> | 11.69 | 13.06 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1091923434665777/permalink/1093289581195829) / [Mobile](https://m.facebook.com/events/1091923434665777?view=permalink&id=1093289581195829) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 13.39 | 14.49 | 🥈 💥 🔥 | [Desktop](https://www.facebook.com/events/1091923434665777/permalink/1096951654162955) / [Mobile](https://m.facebook.com/events/1091923434665777?view=permalink&id=1096951654162955) |
+| 3 | [Jae Park](../../persons/jae_park/clock.md) | 50+ | <i class="flag flag-US" /> | 26.43 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/1091923434665777/permalink/1098861410638646) / [Mobile](https://m.facebook.com/events/1091923434665777?view=permalink&id=1098861410638646) |
+
 #### [2021-04-19](../../results/2021-04-19/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
