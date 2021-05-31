@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-05-17](../../results/2021-05-17/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | 50+ | <i class="flag flag-US" /> | 43.56 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1138256699977086/permalink/1143702899432466) / [Mobile](https://m.facebook.com/events/1138256699977086?view=permalink&id=1143702899432466) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 1:04.81 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/1138256699977086/permalink/1139736899829066) / [Mobile](https://m.facebook.com/events/1138256699977086?view=permalink&id=1139736899829066) |
+| 3 | [Yuichi Hamada](../../persons/yuichi_hamada/333bf.md) | 40+ | <i class="flag flag-JP" /> | 2:21.37 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/1849183990/videos/10215416741612270) / [Mobile](https://m.facebook.com/1849183990/videos/10215416741612270) |
+
 #### [2021-05-03](../../results/2021-05-03/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

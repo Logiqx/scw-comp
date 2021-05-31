@@ -22,14 +22,14 @@
 | [Andy Nicholls](../../persons/andy_nicholls/333oh.md) | 40+ | <i class="flag flag-GB" /> | 33.37 | 40.48 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 5 |
 | [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | <i class="flag flag-GB" /> | 35.64 | 39.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 20.41 | 26.24 | 🏆 x 1 | 🥇 x 1, 🥈 x 19, 🥉 x 3 | 🔥 x 6, ⚡ x 5 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.94 | 27.24 | 🏆 x 1 | 🥇 x 2, 🥈 x 20, 🥉 x 19 | 🔥 x 9, ⚡ x 7 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.94 | 27.24 | 🏆 x 1 | 🥇 x 2, 🥈 x 21, 🥉 x 19 | 🔥 x 9, ⚡ x 7 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) | 40+ | <i class="flag flag-PL" /> | 24.78 | 32.65 | 🏆 x 1 | 🥇 x 1, 🥈 x 2 | 🔥 x 3, ⚡ x 2 |
 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 27.06 | 33.17 |  | 🥈 x 3, 🥉 x 16 | 🔥 x 10, ⚡ x 4 |
 | [Jang Junho (장준호)](../../persons/jang_junho/333oh.md) | 40+ | <i class="flag flag-KR" /> | 59.25 | 1:06.79 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Jason Green](../../persons/jason_green/333oh.md) | 40+ | <i class="flag flag-US" /> | 30.77 | 36.01 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/333oh.md) | 40+ | <i class="flag flag-US" /> | 36.79 | 44.49 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jo Cocco](../../persons/jo_cocco/333oh.md) | 40+ | <i class="flag flag-GB" /> | 1:30.67 | 1:45.62 |  |  | 🔥 x 2, ⚡ x 3 |
-| [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 17.91 | 20.76 | 🏆 x 28 | 🥇 x 28 | 💥 x 2, 🔥 x 5, ⚡ x 3 |
+| [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 17.91 | 20.76 | 🏆 x 29 | 🥇 x 29 | 💥 x 2, 🔥 x 5, ⚡ x 3 |
 | [Michael George](../../persons/michael_george/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.57 | 21.87 | 🏆 x 18 | 🥇 x 22 | 💥 x 5, 🔥 x 3, ⚡ x 5 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 50+ | <i class="flag flag-CA" /> | 1:26.57 | 1:57.43 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Raúl Morales](../../persons/raul_morales/333oh.md) | 40+ | <i class="flag flag-ES" /> | 31.07 | 37.84 |  |  | 🔥 x 1, ⚡ x 1 |

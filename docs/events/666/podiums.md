@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-05-17](../../results/2021-05-17/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | <i class="flag flag-GB" /> | 3:57.15 | 4:08.82 | 🥇 | [Desktop](https://www.facebook.com/events/373354890741855/permalink/380413726702638) / [Mobile](https://m.facebook.com/events/373354890741855?view=permalink&id=380413726702638) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/666.md) | 50+ | <i class="flag flag-US" /> | 5:39.74 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/373354890741855/permalink/380463840030960) / [Mobile](https://m.facebook.com/events/373354890741855?view=permalink&id=380463840030960) |
+
 #### [2021-05-03](../../results/2021-05-03/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

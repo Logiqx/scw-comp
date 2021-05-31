@@ -26,7 +26,7 @@
 | [Clock](clock.md) | 13.47 | 15.56 | 🏆 x 6 | 🔥 x 6, ⚡ x 5 |
 | [3x3x3 BLD](333bf.md) | 2:04.69 | 2:59.59 | 🏆 x 2 | 🔥 x 3, ⚡ x 7 |
 | [4x4x4 BLD](444bf.md) | 20:04.82 | - |  | ⚡ x 1 |
-| [3x3x3 MBLD](333mbf.md) | - | - |  |  |
+| [3x3x3 MBLD](333mbf.md) | 2/2 in 9:39 | - |  | ⚡ x 1 |
 | [3x3x3 FMC](333fm.md) | 29 | - |  | ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

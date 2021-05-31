@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-05-17](../../results/2021-05-17/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 21.50 | 23.04 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/294093895691078/permalink/302885228145278) / [Mobile](https://m.facebook.com/events/294093895691078?view=permalink&id=302885228145278) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 30.01 | 31.42 | 🥈 | [Desktop](https://www.facebook.com/events/294093895691078/permalink/302851481481986) / [Mobile](https://m.facebook.com/events/294093895691078?view=permalink&id=302851481481986) |
+
 #### [2021-05-03](../../results/2021-05-03/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

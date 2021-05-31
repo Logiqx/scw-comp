@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2021-05-17](../../results/2021-05-17/clock.md) | 50+ | 13.35 | 15.04 | 🥈 | 16.97 | 15.18 | 14.82 | 13.35 | 15.13 | [Desktop](https://www.facebook.com/events/200054195285035/permalink/208541621102959) / [Mobile](https://m.facebook.com/events/200054195285035?view=permalink&id=208541621102959) |
 | [2021-05-03](../../results/2021-05-03/clock.md) | 50+ | 13.39 | **14.49** | 🥈 💥 🔥 | 14.84 | 14.09 | 14.93 | 14.55 | 13.39 | [Desktop](https://www.facebook.com/events/1091923434665777/permalink/1096951654162955) / [Mobile](https://m.facebook.com/events/1091923434665777?view=permalink&id=1096951654162955) |
 | [2021-04-19](../../results/2021-04-19/clock.md) | 50+ | 13.25 | 15.94 | 🥈 | 17.09 | 13.25 | 15.62 | 15.28 | 16.93 | [Desktop](https://www.facebook.com/events/455121419077355/permalink/462918851630945) / [Mobile](https://m.facebook.com/events/455121419077355?view=permalink&id=462918851630945) |
 | [2021-02-24](../../results/2021-02-24/clock.md) | 50+ | **12.96** | 14.99 | 🏆 🥇 💥 ⚡ | 13.29 | **12.96** | 20.61 | 15.29 | 16.39 | [Desktop](https://www.facebook.com/events/699856724029067/permalink/706262566721816) / [Mobile](https://m.facebook.com/events/699856724029067?view=permalink&id=706262566721816) |

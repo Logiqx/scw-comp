@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-05-17](../../results/2021-05-17/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/pyram.md) | 40+ | <i class="flag flag-AU" /> | 8.02 | 9.16 | 🥇 🔥 | [Desktop](https://www.facebook.com/events/200054195285035/permalink/201412115149243) / [Mobile](https://m.facebook.com/events/200054195285035?view=permalink&id=201412115149243) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.45 | 10.83 | 🥈 | [Desktop](https://www.facebook.com/events/200054195285035/permalink/208463651110756) / [Mobile](https://m.facebook.com/events/200054195285035?view=permalink&id=208463651110756) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 8.02 | 13.62 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/200054195285035/permalink/208521064438348) / [Mobile](https://m.facebook.com/events/200054195285035?view=permalink&id=208521064438348) |
+
 #### [2021-05-03](../../results/2021-05-03/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

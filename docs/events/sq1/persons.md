@@ -10,20 +10,20 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 15.88 | 21.34 | 🏆 x 34 | 🥇 x 34, 🥈 x 8 | 💥 x 10, 🔥 x 6, ⚡ x 6 |
+| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 15.88 | 21.34 | 🏆 x 35 | 🥇 x 35, 🥈 x 8 | 💥 x 10, 🔥 x 6, ⚡ x 6 |
 
 #### Over 40
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | <i class="flag flag-GB" /> | 31.85 | 49.65 |  | 🥈 x 6 | 🔥 x 2, ⚡ x 2 |
-| [Anthony Rochester](../../persons/anthony_rochester/sq1.md) | 40+ | <i class="flag flag-AU" /> | 48.00 | 1:00.43 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 15.88 | 21.34 | 🏆 x 34 | 🥇 x 34, 🥈 x 8 | 💥 x 10, 🔥 x 6, ⚡ x 6 |
+| [Anthony Rochester](../../persons/anthony_rochester/sq1.md) | 40+ | <i class="flag flag-AU" /> | 37.02 | 1:00.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
+| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 15.88 | 21.34 | 🏆 x 35 | 🥇 x 35, 🥈 x 8 | 💥 x 10, 🔥 x 6, ⚡ x 6 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | 40+ | <i class="flag flag-JP" /> | 18.69 | 24.34 | 🏆 x 8 | 🥇 x 8, 🥈 x 16 | 💥 x 2, 🔥 x 9, ⚡ x 4 |
-| [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 1:21.26 | 2:04.43 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
+| [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 1:21.26 | 1:55.22 |  | 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
 | [Konsta Jukka](../../persons/konsta_jukka/sq1.md) | 40+ | <i class="flag flag-FI" /> | 24.21 | 40.11 |  | 🥉 x 5 | 🔥 x 4, ⚡ x 3 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | <i class="flag flag-IN" /> | 43.91 | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/sq1.md) | 40+ | <i class="flag flag-TW" /> | 51.61 | 59.20 |  | 🥈 x 2 | 🔥 x 2, ⚡ x 2 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/sq1.md) | 40+ | <i class="flag flag-TW" /> | 51.61 | 59.20 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 
 #### Under 40
 

@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-05-17](../../results/2021-05-17/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/skewb.md) | 40+ | <i class="flag flag-AU" /> | 22.03 | 29.60 | 🥇 | [Desktop](https://www.facebook.com/events/200054195285035/permalink/201414001815721) / [Mobile](https://m.facebook.com/events/200054195285035?view=permalink&id=201414001815721) |
+
 #### [2021-05-03](../../results/2021-05-03/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
