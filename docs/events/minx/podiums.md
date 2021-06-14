@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-05-31](../../results/2021-05-31/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:27.09 | 1:33.02 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/477312563557358/permalink/485230306098917) / [Mobile](https://m.facebook.com/events/477312563557358?view=permalink&id=485230306098917) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:35.27 | 1:41.46 | 🥈 | [Desktop](https://www.facebook.com/events/477312563557358/permalink/483163736305574) / [Mobile](https://m.facebook.com/events/477312563557358?view=permalink&id=483163736305574) |
+| 3 | [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | <i class="flag flag-GB" /> | 3:33.17 | 3:36.49 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/584947108/videos/10157961681677109) / [Mobile](https://m.facebook.com/584947108/videos/10157961681677109) |
+
 #### [2021-05-17](../../results/2021-05-17/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

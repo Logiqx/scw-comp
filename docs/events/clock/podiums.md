@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-05-31](../../results/2021-05-31/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | <i class="flag flag-AU" /> | 12.80 | 14.07 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/4232725036784843/permalink/4238856289505051) / [Mobile](https://m.facebook.com/events/4232725036784843?view=permalink&id=4238856289505051) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 12.35 | 14.76 | 🥈 💥 ⚡ | [Desktop](https://www.facebook.com/events/4232725036784843/permalink/4261864780537535) / [Mobile](https://m.facebook.com/events/4232725036784843?view=permalink&id=4261864780537535) |
+
 #### [2021-05-17](../../results/2021-05-17/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

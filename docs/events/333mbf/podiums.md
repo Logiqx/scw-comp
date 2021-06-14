@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-05-31](../../results/2021-05-31/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Yuichi Hamada](../../persons/yuichi_hamada/333mbf.md) | 40+ | <i class="flag flag-JP" /> | 9/11 in 56:05 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/1849183990/videos/10215445072440523) / [Mobile](https://m.facebook.com/1849183990/videos/10215445072440523) |
+| 2 | [Huy Nguyen](../../persons/huy_nguyen/333mbf.md) | 40+ | <i class="flag flag-CA" /> | 3/5 in 24:32 | 🥈 | [Desktop](https://www.facebook.com/events/309278524127030/permalink/318024936585722) / [Mobile](https://m.facebook.com/events/309278524127030?view=permalink&id=318024936585722) |
+
 #### [2021-05-17](../../results/2021-05-17/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |
