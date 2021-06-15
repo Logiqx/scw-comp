@@ -20,7 +20,7 @@
 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | 40+ | <i class="flag flag-GB" /> | 11.80 | 13.95 |  | 🥈 x 1, 🥉 x 5 | 🔥 x 2, ⚡ x 4 |
 | [Anthony Rochester](../../persons/anthony_rochester/pyram.md) | 40+ | <i class="flag flag-AU" /> | 6.94 | 9.16 | 🏆 x 2 | 🥇 x 4, 🥈 x 2, 🥉 x 1 | 🔥 x 5, ⚡ x 6 |
 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.91 | 🏆 x 1 | 🥇 x 4, 🥈 x 35, 🥉 x 5 | 💥 x 6, 🔥 x 4, ⚡ x 3 |
-| [Eric Dodson](../../persons/eric_dodson/pyram.md) | 40+ | | 14.70 | 20.19 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Eric Dodson](../../persons/eric_dodson/pyram.md) | 40+ | <i class="flag flag-US" /> | 14.70 | 20.19 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) | 40+ | <i class="flag flag-JP" /> | 4.02 | 6.32 | 🏆 x 24 | 🥇 x 24 | 💥 x 2, 🔥 x 5, ⚡ x 5 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/pyram.md) | 40+ | <i class="flag flag-GB" /> | 19.74 | 24.12 |  |  | 🔥 x 1, ⚡ x 1 |
 | [JM Tambaoan](../../persons/jm_tambaoan/pyram.md) | 40+ | <i class="flag flag-PH" /> | 11.23 | 16.02 |  |  | 🔥 x 2, ⚡ x 2 |
