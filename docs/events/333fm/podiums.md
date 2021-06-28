@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-06-14](../../results/2021-06-14/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [David Roche](../../persons/david_roche/333fm.md) | 50+ | <i class="flag flag-AU" /> | 27 | 31.00 | 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/183961263668092/permalink/186342446763307) / [Mobile](https://m.facebook.com/events/183961263668092?view=permalink&id=186342446763307) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | <i class="flag flag-TW" /> | 34 | 40.00 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/183961263668092/permalink/189162646481287) / [Mobile](https://m.facebook.com/events/183961263668092?view=permalink&id=189162646481287) |
+| 3 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | <i class="flag flag-GB" /> | 29 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/183961263668092/permalink/185100496887502) / [Mobile](https://m.facebook.com/events/183961263668092?view=permalink&id=185100496887502) |
+
 #### [2021-05-31](../../results/2021-05-31/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

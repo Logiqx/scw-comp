@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-06-14](../../results/2021-06-14/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | 50+ | <i class="flag flag-US" /> | 44.26 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1486483778369091/permalink/1495500100800792) / [Mobile](https://m.facebook.com/events/1486483778369091?view=permalink&id=1495500100800792) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 1:14.48 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/1486483778369091/permalink/1494794684204667) / [Mobile](https://m.facebook.com/events/1486483778369091?view=permalink&id=1494794684204667) |
+| 3 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | <i class="flag flag-AR" /> | 2:45.84 | DNF | 🥉 | [Desktop](https://www.facebook.com/100000123498724/videos/4739804746033595) / [Mobile](https://m.facebook.com/100000123498724/videos/4739804746033595) |
+
 #### [2021-05-31](../../results/2021-05-31/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
