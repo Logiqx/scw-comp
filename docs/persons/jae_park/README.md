@@ -22,7 +22,7 @@
 | [3x3x3 BLD](333bf.md) | 41.32 | 48.04 | 🏆 x 37 | 🥇 x 40, 🥈 x 1 | 💥 x 10, 🔥 x 3, ⚡ x 8 |
 | [4x4x4 BLD](444bf.md) | 4:26.20 | - | 🏆 x 32 | 🥇 x 35 | 💥 x 11, ⚡ x 11 |
 | [5x5x5 BLD](555bf.md) | 11:49.51 | - | 🏆 x 19 | 🥇 x 27 | 💥 x 7, ⚡ x 7 |
-| [3x3x3 MBLD](333mbf.md) | 10/11 in 41:23 | - | 🏆 x 5 | 🥇 x 5, 🥈 x 2 | 💥 x 3, ⚡ x 3 |
+| [3x3x3 MBLD](333mbf.md) | 10/11 in 41:23 | - | 🏆 x 4 | 🥇 x 4, 🥈 x 3 | 💥 x 3, ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

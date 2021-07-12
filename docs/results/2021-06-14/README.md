@@ -126,9 +126,11 @@
 
 #### [3x3x3 Multi-Blind](333mbf.md)
 
-<span style="white-space: nowrap;">🏆 [Jae Park](../../persons/jae_park/333mbf.md) 9/13 in 42:20</span>
+<span style="white-space: nowrap;">🏆 [Yuichi Hamada](../../persons/yuichi_hamada/333mbf.md) 10/11 in 55:24</span>
 
-<span style="white-space: nowrap;">🥇 [Jae Park](../../persons/jae_park/333mbf.md) 9/13 in 42:20</span>, <span style="white-space: nowrap;">🥈 [Anthony Rochester](../../persons/anthony_rochester/333mbf.md) 5/9 in 37:08</span>
+<span style="white-space: nowrap;">🥇 [Yuichi Hamada](../../persons/yuichi_hamada/333mbf.md) 10/11 in 55:24</span>, <span style="white-space: nowrap;">🥈 [Jae Park](../../persons/jae_park/333mbf.md) 9/13 in 42:20</span>, <span style="white-space: nowrap;">🥉 [Anthony Rochester](../../persons/anthony_rochester/333mbf.md) 5/9 in 37:08</span>
+
+⚡ x 1 = <span style="white-space: nowrap;">[Yuichi Hamada](../../persons/yuichi_hamada/333mbf.md) 10/11 in 55:24</span>
 
 #### [3x3x3 Fewest Moves](333fm.md)
 

@@ -10,8 +10,9 @@
 
 | # | Name | Age | 🌍 | Single | Awards | Video |
 | :--: | :-- | :--: | :--: | :--: | :--: | :-- |
-| 1 | [Jae Park](../../persons/jae_park/333mbf.md) | 50+ | <i class="flag flag-US" /> | 9/13 in 42:20 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1486483778369091/permalink/1495238897493579) / [Mobile](https://m.facebook.com/events/1486483778369091?view=permalink&id=1495238897493579) |
-| 2 | [Anthony Rochester](../../persons/anthony_rochester/333mbf.md) | 40+ | <i class="flag flag-AU" /> | 5/9 in 37:08 | 🥈 | [Desktop](https://www.facebook.com/events/1486483778369091/permalink/1490631254621010) / [Mobile](https://m.facebook.com/events/1486483778369091?view=permalink&id=1490631254621010) |
+| 1 | [Yuichi Hamada](../../persons/yuichi_hamada/333mbf.md) | 40+ | <i class="flag flag-JP" /> | 10/11 in 55:24 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1486483778369091/permalink/1490555891295213) / [Mobile](https://m.facebook.com/events/1486483778369091?view=permalink&id=1490555891295213) |
+| 2 | [Jae Park](../../persons/jae_park/333mbf.md) | 50+ | <i class="flag flag-US" /> | 9/13 in 42:20 | 🥈 | [Desktop](https://www.facebook.com/events/1486483778369091/permalink/1495238897493579) / [Mobile](https://m.facebook.com/events/1486483778369091?view=permalink&id=1495238897493579) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/333mbf.md) | 40+ | <i class="flag flag-AU" /> | 5/9 in 37:08 | 🥉 | [Desktop](https://www.facebook.com/events/1486483778369091/permalink/1490631254621010) / [Mobile](https://m.facebook.com/events/1486483778369091?view=permalink&id=1490631254621010) |
 
 #### [2021-05-31](../../results/2021-05-31/333mbf.md)
 
