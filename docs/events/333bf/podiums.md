@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-06-28](../../results/2021-06-28/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | 50+ | <i class="flag flag-US" /> | 49.00 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/491249025468372/permalink/498342894758985) / [Mobile](https://m.facebook.com/events/491249025468372?view=permalink&id=498342894758985) |
+| 2 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | <i class="flag flag-AR" /> | 3:44.92 | DNF | 🥈 | [Desktop](https://www.facebook.com/100000123498724/videos/551637369551452) / [Mobile](https://m.facebook.com/100000123498724/videos/551637369551452) |
+
 #### [2021-06-14](../../results/2021-06-14/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
