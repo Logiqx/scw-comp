@@ -10,7 +10,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Jae Park](../../persons/jae_park/444bf.md) | 50+ | <i class="flag flag-US" /> | 4:33.83 | DNF | 🏆 x 32 | 🥇 x 35 | 💥 x 11, ⚡ x 11 |
+| [Jae Park](../../persons/jae_park/444bf.md) | 50+ | <i class="flag flag-US" /> | 4:33.83 | DNF | 🏆 x 33 | 🥇 x 36 | 💥 x 11, ⚡ x 11 |
 | [Javier Rossi](../../persons/javier_rossi/444bf.md) | 50+ | <i class="flag flag-AR" /> | 25:34.50 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | <i class="flag flag-SE" /> | 9:09.91 | DNF | 🏆 x 2 | 🥇 x 3, 🥈 x 5 | 💥 x 4, ⚡ x 4 |
 
@@ -21,7 +21,7 @@
 | [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | 40+ | <i class="flag flag-GB" /> | 10:52.00 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 5 | ⚡ x 1 |
 | [Anthony Rochester](../../persons/anthony_rochester/444bf.md) | 40+ | <i class="flag flag-AU" /> | 8:27.88 | DNF |  | 🥈 x 3 | ⚡ x 3 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) | 40+ | <i class="flag flag-PL" /> | 7:54.96 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 4 | ⚡ x 3 |
-| [Jae Park](../../persons/jae_park/444bf.md) | 50+ | <i class="flag flag-US" /> | 4:26.20 | DNF | 🏆 x 32 | 🥇 x 35 | 💥 x 11, ⚡ x 11 |
+| [Jae Park](../../persons/jae_park/444bf.md) | 50+ | <i class="flag flag-US" /> | 4:26.20 | DNF | 🏆 x 33 | 🥇 x 36 | 💥 x 11, ⚡ x 11 |
 | [Javier Rossi](../../persons/javier_rossi/444bf.md) | 50+ | <i class="flag flag-AR" /> | 25:34.50 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | <i class="flag flag-SE" /> | 9:09.91 | DNF | 🏆 x 2 | 🥇 x 3, 🥈 x 5 | 💥 x 4, ⚡ x 4 |
 | [Yuichi Hamada](../../persons/yuichi_hamada/444bf.md) | 40+ | <i class="flag flag-JP" /> | 12:31.10 | DNF |  | 🥈 x 1 | ⚡ x 1 |

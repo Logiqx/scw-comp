@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-07-12](../../results/2021-07-12/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Yuichi Hamada](../../persons/yuichi_hamada/333mbf.md) | 40+ | <i class="flag flag-JP" /> | 8/12 in 58:18 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/360990112107566/permalink/363761671830410) / [Mobile](https://m.facebook.com/events/360990112107566?view=permalink&id=363761671830410) |
+
 #### [2021-06-28](../../results/2021-06-28/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |

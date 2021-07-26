@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-07-12](../../results/2021-07-12/777.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | <i class="flag flag-GB" /> | 4:59.75 | 5:15.45 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/3019269651530977/permalink/3039653889492553) / [Mobile](https://m.facebook.com/events/3019269651530977?view=permalink&id=3039653889492553) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/777.md) | 40+ | <i class="flag flag-PH" /> | 8:42.08 | 8:52.75 | 🥈 | [Desktop](https://www.facebook.com/events/3019269651530977/permalink/3052646954859913) / [Mobile](https://m.facebook.com/events/3019269651530977?view=permalink&id=3052646954859913) |
+
 #### [2021-06-28](../../results/2021-06-28/777.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
