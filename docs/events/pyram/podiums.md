@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-07-26](../../results/2021-07-26/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Go-ho Choi](../../persons/go_ho_choi/pyram.md) | 40+ | <i class="flag flag-KR" /> | 6.07 | 7.85 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/5895704557137692/permalink/5963588683682612) / [Mobile](https://m.facebook.com/events/5895704557137692?view=permalink&id=5963588683682612) |
+| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 6.12 | 10.96 | 🥈 | [Desktop](https://www.facebook.com/events/5895704557137692/permalink/5965845043456976) / [Mobile](https://m.facebook.com/events/5895704557137692?view=permalink&id=5965845043456976) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 9.23 | 13.64 | 🥉 | [Desktop](https://www.facebook.com/events/5895704557137692/permalink/5960350984006382) / [Mobile](https://m.facebook.com/events/5895704557137692?view=permalink&id=5960350984006382) |
+
 #### [2021-07-12](../../results/2021-07-12/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

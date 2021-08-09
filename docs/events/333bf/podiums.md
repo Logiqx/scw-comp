@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-07-26](../../results/2021-07-26/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Jae Park](../../persons/jae_park/333bf.md) | 50+ | <i class="flag flag-US" /> | 47.00 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/250873333259866/permalink/257865322560667) / [Mobile](https://m.facebook.com/events/250873333259866?view=permalink&id=257865322560667) |
+| 2 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | <i class="flag flag-CA" /> | 1:28.35 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/250873333259866/permalink/256681906012342) / [Mobile](https://m.facebook.com/events/250873333259866?view=permalink&id=256681906012342) |
+
 #### [2021-07-12](../../results/2021-07-12/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

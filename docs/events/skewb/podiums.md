@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-07-26](../../results/2021-07-26/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Go-ho Choi](../../persons/go_ho_choi/skewb.md) | 40+ | <i class="flag flag-KR" /> | 8.56 | 12.35 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/5895704557137692/permalink/5963588683682612) / [Mobile](https://m.facebook.com/events/5895704557137692?view=permalink&id=5963588683682612) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/skewb.md) | 40+ | <i class="flag flag-PH" /> | 8.12 | 19.08 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/5895704557137692/permalink/5959936100714537) / [Mobile](https://m.facebook.com/events/5895704557137692?view=permalink&id=5959936100714537) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 13.28 | 19.15 | 🥉 | [Desktop](https://www.facebook.com/events/5895704557137692/permalink/5960372354004245) / [Mobile](https://m.facebook.com/events/5895704557137692?view=permalink&id=5960372354004245) |
+
 #### [2021-07-12](../../results/2021-07-12/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

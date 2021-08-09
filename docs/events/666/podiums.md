@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-07-26](../../results/2021-07-26/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | 40+ | <i class="flag flag-KR" /> | 2:48.49 | 3:03.55 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/210838191047415/permalink/220841146713786) / [Mobile](https://m.facebook.com/events/210838191047415?view=permalink&id=220841146713786) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | <i class="flag flag-GB" /> | 3:29.06 | 3:32.21 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/210838191047415/permalink/220379130093321) / [Mobile](https://m.facebook.com/events/210838191047415?view=permalink&id=220379130093321) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/666.md) | 40+ | <i class="flag flag-PH" /> | 5:29.08 | 5:44.17 | 🥉 | [Desktop](https://www.facebook.com/events/210838191047415/permalink/220308473433720) / [Mobile](https://m.facebook.com/events/210838191047415?view=permalink&id=220308473433720) |
+
 #### [2021-07-12](../../results/2021-07-12/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

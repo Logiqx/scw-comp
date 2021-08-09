@@ -49,7 +49,7 @@
 | [Brooke Persoon](../../persons/brooke_persoon/333fm.md) | <40 | <i class="flag flag-US" /> | 42 | DNF |  |  | ⚡ x 1 |
 | [Chris Hardwick](../../persons/chris_hardwick/333fm.md) | <40 | <i class="flag flag-US" /> | 43 | DNF |  |  | ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/333fm.md) | <40 | <i class="flag flag-US" /> | 47 | DNF |  |  | ⚡ x 4 |
-| [Ed Connell](../../persons/ed_connell/333fm.md) | <40 | <i class="flag flag-IE" /> | 29 | DNF |  |  | ⚡ x 4 |
+| [Ed Connell](../../persons/ed_connell/333fm.md) | <40 | <i class="flag flag-IE" /> | 29 | DNF | 🏆 x 1 |  | ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/333fm.md) | <40 | <i class="flag flag-KR" /> | 41 | DNF |  |  | ⚡ x 1 |
 | [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | <40 | <i class="flag flag-US" /> | 24 | 27.33 | 🏆 x 18 |  | 💥 x 1, 🔥 x 2, ⚡ x 7 |
 

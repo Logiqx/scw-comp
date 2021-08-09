@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-07-26](../../results/2021-07-26/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 23.86 | 28.91 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/5895704557137692/permalink/5965845043456976) / [Mobile](https://m.facebook.com/events/5895704557137692?view=permalink&id=5965845043456976) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 48.99 | 1:10.74 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/5895704557137692/permalink/5959940574047423) / [Mobile](https://m.facebook.com/events/5895704557137692?view=permalink&id=5959940574047423) |
+
 #### [2021-07-12](../../results/2021-07-12/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

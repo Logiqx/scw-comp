@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-07-26](../../results/2021-07-26/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:29.73 | 1:38.20 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/345405150546336/permalink/354913776262140) / [Mobile](https://m.facebook.com/events/345405150546336?view=permalink&id=354913776262140) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:37.37 | 1:48.57 | 🥈 | [Desktop](https://www.facebook.com/events/345405150546336/permalink/353897453030439) / [Mobile](https://m.facebook.com/events/345405150546336?view=permalink&id=353897453030439) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/minx.md) | 40+ | <i class="flag flag-PH" /> | 3:27.39 | 3:41.92 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/345405150546336/permalink/354073576346160) / [Mobile](https://m.facebook.com/events/345405150546336?view=permalink&id=354073576346160) |
+
 #### [2021-07-12](../../results/2021-07-12/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
