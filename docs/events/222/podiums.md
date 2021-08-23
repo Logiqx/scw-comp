@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-08-09](../../results/2021-08-09/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | <i class="flag flag-AU" /> | 5.25 | 6.87 | 🥇 | [Desktop](https://www.facebook.com/events/799005364067137/permalink/800237923943881) / [Mobile](https://m.facebook.com/events/799005364067137?view=permalink&id=800237923943881) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | <i class="flag flag-US" /> | 7.35 | 8.65 | 🥈 | [Desktop](https://www.facebook.com/events/799005364067137/permalink/802903440343996) / [Mobile](https://m.facebook.com/events/799005364067137?view=permalink&id=802903440343996) |
+| 3 | [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | <i class="flag flag-US" /> | 8.71 | 10.05 | 🥉 | [Desktop](https://www.facebook.com/events/799005364067137/permalink/806392143328459) / [Mobile](https://m.facebook.com/events/799005364067137?view=permalink&id=806392143328459) |
+
 #### [2021-07-26](../../results/2021-07-26/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

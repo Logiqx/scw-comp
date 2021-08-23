@@ -22,7 +22,7 @@
 | [Andy Nicholls](../../persons/andy_nicholls/333oh.md) | 40+ | <i class="flag flag-GB" /> | 33.37 | 40.48 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 5 |
 | [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | <i class="flag flag-GB" /> | 35.64 | 39.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 20.41 | 26.24 | 🏆 x 1 | 🥇 x 1, 🥈 x 19, 🥉 x 3 | 🔥 x 6, ⚡ x 5 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.94 | 27.02 | 🏆 x 2 | 🥇 x 3, 🥈 x 24, 🥉 x 20 | 🔥 x 10, ⚡ x 7 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.94 | 27.02 | 🏆 x 3 | 🥇 x 4, 🥈 x 24, 🥉 x 20 | 🔥 x 10, ⚡ x 7 |
 | [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | 40+ | <i class="flag flag-KR" /> | 23.29 | 27.89 | 🏆 x 2 | 🥈 x 1 | 💥 x 1, 🔥 x 3, ⚡ x 2 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) | 40+ | <i class="flag flag-PL" /> | 24.78 | 32.65 | 🏆 x 1 | 🥇 x 1, 🥈 x 2 | 🔥 x 3, ⚡ x 2 |
 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 27.06 | 32.51 |  | 🥈 x 3, 🥉 x 18 | 🔥 x 11, ⚡ x 4 |

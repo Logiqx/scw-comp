@@ -10,7 +10,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 15.88 | 21.34 | 🏆 x 39 | 🥇 x 39, 🥈 x 9 | 💥 x 10, 🔥 x 6, ⚡ x 6 |
+| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 15.88 | 21.34 | 🏆 x 40 | 🥇 x 40, 🥈 x 9 | 💥 x 10, 🔥 x 6, ⚡ x 6 |
 
 #### Over 40
 
@@ -18,10 +18,10 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | <i class="flag flag-GB" /> | 31.85 | 49.65 |  | 🥈 x 6 | 🔥 x 2, ⚡ x 2 |
 | [Anthony Rochester](../../persons/anthony_rochester/sq1.md) | 40+ | <i class="flag flag-AU" /> | 37.02 | 58.73 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
-| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 15.88 | 21.34 | 🏆 x 39 | 🥇 x 39, 🥈 x 9 | 💥 x 10, 🔥 x 6, ⚡ x 6 |
+| [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 15.88 | 21.34 | 🏆 x 40 | 🥇 x 40, 🥈 x 9 | 💥 x 10, 🔥 x 6, ⚡ x 6 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | 40+ | <i class="flag flag-JP" /> | 18.69 | 24.34 | 🏆 x 8 | 🥇 x 8, 🥈 x 16 | 💥 x 2, 🔥 x 9, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/sq1.md) | 40+ | <i class="flag flag-KR" /> | 16.65 | 20.56 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 48.99 | 1:10.74 |  | 🥈 x 3, 🥉 x 2 | 🔥 x 7, ⚡ x 6 |
+| [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 43.57 | 1:10.45 |  | 🥈 x 4, 🥉 x 2 | 🔥 x 8, ⚡ x 7 |
 | [Konsta Jukka](../../persons/konsta_jukka/sq1.md) | 40+ | <i class="flag flag-FI" /> | 24.21 | 40.11 |  | 🥉 x 5 | 🔥 x 4, ⚡ x 3 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | <i class="flag flag-IN" /> | 43.91 | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/sq1.md) | 40+ | <i class="flag flag-TW" /> | 51.61 | 59.20 |  | 🥈 x 2, 🥉 x 4 | 🔥 x 2, ⚡ x 2 |

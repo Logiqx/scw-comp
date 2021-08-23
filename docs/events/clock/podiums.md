@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-08-09](../../results/2021-08-09/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 11.76 | 13.00 | 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/342027504219422/permalink/346054820483357) / [Mobile](https://m.facebook.com/events/342027504219422?view=permalink&id=346054820483357) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/clock.md) | 40+ | <i class="flag flag-PH" /> | 23.45 | 26.79 | 🥈 | [Desktop](https://www.facebook.com/events/342027504219422/permalink/350829436672562) / [Mobile](https://m.facebook.com/events/342027504219422?view=permalink&id=350829436672562) |
+
 #### [2021-07-26](../../results/2021-07-26/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

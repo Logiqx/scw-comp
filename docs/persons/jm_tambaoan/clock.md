@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2021-08-09](../../results/2021-08-09/clock.md) | 40+ | 23.45 | 26.79 | 🥈 | 27.48 | 23.45 | 29.51 | 24.81 | 28.08 | [Desktop](https://www.facebook.com/events/342027504219422/permalink/350829436672562) / [Mobile](https://m.facebook.com/events/342027504219422?view=permalink&id=350829436672562) |
 | [2021-07-26](../../results/2021-07-26/clock.md) | 40+ | 25.86 | 29.77 | 🥈 | 29.24 | 27.19 | 25.86 | 41.16 | 32.89 | [Desktop](https://www.facebook.com/events/5895704557137692/permalink/5959925400715607) / [Mobile](https://m.facebook.com/events/5895704557137692?view=permalink&id=5959925400715607) |
 | [2021-07-12](../../results/2021-07-12/clock.md) | 40+ | 23.54 | **25.67** | 🥈 🔥 | 25.03 | 25.73 | 31.61 | 26.26 | 23.54 | [Desktop](https://www.facebook.com/events/853178815336395/permalink/861035237884086) / [Mobile](https://m.facebook.com/events/853178815336395?view=permalink&id=861035237884086) |
 | [2021-06-28](../../results/2021-06-28/clock.md) | 40+ | 23.02 | 26.84 | 🥈 | 37.89 | 26.68 | 28.76 | 25.09 | 23.02 | [Desktop](https://www.facebook.com/events/2032757193542617/permalink/2043528069132196) / [Mobile](https://m.facebook.com/events/2032757193542617?view=permalink&id=2043528069132196) |

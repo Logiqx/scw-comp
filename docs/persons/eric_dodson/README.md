@@ -6,11 +6,12 @@
 
 <i class="flag flag-US" />&nbsp;United States
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-| Event | Single | Average | Achievements|
-| :-- | --: | --: | :-- |
-| [Pyraminx](pyram.md) | 14.70 | 20.19 | 🔥 x 1, ⚡ x 1 |
+| Event | Single | Average | Medals | Achievements|
+| :-- | --: | --: | :-- | :-- |
+| [Pyraminx](pyram.md) | 14.70 | 19.41 | 🥉 x 1 | 🔥 x 2, ⚡ x 1 |
+| [Skewb](skewb.md) | 15.84 | 24.13 | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

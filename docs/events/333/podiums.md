@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-08-09](../../results/2021-08-09/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | <i class="flag flag-GB" /> | 15.58 | 18.83 | 🥇 | [Desktop](https://www.facebook.com/events/799005364067137/permalink/805736063394067) / [Mobile](https://m.facebook.com/events/799005364067137?view=permalink&id=805736063394067) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 19.31 | 22.45 | 🥈 | [Desktop](https://www.facebook.com/520891933/videos/1028999127859843) / [Mobile](https://m.facebook.com/520891933/videos/1028999127859843) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/333.md) | 40+ | <i class="flag flag-PH" /> | 17.89 | 22.90 | 🥉 | [Desktop](https://www.facebook.com/events/799005364067137/permalink/806617146639292) / [Mobile](https://m.facebook.com/events/799005364067137?view=permalink&id=806617146639292) |
+
 #### [2021-07-26](../../results/2021-07-26/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
