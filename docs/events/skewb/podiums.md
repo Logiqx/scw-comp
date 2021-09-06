@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-08-23](../../results/2021-08-23/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [JM Tambaoan](../../persons/jm_tambaoan/skewb.md) | 40+ | <i class="flag flag-PH" /> | 19.63 | 22.14 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/540950593849891/permalink/549914252953525) / [Mobile](https://m.facebook.com/events/540950593849891?view=permalink&id=549914252953525) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 20.34 | 22.94 | 🥈 | [Desktop](https://www.facebook.com/events/540950593849891/permalink/548062443138706) / [Mobile](https://m.facebook.com/events/540950593849891?view=permalink&id=548062443138706) |
+
 #### [2021-08-09](../../results/2021-08-09/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

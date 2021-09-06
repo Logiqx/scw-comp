@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-08-23](../../results/2021-08-23/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:57.58 | 2:01.73 | 🥇 | [Desktop](https://www.facebook.com/events/1108693076205590/permalink/1116396088768622) / [Mobile](https://m.facebook.com/events/1108693076205590?view=permalink&id=1116396088768622) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/555.md) | 40+ | <i class="flag flag-PH" /> | 2:54.36 | 2:58.86 | 🥈 | [Desktop](https://www.facebook.com/events/1108693076205590/permalink/1117524825322415) / [Mobile](https://m.facebook.com/events/1108693076205590?view=permalink&id=1117524825322415) |
+| 3 | [Kerry Go](../../persons/kerry_go/555.md) | 50+ | <i class="flag flag-US" /> | 3:12.52 | 3:36.28 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/1108693076205590/permalink/1117856041955960) / [Mobile](https://m.facebook.com/events/1108693076205590?view=permalink&id=1117856041955960) |
+
 #### [2021-08-09](../../results/2021-08-09/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

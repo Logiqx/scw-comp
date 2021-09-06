@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2021-08-23](../../results/2021-08-23/minx.md) | 40+ | **2:37.06** | 2:49.84 | ⚡ | 2:52.12 | 3:00.34 | **2:37.06** | DNS | DNS | [Desktop](https://www.facebook.com/JoCocco/videos/197391459121462) / [Mobile](https://m.facebook.com/JoCocco/videos/197391459121462) |
 | [2021-08-09](../../results/2021-08-09/minx.md) | 40+ | **2:43.87** | **2:48.89** | 🥈 🔥 ⚡ | **2:43.87** | 2:51.34 | 2:51.46 | DNS | DNS | [Desktop](https://www.facebook.com/JoCocco/videos/373801871032976) / [Mobile](https://m.facebook.com/JoCocco/videos/373801871032976) |
 | [2021-07-12](../../results/2021-07-12/minx.md) | 40+ | **2:47.19** | **3:03.83** | 🥉 🔥 ⚡ | 2:56.84 | 3:27.45 | **2:47.19** | DNS | DNS | [Desktop](https://www.facebook.com/JoCocco/videos/559898555444042) / [Mobile](https://m.facebook.com/JoCocco/videos/559898555444042) |
 | [2021-05-31](../../results/2021-05-31/minx.md) | 40+ | **3:33.17** | **3:36.49** | 🥉 🔥 ⚡ | 3:33.63 | **3:33.17** | 3:42.66 | DNS | DNS | [Desktop](https://www.facebook.com/584947108/videos/10157961681677109) / [Mobile](https://m.facebook.com/584947108/videos/10157961681677109) |

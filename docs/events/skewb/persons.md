@@ -11,7 +11,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Jae Park](../../persons/jae_park/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.94 | 34.95 |  | 🥇 x 1, 🥈 x 9 | 💥 x 4, 🔥 x 6, ⚡ x 6 |
-| [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 8.24 | 17.03 | 🏆 x 1 | 🥇 x 2, 🥈 x 2, 🥉 x 2 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
+| [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 8.24 | 17.03 | 🏆 x 1 | 🥇 x 2, 🥈 x 3, 🥉 x 2 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
 
 #### Over 40
 
@@ -23,10 +23,10 @@
 | [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | <i class="flag flag-JP" /> | 3.23 | 6.30 | 🏆 x 24 | 🥇 x 24 | 💥 x 6, 🔥 x 6, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/skewb.md) | 40+ | <i class="flag flag-KR" /> | 8.56 | 12.35 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/skewb.md) | 40+ | <i class="flag flag-PL" /> | 7.88 | 12.16 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
-| [JM Tambaoan](../../persons/jm_tambaoan/skewb.md) | 40+ | <i class="flag flag-PH" /> | 8.12 | 15.95 | 🏆 x 3 | 🥇 x 4, 🥈 x 4 | 🔥 x 6, ⚡ x 5 |
+| [JM Tambaoan](../../persons/jm_tambaoan/skewb.md) | 40+ | <i class="flag flag-PH" /> | 8.12 | 15.95 | 🏆 x 4 | 🥇 x 5, 🥈 x 4 | 🔥 x 6, ⚡ x 5 |
 | [Jae Park](../../persons/jae_park/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.94 | 26.94 |  | 🥇 x 1, 🥈 x 9 | 💥 x 4, 🔥 x 6, ⚡ x 6 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | 40+ | <i class="flag flag-US" /> | 4.15 | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 8.24 | 17.03 | 🏆 x 1 | 🥇 x 2, 🥈 x 2, 🥉 x 2 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
+| [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 8.24 | 17.03 | 🏆 x 1 | 🥇 x 2, 🥈 x 3, 🥉 x 2 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
 | [Marcel Balzer](../../persons/marcel_balzer/skewb.md) | 40+ | <i class="flag flag-DE" /> | 27.44 | 47.53 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 1 |
 | [Michael George](../../persons/michael_george/skewb.md) | 40+ | <i class="flag flag-GB" /> | 2.78 | 7.91 | 🏆 x 8 | 🥇 x 10 | 💥 x 4, 🔥 x 3, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | 40+ | <i class="flag flag-IN" /> | 4.49 | 8.06 | 🏆 x 2 | 🥇 x 2, 🥈 x 1 | 🔥 x 3, ⚡ x 3 |

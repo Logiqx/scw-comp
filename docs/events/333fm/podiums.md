@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-08-23](../../results/2021-08-23/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | <i class="flag flag-BR" /> | 29 | 30.67 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/367378891664957/permalink/373345437734969) / [Mobile](https://m.facebook.com/events/367378891664957?view=permalink&id=373345437734969) |
+
 
 
 #### [2021-07-12](../../results/2021-07-12/333fm.md)
