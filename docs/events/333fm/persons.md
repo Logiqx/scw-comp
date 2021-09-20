@@ -38,7 +38,7 @@
 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | <i class="flag flag-BR" /> | 29 | 30.67 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 3 |
 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | <i class="flag flag-GB" /> | 32 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 3 | ⚡ x 3 |
 | [Michael George](../../persons/michael_george/333fm.md) | 40+ | <i class="flag flag-GB" /> | 31 | DNF |  | 🥇 x 1, 🥈 x 4, 🥉 x 5 | ⚡ x 3 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | <i class="flag flag-TW" /> | 30 | 40.00 | 🏆 x 2 | 🥇 x 2, 🥈 x 8, 🥉 x 3 | 🔥 x 1, ⚡ x 4 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | <i class="flag flag-TW" /> | 30 | 40.00 | 🏆 x 2 | 🥇 x 3, 🥈 x 8, 🥉 x 3 | 🔥 x 1, ⚡ x 4 |
 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | <i class="flag flag-UA" /> | 21 | DNF | 🏆 x 14 | 🥇 x 14, 🥈 x 1 | 💥 x 3, ⚡ x 4 |
 
 #### Under 40
@@ -51,7 +51,7 @@
 | [Chris Thames](../../persons/chris_thames/333fm.md) | <40 | <i class="flag flag-US" /> | 47 | DNF |  |  | ⚡ x 4 |
 | [Ed Connell](../../persons/ed_connell/333fm.md) | <40 | <i class="flag flag-IE" /> | 29 | DNF | 🏆 x 1 |  | ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/333fm.md) | <40 | <i class="flag flag-KR" /> | 41 | DNF |  |  | ⚡ x 1 |
-| [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | <40 | <i class="flag flag-US" /> | 24 | 27.33 | 🏆 x 19 |  | 💥 x 1, 🔥 x 2, ⚡ x 7 |
+| [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | <40 | <i class="flag flag-US" /> | 24 | 27.33 | 🏆 x 20 |  | 💥 x 1, 🔥 x 2, ⚡ x 7 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

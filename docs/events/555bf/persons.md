@@ -23,7 +23,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Chris Hardwick](../../persons/chris_hardwick/555bf.md) | <40 | <i class="flag flag-US" /> | 11:13.56 | 13:17.89 | 🏆 x 14 |  | 💥 x 5, 🔥 x 3, ⚡ x 3 |
+| [Chris Hardwick](../../persons/chris_hardwick/555bf.md) | <40 | <i class="flag flag-US" /> | 11:13.56 | 13:17.89 | 🏆 x 15 |  | 💥 x 5, 🔥 x 3, ⚡ x 3 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-09-04](../../results/2021-09-04/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 16.07 | 23.41 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/208105634636421/permalink/216458953801089) / [Mobile](https://m.facebook.com/events/208105634636421?view=permalink&id=216458953801089) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 27.91 | 29.30 | 🥈 | [Desktop](https://www.facebook.com/events/208105634636421/permalink/208422884604696) / [Mobile](https://m.facebook.com/events/208105634636421?view=permalink&id=208422884604696) |
+| 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 29.93 | 32.67 | 🥉 | [Desktop](https://www.facebook.com/events/208105634636421/permalink/212367914210193) / [Mobile](https://m.facebook.com/events/208105634636421?view=permalink&id=212367914210193) |
+
 #### [2021-08-23](../../results/2021-08-23/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

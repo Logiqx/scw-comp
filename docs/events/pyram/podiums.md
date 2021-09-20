@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-09-04](../../results/2021-09-04/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 9.62 | 10.59 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/369922348122346/permalink/379443227170258) / [Mobile](https://m.facebook.com/events/369922348122346?view=permalink&id=379443227170258) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 11.01 | 11.63 | 🥈 | [Desktop](https://www.facebook.com/events/369922348122346/permalink/377348980713016) / [Mobile](https://m.facebook.com/events/369922348122346?view=permalink&id=377348980713016) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/pyram.md) | 40+ | <i class="flag flag-PH" /> | 16.49 | 18.35 | 🥉 | [Desktop](https://www.facebook.com/events/369922348122346/permalink/379189470528967) / [Mobile](https://m.facebook.com/events/369922348122346?view=permalink&id=379189470528967) |
+
 #### [2021-08-23](../../results/2021-08-23/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

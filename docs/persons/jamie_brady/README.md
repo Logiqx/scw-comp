@@ -12,7 +12,7 @@
 | :-- | --: | --: | :-- |
 | [3x3x3](333.md) | 20.75 | 24.65 | 🔥 x 1, ⚡ x 3 |
 | [4x4x4](444.md) | 2:24.93 | 2:38.28 | 🔥 x 1, ⚡ x 1 |
-| [3x3x3 OH](333oh.md) | 30.75 | 34.86 | 🔥 x 4, ⚡ x 3 |
+| [3x3x3 OH](333oh.md) | 30.75 | 34.86 | 🔥 x 5, ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

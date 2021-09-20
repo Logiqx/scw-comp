@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-09-04](../../results/2021-09-04/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | <i class="flag flag-FI" /> | 3.66 | 5.09 | 🥇 | [Desktop](https://www.facebook.com/events/208105634636421/permalink/216458953801089) / [Mobile](https://m.facebook.com/events/208105634636421?view=permalink&id=216458953801089) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | <i class="flag flag-AU" /> | 3.87 | 6.84 | 🥈 | [Desktop](https://www.facebook.com/events/208105634636421/permalink/211262440987407) / [Mobile](https://m.facebook.com/events/208105634636421?view=permalink&id=211262440987407) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | <i class="flag flag-US" /> | 6.26 | 7.52 | 🥉 | [Desktop](https://www.facebook.com/events/208105634636421/permalink/214745397305778) / [Mobile](https://m.facebook.com/events/208105634636421?view=permalink&id=214745397305778) |
+
 #### [2021-08-23](../../results/2021-08-23/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
