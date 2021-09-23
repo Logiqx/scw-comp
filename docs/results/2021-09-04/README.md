@@ -52,9 +52,11 @@
 
 #### [7x7x7](777.md)
 
-<span style="white-space: nowrap;">🏆 [Pete Lee](../../persons/pete_lee/777.md) 5:51.94</span>
+<span style="white-space: nowrap;">🏆 [Geoff Hartnell](../../persons/geoff_hartnell/777.md) 5:07.54</span>
 
-<span style="white-space: nowrap;">🥇 [JM Tambaoan](../../persons/jm_tambaoan/777.md) 9:23.67</span>
+<span style="white-space: nowrap;">🥇 [Geoff Hartnell](../../persons/geoff_hartnell/777.md) 5:07.54</span>, <span style="white-space: nowrap;">🥈 [JM Tambaoan](../../persons/jm_tambaoan/777.md) 9:23.67</span>
+
+🔥 x 1 = <span style="white-space: nowrap;">[Geoff Hartnell](../../persons/geoff_hartnell/777.md) 5:07.54</span>
 
 #### [3x3x3 One-Handed](333oh.md)
 

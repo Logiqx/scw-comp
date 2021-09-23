@@ -10,7 +10,8 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [JM Tambaoan](../../persons/jm_tambaoan/777.md) | 40+ | <i class="flag flag-PH" /> | 8:25.78 | 9:23.67 | 🥇 | [Desktop](https://www.facebook.com/events/899313470960376/permalink/908072223417834) / [Mobile](https://m.facebook.com/events/899313470960376?view=permalink&id=908072223417834) |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | <i class="flag flag-GB" /> | 4:51.45 | 5:07.54 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/899313470960376/permalink/900960417462348) / [Mobile](https://m.facebook.com/events/899313470960376?view=permalink&id=900960417462348) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/777.md) | 40+ | <i class="flag flag-PH" /> | 8:25.78 | 9:23.67 | 🥈 | [Desktop](https://www.facebook.com/events/899313470960376/permalink/908072223417834) / [Mobile](https://m.facebook.com/events/899313470960376?view=permalink&id=908072223417834) |
 
 #### [2021-08-23](../../results/2021-08-23/777.md)
 
