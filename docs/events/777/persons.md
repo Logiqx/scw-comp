@@ -29,8 +29,8 @@
 | [Chris Wright](../../persons/chris_wright/777.md) | 50+ | <i class="flag flag-GB" /> | 4:55.42 | 5:05.66 |  | 🥈 x 2 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | <i class="flag flag-US" /> | 15:59.23 | DNF |  | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | <i class="flag flag-JP" /> | 3:58.92 | 4:11.37 | 🏆 x 24 | 🥇 x 24 | 💥 x 6, 🔥 x 3, ⚡ x 5 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | <i class="flag flag-GB" /> | 4:49.30 | 5:07.54 | 🏆 x 14 | 🥇 x 16, 🥈 x 28 | 🔥 x 8, ⚡ x 7 |
-| [JM Tambaoan](../../persons/jm_tambaoan/777.md) | 40+ | <i class="flag flag-PH" /> | 7:58.61 | 8:36.98 |  | 🥇 x 1, 🥈 x 6, 🥉 x 2 | 🔥 x 3, ⚡ x 5 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | <i class="flag flag-GB" /> | 4:49.30 | 5:07.54 | 🏆 x 15 | 🥇 x 17, 🥈 x 28 | 🔥 x 8, ⚡ x 7 |
+| [JM Tambaoan](../../persons/jm_tambaoan/777.md) | 40+ | <i class="flag flag-PH" /> | 7:26.80 | 8:08.46 |  | 🥇 x 1, 🥈 x 7, 🥉 x 2 | 🔥 x 4, ⚡ x 6 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/777.md) | 40+ | <i class="flag flag-US" /> | 8:08.23 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/777.md) | 50+ | <i class="flag flag-US" /> | 9:06.58 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Konsta Jukka](../../persons/konsta_jukka/777.md) | 40+ | <i class="flag flag-FI" /> | 4:44.78 | 5:09.11 | 🏆 x 3 | 🥇 x 3, 🥈 x 6, 🥉 x 1 | 🔥 x 4, ⚡ x 5 |
@@ -40,6 +40,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/777.md) | <40 | <i class="flag flag-GB" /> | 11:27.00 | DNF |  |  | ⚡ x 1 |
+| [Chris Thames](../../persons/chris_thames/777.md) | <40 | <i class="flag flag-US" /> | 14:00.59 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/777.md) | <40 | <i class="flag flag-IE" /> | 8:56.69 | DNF |  |  | ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/777.md) | <40 | <i class="flag flag-VE" /> | 5:09.66 | 5:23.30 | 🏆 x 1 |  | 🔥 x 7, ⚡ x 7 |
 | [Pete Lee](../../persons/pete_lee/777.md) | <40 | <i class="flag flag-GB" /> | 5:10.98 | 5:37.73 | 🏆 x 3 |  | 🔥 x 11, ⚡ x 19 |

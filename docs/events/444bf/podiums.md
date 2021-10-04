@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-09-20](../../results/2021-09-20/444bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) | 40+ | <i class="flag flag-PL" /> | 5:57.41 | DNF | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/161657459452919/permalink/163552705930061) / [Mobile](https://m.facebook.com/events/161657459452919?view=permalink&id=163552705930061) |
+| 2 | [Jae Park](../../persons/jae_park/444bf.md) | 50+ | <i class="flag flag-US" /> | 7:05.96 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/161657459452919/permalink/170075535277778) / [Mobile](https://m.facebook.com/events/161657459452919?view=permalink&id=170075535277778) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/444bf.md) | 40+ | <i class="flag flag-AU" /> | 9:10.00 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/161657459452919/permalink/165908465694485) / [Mobile](https://m.facebook.com/events/161657459452919?view=permalink&id=165908465694485) |
+
 
 #### [2021-08-23](../../results/2021-08-23/444bf.md)
 

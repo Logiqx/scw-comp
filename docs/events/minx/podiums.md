@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-09-20](../../results/2021-09-20/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:33.18 | 1:36.32 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/836337370416586/permalink/841508903232766) / [Mobile](https://m.facebook.com/events/836337370416586?view=permalink&id=841508903232766) |
+| 2 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:26.06 | 1:40.09 | 🥈 | [Desktop](https://www.facebook.com/events/836337370416586/permalink/844502229600100) / [Mobile](https://m.facebook.com/events/836337370416586?view=permalink&id=844502229600100) |
+| 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 3:02.69 | 3:17.16 | 🥉 | [Desktop](https://www.facebook.com/events/836337370416586/permalink/840988053284851) / [Mobile](https://m.facebook.com/events/836337370416586?view=permalink&id=840988053284851) |
+
 #### [2021-09-04](../../results/2021-09-04/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

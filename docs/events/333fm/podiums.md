@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-09-20](../../results/2021-09-20/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) | 40+ | <i class="flag flag-PL" /> | 24 | 26.33 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/209362497846754/permalink/211521637630840) / [Mobile](https://m.facebook.com/events/209362497846754?view=permalink&id=211521637630840) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | <i class="flag flag-TW" /> | 29 | 34.33 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/209362497846754/permalink/213929597390044) / [Mobile](https://m.facebook.com/events/209362497846754?view=permalink&id=213929597390044) |
+
 #### [2021-09-04](../../results/2021-09-04/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

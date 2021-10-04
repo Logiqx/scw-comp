@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-09-20](../../results/2021-09-20/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 20.35 | 23.40 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/374286267681717/permalink/381546660289011) / [Mobile](https://m.facebook.com/events/374286267681717?view=permalink&id=381546660289011) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 47.05 | 1:06.86 | 🥈 | [Desktop](https://www.facebook.com/events/374286267681717/permalink/383600903416920) / [Mobile](https://m.facebook.com/events/374286267681717?view=permalink&id=383600903416920) |
+| 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/sq1.md) | 40+ | <i class="flag flag-TW" /> | 55.91 | 1:07.15 | 🥉 | [Desktop](https://www.facebook.com/events/374286267681717/permalink/378262483950762) / [Mobile](https://m.facebook.com/events/374286267681717?view=permalink&id=378262483950762) |
+
 #### [2021-09-04](../../results/2021-09-04/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
