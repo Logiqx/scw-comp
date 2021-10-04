@@ -13,7 +13,7 @@
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | <i class="flag flag-GB" /> | 5:04.37 | 5:18.32 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/4223726381008841/permalink/4267164196665059) / [Mobile](https://m.facebook.com/events/4223726381008841?view=permalink&id=4267164196665059) |
 | 2 | [JM Tambaoan](../../persons/jm_tambaoan/777.md) | 40+ | <i class="flag flag-PH" /> | 7:26.80 | 8:08.46 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/4223726381008841/permalink/4268163019898510) / [Mobile](https://m.facebook.com/events/4223726381008841?view=permalink&id=4268163019898510) |
 
-#### [2021-09-04](../../results/2021-09-04/777.md)
+#### [2021-09-06](../../results/2021-09-06/777.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |

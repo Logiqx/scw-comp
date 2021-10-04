@@ -14,7 +14,7 @@
 | 2 | [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | <i class="flag flag-AU" /> | 4.09 | 5.55 | 🥈 | [Desktop](https://www.facebook.com/events/836337370416586/permalink/839595113424145) / [Mobile](https://m.facebook.com/events/836337370416586?view=permalink&id=839595113424145) |
 | 3 | [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | <i class="flag flag-US" /> | 6.81 | 7.53 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/836337370416586/permalink/842805336436456) / [Mobile](https://m.facebook.com/events/836337370416586?view=permalink&id=842805336436456) |
 
-#### [2021-09-04](../../results/2021-09-04/222.md)
+#### [2021-09-06](../../results/2021-09-06/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |

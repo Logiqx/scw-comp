@@ -14,7 +14,7 @@
 | 2 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:26.06 | 1:40.09 | 🥈 | [Desktop](https://www.facebook.com/events/836337370416586/permalink/844502229600100) / [Mobile](https://m.facebook.com/events/836337370416586?view=permalink&id=844502229600100) |
 | 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 3:02.69 | 3:17.16 | 🥉 | [Desktop](https://www.facebook.com/events/836337370416586/permalink/840988053284851) / [Mobile](https://m.facebook.com/events/836337370416586?view=permalink&id=840988053284851) |
 
-#### [2021-09-04](../../results/2021-09-04/minx.md)
+#### [2021-09-06](../../results/2021-09-06/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |

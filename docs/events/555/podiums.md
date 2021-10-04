@@ -14,7 +14,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:54.00 | 1:58.48 | 🥈 | [Desktop](https://www.facebook.com/events/4223726381008841/permalink/4267252946656184) / [Mobile](https://m.facebook.com/events/4223726381008841?view=permalink&id=4267252946656184) |
 | 3 | [JM Tambaoan](../../persons/jm_tambaoan/555.md) | 40+ | <i class="flag flag-PH" /> | 2:29.16 | 2:33.30 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/4223726381008841/permalink/4268131413235004) / [Mobile](https://m.facebook.com/events/4223726381008841?view=permalink&id=4268131413235004) |
 
-#### [2021-09-04](../../results/2021-09-04/555.md)
+#### [2021-09-06](../../results/2021-09-06/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |

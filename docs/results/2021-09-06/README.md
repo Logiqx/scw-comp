@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Highlights 2021-09-04
+### Highlights 2021-09-06
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 

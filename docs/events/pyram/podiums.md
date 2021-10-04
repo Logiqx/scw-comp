@@ -14,7 +14,7 @@
 | 2 | [Anthony Rochester](../../persons/anthony_rochester/pyram.md) | 40+ | <i class="flag flag-AU" /> | 9.14 | 11.32 | 🥈 | [Desktop](https://www.facebook.com/events/374286267681717/permalink/377961507314193) / [Mobile](https://m.facebook.com/events/374286267681717?view=permalink&id=377961507314193) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 10.18 | 12.60 | 🥉 | [Desktop](https://www.facebook.com/events/374286267681717/permalink/383060256804318) / [Mobile](https://m.facebook.com/events/374286267681717?view=permalink&id=383060256804318) |
 
-#### [2021-09-04](../../results/2021-09-04/pyram.md)
+#### [2021-09-06](../../results/2021-09-06/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |

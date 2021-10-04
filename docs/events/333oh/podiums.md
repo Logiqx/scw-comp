@@ -13,7 +13,7 @@
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 20.39 | 23.05 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/836337370416586/permalink/844502229600100) / [Mobile](https://m.facebook.com/events/836337370416586?view=permalink&id=844502229600100) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 27.40 | 29.38 | 🥈 | [Desktop](https://www.facebook.com/events/836337370416586/permalink/841467743236882) / [Mobile](https://m.facebook.com/events/836337370416586?view=permalink&id=841467743236882) |
 
-#### [2021-09-04](../../results/2021-09-04/333oh.md)
+#### [2021-09-06](../../results/2021-09-06/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |

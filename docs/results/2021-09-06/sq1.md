@@ -2,13 +2,14 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### 3x3x3 Blindfolded 2021-09-04
+### Square-1 2021-09-06
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-| # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Video |
-| :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | :-- |
-| 1 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 1:09.00 | DNF | 🏆 🥇 | DNF | 1:12.52 | 1:09.00 | [Desktop](https://www.facebook.com/events/370711424514120/permalink/373986200853309) / [Mobile](https://m.facebook.com/events/370711424514120?view=permalink&id=373986200853309) |
+| # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 21.18 | 22.71 | 🏆 🥇 | 25.76 | 23.51 | 22.77 | 21.86 | 21.18 | [Desktop](https://www.facebook.com/events/369922348122346/permalink/379443227170258) / [Mobile](https://m.facebook.com/events/369922348122346?view=permalink&id=379443227170258) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 57.56 | 1:03.49 | 🥈 🔥 | 58.32 | 1:10.96 | 1:18.70 | 57.56 | 1:01.18 | [Desktop](https://www.facebook.com/events/369922348122346/permalink/379190637195517) / [Mobile](https://m.facebook.com/events/369922348122346?view=permalink&id=379190637195517) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

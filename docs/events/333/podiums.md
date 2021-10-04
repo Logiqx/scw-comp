@@ -14,7 +14,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | <i class="flag flag-GB" /> | 15.73 | 16.61 | 🥈 | [Desktop](https://www.facebook.com/events/836337370416586/permalink/841011299949193) / [Mobile](https://m.facebook.com/events/836337370416586?view=permalink&id=841011299949193) |
 | 3 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | <i class="flag flag-PL" /> | 14.94 | 16.79 | 🥉 | [Desktop](https://www.facebook.com/events/836337370416586/permalink/842045229845800) / [Mobile](https://m.facebook.com/events/836337370416586?view=permalink&id=842045229845800) |
 
-#### [2021-09-04](../../results/2021-09-04/333.md)
+#### [2021-09-06](../../results/2021-09-06/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |

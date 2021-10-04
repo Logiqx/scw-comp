@@ -14,7 +14,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | <i class="flag flag-GB" /> | 58.57 | 1:06.48 | 🥈 | [Desktop](https://www.facebook.com/events/4223726381008841/permalink/4267291453319000) / [Mobile](https://m.facebook.com/events/4223726381008841?view=permalink&id=4267291453319000) |
 | 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/444.md) | 40+ | <i class="flag flag-TW" /> | 1:13.04 | 1:17.44 | 🥉 | [Desktop](https://www.facebook.com/events/4223726381008841/permalink/4243083292406483) / [Mobile](https://m.facebook.com/events/4223726381008841?view=permalink&id=4243083292406483) |
 
-#### [2021-09-04](../../results/2021-09-04/444.md)
+#### [2021-09-06](../../results/2021-09-06/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |

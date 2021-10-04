@@ -14,7 +14,7 @@
 | 2 | [JM Tambaoan](../../persons/jm_tambaoan/666.md) | 40+ | <i class="flag flag-PH" /> | 4:41.61 | 5:06.21 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/4223726381008841/permalink/4268147889900023) / [Mobile](https://m.facebook.com/events/4223726381008841?view=permalink&id=4268147889900023) |
 | 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) | 40+ | <i class="flag flag-TW" /> | 5:53.60 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/4223726381008841/permalink/4243087855739360) / [Mobile](https://m.facebook.com/events/4223726381008841?view=permalink&id=4243087855739360) |
 
-#### [2021-09-04](../../results/2021-09-04/666.md)
+#### [2021-09-06](../../results/2021-09-06/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |

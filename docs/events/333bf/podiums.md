@@ -14,7 +14,7 @@
 | 2 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 52.98 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/161657459452919/permalink/165413082410690) / [Mobile](https://m.facebook.com/events/161657459452919?view=permalink&id=165413082410690) |
 | 3 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | <i class="flag flag-PL" /> | 1:40.91 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/161657459452919/permalink/163572542594744) / [Mobile](https://m.facebook.com/events/161657459452919?view=permalink&id=163572542594744) |
 
-#### [2021-09-04](../../results/2021-09-04/333bf.md)
+#### [2021-09-06](../../results/2021-09-06/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |

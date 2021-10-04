@@ -14,7 +14,7 @@
 | 2 | [JM Tambaoan](../../persons/jm_tambaoan/clock.md) | 40+ | <i class="flag flag-PH" /> | 20.07 | 22.13 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/374286267681717/permalink/383602996750044) / [Mobile](https://m.facebook.com/events/374286267681717?view=permalink&id=383602996750044) |
 | 3 | [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | <i class="flag flag-AU" /> | 12.29 | 23.26 | 🥉 | [Desktop](https://www.facebook.com/events/374286267681717/permalink/377962400647437) / [Mobile](https://m.facebook.com/events/374286267681717?view=permalink&id=377962400647437) |
 
-#### [2021-09-04](../../results/2021-09-04/clock.md)
+#### [2021-09-06](../../results/2021-09-06/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
