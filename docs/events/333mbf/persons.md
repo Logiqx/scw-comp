@@ -12,19 +12,19 @@
 | :-- | :--: | :--: | :--: | :--: | :-- | :-- |
 | [Jae Park](../../persons/jae_park/333mbf.md) | 50+ | <i class="flag flag-US" /> | 10/11 in 41:23 | 🏆 x 4 | 🥇 x 4, 🥈 x 3 | 💥 x 3, ⚡ x 3 |
 | [Javier Rossi](../../persons/javier_rossi/333mbf.md) | 50+ | <i class="flag flag-AR" /> | 2/2 in 12:59 |  | 🥉 x 1 | ⚡ x 1 |
-| [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 50+ | <i class="flag flag-SE" /> | 5/5 in 25:22 | 🏆 x 1 | 🥇 x 1 | ⚡ x 1 |
+| [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 50+ | <i class="flag flag-SE" /> | 5/5 in 25:22 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | ⚡ x 1 |
 
 #### Over 40
 
 | Name | Age | 🌍 | Single | Cups | Medals | Achievements |
 | :-- | :--: | :--: | :--: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333mbf.md) | 40+ | <i class="flag flag-GB" /> | 4/6 in 56:43 |  |  | ⚡ x 1 |
-| [Anthony Rochester](../../persons/anthony_rochester/333mbf.md) | 40+ | <i class="flag flag-AU" /> | 12/17 in 51:55 | 🏆 x 2 | 🥇 x 2, 🥈 x 4, 🥉 x 2 | ⚡ x 3 |
+| [Anthony Rochester](../../persons/anthony_rochester/333mbf.md) | 40+ | <i class="flag flag-AU" /> | 13/17 in 54:13 | 🏆 x 3 | 🥇 x 3, 🥈 x 4, 🥉 x 2 | ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333mbf.md) | 40+ | <i class="flag flag-PL" /> | 2/2 in 8:34 |  | 🥈 x 1 | ⚡ x 1 |
 | [Huy Nguyen](../../persons/huy_nguyen/333mbf.md) | 40+ | <i class="flag flag-CA" /> | 3/3 in 9:20 |  | 🥈 x 1, 🥉 x 3 | ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/333mbf.md) | 50+ | <i class="flag flag-US" /> | 10/11 in 41:23 | 🏆 x 4 | 🥇 x 4, 🥈 x 3 | 💥 x 3, ⚡ x 3 |
 | [Javier Rossi](../../persons/javier_rossi/333mbf.md) | 50+ | <i class="flag flag-AR" /> | 2/2 in 12:59 |  | 🥉 x 1 | ⚡ x 1 |
-| [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 50+ | <i class="flag flag-SE" /> | 5/5 in 25:22 | 🏆 x 1 | 🥇 x 1 | ⚡ x 1 |
+| [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 50+ | <i class="flag flag-SE" /> | 5/5 in 25:22 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | ⚡ x 1 |
 | [Yuichi Hamada](../../persons/yuichi_hamada/333mbf.md) | 40+ | <i class="flag flag-JP" /> | 10/11 in 55:24 | 🏆 x 4 | 🥇 x 4 | ⚡ x 2 |
 
 #### Under 40

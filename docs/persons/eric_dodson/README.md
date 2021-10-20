@@ -10,8 +10,9 @@
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [Pyraminx](pyram.md) | 14.70 | 19.41 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 1 |
-| [Skewb](skewb.md) | 5.92 | 13.10 | 🏆 x 1 | 🥇 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
+| [Pyraminx](pyram.md) | 13.11 | 16.51 |  | 🥉 x 2 | 🔥 x 3, ⚡ x 2 |
+| [Skewb](skewb.md) | 5.92 | 13.10 | 🏆 x 2 | 🥇 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
+| [Clock](clock.md) | 26.59 | 29.11 |  |  | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

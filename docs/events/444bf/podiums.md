@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-10-04](../../results/2021-10-04/444bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) | 40+ | <i class="flag flag-PL" /> | 7:39.34 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/244694307606524/permalink/249941623748459) / [Mobile](https://m.facebook.com/events/244694307606524?view=permalink&id=249941623748459) |
+| 2 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | <i class="flag flag-SE" /> | 10:20.22 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/244694307606524/permalink/251310750278213) / [Mobile](https://m.facebook.com/events/244694307606524?view=permalink&id=251310750278213) |
+| 3 | [Jae Park](../../persons/jae_park/444bf.md) | 50+ | <i class="flag flag-US" /> | 10:28.75 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/244694307606524/permalink/245467870862501) / [Mobile](https://m.facebook.com/events/244694307606524?view=permalink&id=245467870862501) |
+
 #### [2021-09-20](../../results/2021-09-20/444bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

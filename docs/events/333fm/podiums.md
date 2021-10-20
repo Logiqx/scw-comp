@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-10-04](../../results/2021-10-04/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) | 40+ | <i class="flag flag-PL" /> | 25 | 26.33 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/382724596896965/permalink/383673696802055) / [Mobile](https://m.facebook.com/events/382724596896965?view=permalink&id=383673696802055) |
+
 #### [2021-09-20](../../results/2021-09-20/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-10-04](../../results/2021-10-04/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 11.08 | 12.27 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/1205858816603137/permalink/1209572502898435) / [Mobile](https://m.facebook.com/events/1205858816603137?view=permalink&id=1209572502898435) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/clock.md) | 40+ | <i class="flag flag-PH" /> | 20.80 | 24.22 | 🥈 | [Desktop](https://www.facebook.com/events/1205858816603137/permalink/1214798252375860) / [Mobile](https://m.facebook.com/events/1205858816603137?view=permalink&id=1214798252375860) |
+| 3 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | <i class="flag flag-SE" /> | 19.99 | 25.38 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1205858816603137/permalink/1214167205772298) / [Mobile](https://m.facebook.com/events/1205858816603137?view=permalink&id=1214167205772298) |
+
 #### [2021-09-20](../../results/2021-09-20/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

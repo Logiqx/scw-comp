@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-10-04](../../results/2021-10-04/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Eric Dodson](../../persons/eric_dodson/skewb.md) | 40+ | <i class="flag flag-US" /> | 12.45 | 15.39 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1205858816603137/permalink/1215315748990777) / [Mobile](https://m.facebook.com/events/1205858816603137?view=permalink&id=1215315748990777) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 14.72 | 21.05 | 🥈 | [Desktop](https://www.facebook.com/events/1205858816603137/permalink/1212337365955282) / [Mobile](https://m.facebook.com/events/1205858816603137?view=permalink&id=1212337365955282) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/skewb.md) | 40+ | <i class="flag flag-PH" /> | 16.61 | 22.65 | 🥉 | [Desktop](https://www.facebook.com/events/1205858816603137/permalink/1214797052375980) / [Mobile](https://m.facebook.com/events/1205858816603137?view=permalink&id=1214797052375980) |
+
 #### [2021-09-20](../../results/2021-09-20/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

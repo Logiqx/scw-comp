@@ -12,6 +12,7 @@
 | :-- | --: | --: | :-- |
 | [3x3x3](333.md) | 22.86 | 24.84 | 🔥 x 7, ⚡ x 5 |
 | [2x2x2](222.md) | 9.18 | 11.36 | 🔥 x 3, ⚡ x 3 |
+| [4x4x4](444.md) | 2:06.67 | 2:21.77 | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
