@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2021-10-18](../../results/2021-10-18/pyram.md) | 50+ | 8.65 | 11.38 | 🏆 🥇 | 12.47 | 11.01 | 10.67 | 13.54 | 8.65 | [Desktop](https://www.facebook.com/events/625257752191369/permalink/633695021347642) / [Mobile](https://m.facebook.com/events/625257752191369?view=permalink&id=633695021347642) |
 | [2021-10-04](../../results/2021-10-04/pyram.md) | 50+ | 7.70 | 12.48 | 🥈 | 7.70 | 11.79 | 12.77 | 12.88 | 14.40 | [Desktop](https://www.facebook.com/events/1205858816603137/permalink/1215165812339104) / [Mobile](https://m.facebook.com/events/1205858816603137?view=permalink&id=1215165812339104) |
 | [2021-09-20](../../results/2021-09-20/pyram.md) | 50+ | 9.13 | 11.03 | 🥇 | 12.12 | 13.16 | 11.62 | 9.35 | 9.13 | [Desktop](https://www.facebook.com/events/374286267681717/permalink/381546660289011) / [Mobile](https://m.facebook.com/events/374286267681717?view=permalink&id=381546660289011) |
 | [2021-09-06](../../results/2021-09-06/pyram.md) | 50+ | 9.62 | 10.59 | 🏆 🥇 | 10.12 | 11.24 | 13.39 | 9.62 | 10.42 | [Desktop](https://www.facebook.com/events/369922348122346/permalink/379443227170258) / [Mobile](https://m.facebook.com/events/369922348122346?view=permalink&id=379443227170258) |

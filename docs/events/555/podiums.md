@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-10-18](../../results/2021-10-18/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | <i class="flag flag-FI" /> | 1:37.97 | 1:57.48 | 🥇 | [Desktop](https://www.facebook.com/events/917344582209340/permalink/927358721207926) / [Mobile](https://m.facebook.com/events/917344582209340?view=permalink&id=927358721207926) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:45.25 | 1:59.51 | 🥈 | [Desktop](https://www.facebook.com/events/917344582209340/permalink/924955814781550) / [Mobile](https://m.facebook.com/events/917344582209340?view=permalink&id=924955814781550) |
+| 3 | [Jae Park](../../persons/jae_park/555.md) | 50+ | <i class="flag flag-US" /> | 9:45.29 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/917344582209340/permalink/925530188057446) / [Mobile](https://m.facebook.com/events/917344582209340?view=permalink&id=925530188057446) |
+
 #### [2021-10-04](../../results/2021-10-04/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

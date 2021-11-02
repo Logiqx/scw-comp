@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-10-18](../../results/2021-10-18/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 21.69 | 24.05 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/625257752191369/permalink/633695021347642) / [Mobile](https://m.facebook.com/events/625257752191369?view=permalink&id=633695021347642) |
+
 #### [2021-10-04](../../results/2021-10-04/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

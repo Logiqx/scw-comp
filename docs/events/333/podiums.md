@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-10-18](../../results/2021-10-18/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | <i class="flag flag-FI" /> | 10.05 | 11.14 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/261213032615951/permalink/270249691712285) / [Mobile](https://m.facebook.com/events/261213032615951?view=permalink&id=270249691712285) |
+| 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | <i class="flag flag-GB" /> | 13.76 | 16.93 | 🥈 | [Desktop](https://www.facebook.com/events/261213032615951/permalink/266312122106042) / [Mobile](https://m.facebook.com/events/261213032615951?view=permalink&id=266312122106042) |
+| 3 | [Jason Green](../../persons/jason_green/333.md) | 40+ | <i class="flag flag-US" /> | 16.19 | 18.48 | 🥉 | [Desktop](https://www.facebook.com/jasongreenbowler/videos/445434570349082) / [Mobile](https://m.facebook.com/jasongreenbowler/videos/445434570349082) |
+
 #### [2021-10-04](../../results/2021-10-04/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

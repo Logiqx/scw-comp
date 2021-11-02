@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-10-18](../../results/2021-10-18/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/333mbf.md) | 40+ | <i class="flag flag-AU" /> | 12/17 in 56:07 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/307788960729409/permalink/313929030115402) / [Mobile](https://m.facebook.com/events/307788960729409?view=permalink&id=313929030115402) |
+| 2 | [Huy Nguyen](../../persons/huy_nguyen/333mbf.md) | 40+ | <i class="flag flag-CA" /> | 5/5 in 27:19 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/307788960729409/permalink/315434876631484) / [Mobile](https://m.facebook.com/events/307788960729409?view=permalink&id=315434876631484) |
+| 3 | [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 50+ | <i class="flag flag-SE" /> | 8/11 in 52:24 | 🥉 | [Desktop](https://www.facebook.com/events/307788960729409/permalink/311480793693559) / [Mobile](https://m.facebook.com/events/307788960729409?view=permalink&id=311480793693559) |
+
 #### [2021-10-04](../../results/2021-10-04/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |
