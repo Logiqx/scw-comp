@@ -1,200 +1,250 @@
-country_name,iso2
-Afghanistan,AF
-Albania,AL
-Algeria,DZ
-Andorra,AD
-Angola,AO
-Antigua and Barbuda,AG
-Argentina,AR
-Armenia,AM
-Australia,AU
-Austria,AT
-Azerbaijan,AZ
-Bahamas,BS
-Bahrain,BH
-Bangladesh,BD
-Barbados,BB
-Belarus,BY
-Belgium,BE
-Belize,BZ
-Benin,BJ
-Bhutan,BT
-Bolivia,BO
-Bosnia and Herzegovina,BA
-Botswana,BW
-Brazil,BR
-Brunei,BN
-Bulgaria,BG
-Burkina Faso,BF
-Burundi,BI
-Cabo Verde,CV
-Cambodia,KH
-Cameroon,CM
-Canada,CA
-Central African Republic,CF
-Chad,TD
-Chile,CL
-China,CN
-Colombia,CO
-Comoros,KM
-Congo,CG
-Costa Rica,CR
-Côte d'Ivoire,CI
-Croatia,HR
-Cuba,CU
-Cyprus,CY
-Czech Republic,CZ
-Democratic People's Republic of Korea,KP
-Democratic Republic of the Congo,CD
-Denmark,DK
-Djibouti,DJ
-Dominica,DM
-Dominican Republic,DO
-Ecuador,EC
-Egypt,EG
-El Salvador,SV
-Equatorial Guinea,GQ
-Eritrea,ER
-Estonia,EE
-Eswatini,SZ
-Ethiopia,ET
-Federated States of Micronesia,FM
-Fiji,FJ
-Finland,FI
-France,FR
-Gabon,GA
-Gambia,GM
-Georgia,GE
-Germany,DE
-Ghana,GH
-Greece,GR
-Grenada,GD
-Guatemala,GT
-Guinea Bissau,GW
-Guinea,GN
-Guyana,GY
-Haiti,HT
-Honduras,HN
-Hong Kong,HK
-Hungary,HU
-Iceland,IS
-India,IN
-Indonesia,ID
-Iran,IR
-Iraq,IQ
-Ireland,IE
-Israel,IL
-Italy,IT
-Jamaica,JM
-Japan,JP
-Jordan,JO
-Kazakhstan,KZ
-Kenya,KE
-Kiribati,KI
-Kosovo,XK
-Kuwait,KW
-Kyrgyzstan,KG
-Laos,LA
-Latvia,LV
-Lebanon,LB
-Lesotho,LS
-Liberia,LR
-Libya,LY
-Liechtenstein,LI
-Lithuania,LT
-Luxembourg,LU
-Macau,MO
-Madagascar,MG
-Malawi,MW
-Malaysia,MY
-Maldives,MV
-Mali,ML
-Malta,MT
-Marshall Islands,MH
-Mauritania,MR
-Mauritius,MU
-Mexico,MX
-Moldova,MD
-Monaco,MC
-Mongolia,MN
-Montenegro,ME
-Morocco,MA
-Mozambique,MZ
-Myanmar,MM
-Namibia,NA
-Nauru,NR
-Nepal,NP
-Netherlands,NL
-New Zealand,NZ
-Nicaragua,NI
-Nigeria,NG
-Niger,NE
-North Macedonia,MK
-Norway,NO
-Oman,OM
-Pakistan,PK
-Palau,PW
-Palestine,PS
-Panama,PA
-Papua New Guinea,PG
-Paraguay,PY
-Peru,PE
-Philippines,PH
-Poland,PL
-Portugal,PT
-Qatar,QA
-Republic of Korea,KR
-Romania,RO
-Russia,RU
-Rwanda,RW
-Saint Kitts and Nevis,KN
-Saint Lucia,LC
-Saint Vincent and the Grenadines,VC
-Samoa,WS
-San Marino,SM
-São Tomé and Príncipe,ST
-Saudi Arabia,SA
-Senegal,SN
-Serbia,RS
-Seychelles,SC
-Sierra Leone,SL
-Singapore,SG
-Slovakia,SK
-Slovenia,SI
-Solomon Islands,SB
-Somalia,SO
-South Africa,ZA
-South Sudan,SS
-Spain,ES
-Sri Lanka,LK
-Sudan,SD
-Suriname,SR
-Sweden,SE
-Switzerland,CH
-Syria,SY
-Taiwan,TW
-Tajikistan,TJ
-Tanzania,TZ
-Thailand,TH
-Timor-Leste,TL
-Togo,TG
-Tonga,TO
-Trinidad and Tobago,TT
-Tunisia,TN
-Turkey,TR
-Turkmenistan,TM
-Tuvalu,TV
-Uganda,UG
-Ukraine,UA
-United Arab Emirates,AE
-United Kingdom,GB
-United States,US
-Uruguay,UY
-Uzbekistan,UZ
-Vanuatu,VU
-Vatican City,VA
-Venezuela,VE
-Vietnam,VN
-Yemen,YE
-Zambia,ZM
-Zimbabwe,ZW
+country_name,iso2,flag
+Afghanistan,AF,Y
+Albania,AL,Y
+Algeria,DZ,Y
+American Samoa,AS,Y
+Andorra,AD,Y
+Angola,AO,Y
+Anguilla,AI,Y
+Antarctica,AQ,Y
+Antigua and Barbuda,AG,Y
+Argentina,AR,Y
+Armenia,AM,Y
+Aruba,AW,Y
+Australia,AU,Y
+Austria,AT,Y
+Azerbaijan,AZ,Y
+Bahamas,BS,Y
+Bahrain,BH,Y
+Bangladesh,BD,Y
+Barbados,BB,Y
+Belarus,BY,Y
+Belgium,BE,Y
+Belize,BZ,Y
+Benin,BJ,Y
+Bermuda,BM,Y
+Bhutan,BT,Y
+Bolivia,BO,Y
+Bonaire Sint Eustatius and Saba,BQ,N
+Bosnia and Herzegovina,BA,Y
+Botswana,BW,Y
+Bouvet Island,BV,N
+Brazil,BR,Y
+British Indian Ocean Territory,IO,N
+Brunei,BN,Y
+Bulgaria,BG,Y
+Burkina Faso,BF,Y
+Burundi,BI,Y
+Cabo Verde,CV,Y
+Cambodia,KH,Y
+Cameroon,CM,Y
+Canada,CA,Y
+Cayman Islands,KY,Y
+Central African Republic,CF,Y
+Chad,TD,Y
+Chile,CL,Y
+China,CN,Y
+Christmas Island,CX,Y
+Cocos (Keeling) Islands,CC,Y
+Colombia,CO,Y
+Comoros,KM,Y
+Congo,CG,Y
+Cook Islands,CK,Y
+Costa Rica,CR,Y
+Croatia,HR,Y
+Cuba,CU,Y
+Curaçao,CW,Y
+Cyprus,CY,Y
+Czech Republic,CZ,Y
+Côte d'Ivoire,CI,Y
+Democratic People's Republic of Korea,KP,Y
+Democratic Republic of the Congo,CD,Y
+Denmark,DK,Y
+Djibouti,DJ,Y
+Dominica,DM,Y
+Dominican Republic,DO,Y
+Ecuador,EC,Y
+Egypt,EG,Y
+El Salvador,SV,Y
+Equatorial Guinea,GQ,Y
+Eritrea,ER,Y
+Estonia,EE,Y
+Eswatini,SZ,Y
+Ethiopia,ET,Y
+Falkland Islands,FK,Y
+Faroe Islands,FO,Y
+Federated States of Micronesia,FM,Y
+Fiji,FJ,Y
+Finland,FI,Y
+France,FR,Y
+French Guiana,GF,N
+French Polynesia,PF,Y
+French Southern Territories,TF,Y
+Gabon,GA,Y
+Gambia,GM,Y
+Georgia,GE,Y
+Germany,DE,Y
+Ghana,GH,Y
+Gibraltar,GI,Y
+Greece,GR,Y
+Greenland,GL,Y
+Grenada,GD,Y
+Guadeloupe,GP,N
+Guam,GU,Y
+Guatemala,GT,Y
+Guernsey,GG,Y
+Guinea Bissau,GW,Y
+Guinea,GN,Y
+Guyana,GY,Y
+Haiti,HT,Y
+Heard Island and McDonald Islands,HM,N
+Honduras,HN,Y
+Hong Kong,HK,Y
+Hungary,HU,Y
+Iceland,IS,Y
+India,IN,Y
+Indonesia,ID,Y
+Iran,IR,Y
+Iraq,IQ,Y
+Ireland,IE,Y
+Isle of Man,IM,Y
+Israel,IL,Y
+Italy,IT,Y
+Jamaica,JM,Y
+Japan,JP,Y
+Jersey,JE,Y
+Jordan,JO,Y
+Kazakhstan,KZ,Y
+Kenya,KE,Y
+Kiribati,KI,Y
+Kuwait,KW,Y
+Kyrgyzstan,KG,Y
+Laos,LA,Y
+Latvia,LV,Y
+Lebanon,LB,Y
+Lesotho,LS,Y
+Liberia,LR,Y
+Libya,LY,Y
+Liechtenstein,LI,Y
+Lithuania,LT,Y
+Luxembourg,LU,Y
+Macau,MO,Y
+Madagascar,MG,Y
+Malawi,MW,Y
+Malaysia,MY,Y
+Maldives,MV,Y
+Mali,ML,Y
+Malta,MT,Y
+Marshall Islands,MH,Y
+Martinique,MQ,Y
+Mauritania,MR,Y
+Mauritius,MU,Y
+Mayotte,YT,Y
+Mexico,MX,Y
+Moldova,MD,Y
+Monaco,MC,Y
+Mongolia,MN,Y
+Montenegro,ME,Y
+Montserrat,MS,Y
+Morocco,MA,Y
+Mozambique,MZ,Y
+Myanmar,MM,Y
+Namibia,NA,Y
+Nauru,NR,Y
+Nepal,NP,Y
+Netherlands,NL,Y
+New Caledonia,NC,Y
+New Zealand,NZ,Y
+Nicaragua,NI,Y
+Niger,NE,Y
+Nigeria,NG,Y
+Niue,NU,Y
+Norfolk Island,NF,Y
+North Macedonia,MK,Y
+Northern Mariana Islands,MP,Y
+Norway,NO,Y
+Oman,OM,Y
+Pakistan,PK,Y
+Palau,PW,Y
+Palestine,PS,Y
+Panama,PA,Y
+Papua New Guinea,PG,Y
+Paraguay,PY,Y
+Peru,PE,Y
+Philippines,PH,Y
+Pitcairn,PN,Y
+Poland,PL,Y
+Portugal,PT,Y
+Puerto Rico,PR,Y
+Qatar,QA,Y
+Republic of Korea,KR,Y
+Romania,RO,Y
+Russia,RU,Y
+Rwanda,RW,Y
+Réunion,RE,N
+Saint Barthélemy,BL,Y
+Saint Helena Ascension and Tristan da Cunha,SH,Y
+Saint Kitts and Nevis,KN,Y
+Saint Lucia,LC,Y
+Saint Martin (French part),MF,Y
+Saint Pierre and Miquelon,PM,N
+Saint Vincent and the Grenadines,VC,Y
+Samoa,WS,Y
+San Marino,SM,Y
+Saudi Arabia,SA,Y
+Senegal,SN,Y
+Serbia,RS,Y
+Seychelles,SC,Y
+Sierra Leone,SL,Y
+Singapore,SG,Y
+Sint Maarten (Dutch part),SX,N
+Slovakia,SK,Y
+Slovenia,SI,Y
+Solomon Islands,SB,Y
+Somalia,SO,Y
+South Africa,ZA,Y
+South Georgia and the South Sandwich Islands,GS,Y
+South Sudan,SS,Y
+Spain,ES,Y
+Sri Lanka,LK,Y
+Sudan,SD,Y
+Suriname,SR,Y
+Svalbard and Jan Mayen,SJ,N
+Sweden,SE,Y
+Switzerland,CH,Y
+Syria,SY,Y
+São Tomé and Príncipe,ST,Y
+Taiwan,TW,Y
+Tajikistan,TJ,Y
+Tanzania,TZ,Y
+Thailand,TH,Y
+Timor-Leste,TL,Y
+Togo,TG,Y
+Tokelau,TK,Y
+Tonga,TO,Y
+Trinidad and Tobago,TT,Y
+Tunisia,TN,Y
+Turkey,TR,Y
+Turkmenistan,TM,Y
+Turks and Caicos Islands,TC,Y
+Tuvalu,TV,Y
+Uganda,UG,Y
+Ukraine,UA,Y
+United Arab Emirates,AE,Y
+United Kingdom,GB,Y
+United States Minor Outlying Islands,UM,N
+United States,US,Y
+Uruguay,UY,Y
+Uzbekistan,UZ,Y
+Vanuatu,VU,Y
+Vatican City,VA,Y
+Venezuela,VE,Y
+Vietnam,VN,Y
+Virgin Islands of the United States,VI,Y
+Virgin Islands,VG,Y
+Wallis and Futuna,WF,Y
+Western Sahara,EH,Y
+Yemen,YE,Y
+Zambia,ZM,Y
+Zimbabwe,ZW,Y
+Åland Islands,AX,Y
