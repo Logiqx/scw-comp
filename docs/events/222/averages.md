@@ -100,7 +100,7 @@
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Jaidon Adams](../../persons/jaidon_adams/222.md) | [2020-02-11](../../results/2020-02-11/222.md) | <20 | <i class="flag flag-GB" /> | 3.10 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/176704156956327/permalink/180633799896696) / [Mobile](https://m.facebook.com/events/176704156956327?view=permalink&id=180633799896696) |
-| 2 | [Hailey Doyle](../../persons/hailey_doyle/222.md) | [2021-11-01](../../results/2021-11-01/222.md) | <20 | | 17.75 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/556108165479652/permalink/560113671745768) / [Mobile](https://m.facebook.com/events/556108165479652?view=permalink&id=560113671745768) |
+| 2 | [Hailey Doyle](../../persons/hailey_doyle/222.md) | [2021-11-01](../../results/2021-11-01/222.md) | <20 | <i class="flag flag-US" /> | 17.75 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/556108165479652/permalink/560113671745768) / [Mobile](https://m.facebook.com/events/556108165479652?view=permalink&id=560113671745768) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
