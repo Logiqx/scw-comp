@@ -138,7 +138,7 @@
 | 1 | [Jaidon Adams](../../persons/jaidon_adams/333.md) | [2020-01-28](../../results/2020-01-28/333.md) | <20 | <i class="flag flag-GB" /> | 8.31 | 🏆 x 2 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/jaidon.adams.1/videos/2562434104083122) / [Mobile](https://m.facebook.com/jaidon.adams.1/videos/2562434104083122) |
 | 2 | [Jonathan Charlesworth](../../persons/jonathan_charlesworth/333.md) | [2020-05-26](../../results/2020-05-26/333.md) | <20 | <i class="flag flag-AU" /> | 9.13 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/688407551989463/permalink/690761785087373) / [Mobile](https://m.facebook.com/events/688407551989463?view=permalink&id=690761785087373) |
 | 3 | [Will Lambert](../../persons/will_lambert/333.md) | [2020-01-28](../../results/2020-01-28/333.md) | <20 | <i class="flag flag-GB" /> | 9.74 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/Willislwynlambert/videos/10221470476215884) / [Mobile](https://m.facebook.com/Willislwynlambert/videos/10221470476215884) |
-| 4 | [Hailey Doyle](../../persons/hailey_doyle/333.md) | [2021-11-01](../../results/2021-11-01/333.md) | <20 | | 48.33 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/556108165479652/permalink/560113918412410) / [Mobile](https://m.facebook.com/events/556108165479652?view=permalink&id=560113918412410) |
+| 4 | [Hailey Doyle](../../persons/hailey_doyle/333.md) | [2021-11-01](../../results/2021-11-01/333.md) | <20 | <i class="flag flag-US" /> | 48.33 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/556108165479652/permalink/560113918412410) / [Mobile](https://m.facebook.com/events/556108165479652?view=permalink&id=560113918412410) |
 
 #### Under 10
 

@@ -135,7 +135,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Hailey Doyle](../../persons/hailey_doyle/333.md) | <20 | | 48.33 | 52.37 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Hailey Doyle](../../persons/hailey_doyle/333.md) | <20 | <i class="flag flag-US" /> | 48.33 | 52.37 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jaidon Adams](../../persons/jaidon_adams/333.md) | <20 | <i class="flag flag-GB" /> | 8.31 | 8.67 | 🏆 x 2 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Jonathan Charlesworth](../../persons/jonathan_charlesworth/333.md) | <20 | <i class="flag flag-AU" /> | 9.13 | 10.26 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 | [Will Lambert](../../persons/will_lambert/333.md) | <20 | <i class="flag flag-GB" /> | 9.74 | 11.51 |  |  | 🔥 x 1, ⚡ x 1 |

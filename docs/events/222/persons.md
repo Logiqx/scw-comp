@@ -99,7 +99,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Hailey Doyle](../../persons/hailey_doyle/222.md) | <20 | | 11.92 | 17.75 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Hailey Doyle](../../persons/hailey_doyle/222.md) | <20 | <i class="flag flag-US" /> | 11.92 | 17.75 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jaidon Adams](../../persons/jaidon_adams/222.md) | <20 | <i class="flag flag-GB" /> | 2.45 | 3.10 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 
