@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-11-01](../../results/2021-11-01/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 26.25 | 28.08 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/556108165479652/permalink/563933444697124) / [Mobile](https://m.facebook.com/events/556108165479652?view=permalink&id=563933444697124) |
+
 #### [2021-10-18](../../results/2021-10-18/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

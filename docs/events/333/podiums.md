@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-11-01](../../results/2021-11-01/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | <i class="flag flag-GB" /> | 15.23 | 16.93 | 🥇 | [Desktop](https://www.facebook.com/events/556108165479652/permalink/563943314696137) / [Mobile](https://m.facebook.com/events/556108165479652?view=permalink&id=563943314696137) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | <i class="flag flag-TW" /> | 16.38 | 20.70 | 🥈 | [Desktop](https://www.facebook.com/events/556108165479652/permalink/559853868438415) / [Mobile](https://m.facebook.com/events/556108165479652?view=permalink&id=559853868438415) |
+| 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 20.05 | 21.41 | 🥉 | [Desktop](https://www.facebook.com/520891933/videos/2784547991838163) / [Mobile](https://m.facebook.com/520891933/videos/2784547991838163) |
+
 #### [2021-10-18](../../results/2021-10-18/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

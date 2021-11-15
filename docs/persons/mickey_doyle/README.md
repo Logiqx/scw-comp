@@ -6,14 +6,14 @@
 
 <i class="flag flag-US" />&nbsp;United States
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-| Event | Single | Average | Achievements|
-| :-- | --: | --: | :-- |
-| [3x3x3](333.md) | 24.45 | 32.15 | 🔥 x 4, ⚡ x 6 |
-| [2x2x2](222.md) | 6.72 | 9.17 | 🔥 x 6, ⚡ x 4 |
-| [4x4x4](444.md) | 1:34.83 | 1:39.07 | 🔥 x 3, ⚡ x 3 |
-| [5x5x5](555.md) | 3:51.30 | 4:15.72 | 🔥 x 1, ⚡ x 1 |
+| Event | Single | Average | Medals | Achievements|
+| :-- | --: | --: | :-- | :-- |
+| [3x3x3](333.md) | 24.45 | 32.15 |  | 🔥 x 4, ⚡ x 6 |
+| [2x2x2](222.md) | 6.72 | 9.17 | 🥈 x 1 | 🔥 x 6, ⚡ x 4 |
+| [4x4x4](444.md) | 1:34.83 | 1:39.07 |  | 🔥 x 3, ⚡ x 3 |
+| [5x5x5](555.md) | 3:51.30 | 4:15.72 |  | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

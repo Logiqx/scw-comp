@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-11-01](../../results/2021-11-01/444bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) | 40+ | <i class="flag flag-PL" /> | 6:18.15 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1032479114251866/permalink/1034177720748672) / [Mobile](https://m.facebook.com/events/1032479114251866?view=permalink&id=1034177720748672) |
+| 2 | [Yuichi Hamada](../../persons/yuichi_hamada/444bf.md) | 40+ | <i class="flag flag-JP" /> | 12:22.17 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/1032479114251866/permalink/1041412803358497) / [Mobile](https://m.facebook.com/events/1032479114251866?view=permalink&id=1041412803358497) |
+
 
 #### [2021-10-04](../../results/2021-10-04/444bf.md)
 
