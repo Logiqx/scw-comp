@@ -32,13 +32,13 @@
 | [Daniel Smith](../../persons/daniel_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 8:11.77 | DNF |  |  | ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | <i class="flag flag-US" /> | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | 40+ | <i class="flag flag-JP" /> | 1:21.66 | 1:37.12 | 🏆 x 7 | 🥇 x 7, 🥈 x 13, 🥉 x 4 | 💥 x 2, 🔥 x 3, ⚡ x 1 |
-| [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:24.41 | 1:34.05 | 🏆 x 18 | 🥇 x 24, 🥈 x 14, 🥉 x 7 | 💥 x 5, 🔥 x 4, ⚡ x 6 |
+| [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:24.41 | 1:34.05 | 🏆 x 19 | 🥇 x 25, 🥈 x 14, 🥉 x 7 | 💥 x 5, 🔥 x 4, ⚡ x 6 |
 | [Go-ho Choi](../../persons/go_ho_choi/minx.md) | 40+ | <i class="flag flag-KR" /> | 54.61 | 1:02.12 | 🏆 x 2 | 🥇 x 1 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [JM Tambaoan](../../persons/jm_tambaoan/minx.md) | 40+ | <i class="flag flag-PH" /> | 3:21.38 | 3:32.13 |  | 🥈 x 1, 🥉 x 6 | 🔥 x 3, ⚡ x 5 |
 | [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | <i class="flag flag-GB" /> | 2:37.06 | 2:48.89 |  | 🥈 x 1, 🥉 x 3 | 🔥 x 3, ⚡ x 5 |
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:13.30 | 1:25.08 | 🏆 x 18 | 🥇 x 24, 🥈 x 8 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 3:00.88 | 3:07.98 |  | 🥉 x 4 | 🔥 x 1, ⚡ x 5 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 3:00.88 | 3:07.98 |  | 🥈 x 1, 🥉 x 4 | 🔥 x 1, ⚡ x 5 |
 
 #### Under 40
 

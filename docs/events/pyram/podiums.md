@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-11-01](../../results/2021-11-01/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 6.81 | 10.31 | 🥇 | [Desktop](https://www.facebook.com/events/337902458133818/permalink/346776587246405) / [Mobile](https://m.facebook.com/events/337902458133818?view=permalink&id=346776587246405) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 10.38 | 11.39 | 🥈 | [Desktop](https://www.facebook.com/events/337902458133818/permalink/343459354244795) / [Mobile](https://m.facebook.com/events/337902458133818?view=permalink&id=343459354244795) |
+
 #### [2021-10-18](../../results/2021-10-18/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-11-01](../../results/2021-11-01/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:55.34 | 1:58.25 | 🥇 | [Desktop](https://www.facebook.com/557281693/videos/274098807943506) / [Mobile](https://m.facebook.com/557281693/videos/274098807943506) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | <i class="flag flag-TW" /> | 2:22.87 | 2:27.24 | 🥈 | [Desktop](https://www.facebook.com/events/1122485874951081/permalink/1126655191200816) / [Mobile](https://m.facebook.com/events/1122485874951081?view=permalink&id=1126655191200816) |
+
 #### [2021-10-18](../../results/2021-10-18/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
