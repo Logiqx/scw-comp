@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2021-11-15](../../results/2021-11-15/clock.md) | 50+ | 11.73 | 12.93 | 🏆 🥇 | 14.22 | 13.42 | 12.61 | 11.73 | 12.75 | [Desktop](https://www.facebook.com/events/914365772539993/permalink/916877415622162) / [Mobile](https://m.facebook.com/events/914365772539993?view=permalink&id=916877415622162) |
 | [2021-11-01](../../results/2021-11-01/clock.md) | 50+ | **10.81** | **11.35** | 🏆 🥇 💥 🔥 ⚡ | 11.72 | **10.81** | 11.65 | 11.08 | 11.32 | [Desktop](https://www.facebook.com/events/337902458133818/permalink/343475397576524) / [Mobile](https://m.facebook.com/events/337902458133818?view=permalink&id=343475397576524) |
 | [2021-10-18](../../results/2021-10-18/clock.md) | 50+ | 11.52 | **11.98** | 🏆 🥇 💥 🔥 | 12.37 | 15.66 | 11.78 | 11.52 | 11.78 | [Desktop](https://www.facebook.com/events/625257752191369/permalink/630878564962621) / [Mobile](https://m.facebook.com/events/625257752191369?view=permalink&id=630878564962621) |
 | [2021-10-04](../../results/2021-10-04/clock.md) | 50+ | **11.08** | 12.27 | 🏆 🥇 💥 ⚡ | 11.93 | 12.59 | **11.08** | 12.28 | 14.60 | [Desktop](https://www.facebook.com/events/1205858816603137/permalink/1209572502898435) / [Mobile](https://m.facebook.com/events/1205858816603137?view=permalink&id=1209572502898435) |

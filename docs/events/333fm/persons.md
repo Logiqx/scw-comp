@@ -51,7 +51,7 @@
 | [Chris Thames](../../persons/chris_thames/333fm.md) | <40 | <i class="flag flag-US" /> | 47 | 66.33 |  |  | 🔥 x 1, ⚡ x 4 |
 | [Ed Connell](../../persons/ed_connell/333fm.md) | <40 | <i class="flag flag-IE" /> | 27 | DNF | 🏆 x 1 |  | ⚡ x 5 |
 | [Go-ho Choi](../../persons/go_ho_choi/333fm.md) | <40 | <i class="flag flag-KR" /> | 41 | DNF |  |  | ⚡ x 1 |
-| [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | <40 | <i class="flag flag-US" /> | 23 | 27.33 | 🏆 x 22 |  | 💥 x 1, 🔥 x 2, ⚡ x 8 |
+| [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | <40 | <i class="flag flag-US" /> | 23 | 27.33 | 🏆 x 23 |  | 💥 x 1, 🔥 x 2, ⚡ x 8 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-11-15](../../results/2021-11-15/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.77 | 14.42 | 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/914365772539993/permalink/917395888903648) / [Mobile](https://m.facebook.com/events/914365772539993?view=permalink&id=917395888903648) |
+
 #### [2021-11-01](../../results/2021-11-01/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -66,7 +66,7 @@
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/333.md) | 40+ | <i class="flag flag-US" /> | 38.26 | 40.14 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Kerrie Jarman](../../persons/kerrie_jarman/333.md) | 40+ | <i class="flag flag-AU" /> | 41.01 | 48.20 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/333.md) | 50+ | <i class="flag flag-US" /> | 21.16 | 29.64 |  |  | 🔥 x 4, ⚡ x 4 |
-| [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | <i class="flag flag-FI" /> | 8.55 | 9.75 | 🏆 x 40 | 🥇 x 40 | 💥 x 5, 🔥 x 4, ⚡ x 4 |
+| [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | <i class="flag flag-FI" /> | 8.55 | 9.75 | 🏆 x 41 | 🥇 x 41 | 💥 x 5, 🔥 x 4, ⚡ x 4 |
 | [Leo Arroyo](../../persons/leo_arroyo/333.md) | 40+ | <i class="flag flag-ES" /> | 39.63 | 54.76 |  |  | 🔥 x 4, ⚡ x 4 |
 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | <i class="flag flag-US" /> | 20.38 | 25.40 |  |  | 🔥 x 6, ⚡ x 8 |
 | [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | <i class="flag flag-DE" /> | 26.19 | 29.43 |  |  | 🔥 x 11, ⚡ x 10 |
@@ -74,7 +74,7 @@
 | [Markus Niederöst](../../persons/markus_niederost/333.md) | 50+ | <i class="flag flag-CH" /> | 19.98 | 23.61 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Michael George](../../persons/michael_george/333.md) | 40+ | <i class="flag flag-GB" /> | 11.64 | 13.44 | 🏆 x 7 | 🥇 x 24, 🥈 x 6 | 💥 x 6, 🔥 x 6, ⚡ x 3 |
 | [Michael Policastro](../../persons/michael_policastro/333.md) | 40+ | <i class="flag flag-US" /> | 34.15 | 35.24 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Mickey Doyle](../../persons/mickey_doyle/333.md) | 40+ | <i class="flag flag-US" /> | 24.45 | 32.15 |  |  | 🔥 x 4, ⚡ x 6 |
+| [Mickey Doyle](../../persons/mickey_doyle/333.md) | 40+ | <i class="flag flag-US" /> | 24.45 | 30.56 |  |  | 🔥 x 5, ⚡ x 6 |
 | [Peter Andersson](../../persons/peter_andersson/333.md) | 50+ | <i class="flag flag-SE" /> | 20.85 | 24.84 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/333.md) | 50+ | <i class="flag flag-CA" /> | 31.12 | 35.25 |  |  | 🔥 x 5, ⚡ x 3 |
 | [Pontus Uggla](../../persons/pontus_uggla/333.md) | 40+ | <i class="flag flag-SE" /> | 18.25 | 20.09 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -86,10 +86,10 @@
 | [Stuart Salmon](../../persons/stuart_salmon/333.md) | 40+ | <i class="flag flag-GB" /> | 22.76 | 32.89 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333.md) | 40+ | <i class="flag flag-FR" /> | 13.85 | 15.44 |  | 🥇 x 1, 🥈 x 3, 🥉 x 5 | 🔥 x 3, ⚡ x 6 |
 | [Timothy Salay](../../persons/timothy_salay/333.md) | 40+ | <i class="flag flag-US" /> | 24.45 | 31.22 |  |  | 🔥 x 3, ⚡ x 4 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 15.97 | 19.48 |  | 🥈 x 1, 🥉 x 3 | 🔥 x 4, ⚡ x 2 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 15.97 | 19.48 |  | 🥈 x 1, 🥉 x 4 | 🔥 x 4, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333.md) | 40+ | <i class="flag flag-IN" /> | 19.25 | 21.09 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333.md) | 50+ | <i class="flag flag-PL" /> | 17.30 | 22.13 |  |  | 🔥 x 4, ⚡ x 1 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | <i class="flag flag-TW" /> | 15.17 | 18.88 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 7, ⚡ x 3 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | <i class="flag flag-TW" /> | 15.17 | 18.88 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 7, ⚡ x 3 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333.md) | 40+ | <i class="flag flag-FR" /> | 16.76 | 20.93 |  |  | 🔥 x 2, ⚡ x 3 |
 
 #### Under 40
@@ -135,7 +135,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Hailey Doyle](../../persons/hailey_doyle/333.md) | <20 | <i class="flag flag-US" /> | 48.33 | 52.37 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Hailey Doyle](../../persons/hailey_doyle/333.md) | <20 | <i class="flag flag-US" /> | 36.60 | 50.99 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Jaidon Adams](../../persons/jaidon_adams/333.md) | <20 | <i class="flag flag-GB" /> | 8.31 | 8.67 | 🏆 x 2 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Jonathan Charlesworth](../../persons/jonathan_charlesworth/333.md) | <20 | <i class="flag flag-AU" /> | 9.13 | 10.26 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 | [Will Lambert](../../persons/will_lambert/333.md) | <20 | <i class="flag flag-GB" /> | 9.74 | 11.51 |  |  | 🔥 x 1, ⚡ x 1 |
