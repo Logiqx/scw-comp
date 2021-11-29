@@ -44,7 +44,7 @@
 | [Chris Thames](../../persons/chris_thames/777.md) | <40 | <i class="flag flag-US" /> | 14:00.59 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/777.md) | <40 | <i class="flag flag-IE" /> | 8:56.69 | DNF |  |  | ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/777.md) | <40 | <i class="flag flag-VE" /> | 5:09.66 | 5:23.30 | 🏆 x 1 |  | 🔥 x 7, ⚡ x 7 |
-| [Pete Lee](../../persons/pete_lee/777.md) | <40 | <i class="flag flag-GB" /> | 5:10.98 | 5:31.60 | 🏆 x 3 |  | 🔥 x 12, ⚡ x 19 |
+| [Pete Lee](../../persons/pete_lee/777.md) | <40 | <i class="flag flag-GB" /> | 5:10.98 | 5:31.60 | 🏆 x 4 |  | 🔥 x 12, ⚡ x 19 |
 | [Peter Osudar](../../persons/peter_osudar/777.md) | <40 | <i class="flag flag-CA" /> | 6:13.99 | 6:36.78 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 30

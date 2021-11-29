@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-11-15](../../results/2021-11-15/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 11.73 | 12.93 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/914365772539993/permalink/916877415622162) / [Mobile](https://m.facebook.com/events/914365772539993?view=permalink&id=916877415622162) |
+
 #### [2021-11-01](../../results/2021-11-01/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
