@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-11-29](../../results/2021-11-29/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.94 | 9.24 | 🥇 | [Desktop](https://www.facebook.com/events/1226219924873960/permalink/1235123687316917) / [Mobile](https://m.facebook.com/events/1226219924873960?view=permalink&id=1235123687316917) |
+
 #### [2021-11-15](../../results/2021-11-15/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

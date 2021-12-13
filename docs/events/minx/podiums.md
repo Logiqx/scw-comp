@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-11-29](../../results/2021-11-29/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:35.06 | 1:39.10 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/401731615009477/permalink/410531024129536) / [Mobile](https://m.facebook.com/events/401731615009477?view=permalink&id=410531024129536) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 3:20.18 | 3:28.25 | 🥈 | [Desktop](https://www.facebook.com/events/401731615009477/permalink/408497014332937) / [Mobile](https://m.facebook.com/events/401731615009477?view=permalink&id=408497014332937) |
+
 #### [2021-11-15](../../results/2021-11-15/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

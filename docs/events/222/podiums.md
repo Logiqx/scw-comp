@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-11-29](../../results/2021-11-29/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | <i class="flag flag-FI" /> | 5.13 | 5.88 | 🥇 | [Desktop](https://www.facebook.com/events/401731615009477/permalink/410531024129536) / [Mobile](https://m.facebook.com/events/401731615009477?view=permalink&id=410531024129536) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/222.md) | 40+ | <i class="flag flag-US" /> | 7.56 | 9.66 | 🥈 | [Desktop](https://www.facebook.com/events/401731615009477/permalink/410463914136247) / [Mobile](https://m.facebook.com/events/401731615009477?view=permalink&id=410463914136247) |
+| 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/222.md) | 40+ | <i class="flag flag-TW" /> | 7.88 | 9.87 | 🥉 | [Desktop](https://www.facebook.com/events/401731615009477/permalink/408496537666318) / [Mobile](https://m.facebook.com/events/401731615009477?view=permalink&id=408496537666318) |
+
 #### [2021-11-15](../../results/2021-11-15/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
