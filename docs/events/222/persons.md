@@ -52,19 +52,19 @@
 | [Jo Cocco](../../persons/jo_cocco/222.md) | 40+ | <i class="flag flag-GB" /> | 10.83 | 14.12 |  |  | 🔥 x 2, ⚡ x 2 |
 | [John Neo Stanley](../../persons/john_neo_stanley/222.md) | 50+ | <i class="flag flag-GB" /> | 9.18 | 11.36 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/222.md) | 50+ | <i class="flag flag-US" /> | 8.36 | 12.29 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | <i class="flag flag-FI" /> | 1.63 | 3.03 | 🏆 x 32 | 🥇 x 35, 🥈 x 3 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
+| [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | <i class="flag flag-FI" /> | 1.63 | 3.03 | 🏆 x 32 | 🥇 x 36, 🥈 x 3 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | <i class="flag flag-US" /> | 3.89 | 7.38 |  | 🥇 x 1, 🥈 x 7, 🥉 x 19 | 💥 x 1, 🔥 x 5, ⚡ x 6 |
 | [Marcel Balzer](../../persons/marcel_balzer/222.md) | 40+ | <i class="flag flag-DE" /> | 4.55 | 9.02 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Markus Niederöst](../../persons/markus_niederost/222.md) | 50+ | <i class="flag flag-CH" /> | 7.80 | 9.63 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Michael George](../../persons/michael_george/222.md) | 40+ | <i class="flag flag-GB" /> | 3.20 | 4.40 | 🏆 x 19 | 🥇 x 23 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
-| [Mickey Doyle](../../persons/mickey_doyle/222.md) | 40+ | <i class="flag flag-US" /> | 4.48 | 7.93 |  | 🥈 x 1 | 🔥 x 7, ⚡ x 5 |
+| [Mickey Doyle](../../persons/mickey_doyle/222.md) | 40+ | <i class="flag flag-US" /> | 4.48 | 7.93 |  | 🥈 x 2 | 🔥 x 7, ⚡ x 5 |
 | [Peter Andersson](../../persons/peter_andersson/222.md) | 50+ | <i class="flag flag-SE" /> | 6.82 | 9.38 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/222.md) | 50+ | <i class="flag flag-CA" /> | 6.53 | 10.79 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Stuart Salmon](../../persons/stuart_salmon/222.md) | 40+ | <i class="flag flag-GB" /> | 8.07 | 12.10 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/222.md) | 40+ | <i class="flag flag-FR" /> | 3.18 | 6.10 |  | 🥈 x 4, 🥉 x 6 | 💥 x 1, 🔥 x 3, ⚡ x 5 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/222.md) | 40+ | <i class="flag flag-IN" /> | 4.72 | 5.74 |  | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/222.md) | 50+ | <i class="flag flag-PL" /> | 4.81 | 7.52 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 4 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/222.md) | 40+ | <i class="flag flag-TW" /> | 4.74 | 9.35 |  |  | 🔥 x 2, ⚡ x 3 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/222.md) | 40+ | <i class="flag flag-TW" /> | 4.74 | 9.35 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/222.md) | 40+ | <i class="flag flag-FR" /> | 3.53 | 5.83 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40
@@ -75,7 +75,7 @@
 | [Brooke Persoon](../../persons/brooke_persoon/222.md) | <40 | <i class="flag flag-US" /> | 10.73 | 13.95 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/222.md) | <40 | <i class="flag flag-US" /> | 4.11 | 7.33 |  |  | 🔥 x 6, ⚡ x 3 |
 | [Ed Connell](../../persons/ed_connell/222.md) | <40 | <i class="flag flag-IE" /> | 2.74 | 5.47 | 🏆 x 1 |  | 💥 x 1, 🔥 x 6, ⚡ x 4 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | <40 | <i class="flag flag-VE" /> | 2.40 | 4.57 | 🏆 x 5 |  | 💥 x 1, 🔥 x 4, ⚡ x 4 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | <40 | <i class="flag flag-VE" /> | 2.40 | 4.57 | 🏆 x 6 |  | 💥 x 1, 🔥 x 4, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/222.md) | 40+ | <i class="flag flag-KR" /> | 3.50 | 4.50 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [Greg Simmons](../../persons/greg_simmons/222.md) | <40 | <i class="flag flag-GB" /> | 7.47 | 14.52 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Matthew Hart](../../persons/matthew_hart/222.md) | <40 | <i class="flag flag-GB" /> | 8.11 | 14.60 |  |  | 🔥 x 2, ⚡ x 3 |
@@ -99,7 +99,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Hailey Doyle](../../persons/hailey_doyle/222.md) | <20 | <i class="flag flag-US" /> | 5.08 | 15.90 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Hailey Doyle](../../persons/hailey_doyle/222.md) | <20 | <i class="flag flag-US" /> | 5.08 | 14.71 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Jaidon Adams](../../persons/jaidon_adams/222.md) | <20 | <i class="flag flag-GB" /> | 2.45 | 3.10 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 

@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-11-29](../../results/2021-11-29/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/333mbf.md) | 40+ | <i class="flag flag-AU" /> | 14/19 in 49:44 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/413306813768770/permalink/417167160049402) / [Mobile](https://m.facebook.com/events/413306813768770?view=permalink&id=417167160049402) |
+| 2 | [Yuichi Hamada](../../persons/yuichi_hamada/333mbf.md) | 40+ | <i class="flag flag-JP" /> | 6/10 in 52:10 | 🥈 | [Desktop](https://www.facebook.com/1849183990/videos/422130656279795) / [Mobile](https://m.facebook.com/1849183990/videos/422130656279795) |
+
 #### [2021-11-15](../../results/2021-11-15/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |

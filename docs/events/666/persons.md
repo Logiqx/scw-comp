@@ -39,7 +39,7 @@
 | [Kerry Go](../../persons/kerry_go/666.md) | 50+ | <i class="flag flag-US" /> | 6:34.83 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | <i class="flag flag-FI" /> | 2:59.31 | 3:18.51 | 🏆 x 2 | 🥇 x 4, 🥈 x 7 | 🔥 x 7, ⚡ x 5 |
 | [Michael George](../../persons/michael_george/666.md) | 40+ | <i class="flag flag-GB" /> | 4:37.39 | DNF |  | 🥉 x 4 | ⚡ x 7 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) | 40+ | <i class="flag flag-TW" /> | 4:59.67 | DNF |  | 🥈 x 1, 🥉 x 6 | ⚡ x 5 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) | 40+ | <i class="flag flag-TW" /> | 4:42.21 | DNF |  | 🥇 x 1, 🥈 x 1, 🥉 x 6 | ⚡ x 6 |
 
 #### Under 40
 
@@ -48,7 +48,7 @@
 | [Adam Robson](../../persons/adam_robson/666.md) | <40 | <i class="flag flag-GB" /> | 9:15.97 | DNF |  |  | ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/666.md) | <40 | <i class="flag flag-US" /> | 9:58.46 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/666.md) | <40 | <i class="flag flag-IE" /> | 5:56.45 | DNF |  |  | ⚡ x 1 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | <40 | <i class="flag flag-VE" /> | 3:03.79 | 3:19.74 | 🏆 x 15 |  | 🔥 x 10, ⚡ x 9 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | <40 | <i class="flag flag-VE" /> | 3:03.79 | 3:19.74 | 🏆 x 16 |  | 🔥 x 10, ⚡ x 9 |
 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | 40+ | <i class="flag flag-KR" /> | 2:37.68 | 2:40.63 | 🏆 x 2 | 🥇 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [Pete Lee](../../persons/pete_lee/666.md) | <40 | <i class="flag flag-GB" /> | 3:20.83 | 3:30.06 | 🏆 x 4 |  | 🔥 x 11, ⚡ x 17 |
 | [Peter Osudar](../../persons/peter_osudar/666.md) | <40 | <i class="flag flag-CA" /> | 4:08.97 | 4:43.11 |  |  | 🔥 x 1, ⚡ x 1 |
