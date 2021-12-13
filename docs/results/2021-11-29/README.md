@@ -100,7 +100,7 @@
 
 <span style="white-space: nowrap;">🏆 [Yuichi Hamada](../../persons/yuichi_hamada/444bf.md) 9:44.03</span>
 
-<span style="white-space: nowrap;">🥇 [Yuichi Hamada](../../persons/yuichi_hamada/444bf.md) 9:44.03</span>
+<span style="white-space: nowrap;">🥇 [Yuichi Hamada](../../persons/yuichi_hamada/444bf.md) 9:44.03</span>, <span style="white-space: nowrap;">🥈 [Peter Andersson](../../persons/peter_andersson/444bf.md) 11:38.97</span>
 
 #### [3x3x3 Multi-Blind](333mbf.md)
 

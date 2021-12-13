@@ -11,6 +11,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Yuichi Hamada](../../persons/yuichi_hamada/444bf.md) | 40+ | <i class="flag flag-JP" /> | 9:44.03 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/1849183990/videos/1514819732237637) / [Mobile](https://m.facebook.com/1849183990/videos/1514819732237637) |
+| 2 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | <i class="flag flag-SE" /> | 11:38.97 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/413306813768770/permalink/418041409961977) / [Mobile](https://m.facebook.com/events/413306813768770?view=permalink&id=418041409961977) |
 
 #### [2021-11-15](../../results/2021-11-15/444bf.md)
 
