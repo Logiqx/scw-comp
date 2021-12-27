@@ -25,13 +25,13 @@
 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.94 | 27.02 | 🏆 x 4 | 🥇 x 5, 🥈 x 28, 🥉 x 21 | 🔥 x 10, ⚡ x 7 |
 | [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | 40+ | <i class="flag flag-KR" /> | 23.29 | 27.89 | 🏆 x 2 | 🥈 x 1 | 💥 x 1, 🔥 x 3, ⚡ x 2 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) | 40+ | <i class="flag flag-PL" /> | 24.78 | 32.65 | 🏆 x 1 | 🥇 x 1, 🥈 x 2 | 🔥 x 3, ⚡ x 2 |
-| [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 27.06 | 29.43 |  | 🥈 x 5, 🥉 x 20 | 🔥 x 12, ⚡ x 4 |
+| [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 27.06 | 29.43 |  | 🥈 x 6, 🥉 x 20 | 🔥 x 12, ⚡ x 4 |
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333oh.md) | 40+ | <i class="flag flag-GB" /> | 32.33 | 43.99 |  |  | 🔥 x 5, ⚡ x 4 |
 | [Jang Junho (장준호)](../../persons/jang_junho/333oh.md) | 40+ | <i class="flag flag-KR" /> | 59.25 | 1:06.79 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Jason Green](../../persons/jason_green/333oh.md) | 40+ | <i class="flag flag-US" /> | 30.77 | 36.01 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/333oh.md) | 40+ | <i class="flag flag-US" /> | 36.79 | 44.49 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jo Cocco](../../persons/jo_cocco/333oh.md) | 40+ | <i class="flag flag-GB" /> | 1:07.89 | 1:11.38 |  |  | 🔥 x 3, ⚡ x 4 |
-| [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 16.07 | 20.76 | 🏆 x 40 | 🥇 x 40 | 💥 x 3, 🔥 x 5, ⚡ x 4 |
+| [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 16.07 | 20.76 | 🏆 x 41 | 🥇 x 41 | 💥 x 3, 🔥 x 5, ⚡ x 4 |
 | [Michael George](../../persons/michael_george/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.57 | 21.87 | 🏆 x 18 | 🥇 x 22 | 💥 x 5, 🔥 x 3, ⚡ x 5 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 50+ | <i class="flag flag-CA" /> | 1:26.57 | 1:57.43 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Raúl Morales](../../persons/raul_morales/333oh.md) | 40+ | <i class="flag flag-ES" /> | 31.07 | 37.84 |  |  | 🔥 x 1, ⚡ x 1 |

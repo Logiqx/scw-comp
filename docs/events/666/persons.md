@@ -50,7 +50,7 @@
 | [Ed Connell](../../persons/ed_connell/666.md) | <40 | <i class="flag flag-IE" /> | 5:56.45 | DNF |  |  | ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | <40 | <i class="flag flag-VE" /> | 3:03.79 | 3:19.74 | 🏆 x 16 |  | 🔥 x 10, ⚡ x 9 |
 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | 40+ | <i class="flag flag-KR" /> | 2:37.68 | 2:40.63 | 🏆 x 2 | 🥇 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
-| [Pete Lee](../../persons/pete_lee/666.md) | <40 | <i class="flag flag-GB" /> | 3:20.83 | 3:30.06 | 🏆 x 4 |  | 🔥 x 11, ⚡ x 17 |
+| [Pete Lee](../../persons/pete_lee/666.md) | <40 | <i class="flag flag-GB" /> | 3:20.83 | 3:30.06 | 🏆 x 5 |  | 🔥 x 11, ⚡ x 17 |
 | [Peter Osudar](../../persons/peter_osudar/666.md) | <40 | <i class="flag flag-CA" /> | 4:08.97 | 4:43.11 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 30

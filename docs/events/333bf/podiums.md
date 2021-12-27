@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-12-13](../../results/2021-12-13/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 1:14.71 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/444720293824019/permalink/448396690123046) / [Mobile](https://m.facebook.com/events/444720293824019?view=permalink&id=448396690123046) |
+| 2 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | <i class="flag flag-CA" /> | 1:26.92 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/444720293824019/permalink/446415293654519) / [Mobile](https://m.facebook.com/events/444720293824019?view=permalink&id=446415293654519) |
+
 #### [2021-11-29](../../results/2021-11-29/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

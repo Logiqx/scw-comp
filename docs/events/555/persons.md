@@ -61,11 +61,12 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/555.md) | <40 | <i class="flag flag-GB" /> | 2:50.83 | 3:07.26 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Chris Hardwick](../../persons/chris_hardwick/555.md) | <40 | <i class="flag flag-US" /> | 1:56.20 | 2:18.44 |  |  | 🔥 x 2, ⚡ x 3 |
+| [Chris Looney](../../persons/chris_looney/555.md) | <40 | | 2:26.40 | 2:40.20 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/555.md) | <40 | <i class="flag flag-US" /> | 4:12.71 | DNF |  |  | ⚡ x 5 |
 | [Ed Connell](../../persons/ed_connell/555.md) | <40 | <i class="flag flag-IE" /> | 2:03.47 | 2:17.21 |  |  | 🔥 x 5, ⚡ x 6 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | <40 | <i class="flag flag-VE" /> | 1:33.32 | 1:43.89 | 🏆 x 17 |  | 🔥 x 8, ⚡ x 8 |
 | [Go-ho Choi](../../persons/go_ho_choi/555.md) | 40+ | <i class="flag flag-KR" /> | 1:16.98 | 1:30.42 | 🏆 x 6 | 🥇 x 1 | 💥 x 3, 🔥 x 2, ⚡ x 4 |
-| [Pete Lee](../../persons/pete_lee/555.md) | <40 | <i class="flag flag-GB" /> | 1:39.52 | 1:53.35 | 🏆 x 1 |  | 🔥 x 15, ⚡ x 10 |
+| [Pete Lee](../../persons/pete_lee/555.md) | <40 | <i class="flag flag-GB" /> | 1:39.52 | 1:53.35 | 🏆 x 2 |  | 🔥 x 15, ⚡ x 10 |
 | [Peter Osudar](../../persons/peter_osudar/555.md) | <40 | <i class="flag flag-CA" /> | 2:35.63 | 2:41.55 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Shawn Boucké](../../persons/shawn_boucke/555.md) | <40 | <i class="flag flag-US" /> | 2:05.29 | 2:20.52 |  |  | 🔥 x 1, ⚡ x 1 |
 

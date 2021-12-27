@@ -8,6 +8,7 @@
 
 
 
+
 #### [2021-11-01](../../results/2021-11-01/777.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

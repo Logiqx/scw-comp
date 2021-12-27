@@ -37,7 +37,7 @@
 | [JM Tambaoan](../../persons/jm_tambaoan/minx.md) | 40+ | <i class="flag flag-PH" /> | 3:21.38 | 3:32.13 |  | 🥈 x 1, 🥉 x 6 | 🔥 x 3, ⚡ x 5 |
 | [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | <i class="flag flag-GB" /> | 2:37.06 | 2:48.89 |  | 🥈 x 1, 🥉 x 3 | 🔥 x 3, ⚡ x 5 |
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
-| [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:13.30 | 1:25.08 | 🏆 x 20 | 🥇 x 26, 🥈 x 8 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
+| [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:13.30 | 1:25.08 | 🏆 x 21 | 🥇 x 27, 🥈 x 8 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 3:00.88 | 3:07.98 |  | 🥈 x 2, 🥉 x 4 | 🔥 x 1, ⚡ x 5 |
 
 #### Under 40
