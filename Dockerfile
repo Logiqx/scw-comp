@@ -17,7 +17,7 @@ RUN jupyter nbconvert --to python python/*.ipynb && \
 # Ensure project file permissions are correct
 RUN chmod 755 python/*.py
 
-# Create final image from Python 3 + Beautiful Soup 4 on Alpine Linux
+# Create final image from Python 3 (Alpine Linux)
 FROM logiqx/python-lev:${PYTHON_VERSION}-alpine${ALPINE_VERSION}
 
 # Note: Jovian is a fictional native inhabitant of the planet Jupiter
