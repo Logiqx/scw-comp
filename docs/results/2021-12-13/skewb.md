@@ -8,7 +8,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| 1 | [Chris Looney](../../persons/chris_looney/skewb.md) | <40 | | 18.03 | 19.52 | 🏆 🔥 ⚡ | 20.69 | 19.07 | 23.44 | 18.79 | 18.03 | [Desktop](https://www.facebook.com/chris.looney/videos/590661265335851) / [Mobile](https://m.facebook.com/chris.looney/videos/590661265335851) |
+| 1 | [Chris Looney](../../persons/chris_looney/skewb.md) | <40 | <i class="flag flag-US" /> | 18.03 | 19.52 | 🏆 🔥 ⚡ | 20.69 | 19.07 | 23.44 | 18.79 | 18.03 | [Desktop](https://www.facebook.com/chris.looney/videos/590661265335851) / [Mobile](https://m.facebook.com/chris.looney/videos/590661265335851) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

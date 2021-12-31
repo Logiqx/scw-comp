@@ -61,7 +61,7 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/555.md) | <40 | <i class="flag flag-GB" /> | 2:50.83 | 3:07.26 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Chris Hardwick](../../persons/chris_hardwick/555.md) | <40 | <i class="flag flag-US" /> | 1:56.20 | 2:18.44 |  |  | 🔥 x 2, ⚡ x 3 |
-| [Chris Looney](../../persons/chris_looney/555.md) | <40 | | 2:26.40 | 2:40.20 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Chris Looney](../../persons/chris_looney/555.md) | <40 | <i class="flag flag-US" /> | 2:26.40 | 2:40.20 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/555.md) | <40 | <i class="flag flag-US" /> | 4:12.71 | DNF |  |  | ⚡ x 5 |
 | [Ed Connell](../../persons/ed_connell/555.md) | <40 | <i class="flag flag-IE" /> | 2:03.47 | 2:17.21 |  |  | 🔥 x 5, ⚡ x 6 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | <40 | <i class="flag flag-VE" /> | 1:33.32 | 1:43.89 | 🏆 x 17 |  | 🔥 x 8, ⚡ x 8 |

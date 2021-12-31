@@ -36,7 +36,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/skewb.md) | <40 | <i class="flag flag-GB" /> | 28.41 | 38.18 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Chris Looney](../../persons/chris_looney/skewb.md) | <40 | | 18.03 | 19.52 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
+| [Chris Looney](../../persons/chris_looney/skewb.md) | <40 | <i class="flag flag-US" /> | 18.03 | 19.52 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/skewb.md) | <40 | <i class="flag flag-US" /> | 9.60 | 18.66 | 🏆 x 1 |  | 🔥 x 4, ⚡ x 2 |
 | [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | <i class="flag flag-IE" /> | 4.85 | 11.31 | 🏆 x 2 |  | 🔥 x 3, ⚡ x 3 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | <40 | <i class="flag flag-VE" /> | 6.52 | 9.23 | 🏆 x 4 |  | 🔥 x 2, ⚡ x 4 |
