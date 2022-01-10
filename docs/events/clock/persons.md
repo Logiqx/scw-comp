@@ -41,7 +41,7 @@
 | [Ed Connell](../../persons/ed_connell/clock.md) | <40 | <i class="flag flag-IE" /> | 13.09 | 13.53 | 🏆 x 7 |  | 🔥 x 7, ⚡ x 6 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/clock.md) | <40 | <i class="flag flag-VE" /> | 10.78 | 12.14 | 🏆 x 10 |  | 🔥 x 7, ⚡ x 7 |
 | [Go-ho Choi](../../persons/go_ho_choi/clock.md) | <40 | <i class="flag flag-KR" /> | 10.95 | 12.60 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Greg Simmons](../../persons/greg_simmons/clock.md) | <40 | <i class="flag flag-GB" /> | 6.69 | 8.11 | 🏆 x 13 |  | 💥 x 11, 🔥 x 9, ⚡ x 10 |
+| [Greg Simmons](../../persons/greg_simmons/clock.md) | <40 | <i class="flag flag-GB" /> | 6.69 | 8.11 | 🏆 x 14 |  | 💥 x 11, 🔥 x 9, ⚡ x 10 |
 | [Peter Osudar](../../persons/peter_osudar/clock.md) | <40 | <i class="flag flag-CA" /> | 19.18 | 21.63 |  |  | 🔥 x 1, ⚡ x 1 |
 
 

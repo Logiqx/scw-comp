@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-12-27](../../results/2021-12-27/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | <i class="flag flag-FI" /> | 52.38 | 57.38 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/364077578855426/permalink/372342998028884) / [Mobile](https://m.facebook.com/events/364077578855426?view=permalink&id=372342998028884) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/444.md) | 40+ | <i class="flag flag-TW" /> | 1:03.61 | 1:06.01 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/364077578855426/permalink/369832801613237) / [Mobile](https://m.facebook.com/events/364077578855426?view=permalink&id=369832801613237) |
+| 3 | [Daniel Smith](../../persons/daniel_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:17.40 | 1:26.00 | 🥉 | [Desktop](https://www.facebook.com/events/364077578855426/permalink/372202611376256) / [Mobile](https://m.facebook.com/events/364077578855426?view=permalink&id=372202611376256) |
+
 #### [2021-12-13](../../results/2021-12-13/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

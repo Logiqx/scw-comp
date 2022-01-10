@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-12-27](../../results/2021-12-27/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | <i class="flag flag-CA" /> | 1:47.47 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/998846637337413/permalink/1006988616523215) / [Mobile](https://m.facebook.com/events/998846637337413?view=permalink&id=1006988616523215) |
+
 #### [2021-12-13](../../results/2021-12-13/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
