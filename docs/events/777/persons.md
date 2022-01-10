@@ -34,7 +34,7 @@
 | [Jeremy Duehring](../../persons/jeremy_duehring/777.md) | 40+ | <i class="flag flag-US" /> | 8:08.23 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/777.md) | 50+ | <i class="flag flag-US" /> | 9:06.58 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Konsta Jukka](../../persons/konsta_jukka/777.md) | 40+ | <i class="flag flag-FI" /> | 4:44.78 | 5:09.11 | 🏆 x 3 | 🥇 x 3, 🥈 x 6, 🥉 x 1 | 🔥 x 4, ⚡ x 5 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/777.md) | 40+ | <i class="flag flag-TW" /> | 8:05.96 | DNF |  | 🥈 x 1 | ⚡ x 1 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/777.md) | 40+ | <i class="flag flag-TW" /> | 7:33.21 | DNF |  | 🥇 x 1, 🥈 x 1 | ⚡ x 2 |
 
 #### Under 40
 
@@ -44,7 +44,7 @@
 | [Chris Thames](../../persons/chris_thames/777.md) | <40 | <i class="flag flag-US" /> | 14:00.59 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/777.md) | <40 | <i class="flag flag-IE" /> | 8:56.69 | DNF |  |  | ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/777.md) | <40 | <i class="flag flag-VE" /> | 5:09.66 | 5:23.30 | 🏆 x 1 |  | 🔥 x 7, ⚡ x 7 |
-| [Pete Lee](../../persons/pete_lee/777.md) | <40 | <i class="flag flag-GB" /> | 5:04.61 | 5:31.60 | 🏆 x 6 |  | 🔥 x 12, ⚡ x 20 |
+| [Pete Lee](../../persons/pete_lee/777.md) | <40 | <i class="flag flag-GB" /> | 5:04.61 | 5:31.60 | 🏆 x 7 |  | 🔥 x 12, ⚡ x 20 |
 | [Peter Osudar](../../persons/peter_osudar/777.md) | <40 | <i class="flag flag-CA" /> | 6:13.99 | 6:36.78 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 30

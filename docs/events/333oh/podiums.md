@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2021-12-27](../../results/2021-12-27/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 19.73 | 22.97 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/343359980546742/permalink/350647106484696) / [Mobile](https://m.facebook.com/events/343359980546742?view=permalink&id=350647106484696) |
+| 2 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 29.21 | 36.56 | 🥈 | [Desktop](https://www.facebook.com/events/343359980546742/permalink/350636589819081) / [Mobile](https://m.facebook.com/events/343359980546742?view=permalink&id=350636589819081) |
+
 #### [2021-12-13](../../results/2021-12-13/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

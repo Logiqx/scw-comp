@@ -8,6 +8,7 @@
 
 
 
+
 #### [2021-11-15](../../results/2021-11-15/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

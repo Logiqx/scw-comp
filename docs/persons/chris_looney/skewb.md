@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2021-12-27](../../results/2021-12-27/skewb.md) | <40 | **9.58** | **13.06** | 🏆 🔥 ⚡ | **9.58** | 24.40 | 10.39 | 13.86 | 14.94 | [Desktop](https://www.facebook.com/chris.looney/videos/215359907349421) / [Mobile](https://m.facebook.com/chris.looney/videos/215359907349421) |
 | [2021-12-13](../../results/2021-12-13/skewb.md) | <40 | **18.03** | **19.52** | 🏆 🔥 ⚡ | 20.69 | 19.07 | 23.44 | 18.79 | **18.03** | [Desktop](https://www.facebook.com/chris.looney/videos/590661265335851) / [Mobile](https://m.facebook.com/chris.looney/videos/590661265335851) |
 
 
