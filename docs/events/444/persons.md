@@ -52,7 +52,7 @@
 | [John Neo Stanley](../../persons/john_neo_stanley/444.md) | 50+ | <i class="flag flag-GB" /> | 2:06.67 | 2:21.77 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/444.md) | 40+ | <i class="flag flag-US" /> | 3:13.21 | 3:38.78 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Kerry Go](../../persons/kerry_go/444.md) | 50+ | <i class="flag flag-US" /> | 1:40.14 | 1:41.66 |  |  | 🔥 x 3, ⚡ x 3 |
-| [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | <i class="flag flag-FI" /> | 44.69 | 49.90 | 🏆 x 19 | 🥇 x 25, 🥈 x 8, 🥉 x 2 | 🔥 x 7, ⚡ x 8 |
+| [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | <i class="flag flag-FI" /> | 44.69 | 49.90 | 🏆 x 18 | 🥇 x 25, 🥈 x 8, 🥉 x 2 | 🔥 x 7, ⚡ x 8 |
 | [Michael George](../../persons/michael_george/444.md) | 40+ | <i class="flag flag-GB" /> | 45.67 | 53.30 | 🏆 x 8 | 🥇 x 18, 🥈 x 3 | 💥 x 3, 🔥 x 2, ⚡ x 2 |
 | [Mickey Doyle](../../persons/mickey_doyle/444.md) | 40+ | <i class="flag flag-US" /> | 1:31.88 | 1:39.07 |  | 🥉 x 1 | 🔥 x 3, ⚡ x 4 |
 | [Peter Douthwright](../../persons/peter_douthwright/444.md) | 50+ | <i class="flag flag-CA" /> | 2:20.53 | 2:42.21 |  |  | 🔥 x 2, ⚡ x 3 |
@@ -71,7 +71,7 @@
 | [Chris Looney](../../persons/chris_looney/444.md) | <40 | <i class="flag flag-US" /> | 1:12.26 | 1:27.21 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Chris Thames](../../persons/chris_thames/444.md) | <40 | <i class="flag flag-US" /> | 1:35.67 | 1:43.52 |  |  | 🔥 x 8, ⚡ x 9 |
 | [Ed Connell](../../persons/ed_connell/444.md) | <40 | <i class="flag flag-IE" /> | 51.95 | 1:03.98 | 🏆 x 1 |  | 🔥 x 4, ⚡ x 5 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) | <40 | <i class="flag flag-VE" /> | 43.94 | 51.91 | 🏆 x 9 |  | 🔥 x 4, ⚡ x 4 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) | <40 | <i class="flag flag-VE" /> | 43.94 | 51.91 | 🏆 x 10 |  | 🔥 x 4, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/444.md) | 40+ | <i class="flag flag-KR" /> | 36.50 | 49.27 | 🏆 x 4 | 🥇 x 1 | 💥 x 5, 🔥 x 4, ⚡ x 6 |
 | [Greg Simmons](../../persons/greg_simmons/444.md) | <40 | <i class="flag flag-GB" /> | 1:21.68 | 1:29.20 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Isak Majer](../../persons/isak_majer/444.md) | <40 | <i class="flag flag-NL" /> | 1:41.66 | 1:50.59 |  |  | 🔥 x 1, ⚡ x 1 |

@@ -12,7 +12,7 @@
 
 <span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/333.md) 10.96</span>, <span style="white-space: nowrap;">🥈 [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) 16.83</span>, <span style="white-space: nowrap;">🥉 [Toby Chamberlain](../../persons/toby_chamberlain/333.md) 18.74</span>
 
-🔥 x 3 = <span style="white-space: nowrap;">[Greg Simmons](../../persons/greg_simmons/333.md) 15.90</span>, <span style="white-space: nowrap;">[Yi-Wei Chen](../../persons/yi_wei_chen/333.md) 16.83</span>, <span style="white-space: nowrap;">[Chris Looney](../../persons/chris_looney/333.md) 20.99</span>
+🔥 x 4 = <span style="white-space: nowrap;">[Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) 12.39</span>, <span style="white-space: nowrap;">[Greg Simmons](../../persons/greg_simmons/333.md) 15.90</span>, <span style="white-space: nowrap;">[Yi-Wei Chen](../../persons/yi_wei_chen/333.md) 16.83</span>, <span style="white-space: nowrap;">[Chris Looney](../../persons/chris_looney/333.md) 20.99</span>
 
 ⚡ x 2 = <span style="white-space: nowrap;">[Toby Chamberlain](../../persons/toby_chamberlain/333.md) 14.14</span>, <span style="white-space: nowrap;">[Chris Looney](../../persons/chris_looney/333.md) 18.47</span>
 
@@ -28,7 +28,7 @@
 
 #### [4x4x4](444.md)
 
-<span style="white-space: nowrap;">🏆 [Konsta Jukka](../../persons/konsta_jukka/444.md) 57.38</span>
+<span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) 53.22</span>
 
 <span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/444.md) 57.38</span>, <span style="white-space: nowrap;">🥈 [Yi-Wei Chen](../../persons/yi_wei_chen/444.md) 1:06.01</span>, <span style="white-space: nowrap;">🥉 [Daniel Smith](../../persons/daniel_smith/444.md) 1:26.00</span>
 
@@ -38,7 +38,7 @@
 
 #### [5x5x5](555.md)
 
-<span style="white-space: nowrap;">🏆 [Pete Lee](../../persons/pete_lee/555.md) 1:54.21</span>
+<span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) 1:48.99</span>
 
 <span style="white-space: nowrap;">🥇 [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) 2:16.21</span>
 
@@ -48,7 +48,7 @@
 
 #### [6x6x6](666.md)
 
-<span style="white-space: nowrap;">🏆 [Pete Lee](../../persons/pete_lee/666.md) 3:48.47</span>
+<span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) 3:34.35</span>
 
 <span style="white-space: nowrap;">🥇 [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) 4:50.97</span>
 
@@ -58,7 +58,7 @@
 
 #### [7x7x7](777.md)
 
-<span style="white-space: nowrap;">🏆 [Pete Lee](../../persons/pete_lee/777.md) 6:04.92</span>
+<span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/777.md) 5:37.34</span>
 
 <span style="white-space: nowrap;">🥇 [Yi-Wei Chen](../../persons/yi_wei_chen/777.md) DNF</span>
 
@@ -72,7 +72,7 @@
 
 #### [Megaminx](minx.md)
 
-<span style="white-space: nowrap;">🏆 [Konsta Jukka](../../persons/konsta_jukka/minx.md) 1:46.47</span>
+<span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) 1:38.43</span>
 
 <span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/minx.md) 1:46.47</span>, <span style="white-space: nowrap;">🥈 [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) 2:44.42</span>
 
@@ -82,7 +82,7 @@
 
 #### [Pyraminx](pyram.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/pyram.md) 9.17</span>
+<span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) 7.97</span>
 
 <span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/pyram.md) 9.17</span>
 
@@ -92,11 +92,11 @@
 
 #### [Skewb](skewb.md)
 
-<span style="white-space: nowrap;">🏆 [Chris Looney](../../persons/chris_looney/skewb.md) 13.06</span>
+<span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) 7.95</span>
 
-🔥 x 1 = <span style="white-space: nowrap;">[Chris Looney](../../persons/chris_looney/skewb.md) 13.06</span>
+🔥 x 2 = <span style="white-space: nowrap;">[Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) 7.95</span>, <span style="white-space: nowrap;">[Chris Looney](../../persons/chris_looney/skewb.md) 13.06</span>
 
-⚡ x 1 = <span style="white-space: nowrap;">[Chris Looney](../../persons/chris_looney/skewb.md) 9.58</span>
+⚡ x 2 = <span style="white-space: nowrap;">[Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) 3.85</span>, <span style="white-space: nowrap;">[Chris Looney](../../persons/chris_looney/skewb.md) 9.58</span>
 
 #### [Square-1](sq1.md)
 

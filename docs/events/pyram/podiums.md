@@ -10,7 +10,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.09 | 9.17 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1083505512394794/permalink/1091937878218224) / [Mobile](https://m.facebook.com/events/1083505512394794?view=permalink&id=1091937878218224) |
+| 1 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.09 | 9.17 | 🥇 | [Desktop](https://www.facebook.com/events/1083505512394794/permalink/1091937878218224) / [Mobile](https://m.facebook.com/events/1083505512394794?view=permalink&id=1091937878218224) |
 
 #### [2021-12-13](../../results/2021-12-13/pyram.md)
 
