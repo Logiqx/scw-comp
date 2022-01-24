@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-01-10](../../results/2022-01-10/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Eric Dodson](../../persons/eric_dodson/skewb.md) | 40+ | <i class="flag flag-US" /> | 7.36 | 12.71 | 🥇 🔥 | [Desktop](https://www.facebook.com/events/1071902263370982/permalink/1080504515844090) / [Mobile](https://m.facebook.com/events/1071902263370982?view=permalink&id=1080504515844090) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.51 | 15.68 | 🥈 | [Desktop](https://www.facebook.com/events/1071902263370982/permalink/1075632412997967) / [Mobile](https://m.facebook.com/events/1071902263370982?view=permalink&id=1075632412997967) |
+
 
 
 

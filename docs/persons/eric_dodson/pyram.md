@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Eric Dodson](README.md)
+### [Eric Dodson](README.md) - [2021DODS01](https://www.worldcubeassociation.org/persons/2021DODS01?event=pyram)
 
 <i class="flag flag-US" />&nbsp;United States
 

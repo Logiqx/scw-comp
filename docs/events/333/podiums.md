@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-01-10](../../results/2022-01-10/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 16.95 | 21.01 | 🥇 | [Desktop](https://www.facebook.com/520891933/videos/274982984566998) / [Mobile](https://m.facebook.com/520891933/videos/274982984566998) |
+| 2 | [Rodney Gardner](../../persons/rodney_gardner/333.md) | 50+ | <i class="flag flag-US" /> | 20.84 | 22.24 | 🥈 | [Desktop](https://www.facebook.com/events/461056852143654/permalink/465249478391058) / [Mobile](https://m.facebook.com/events/461056852143654?view=permalink&id=465249478391058) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | <i class="flag flag-US" /> | 20.58 | 23.02 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/461056852143654/permalink/462158532033486) / [Mobile](https://m.facebook.com/events/461056852143654?view=permalink&id=462158532033486) |
+
 #### [2021-12-27](../../results/2021-12-27/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

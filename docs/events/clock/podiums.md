@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-01-10](../../results/2022-01-10/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 10.72 | 13.71 | 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/1071902263370982/permalink/1076330959594779) / [Mobile](https://m.facebook.com/events/1071902263370982?view=permalink&id=1076330959594779) |
+| 2 | [Eric Dodson](../../persons/eric_dodson/clock.md) | 40+ | <i class="flag flag-US" /> | 18.63 | 24.09 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1071902263370982/permalink/1080498415844700) / [Mobile](https://m.facebook.com/events/1071902263370982?view=permalink&id=1080498415844700) |
+
 
 #### [2021-11-29](../../results/2021-11-29/clock.md)
 
