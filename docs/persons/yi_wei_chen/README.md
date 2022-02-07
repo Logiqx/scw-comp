@@ -19,7 +19,7 @@
 | [Megaminx](minx.md) | 2:39.97 | 2:44.42 |  | 🥈 x 3, 🥉 x 4 | 🔥 x 2, ⚡ x 6 |
 | [Pyraminx](pyram.md) | 17.35 | 21.44 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Square-1](sq1.md) | 51.61 | 59.20 |  | 🥈 x 4, 🥉 x 6 | 🔥 x 2, ⚡ x 2 |
-| [3x3x3 FMC](333fm.md) | 29 | 34.33 | 🏆 x 3 | 🥇 x 4, 🥈 x 9, 🥉 x 3 | 🔥 x 2, ⚡ x 5 |
+| [3x3x3 FMC](333fm.md) | 29 | 34.33 | 🏆 x 4 | 🥇 x 5, 🥈 x 9, 🥉 x 3 | 🔥 x 2, ⚡ x 5 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

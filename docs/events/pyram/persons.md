@@ -10,7 +10,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.91 | 🏆 x 4 | 🥇 x 13, 🥈 x 42, 🥉 x 5 | 💥 x 6, 🔥 x 4, ⚡ x 3 |
+| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.91 | 🏆 x 4 | 🥇 x 14, 🥈 x 42, 🥉 x 5 | 💥 x 6, 🔥 x 4, ⚡ x 3 |
 | [Jae Park](../../persons/jae_park/pyram.md) | 50+ | <i class="flag flag-US" /> | 1:36.40 | 1:58.10 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.39 | 9.90 |  | 🥇 x 6, 🥈 x 8, 🥉 x 22 | 🔥 x 6, ⚡ x 6 |
 
@@ -20,8 +20,8 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | 40+ | <i class="flag flag-GB" /> | 11.80 | 13.95 |  | 🥈 x 1, 🥉 x 5 | 🔥 x 2, ⚡ x 4 |
 | [Anthony Rochester](../../persons/anthony_rochester/pyram.md) | 40+ | <i class="flag flag-AU" /> | 6.94 | 9.16 | 🏆 x 2 | 🥇 x 4, 🥈 x 3, 🥉 x 1 | 🔥 x 5, ⚡ x 6 |
-| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.91 | 🏆 x 4 | 🥇 x 13, 🥈 x 42, 🥉 x 5 | 💥 x 6, 🔥 x 4, ⚡ x 3 |
-| [Eric Dodson](../../persons/eric_dodson/pyram.md) | 40+ | <i class="flag flag-US" /> | 13.11 | 16.51 |  | 🥉 x 2 | 🔥 x 3, ⚡ x 2 |
+| [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.91 | 🏆 x 4 | 🥇 x 14, 🥈 x 42, 🥉 x 5 | 💥 x 6, 🔥 x 4, ⚡ x 3 |
+| [Eric Dodson](../../persons/eric_dodson/pyram.md) | 40+ | <i class="flag flag-US" /> | 13.11 | 16.51 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 3, ⚡ x 2 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) | 40+ | <i class="flag flag-JP" /> | 4.02 | 6.32 | 🏆 x 24 | 🥇 x 24 | 💥 x 2, 🔥 x 5, ⚡ x 5 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/pyram.md) | 40+ | <i class="flag flag-GB" /> | 19.74 | 24.12 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Go-ho Choi](../../persons/go_ho_choi/pyram.md) | 40+ | <i class="flag flag-KR" /> | 6.07 | 7.85 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
@@ -39,7 +39,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/pyram.md) | <40 | <i class="flag flag-GB" /> | 12.02 | 16.72 |  |  | 🔥 x 2, ⚡ x 3 |
-| [Chris Looney](../../persons/chris_looney/pyram.md) | <40 | <i class="flag flag-US" /> | 7.38 | 9.83 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Chris Looney](../../persons/chris_looney/pyram.md) | <40 | <i class="flag flag-US" /> | 7.38 | 9.45 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 2 |
 | [Chris Thames](../../persons/chris_thames/pyram.md) | <40 | <i class="flag flag-US" /> | 8.37 | 14.07 |  |  | 🔥 x 6, ⚡ x 7 |
 | [Ed Connell](../../persons/ed_connell/pyram.md) | <40 | <i class="flag flag-IE" /> | 5.89 | 8.76 |  |  | 🔥 x 7, ⚡ x 8 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) | <40 | <i class="flag flag-VE" /> | 4.59 | 7.52 | 🏆 x 18 |  | 🔥 x 2, ⚡ x 1 |

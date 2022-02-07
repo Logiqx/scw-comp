@@ -8,10 +8,11 @@
 
 #### Clock Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-01-24](../../results/2022-01-24/clock.md) | 40+ | 21.86 | DNF | 🏆 🥇 | 25.93 | 24.31 | DNF | 21.86 | DNF | [Desktop](https://www.facebook.com/events/317247483509647/permalink/324943996073329) / [Mobile](https://m.facebook.com/events/317247483509647?view=permalink&id=324943996073329) |
 | [2022-01-10](../../results/2022-01-10/clock.md) | 40+ | **18.63** | **24.09** | 🥈 🔥 ⚡ | 21.31 | 28.88 | 28.10 | 22.87 | **18.63** | [Desktop](https://www.facebook.com/events/1071902263370982/permalink/1080498415844700) / [Mobile](https://m.facebook.com/events/1071902263370982?view=permalink&id=1080498415844700) |
 | [2021-10-04](../../results/2021-10-04/clock.md) | 40+ | **26.59** | **29.11** | 🔥 ⚡ | 29.18 | 31.00 | **26.59** | 34.71 | 27.16 | [Desktop](https://www.facebook.com/events/1205858816603137/permalink/1215362402319445) / [Mobile](https://m.facebook.com/events/1205858816603137?view=permalink&id=1215362402319445) |
 
