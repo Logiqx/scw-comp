@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-01-24](../../results/2022-01-24/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.45 | 10.91 | 🥇 | [Desktop](https://www.facebook.com/events/317247483509647/permalink/321042186463510) / [Mobile](https://m.facebook.com/events/317247483509647?view=permalink&id=321042186463510) |
+| 2 | [Eric Dodson](../../persons/eric_dodson/pyram.md) | 40+ | <i class="flag flag-US" /> | 14.17 | 20.57 | 🥈 | [Desktop](https://www.facebook.com/events/317247483509647/permalink/324950106072718) / [Mobile](https://m.facebook.com/events/317247483509647?view=permalink&id=324950106072718) |
+
 #### [2022-01-10](../../results/2022-01-10/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
