@@ -6,13 +6,19 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### Over 60
+
+| # | Name | Date | Age | 🌍 | Single | Cups | Medals | Achievements | Video |
+| :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
+| 1 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | [2022-02-07](../../results/2022-02-07/333oh.md) | 60+ | <i class="flag flag-CA" /> | 1:44.59 |  | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 3 | [Desktop](https://www.facebook.com/622712395/videos/pcb.1016259075658167/5192281770805320) / [Mobile](https://m.facebook.com/622712395/videos/pcb.1016259075658167/5192281770805320) |
+
 #### Over 50
 
 | # | Name | Date | Age | 🌍 | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | [2020-10-13](../../results/2020-10-13/333oh.md) | 50+ | <i class="flag flag-PL" /> | 27.43 |  | 🥉 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 3 | [Desktop](https://www.facebook.com/events/2855876438029747/permalink/2862234187393972) / [Mobile](https://m.facebook.com/events/2855876438029747?view=permalink&id=2862234187393972) |
 | 2 | [Chris Wright](../../persons/chris_wright/333oh.md) | [2020-03-10](../../results/2020-03-10/333oh.md) | 50+ | <i class="flag flag-GB" /> | 35.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/684510792316675/permalink/685546418879779) / [Mobile](https://m.facebook.com/events/684510792316675?view=permalink&id=685546418879779) |
-| 3 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | [2020-03-24](../../results/2020-03-24/333oh.md) | 50+ | <i class="flag flag-CA" /> | 1:26.57 |  |  | 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/events/212335450005639/permalink/214352896470561) / [Mobile](https://m.facebook.com/events/212335450005639?view=permalink&id=214352896470561) |
+| 3 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | [2020-03-24](../../results/2020-03-24/333oh.md) | 50+ | <i class="flag flag-CA" /> | 1:26.57 |  | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 3 | [Desktop](https://www.facebook.com/events/212335450005639/permalink/214352896470561) / [Mobile](https://m.facebook.com/events/212335450005639?view=permalink&id=214352896470561) |
 
 #### Over 40
 
@@ -37,7 +43,7 @@
 | 17 | [Jang Junho (장준호)](../../persons/jang_junho/333oh.md) | [2020-04-07](../../results/2020-04-07/333oh.md) | 40+ | <i class="flag flag-KR" /> | 59.25 |  |  | 🔥 x 3, ⚡ x 3 | [Desktop](https://www.facebook.com/events/682716079141575/permalink/686595828753600) / [Mobile](https://m.facebook.com/events/682716079141575?view=permalink&id=686595828753600) |
 | 18 | [Aaron Cumes](../../persons/aaron_cumes/333oh.md) | [2020-07-21](../../results/2020-07-21/333oh.md) | 40+ | <i class="flag flag-GB" /> | 1:01.02 |  |  | 🔥 x 7, ⚡ x 8 | [Desktop](https://www.facebook.com/events/1842039515939197/permalink/1842265092583306) / [Mobile](https://m.facebook.com/events/1842039515939197?view=permalink&id=1842265092583306) |
 | 19 | [Jo Cocco](../../persons/jo_cocco/333oh.md) | [2021-05-31](../../results/2021-05-31/333oh.md) | 40+ | <i class="flag flag-GB" /> | 1:07.89 |  |  | 🔥 x 3, ⚡ x 4 | [Desktop](https://www.facebook.com/584947108/videos/10157961637657109) / [Mobile](https://m.facebook.com/584947108/videos/10157961637657109) |
-| 20 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | [2020-03-24](../../results/2020-03-24/333oh.md) | 50+ | <i class="flag flag-CA" /> | 1:26.57 |  |  | 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/events/212335450005639/permalink/214352896470561) / [Mobile](https://m.facebook.com/events/212335450005639?view=permalink&id=214352896470561) |
+| 20 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | [2020-03-24](../../results/2020-03-24/333oh.md) | 50+ | <i class="flag flag-CA" /> | 1:26.57 |  | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 3 | [Desktop](https://www.facebook.com/events/212335450005639/permalink/214352896470561) / [Mobile](https://m.facebook.com/events/212335450005639?view=permalink&id=214352896470561) |
 
 #### Under 40
 
@@ -45,7 +51,7 @@
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Phil Yu](../../persons/phil_yu/333oh.md) | [2020-06-09](../../results/2020-06-09/333oh.md) | <40 | <i class="flag flag-US" /> | 13.60 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/903549840109576/permalink/904463093351584) / [Mobile](https://m.facebook.com/events/903549840109576?view=permalink&id=904463093351584) |
 | 2 | [Alex Friedman](../../persons/alex_friedman/333oh.md) | [2020-06-30](../../results/2020-06-30/333oh.md) | <40 | <i class="flag flag-IL" /> | 19.20 | 🏆 x 1 |  | 🔥 x 5, ⚡ x 5 | [Desktop](https://www.facebook.com/events/679860472562391/permalink/682468332301605) / [Mobile](https://m.facebook.com/events/679860472562391?view=permalink&id=682468332301605) |
-| 3 | [Ed Connell](../../persons/ed_connell/333oh.md) | [2021-07-12](../../results/2021-07-12/333oh.md) | <40 | <i class="flag flag-IE" /> | 21.93 | 🏆 x 3 |  | 🔥 x 7, ⚡ x 2 | [Desktop](https://www.facebook.com/events/511699716713156/permalink/514952819721179) / [Mobile](https://m.facebook.com/events/511699716713156?view=permalink&id=514952819721179) |
+| 3 | [Ed Connell](../../persons/ed_connell/333oh.md) | [2021-07-12](../../results/2021-07-12/333oh.md) | <40 | <i class="flag flag-IE" /> | 21.93 | 🏆 x 4 |  | 🔥 x 7, ⚡ x 2 | [Desktop](https://www.facebook.com/events/511699716713156/permalink/514952819721179) / [Mobile](https://m.facebook.com/events/511699716713156?view=permalink&id=514952819721179) |
 | 4 | [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | [2020-02-18](../../results/2020-02-18/333oh.md) | <40 | <i class="flag flag-KR" /> | 22.13 | 🏆 x 2 | 🥈 x 1 | 💥 x 1, 🔥 x 3, ⚡ x 2 | [Desktop](https://www.facebook.com/events/1618332754973681/permalink/1618631721610451) / [Mobile](https://m.facebook.com/events/1618332754973681?view=permalink&id=1618631721610451) |
 | 5 | [Shawn Boucké](../../persons/shawn_boucke/333oh.md) | [2021-09-20](../../results/2021-09-20/333oh.md) | <40 | <i class="flag flag-US" /> | 23.99 |  |  | 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/events/836337370416586/permalink/839297493453907) / [Mobile](https://m.facebook.com/events/836337370416586?view=permalink&id=839297493453907) |
 | 6 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333oh.md) | [2020-07-28](../../results/2020-07-28/333oh.md) | <40 | <i class="flag flag-VE" /> | 26.22 |  |  | 🔥 x 3, ⚡ x 1 | [Desktop](https://www.facebook.com/events/708566320000803/permalink/712004662990302) / [Mobile](https://m.facebook.com/events/708566320000803?view=permalink&id=712004662990302) |

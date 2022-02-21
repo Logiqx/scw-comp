@@ -19,7 +19,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | 40+ | <i class="flag flag-GB" /> | 10:52.00 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 5 | ⚡ x 1 |
-| [Anthony Rochester](../../persons/anthony_rochester/444bf.md) | 40+ | <i class="flag flag-AU" /> | 8:27.88 | DNF |  | 🥈 x 3, 🥉 x 1 | ⚡ x 3 |
+| [Anthony Rochester](../../persons/anthony_rochester/444bf.md) | 40+ | <i class="flag flag-AU" /> | 8:27.88 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 1 | ⚡ x 3 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444bf.md) | 40+ | <i class="flag flag-PL" /> | 5:57.41 | DNF | 🏆 x 4 | 🥇 x 4, 🥈 x 4 | ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/444bf.md) | 50+ | <i class="flag flag-US" /> | 4:26.20 | DNF | 🏆 x 33 | 🥇 x 36, 🥈 x 1, 🥉 x 1 | 💥 x 11, ⚡ x 11 |
 | [Javier Rossi](../../persons/javier_rossi/444bf.md) | 50+ | <i class="flag flag-AR" /> | 25:34.50 | DNF |  | 🥉 x 1 | ⚡ x 1 |
