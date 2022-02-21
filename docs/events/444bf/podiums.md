@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-02-07](../../results/2022-02-07/444bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/444bf.md) | 40+ | <i class="flag flag-AU" /> | 11:58.00 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1026145281273183/permalink/1030311167523261) / [Mobile](https://m.facebook.com/events/1026145281273183?view=permalink&id=1030311167523261) |
+
 #### [2021-11-29](../../results/2021-11-29/444bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

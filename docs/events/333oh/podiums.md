@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-02-07](../../results/2022-02-07/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 60+ | <i class="flag flag-CA" /> | 1:44.59 | DNF | 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/622712395/videos/pcb.1016259075658167/5192281770805320) / [Mobile](https://m.facebook.com/622712395/videos/pcb.1016259075658167/5192281770805320) |
+
 #### [2022-01-24](../../results/2022-01-24/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

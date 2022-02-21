@@ -11,10 +11,11 @@
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](333.md) | 34.99 | 41.30 |  |  | 🔥 x 1, ⚡ x 1 |
-| [2x2x2](222.md) | 9.83 | 11.50 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Pyraminx](pyram.md) | 13.11 | 16.51 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 3, ⚡ x 2 |
-| [Skewb](skewb.md) | 5.92 | 12.71 | 🏆 x 3 | 🥇 x 4, 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
-| [Clock](clock.md) | 18.63 | 24.09 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
+| [2x2x2](222.md) | 9.60 | 11.50 |  |  | 🔥 x 1, ⚡ x 2 |
+| [4x4x4](444.md) | 2:35.14 | - |  | 🥉 x 1 | ⚡ x 1 |
+| [Pyraminx](pyram.md) | 10.85 | 16.03 |  | 🥈 x 1, 🥉 x 3 | 🔥 x 4, ⚡ x 3 |
+| [Skewb](skewb.md) | 5.92 | 11.56 | 🏆 x 4 | 🥇 x 5, 🥉 x 1 | 🔥 x 4, ⚡ x 2 |
+| [Clock](clock.md) | 18.63 | 24.09 | 🏆 x 2 | 🥇 x 2, 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

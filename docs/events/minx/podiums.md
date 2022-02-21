@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-02-07](../../results/2022-02-07/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/622712395/videos/pcb.1016259075658167/1129662141151036) / [Mobile](https://m.facebook.com/622712395/videos/pcb.1016259075658167/1129662141151036) |
+
 #### [2021-12-27](../../results/2021-12-27/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

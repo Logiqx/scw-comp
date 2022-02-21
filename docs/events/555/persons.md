@@ -66,7 +66,7 @@
 | [Ed Connell](../../persons/ed_connell/555.md) | <40 | <i class="flag flag-IE" /> | 2:03.47 | 2:17.21 |  |  | 🔥 x 5, ⚡ x 6 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | <40 | <i class="flag flag-VE" /> | 1:33.32 | 1:43.89 | 🏆 x 19 |  | 🔥 x 8, ⚡ x 8 |
 | [Go-ho Choi](../../persons/go_ho_choi/555.md) | 40+ | <i class="flag flag-KR" /> | 1:16.98 | 1:30.42 | 🏆 x 6 | 🥇 x 1 | 💥 x 3, 🔥 x 2, ⚡ x 4 |
-| [Pete Lee](../../persons/pete_lee/555.md) | <40 | <i class="flag flag-GB" /> | 1:39.52 | 1:53.35 | 🏆 x 3 |  | 🔥 x 15, ⚡ x 10 |
+| [Pete Lee](../../persons/pete_lee/555.md) | <40 | <i class="flag flag-GB" /> | 1:39.52 | 1:53.35 | 🏆 x 4 |  | 🔥 x 15, ⚡ x 10 |
 | [Peter Osudar](../../persons/peter_osudar/555.md) | <40 | <i class="flag flag-CA" /> | 2:35.63 | 2:41.55 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Shawn Boucké](../../persons/shawn_boucke/555.md) | <40 | <i class="flag flag-US" /> | 2:05.29 | 2:20.52 |  |  | 🔥 x 1, ⚡ x 1 |
 
