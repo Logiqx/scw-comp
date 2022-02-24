@@ -16,7 +16,7 @@
 
 🔥 x 6 = <span style="white-space: nowrap;">[Chris Wright](../../persons/chris_wright/333.md) 13.94</span>, <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/333.md) 14.40</span>, <span style="white-space: nowrap;">[Ciro Vignotto](../../persons/ciro_vignotto/333.md) 18.31</span>, <span style="white-space: nowrap;">[Jang Junho (장준호)](../../persons/jang_junho/333.md) 26.74</span>, <span style="white-space: nowrap;">[Joffie Berkowitz](../../persons/joffie_berkowitz/333.md) 34.30</span>, <span style="white-space: nowrap;">[Jo Cocco](../../persons/jo_cocco/333.md) 53.85</span>
 
-⚡ x 8 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/333.md) 11.64</span>, <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/333.md) 14.08</span>, <span style="white-space: nowrap;">[Ciro Vignotto](../../persons/ciro_vignotto/333.md) 15.57</span>, <span style="white-space: nowrap;">[Raimon Schaap](../../persons/raimon_schaap/333.md) 16.61</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/333.md) 25.18</span>, <span style="white-space: nowrap;">[Jan Adams-Fielding](../../persons/jan_adams_fielding/333.md) 29.21</span>, <span style="white-space: nowrap;">[Timothy Salay](../../persons/timothy_salay/333.md) 31.68</span>, <span style="white-space: nowrap;">[Jo Cocco](../../persons/jo_cocco/333.md) 37.21</span>
+⚡ x 8 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/333.md) 11.64</span>, <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/333.md) 14.08</span>, <span style="white-space: nowrap;">[Ciro Vignotto](../../persons/ciro_vignotto/333.md) 15.57</span>, <span style="white-space: nowrap;">[Raimon Schaap](../../persons/raimon_schaap/333.md) 16.61</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/333.md) 25.18</span>, <span style="white-space: nowrap;">[Jan Adams-Fielding](../../persons/jan_adams_fielding/333.md) 29.21</span>, <span style="white-space: nowrap;">[Timothy Salay](../../persons/timothy_salay/333.md) 31.68</span>, <span style="white-space: nowrap;">[Jo Cocco](../../persons/jo_cocco/333.md) 37.21</span>
 
 #### [2x2x2](222.md)
 
@@ -26,7 +26,7 @@
 
 🔥 x 1 = <span style="white-space: nowrap;">[Raimon Schaap](../../persons/raimon_schaap/222.md) 7.18</span>
 
-⚡ x 4 = <span style="white-space: nowrap;">[Raimon Schaap](../../persons/raimon_schaap/222.md) 4.63</span>, <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/222.md) 5.08</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/222.md) 6.14</span>, <span style="white-space: nowrap;">[Pete Lee](../../persons/pete_lee/222.md) 7.12</span>
+⚡ x 4 = <span style="white-space: nowrap;">[Raimon Schaap](../../persons/raimon_schaap/222.md) 4.63</span>, <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/222.md) 5.08</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/222.md) 6.14</span>, <span style="white-space: nowrap;">[Pete Lee](../../persons/pete_lee/222.md) 7.12</span>
 
 #### [3x3x3 One-Handed](333oh.md)
 

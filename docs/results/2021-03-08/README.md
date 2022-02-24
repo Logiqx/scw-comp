@@ -30,7 +30,7 @@
 
 <span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/444.md) 56.25</span>
 
-<span style="white-space: nowrap;">🥇 [Geoff Hartnell](../../persons/geoff_hartnell/444.md) 1:03.18</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/444.md) 1:26.86</span>, <span style="white-space: nowrap;">🥉 [Jae Park](../../persons/jae_park/444.md) 2:07.71</span>
+<span style="white-space: nowrap;">🥇 [Geoff Hartnell](../../persons/geoff_hartnell/444.md) 1:03.18</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/444.md) 1:26.86</span>, <span style="white-space: nowrap;">🥉 [Jae Park](../../persons/jae_park/444.md) 2:07.71</span>
 
 🔥 x 2 = <span style="white-space: nowrap;">[Geoff Hartnell](../../persons/geoff_hartnell/444.md) 1:03.18</span>, <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/444.md) 2:07.71</span>
 
@@ -40,7 +40,7 @@
 
 <span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) 1:57.43</span>
 
-<span style="white-space: nowrap;">🥇 [Geoff Hartnell](../../persons/geoff_hartnell/555.md) 2:18.22</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/555.md) 3:10.93</span>
+<span style="white-space: nowrap;">🥇 [Geoff Hartnell](../../persons/geoff_hartnell/555.md) 2:18.22</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/555.md) 3:10.93</span>
 
 🔥 x 2 = <span style="white-space: nowrap;">[Pete Lee](../../persons/pete_lee/555.md) 2:00.81</span>, <span style="white-space: nowrap;">[Shawn Boucké](../../persons/shawn_boucke/555.md) 2:20.52</span>
 
@@ -74,7 +74,7 @@
 
 <span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) 8.63</span>
 
-<span style="white-space: nowrap;">🥇 [Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) 9.63</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/pyram.md) 10.89</span>
+<span style="white-space: nowrap;">🥇 [Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) 9.63</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/pyram.md) 10.89</span>
 
 #### [Skewb](skewb.md)
 
@@ -90,13 +90,13 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 28.93</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 28.93</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 28.93</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 28.93</span>
 
-💥 x 1 = <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/sq1.md) 50+</span>
+💥 x 1 = <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/sq1.md) 50+</span>
 
-⚡ x 1 = <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/sq1.md) 15.88</span>
+⚡ x 1 = <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/sq1.md) 15.88</span>
 
 #### [Clock](clock.md)
 

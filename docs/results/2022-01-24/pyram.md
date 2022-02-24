@@ -9,7 +9,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | 1 | [Chris Looney](../../persons/chris_looney/pyram.md) | <40 | <i class="flag flag-US" /> | 7.76 | 9.45 | 🏆 🔥 | 9.78 | 7.76 | 9.01 | 14.08 | 9.56 | [Desktop](https://www.facebook.com/chris.looney/videos/514339936618190) / [Mobile](https://m.facebook.com/chris.looney/videos/514339936618190) |
-| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.45 | 10.91 | 🥇 | 15.41 | 7.45 | 11.12 | 12.87 | 8.75 | [Desktop](https://www.facebook.com/events/317247483509647/permalink/321042186463510) / [Mobile](https://m.facebook.com/events/317247483509647?view=permalink&id=321042186463510) |
+| 2 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.45 | 10.91 | 🥇 | 15.41 | 7.45 | 11.12 | 12.87 | 8.75 | [Desktop](https://www.facebook.com/events/317247483509647/permalink/321042186463510) / [Mobile](https://m.facebook.com/events/317247483509647?view=permalink&id=321042186463510) |
 | 3 | [Eric Dodson](../../persons/eric_dodson/pyram.md) | 40+ | <i class="flag flag-US" /> | 14.17 | 20.57 | 🥈 | 39.67 | 14.52 | 27.02 | 20.16 | 14.17 | [Desktop](https://www.facebook.com/events/317247483509647/permalink/324950106072718) / [Mobile](https://m.facebook.com/events/317247483509647?view=permalink&id=324950106072718) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -18,7 +18,7 @@
 
 <span style="white-space: nowrap;">🏆 [Konsta Jukka](../../persons/konsta_jukka/222.md) 5.06</span>
 
-<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/222.md) 5.06</span>, <span style="white-space: nowrap;">🥈 [Fumiki Koseki](../../persons/fumiki_koseki/222.md) 5.89</span>, <span style="white-space: nowrap;">🥉 [Daniel Smith](../../persons/daniel_smith/222.md) 9.83</span>
+<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/222.md) 5.06</span>, <span style="white-space: nowrap;">🥈 [Fumiki Koseki](../../persons/fumiki_koseki/222.md) 5.89</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/222.md) 9.83</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/222.md) 5.89</span>
 
@@ -88,7 +88,7 @@
 
 <span style="white-space: nowrap;">🏆 [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 7.78</span>
 
-<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 7.78</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/pyram.md) 11.90</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 16.78</span>
+<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 7.78</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/pyram.md) 11.90</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 16.78</span>
 
 #### [Skewb](skewb.md)
 
@@ -102,7 +102,7 @@
 
 <span style="white-space: nowrap;">🏆 [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) 29.93</span>
 
-<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) 29.93</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/sq1.md) 30.34</span>, <span style="white-space: nowrap;">🥉 [Konsta Jukka](../../persons/konsta_jukka/sq1.md) 44.55</span>
+<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) 29.93</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/sq1.md) 30.34</span>, <span style="white-space: nowrap;">🥉 [Konsta Jukka](../../persons/konsta_jukka/sq1.md) 44.55</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) 29.93</span>
 
@@ -112,7 +112,7 @@
 
 <span style="white-space: nowrap;">🏆 [Greg Simmons](../../persons/greg_simmons/clock.md) 11.91</span>
 
-<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) 12.06</span>, <span style="white-space: nowrap;">🥈 [Lisa Kucala](../../persons/lisa_kucala/clock.md) 23.11</span>, <span style="white-space: nowrap;">🥉 [Daniel Smith](../../persons/daniel_smith/clock.md) 36.57</span>
+<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) 12.06</span>, <span style="white-space: nowrap;">🥈 [Lisa Kucala](../../persons/lisa_kucala/clock.md) 23.11</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/clock.md) 36.57</span>
 
 💥 x 2 = <span style="white-space: nowrap;">[Greg Simmons](../../persons/greg_simmons/clock.md) <40</span>, <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/clock.md) 40+</span>
 

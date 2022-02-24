@@ -52,13 +52,13 @@
 
 <span style="white-space: nowrap;">🏆 [Andy Nicholls](../../persons/andy_nicholls/666.md) 3:36.18</span>
 
-<span style="white-space: nowrap;">🥇 [Andy Nicholls](../../persons/andy_nicholls/666.md) 3:36.18</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/666.md) 5:54.57</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/666.md) DNF</span>
+<span style="white-space: nowrap;">🥇 [Andy Nicholls](../../persons/andy_nicholls/666.md) 3:36.18</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/666.md) 5:54.57</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/666.md) DNF</span>
 
-💥 x 2 = <span style="white-space: nowrap;">[Andy Nicholls](../../persons/andy_nicholls/666.md) 40+</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/666.md) 50+</span>
+💥 x 2 = <span style="white-space: nowrap;">[Andy Nicholls](../../persons/andy_nicholls/666.md) 40+</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/666.md) 50+</span>
 
-🔥 x 2 = <span style="white-space: nowrap;">[Andy Nicholls](../../persons/andy_nicholls/666.md) 3:36.18</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/666.md) 5:54.57</span>
+🔥 x 2 = <span style="white-space: nowrap;">[Andy Nicholls](../../persons/andy_nicholls/666.md) 3:36.18</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/666.md) 5:54.57</span>
 
-⚡ x 5 = <span style="white-space: nowrap;">[Andy Nicholls](../../persons/andy_nicholls/666.md) 3:29.70</span>, <span style="white-space: nowrap;">[Geoff Hartnell](../../persons/geoff_hartnell/666.md) 3:49.38</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/666.md) 5:28.23</span>, <span style="white-space: nowrap;">[Aaron Cumes](../../persons/aaron_cumes/666.md) 5:55.79</span>, <span style="white-space: nowrap;">[Pete Lee](../../persons/pete_lee/666.md) 6:07.12</span>
+⚡ x 5 = <span style="white-space: nowrap;">[Andy Nicholls](../../persons/andy_nicholls/666.md) 3:29.70</span>, <span style="white-space: nowrap;">[Geoff Hartnell](../../persons/geoff_hartnell/666.md) 3:49.38</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/666.md) 5:28.23</span>, <span style="white-space: nowrap;">[Aaron Cumes](../../persons/aaron_cumes/666.md) 5:55.79</span>, <span style="white-space: nowrap;">[Pete Lee](../../persons/pete_lee/666.md) 6:07.12</span>
 
 #### [7x7x7](777.md)
 

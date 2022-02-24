@@ -8,7 +8,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 29.94 | 36.27 | 🏆 🥇 | 49.37 | 29.94 | 37.35 | 34.91 | 36.56 | [Desktop](https://www.facebook.com/events/1618516681636159/permalink/1624493677705126) / [Mobile](https://m.facebook.com/events/1618516681636159?view=permalink&id=1624493677705126) |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 29.94 | 36.27 | 🏆 🥇 | 49.37 | 29.94 | 37.35 | 34.91 | 36.56 | [Desktop](https://www.facebook.com/events/1618516681636159/permalink/1624493677705126) / [Mobile](https://m.facebook.com/events/1618516681636159?view=permalink&id=1624493677705126) |
 | 2 | [Ed Connell](../../persons/ed_connell/sq1.md) | <40 | <i class="flag flag-IE" /> | 48.40 | 50.29 | 🔥 ⚡ | 51.44 | 48.86 | 48.40 | 50.58 | 57.21 | [Desktop](https://www.facebook.com/events/1618516681636159/permalink/1621436411344186) / [Mobile](https://m.facebook.com/events/1618516681636159?view=permalink&id=1621436411344186) |
 | 3 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | <i class="flag flag-GB" /> | 31.85 | 51.45 | 🥈 ⚡ | 50.08 | 31.85 | 50.34 | 53.94 | 1:31.86 | [Desktop](https://www.facebook.com/events/1618516681636159/permalink/1624283784392782) / [Mobile](https://m.facebook.com/events/1618516681636159?view=permalink&id=1624283784392782) |
 

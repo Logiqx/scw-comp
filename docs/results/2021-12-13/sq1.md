@@ -8,7 +8,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 22.78 | 24.28 | 🏆 🥇 | 28.32 | 24.39 | 25.32 | 22.78 | 23.12 | [Desktop](https://www.facebook.com/events/630404078099901/permalink/634510847689224) / [Mobile](https://m.facebook.com/events/630404078099901?view=permalink&id=634510847689224) |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 22.78 | 24.28 | 🏆 🥇 | 28.32 | 24.39 | 25.32 | 22.78 | 23.12 | [Desktop](https://www.facebook.com/events/630404078099901/permalink/634510847689224) / [Mobile](https://m.facebook.com/events/630404078099901?view=permalink&id=634510847689224) |
 | 2 | [Ed Connell](../../persons/ed_connell/sq1.md) | <40 | <i class="flag flag-IE" /> | 30.66 | 46.66 |  | 46.18 | 30.66 | 48.87 | 46.67 | 47.14 | [Desktop](https://www.facebook.com/events/630404078099901/permalink/633685014438474) / [Mobile](https://m.facebook.com/events/630404078099901?view=permalink&id=633685014438474) |
 | 3 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 40+ | <i class="flag flag-US" /> | 1:07.79 | 1:09.60 | 🥈 🔥 | 1:12.09 | 1:07.79 | 1:08.92 | DNS | DNS | [Desktop](https://www.facebook.com/events/630404078099901/permalink/638481873958788) / [Mobile](https://m.facebook.com/events/630404078099901?view=permalink&id=638481873958788) |
 

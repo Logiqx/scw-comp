@@ -293,7 +293,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | <i class="flag flag-JP" /> | 10.81 | 12.06 | 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/3728096903891317/permalink/3740227296011611) / [Mobile](https://m.facebook.com/events/3728096903891317?view=permalink&id=3740227296011611) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 20.41 | 23.11 | 🥈 | [Desktop](https://www.facebook.com/events/3728096903891317/permalink/3748237725210568) / [Mobile](https://m.facebook.com/events/3728096903891317?view=permalink&id=3748237725210568) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 26.06 | 36.57 | 🥉 | [Desktop](https://www.facebook.com/events/3728096903891317/permalink/3748086008559073) / [Mobile](https://m.facebook.com/events/3728096903891317?view=permalink&id=3748086008559073) |
+| 3 | [Dan Smith](../../persons/dan_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 26.06 | 36.57 | 🥉 | [Desktop](https://www.facebook.com/events/3728096903891317/permalink/3748086008559073) / [Mobile](https://m.facebook.com/events/3728096903891317?view=permalink&id=3748086008559073) |
 
 #### [2020-10-20](../../results/2020-10-20/clock.md)
 
@@ -301,7 +301,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | <i class="flag flag-JP" /> | 11.40 | 13.25 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3475733505840328/permalink/3494850880595257) / [Mobile](https://m.facebook.com/events/3475733505840328?view=permalink&id=3494850880595257) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 19.75 | 27.73 | 🥈 | [Desktop](https://www.facebook.com/events/3475733505840328/permalink/3489957374417941) / [Mobile](https://m.facebook.com/events/3475733505840328?view=permalink&id=3489957374417941) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 26.46 | 29.59 | 🥉 | [Desktop](https://www.facebook.com/events/3475733505840328/permalink/3494636780616667) / [Mobile](https://m.facebook.com/events/3475733505840328?view=permalink&id=3494636780616667) |
+| 3 | [Dan Smith](../../persons/dan_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 26.46 | 29.59 | 🥉 | [Desktop](https://www.facebook.com/events/3475733505840328/permalink/3494636780616667) / [Mobile](https://m.facebook.com/events/3475733505840328?view=permalink&id=3494636780616667) |
 
 #### [2020-10-13](../../results/2020-10-13/clock.md)
 
@@ -309,14 +309,14 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | <i class="flag flag-JP" /> | 12.09 | 13.31 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/718285385437639/permalink/723753741557470) / [Mobile](https://m.facebook.com/events/718285385437639?view=permalink&id=723753741557470) |
 | 2 | [Jae Park](../../persons/jae_park/clock.md) | 40+ | <i class="flag flag-US" /> | 28.82 | 32.79 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/718285385437639/permalink/720435565222621) / [Mobile](https://m.facebook.com/events/718285385437639?view=permalink&id=720435565222621) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 28.95 | 38.54 | 🥉 | [Desktop](https://www.facebook.com/events/718285385437639/permalink/722791974986980) / [Mobile](https://m.facebook.com/events/718285385437639?view=permalink&id=722791974986980) |
+| 3 | [Dan Smith](../../persons/dan_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 28.95 | 38.54 | 🥉 | [Desktop](https://www.facebook.com/events/718285385437639/permalink/722791974986980) / [Mobile](https://m.facebook.com/events/718285385437639?view=permalink&id=722791974986980) |
 
 #### [2020-10-06](../../results/2020-10-06/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | <i class="flag flag-JP" /> | 12.00 | 12.72 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/365989921479949/permalink/371503000928641) / [Mobile](https://m.facebook.com/events/365989921479949?view=permalink&id=371503000928641) |
-| 2 | [Daniel Smith](../../persons/daniel_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 25.80 | 27.90 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/365989921479949/permalink/371466237598984) / [Mobile](https://m.facebook.com/events/365989921479949?view=permalink&id=371466237598984) |
+| 2 | [Dan Smith](../../persons/dan_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 25.80 | 27.90 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/365989921479949/permalink/371466237598984) / [Mobile](https://m.facebook.com/events/365989921479949?view=permalink&id=371466237598984) |
 | 3 | [Jae Park](../../persons/jae_park/clock.md) | 40+ | <i class="flag flag-US" /> | 32.68 | 34.67 | 🥉 | [Desktop](https://www.facebook.com/events/365989921479949/permalink/367087978036810) / [Mobile](https://m.facebook.com/events/365989921479949?view=permalink&id=367087978036810) |
 
 #### [2020-09-29](../../results/2020-09-29/clock.md)

@@ -14,7 +14,7 @@
 
 🔥 x 9 = <span style="white-space: nowrap;">[Raimon Schaap](../../persons/raimon_schaap/333.md) 15.99</span>, <span style="white-space: nowrap;">[Geoff Hartnell](../../persons/geoff_hartnell/333.md) 17.54</span>, <span style="white-space: nowrap;">[Alex Friedman](../../persons/alex_friedman/333.md) 18.36</span>, <span style="white-space: nowrap;">[Zack Âû Black](../../persons/zack_au_black/333.md) 21.80</span>, <span style="white-space: nowrap;">[Stew Alla](../../persons/stew_alla/333.md) 23.27</span>, <span style="white-space: nowrap;">[Robert Summerfield](../../persons/robert_summerfield/333.md) 24.96</span>, <span style="white-space: nowrap;">[Jan Adams-Fielding](../../persons/jan_adams_fielding/333.md) 29.62</span>, <span style="white-space: nowrap;">[Timothy Salay](../../persons/timothy_salay/333.md) 31.22</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/333.md) 38.68</span>
 
-⚡ x 6 = <span style="white-space: nowrap;">[Zack Âû Black](../../persons/zack_au_black/333.md) 15.72</span>, <span style="white-space: nowrap;">[Stew Alla](../../persons/stew_alla/333.md) 20.69</span>, <span style="white-space: nowrap;">[Robert Summerfield](../../persons/robert_summerfield/333.md) 23.15</span>, <span style="white-space: nowrap;">[Timothy Salay](../../persons/timothy_salay/333.md) 24.45</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/333.md) 24.75</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/333.md) 33.53</span>
+⚡ x 6 = <span style="white-space: nowrap;">[Zack Âû Black](../../persons/zack_au_black/333.md) 15.72</span>, <span style="white-space: nowrap;">[Stew Alla](../../persons/stew_alla/333.md) 20.69</span>, <span style="white-space: nowrap;">[Robert Summerfield](../../persons/robert_summerfield/333.md) 23.15</span>, <span style="white-space: nowrap;">[Timothy Salay](../../persons/timothy_salay/333.md) 24.45</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/333.md) 24.75</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/333.md) 33.53</span>
 
 #### [2x2x2](222.md)
 
@@ -24,7 +24,7 @@
 
 🔥 x 2 = <span style="white-space: nowrap;">[Lisa Kucala](../../persons/lisa_kucala/222.md) 8.14</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/222.md) 10.98</span>
 
-⚡ x 2 = <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/222.md) 4.70</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/222.md) 8.56</span>
+⚡ x 2 = <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/222.md) 4.70</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/222.md) 8.56</span>
 
 #### [4x4x4](444.md)
 

@@ -20,7 +20,7 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | <i class="flag flag-GB" /> | 4.39 | 5.17 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | <i class="flag flag-IT" /> | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
-| [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | <i class="flag flag-US" /> | 3.49 | 7.53 | 🏆 x 1 | 🥇 x 2, 🥈 x 5, 🥉 x 19 | 💥 x 4, 🔥 x 4, ⚡ x 7 |
+| [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 3.49 | 7.53 | 🏆 x 1 | 🥇 x 2, 🥈 x 5, 🥉 x 19 | 💥 x 4, 🔥 x 4, ⚡ x 7 |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | <i class="flag flag-US" /> | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/222.md) | 50+ | <i class="flag flag-US" /> | 10.77 | 16.61 |  |  | 🔥 x 6, ⚡ x 6 |
 | [John Neo Stanley](../../persons/john_neo_stanley/222.md) | 50+ | <i class="flag flag-GB" /> | 9.18 | 11.36 |  |  | 🔥 x 3, ⚡ x 3 |
@@ -41,7 +41,7 @@
 | [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | <i class="flag flag-AU" /> | 3.29 | 5.17 |  | 🥇 x 3, 🥈 x 18, 🥉 x 7 | 🔥 x 5, ⚡ x 3 |
 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | <i class="flag flag-GB" /> | 4.39 | 5.17 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | <i class="flag flag-IT" /> | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
-| [Daniel Smith](../../persons/daniel_smith/222.md) | 50+ | <i class="flag flag-US" /> | 3.49 | 7.53 | 🏆 x 1 | 🥇 x 2, 🥈 x 5, 🥉 x 19 | 💥 x 4, 🔥 x 4, ⚡ x 7 |
+| [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 3.49 | 7.53 | 🏆 x 1 | 🥇 x 2, 🥈 x 5, 🥉 x 19 | 💥 x 4, 🔥 x 4, ⚡ x 7 |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | <i class="flag flag-US" /> | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/222.md) | 40+ | <i class="flag flag-US" /> | 9.60 | 11.50 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/222.md) | 40+ | <i class="flag flag-JP" /> | 3.80 | 5.52 | 🏆 x 2 | 🥇 x 3, 🥈 x 14, 🥉 x 7 | 🔥 x 5, ⚡ x 3 |

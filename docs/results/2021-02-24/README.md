@@ -84,7 +84,7 @@
 
 <span style="white-space: nowrap;">🏆 [Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) 8.81</span>
 
-<span style="white-space: nowrap;">🥇 [Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) 8.81</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/pyram.md) 13.22</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 15.21</span>
+<span style="white-space: nowrap;">🥇 [Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) 8.81</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/pyram.md) 13.22</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 15.21</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) 8.81</span>
 
@@ -102,9 +102,9 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 30.31</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 30.31</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 30.31</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 30.31</span>
 
 #### [Clock](clock.md)
 

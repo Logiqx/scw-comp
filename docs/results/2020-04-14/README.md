@@ -12,7 +12,7 @@
 
 <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/333.md) 16.12</span>, <span style="white-space: nowrap;">🥈 [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) 16.47</span>, <span style="white-space: nowrap;">🥉 [Ciro Vignotto](../../persons/ciro_vignotto/333.md) 18.52</span>
 
-🔥 x 5 = <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/333.md) 18.55</span>, <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/333.md) 22.30</span>, <span style="white-space: nowrap;">[Anthony Rochester](../../persons/anthony_rochester/333.md) 27.14</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/333.md) 27.32</span>, <span style="white-space: nowrap;">[Jo Cocco](../../persons/jo_cocco/333.md) 46.19</span>
+🔥 x 5 = <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/333.md) 18.55</span>, <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/333.md) 22.30</span>, <span style="white-space: nowrap;">[Anthony Rochester](../../persons/anthony_rochester/333.md) 27.14</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/333.md) 27.32</span>, <span style="white-space: nowrap;">[Jo Cocco](../../persons/jo_cocco/333.md) 46.19</span>
 
 ⚡ x 2 = <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/333.md) 17.58</span>, <span style="white-space: nowrap;">[Anthony Rochester](../../persons/anthony_rochester/333.md) 20.63</span>
 

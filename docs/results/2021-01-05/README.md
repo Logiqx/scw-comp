@@ -30,7 +30,7 @@
 
 💥 x 1 = <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/444.md) 40+</span>
 
-🔥 x 3 = <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/444.md) 51.80</span>, <span style="white-space: nowrap;">[Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) 53.40</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/444.md) 1:21.23</span>
+🔥 x 3 = <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/444.md) 51.80</span>, <span style="white-space: nowrap;">[Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) 53.40</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/444.md) 1:21.23</span>
 
 ⚡ x 3 = <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/444.md) 44.16</span>, <span style="white-space: nowrap;">[Konsta Jukka](../../persons/konsta_jukka/444.md) 44.85</span>, <span style="white-space: nowrap;">[Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) 50.34</span>
 
@@ -76,7 +76,7 @@
 
 <span style="white-space: nowrap;">🏆 [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 8.07</span>
 
-<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 8.07</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/pyram.md) 12.67</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 13.57</span>
+<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 8.07</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/pyram.md) 12.67</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 13.57</span>
 
 #### [Skewb](skewb.md)
 
@@ -88,7 +88,7 @@
 
 <span style="white-space: nowrap;">🏆 [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) 24.60</span>
 
-<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) 24.60</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/sq1.md) 30.29</span>
+<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) 24.60</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/sq1.md) 30.29</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) 40+</span>
 

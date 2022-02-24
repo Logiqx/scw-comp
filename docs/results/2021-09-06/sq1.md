@@ -8,7 +8,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 21.18 | 22.71 | 🏆 🥇 | 25.76 | 23.51 | 22.77 | 21.86 | 21.18 | [Desktop](https://www.facebook.com/events/369922348122346/permalink/379443227170258) / [Mobile](https://m.facebook.com/events/369922348122346?view=permalink&id=379443227170258) |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 21.18 | 22.71 | 🏆 🥇 | 25.76 | 23.51 | 22.77 | 21.86 | 21.18 | [Desktop](https://www.facebook.com/events/369922348122346/permalink/379443227170258) / [Mobile](https://m.facebook.com/events/369922348122346?view=permalink&id=379443227170258) |
 | 2 | [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 57.56 | 1:03.49 | 🥈 🔥 | 58.32 | 1:10.96 | 1:18.70 | 57.56 | 1:01.18 | [Desktop](https://www.facebook.com/events/369922348122346/permalink/379190637195517) / [Mobile](https://m.facebook.com/events/369922348122346?view=permalink&id=379190637195517) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

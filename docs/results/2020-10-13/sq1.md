@@ -8,7 +8,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 24.24 | 29.31 | 🏆 🥇 | 25.09 | 37.41 | 25.42 | 39.74 | 24.24 | [Desktop](https://www.facebook.com/events/718285385437639/permalink/722791974986980) / [Mobile](https://m.facebook.com/events/718285385437639?view=permalink&id=722791974986980) |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 24.24 | 29.31 | 🏆 🥇 | 25.09 | 37.41 | 25.42 | 39.74 | 24.24 | [Desktop](https://www.facebook.com/events/718285385437639/permalink/722791974986980) / [Mobile](https://m.facebook.com/events/718285385437639?view=permalink&id=722791974986980) |
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | 40+ | <i class="flag flag-JP" /> | 24.84 | 32.98 | 🥈 | 31.39 | 38.12 | 29.42 | 48.08 | 24.84 | [Desktop](https://www.facebook.com/events/718285385437639/permalink/723752804890897) / [Mobile](https://m.facebook.com/events/718285385437639?view=permalink&id=723752804890897) |
 | 3 | [Konsta Jukka](../../persons/konsta_jukka/sq1.md) | 40+ | <i class="flag flag-FI" /> | 32.39 | 48.01 | 🥉 🔥 ⚡ | 1:14.60 | 44.19 | 34.87 | 32.39 | 1:04.97 | [Desktop](https://www.facebook.com/events/718285385437639/permalink/722677474998430) / [Mobile](https://m.facebook.com/events/718285385437639?view=permalink&id=722677474998430) |
 

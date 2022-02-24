@@ -86,13 +86,13 @@
 
 <span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/pyram.md) 6.99</span>
 
-<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/pyram.md) 6.99</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/pyram.md) 10.43</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 17.22</span>
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/pyram.md) 6.99</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/pyram.md) 10.43</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 17.22</span>
 
-💥 x 1 = <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/pyram.md) 50+</span>
+💥 x 1 = <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/pyram.md) 50+</span>
 
 🔥 x 2 = <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/pyram.md) 13.49</span>, <span style="white-space: nowrap;">[Joshua Riegel](../../persons/joshua_riegel/pyram.md) 15.49</span>
 
-⚡ x 3 = <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/pyram.md) 7.76</span>, <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/pyram.md) 9.60</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/pyram.md) 9.89</span>
+⚡ x 3 = <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/pyram.md) 7.76</span>, <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/pyram.md) 9.60</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/pyram.md) 9.89</span>
 
 #### [Skewb](skewb.md)
 
@@ -102,9 +102,9 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 32.66</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 32.66</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 32.66</span>, <span style="white-space: nowrap;">🥈 [Andy Nicholls](../../persons/andy_nicholls/sq1.md) 53.59</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 32.66</span>, <span style="white-space: nowrap;">🥈 [Andy Nicholls](../../persons/andy_nicholls/sq1.md) 53.59</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/sq1.md) <40</span>
 

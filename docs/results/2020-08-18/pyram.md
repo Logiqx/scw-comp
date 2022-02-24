@@ -9,7 +9,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | 1 | [Michael George](../../persons/michael_george/pyram.md) | 40+ | <i class="flag flag-GB" /> | 4.76 | 7.07 | 🏆 🥇 | 4.76 | 6.59 | 7.27 | DNF | 7.36 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214193822959866) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214193822959866) |
-| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 11.27 | 🥈 💥 ⚡ | 10.78 | 9.75 | 13.29 | 5.26 | 18.11 | [Desktop](https://www.facebook.com/events/940960439648894/permalink/948441025567502) / [Mobile](https://m.facebook.com/events/940960439648894?view=permalink&id=948441025567502) |
+| 2 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 11.27 | 🥈 💥 ⚡ | 10.78 | 9.75 | 13.29 | 5.26 | 18.11 | [Desktop](https://www.facebook.com/events/940960439648894/permalink/948441025567502) / [Mobile](https://m.facebook.com/events/940960439648894?view=permalink&id=948441025567502) |
 | 3 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | 40+ | <i class="flag flag-GB" /> | 12.62 | 15.55 | 🥉 | 18.52 | 13.20 | 12.62 | 14.92 | 18.86 | [Desktop](https://www.facebook.com/events/940960439648894/permalink/941544139590524) / [Mobile](https://m.facebook.com/events/940960439648894?view=permalink&id=941544139590524) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
