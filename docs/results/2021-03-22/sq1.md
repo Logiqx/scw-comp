@@ -8,7 +8,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 20.46 | 29.32 | 🏆 🥇 | 32.16 | DNF | 29.54 | 20.46 | 26.27 | [Desktop](https://www.facebook.com/events/893368394782856/permalink/901971367255892) / [Mobile](https://m.facebook.com/events/893368394782856?view=permalink&id=901971367255892) |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 20.46 | 29.32 | 🏆 🥇 | 32.16 | DNF | 29.54 | 20.46 | 26.27 | [Desktop](https://www.facebook.com/events/893368394782856/permalink/901971367255892) / [Mobile](https://m.facebook.com/events/893368394782856?view=permalink&id=901971367255892) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

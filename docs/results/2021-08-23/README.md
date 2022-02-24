@@ -88,7 +88,7 @@
 
 <span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) 8.88</span>
 
-<span style="white-space: nowrap;">🥇 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 10.06</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/pyram.md) 13.62</span>, <span style="white-space: nowrap;">🥉 [JM Tambaoan](../../persons/jm_tambaoan/pyram.md) 21.73</span>
+<span style="white-space: nowrap;">🥇 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 10.06</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/pyram.md) 13.62</span>, <span style="white-space: nowrap;">🥉 [JM Tambaoan](../../persons/jm_tambaoan/pyram.md) 21.73</span>
 
 #### [Skewb](skewb.md)
 
@@ -98,9 +98,9 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 29.56</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 29.56</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 29.56</span>, <span style="white-space: nowrap;">🥈 [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) 1:11.92</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 29.56</span>, <span style="white-space: nowrap;">🥈 [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) 1:11.92</span>
 
 #### [Clock](clock.md)
 

@@ -24,7 +24,7 @@
 
 <span style="white-space: nowrap;">🏆 [Konsta Jukka](../../persons/konsta_jukka/444.md) 55.02</span>
 
-<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/444.md) 55.02</span>, <span style="white-space: nowrap;">🥈 [Yi-Wei Chen](../../persons/yi_wei_chen/444.md) 1:18.61</span>, <span style="white-space: nowrap;">🥉 [Daniel Smith](../../persons/daniel_smith/444.md) 1:29.22</span>
+<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/444.md) 55.02</span>, <span style="white-space: nowrap;">🥈 [Yi-Wei Chen](../../persons/yi_wei_chen/444.md) 1:18.61</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/444.md) 1:29.22</span>
 
 #### [5x5x5](555.md)
 
@@ -66,7 +66,7 @@
 
 <span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) 8.94</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/pyram.md) 9.24</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/pyram.md) 9.24</span>
 
 #### [Skewb](skewb.md)
 
@@ -74,9 +74,9 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 22.63</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 22.63</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 22.63</span>, <span style="white-space: nowrap;">🥈 [Yi-Wei Chen](../../persons/yi_wei_chen/sq1.md) 1:39.04</span>, <span style="white-space: nowrap;">🥉 [Mickey Doyle](../../persons/mickey_doyle/sq1.md) 2:00.77</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 22.63</span>, <span style="white-space: nowrap;">🥈 [Yi-Wei Chen](../../persons/yi_wei_chen/sq1.md) 1:39.04</span>, <span style="white-space: nowrap;">🥉 [Mickey Doyle](../../persons/mickey_doyle/sq1.md) 2:00.77</span>
 
 ⚡ x 1 = <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/sq1.md) 1:02.12</span>
 

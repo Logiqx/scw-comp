@@ -20,7 +20,7 @@
 
 <span style="white-space: nowrap;">🏆 [Konsta Jukka](../../persons/konsta_jukka/222.md) 4.05</span>
 
-<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/222.md) 4.05</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/222.md) 9.37</span>, <span style="white-space: nowrap;">🥉 [JM Tambaoan](../../persons/jm_tambaoan/222.md) 10.17</span>
+<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/222.md) 4.05</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/222.md) 9.37</span>, <span style="white-space: nowrap;">🥉 [JM Tambaoan](../../persons/jm_tambaoan/222.md) 10.17</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[JM Tambaoan](../../persons/jm_tambaoan/222.md) 10.17</span>
 
@@ -28,7 +28,7 @@
 
 <span style="white-space: nowrap;">🏆 [Konsta Jukka](../../persons/konsta_jukka/444.md) 50.11</span>
 
-<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/444.md) 50.11</span>, <span style="white-space: nowrap;">🥈 [Geoff Hartnell](../../persons/geoff_hartnell/444.md) 1:11.65</span>, <span style="white-space: nowrap;">🥉 [Daniel Smith](../../persons/daniel_smith/444.md) 1:25.60</span>
+<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/444.md) 50.11</span>, <span style="white-space: nowrap;">🥈 [Geoff Hartnell](../../persons/geoff_hartnell/444.md) 1:11.65</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/444.md) 1:25.60</span>
 
 🔥 x 3 = <span style="white-space: nowrap;">[Konsta Jukka](../../persons/konsta_jukka/444.md) 50.11</span>, <span style="white-space: nowrap;">[Pete Lee](../../persons/pete_lee/444.md) 1:03.78</span>, <span style="white-space: nowrap;">[Joshua Riegel](../../persons/joshua_riegel/444.md) 1:25.99</span>
 
@@ -76,7 +76,7 @@
 
 <span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) 8.37</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/pyram.md) 11.07</span>, <span style="white-space: nowrap;">🥈 [Anthony Rochester](../../persons/anthony_rochester/pyram.md) 11.64</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/pyram.md) 11.07</span>, <span style="white-space: nowrap;">🥈 [Anthony Rochester](../../persons/anthony_rochester/pyram.md) 11.64</span>
 
 ⚡ x 1 = <span style="white-space: nowrap;">[Anthony Rochester](../../persons/anthony_rochester/pyram.md) 8.89</span>
 
@@ -86,13 +86,13 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 21.34</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 21.34</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 21.34</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 21.34</span>
 
-💥 x 1 = <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/sq1.md) 50+</span>
+💥 x 1 = <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/sq1.md) 50+</span>
 
-🔥 x 1 = <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/sq1.md) 21.34</span>
+🔥 x 1 = <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/sq1.md) 21.34</span>
 
 #### [Clock](clock.md)
 

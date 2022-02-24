@@ -9,7 +9,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | 1 | [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) | 40+ | <i class="flag flag-JP" /> | 5.53 | 7.43 | 🏆 🥇 | 8.23 | 9.33 | 6.41 | 7.64 | 5.53 | [Desktop](https://www.facebook.com/events/422848532078775/permalink/427151321648496) / [Mobile](https://m.facebook.com/events/422848532078775?view=permalink&id=427151321648496) |
-| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 8.90 | 10.67 | 🥈 | 11.49 | 11.48 | 8.90 | 9.03 | 14.28 | [Desktop](https://www.facebook.com/events/422848532078775/permalink/427033938326901) / [Mobile](https://m.facebook.com/events/422848532078775?view=permalink&id=427033938326901) |
+| 2 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 8.90 | 10.67 | 🥈 | 11.49 | 11.48 | 8.90 | 9.03 | 14.28 | [Desktop](https://www.facebook.com/events/422848532078775/permalink/427033938326901) / [Mobile](https://m.facebook.com/events/422848532078775?view=permalink&id=427033938326901) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 11.97 | 13.46 | 🥉 | 13.25 | 11.97 | 13.51 | 13.62 | 17.58 | [Desktop](https://www.facebook.com/events/422848532078775/permalink/426213585075603) / [Mobile](https://m.facebook.com/events/422848532078775?view=permalink&id=426213585075603) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

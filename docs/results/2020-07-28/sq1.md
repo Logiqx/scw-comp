@@ -8,7 +8,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 29.04 | 32.85 | 🏆 🥇 | 32.87 | 41.52 | 34.40 | 31.28 | 29.04 | [Desktop](https://www.facebook.com/events/610415706564720/permalink/615679659371658) / [Mobile](https://m.facebook.com/events/610415706564720?view=permalink&id=615679659371658) |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 29.04 | 32.85 | 🏆 🥇 | 32.87 | 41.52 | 34.40 | 31.28 | 29.04 | [Desktop](https://www.facebook.com/events/610415706564720/permalink/615679659371658) / [Mobile](https://m.facebook.com/events/610415706564720?view=permalink&id=615679659371658) |
 | 2 | [Ed Connell](../../persons/ed_connell/sq1.md) | <40 | <i class="flag flag-IE" /> | 31.59 | 39.38 |  | 36.94 | 58.69 | 40.76 | 31.59 | 40.44 | [Desktop](https://www.facebook.com/events/610415706564720/permalink/613844982888459) / [Mobile](https://m.facebook.com/events/610415706564720?view=permalink&id=613844982888459) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

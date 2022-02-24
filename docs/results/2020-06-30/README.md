@@ -14,7 +14,7 @@
 
 💥 x 2 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/333.md) 40+</span>, <span style="white-space: nowrap;">[Newton Nguyen](../../persons/newton_nguyen/333.md) <10</span>
 
-🔥 x 9 = <span style="white-space: nowrap;">[Chris Hardwick](../../persons/chris_hardwick/333.md) 12.82</span>, <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/333.md) 13.44</span>, <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/333.md) 15.44</span>, <span style="white-space: nowrap;">[Newton Nguyen](../../persons/newton_nguyen/333.md) 17.77</span>, <span style="white-space: nowrap;">[Pete Lee](../../persons/pete_lee/333.md) 19.06</span>, <span style="white-space: nowrap;">[Robert Summerfield](../../persons/robert_summerfield/333.md) 24.27</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/333.md) 25.95</span>, <span style="white-space: nowrap;">[Marcel Balzer](../../persons/marcel_balzer/333.md) 43.20</span>, <span style="white-space: nowrap;">[Kerrie Jarman](../../persons/kerrie_jarman/333.md) 48.20</span>
+🔥 x 9 = <span style="white-space: nowrap;">[Chris Hardwick](../../persons/chris_hardwick/333.md) 12.82</span>, <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/333.md) 13.44</span>, <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/333.md) 15.44</span>, <span style="white-space: nowrap;">[Newton Nguyen](../../persons/newton_nguyen/333.md) 17.77</span>, <span style="white-space: nowrap;">[Pete Lee](../../persons/pete_lee/333.md) 19.06</span>, <span style="white-space: nowrap;">[Robert Summerfield](../../persons/robert_summerfield/333.md) 24.27</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/333.md) 25.95</span>, <span style="white-space: nowrap;">[Marcel Balzer](../../persons/marcel_balzer/333.md) 43.20</span>, <span style="white-space: nowrap;">[Kerrie Jarman](../../persons/kerrie_jarman/333.md) 48.20</span>
 
 ⚡ x 9 = <span style="white-space: nowrap;">[Chris Hardwick](../../persons/chris_hardwick/333.md) 11.30</span>, <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/333.md) 12.27</span>, <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/333.md) 13.85</span>, <span style="white-space: nowrap;">[Pete Lee](../../persons/pete_lee/333.md) 15.24</span>, <span style="white-space: nowrap;">[Robert Summerfield](../../persons/robert_summerfield/333.md) 20.77</span>, <span style="white-space: nowrap;">[Jan Adams-Fielding](../../persons/jan_adams_fielding/333.md) 21.68</span>, <span style="white-space: nowrap;">[Lisa Kucala](../../persons/lisa_kucala/333.md) 23.79</span>, <span style="white-space: nowrap;">[Marcel Balzer](../../persons/marcel_balzer/333.md) 36.63</span>, <span style="white-space: nowrap;">[Kerrie Jarman](../../persons/kerrie_jarman/333.md) 41.01</span>
 
@@ -34,7 +34,7 @@
 
 <span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/444.md) 1:02.19</span>, <span style="white-space: nowrap;">🥈 [Andy Nicholls](../../persons/andy_nicholls/444.md) 1:04.17</span>, <span style="white-space: nowrap;">🥉 [Geoff Hartnell](../../persons/geoff_hartnell/444.md) 1:09.83</span>
 
-🔥 x 4 = <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/444.md) 1:21.85</span>, <span style="white-space: nowrap;">[Jason Green](../../persons/jason_green/444.md) 1:23.58</span>, <span style="white-space: nowrap;">[Joshua Riegel](../../persons/joshua_riegel/444.md) 1:34.10</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/444.md) 2:02.48</span>
+🔥 x 4 = <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/444.md) 1:21.85</span>, <span style="white-space: nowrap;">[Jason Green](../../persons/jason_green/444.md) 1:23.58</span>, <span style="white-space: nowrap;">[Joshua Riegel](../../persons/joshua_riegel/444.md) 1:34.10</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/444.md) 2:02.48</span>
 
 ⚡ x 2 = <span style="white-space: nowrap;">[Jason Green](../../persons/jason_green/444.md) 1:16.33</span>, <span style="white-space: nowrap;">[Joshua Riegel](../../persons/joshua_riegel/444.md) 1:24.50</span>
 
@@ -46,7 +46,7 @@
 
 🔥 x 3 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/555.md) 2:01.48</span>, <span style="white-space: nowrap;">[Jason Green](../../persons/jason_green/555.md) 3:56.83</span>, <span style="white-space: nowrap;">[Joshua Riegel](../../persons/joshua_riegel/555.md) 4:00.65</span>
 
-⚡ x 5 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/555.md) 1:54.21</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/555.md) 2:19.29</span>, <span style="white-space: nowrap;">[Jason Green](../../persons/jason_green/555.md) 2:31.81</span>, <span style="white-space: nowrap;">[Joshua Riegel](../../persons/joshua_riegel/555.md) 3:45.29</span>, <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/555.md) 4:56.47</span>
+⚡ x 5 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/555.md) 1:54.21</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/555.md) 2:19.29</span>, <span style="white-space: nowrap;">[Jason Green](../../persons/jason_green/555.md) 2:31.81</span>, <span style="white-space: nowrap;">[Joshua Riegel](../../persons/joshua_riegel/555.md) 3:45.29</span>, <span style="white-space: nowrap;">[Jae Park](../../persons/jae_park/555.md) 4:56.47</span>
 
 #### [6x6x6](666.md)
 
@@ -86,7 +86,7 @@
 
 <span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/pyram.md) 6.83</span>
 
-<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/pyram.md) 6.83</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/pyram.md) 11.44</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 16.13</span>
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/pyram.md) 6.83</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/pyram.md) 11.44</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 16.13</span>
 
 🔥 x 3 = <span style="white-space: nowrap;">[Peter Osudar](../../persons/peter_osudar/pyram.md) 9.55</span>, <span style="white-space: nowrap;">[Joshua Riegel](../../persons/joshua_riegel/pyram.md) 16.52</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/pyram.md) 18.36</span>
 
@@ -106,9 +106,9 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 38.53</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 38.53</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 38.53</span>, <span style="white-space: nowrap;">🥈 [Andy Nicholls](../../persons/andy_nicholls/sq1.md) 53.79</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 38.53</span>, <span style="white-space: nowrap;">🥈 [Andy Nicholls](../../persons/andy_nicholls/sq1.md) 53.79</span>
 
 🔥 x 2 = <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/sq1.md) 40.19</span>, <span style="white-space: nowrap;">[Peter Osudar](../../persons/peter_osudar/sq1.md) 1:03.67</span>
 

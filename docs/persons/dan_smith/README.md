@@ -2,11 +2,11 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Daniel Smith - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42)
+### Dan Smith - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42)
 
 <i class="flag flag-US" />&nbsp;United States
 
-![Daniel Smith](1570678334.png)
+![Dan Smith](1570678334.png)
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 

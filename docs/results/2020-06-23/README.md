@@ -86,7 +86,7 @@
 
 <span style="white-space: nowrap;">🏆 [Dylan Cossin](../../persons/dylan_cossin/pyram.md) 2.68</span>
 
-<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/pyram.md) 6.03</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/pyram.md) 10.65</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 14.79</span>
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/pyram.md) 6.03</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/pyram.md) 10.65</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 14.79</span>
 
 💥 x 2 = <span style="white-space: nowrap;">[Dylan Cossin](../../persons/dylan_cossin/pyram.md) <20</span>, <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/pyram.md) 40+</span>
 
@@ -108,9 +108,9 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 36.27</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 36.27</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 36.27</span>, <span style="white-space: nowrap;">🥈 [Andy Nicholls](../../persons/andy_nicholls/sq1.md) 51.45</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 36.27</span>, <span style="white-space: nowrap;">🥈 [Andy Nicholls](../../persons/andy_nicholls/sq1.md) 51.45</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/sq1.md) 50.29</span>
 

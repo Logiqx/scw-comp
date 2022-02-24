@@ -8,7 +8,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 18.73 | 26.83 | 🏆 🥇 💥 🔥 | 31.44 | 26.46 | 25.79 | 18.73 | 28.24 | [Desktop](https://www.facebook.com/events/728219131442079/permalink/732501551013837) / [Mobile](https://m.facebook.com/events/728219131442079?view=permalink&id=732501551013837) |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 18.73 | 26.83 | 🏆 🥇 💥 🔥 | 31.44 | 26.46 | 25.79 | 18.73 | 28.24 | [Desktop](https://www.facebook.com/events/728219131442079/permalink/732501551013837) / [Mobile](https://m.facebook.com/events/728219131442079?view=permalink&id=732501551013837) |
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | 40+ | <i class="flag flag-JP" /> | 24.94 | 28.50 | 🥈 🔥 | 24.94 | 28.65 | 26.22 | 35.22 | 30.64 | [Desktop](https://www.facebook.com/events/728219131442079/permalink/732474621016530) / [Mobile](https://m.facebook.com/events/728219131442079?view=permalink&id=732474621016530) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

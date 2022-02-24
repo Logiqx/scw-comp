@@ -22,17 +22,17 @@
 
 <span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/222.md) 3.03</span>, <span style="white-space: nowrap;">🥈 [Anthony Rochester](../../persons/anthony_rochester/222.md) 5.45</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/222.md) 7.68</span>
 
-💥 x 2 = <span style="white-space: nowrap;">[Konsta Jukka](../../persons/konsta_jukka/222.md) 40+</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/222.md) 50+</span>
+💥 x 2 = <span style="white-space: nowrap;">[Konsta Jukka](../../persons/konsta_jukka/222.md) 40+</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/222.md) 50+</span>
 
 🔥 x 4 = <span style="white-space: nowrap;">[Konsta Jukka](../../persons/konsta_jukka/222.md) 3.03</span>, <span style="white-space: nowrap;">[Shawn Boucké](../../persons/shawn_boucke/222.md) 3.52</span>, <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/222.md) 7.93</span>, <span style="white-space: nowrap;">[Hailey Doyle](../../persons/hailey_doyle/222.md) 15.90</span>
 
-⚡ x 6 = <span style="white-space: nowrap;">[Konsta Jukka](../../persons/konsta_jukka/222.md) 1.63</span>, <span style="white-space: nowrap;">[Shawn Boucké](../../persons/shawn_boucke/222.md) 2.29</span>, <span style="white-space: nowrap;">[Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) 2.40</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/222.md) 3.49</span>, <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/222.md) 4.48</span>, <span style="white-space: nowrap;">[Hailey Doyle](../../persons/hailey_doyle/222.md) 5.08</span>
+⚡ x 6 = <span style="white-space: nowrap;">[Konsta Jukka](../../persons/konsta_jukka/222.md) 1.63</span>, <span style="white-space: nowrap;">[Shawn Boucké](../../persons/shawn_boucke/222.md) 2.29</span>, <span style="white-space: nowrap;">[Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) 2.40</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/222.md) 3.49</span>, <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/222.md) 4.48</span>, <span style="white-space: nowrap;">[Hailey Doyle](../../persons/hailey_doyle/222.md) 5.08</span>
 
 #### [4x4x4](444.md)
 
 <span style="white-space: nowrap;">🏆 [Konsta Jukka](../../persons/konsta_jukka/444.md) 49.90</span>
 
-<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/444.md) 49.90</span>, <span style="white-space: nowrap;">🥈 [Yi-Wei Chen](../../persons/yi_wei_chen/444.md) 1:11.65</span>, <span style="white-space: nowrap;">🥉 [Daniel Smith](../../persons/daniel_smith/444.md) 1:30.14</span>
+<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/444.md) 49.90</span>, <span style="white-space: nowrap;">🥈 [Yi-Wei Chen](../../persons/yi_wei_chen/444.md) 1:11.65</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/444.md) 1:30.14</span>
 
 🔥 x 2 = <span style="white-space: nowrap;">[Konsta Jukka](../../persons/konsta_jukka/444.md) 49.90</span>, <span style="white-space: nowrap;">[Yi-Wei Chen](../../persons/yi_wei_chen/444.md) 1:11.65</span>
 
@@ -70,7 +70,7 @@
 
 <span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) 9.38</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/pyram.md) 9.64</span>, <span style="white-space: nowrap;">🥈 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 13.11</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/pyram.md) 9.64</span>, <span style="white-space: nowrap;">🥈 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 13.11</span>
 
 #### [Skewb](skewb.md)
 
@@ -84,9 +84,9 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 24.88</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 24.88</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 24.88</span>, <span style="white-space: nowrap;">🥈 [Mickey Doyle](../../persons/mickey_doyle/sq1.md) 1:30.89</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 24.88</span>, <span style="white-space: nowrap;">🥈 [Mickey Doyle](../../persons/mickey_doyle/sq1.md) 1:30.89</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/sq1.md) 1:30.89</span>
 

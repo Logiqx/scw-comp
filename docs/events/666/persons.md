@@ -17,7 +17,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/666.md) | 50+ | <i class="flag flag-GB" /> | 3:08.84 | 3:18.98 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Daniel Smith](../../persons/daniel_smith/666.md) | 50+ | <i class="flag flag-US" /> | 5:28.23 | 5:54.57 |  | 🥈 x 2, 🥉 x 3 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Dan Smith](../../persons/dan_smith/666.md) | 50+ | <i class="flag flag-US" /> | 5:28.23 | 5:54.57 |  | 🥈 x 2, 🥉 x 3 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/666.md) | 60+ | <i class="flag flag-US" /> | 12:04.43 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/666.md) | 50+ | <i class="flag flag-US" /> | 6:34.83 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 
@@ -28,7 +28,7 @@
 | [Aaron Cumes](../../persons/aaron_cumes/666.md) | 40+ | <i class="flag flag-GB" /> | 4:49.66 | DNF |  | 🥈 x 1, 🥉 x 5 | ⚡ x 4 |
 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | 40+ | <i class="flag flag-GB" /> | 3:27.31 | 3:35.12 | 🏆 x 11 | 🥇 x 12, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 4 |
 | [Chris Wright](../../persons/chris_wright/666.md) | 50+ | <i class="flag flag-GB" /> | 3:08.84 | 3:18.98 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Daniel Smith](../../persons/daniel_smith/666.md) | 50+ | <i class="flag flag-US" /> | 5:28.23 | 5:54.57 |  | 🥈 x 2, 🥉 x 3 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Dan Smith](../../persons/dan_smith/666.md) | 50+ | <i class="flag flag-US" /> | 5:28.23 | 5:54.57 |  | 🥈 x 2, 🥉 x 3 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/666.md) | 60+ | <i class="flag flag-US" /> | 12:04.43 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/666.md) | 40+ | <i class="flag flag-JP" /> | 2:38.63 | 2:44.23 | 🏆 x 24 | 🥇 x 24 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | <i class="flag flag-GB" /> | 3:17.40 | 3:32.21 | 🏆 x 4 | 🥇 x 20, 🥈 x 25, 🥉 x 2 | 🔥 x 6, ⚡ x 5 |

@@ -8,7 +8,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 22.24 | 24.03 | 🏆 🥇 | 22.24 | 30.83 | 22.50 | 24.61 | 24.99 | [Desktop](https://www.facebook.com/events/2032757193542617/permalink/2043750595776610) / [Mobile](https://m.facebook.com/events/2032757193542617?view=permalink&id=2043750595776610) |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 22.24 | 24.03 | 🏆 🥇 | 22.24 | 30.83 | 22.50 | 24.61 | 24.99 | [Desktop](https://www.facebook.com/events/2032757193542617/permalink/2043750595776610) / [Mobile](https://m.facebook.com/events/2032757193542617?view=permalink&id=2043750595776610) |
 | 2 | [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 1:12.40 | 1:14.38 | 🥈 🔥 ⚡ | 1:12.49 | 1:18.26 | 1:12.40 | DNS | DNS | [Desktop](https://www.facebook.com/events/2032757193542617/permalink/2043535285798141) / [Mobile](https://m.facebook.com/events/2032757193542617?view=permalink&id=2043535285798141) |
 | 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/sq1.md) | 40+ | <i class="flag flag-TW" /> | 1:17.03 | 1:37.78 | 🥉 | 1:23.36 | 2:12.94 | 1:17.03 | DNS | DNS | [Desktop](https://www.facebook.com/events/2032757193542617/permalink/2037706173047719) / [Mobile](https://m.facebook.com/events/2032757193542617?view=permalink&id=2037706173047719) |
 

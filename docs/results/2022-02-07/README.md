@@ -10,7 +10,7 @@
 
 <span style="white-space: nowrap;">🏆 [Ed Connell](../../persons/ed_connell/333.md) 16.89</span>
 
-<span style="white-space: nowrap;">🥇 [Toby Chamberlain](../../persons/toby_chamberlain/333.md) 17.95</span>, <span style="white-space: nowrap;">🥈 [Rodney Gardner](../../persons/rodney_gardner/333.md) 19.98</span>, <span style="white-space: nowrap;">🥉 [Daniel Smith](../../persons/daniel_smith/333.md) 27.97</span>
+<span style="white-space: nowrap;">🥇 [Toby Chamberlain](../../persons/toby_chamberlain/333.md) 17.95</span>, <span style="white-space: nowrap;">🥈 [Rodney Gardner](../../persons/rodney_gardner/333.md) 19.98</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/333.md) 27.97</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Martin Melcop](../../persons/martin_melcop/333.md) 60+</span>
 
@@ -20,9 +20,9 @@
 
 #### [2x2x2](222.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/222.md) 7.95</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/222.md) 7.95</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/222.md) 7.95</span>, <span style="white-space: nowrap;">🥈 [Mickey Doyle](../../persons/mickey_doyle/222.md) 10.47</span>, <span style="white-space: nowrap;">🥉 [Martin Melcop](../../persons/martin_melcop/222.md) 10.98</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/222.md) 7.95</span>, <span style="white-space: nowrap;">🥈 [Mickey Doyle](../../persons/mickey_doyle/222.md) 10.47</span>, <span style="white-space: nowrap;">🥉 [Martin Melcop](../../persons/martin_melcop/222.md) 10.98</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Martin Melcop](../../persons/martin_melcop/222.md) 60+</span>
 
@@ -34,7 +34,7 @@
 
 <span style="white-space: nowrap;">🏆 [Pete Lee](../../persons/pete_lee/444.md) 1:10.32</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/444.md) 1:23.57</span>, <span style="white-space: nowrap;">🥈 [Mickey Doyle](../../persons/mickey_doyle/444.md) 1:55.36</span>, <span style="white-space: nowrap;">🥉 [Eric Dodson](../../persons/eric_dodson/444.md) DNF</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/444.md) 1:23.57</span>, <span style="white-space: nowrap;">🥈 [Mickey Doyle](../../persons/mickey_doyle/444.md) 1:55.36</span>, <span style="white-space: nowrap;">🥉 [Eric Dodson](../../persons/eric_dodson/444.md) DNF</span>
 
 ⚡ x 1 = <span style="white-space: nowrap;">[Eric Dodson](../../persons/eric_dodson/444.md) 2:35.14</span>
 
@@ -76,7 +76,7 @@
 
 <span style="white-space: nowrap;">🏆 [Chris Looney](../../persons/chris_looney/pyram.md) 8.51</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/pyram.md) 9.90</span>, <span style="white-space: nowrap;">🥈 [Martin Melcop](../../persons/martin_melcop/pyram.md) 11.53</span>, <span style="white-space: nowrap;">🥉 [Eric Dodson](../../persons/eric_dodson/pyram.md) 16.03</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/pyram.md) 9.90</span>, <span style="white-space: nowrap;">🥈 [Martin Melcop](../../persons/martin_melcop/pyram.md) 11.53</span>, <span style="white-space: nowrap;">🥉 [Eric Dodson](../../persons/eric_dodson/pyram.md) 16.03</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Martin Melcop](../../persons/martin_melcop/pyram.md) 60+</span>
 
@@ -94,9 +94,9 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 21.56</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 21.56</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 21.56</span>, <span style="white-space: nowrap;">🥈 [Mickey Doyle](../../persons/mickey_doyle/sq1.md) 44.22</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 21.56</span>, <span style="white-space: nowrap;">🥈 [Mickey Doyle](../../persons/mickey_doyle/sq1.md) 44.22</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/sq1.md) 44.22</span>
 

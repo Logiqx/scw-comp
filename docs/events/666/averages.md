@@ -11,7 +11,7 @@
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Chris Wright](../../persons/chris_wright/666.md) | [2020-09-15](../../results/2020-09-15/666.md) | 50+ | <i class="flag flag-GB" /> | 3:18.98 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/christopher.wright.94617999/videos/10157647342012874) / [Mobile](https://m.facebook.com/christopher.wright.94617999/videos/10157647342012874) |
-| 2 | [Daniel Smith](../../persons/daniel_smith/666.md) | [2020-05-05](../../results/2020-05-05/666.md) | 50+ | <i class="flag flag-US" /> | 5:54.57 |  | 🥈 x 2, 🥉 x 3 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/557526585195168/permalink/562187611395732) / [Mobile](https://m.facebook.com/events/557526585195168?view=permalink&id=562187611395732) |
+| 2 | [Dan Smith](../../persons/dan_smith/666.md) | [2020-05-05](../../results/2020-05-05/666.md) | 50+ | <i class="flag flag-US" /> | 5:54.57 |  | 🥈 x 2, 🥉 x 3 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/557526585195168/permalink/562187611395732) / [Mobile](https://m.facebook.com/events/557526585195168?view=permalink&id=562187611395732) |
 
 #### Over 40
 
@@ -25,7 +25,7 @@
 | 6 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | [2020-06-30](../../results/2020-06-30/666.md) | 40+ | <i class="flag flag-GB" /> | 3:35.12 | 🏆 x 11 | 🥇 x 12, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 4 | [Desktop](https://www.facebook.com/events/284746466306313/permalink/285158502931776) / [Mobile](https://m.facebook.com/events/284746466306313?view=permalink&id=285158502931776) |
 | 7 | [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) | [2021-12-27](../../results/2021-12-27/666.md) | 40+ | <i class="flag flag-TW" /> | 4:50.97 |  | 🥇 x 2, 🥈 x 1, 🥉 x 6 | 🔥 x 1, ⚡ x 7 | [Desktop](https://www.facebook.com/events/364077578855426/permalink/369833358279848) / [Mobile](https://m.facebook.com/events/364077578855426?view=permalink&id=369833358279848) |
 | 8 | [JM Tambaoan](../../persons/jm_tambaoan/666.md) | [2021-09-20](../../results/2021-09-20/666.md) | 40+ | <i class="flag flag-PH" /> | 5:06.21 |  | 🥈 x 10, 🥉 x 2 | 🔥 x 4, ⚡ x 4 | [Desktop](https://www.facebook.com/events/4223726381008841/permalink/4268147889900023) / [Mobile](https://m.facebook.com/events/4223726381008841?view=permalink&id=4268147889900023) |
-| 9 | [Daniel Smith](../../persons/daniel_smith/666.md) | [2020-05-05](../../results/2020-05-05/666.md) | 50+ | <i class="flag flag-US" /> | 5:54.57 |  | 🥈 x 2, 🥉 x 3 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/557526585195168/permalink/562187611395732) / [Mobile](https://m.facebook.com/events/557526585195168?view=permalink&id=562187611395732) |
+| 9 | [Dan Smith](../../persons/dan_smith/666.md) | [2020-05-05](../../results/2020-05-05/666.md) | 50+ | <i class="flag flag-US" /> | 5:54.57 |  | 🥈 x 2, 🥉 x 3 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/557526585195168/permalink/562187611395732) / [Mobile](https://m.facebook.com/events/557526585195168?view=permalink&id=562187611395732) |
 
 #### Under 40
 

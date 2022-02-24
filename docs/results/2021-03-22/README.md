@@ -20,7 +20,7 @@
 
 <span style="white-space: nowrap;">🏆 [Konsta Jukka](../../persons/konsta_jukka/222.md) 4.37</span>
 
-<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/222.md) 4.37</span>, <span style="white-space: nowrap;">🥈 [Anthony Rochester](../../persons/anthony_rochester/222.md) 6.15</span>, <span style="white-space: nowrap;">🥉 [Daniel Smith](../../persons/daniel_smith/222.md) 9.02</span>
+<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/222.md) 4.37</span>, <span style="white-space: nowrap;">🥈 [Anthony Rochester](../../persons/anthony_rochester/222.md) 6.15</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/222.md) 9.02</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[JM Tambaoan](../../persons/jm_tambaoan/222.md) 12.43</span>
 
@@ -30,7 +30,7 @@
 
 <span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) 55.10</span>
 
-<span style="white-space: nowrap;">🥇 [Geoff Hartnell](../../persons/geoff_hartnell/444.md) 1:06.58</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/444.md) 1:22.86</span>, <span style="white-space: nowrap;">🥉 [JM Tambaoan](../../persons/jm_tambaoan/444.md) 1:28.37</span>
+<span style="white-space: nowrap;">🥇 [Geoff Hartnell](../../persons/geoff_hartnell/444.md) 1:06.58</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/444.md) 1:22.86</span>, <span style="white-space: nowrap;">🥉 [JM Tambaoan](../../persons/jm_tambaoan/444.md) 1:28.37</span>
 
 🔥 x 2 = <span style="white-space: nowrap;">[JM Tambaoan](../../persons/jm_tambaoan/444.md) 1:28.37</span>, <span style="white-space: nowrap;">[Kerry Go](../../persons/kerry_go/444.md) 1:50.29</span>
 
@@ -40,7 +40,7 @@
 
 <span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) 1:51.16</span>
 
-<span style="white-space: nowrap;">🥇 [Geoff Hartnell](../../persons/geoff_hartnell/555.md) 2:09.31</span>, <span style="white-space: nowrap;">🥈 [JM Tambaoan](../../persons/jm_tambaoan/555.md) 2:58.61</span>, <span style="white-space: nowrap;">🥉 [Daniel Smith](../../persons/daniel_smith/555.md) 3:10.68</span>
+<span style="white-space: nowrap;">🥇 [Geoff Hartnell](../../persons/geoff_hartnell/555.md) 2:09.31</span>, <span style="white-space: nowrap;">🥈 [JM Tambaoan](../../persons/jm_tambaoan/555.md) 2:58.61</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/555.md) 3:10.68</span>
 
 🔥 x 2 = <span style="white-space: nowrap;">[Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) 1:51.16</span>, <span style="white-space: nowrap;">[JM Tambaoan](../../persons/jm_tambaoan/555.md) 2:58.61</span>
 
@@ -88,7 +88,7 @@
 
 <span style="white-space: nowrap;">🏆 [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) 8.68</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/pyram.md) 10.19</span>, <span style="white-space: nowrap;">🥈 [Anthony Rochester](../../persons/anthony_rochester/pyram.md) 11.38</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 13.03</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/pyram.md) 10.19</span>, <span style="white-space: nowrap;">🥈 [Anthony Rochester](../../persons/anthony_rochester/pyram.md) 11.38</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 13.03</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Anthony Rochester](../../persons/anthony_rochester/pyram.md) 11.38</span>
 
@@ -106,9 +106,9 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 29.32</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 29.32</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 29.32</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 29.32</span>
 
 #### [Clock](clock.md)
 

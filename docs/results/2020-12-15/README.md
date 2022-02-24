@@ -74,7 +74,7 @@
 
 <span style="white-space: nowrap;">🏆 [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 7.55</span>
 
-<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 7.55</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/pyram.md) 11.20</span>, <span style="white-space: nowrap;">🥉 [Anthony Rochester](../../persons/anthony_rochester/pyram.md) 14.29</span>
+<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 7.55</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/pyram.md) 11.20</span>, <span style="white-space: nowrap;">🥉 [Anthony Rochester](../../persons/anthony_rochester/pyram.md) 14.29</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Anthony Rochester](../../persons/anthony_rochester/pyram.md) 14.29</span>
 
@@ -88,9 +88,9 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 30.30</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 30.30</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 30.30</span>, <span style="white-space: nowrap;">🥈 [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) 31.54</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 30.30</span>, <span style="white-space: nowrap;">🥈 [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) 31.54</span>
 
 #### [Clock](clock.md)
 

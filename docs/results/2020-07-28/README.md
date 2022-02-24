@@ -84,7 +84,7 @@
 
 <span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/pyram.md) 5.56</span>
 
-<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/pyram.md) 5.56</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/pyram.md) 11.98</span>, <span style="white-space: nowrap;">🥉 [Aaron Cumes](../../persons/aaron_cumes/pyram.md) 13.95</span>
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/pyram.md) 5.56</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/pyram.md) 11.98</span>, <span style="white-space: nowrap;">🥉 [Aaron Cumes](../../persons/aaron_cumes/pyram.md) 13.95</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Michael George](../../persons/michael_george/pyram.md) 40+</span>
 
@@ -104,9 +104,9 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 32.85</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 32.85</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 32.85</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 32.85</span>
 
 #### [Clock](clock.md)
 

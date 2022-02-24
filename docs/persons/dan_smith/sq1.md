@@ -2,11 +2,11 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Daniel Smith](README.md) - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42?event=sq1)
+### [Dan Smith](README.md) - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42?event=sq1)
 
 <i class="flag flag-US" />&nbsp;United States
 
-![Daniel Smith](1570678334.png)
+![Dan Smith](1570678334.png)
 
 #### Square-1 Results
 

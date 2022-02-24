@@ -161,14 +161,14 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:58.02 | 2:09.31 | 🥇 | [Desktop](https://www.facebook.com/events/2537500386546221/permalink/2546050719024521) / [Mobile](https://m.facebook.com/events/2537500386546221?view=permalink&id=2546050719024521) |
 | 2 | [JM Tambaoan](../../persons/jm_tambaoan/555.md) | 40+ | <i class="flag flag-PH" /> | 2:51.21 | 2:58.61 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2537500386546221/permalink/2540751362887790) / [Mobile](https://m.facebook.com/events/2537500386546221?view=permalink&id=2540751362887790) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:33.29 | 3:10.68 | 🥉 | [Desktop](https://www.facebook.com/events/2537500386546221/permalink/2547157865580473) / [Mobile](https://m.facebook.com/events/2537500386546221?view=permalink&id=2547157865580473) |
+| 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:33.29 | 3:10.68 | 🥉 | [Desktop](https://www.facebook.com/events/2537500386546221/permalink/2547157865580473) / [Mobile](https://m.facebook.com/events/2537500386546221?view=permalink&id=2547157865580473) |
 
 #### [2021-03-08](../../results/2021-03-08/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 2:06.66 | 2:18.22 | 🥇 | [Desktop](https://www.facebook.com/events/161142189072151/permalink/166325731887130) / [Mobile](https://m.facebook.com/events/161142189072151?view=permalink&id=166325731887130) |
-| 2 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 3:03.04 | 3:10.93 | 🥈 | [Desktop](https://www.facebook.com/events/161142189072151/permalink/167603105092726) / [Mobile](https://m.facebook.com/events/161142189072151?view=permalink&id=167603105092726) |
+| 2 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 3:03.04 | 3:10.93 | 🥈 | [Desktop](https://www.facebook.com/events/161142189072151/permalink/167603105092726) / [Mobile](https://m.facebook.com/events/161142189072151?view=permalink&id=167603105092726) |
 
 #### [2021-02-24](../../results/2021-02-24/555.md)
 
@@ -321,7 +321,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | <i class="flag flag-JP" /> | 1:27.80 | 1:34.04 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/746942356162446/permalink/752819055574776) / [Mobile](https://m.facebook.com/events/746942356162446?view=permalink&id=752819055574776) |
 | 2 | [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | <i class="flag flag-FI" /> | 1:35.85 | 1:49.30 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/746942356162446/permalink/750805855776096) / [Mobile](https://m.facebook.com/events/746942356162446?view=permalink&id=750805855776096) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 3:04.53 | 3:20.10 | 🥉 | [Desktop](https://www.facebook.com/events/746942356162446/permalink/751733412350007) / [Mobile](https://m.facebook.com/events/746942356162446?view=permalink&id=751733412350007) |
+| 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 3:04.53 | 3:20.10 | 🥉 | [Desktop](https://www.facebook.com/events/746942356162446/permalink/751733412350007) / [Mobile](https://m.facebook.com/events/746942356162446?view=permalink&id=751733412350007) |
 
 #### [2020-10-06](../../results/2020-10-06/555.md)
 
@@ -337,7 +337,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | <i class="flag flag-JP" /> | 1:25.53 | 1:39.81 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/427181104911253/permalink/432496811046349) / [Mobile](https://m.facebook.com/events/427181104911253?view=permalink&id=432496811046349) |
 | 2 | [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | <i class="flag flag-FI" /> | 1:43.75 | 1:53.34 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/427181104911253/permalink/430752584554105) / [Mobile](https://m.facebook.com/events/427181104911253?view=permalink&id=430752584554105) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:56.48 | 3:01.65 | 🥉 | [Desktop](https://www.facebook.com/events/427181104911253/permalink/431743861121644) / [Mobile](https://m.facebook.com/events/427181104911253?view=permalink&id=431743861121644) |
+| 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:56.48 | 3:01.65 | 🥉 | [Desktop](https://www.facebook.com/events/427181104911253/permalink/431743861121644) / [Mobile](https://m.facebook.com/events/427181104911253?view=permalink&id=431743861121644) |
 
 #### [2020-09-22](../../results/2020-09-22/555.md)
 
@@ -345,7 +345,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | <i class="flag flag-JP" /> | 1:31.73 | 1:37.91 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/342541897161786/permalink/343949387021037) / [Mobile](https://m.facebook.com/events/342541897161786?view=permalink&id=343949387021037) |
 | 2 | [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | <i class="flag flag-FI" /> | 1:49.26 | 1:53.70 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/342541897161786/permalink/345663906849585) / [Mobile](https://m.facebook.com/events/342541897161786?view=permalink&id=345663906849585) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:47.55 | 2:59.45 | 🥉 | [Desktop](https://www.facebook.com/events/342541897161786/permalink/346735893409053) / [Mobile](https://m.facebook.com/events/342541897161786?view=permalink&id=346735893409053) |
+| 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:47.55 | 2:59.45 | 🥉 | [Desktop](https://www.facebook.com/events/342541897161786/permalink/346735893409053) / [Mobile](https://m.facebook.com/events/342541897161786?view=permalink&id=346735893409053) |
 
 #### [2020-09-15](../../results/2020-09-15/555.md)
 
@@ -353,7 +353,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | <i class="flag flag-JP" /> | 1:30.40 | 1:38.36 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/655903882008117/permalink/659479484983890) / [Mobile](https://m.facebook.com/events/655903882008117?view=permalink&id=659479484983890) |
 | 2 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | <i class="flag flag-GB" /> | 1:41.03 | 1:49.57 | 🥈 💥 ⚡ | [Desktop](https://www.facebook.com/christopher.wright.94617999/videos/10157647426367874) / [Mobile](https://m.facebook.com/christopher.wright.94617999/videos/10157647426367874) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:37.37 | 3:02.61 | 🥉 | [Desktop](https://www.facebook.com/events/655903882008117/permalink/661765348088637) / [Mobile](https://m.facebook.com/events/655903882008117?view=permalink&id=661765348088637) |
+| 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:37.37 | 3:02.61 | 🥉 | [Desktop](https://www.facebook.com/events/655903882008117/permalink/661765348088637) / [Mobile](https://m.facebook.com/events/655903882008117?view=permalink&id=661765348088637) |
 
 #### [2020-09-08](../../results/2020-09-08/555.md)
 
@@ -361,13 +361,13 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | <i class="flag flag-JP" /> | 1:40.31 | 1:46.61 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/342884623427933/permalink/347488056300923) / [Mobile](https://m.facebook.com/events/342884623427933?view=permalink&id=347488056300923) |
 | 2 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | <i class="flag flag-GB" /> | 1:48.84 | 1:51.26 | 🥈 | [Desktop](https://www.facebook.com/christopher.wright.94617999/videos/10157628414222874) / [Mobile](https://m.facebook.com/christopher.wright.94617999/videos/10157628414222874) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:50.38 | 2:54.61 | 🥉 | [Desktop](https://www.facebook.com/events/655903882008117/permalink/656010341997471) / [Mobile](https://m.facebook.com/events/655903882008117?view=permalink&id=656010341997471) |
+| 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:50.38 | 2:54.61 | 🥉 | [Desktop](https://www.facebook.com/events/655903882008117/permalink/656010341997471) / [Mobile](https://m.facebook.com/events/655903882008117?view=permalink&id=656010341997471) |
 
 #### [2020-09-01](../../results/2020-09-01/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:35.61 | 2:44.91 | 🥇 | [Desktop](https://www.facebook.com/events/987180995036806/permalink/992470331174539) / [Mobile](https://m.facebook.com/events/987180995036806?view=permalink&id=992470331174539) |
+| 1 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:35.61 | 2:44.91 | 🥇 | [Desktop](https://www.facebook.com/events/987180995036806/permalink/992470331174539) / [Mobile](https://m.facebook.com/events/987180995036806?view=permalink&id=992470331174539) |
 | 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | <i class="flag flag-TW" /> | 3:32.70 | 3:42.81 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/987180995036806/permalink/987838534971052) / [Mobile](https://m.facebook.com/events/987180995036806?view=permalink&id=987838534971052) |
 | 3 | [Jae Park](../../persons/jae_park/555.md) | 40+ | <i class="flag flag-US" /> | 5:12.61 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/987180995036806/permalink/988277498260489) / [Mobile](https://m.facebook.com/events/987180995036806?view=permalink&id=988277498260489) |
 
@@ -377,14 +377,14 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 2:07.22 | 2:11.25 | 🥇 | [Desktop](https://www.facebook.com/events/375269430142971/permalink/378052523197995) / [Mobile](https://m.facebook.com/events/375269430142971?view=permalink&id=378052523197995) |
 | 2 | [Jason Green](../../persons/jason_green/555.md) | 40+ | <i class="flag flag-US" /> | 2:31.09 | 2:50.91 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/jasongreenbowler/videos/10163944661080425) / [Mobile](https://m.facebook.com/jasongreenbowler/videos/10163944661080425) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:35.62 | 2:51.75 | 🥉 | [Desktop](https://www.facebook.com/events/375269430142971/permalink/379899466346634) / [Mobile](https://m.facebook.com/events/375269430142971?view=permalink&id=379899466346634) |
+| 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:35.62 | 2:51.75 | 🥉 | [Desktop](https://www.facebook.com/events/375269430142971/permalink/379899466346634) / [Mobile](https://m.facebook.com/events/375269430142971?view=permalink&id=379899466346634) |
 
 #### [2020-08-18](../../results/2020-08-18/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:55.58 | 2:06.83 | 🥇 | [Desktop](https://www.facebook.com/events/3231806576868309/permalink/3249020071813626) / [Mobile](https://m.facebook.com/events/3231806576868309?view=permalink&id=3249020071813626) |
-| 2 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:38.79 | 2:54.17 | 🥈 | [Desktop](https://www.facebook.com/events/3231806576868309/permalink/3252007768181523) / [Mobile](https://m.facebook.com/events/3231806576868309?view=permalink&id=3252007768181523) |
+| 2 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:38.79 | 2:54.17 | 🥈 | [Desktop](https://www.facebook.com/events/3231806576868309/permalink/3252007768181523) / [Mobile](https://m.facebook.com/events/3231806576868309?view=permalink&id=3252007768181523) |
 | 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | <i class="flag flag-TW" /> | 3:39.34 | 3:48.71 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/3231806576868309/permalink/3247873181928315) / [Mobile](https://m.facebook.com/events/3231806576868309?view=permalink&id=3247873181928315) |
 
 #### [2020-08-11](../../results/2020-08-11/555.md)
@@ -392,7 +392,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:59.47 | 2:06.34 | 🥇 | [Desktop](https://www.facebook.com/events/1112228215845470/permalink/1114634042271554) / [Mobile](https://m.facebook.com/events/1112228215845470?view=permalink&id=1114634042271554) |
-| 2 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:56.19 | 3:02.23 | 🥈 | [Desktop](https://www.facebook.com/events/1112228215845470/permalink/1117137262021232) / [Mobile](https://m.facebook.com/events/1112228215845470?view=permalink&id=1117137262021232) |
+| 2 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:56.19 | 3:02.23 | 🥈 | [Desktop](https://www.facebook.com/events/1112228215845470/permalink/1117137262021232) / [Mobile](https://m.facebook.com/events/1112228215845470?view=permalink&id=1117137262021232) |
 | 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | <i class="flag flag-TW" /> | 3:40.70 | 3:55.60 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1112228215845470/permalink/1116151742119784) / [Mobile](https://m.facebook.com/events/1112228215845470?view=permalink&id=1116151742119784) |
 
 #### [2020-08-04](../../results/2020-08-04/555.md)
@@ -401,7 +401,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:57.63 | 2:01.11 | 🥇 | [Desktop](https://www.facebook.com/events/770016233779888/permalink/772249213556590) / [Mobile](https://m.facebook.com/events/770016233779888?view=permalink&id=772249213556590) |
 | 2 | [Michael George](../../persons/michael_george/555.md) | 40+ | <i class="flag flag-GB" /> | 1:53.93 | 2:09.61 | 🥈 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214123849170565) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214123849170565) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:35.22 | 2:39.63 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/770016233779888/permalink/775225113259000) / [Mobile](https://m.facebook.com/events/770016233779888?view=permalink&id=775225113259000) |
+| 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:35.22 | 2:39.63 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/770016233779888/permalink/775225113259000) / [Mobile](https://m.facebook.com/events/770016233779888?view=permalink&id=775225113259000) |
 
 #### [2020-07-28](../../results/2020-07-28/555.md)
 
@@ -425,7 +425,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls/555.md) | 40+ | <i class="flag flag-GB" /> | 1:41.35 | 1:50.99 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2729568740635198/permalink/2731162693809136) / [Mobile](https://m.facebook.com/events/2729568740635198?view=permalink&id=2731162693809136) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:58.35 | 2:08.57 | 🥈 | [Desktop](https://www.facebook.com/events/2729568740635198/permalink/2730668350525237) / [Mobile](https://m.facebook.com/events/2729568740635198?view=permalink&id=2730668350525237) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:39.27 | 2:45.29 | 🥉 | [Desktop](https://www.facebook.com/events/2729568740635198/permalink/2734110893514316) / [Mobile](https://m.facebook.com/events/2729568740635198?view=permalink&id=2734110893514316) |
+| 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:39.27 | 2:45.29 | 🥉 | [Desktop](https://www.facebook.com/events/2729568740635198/permalink/2734110893514316) / [Mobile](https://m.facebook.com/events/2729568740635198?view=permalink&id=2734110893514316) |
 
 #### [2020-07-07](../../results/2020-07-07/555.md)
 
@@ -433,7 +433,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Andy Nicholls](../../persons/andy_nicholls/555.md) | 40+ | <i class="flag flag-GB" /> | 1:52.29 | 1:55.60 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/307625317040136/permalink/309165880219413) / [Mobile](https://m.facebook.com/events/307625317040136?view=permalink&id=309165880219413) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:45.47 | 1:57.43 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/307625317040136/permalink/308560093613325) / [Mobile](https://m.facebook.com/events/307625317040136?view=permalink&id=308560093613325) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:39.41 | 2:56.33 | 🥉 | [Desktop](https://www.facebook.com/events/307625317040136/permalink/311930559942945) / [Mobile](https://m.facebook.com/events/307625317040136?view=permalink&id=311930559942945) |
+| 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:39.41 | 2:56.33 | 🥉 | [Desktop](https://www.facebook.com/events/307625317040136/permalink/311930559942945) / [Mobile](https://m.facebook.com/events/307625317040136?view=permalink&id=311930559942945) |
 
 #### [2020-06-30](../../results/2020-06-30/555.md)
 

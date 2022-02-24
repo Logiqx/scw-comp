@@ -9,7 +9,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) | <40 | <i class="flag flag-VE" /> | 7.46 | 8.94 | 🏆 | 9.73 | 13.86 | 8.56 | 8.53 | 7.46 | [Desktop](https://www.facebook.com/events/1226219924873960/permalink/1235244767304809) / [Mobile](https://m.facebook.com/events/1226219924873960?view=permalink&id=1235244767304809) |
-| 2 | [Daniel Smith](../../persons/daniel_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.94 | 9.24 | 🥇 | 12.60 | 5.94 | 9.18 | 8.57 | 9.96 | [Desktop](https://www.facebook.com/events/1226219924873960/permalink/1235123687316917) / [Mobile](https://m.facebook.com/events/1226219924873960?view=permalink&id=1235123687316917) |
+| 2 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.94 | 9.24 | 🥇 | 12.60 | 5.94 | 9.18 | 8.57 | 9.96 | [Desktop](https://www.facebook.com/events/1226219924873960/permalink/1235123687316917) / [Mobile](https://m.facebook.com/events/1226219924873960?view=permalink&id=1235123687316917) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

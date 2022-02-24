@@ -12,7 +12,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 14.98 | 17.95 | 🥇 🔥 | [Desktop](https://www.facebook.com/520891933/videos/938686506789692) / [Mobile](https://m.facebook.com/520891933/videos/938686506789692) |
 | 2 | [Rodney Gardner](../../persons/rodney_gardner/333.md) | 50+ | <i class="flag flag-US" /> | 17.25 | 19.98 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/1012592279358180/permalink/1019525571998184) / [Mobile](https://m.facebook.com/events/1012592279358180?view=permalink&id=1019525571998184) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/333.md) | 50+ | <i class="flag flag-US" /> | 25.58 | 27.97 | 🥉 | [Desktop](https://www.facebook.com/events/1012592279358180/permalink/1020784621872279) / [Mobile](https://m.facebook.com/events/1012592279358180?view=permalink&id=1020784621872279) |
+| 3 | [Dan Smith](../../persons/dan_smith/333.md) | 50+ | <i class="flag flag-US" /> | 25.58 | 27.97 | 🥉 | [Desktop](https://www.facebook.com/events/1012592279358180/permalink/1020784621872279) / [Mobile](https://m.facebook.com/events/1012592279358180?view=permalink&id=1020784621872279) |
 
 #### [2022-01-24](../../results/2022-01-24/333.md)
 
@@ -20,7 +20,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | <i class="flag flag-FI" /> | 11.40 | 11.84 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1729699367421612/permalink/1739977666393782) / [Mobile](https://m.facebook.com/events/1729699367421612?view=permalink&id=1739977666393782) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 17.11 | 20.98 | 🥈 | [Desktop](https://www.facebook.com/520891933/videos/757167745668530) / [Mobile](https://m.facebook.com/520891933/videos/757167745668530) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/333.md) | 50+ | <i class="flag flag-US" /> | 20.36 | 24.08 | 🥉 | [Desktop](https://www.facebook.com/events/1729699367421612/permalink/1734633546928194) / [Mobile](https://m.facebook.com/events/1729699367421612?view=permalink&id=1734633546928194) |
+| 3 | [Dan Smith](../../persons/dan_smith/333.md) | 50+ | <i class="flag flag-US" /> | 20.36 | 24.08 | 🥉 | [Desktop](https://www.facebook.com/events/1729699367421612/permalink/1734633546928194) / [Mobile](https://m.facebook.com/events/1729699367421612?view=permalink&id=1734633546928194) |
 
 #### [2022-01-10](../../results/2022-01-10/333.md)
 
@@ -44,7 +44,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | <i class="flag flag-FI" /> | 10.02 | 11.38 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/273334328175697/permalink/282135433962253) / [Mobile](https://m.facebook.com/events/273334328175697?view=permalink&id=282135433962253) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 16.43 | 18.36 | 🥈 🔥 | [Desktop](https://www.facebook.com/520891933/videos/590269732272292) / [Mobile](https://m.facebook.com/520891933/videos/590269732272292) |
-| 3 | [Daniel Smith](../../persons/daniel_smith/333.md) | 50+ | <i class="flag flag-US" /> | 25.51 | 29.08 | 🥉 | [Desktop](https://www.facebook.com/events/273334328175697/permalink/277772027731927) / [Mobile](https://m.facebook.com/events/273334328175697?view=permalink&id=277772027731927) |
+| 3 | [Dan Smith](../../persons/dan_smith/333.md) | 50+ | <i class="flag flag-US" /> | 25.51 | 29.08 | 🥉 | [Desktop](https://www.facebook.com/events/273334328175697/permalink/277772027731927) / [Mobile](https://m.facebook.com/events/273334328175697?view=permalink&id=277772027731927) |
 
 #### [2021-11-29](../../results/2021-11-29/333.md)
 

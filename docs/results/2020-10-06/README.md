@@ -30,7 +30,7 @@
 
 <span style="white-space: nowrap;">🏆 [Konsta Jukka](../../persons/konsta_jukka/444.md) 55.92</span>
 
-<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/444.md) 55.92</span>, <span style="white-space: nowrap;">🥈 [Fumiki Koseki](../../persons/fumiki_koseki/444.md) 1:05.35</span>, <span style="white-space: nowrap;">🥉 [Daniel Smith](../../persons/daniel_smith/444.md) 1:25.87</span>
+<span style="white-space: nowrap;">🥇 [Konsta Jukka](../../persons/konsta_jukka/444.md) 55.92</span>, <span style="white-space: nowrap;">🥈 [Fumiki Koseki](../../persons/fumiki_koseki/444.md) 1:05.35</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/444.md) 1:25.87</span>
 
 🔥 x 3 = <span style="white-space: nowrap;">[Konsta Jukka](../../persons/konsta_jukka/444.md) 55.92</span>, <span style="white-space: nowrap;">[Chris Hardwick](../../persons/chris_hardwick/444.md) 1:16.74</span>, <span style="white-space: nowrap;">[Jan Adams-Fielding](../../persons/jan_adams_fielding/444.md) 1:41.26</span>
 
@@ -50,7 +50,7 @@
 
 <span style="white-space: nowrap;">🏆 [Fumiki Koseki](../../persons/fumiki_koseki/666.md) 3:00.35</span>
 
-<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/666.md) 3:00.35</span>, <span style="white-space: nowrap;">🥈 [Konsta Jukka](../../persons/konsta_jukka/666.md) 3:27.02</span>, <span style="white-space: nowrap;">🥉 [Daniel Smith](../../persons/daniel_smith/666.md) DNF</span>
+<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/666.md) 3:00.35</span>, <span style="white-space: nowrap;">🥈 [Konsta Jukka](../../persons/konsta_jukka/666.md) 3:27.02</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/666.md) DNF</span>
 
 🔥 x 2 = <span style="white-space: nowrap;">[Konsta Jukka](../../persons/konsta_jukka/666.md) 3:27.02</span>, <span style="white-space: nowrap;">[Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) 3:37.65</span>
 
@@ -86,11 +86,11 @@
 
 <span style="white-space: nowrap;">🏆 [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 6.37</span>
 
-<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 6.37</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/pyram.md) 9.15</span>
+<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 6.37</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/pyram.md) 9.15</span>
 
-💥 x 1 = <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/pyram.md) 50+</span>
+💥 x 1 = <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/pyram.md) 50+</span>
 
-🔥 x 3 = <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 6.37</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/pyram.md) 9.15</span>, <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/pyram.md) 11.81</span>
+🔥 x 3 = <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 6.37</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/pyram.md) 9.15</span>, <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/pyram.md) 11.81</span>
 
 ⚡ x 2 = <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/pyram.md) 5.37</span>, <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/pyram.md) 8.61</span>
 
@@ -106,9 +106,9 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 29.23</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 29.23</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 29.23</span>, <span style="white-space: nowrap;">🥈 [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) 30.42</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 29.23</span>, <span style="white-space: nowrap;">🥈 [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) 30.42</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) 30.42</span>
 
@@ -116,13 +116,13 @@
 
 <span style="white-space: nowrap;">🏆 [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) 12.72</span>
 
-<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) 12.72</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/clock.md) 27.90</span>, <span style="white-space: nowrap;">🥉 [Jae Park](../../persons/jae_park/clock.md) 34.67</span>
+<span style="white-space: nowrap;">🥇 [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) 12.72</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/clock.md) 27.90</span>, <span style="white-space: nowrap;">🥉 [Jae Park](../../persons/jae_park/clock.md) 34.67</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/clock.md) 40+</span>
 
-🔥 x 3 = <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/clock.md) 12.72</span>, <span style="white-space: nowrap;">[Adam Robson](../../persons/adam_robson/clock.md) 13.49</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/clock.md) 27.90</span>
+🔥 x 3 = <span style="white-space: nowrap;">[Fumiki Koseki](../../persons/fumiki_koseki/clock.md) 12.72</span>, <span style="white-space: nowrap;">[Adam Robson](../../persons/adam_robson/clock.md) 13.49</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/clock.md) 27.90</span>
 
-⚡ x 2 = <span style="white-space: nowrap;">[Adam Robson](../../persons/adam_robson/clock.md) 11.43</span>, <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/clock.md) 25.80</span>
+⚡ x 2 = <span style="white-space: nowrap;">[Adam Robson](../../persons/adam_robson/clock.md) 11.43</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/clock.md) 25.80</span>
 
 #### [3x3x3 Blindfolded](333bf.md)
 

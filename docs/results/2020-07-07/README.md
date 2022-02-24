@@ -20,7 +20,7 @@
 
 <span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/222.md) 5.64</span>
 
-<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/222.md) 5.64</span>, <span style="white-space: nowrap;">🥈 [Thierry Boisivon](../../persons/thierry_boisivon/222.md) 6.10</span>, <span style="white-space: nowrap;">🥉 [Daniel Smith](../../persons/daniel_smith/222.md) 8.16</span>
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/222.md) 5.64</span>, <span style="white-space: nowrap;">🥈 [Thierry Boisivon](../../persons/thierry_boisivon/222.md) 6.10</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/222.md) 8.16</span>
 
 🔥 x 2 = <span style="white-space: nowrap;">[Thierry Boisivon](../../persons/thierry_boisivon/222.md) 6.10</span>, <span style="white-space: nowrap;">[Chris Thames](../../persons/chris_thames/222.md) 8.03</span>
 
@@ -30,13 +30,13 @@
 
 <span style="white-space: nowrap;">🥇 [Geoff Hartnell](../../persons/geoff_hartnell/444.md) 1:09.32</span>, <span style="white-space: nowrap;">🥈 [Andy Nicholls](../../persons/andy_nicholls/444.md) 1:12.16</span>, <span style="white-space: nowrap;">🥉 [Aaron Cumes](../../persons/aaron_cumes/444.md) 1:17.90</span>
 
-⚡ x 1 = <span style="white-space: nowrap;">[Daniel Smith](../../persons/daniel_smith/444.md) 1:05.61</span>
+⚡ x 1 = <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/444.md) 1:05.61</span>
 
 #### [5x5x5](555.md)
 
 <span style="white-space: nowrap;">🏆 [Andy Nicholls](../../persons/andy_nicholls/555.md) 1:55.60</span>
 
-<span style="white-space: nowrap;">🥇 [Andy Nicholls](../../persons/andy_nicholls/555.md) 1:55.60</span>, <span style="white-space: nowrap;">🥈 [Geoff Hartnell](../../persons/geoff_hartnell/555.md) 1:57.43</span>, <span style="white-space: nowrap;">🥉 [Daniel Smith](../../persons/daniel_smith/555.md) 2:56.33</span>
+<span style="white-space: nowrap;">🥇 [Andy Nicholls](../../persons/andy_nicholls/555.md) 1:55.60</span>, <span style="white-space: nowrap;">🥈 [Geoff Hartnell](../../persons/geoff_hartnell/555.md) 1:57.43</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/555.md) 2:56.33</span>
 
 🔥 x 2 = <span style="white-space: nowrap;">[Geoff Hartnell](../../persons/geoff_hartnell/555.md) 1:57.43</span>, <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/555.md) 2:20.86</span>
 
@@ -78,7 +78,7 @@
 
 <span style="white-space: nowrap;">🏆 [Michael George](../../persons/michael_george/pyram.md) 6.22</span>
 
-<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/pyram.md) 6.22</span>, <span style="white-space: nowrap;">🥈 [Daniel Smith](../../persons/daniel_smith/pyram.md) 11.53</span>
+<span style="white-space: nowrap;">🥇 [Michael George](../../persons/michael_george/pyram.md) 6.22</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/pyram.md) 11.53</span>
 
 🔥 x 2 = <span style="white-space: nowrap;">[Ed Connell](../../persons/ed_connell/pyram.md) 14.70</span>, <span style="white-space: nowrap;">[Joshua Riegel](../../persons/joshua_riegel/pyram.md) 16.34</span>
 
@@ -92,9 +92,9 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Daniel Smith](../../persons/daniel_smith/sq1.md) 34.49</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 34.49</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Smith](../../persons/daniel_smith/sq1.md) 34.49</span>, <span style="white-space: nowrap;">🥈 [Andy Nicholls](../../persons/andy_nicholls/sq1.md) 53.27</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 34.49</span>, <span style="white-space: nowrap;">🥈 [Andy Nicholls](../../persons/andy_nicholls/sq1.md) 53.27</span>
 
 #### [Clock](clock.md)
 

@@ -102,21 +102,21 @@
     "id": 50,
     "wcaId": "2014VIGN02"
   },
-  "Daniel Houghton": {
-    "age": "40+",
-    "country": "Switzerland",
-    "id": 94,
-    "wcaId": "2016HOUG03"
-  },
-  "Daniel Smith": {
+  "Dan Smith": {
     "age": "50+",
     "aliases": [
-      "Dan Smith"
+      "Daniel Smith"
     ],
     "avatar": "1570678334.png",
     "country": "United States",
     "id": 26,
     "wcaId": "2018SMIT42"
+  },
+  "Daniel Houghton": {
+    "age": "40+",
+    "country": "Switzerland",
+    "id": 94,
+    "wcaId": "2016HOUG03"
   },
   "David Burchill": {
     "age": "50+",
