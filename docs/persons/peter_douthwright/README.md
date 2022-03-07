@@ -18,6 +18,10 @@
 | [5x5x5](555.md) | 5:50.00 | - |  |  | ⚡ x 1 |
 | [3x3x3 OH](333oh.md) | 1:26.57 | 1:57.43 |  | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 3 |
 | [Megaminx](minx.md) | 6:59.74 | - | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
+| [Pyraminx](pyram.md) | 18.02 | 23.78 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Skewb](skewb.md) | 15.41 | 26.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Square-1](sq1.md) | 1:14.33 | 1:36.66 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Clock](clock.md) | 1:05.21 | 1:19.57 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

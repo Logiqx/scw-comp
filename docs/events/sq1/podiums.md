@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-02-21](../../results/2022-02-21/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 16.28 | 21.48 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/283377510532834/permalink/291635089707076) / [Mobile](https://m.facebook.com/events/283377510532834?view=permalink&id=291635089707076) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 40+ | <i class="flag flag-US" /> | 37.95 | 47.10 | 🥈 | [Desktop](https://www.facebook.com/events/283377510532834/permalink/290487816488470) / [Mobile](https://m.facebook.com/events/283377510532834?view=permalink&id=290487816488470) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 59.32 | 1:19.10 | 🥉 | [Desktop](https://www.facebook.com/events/283377510532834/permalink/286452843558634) / [Mobile](https://m.facebook.com/events/283377510532834?view=permalink&id=286452843558634) |
+
 #### [2022-02-07](../../results/2022-02-07/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

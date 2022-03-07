@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-02-21](../../results/2022-02-21/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 10.94 | 12.54 | 🥇 | [Desktop](https://www.facebook.com/events/283377510532834/permalink/289919056545346) / [Mobile](https://m.facebook.com/events/283377510532834?view=permalink&id=289919056545346) |
+| 2 | [Peter Douthwright](../../persons/peter_douthwright/clock.md) | 60+ | <i class="flag flag-CA" /> | 1:05.21 | 1:19.57 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/622712395/videos/pcb.2889603954518836/474220731094545) / [Mobile](https://m.facebook.com/622712395/videos/pcb.2889603954518836/474220731094545) |
+
 #### [2022-02-07](../../results/2022-02-07/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -6,14 +6,21 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### Over 60
+
+| Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
+| :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
+| [Peter Douthwright](../../persons/peter_douthwright/clock.md) | 60+ | <i class="flag flag-CA" /> | 1:05.21 | 1:19.57 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+
 #### Over 50
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Dan Smith](../../persons/dan_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 25.80 | 27.90 |  | 🥈 x 1, 🥉 x 3 | 🔥 x 2, ⚡ x 2 |
 | [Jae Park](../../persons/jae_park/clock.md) | 50+ | <i class="flag flag-US" /> | 24.69 | 31.52 |  | 🥈 x 4, 🥉 x 7 | 🔥 x 7, ⚡ x 7 |
-| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 10.72 | 11.35 | 🏆 x 8 | 🥇 x 16, 🥈 x 17, 🥉 x 3 | 💥 x 25, 🔥 x 15, ⚡ x 20 |
+| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 10.72 | 11.35 | 🏆 x 8 | 🥇 x 17, 🥈 x 17, 🥉 x 3 | 💥 x 25, 🔥 x 15, ⚡ x 20 |
 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | <i class="flag flag-SE" /> | 17.75 | 23.28 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 5, ⚡ x 4 |
+| [Peter Douthwright](../../persons/peter_douthwright/clock.md) | 60+ | <i class="flag flag-CA" /> | 1:05.21 | 1:19.57 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 #### Over 40
 
@@ -30,8 +37,9 @@
 | [JM Tambaoan](../../persons/jm_tambaoan/clock.md) | 40+ | <i class="flag flag-PH" /> | 20.07 | 22.13 |  | 🥈 x 9 | 🔥 x 4, ⚡ x 2 |
 | [Jae Park](../../persons/jae_park/clock.md) | 50+ | <i class="flag flag-US" /> | 24.69 | 31.52 |  | 🥈 x 4, 🥉 x 7 | 🔥 x 7, ⚡ x 7 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/clock.md) | 40+ | <i class="flag flag-GB" /> | 32.81 | 37.15 |  | 🥇 x 2, 🥈 x 1, 🥉 x 3 | 🔥 x 3, ⚡ x 3 |
-| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 10.72 | 11.35 | 🏆 x 8 | 🥇 x 16, 🥈 x 17, 🥉 x 3 | 💥 x 25, 🔥 x 15, ⚡ x 20 |
+| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 10.72 | 11.35 | 🏆 x 8 | 🥇 x 17, 🥈 x 17, 🥉 x 3 | 💥 x 25, 🔥 x 15, ⚡ x 20 |
 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | <i class="flag flag-SE" /> | 17.75 | 23.28 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 5, ⚡ x 4 |
+| [Peter Douthwright](../../persons/peter_douthwright/clock.md) | 60+ | <i class="flag flag-CA" /> | 1:05.21 | 1:19.57 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 #### Under 40
 
@@ -41,7 +49,7 @@
 | [Ed Connell](../../persons/ed_connell/clock.md) | <40 | <i class="flag flag-IE" /> | 13.09 | 13.53 | 🏆 x 7 |  | 🔥 x 7, ⚡ x 6 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/clock.md) | <40 | <i class="flag flag-VE" /> | 10.78 | 12.14 | 🏆 x 11 |  | 🔥 x 7, ⚡ x 7 |
 | [Go-ho Choi](../../persons/go_ho_choi/clock.md) | <40 | <i class="flag flag-KR" /> | 10.95 | 12.60 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Greg Simmons](../../persons/greg_simmons/clock.md) | <40 | <i class="flag flag-GB" /> | 6.69 | 8.11 | 🏆 x 14 |  | 💥 x 11, 🔥 x 9, ⚡ x 10 |
+| [Greg Simmons](../../persons/greg_simmons/clock.md) | <40 | <i class="flag flag-GB" /> | 6.65 | 7.58 | 🏆 x 15 |  | 💥 x 12, 🔥 x 10, ⚡ x 11 |
 | [Peter Osudar](../../persons/peter_osudar/clock.md) | <40 | <i class="flag flag-CA" /> | 19.18 | 21.63 |  |  | 🔥 x 1, ⚡ x 1 |
 
 

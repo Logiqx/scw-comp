@@ -8,9 +8,9 @@
 
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
-| [3x3x3](333.md) | 27.17 | 32.99 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [2x2x2](222.md) | 8.07 | 10.98 | 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Pyraminx](pyram.md) | 10.30 | 11.53 | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [3x3x3](333.md) | 27.17 | 30.29 |  | 💥 x 2, 🔥 x 2, ⚡ x 1 |
+| [2x2x2](222.md) | 7.25 | 10.45 | 🥉 x 1 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
+| [Pyraminx](pyram.md) | 7.60 | 11.33 | 🥇 x 1, 🥈 x 1 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Greg Simmons](README.md)
+### [Greg Simmons](README.md) - [2022SIMM01](https://www.worldcubeassociation.org/persons/2022SIMM01?event=skewb)
 
 <i class="flag flag-GB" />&nbsp;United Kingdom
 

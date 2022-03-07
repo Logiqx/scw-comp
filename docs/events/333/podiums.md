@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-02-21](../../results/2022-02-21/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 17.59 | 18.95 | 🥇 | [Desktop](https://www.facebook.com/520891933/videos/1063602547551436) / [Mobile](https://m.facebook.com/520891933/videos/1063602547551436) |
+| 2 | [Rodney Gardner](../../persons/rodney_gardner/333.md) | 50+ | <i class="flag flag-US" /> | 18.19 | 20.97 | 🥈 | [Desktop](https://www.facebook.com/events/509549287201075/permalink/518520409637296) / [Mobile](https://m.facebook.com/events/509549287201075?view=permalink&id=518520409637296) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/333.md) | 40+ | <i class="flag flag-PH" /> | 18.76 | 24.08 | 🥉 | [Desktop](https://www.facebook.com/events/509549287201075/permalink/512909166865087) / [Mobile](https://m.facebook.com/events/509549287201075?view=permalink&id=512909166865087) |
+
 #### [2022-02-07](../../results/2022-02-07/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
