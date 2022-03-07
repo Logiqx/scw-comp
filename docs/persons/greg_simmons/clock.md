@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Greg Simmons](README.md)
+### [Greg Simmons](README.md) - [2022SIMM01](https://www.worldcubeassociation.org/persons/2022SIMM01?event=clock)
 
 <i class="flag flag-GB" />&nbsp;United Kingdom
 
@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-02-21](../../results/2022-02-21/clock.md) | <40 | **6.65** | **7.58** | 🏆 💥 🔥 ⚡ | 8.84 | **6.65** | 6.66 | 7.89 | 8.18 | [Desktop](https://www.facebook.com/events/283377510532834/permalink/288697400000845) / [Mobile](https://m.facebook.com/events/283377510532834?view=permalink&id=288697400000845) |
 | [2021-12-27](../../results/2021-12-27/clock.md) | <40 | 7.96 | 9.08 | 🏆 | 9.06 | 7.96 | 8.84 | 9.33 | 9.74 | [Desktop](https://www.facebook.com/events/1083505512394794/permalink/1089248865153792) / [Mobile](https://m.facebook.com/events/1083505512394794?view=permalink&id=1089248865153792) |
 | [2021-01-26](../../results/2021-01-26/clock.md) | <40 | **6.69** | **8.11** | 🏆 💥 🔥 ⚡ | 9.65 | 9.42 | 6.76 | **6.69** | 8.16 | [Desktop](https://www.facebook.com/events/1092517657841225/permalink/1096889500737374) / [Mobile](https://m.facebook.com/events/1092517657841225?view=permalink&id=1096889500737374) |
 | [2021-01-12](../../results/2021-01-12/clock.md) | <40 | 8.12 | 8.72 | 🏆 | 9.47 | 8.14 | 9.22 | 8.79 | 8.12 | [Desktop](https://www.facebook.com/events/769013407298654/permalink/772008793665782) / [Mobile](https://m.facebook.com/events/769013407298654?view=permalink&id=772008793665782) |

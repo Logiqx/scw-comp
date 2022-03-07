@@ -58,7 +58,7 @@
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333oh.md) | 40+ | <i class="flag flag-GB" /> | 30.75 | 34.86 |  |  | 🔥 x 5, ⚡ x 4 |
 | [Pete Lee](../../persons/pete_lee/333oh.md) | <40 | <i class="flag flag-GB" /> | 39.61 | 47.46 |  |  | 🔥 x 2, ⚡ x 1 |
 | [Phil Yu](../../persons/phil_yu/333oh.md) | <40 | <i class="flag flag-US" /> | 13.60 | 14.64 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Shawn Boucké](../../persons/shawn_boucke/333oh.md) | <40 | <i class="flag flag-US" /> | 23.99 | 27.70 |  |  | 🔥 x 1, ⚡ x 2 |
+| [Shawn Boucké](../../persons/shawn_boucke/333oh.md) | <40 | <i class="flag flag-US" /> | 23.99 | 27.70 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 2 |
 
 #### Under 30
 
