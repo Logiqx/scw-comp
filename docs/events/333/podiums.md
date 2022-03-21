@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-03-07](../../results/2022-03-07/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | <i class="flag flag-TW" /> | 18.05 | 20.22 | 🥇 | [Desktop](https://www.facebook.com/events/543808583529148/permalink/548948493015157) / [Mobile](https://m.facebook.com/events/543808583529148?view=permalink&id=548948493015157) |
+| 2 | [Rodney Gardner](../../persons/rodney_gardner/333.md) | 50+ | <i class="flag flag-US" /> | 17.72 | 20.75 | 🥈 | [Desktop](https://www.facebook.com/events/543808583529148/permalink/550104436232896) / [Mobile](https://m.facebook.com/events/543808583529148?view=permalink&id=550104436232896) |
+| 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 17.36 | 20.85 | 🥉 | [Desktop](https://www.facebook.com/520891933/videos/957497218242676) / [Mobile](https://m.facebook.com/520891933/videos/957497218242676) |
+
 #### [2022-02-21](../../results/2022-02-21/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

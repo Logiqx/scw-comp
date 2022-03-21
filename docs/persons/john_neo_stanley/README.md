@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### John Neo Stanley
+### John Neo Stanley - [2022STAN01](https://www.worldcubeassociation.org/persons/2022STAN01)
 
 <i class="flag flag-GB" />&nbsp;United Kingdom
 
@@ -10,7 +10,7 @@
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
-| [3x3x3](333.md) | 22.24 | 24.84 | 🔥 x 7, ⚡ x 6 |
+| [3x3x3](333.md) | 22.24 | 24.29 | 🔥 x 8, ⚡ x 6 |
 | [2x2x2](222.md) | 9.18 | 11.36 | 🔥 x 3, ⚡ x 3 |
 | [4x4x4](444.md) | 2:06.67 | 2:21.77 | 🔥 x 1, ⚡ x 1 |
 

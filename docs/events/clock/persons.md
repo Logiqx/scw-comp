@@ -34,7 +34,7 @@
 | [Eric Dodson](../../persons/eric_dodson/clock.md) | 40+ | <i class="flag flag-US" /> | 18.63 | 24.09 | 🏆 x 2 | 🥇 x 2, 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | <i class="flag flag-JP" /> | 9.45 | 11.24 | 🏆 x 10 | 🥇 x 24 | 💥 x 5, 🔥 x 6, ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/clock.md) | 40+ | <i class="flag flag-PL" /> | 26.90 | 43.62 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
-| [JM Tambaoan](../../persons/jm_tambaoan/clock.md) | 40+ | <i class="flag flag-PH" /> | 20.07 | 22.13 |  | 🥈 x 9 | 🔥 x 4, ⚡ x 2 |
+| [JM Tambaoan](../../persons/jm_tambaoan/clock.md) | 40+ | <i class="flag flag-PH" /> | 20.07 | 22.13 | 🏆 x 1 | 🥇 x 1, 🥈 x 9 | 🔥 x 4, ⚡ x 2 |
 | [Jae Park](../../persons/jae_park/clock.md) | 50+ | <i class="flag flag-US" /> | 24.69 | 31.52 |  | 🥈 x 4, 🥉 x 7 | 🔥 x 7, ⚡ x 7 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/clock.md) | 40+ | <i class="flag flag-GB" /> | 32.81 | 37.15 |  | 🥇 x 2, 🥈 x 1, 🥉 x 3 | 🔥 x 3, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 10.72 | 11.35 | 🏆 x 8 | 🥇 x 17, 🥈 x 17, 🥉 x 3 | 💥 x 25, 🔥 x 15, ⚡ x 20 |

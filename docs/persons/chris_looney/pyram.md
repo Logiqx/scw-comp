@@ -8,10 +8,11 @@
 
 #### Pyraminx Results
 
-<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-03-07](../../results/2022-03-07/pyram.md) | <40 | **3.53** | 9.52 | 🏆 💥 ⚡ | **3.53** | 9.37 | 11.74 | 9.43 | 9.76 | [Desktop](https://www.facebook.com/chris.looney/videos/749427089267408) / [Mobile](https://m.facebook.com/chris.looney/videos/749427089267408) |
 | [2022-02-21](../../results/2022-02-21/pyram.md) | <40 | 7.96 | 9.02 | 🏆 | 8.17 | 8.76 | 7.96 | 10.12 | 11.42 | [Desktop](https://www.facebook.com/chris.looney/videos/1566580703723742) / [Mobile](https://m.facebook.com/chris.looney/videos/1566580703723742) |
 | [2022-02-07](../../results/2022-02-07/pyram.md) | <40 | **5.72** | **8.51** | 🏆 🔥 ⚡ | 7.88 | **5.72** | 6.90 | 10.86 | 10.74 | [Desktop](https://www.facebook.com/chris.looney/videos/1213468396148792) / [Mobile](https://m.facebook.com/chris.looney/videos/1213468396148792) |
 | [2022-01-24](../../results/2022-01-24/pyram.md) | <40 | 7.76 | **9.45** | 🏆 🔥 | 9.78 | 7.76 | 9.01 | 14.08 | 9.56 | [Desktop](https://www.facebook.com/chris.looney/videos/514339936618190) / [Mobile](https://m.facebook.com/chris.looney/videos/514339936618190) |
