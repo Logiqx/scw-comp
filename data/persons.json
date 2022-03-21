@@ -187,6 +187,12 @@
     "id": 6,
     "wcaId": "2017HART06"
   },
+  "Glenn Koster": {
+    "age": "40+",
+    "country": "???",
+    "id": 103,
+    "wcaId": "2022JRGL01"
+  },
   "Go-ho Choi": {
     "age": "40+",
     "aliases": [
@@ -324,7 +330,8 @@
     "age": "50+",
     "country": "United Kingdom",
     "id": 79,
-    "skipDraw": "2020-08-18"
+    "skipDraw": "2020-08-18",
+    "wcaId": "2022STAN01"
   },
   "Jonathan Charlesworth": {
     "age": "<20",
@@ -375,6 +382,11 @@
     "age": "40+",
     "country": "Spain",
     "id": 88
+  },
+  "Liran Muchnik": {
+    "age": "<40",
+    "country": "???",
+    "id": 101
   },
   "Lisa Kucala": {
     "age": "50+",
@@ -594,6 +606,12 @@
     "country": "United Kingdom",
     "id": 31,
     "wcaId": "2018SALM01"
+  },
+  "Terence Brown": {
+    "age": "40+",
+    "country": "???",
+    "id": 102,
+    "wcaId": "2021BROW05"
   },
   "Thierry Boisivon": {
     "age": "40+",

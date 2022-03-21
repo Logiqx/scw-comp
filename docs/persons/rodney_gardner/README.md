@@ -10,7 +10,7 @@
 
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
-| [3x3x3](333.md) | 16.45 | 19.98 | 🥈 x 3, 🥉 x 1 | 🔥 x 5, ⚡ x 3 |
+| [3x3x3](333.md) | 16.45 | 19.98 | 🥈 x 4, 🥉 x 1 | 🔥 x 5, ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
