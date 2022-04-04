@@ -109,9 +109,9 @@
 | [Amit Sheffer](../../persons/amit_sheffer/333.md) | <40 | <i class="flag flag-IL" /> | 12.30 | 14.43 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Brooke Persoon](../../persons/brooke_persoon/333.md) | <40 | <i class="flag flag-US" /> | 39.40 | 47.49 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Chris Hardwick](../../persons/chris_hardwick/333.md) | <40 | <i class="flag flag-US" /> | 11.10 | 12.82 | 🏆 x 2 |  | 🔥 x 4, ⚡ x 6 |
-| [Chris Looney](../../persons/chris_looney/333.md) | <40 | <i class="flag flag-US" /> | 17.63 | 19.68 | 🏆 x 1 |  | 🔥 x 4, ⚡ x 4 |
+| [Chris Looney](../../persons/chris_looney/333.md) | <40 | <i class="flag flag-US" /> | 17.63 | 19.68 |  |  | 🔥 x 4, ⚡ x 4 |
 | [Chris Thames](../../persons/chris_thames/333.md) | <40 | <i class="flag flag-US" /> | 17.55 | 28.04 |  |  | 🔥 x 6, ⚡ x 5 |
-| [Ed Connell](../../persons/ed_connell/333.md) | <40 | <i class="flag flag-IE" /> | 12.00 | 14.70 | 🏆 x 2 |  | 🔥 x 9, ⚡ x 3 |
+| [Ed Connell](../../persons/ed_connell/333.md) | <40 | <i class="flag flag-IE" /> | 12.00 | 14.70 | 🏆 x 3 |  | 🔥 x 9, ⚡ x 3 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) | <40 | <i class="flag flag-VE" /> | 10.81 | 12.39 | 🏆 x 8 |  | 🔥 x 6, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/333.md) | 40+ | <i class="flag flag-KR" /> | 11.23 | 12.74 | 🏆 x 3 | 🥈 x 1 | 💥 x 2, 🔥 x 4, ⚡ x 4 |
 | [Greg Simmons](../../persons/greg_simmons/333.md) | <40 | <i class="flag flag-GB" /> | 13.96 | 15.90 |  |  | 🔥 x 7, ⚡ x 7 |
