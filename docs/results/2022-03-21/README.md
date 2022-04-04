@@ -8,7 +8,7 @@
 
 #### [3x3x3](333.md)
 
-<span style="white-space: nowrap;">🏆 [Chris Looney](../../persons/chris_looney/333.md) 19.68</span>
+<span style="white-space: nowrap;">🏆 [Ed Connell](../../persons/ed_connell/333.md) 16.10</span>
 
 <span style="white-space: nowrap;">🥇 [Toby Chamberlain](../../persons/toby_chamberlain/333.md) 19.91</span>, <span style="white-space: nowrap;">🥈 [JM Tambaoan](../../persons/jm_tambaoan/333.md) 20.95</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/333.md) 26.09</span>
 
@@ -53,6 +53,10 @@
 #### [7x7x7](777.md)
 
 <span style="white-space: nowrap;">🏆 [Pete Lee](../../persons/pete_lee/777.md) 6:19.09</span>
+
+#### [3x3x3 One-Handed](333oh.md)
+
+<span style="white-space: nowrap;">🏆 [Ed Connell](../../persons/ed_connell/333oh.md) 36.50</span>
 
 #### [Megaminx](minx.md)
 
