@@ -8,9 +8,9 @@
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [3x3x3](333.md) | 27.17 | 30.29 |  |  | 💥 x 2, 🔥 x 2, ⚡ x 1 |
+| [3x3x3](333.md) | 26.69 | 30.01 |  |  | 💥 x 3, 🔥 x 3, ⚡ x 2 |
 | [2x2x2](222.md) | 6.83 | 8.57 | 🏆 x 1 | 🥇 x 1, 🥉 x 1 | 💥 x 3, 🔥 x 3, ⚡ x 3 |
-| [Pyraminx](pyram.md) | 7.51 | 11.19 |  | 🥇 x 2, 🥈 x 1 | 💥 x 3, 🔥 x 3, ⚡ x 3 |
+| [Pyraminx](pyram.md) | 7.01 | 10.52 | 🏆 x 1 | 🥇 x 3, 🥈 x 1 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

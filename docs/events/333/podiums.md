@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-03-21](../../results/2022-03-21/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 14.27 | 19.91 | 🥇 | [Desktop](https://www.facebook.com/520891933/videos/745840940063413) / [Mobile](https://m.facebook.com/520891933/videos/745840940063413) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/333.md) | 40+ | <i class="flag flag-PH" /> | 18.76 | 20.95 | 🥈 | [Desktop](https://www.facebook.com/events/1418360898645376/permalink/1426128791201920) / [Mobile](https://m.facebook.com/events/1418360898645376?view=permalink&id=1426128791201920) |
+| 3 | [Dan Smith](../../persons/dan_smith/333.md) | 50+ | <i class="flag flag-US" /> | 23.57 | 26.09 | 🥉 | [Desktop](https://www.facebook.com/events/1418360898645376/permalink/1428074901007309) / [Mobile](https://m.facebook.com/events/1418360898645376?view=permalink&id=1428074901007309) |
+
 #### [2022-03-07](../../results/2022-03-07/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
