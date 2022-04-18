@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-04-04](../../results/2022-04-04/clock.md) | 40+ | 19.05 | **22.71** | 🏆 🥇 🔥 | 24.67 | 27.97 | 19.05 | 20.90 | 22.57 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1179704002765074) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1179704002765074) |
 | [2022-02-07](../../results/2022-02-07/clock.md) | 40+ | 22.51 | 27.44 | 🏆 🥇 | 28.70 | DNF | 23.64 | 22.51 | 29.99 | [Desktop](https://www.facebook.com/events/245500131085725/permalink/254512366851168) / [Mobile](https://m.facebook.com/events/245500131085725?view=permalink&id=254512366851168) |
 | [2022-01-24](../../results/2022-01-24/clock.md) | 40+ | 21.86 | DNF | 🏆 🥇 | 25.93 | 24.31 | DNF | 21.86 | DNF | [Desktop](https://www.facebook.com/events/317247483509647/permalink/324943996073329) / [Mobile](https://m.facebook.com/events/317247483509647?view=permalink&id=324943996073329) |
 | [2022-01-10](../../results/2022-01-10/clock.md) | 40+ | **18.63** | **24.09** | 🥈 🔥 ⚡ | 21.31 | 28.88 | 28.10 | 22.87 | **18.63** | [Desktop](https://www.facebook.com/events/1071902263370982/permalink/1080498415844700) / [Mobile](https://m.facebook.com/events/1071902263370982?view=permalink&id=1080498415844700) |

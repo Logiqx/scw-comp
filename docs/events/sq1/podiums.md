@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-04-04](../../results/2022-04-04/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 17.63 | 23.07 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1179496442785830) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1179496442785830) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 40+ | <i class="flag flag-US" /> | 33.67 | 49.82 | 🥈 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1179543232781151) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1179543232781151) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 48.39 | 1:25.57 | 🥉 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1174215239980617) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1174215239980617) |
+
 #### [2022-03-21](../../results/2022-03-21/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
@@ -19,7 +27,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 20.47 | 22.71 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/492851219083428/permalink/501684788200071) / [Mobile](https://m.facebook.com/events/492851219083428?view=permalink&id=501684788200071) |
-| 2 | [Terence Brown](../../persons/terence_brown/sq1.md) | 40+ | | 38.44 | 43.08 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/492851219083428/permalink/495790868789463) / [Mobile](https://m.facebook.com/events/492851219083428?view=permalink&id=495790868789463) |
+| 2 | [Terence Brown](../../persons/terence_brown/sq1.md) | 40+ | <i class="flag flag-NZ" /> | 38.44 | 43.08 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/492851219083428/permalink/495790868789463) / [Mobile](https://m.facebook.com/events/492851219083428?view=permalink&id=495790868789463) |
 | 3 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 40+ | <i class="flag flag-US" /> | 37.19 | 51.82 | 🥉 | [Desktop](https://www.facebook.com/events/492851219083428/permalink/501419721559911) / [Mobile](https://m.facebook.com/events/492851219083428?view=permalink&id=501419721559911) |
 
 #### [2022-02-21](../../results/2022-02-21/sq1.md)

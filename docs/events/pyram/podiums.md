@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-04-04](../../results/2022-04-04/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.33 | 10.11 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1179496442785830) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1179496442785830) |
+| 2 | [Martin Melcop](../../persons/martin_melcop/pyram.md) | 60+ | | 9.93 | 10.65 | 🥈 | [Desktop](https://www.facebook.com/100000468058820/videos/536776621128634) / [Mobile](https://m.facebook.com/100000468058820/videos/536776621128634) |
+| 3 | [Eric Dodson](../../persons/eric_dodson/pyram.md) | 40+ | <i class="flag flag-US" /> | 10.41 | 11.97 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1179764546092353) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1179764546092353) |
+
 #### [2022-03-21](../../results/2022-03-21/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

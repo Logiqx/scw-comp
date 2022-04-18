@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-04-04](../../results/2022-04-04/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Martin Melcop](../../persons/martin_melcop/222.md) | 60+ | | 6.41 | 8.33 | 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/100000468058820/videos/959516088082316) / [Mobile](https://m.facebook.com/100000468058820/videos/959516088082316) |
+| 2 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 7.57 | 9.58 | 🥈 | [Desktop](https://www.facebook.com/events/655069328915915/permalink/663065878116260) / [Mobile](https://m.facebook.com/events/655069328915915?view=permalink&id=663065878116260) |
+| 3 | [Eric Dodson](../../persons/eric_dodson/222.md) | 40+ | <i class="flag flag-US" /> | 8.52 | 9.96 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/655069328915915/permalink/662685828154265) / [Mobile](https://m.facebook.com/events/655069328915915?view=permalink&id=662685828154265) |
+
 #### [2022-03-21](../../results/2022-03-21/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

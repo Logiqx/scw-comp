@@ -4,6 +4,10 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Glenn Koster - [2022JRGL01](https://www.worldcubeassociation.org/persons/2022JRGL01)
 
+<i class="flag flag-US" />&nbsp;United States
+
+![Glenn Koster](1642001592.jpg)
+
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|

@@ -4,6 +4,10 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Terence Brown](README.md) - [2021BROW05](https://www.worldcubeassociation.org/persons/2021BROW05?event=sq1)
 
+<i class="flag flag-NZ" />&nbsp;New Zealand
+
+![Terence Brown](1645644440.jpg)
+
 #### Square-1 Results
 
 <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
