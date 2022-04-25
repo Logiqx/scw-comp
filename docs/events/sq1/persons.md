@@ -29,11 +29,11 @@
 | [Eric Dodson](../../persons/eric_dodson/sq1.md) | 40+ | <i class="flag flag-US" /> | 1:18.77 | 1:48.95 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | 40+ | <i class="flag flag-JP" /> | 18.69 | 24.34 | 🏆 x 8 | 🥇 x 8, 🥈 x 16 | 💥 x 2, 🔥 x 9, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/sq1.md) | 40+ | <i class="flag flag-KR" /> | 16.65 | 20.56 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 43.57 | 1:00.53 |  | 🥈 x 8, 🥉 x 5 | 🔥 x 10, ⚡ x 7 |
+| [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 43.57 | 1:00.53 |  | 🥈 x 8, 🥉 x 4 | 🔥 x 10, ⚡ x 7 |
 | [Konsta Jukka](../../persons/konsta_jukka/sq1.md) | 40+ | <i class="flag flag-FI" /> | 24.21 | 40.11 |  | 🥉 x 5 | 🔥 x 4, ⚡ x 3 |
-| [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 40+ | <i class="flag flag-US" /> | 24.57 | 44.22 |  | 🥈 x 9, 🥉 x 2 | 🔥 x 4, ⚡ x 5 |
+| [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 40+ | <i class="flag flag-US" /> | 24.57 | 44.22 |  | 🥈 x 8, 🥉 x 3 | 🔥 x 4, ⚡ x 5 |
 | [Peter Douthwright](../../persons/peter_douthwright/sq1.md) | 60+ | <i class="flag flag-CA" /> | 1:14.33 | 1:36.66 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Terence Brown](../../persons/terence_brown/sq1.md) | 40+ | <i class="flag flag-NZ" /> | 38.44 | 43.08 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Terence Brown](../../persons/terence_brown/sq1.md) | 40+ | <i class="flag flag-NZ" /> | 27.62 | 37.72 |  | 🥈 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | <i class="flag flag-IN" /> | 43.91 | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/sq1.md) | 40+ | <i class="flag flag-TW" /> | 51.61 | 59.20 |  | 🥈 x 4, 🥉 x 6 | 🔥 x 2, ⚡ x 2 |
 

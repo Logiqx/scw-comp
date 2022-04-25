@@ -17,7 +17,7 @@
 | [6x6x6](666.md) | 7:47.93 | - | 🥇 x 1 | ⚡ x 1 |
 | [Pyraminx](pyram.md) | 14.16 | 30.24 |  | 🔥 x 1, ⚡ x 2 |
 | [Skewb](skewb.md) | 16.65 | 24.59 |  | 🔥 x 1, ⚡ x 1 |
-| [Square-1](sq1.md) | 24.57 | 44.22 | 🥈 x 9, 🥉 x 2 | 🔥 x 4, ⚡ x 5 |
+| [Square-1](sq1.md) | 24.57 | 44.22 | 🥈 x 8, 🥉 x 3 | 🔥 x 4, ⚡ x 5 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

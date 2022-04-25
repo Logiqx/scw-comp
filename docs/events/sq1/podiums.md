@@ -11,8 +11,8 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 17.63 | 23.07 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1179496442785830) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1179496442785830) |
-| 2 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 40+ | <i class="flag flag-US" /> | 33.67 | 49.82 | 🥈 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1179543232781151) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1179543232781151) |
-| 3 | [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 48.39 | 1:25.57 | 🥉 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1174215239980617) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1174215239980617) |
+| 2 | [Terence Brown](../../persons/terence_brown/sq1.md) | 40+ | <i class="flag flag-NZ" /> | 27.62 | 37.72 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1174672186601589) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1174672186601589) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 40+ | <i class="flag flag-US" /> | 33.67 | 49.82 | 🥉 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1179543232781151) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1179543232781151) |
 
 #### [2022-03-21](../../results/2022-03-21/sq1.md)
 

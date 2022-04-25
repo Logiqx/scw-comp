@@ -12,8 +12,10 @@
 
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
-| [3x3x3](333.md) | 21.13 | 26.30 |  | 🔥 x 1, ⚡ x 1 |
-| [Square-1](sq1.md) | 38.44 | 43.08 | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
+| [3x3x3](333.md) | 18.87 | 26.04 | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
+| [2x2x2](222.md) | 6.74 | 7.65 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Skewb](skewb.md) | 9.51 | 11.02 | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Square-1](sq1.md) | 27.62 | 37.72 | 🥈 x 2 | 🔥 x 2, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

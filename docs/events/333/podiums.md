@@ -12,7 +12,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 18.61 | 19.42 | 🥇 | [Desktop](https://www.facebook.com/520891933/videos/3068939030033789) / [Mobile](https://m.facebook.com/520891933/videos/3068939030033789) |
 | 2 | [JM Tambaoan](../../persons/jm_tambaoan/333.md) | 40+ | <i class="flag flag-PH" /> | 19.00 | 20.02 | 🥈 | [Desktop](https://www.facebook.com/events/655069328915915/permalink/657958808626967) / [Mobile](https://m.facebook.com/events/655069328915915?view=permalink&id=657958808626967) |
-| 3 | [Dan Smith](../../persons/dan_smith/333.md) | 50+ | <i class="flag flag-US" /> | 21.76 | 29.06 | 🥉 | [Desktop](https://www.facebook.com/events/655069328915915/permalink/663065878116260) / [Mobile](https://m.facebook.com/events/655069328915915?view=permalink&id=663065878116260) |
+| 3 | [Terence Brown](../../persons/terence_brown/333.md) | 40+ | <i class="flag flag-NZ" /> | 18.87 | 26.04 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/655069328915915/permalink/658388595250655) / [Mobile](https://m.facebook.com/events/655069328915915?view=permalink&id=658388595250655) |
 
 #### [2022-03-21](../../results/2022-03-21/333.md)
 

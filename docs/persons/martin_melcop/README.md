@@ -4,12 +4,14 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Martin Melcop
 
+<i class="flag flag-BR" />&nbsp;Brazil
+
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](333.md) | 26.69 | 30.01 |  |  | 💥 x 3, 🔥 x 3, ⚡ x 2 |
-| [2x2x2](222.md) | 6.41 | 8.33 | 🏆 x 1 | 🥇 x 2, 🥉 x 1 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
+| [2x2x2](222.md) | 6.41 | 8.33 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
 | [Pyraminx](pyram.md) | 7.01 | 10.52 | 🏆 x 1 | 🥇 x 3, 🥈 x 2 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

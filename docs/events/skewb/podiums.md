@@ -11,8 +11,8 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Eric Dodson](../../persons/eric_dodson/skewb.md) | 40+ | <i class="flag flag-US" /> | 9.02 | 10.54 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1179781856090622) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1179781856090622) |
-| 2 | [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 18.19 | 20.48 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1179496442785830) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1179496442785830) |
-| 3 | [JM Tambaoan](../../persons/jm_tambaoan/skewb.md) | 40+ | <i class="flag flag-PH" /> | 15.95 | 20.50 | 🥉 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1174213976647410) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1174213976647410) |
+| 2 | [Terence Brown](../../persons/terence_brown/skewb.md) | 40+ | <i class="flag flag-NZ" /> | 9.51 | 11.02 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1174670813268393) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1174670813268393) |
+| 3 | [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 18.19 | 20.48 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1179496442785830) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1179496442785830) |
 
 #### [2022-03-21](../../results/2022-03-21/skewb.md)
 

@@ -2,11 +2,11 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Dan Smith](README.md) - [2018SMIT42](https://www.worldcubeassociation.org/persons/2018SMIT42?event=skewb)
+### [Terence Brown](README.md) - [2021BROW05](https://www.worldcubeassociation.org/persons/2021BROW05?event=skewb)
 
-<i class="flag flag-US" />&nbsp;United States
+<i class="flag flag-NZ" />&nbsp;New Zealand
 
-![Dan Smith](1570678334.png)
+![Terence Brown](1645644440.jpg)
 
 #### Skewb Results
 
@@ -14,8 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2022-04-04](../../results/2022-04-04/skewb.md) | 50+ | **18.19** | **20.48** | 🥉 🔥 ⚡ | 37.48 | 19.04 | 20.68 | 21.73 | **18.19** | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1179496442785830) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1179496442785830) |
-| [2022-03-21](../../results/2022-03-21/skewb.md) | 50+ | **27.19** | **38.12** | 🥉 🔥 ⚡ | **27.19** | 30.63 | 27.42 | 1:15.48 | 56.31 | [Desktop](https://www.facebook.com/events/525463282272711/permalink/534504681368571) / [Mobile](https://m.facebook.com/events/525463282272711?view=permalink&id=534504681368571) |
+| [2022-04-04](../../results/2022-04-04/skewb.md) | 40+ | **9.51** | **11.02** | 🥈 🔥 ⚡ | 10.69 | 11.89 | 10.47 | 13.23 | **9.51** | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1174670813268393) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1174670813268393) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

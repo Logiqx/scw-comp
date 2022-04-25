@@ -10,23 +10,23 @@
 
 <span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/333.md) 13.44</span>
 
-<span style="white-space: nowrap;">🥇 [Toby Chamberlain](../../persons/toby_chamberlain/333.md) 19.42</span>, <span style="white-space: nowrap;">🥈 [JM Tambaoan](../../persons/jm_tambaoan/333.md) 20.02</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/333.md) 29.06</span>
+<span style="white-space: nowrap;">🥇 [Toby Chamberlain](../../persons/toby_chamberlain/333.md) 19.42</span>, <span style="white-space: nowrap;">🥈 [JM Tambaoan](../../persons/jm_tambaoan/333.md) 20.02</span>, <span style="white-space: nowrap;">🥉 [Terence Brown](../../persons/terence_brown/333.md) 26.04</span>
 
-🔥 x 2 = <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/333.md) 29.35</span>, <span style="white-space: nowrap;">[Eric Dodson](../../persons/eric_dodson/333.md) 39.31</span>
+🔥 x 3 = <span style="white-space: nowrap;">[Terence Brown](../../persons/terence_brown/333.md) 26.04</span>, <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/333.md) 29.35</span>, <span style="white-space: nowrap;">[Eric Dodson](../../persons/eric_dodson/333.md) 39.31</span>
 
-⚡ x 1 = <span style="white-space: nowrap;">[Eric Dodson](../../persons/eric_dodson/333.md) 33.09</span>
+⚡ x 2 = <span style="white-space: nowrap;">[Terence Brown](../../persons/terence_brown/333.md) 18.87</span>, <span style="white-space: nowrap;">[Eric Dodson](../../persons/eric_dodson/333.md) 33.09</span>
 
 #### [2x2x2](222.md)
 
 <span style="white-space: nowrap;">🏆 [Shawn Boucké](../../persons/shawn_boucke/222.md) 4.87</span>
 
-<span style="white-space: nowrap;">🥇 [Martin Melcop](../../persons/martin_melcop/222.md) 8.33</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/222.md) 9.58</span>, <span style="white-space: nowrap;">🥉 [Eric Dodson](../../persons/eric_dodson/222.md) 9.96</span>
+<span style="white-space: nowrap;">🥇 [Terence Brown](../../persons/terence_brown/222.md) 7.65</span>, <span style="white-space: nowrap;">🥈 [Martin Melcop](../../persons/martin_melcop/222.md) 8.33</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/222.md) 9.58</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Martin Melcop](../../persons/martin_melcop/222.md) 60+</span>
 
-🔥 x 1 = <span style="white-space: nowrap;">[Martin Melcop](../../persons/martin_melcop/222.md) 8.33</span>
+🔥 x 2 = <span style="white-space: nowrap;">[Terence Brown](../../persons/terence_brown/222.md) 7.65</span>, <span style="white-space: nowrap;">[Martin Melcop](../../persons/martin_melcop/222.md) 8.33</span>
 
-⚡ x 2 = <span style="white-space: nowrap;">[Martin Melcop](../../persons/martin_melcop/222.md) 6.41</span>, <span style="white-space: nowrap;">[Eric Dodson](../../persons/eric_dodson/222.md) 8.52</span>
+⚡ x 3 = <span style="white-space: nowrap;">[Martin Melcop](../../persons/martin_melcop/222.md) 6.41</span>, <span style="white-space: nowrap;">[Terence Brown](../../persons/terence_brown/222.md) 6.74</span>, <span style="white-space: nowrap;">[Eric Dodson](../../persons/eric_dodson/222.md) 8.52</span>
 
 #### [4x4x4](444.md)
 
@@ -84,21 +84,21 @@
 
 <span style="white-space: nowrap;">🏆 [Eric Dodson](../../persons/eric_dodson/skewb.md) 10.54</span>
 
-<span style="white-space: nowrap;">🥇 [Eric Dodson](../../persons/eric_dodson/skewb.md) 10.54</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/skewb.md) 20.48</span>, <span style="white-space: nowrap;">🥉 [JM Tambaoan](../../persons/jm_tambaoan/skewb.md) 20.50</span>
+<span style="white-space: nowrap;">🥇 [Eric Dodson](../../persons/eric_dodson/skewb.md) 10.54</span>, <span style="white-space: nowrap;">🥈 [Terence Brown](../../persons/terence_brown/skewb.md) 11.02</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/skewb.md) 20.48</span>
 
-🔥 x 2 = <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/skewb.md) 20.48</span>, <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/skewb.md) 24.59</span>
+🔥 x 3 = <span style="white-space: nowrap;">[Terence Brown](../../persons/terence_brown/skewb.md) 11.02</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/skewb.md) 20.48</span>, <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/skewb.md) 24.59</span>
 
-⚡ x 2 = <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/skewb.md) 16.65</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/skewb.md) 18.19</span>
+⚡ x 3 = <span style="white-space: nowrap;">[Terence Brown](../../persons/terence_brown/skewb.md) 9.51</span>, <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/skewb.md) 16.65</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/skewb.md) 18.19</span>
 
 #### [Square-1](sq1.md)
 
 <span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 23.07</span>
 
-<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 23.07</span>, <span style="white-space: nowrap;">🥈 [Mickey Doyle](../../persons/mickey_doyle/sq1.md) 49.82</span>, <span style="white-space: nowrap;">🥉 [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) 1:25.57</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 23.07</span>, <span style="white-space: nowrap;">🥈 [Terence Brown](../../persons/terence_brown/sq1.md) 37.72</span>, <span style="white-space: nowrap;">🥉 [Mickey Doyle](../../persons/mickey_doyle/sq1.md) 49.82</span>
 
-🔥 x 1 = <span style="white-space: nowrap;">[Eric Dodson](../../persons/eric_dodson/sq1.md) 1:48.95</span>
+🔥 x 2 = <span style="white-space: nowrap;">[Terence Brown](../../persons/terence_brown/sq1.md) 37.72</span>, <span style="white-space: nowrap;">[Eric Dodson](../../persons/eric_dodson/sq1.md) 1:48.95</span>
 
-⚡ x 1 = <span style="white-space: nowrap;">[Eric Dodson](../../persons/eric_dodson/sq1.md) 1:18.77</span>
+⚡ x 2 = <span style="white-space: nowrap;">[Terence Brown](../../persons/terence_brown/sq1.md) 27.62</span>, <span style="white-space: nowrap;">[Eric Dodson](../../persons/eric_dodson/sq1.md) 1:18.77</span>
 
 #### [Clock](clock.md)
 

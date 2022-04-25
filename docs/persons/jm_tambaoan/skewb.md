@@ -12,7 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2022-04-04](../../results/2022-04-04/skewb.md) | 40+ | 15.95 | 20.50 | 🥉 | 18.18 | 23.93 | 15.95 | 22.60 | 20.71 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1174213976647410) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1174213976647410) |
+| [2022-04-04](../../results/2022-04-04/skewb.md) | 40+ | 15.95 | 20.50 |  | 18.18 | 23.93 | 15.95 | 22.60 | 20.71 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1174213976647410) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1174213976647410) |
 | [2022-03-21](../../results/2022-03-21/skewb.md) | 40+ | 14.57 | 20.42 | 🥈 | 18.35 | 20.15 | 22.76 | 25.76 | 14.57 | [Desktop](https://www.facebook.com/events/525463282272711/permalink/532702298215476) / [Mobile](https://m.facebook.com/events/525463282272711?view=permalink&id=532702298215476) |
 | [2022-03-07](../../results/2022-03-07/skewb.md) | 40+ | 19.98 | 22.05 | 🥈 | 19.98 | 32.88 | 23.46 | 21.96 | 20.74 | [Desktop](https://www.facebook.com/events/492851219083428/permalink/498110298557520) / [Mobile](https://m.facebook.com/events/492851219083428?view=permalink&id=498110298557520) |
 | [2022-02-21](../../results/2022-02-21/skewb.md) | 40+ | 17.87 | 21.45 | 🥉 | 17.87 | 21.03 | 23.67 | 26.91 | 19.64 | [Desktop](https://www.facebook.com/events/283377510532834/permalink/286452253558693) / [Mobile](https://m.facebook.com/events/283377510532834?view=permalink&id=286452253558693) |
