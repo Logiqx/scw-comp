@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-04-18](../../results/2022-04-18/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Martin Melcop](../../persons/martin_melcop/pyram.md) | 60+ | <i class="flag flag-BR" /> | 8.21 | 10.37 | 🥇 💥 🔥 | [Desktop](https://www.facebook.com/100000468058820/videos/3240108636219055) / [Mobile](https://m.facebook.com/100000468058820/videos/3240108636219055) |
+| 2 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 6.42 | 10.94 | 🥈 | [Desktop](https://www.facebook.com/events/566110581332467/permalink/570053347604857) / [Mobile](https://m.facebook.com/events/566110581332467?view=permalink&id=570053347604857) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/pyram.md) | 40+ | <i class="flag flag-PH" /> | 16.12 | 22.17 | 🥉 | [Desktop](https://www.facebook.com/events/566110581332467/permalink/573215567288635) / [Mobile](https://m.facebook.com/events/566110581332467?view=permalink&id=573215567288635) |
+
 #### [2022-04-04](../../results/2022-04-04/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

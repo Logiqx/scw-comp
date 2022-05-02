@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-04-18](../../results/2022-04-18/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 4.57 | 8.17 | 🥇 | [Desktop](https://www.facebook.com/events/558832345492635/permalink/562722535103616) / [Mobile](https://m.facebook.com/events/558832345492635?view=permalink&id=562722535103616) |
+| 2 | [Martin Melcop](../../persons/martin_melcop/222.md) | 60+ | <i class="flag flag-BR" /> | 7.31 | 8.30 | 🥈 💥 🔥 | [Desktop](https://www.facebook.com/100000468058820/videos/1188183271929958) / [Mobile](https://m.facebook.com/100000468058820/videos/1188183271929958) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/222.md) | 40+ | <i class="flag flag-PH" /> | 8.96 | 10.49 | 🥉 | [Desktop](https://www.facebook.com/events/558832345492635/permalink/565890368120166) / [Mobile](https://m.facebook.com/events/558832345492635?view=permalink&id=565890368120166) |
+
 #### [2022-04-04](../../results/2022-04-04/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

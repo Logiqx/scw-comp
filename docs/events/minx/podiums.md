@@ -8,6 +8,7 @@
 
 
 
+
 #### [2022-02-07](../../results/2022-02-07/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
