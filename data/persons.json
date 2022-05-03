@@ -169,6 +169,7 @@
   },
   "Eric Dodson": {
     "age": "40+",
+    "avatar": "1639144815.png",
     "country": "United States",
     "id": 96,
     "wcaId": "2021DODS01"
@@ -221,6 +222,7 @@
   },
   "Hailey Doyle": {
     "age": "<20",
+    "avatar": "1645540878.jpg",
     "country": "United States",
     "id": 98,
     "wcaId": "2021DOYL01"
@@ -329,6 +331,7 @@
   },
   "John Neo Stanley": {
     "age": "50+",
+    "avatar": "1643635309.png",
     "country": "United Kingdom",
     "id": 79,
     "skipDraw": "2020-08-18",
@@ -459,6 +462,7 @@
   },
   "Mickey Doyle": {
     "age": "40+",
+    "avatar": "1644595509.jpg",
     "country": "United States",
     "id": 93,
     "wcaId": "2021DOYL02"
@@ -683,6 +687,7 @@
   },
   "Yuichi Hamada": {
     "age": "40+",
+    "avatar": "1560444984.jpg",
     "country": "Japan",
     "id": 95,
     "wcaId": "2012HAMA02"

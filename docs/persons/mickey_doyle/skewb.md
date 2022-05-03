@@ -6,6 +6,8 @@
 
 <i class="flag flag-US" />&nbsp;United States
 
+![Mickey Doyle](1644595509.jpg)
+
 #### Skewb Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

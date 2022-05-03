@@ -6,6 +6,8 @@
 
 <i class="flag flag-GB" />&nbsp;United Kingdom
 
+![John Neo Stanley](1643635309.png)
+
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|
