@@ -8,14 +8,14 @@
 
 ![Terence Brown](1645644440.jpg)
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-| Event | Single | Average | Medals | Achievements|
-| :-- | --: | --: | :-- | :-- |
-| [3x3x3](333.md) | 18.87 | 26.04 | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [2x2x2](222.md) | 6.74 | 7.65 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Skewb](skewb.md) | 9.51 | 11.02 | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Square-1](sq1.md) | 27.62 | 37.72 | 🥈 x 2 | 🔥 x 2, ⚡ x 2 |
+| Event | Single | Average | Cups | Medals | Achievements|
+| :-- | --: | --: | :--: | :-- | :-- |
+| [3x3x3](333.md) | 18.87 | 21.71 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
+| [2x2x2](222.md) | 4.21 | 7.55 | 🏆 x 1 | 🥇 x 2 | 🔥 x 2, ⚡ x 2 |
+| [Skewb](skewb.md) | 7.32 | 11.02 |  | 🥈 x 2 | 🔥 x 1, ⚡ x 2 |
+| [Square-1](sq1.md) | 27.62 | 32.91 |  | 🥈 x 3 | 🔥 x 3, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

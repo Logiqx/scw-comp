@@ -33,7 +33,7 @@
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | [2020-09-29](../../results/2020-09-29/333bf.md) | <40 | <i class="flag flag-US" /> | 1:27.55 | 🏆 x 2 |  | 🔥 x 6, ⚡ x 6 | [Desktop](https://www.facebook.com/events/1294868874190434/permalink/1295739020770086) / [Mobile](https://m.facebook.com/events/1294868874190434?view=permalink&id=1295739020770086) |
-| 2 | [Ed Connell](../../persons/ed_connell/333bf.md) | [2021-04-05](../../results/2021-04-05/333bf.md) | <40 | <i class="flag flag-IE" /> | 2:59.59 | 🏆 x 2 |  | 🔥 x 3, ⚡ x 8 | [Desktop](https://www.facebook.com/events/902189670577686/permalink/905889373541049) / [Mobile](https://m.facebook.com/events/902189670577686?view=permalink&id=905889373541049) |
+| 2 | [Ed Connell](../../persons/ed_connell/333bf.md) | [2021-04-05](../../results/2021-04-05/333bf.md) | <40 | <i class="flag flag-IE" /> | 2:59.59 | 🏆 x 3 |  | 🔥 x 3, ⚡ x 8 | [Desktop](https://www.facebook.com/events/902189670577686/permalink/905889373541049) / [Mobile](https://m.facebook.com/events/902189670577686?view=permalink&id=905889373541049) |
 
 #### Under 30
 

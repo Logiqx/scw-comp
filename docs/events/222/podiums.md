@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-05-02](../../results/2022-05-02/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Terence Brown](../../persons/terence_brown/222.md) | 40+ | <i class="flag flag-NZ" /> | 4.21 | 7.55 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/5764445473571551/permalink/5801647069851391) / [Mobile](https://m.facebook.com/events/5764445473571551?view=permalink&id=5801647069851391) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | <i class="flag flag-US" /> | 5.60 | 7.63 | 🥈 | [Desktop](https://www.facebook.com/events/5764445473571551/permalink/5803169413032490) / [Mobile](https://m.facebook.com/events/5764445473571551?view=permalink&id=5803169413032490) |
+| 3 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 5.82 | 8.47 | 🥉 | [Desktop](https://www.facebook.com/events/5764445473571551/permalink/5800167613332670) / [Mobile](https://m.facebook.com/events/5764445473571551?view=permalink&id=5800167613332670) |
+
 #### [2022-04-18](../../results/2022-04-18/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
