@@ -34,7 +34,7 @@
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Go-ho Choi](../../persons/go_ho_choi/minx.md) | [2020-07-14](../../results/2020-07-14/minx.md) | <40 | <i class="flag flag-KR" /> | 1:06.45 | 🏆 x 2 | 🥇 x 1 | 💥 x 2, 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/1157754364595802/permalink/1158593647845207) / [Mobile](https://m.facebook.com/events/1157754364595802?view=permalink&id=1158593647845207) |
 | 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | [2021-02-09](../../results/2021-02-09/minx.md) | <40 | <i class="flag flag-VE" /> | 1:28.43 | 🏆 x 13 |  | 🔥 x 8, ⚡ x 4 | [Desktop](https://www.facebook.com/events/749806039307047/permalink/754004928887158) / [Mobile](https://m.facebook.com/events/749806039307047?view=permalink&id=754004928887158) |
-| 3 | [Chris Looney](../../persons/chris_looney/minx.md) | [2022-04-18](../../results/2022-04-18/minx.md) | <40 | <i class="flag flag-US" /> | 1:49.01 | 🏆 x 3 |  | 🔥 x 3, ⚡ x 3 | [Desktop](https://www.facebook.com/chris.looney/videos/478369737367161) / [Mobile](https://m.facebook.com/chris.looney/videos/478369737367161) |
+| 3 | [Chris Looney](../../persons/chris_looney/minx.md) | [2022-04-18](../../results/2022-04-18/minx.md) | <40 | <i class="flag flag-US" /> | 1:49.01 | 🏆 x 4 |  | 🔥 x 3, ⚡ x 3 | [Desktop](https://www.facebook.com/chris.looney/videos/478369737367161) / [Mobile](https://m.facebook.com/chris.looney/videos/478369737367161) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

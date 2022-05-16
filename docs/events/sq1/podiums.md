@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-05-02](../../results/2022-05-02/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 20.47 | 24.24 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3199116787026413/permalink/3208719639399461) / [Mobile](https://m.facebook.com/events/3199116787026413?view=permalink&id=3208719639399461) |
+| 2 | [Terence Brown](../../persons/terence_brown/sq1.md) | 40+ | <i class="flag flag-NZ" /> | 29.47 | 32.91 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/3199116787026413/permalink/3209089762695782) / [Mobile](https://m.facebook.com/events/3199116787026413?view=permalink&id=3209089762695782) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 40+ | <i class="flag flag-US" /> | 45.81 | 48.99 | 🥉 | [Desktop](https://www.facebook.com/events/3199116787026413/permalink/3209613159310109) / [Mobile](https://m.facebook.com/events/3199116787026413?view=permalink&id=3209613159310109) |
+
 #### [2022-04-18](../../results/2022-04-18/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
