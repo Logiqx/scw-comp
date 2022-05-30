@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-05-16](../../results/2022-05-16/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 40+ | <i class="flag flag-US" /> | 4:58.60 | DNF | 🥇 ⚡ | [Desktop](https://www.facebook.com/events/359265572736727/permalink/367596831903601) / [Mobile](https://m.facebook.com/events/359265572736727?view=permalink&id=367596831903601) |
+| 2 | [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 6:20.03 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/359265572736727/permalink/367419885254629) / [Mobile](https://m.facebook.com/events/359265572736727?view=permalink&id=367419885254629) |
+
 
 
 

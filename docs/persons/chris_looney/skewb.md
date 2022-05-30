@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Chris Looney](README.md)
+### [Chris Looney](README.md) - [2022LOON02](https://www.worldcubeassociation.org/persons/2022LOON02?event=skewb)
 
 <i class="flag flag-US" />&nbsp;United States
 

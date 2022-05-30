@@ -8,10 +8,11 @@
 
 #### Square-1 Results
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-05-16](../../results/2022-05-16/sq1.md) | 50+ | **37.03** | 1:01.93 | 🥉 ⚡ | 1:15.71 | 56.89 | 1:10.31 | **37.03** | 58.60 | [Desktop](https://www.facebook.com/events/1452905775152133/permalink/1457018924740818) / [Mobile](https://m.facebook.com/events/1452905775152133?view=permalink&id=1457018924740818) |
 | [2022-05-02](../../results/2022-05-02/sq1.md) | 50+ | **56.93** | **1:01.21** | 🔥 ⚡ | 1:06.48 | **56.93** | 57.27 | 1:01.03 | 1:05.32 | [Desktop](https://www.facebook.com/events/3199116787026413/permalink/3208173582787400) / [Mobile](https://m.facebook.com/events/3199116787026413?view=permalink&id=3208173582787400) |
 
 

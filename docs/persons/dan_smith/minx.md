@@ -10,10 +10,11 @@
 
 #### Megaminx Results
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-05-16](../../results/2022-05-16/minx.md) | 50+ | **6:20.03** | DNF | 🥈 ⚡ | **6:20.03** | 7:38.16 | DNS | DNS | DNS | [Desktop](https://www.facebook.com/events/359265572736727/permalink/367419885254629) / [Mobile](https://m.facebook.com/events/359265572736727?view=permalink&id=367419885254629) |
 | [2020-06-02](../../results/2020-06-02/minx.md) | 50+ | **8:11.77** | DNF | ⚡ | **8:11.77** | 8:37.62 | DNS | DNS | DNS | [Desktop](https://www.facebook.com/events/3373950429496747/permalink/3381536338738156) / [Mobile](https://m.facebook.com/events/3373950429496747?view=permalink&id=3381536338738156) |
 
 

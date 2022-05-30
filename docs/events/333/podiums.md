@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-05-16](../../results/2022-05-16/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 15.60 | 18.90 | 🥇 | [Desktop](https://www.facebook.com/520891933/videos/2226230994196148) / [Mobile](https://m.facebook.com/520891933/videos/2226230994196148) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | <i class="flag flag-US" /> | 24.69 | 27.32 | 🥈 | [Desktop](https://www.facebook.com/events/359265572736727/permalink/362728985723719) / [Mobile](https://m.facebook.com/events/359265572736727?view=permalink&id=362728985723719) |
+| 3 | [Dan Smith](../../persons/dan_smith/333.md) | 50+ | <i class="flag flag-US" /> | 25.97 | 28.70 | 🥉 | [Desktop](https://www.facebook.com/events/359265572736727/permalink/367419885254629) / [Mobile](https://m.facebook.com/events/359265572736727?view=permalink&id=367419885254629) |
+
 #### [2022-05-02](../../results/2022-05-02/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
