@@ -51,12 +51,13 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/333oh.md) | <40 | <i class="flag flag-GB" /> | 1:44.18 | 1:52.11 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Alex Friedman](../../persons/alex_friedman/333oh.md) | <40 | <i class="flag flag-IL" /> | 19.20 | 22.99 | 🏆 x 1 |  | 🔥 x 5, ⚡ x 5 |
+| [Chris Looney](../../persons/chris_looney/333oh.md) | <40 | <i class="flag flag-US" /> | 1:05.73 | 1:09.15 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/333oh.md) | <40 | <i class="flag flag-US" /> | 1:06.23 | 1:14.05 |  |  | 🔥 x 5, ⚡ x 4 |
 | [Ed Connell](../../persons/ed_connell/333oh.md) | <40 | <i class="flag flag-IE" /> | 21.93 | 27.55 | 🏆 x 7 |  | 🔥 x 7, ⚡ x 2 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333oh.md) | <40 | <i class="flag flag-VE" /> | 26.22 | 30.38 |  |  | 🔥 x 3, ⚡ x 1 |
 | [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | 40+ | <i class="flag flag-KR" /> | 22.13 | 24.49 | 🏆 x 2 | 🥈 x 1 | 💥 x 1, 🔥 x 3, ⚡ x 2 |
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333oh.md) | 40+ | <i class="flag flag-GB" /> | 30.75 | 34.86 |  |  | 🔥 x 5, ⚡ x 4 |
-| [Pete Lee](../../persons/pete_lee/333oh.md) | <40 | <i class="flag flag-GB" /> | 39.61 | 47.46 | 🏆 x 1 |  | 🔥 x 2, ⚡ x 1 |
+| [Pete Lee](../../persons/pete_lee/333oh.md) | <40 | <i class="flag flag-GB" /> | 39.61 | 47.46 | 🏆 x 2 |  | 🔥 x 2, ⚡ x 1 |
 | [Phil Yu](../../persons/phil_yu/333oh.md) | <40 | <i class="flag flag-US" /> | 13.60 | 14.64 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Shawn Boucké](../../persons/shawn_boucke/333oh.md) | <40 | <i class="flag flag-US" /> | 23.99 | 27.70 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 2 |
 

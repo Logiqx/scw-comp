@@ -8,6 +8,7 @@
 
 
 
+
 #### [2022-04-18](../../results/2022-04-18/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -24,10 +24,10 @@
 | [Skewb](skewb.md) | 4.85 | 11.31 | 🏆 x 2 | 🔥 x 3, ⚡ x 3 |
 | [Square-1](sq1.md) | 23.83 | 36.03 |  | 💥 x 1, 🔥 x 5, ⚡ x 4 |
 | [Clock](clock.md) | 13.09 | 13.53 | 🏆 x 7 | 🔥 x 7, ⚡ x 6 |
-| [3x3x3 BLD](333bf.md) | 2:00.37 | 2:59.59 | 🏆 x 4 | 🔥 x 3, ⚡ x 8 |
+| [3x3x3 BLD](333bf.md) | 2:00.37 | 2:59.59 | 🏆 x 5 | 🔥 x 3, ⚡ x 8 |
 | [4x4x4 BLD](444bf.md) | 20:04.82 | - |  | ⚡ x 1 |
 | [3x3x3 MBLD](333mbf.md) | 3/3 in 17:09 | - |  | ⚡ x 2 |
-| [3x3x3 FMC](333fm.md) | 27 | - | 🏆 x 1 | ⚡ x 5 |
+| [3x3x3 FMC](333fm.md) | 27 | - | 🏆 x 2 | ⚡ x 5 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-05-30](../../results/2022-05-30/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:30.60 | 2:44.58 | 🥇 | [Desktop](https://www.facebook.com/events/1031249797503298/permalink/1039094140052197) / [Mobile](https://m.facebook.com/events/1031249797503298?view=permalink&id=1039094140052197) |
+
 #### [2022-05-16](../../results/2022-05-16/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

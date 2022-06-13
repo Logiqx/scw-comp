@@ -40,7 +40,7 @@
 | [Adam Robson](../../persons/adam_robson/333bf.md) | <40 | <i class="flag flag-GB" /> | 3:38.95 | DNF |  |  | ⚡ x 1 |
 | [Brooke Persoon](../../persons/brooke_persoon/333bf.md) | <40 | <i class="flag flag-US" /> | 18:05.78 | DNF |  |  | ⚡ x 1 |
 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | <40 | <i class="flag flag-US" /> | 1:12.91 | 1:27.55 | 🏆 x 2 |  | 🔥 x 6, ⚡ x 6 |
-| [Ed Connell](../../persons/ed_connell/333bf.md) | <40 | <i class="flag flag-IE" /> | 2:00.37 | 2:59.59 | 🏆 x 4 |  | 🔥 x 3, ⚡ x 8 |
+| [Ed Connell](../../persons/ed_connell/333bf.md) | <40 | <i class="flag flag-IE" /> | 2:00.37 | 2:59.59 | 🏆 x 5 |  | 🔥 x 3, ⚡ x 8 |
 | [Go-ho Choi](../../persons/go_ho_choi/333bf.md) | <40 | <i class="flag flag-KR" /> | 2:22.99 | DNF |  |  | ⚡ x 1 |
 
 #### Under 30
