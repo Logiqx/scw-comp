@@ -76,7 +76,7 @@
 | [Lisa Kucala](../../persons/lisa_kucala/333.md) | 50+ | <i class="flag flag-US" /> | 20.38 | 23.02 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 7, ⚡ x 8 |
 | [Marcel Balzer](../../persons/marcel_balzer/333.md) | 40+ | <i class="flag flag-DE" /> | 26.19 | 29.43 |  |  | 🔥 x 11, ⚡ x 10 |
 | [Mark Charlesworth](../../persons/mark_charlesworth/333.md) | 40+ | <i class="flag flag-AU" /> | 27.78 | 30.02 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Mark Cordell](../../persons/mark_cordell/333.md) | 40+ | | 23.05 | 26.87 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Mark Cordell](../../persons/mark_cordell/333.md) | 40+ | <i class="flag flag-US" /> | 23.05 | 26.87 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Markus Niederöst](../../persons/markus_niederost/333.md) | 50+ | <i class="flag flag-CH" /> | 19.98 | 23.61 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Martin Melcop](../../persons/martin_melcop/333.md) | 60+ | <i class="flag flag-BR" /> | 26.69 | 30.01 |  |  | 💥 x 3, 🔥 x 3, ⚡ x 2 |
 | [Michael George](../../persons/michael_george/333.md) | 40+ | <i class="flag flag-GB" /> | 11.64 | 13.44 | 🏆 x 7 | 🥇 x 24, 🥈 x 6 | 💥 x 6, 🔥 x 6, ⚡ x 3 |

@@ -12,7 +12,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 13.87 | 18.55 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/378345394109427/permalink/383265163617450) / [Mobile](https://m.facebook.com/events/378345394109427?view=permalink&id=383265163617450) |
 | 2 | [Dan Smith](../../persons/dan_smith/333.md) | 50+ | <i class="flag flag-US" /> | 23.40 | 26.25 | 🥈 | [Desktop](https://www.facebook.com/events/378345394109427/permalink/385911100019523) / [Mobile](https://m.facebook.com/events/378345394109427?view=permalink&id=385911100019523) |
-| 3 | [Mark Cordell](../../persons/mark_cordell/333.md) | 40+ | | 23.05 | 26.87 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/640936673/videos/377957590814586) / [Mobile](https://m.facebook.com/640936673/videos/377957590814586) |
+| 3 | [Mark Cordell](../../persons/mark_cordell/333.md) | 40+ | <i class="flag flag-US" /> | 23.05 | 26.87 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/640936673/videos/377957590814586) / [Mobile](https://m.facebook.com/640936673/videos/377957590814586) |
 
 #### [2022-05-16](../../results/2022-05-16/333.md)
 
