@@ -24,7 +24,7 @@
 | [Jae Park](../../persons/jae_park/444bf.md) | 50+ | <i class="flag flag-US" /> | 4:26.20 | DNF | 🏆 x 33 | 🥇 x 36, 🥈 x 1, 🥉 x 1 | 💥 x 11, ⚡ x 11 |
 | [Javier Rossi](../../persons/javier_rossi/444bf.md) | 50+ | <i class="flag flag-AR" /> | 25:34.50 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 50+ | <i class="flag flag-SE" /> | 9:09.91 | DNF | 🏆 x 5 | 🥇 x 6, 🥈 x 7 | 💥 x 4, ⚡ x 4 |
-| [Yuichi Hamada](../../persons/yuichi_hamada/444bf.md) | 40+ | <i class="flag flag-JP" /> | 7:30.00 | DNF | 🏆 x 3 | 🥇 x 3, 🥈 x 2 | ⚡ x 2 |
+| [Yuichi Hamada](../../persons/yuichi_hamada/444bf.md) | 40+ | <i class="flag flag-JP" /> | 7:30.00 | DNF | 🏆 x 4 | 🥇 x 4, 🥈 x 2 | ⚡ x 2 |
 
 #### Under 40
 

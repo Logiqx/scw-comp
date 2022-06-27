@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-06-13](../../results/2022-06-13/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | <i class="flag flag-GB" /> | 2:58.52 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/JoCocco/videos/5680869055301805) / [Mobile](https://m.facebook.com/JoCocco/videos/5680869055301805) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 40+ | <i class="flag flag-US" /> | 4:14.05 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1292279001590904/permalink/1301322167353254) / [Mobile](https://m.facebook.com/events/1292279001590904?view=permalink&id=1301322167353254) |
+| 3 | [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:27.45 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/1292279001590904/permalink/1300187590800045) / [Mobile](https://m.facebook.com/events/1292279001590904?view=permalink&id=1300187590800045) |
+
 #### [2022-05-30](../../results/2022-05-30/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

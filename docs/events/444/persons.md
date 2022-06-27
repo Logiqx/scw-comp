@@ -18,7 +18,7 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/444.md) | 50+ | <i class="flag flag-GB" /> | 50.41 | 56.44 |  | 🥈 x 3 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | 50+ | <i class="flag flag-IT" /> | 56.70 | 1:03.64 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 |
-| [Dan Smith](../../persons/dan_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:05.61 | 1:16.68 |  | 🥇 x 7, 🥈 x 8, 🥉 x 12 | 💥 x 1, 🔥 x 11, ⚡ x 6 |
+| [Dan Smith](../../persons/dan_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:05.61 | 1:16.68 |  | 🥇 x 8, 🥈 x 8, 🥉 x 12 | 💥 x 1, 🔥 x 11, ⚡ x 6 |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | <i class="flag flag-US" /> | 4:08.00 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Jae Park](../../persons/jae_park/444.md) | 50+ | <i class="flag flag-US" /> | 1:59.01 | 2:07.71 |  | 🥉 x 1 | 🔥 x 7, ⚡ x 7 |
 | [John Neo Stanley](../../persons/john_neo_stanley/444.md) | 50+ | <i class="flag flag-GB" /> | 2:06.67 | 2:21.77 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -35,7 +35,7 @@
 | [Anthony Rochester](../../persons/anthony_rochester/444.md) | 40+ | <i class="flag flag-AU" /> | 1:13.54 | 1:25.19 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
 | [Chris Wright](../../persons/chris_wright/444.md) | 50+ | <i class="flag flag-GB" /> | 50.41 | 56.44 |  | 🥈 x 3 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | 50+ | <i class="flag flag-IT" /> | 56.70 | 1:03.64 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 |
-| [Dan Smith](../../persons/dan_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:05.61 | 1:16.68 |  | 🥇 x 7, 🥈 x 8, 🥉 x 12 | 💥 x 1, 🔥 x 11, ⚡ x 6 |
+| [Dan Smith](../../persons/dan_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:05.61 | 1:16.68 |  | 🥇 x 8, 🥈 x 8, 🥉 x 12 | 💥 x 1, 🔥 x 11, ⚡ x 6 |
 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 51.02 | 1:01.24 | 🏆 x 1 | 🥇 x 2, 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | <i class="flag flag-US" /> | 4:08.00 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Eric Dodson](../../persons/eric_dodson/444.md) | 40+ | <i class="flag flag-US" /> | 2:02.23 | 2:28.15 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 3 |
@@ -49,13 +49,13 @@
 | [Jang Junho (장준호)](../../persons/jang_junho/444.md) | 40+ | <i class="flag flag-KR" /> | 2:31.31 | 2:58.70 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jason Green](../../persons/jason_green/444.md) | 40+ | <i class="flag flag-US" /> | 1:06.29 | 1:14.80 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/444.md) | 40+ | <i class="flag flag-US" /> | 52.35 | 1:02.91 |  | 🥈 x 2, 🥉 x 7 | 🔥 x 2, ⚡ x 2 |
-| [Jo Cocco](../../persons/jo_cocco/444.md) | 40+ | <i class="flag flag-GB" /> | 1:56.07 | 2:13.69 |  |  | 🔥 x 4, ⚡ x 5 |
+| [Jo Cocco](../../persons/jo_cocco/444.md) | 40+ | <i class="flag flag-GB" /> | 1:53.09 | 1:58.15 |  | 🥉 x 1 | 🔥 x 5, ⚡ x 6 |
 | [John Neo Stanley](../../persons/john_neo_stanley/444.md) | 50+ | <i class="flag flag-GB" /> | 2:06.67 | 2:21.77 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/444.md) | 40+ | <i class="flag flag-US" /> | 3:13.21 | 3:38.78 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Kerry Go](../../persons/kerry_go/444.md) | 50+ | <i class="flag flag-US" /> | 1:40.14 | 1:41.66 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | <i class="flag flag-FI" /> | 44.69 | 49.90 | 🏆 x 19 | 🥇 x 26, 🥈 x 8, 🥉 x 2 | 🔥 x 7, ⚡ x 8 |
 | [Michael George](../../persons/michael_george/444.md) | 40+ | <i class="flag flag-GB" /> | 45.67 | 53.30 | 🏆 x 8 | 🥇 x 18, 🥈 x 3 | 💥 x 3, 🔥 x 2, ⚡ x 2 |
-| [Mickey Doyle](../../persons/mickey_doyle/444.md) | 40+ | <i class="flag flag-US" /> | 1:20.83 | 1:39.07 |  | 🥈 x 3, 🥉 x 7 | 🔥 x 3, ⚡ x 5 |
+| [Mickey Doyle](../../persons/mickey_doyle/444.md) | 40+ | <i class="flag flag-US" /> | 1:20.83 | 1:38.43 |  | 🥈 x 4, 🥉 x 7 | 🔥 x 4, ⚡ x 5 |
 | [Peter Douthwright](../../persons/peter_douthwright/444.md) | 50+ | <i class="flag flag-CA" /> | 2:20.53 | 2:42.21 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Rob Peters](../../persons/rob_peters/444.md) | 40+ | <i class="flag flag-US" /> | 53.64 | 1:01.01 |  | 🥈 x 4, 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
 | [Ron van Bruchem](../../persons/ron_van_bruchem/444.md) | 50+ | <i class="flag flag-NL" /> | 46.32 | 49.81 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
@@ -69,7 +69,7 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/444.md) | <40 | <i class="flag flag-GB" /> | 1:55.29 | 2:03.40 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Chris Hardwick](../../persons/chris_hardwick/444.md) | <40 | <i class="flag flag-US" /> | 1:04.26 | 1:14.74 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Chris Looney](../../persons/chris_looney/444.md) | <40 | <i class="flag flag-US" /> | 58.65 | 1:05.63 | 🏆 x 2 |  | 🔥 x 5, ⚡ x 4 |
+| [Chris Looney](../../persons/chris_looney/444.md) | <40 | <i class="flag flag-US" /> | 51.88 | 1:05.63 | 🏆 x 2 |  | 🔥 x 5, ⚡ x 5 |
 | [Chris Thames](../../persons/chris_thames/444.md) | <40 | <i class="flag flag-US" /> | 1:35.67 | 1:43.52 |  |  | 🔥 x 8, ⚡ x 9 |
 | [Ed Connell](../../persons/ed_connell/444.md) | <40 | <i class="flag flag-IE" /> | 51.95 | 1:03.98 | 🏆 x 1 |  | 🔥 x 4, ⚡ x 5 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) | <40 | <i class="flag flag-VE" /> | 43.94 | 51.91 | 🏆 x 11 |  | 🔥 x 4, ⚡ x 4 |
@@ -82,7 +82,7 @@
 | [Pete Lee](../../persons/pete_lee/444.md) | <40 | <i class="flag flag-GB" /> | 52.61 | 1:03.27 | 🏆 x 4 |  | 🔥 x 9, ⚡ x 9 |
 | [Peter Osudar](../../persons/peter_osudar/444.md) | <40 | <i class="flag flag-CA" /> | 1:29.48 | 1:35.22 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Scott Knight](../../persons/scott_knight/444.md) | <40 | <i class="flag flag-GB" /> | 1:33.19 | 1:40.28 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Shawn Boucké](../../persons/shawn_boucke/444.md) | <40 | <i class="flag flag-US" /> | 43.27 | 49.40 | 🏆 x 21 |  | 💥 x 1, 🔥 x 2, ⚡ x 7 |
+| [Shawn Boucké](../../persons/shawn_boucke/444.md) | <40 | <i class="flag flag-US" /> | 43.27 | 49.40 | 🏆 x 22 |  | 💥 x 1, 🔥 x 2, ⚡ x 7 |
 
 #### Under 30
 

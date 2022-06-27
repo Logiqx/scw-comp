@@ -19,7 +19,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333bf.md) | 40+ | <i class="flag flag-GB" /> | 2:00.58 | 2:24.45 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 1, ⚡ x 1 |
-| [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 46.00 | 1:13.66 | 🏆 x 9 | 🥇 x 10, 🥈 x 18, 🥉 x 8 | 🔥 x 2, ⚡ x 6 |
+| [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 46.00 | 1:13.66 | 🏆 x 10 | 🥇 x 11, 🥈 x 18, 🥉 x 8 | 🔥 x 2, ⚡ x 6 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | <i class="flag flag-PL" /> | 51.62 | 59.98 | 🏆 x 7 | 🥇 x 7, 🥈 x 11, 🥉 x 3 | 🔥 x 2, ⚡ x 5 |
 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | <i class="flag flag-CA" /> | 1:23.53 | 1:33.27 | 🏆 x 3 | 🥇 x 3, 🥈 x 15, 🥉 x 14 | 🔥 x 7, ⚡ x 6 |
 | [Jae Park](../../persons/jae_park/333bf.md) | 50+ | <i class="flag flag-US" /> | 37.19 | 48.04 | 🏆 x 47 | 🥇 x 50, 🥈 x 1 | 💥 x 12, 🔥 x 3, ⚡ x 10 |
@@ -40,7 +40,7 @@
 | [Adam Robson](../../persons/adam_robson/333bf.md) | <40 | <i class="flag flag-GB" /> | 3:38.95 | DNF |  |  | ⚡ x 1 |
 | [Brooke Persoon](../../persons/brooke_persoon/333bf.md) | <40 | <i class="flag flag-US" /> | 18:05.78 | DNF |  |  | ⚡ x 1 |
 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | <40 | <i class="flag flag-US" /> | 1:12.91 | 1:27.55 | 🏆 x 2 |  | 🔥 x 6, ⚡ x 6 |
-| [Ed Connell](../../persons/ed_connell/333bf.md) | <40 | <i class="flag flag-IE" /> | 2:00.37 | 2:59.59 | 🏆 x 5 |  | 🔥 x 3, ⚡ x 8 |
+| [Ed Connell](../../persons/ed_connell/333bf.md) | <40 | <i class="flag flag-IE" /> | 2:00.37 | 2:24.05 | 🏆 x 5 |  | 🔥 x 4, ⚡ x 8 |
 | [Go-ho Choi](../../persons/go_ho_choi/333bf.md) | <40 | <i class="flag flag-KR" /> | 2:22.99 | DNF |  |  | ⚡ x 1 |
 
 #### Under 30

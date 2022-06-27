@@ -18,7 +18,7 @@
 
 | # | Name | Date | Age | 🌍 | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- | :-- | :-- |
-| 1 | [Anthony Rochester](../../persons/anthony_rochester/333mbf.md) | [2022-03-07](../../results/2022-03-07/333mbf.md) | 40+ | <i class="flag flag-AU" /> | 14/17 in 51:13 | 🏆 x 13 | 🥇 x 13, 🥈 x 4, 🥉 x 2 | 💥 x 2, ⚡ x 7 | [Desktop](https://www.facebook.com/events/693355325171134/permalink/693820335124633) / [Mobile](https://m.facebook.com/events/693355325171134?view=permalink&id=693820335124633) |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/333mbf.md) | [2022-03-07](../../results/2022-03-07/333mbf.md) | 40+ | <i class="flag flag-AU" /> | 14/17 in 51:13 | 🏆 x 14 | 🥇 x 14, 🥈 x 4, 🥉 x 2 | 💥 x 2, ⚡ x 7 | [Desktop](https://www.facebook.com/events/693355325171134/permalink/693820335124633) / [Mobile](https://m.facebook.com/events/693355325171134?view=permalink&id=693820335124633) |
 | 2 | [Jae Park](../../persons/jae_park/333mbf.md) | [2021-04-05](../../results/2021-04-05/333mbf.md) | 50+ | <i class="flag flag-US" /> | 10/11 in 41:23 | 🏆 x 4 | 🥇 x 4, 🥈 x 3 | 💥 x 3, ⚡ x 3 | [Desktop](https://www.facebook.com/events/902189670577686/permalink/906789420117711) / [Mobile](https://m.facebook.com/events/902189670577686?view=permalink&id=906789420117711) |
 | 3 | [Yuichi Hamada](../../persons/yuichi_hamada/333mbf.md) | [2021-06-14](../../results/2021-06-14/333mbf.md) | 40+ | <i class="flag flag-JP" /> | 10/11 in 55:24 | 🏆 x 4 | 🥇 x 4, 🥈 x 1 | ⚡ x 2 | [Desktop](https://www.facebook.com/events/1486483778369091/permalink/1490555891295213) / [Mobile](https://m.facebook.com/events/1486483778369091?view=permalink&id=1490555891295213) |
 | 4 | [Peter Andersson](../../persons/peter_andersson/333mbf.md) | [2022-04-18](../../results/2022-04-18/333mbf.md) | 50+ | <i class="flag flag-SE" /> | 9/11 in 59:19 | 🏆 x 3 | 🥇 x 3, 🥈 x 2, 🥉 x 1 | ⚡ x 2 | [Desktop](https://www.facebook.com/events/564968054789422/permalink/567026547916906) / [Mobile](https://m.facebook.com/events/564968054789422?view=permalink&id=567026547916906) |
@@ -31,7 +31,7 @@
 
 | # | Name | Date | Age | 🌍 | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- | :-- | :-- |
-| 1 | [Ed Connell](../../persons/ed_connell/333mbf.md) | [2021-05-31](../../results/2021-05-31/333mbf.md) | <40 | <i class="flag flag-IE" /> | 3/3 in 17:09 |  |  | ⚡ x 2 | [Desktop](https://www.facebook.com/events/309278524127030/permalink/312482883806594) / [Mobile](https://m.facebook.com/events/309278524127030?view=permalink&id=312482883806594) |
+| 1 | [Ed Connell](../../persons/ed_connell/333mbf.md) | [2022-06-13](../../results/2022-06-13/333mbf.md) | <40 | <i class="flag flag-IE" /> | 3/3 in 14:45 |  |  | ⚡ x 3 | [Desktop](https://www.facebook.com/events/1178827662661240/permalink/1183083888902284) / [Mobile](https://m.facebook.com/events/1178827662661240?view=permalink&id=1183083888902284) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

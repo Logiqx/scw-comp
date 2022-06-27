@@ -16,7 +16,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Dan Smith](../../persons/dan_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 19.26 | 21.89 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 3 | 🔥 x 4, ⚡ x 4 |
+| [Dan Smith](../../persons/dan_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 19.26 | 21.89 | 🏆 x 2 | 🥇 x 2, 🥈 x 2, 🥉 x 3 | 🔥 x 4, ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/clock.md) | 50+ | <i class="flag flag-US" /> | 24.69 | 31.52 |  | 🥈 x 4, 🥉 x 7 | 🔥 x 7, ⚡ x 7 |
 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 10.72 | 11.35 | 🏆 x 10 | 🥇 x 19, 🥈 x 17, 🥉 x 3 | 💥 x 25, 🔥 x 15, ⚡ x 20 |
 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | <i class="flag flag-SE" /> | 17.75 | 23.28 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 5, ⚡ x 4 |
@@ -29,7 +29,7 @@
 | [Aaron Cumes](../../persons/aaron_cumes/clock.md) | 40+ | <i class="flag flag-GB" /> | 26.22 | 32.71 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | <i class="flag flag-GB" /> | 12.02 | 13.12 | 🏆 x 4 | 🥇 x 4, 🥈 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 2 |
 | [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | <i class="flag flag-AU" /> | 11.14 | 13.06 | 🏆 x 2 | 🥇 x 8, 🥈 x 8, 🥉 x 3 | 🔥 x 7, ⚡ x 12 |
-| [Dan Smith](../../persons/dan_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 19.26 | 21.89 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 3 | 🔥 x 4, ⚡ x 4 |
+| [Dan Smith](../../persons/dan_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 19.26 | 21.89 | 🏆 x 2 | 🥇 x 2, 🥈 x 2, 🥉 x 3 | 🔥 x 4, ⚡ x 4 |
 | [Denis Reimer](../../persons/denis_reimer/clock.md) | 40+ | <i class="flag flag-CA" /> | 17.23 | 21.16 | 🏆 x 1 | 🥇 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Eric Dodson](../../persons/eric_dodson/clock.md) | 40+ | <i class="flag flag-US" /> | 18.63 | 22.71 | 🏆 x 3 | 🥇 x 3, 🥈 x 2 | 🔥 x 3, ⚡ x 2 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/clock.md) | 40+ | <i class="flag flag-JP" /> | 9.45 | 11.24 | 🏆 x 10 | 🥇 x 24 | 💥 x 5, 🔥 x 6, ⚡ x 4 |

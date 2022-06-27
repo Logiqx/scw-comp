@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-06-13](../../results/2022-06-13/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/skewb.md) | 40+ | <i class="flag flag-AU" /> | 10.05 | 11.72 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1002774037090769/permalink/1005350270166479) / [Mobile](https://m.facebook.com/events/1002774037090769?view=permalink&id=1005350270166479) |
+| 2 | [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 14.16 | 16.89 | 🥈 | [Desktop](https://www.facebook.com/events/1002774037090769/permalink/1010075526360620) / [Mobile](https://m.facebook.com/events/1002774037090769?view=permalink&id=1010075526360620) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 18.58 | 23.63 | 🥉 | [Desktop](https://www.facebook.com/events/1002774037090769/permalink/1011398292895010) / [Mobile](https://m.facebook.com/events/1002774037090769?view=permalink&id=1011398292895010) |
+
 #### [2022-05-30](../../results/2022-05-30/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
