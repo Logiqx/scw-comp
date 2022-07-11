@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-06-27](../../results/2022-06-27/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Eric Dodson](../../persons/eric_dodson/clock.md) | 40+ | <i class="flag flag-US" /> | 12.06 | 21.94 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/3239186643032731/permalink/3250246431926752) / [Mobile](https://m.facebook.com/events/3239186643032731?view=permalink&id=3250246431926752) |
+
 #### [2022-06-13](../../results/2022-06-13/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

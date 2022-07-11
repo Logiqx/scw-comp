@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-06-27](../../results/2022-06-27/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Eric Dodson](../../persons/eric_dodson/skewb.md) | 40+ | <i class="flag flag-US" /> | 10.74 | 11.99 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3239186643032731/permalink/3250314118586650) / [Mobile](https://m.facebook.com/events/3239186643032731?view=permalink&id=3250314118586650) |
+| 2 | [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 15.71 | 18.93 | 🥈 | [Desktop](https://www.facebook.com/events/3239186643032731/permalink/3249715401979855) / [Mobile](https://m.facebook.com/events/3239186643032731?view=permalink&id=3249715401979855) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/skewb.md) | 40+ | <i class="flag flag-US" /> | 13.15 | 23.09 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/3239186643032731/permalink/3250341398583922) / [Mobile](https://m.facebook.com/events/3239186643032731?view=permalink&id=3250341398583922) |
+
 #### [2022-06-13](../../results/2022-06-13/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

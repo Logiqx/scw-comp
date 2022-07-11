@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-06-27](../../results/2022-06-27/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Jo Cocco](../../persons/jo_cocco/333oh.md) | 40+ | <i class="flag flag-GB" /> | 1:02.55 | 1:20.06 | 🥇 ⚡ | [Desktop](https://www.facebook.com/JoCocco/videos/1418846161926841) / [Mobile](https://m.facebook.com/JoCocco/videos/1418846161926841) |
+
 #### [2022-06-13](../../results/2022-06-13/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Jo Cocco](README.md)
+### [Jo Cocco](README.md) - [2022COCC01](https://www.worldcubeassociation.org/persons/2022COCC01?event=minx)
 
 <i class="flag flag-GB" />&nbsp;United Kingdom
 
@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-06-27](../../results/2022-06-27/minx.md) | 40+ | 2:52.59 | DNF | 🥈 | 3:56.15 | 2:52.59 | DNF | DNS | DNS | [Desktop](https://www.facebook.com/JoCocco/videos/705533223882813) / [Mobile](https://m.facebook.com/JoCocco/videos/705533223882813) |
 | [2022-06-13](../../results/2022-06-13/minx.md) | 40+ | 2:58.52 | DNF | 🏆 🥇 | 3:45.57 | 2:58.52 | DNS | DNS | DNS | [Desktop](https://www.facebook.com/JoCocco/videos/5680869055301805) / [Mobile](https://m.facebook.com/JoCocco/videos/5680869055301805) |
 | [2021-08-23](../../results/2021-08-23/minx.md) | 40+ | **2:37.06** | 2:49.84 | ⚡ | 2:52.12 | 3:00.34 | **2:37.06** | DNS | DNS | [Desktop](https://www.facebook.com/JoCocco/videos/197391459121462) / [Mobile](https://m.facebook.com/JoCocco/videos/197391459121462) |
 | [2021-08-09](../../results/2021-08-09/minx.md) | 40+ | **2:43.87** | **2:48.89** | 🥈 🔥 ⚡ | **2:43.87** | 2:51.34 | 2:51.46 | DNS | DNS | [Desktop](https://www.facebook.com/JoCocco/videos/373801871032976) / [Mobile](https://m.facebook.com/JoCocco/videos/373801871032976) |

@@ -19,7 +19,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333bf.md) | 40+ | <i class="flag flag-GB" /> | 2:00.58 | 2:24.45 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 1, ⚡ x 1 |
-| [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 46.00 | 1:13.66 | 🏆 x 10 | 🥇 x 11, 🥈 x 18, 🥉 x 8 | 🔥 x 2, ⚡ x 6 |
+| [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 46.00 | 1:13.66 | 🏆 x 11 | 🥇 x 12, 🥈 x 18, 🥉 x 8 | 🔥 x 2, ⚡ x 6 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | <i class="flag flag-PL" /> | 51.62 | 59.98 | 🏆 x 7 | 🥇 x 7, 🥈 x 11, 🥉 x 3 | 🔥 x 2, ⚡ x 5 |
 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | <i class="flag flag-CA" /> | 1:23.53 | 1:33.27 | 🏆 x 3 | 🥇 x 3, 🥈 x 15, 🥉 x 14 | 🔥 x 7, ⚡ x 6 |
 | [Jae Park](../../persons/jae_park/333bf.md) | 50+ | <i class="flag flag-US" /> | 37.19 | 48.04 | 🏆 x 47 | 🥇 x 50, 🥈 x 1 | 💥 x 12, 🔥 x 3, ⚡ x 10 |

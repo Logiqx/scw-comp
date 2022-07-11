@@ -27,6 +27,7 @@
 | [Aaron Cumes](../../persons/aaron_cumes/777.md) | 40+ | <i class="flag flag-GB" /> | 7:39.02 | DNF |  | 🥇 x 1, 🥈 x 1, 🥉 x 6 | ⚡ x 5 |
 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | 40+ | <i class="flag flag-GB" /> | 4:58.23 | 5:24.33 | 🏆 x 12 | 🥇 x 12, 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/777.md) | 50+ | <i class="flag flag-GB" /> | 4:55.42 | 5:05.66 |  | 🥈 x 2 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
+| [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 6:08.86 | 6:19.35 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | <i class="flag flag-US" /> | 15:59.23 | DNF |  | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | <i class="flag flag-JP" /> | 3:58.92 | 4:11.37 | 🏆 x 24 | 🥇 x 24 | 💥 x 6, 🔥 x 3, ⚡ x 5 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | <i class="flag flag-GB" /> | 4:49.30 | 5:07.54 | 🏆 x 18 | 🥇 x 20, 🥈 x 28 | 🔥 x 8, ⚡ x 7 |
