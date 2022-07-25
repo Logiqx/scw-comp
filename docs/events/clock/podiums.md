@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-07-11](../../results/2022-07-11/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Eric Dodson](../../persons/eric_dodson/clock.md) | 40+ | <i class="flag flag-US" /> | 12.64 | 15.17 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/1077792383124606/permalink/1082398655997312) / [Mobile](https://m.facebook.com/events/1077792383124606?view=permalink&id=1082398655997312) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 40+ | <i class="flag flag-US" /> | 44.54 | 58.44 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1077792383124606/permalink/1086861688884342) / [Mobile](https://m.facebook.com/events/1077792383124606?view=permalink&id=1086861688884342) |
+
 #### [2022-06-27](../../results/2022-06-27/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

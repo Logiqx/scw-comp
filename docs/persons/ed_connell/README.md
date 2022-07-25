@@ -12,7 +12,7 @@
 
 | Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
-| [3x3x3](333.md) | 12.00 | 14.70 | 🏆 x 5 | 🔥 x 9, ⚡ x 3 |
+| [3x3x3](333.md) | 12.00 | 14.70 | 🏆 x 6 | 🔥 x 9, ⚡ x 3 |
 | [2x2x2](222.md) | 2.74 | 5.47 | 🏆 x 1 | 💥 x 1, 🔥 x 6, ⚡ x 4 |
 | [4x4x4](444.md) | 51.95 | 1:03.98 | 🏆 x 1 | 🔥 x 4, ⚡ x 5 |
 | [5x5x5](555.md) | 2:03.47 | 2:17.21 |  | 🔥 x 5, ⚡ x 6 |
@@ -27,7 +27,7 @@
 | [3x3x3 BLD](333bf.md) | 2:00.37 | 2:24.05 | 🏆 x 5 | 🔥 x 4, ⚡ x 8 |
 | [4x4x4 BLD](444bf.md) | 20:04.82 | - |  | ⚡ x 1 |
 | [3x3x3 MBLD](333mbf.md) | 3/3 in 14:45 | - |  | ⚡ x 3 |
-| [3x3x3 FMC](333fm.md) | 27 | 30.33 | 🏆 x 3 | 🔥 x 1, ⚡ x 5 |
+| [3x3x3 FMC](333fm.md) | 27 | 30.33 | 🏆 x 4 | 🔥 x 1, ⚡ x 5 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

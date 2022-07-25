@@ -51,7 +51,7 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/333oh.md) | <40 | <i class="flag flag-GB" /> | 1:44.18 | 1:52.11 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Alex Friedman](../../persons/alex_friedman/333oh.md) | <40 | <i class="flag flag-IL" /> | 19.20 | 22.99 | 🏆 x 1 |  | 🔥 x 5, ⚡ x 5 |
-| [Chris Looney](../../persons/chris_looney/333oh.md) | <40 | <i class="flag flag-US" /> | 32.83 | 45.58 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 3 |
+| [Chris Looney](../../persons/chris_looney/333oh.md) | <40 | <i class="flag flag-US" /> | 32.83 | 45.58 | 🏆 x 2 |  | 🔥 x 3, ⚡ x 3 |
 | [Chris Thames](../../persons/chris_thames/333oh.md) | <40 | <i class="flag flag-US" /> | 1:06.23 | 1:14.05 |  |  | 🔥 x 5, ⚡ x 4 |
 | [Ed Connell](../../persons/ed_connell/333oh.md) | <40 | <i class="flag flag-IE" /> | 21.93 | 27.55 | 🏆 x 8 |  | 🔥 x 7, ⚡ x 2 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333oh.md) | <40 | <i class="flag flag-VE" /> | 26.22 | 30.38 |  |  | 🔥 x 3, ⚡ x 1 |

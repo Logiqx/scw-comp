@@ -10,8 +10,8 @@
 
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
-| [3x3x3](333.md) | 23.05 | 26.82 | 🥉 x 1 | 🔥 x 2, ⚡ x 1 |
-| [Pyraminx](pyram.md) | 22.02 | 34.23 | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
+| [3x3x3](333.md) | 21.86 | 26.64 | 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
+| [Pyraminx](pyram.md) | 15.10 | 20.88 | 🥉 x 2 | 🔥 x 2, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

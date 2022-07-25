@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-07-11](../../results/2022-07-11/skewb.md) | 50+ | 16.19 | 19.41 | 🥈 | 19.13 | 18.45 | 20.65 | 32.95 | 16.19 | [Desktop](https://www.facebook.com/events/1077792383124606/permalink/1086758255561352) / [Mobile](https://m.facebook.com/events/1077792383124606?view=permalink&id=1086758255561352) |
 | [2022-06-27](../../results/2022-06-27/skewb.md) | 50+ | 15.71 | 18.93 | 🥈 | 21.04 | 15.71 | 21.15 | 17.45 | 18.31 | [Desktop](https://www.facebook.com/events/3239186643032731/permalink/3249715401979855) / [Mobile](https://m.facebook.com/events/3239186643032731?view=permalink&id=3249715401979855) |
 | [2022-06-13](../../results/2022-06-13/skewb.md) | 50+ | 14.16 | 16.89 | 🥈 | 16.70 | 23.93 | 18.79 | 15.19 | 14.16 | [Desktop](https://www.facebook.com/events/1002774037090769/permalink/1010075526360620) / [Mobile](https://m.facebook.com/events/1002774037090769?view=permalink&id=1010075526360620) |
 | [2022-05-30](../../results/2022-05-30/skewb.md) | 50+ | 14.53 | 18.64 | 🏆 🥇 | 20.14 | 15.16 | 39.06 | 14.53 | 20.63 | [Desktop](https://www.facebook.com/events/484172023479011/permalink/492589625970584) / [Mobile](https://m.facebook.com/events/484172023479011?view=permalink&id=492589625970584) |

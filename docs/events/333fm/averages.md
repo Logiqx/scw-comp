@@ -28,7 +28,7 @@
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Solution |
 | :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- | :-- | :-- |
 | 1 | [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | [2021-03-22](../../results/2021-03-22/333fm.md) | <40 | <i class="flag flag-US" /> | 27.33 | 🏆 x 27 |  | 💥 x 1, 🔥 x 2, ⚡ x 8 | [Desktop](https://www.facebook.com/events/3984414398292690/permalink/3989367547797375) / [Mobile](https://m.facebook.com/events/3984414398292690?view=permalink&id=3989367547797375) |
-| 2 | [Ed Connell](../../persons/ed_connell/333fm.md) | [2022-06-27](../../results/2022-06-27/333fm.md) | <40 | <i class="flag flag-IE" /> | 30.33 | 🏆 x 3 |  | 🔥 x 1, ⚡ x 5 | [Desktop](https://www.facebook.com/events/1888546438002221/permalink/1895097837347081) / [Mobile](https://m.facebook.com/events/1888546438002221?view=permalink&id=1895097837347081) |
+| 2 | [Ed Connell](../../persons/ed_connell/333fm.md) | [2022-06-27](../../results/2022-06-27/333fm.md) | <40 | <i class="flag flag-IE" /> | 30.33 | 🏆 x 4 |  | 🔥 x 1, ⚡ x 5 | [Desktop](https://www.facebook.com/events/1888546438002221/permalink/1895097837347081) / [Mobile](https://m.facebook.com/events/1888546438002221?view=permalink&id=1895097837347081) |
 | 3 | [Chris Thames](../../persons/chris_thames/333fm.md) | [2021-09-20](../../results/2021-09-20/333fm.md) | <40 | <i class="flag flag-US" /> | 66.33 |  |  | 🔥 x 1, ⚡ x 4 | [Desktop](https://www.facebook.com/events/209362497846754/permalink/214053557377648) / [Mobile](https://m.facebook.com/events/209362497846754?view=permalink&id=214053557377648) |
 
 

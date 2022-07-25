@@ -41,7 +41,7 @@
 | [Kerry Go](../../persons/kerry_go/666.md) | 50+ | <i class="flag flag-US" /> | 6:34.83 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | <i class="flag flag-FI" /> | 2:59.31 | 3:18.51 | 🏆 x 2 | 🥇 x 4, 🥈 x 7 | 🔥 x 7, ⚡ x 5 |
 | [Michael George](../../persons/michael_george/666.md) | 40+ | <i class="flag flag-GB" /> | 4:37.39 | DNF |  | 🥉 x 4 | ⚡ x 7 |
-| [Mickey Doyle](../../persons/mickey_doyle/666.md) | 40+ | <i class="flag flag-US" /> | 7:23.71 | DNF |  | 🥇 x 1, 🥈 x 1 | ⚡ x 2 |
+| [Mickey Doyle](../../persons/mickey_doyle/666.md) | 40+ | <i class="flag flag-US" /> | 7:23.71 | DNF |  | 🥇 x 2, 🥈 x 1 | ⚡ x 2 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) | 40+ | <i class="flag flag-TW" /> | 4:29.50 | 4:50.97 |  | 🥇 x 2, 🥈 x 1, 🥉 x 6 | 🔥 x 1, ⚡ x 7 |
 
 #### Under 40
@@ -49,7 +49,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/666.md) | <40 | <i class="flag flag-GB" /> | 9:15.97 | DNF |  |  | ⚡ x 1 |
-| [Chris Looney](../../persons/chris_looney/666.md) | <40 | <i class="flag flag-US" /> | 3:52.44 | 4:13.10 | 🏆 x 3 |  | 🔥 x 1, ⚡ x 4 |
+| [Chris Looney](../../persons/chris_looney/666.md) | <40 | <i class="flag flag-US" /> | 3:52.44 | 4:13.10 | 🏆 x 4 |  | 🔥 x 1, ⚡ x 4 |
 | [Chris Thames](../../persons/chris_thames/666.md) | <40 | <i class="flag flag-US" /> | 9:58.46 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/666.md) | <40 | <i class="flag flag-IE" /> | 5:56.45 | DNF |  |  | ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | <40 | <i class="flag flag-VE" /> | 3:03.79 | 3:19.74 | 🏆 x 18 |  | 🔥 x 10, ⚡ x 9 |
