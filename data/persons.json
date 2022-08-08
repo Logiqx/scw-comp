@@ -25,6 +25,12 @@
     "id": 86,
     "wcaId": "2010SHEF01"
   },
+  "Andrea Doerner": {
+    "age": "40+",
+    "country": "???",
+    "id": 106,
+    "wcaId": "2020DOER01"
+  },
   "Andy Nicholls": {
     "age": "40+",
     "aliases": [
@@ -263,6 +269,11 @@
     "country": "United Kingdom",
     "id": 1,
     "wcaId": "2018ADAM11"
+  },
+  "Jalmari Raippalinna": {
+    "age": "40+",
+    "country": "???",
+    "id": 105
   },
   "Jamie Brady (Deansie)": {
     "age": "40+",

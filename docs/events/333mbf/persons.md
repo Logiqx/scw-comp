@@ -19,7 +19,7 @@
 | Name | Age | 🌍 | Single | Cups | Medals | Achievements |
 | :-- | :--: | :--: | :--: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333mbf.md) | 40+ | <i class="flag flag-GB" /> | 4/6 in 56:43 |  |  | ⚡ x 1 |
-| [Anthony Rochester](../../persons/anthony_rochester/333mbf.md) | 40+ | <i class="flag flag-AU" /> | 14/17 in 51:13 | 🏆 x 16 | 🥇 x 16, 🥈 x 4, 🥉 x 2 | 💥 x 2, ⚡ x 7 |
+| [Anthony Rochester](../../persons/anthony_rochester/333mbf.md) | 40+ | <i class="flag flag-AU" /> | 14/17 in 51:13 | 🏆 x 17 | 🥇 x 17, 🥈 x 4, 🥉 x 2 | 💥 x 2, ⚡ x 7 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333mbf.md) | 40+ | <i class="flag flag-PL" /> | 2/2 in 8:34 |  | 🥈 x 1 | ⚡ x 1 |
 | [Huy Nguyen](../../persons/huy_nguyen/333mbf.md) | 40+ | <i class="flag flag-CA" /> | 5/5 in 27:19 |  | 🥈 x 2, 🥉 x 3 | ⚡ x 2 |
 | [Jae Park](../../persons/jae_park/333mbf.md) | 50+ | <i class="flag flag-US" /> | 10/11 in 41:23 | 🏆 x 4 | 🥇 x 4, 🥈 x 3 | 💥 x 3, ⚡ x 3 |

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-07-25](../../results/2022-07-25/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Andrea Doerner](../../persons/andrea_doerner/skewb.md) | 40+ | | 9.75 | 12.59 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/andrea.doerner.146/videos/402257371775203) / [Mobile](https://m.facebook.com/andrea.doerner.146/videos/402257371775203) |
+| 2 | [Anthony Rochester](../../persons/anthony_rochester/skewb.md) | 40+ | <i class="flag flag-AU" /> | 7.83 | 13.12 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/587016656266234/permalink/590926939208539) / [Mobile](https://m.facebook.com/events/587016656266234?view=permalink&id=590926939208539) |
+| 3 | [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 12.76 | 16.01 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/587016656266234/permalink/594322492202317) / [Mobile](https://m.facebook.com/events/587016656266234?view=permalink&id=594322492202317) |
+
 #### [2022-07-11](../../results/2022-07-11/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

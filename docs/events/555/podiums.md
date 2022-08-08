@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-07-25](../../results/2022-07-25/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:37.01 | 2:50.09 | 🥇 | [Desktop](https://www.facebook.com/events/1016110945736319/permalink/1023285925018821) / [Mobile](https://m.facebook.com/events/1016110945736319?view=permalink&id=1023285925018821) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/555.md) | 40+ | <i class="flag flag-US" /> | 3:47.37 | 3:58.44 | 🥈 | [Desktop](https://www.facebook.com/events/1016110945736319/permalink/1024584464888967) / [Mobile](https://m.facebook.com/events/1016110945736319?view=permalink&id=1024584464888967) |
+| 3 | [Jo Cocco](../../persons/jo_cocco/555.md) | 40+ | <i class="flag flag-GB" /> | 3:41.43 | 4:22.71 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/JoCocco/videos/1002030337136099) / [Mobile](https://m.facebook.com/JoCocco/videos/1002030337136099) |
+
 #### [2022-07-11](../../results/2022-07-11/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

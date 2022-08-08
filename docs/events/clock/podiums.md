@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-07-25](../../results/2022-07-25/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 40+ | <i class="flag flag-US" /> | 45.03 | 49.29 | 🥇 🔥 | [Desktop](https://www.facebook.com/events/587016656266234/permalink/595595248741708) / [Mobile](https://m.facebook.com/events/587016656266234?view=permalink&id=595595248741708) |
+
 #### [2022-07-11](../../results/2022-07-11/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-07-25](../../results/2022-07-25/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 16.77 | 17.73 | 🥇 🔥 | [Desktop](https://www.facebook.com/520891933/videos/5089007474541942) / [Mobile](https://m.facebook.com/520891933/videos/5089007474541942) |
+| 2 | [Rodney Gardner](../../persons/rodney_gardner/333.md) | 50+ | <i class="flag flag-US" /> | 18.72 | 20.26 | 🥈 | [Desktop](https://www.facebook.com/events/735191414262810/permalink/741729743608977) / [Mobile](https://m.facebook.com/events/735191414262810?view=permalink&id=741729743608977) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/333.md) | 40+ | <i class="flag flag-AU" /> | 17.63 | 23.36 | 🥉 | [Desktop](https://www.facebook.com/events/735191414262810/permalink/738997147215570) / [Mobile](https://m.facebook.com/events/735191414262810?view=permalink&id=738997147215570) |
+
 #### [2022-07-11](../../results/2022-07-11/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
