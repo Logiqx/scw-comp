@@ -8,12 +8,12 @@
 
 ![Yuichi Hamada](1560444984.jpg)
 
-<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3 BLD](333bf.md) | 2:21.37 | - |  | 🥉 x 1 | ⚡ x 1 |
-| [4x4x4 BLD](444bf.md) | 7:30.00 | - | 🏆 x 5 | 🥇 x 5, 🥈 x 2 | ⚡ x 2 |
+| [4x4x4 BLD](444bf.md) | 7:30.00 | 10:06.86 | 🏆 x 6 | 🥇 x 6, 🥈 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 2 |
 | [5x5x5 BLD](555bf.md) | - | - |  |  |  |
 | [3x3x3 MBLD](333mbf.md) | 10/11 in 55:24 | - | 🏆 x 4 | 🥇 x 4, 🥈 x 1 | ⚡ x 2 |
 

@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### Over 40
+
+| # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
+| :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
+| 1 | [Yuichi Hamada](../../persons/yuichi_hamada/444bf.md) | [2022-08-08](../../results/2022-08-08/444bf.md) | 40+ | <i class="flag flag-JP" /> | 10:06.86 | 🏆 x 6 | 🥇 x 6, 🥈 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/1849183990/videos/1756210731397461) / [Mobile](https://m.facebook.com/1849183990/videos/1756210731397461) |
+
 #### Under 40
 
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |

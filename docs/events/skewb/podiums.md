@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-08-08](../../results/2022-08-08/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/skewb.md) | 40+ | <i class="flag flag-AU" /> | 8.06 | 9.23 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/1202320373645710/permalink/1204742810070133) / [Mobile](https://m.facebook.com/events/1202320373645710?view=permalink&id=1204742810070133) |
+| 2 | [Eric Dodson](../../persons/eric_dodson/skewb.md) | 40+ | <i class="flag flag-US" /> | 7.58 | 10.35 | 🥈 | [Desktop](https://www.facebook.com/events/1202320373645710/permalink/1211222746088806) / [Mobile](https://m.facebook.com/events/1202320373645710?view=permalink&id=1211222746088806) |
+| 3 | [Andrea Doerner](../../persons/andrea_doerner/skewb.md) | 40+ | | 8.96 | 11.49 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/andrea.doerner.146/videos/1428521347661542) / [Mobile](https://m.facebook.com/andrea.doerner.146/videos/1428521347661542) |
+
 #### [2022-07-25](../../results/2022-07-25/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

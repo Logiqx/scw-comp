@@ -350,6 +350,11 @@
     "skipDraw": "2020-08-18",
     "wcaId": "2022STAN01"
   },
+  "Jon McClay": {
+    "age": "<40",
+    "country": "???",
+    "id": 107
+  },
   "Jonathan Charlesworth": {
     "age": "<20",
     "avatar": "1610366301.png",
@@ -394,6 +399,12 @@
     "country": "Finland",
     "id": 82,
     "wcaId": "2008JUKK01"
+  },
+  "Lee Acacio": {
+    "age": "40+",
+    "country": "???",
+    "id": 108,
+    "wcaId": "2022ACAC01"
   },
   "Leo Arroyo": {
     "age": "40+",

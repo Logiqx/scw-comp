@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-08-08](../../results/2022-08-08/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 17.72 | 22.85 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1202320373645710/permalink/1204543590090055) / [Mobile](https://m.facebook.com/events/1202320373645710?view=permalink&id=1204543590090055) |
+| 2 | [Eric Dodson](../../persons/eric_dodson/sq1.md) | 40+ | <i class="flag flag-US" /> | 38.55 | 42.77 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1202320373645710/permalink/1210586729485741) / [Mobile](https://m.facebook.com/events/1202320373645710?view=permalink&id=1210586729485741) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/sq1.md) | 40+ | <i class="flag flag-AU" /> | 38.90 | 46.56 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/1202320373645710/permalink/1204740723403675) / [Mobile](https://m.facebook.com/events/1202320373645710?view=permalink&id=1204740723403675) |
+
 #### [2022-07-25](../../results/2022-07-25/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

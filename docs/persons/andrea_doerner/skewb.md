@@ -10,6 +10,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-08-08](../../results/2022-08-08/skewb.md) | 40+ | **8.96** | **11.49** | 🥉 🔥 ⚡ | **8.96** | 9.92 | 11.09 | 13.46 | 15.99 | [Desktop](https://www.facebook.com/andrea.doerner.146/videos/1428521347661542) / [Mobile](https://m.facebook.com/andrea.doerner.146/videos/1428521347661542) |
 | [2022-07-25](../../results/2022-07-25/skewb.md) | 40+ | **9.75** | **12.59** | 🥇 🔥 ⚡ | 14.16 | 11.32 | 17.42 | 12.28 | **9.75** | [Desktop](https://www.facebook.com/andrea.doerner.146/videos/402257371775203) / [Mobile](https://m.facebook.com/andrea.doerner.146/videos/402257371775203) |
 
 

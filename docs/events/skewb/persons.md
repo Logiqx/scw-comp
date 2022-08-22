@@ -16,7 +16,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 5.78 | 16.01 | 🏆 x 1 | 🥇 x 1, 🥈 x 5, 🥉 x 4 | 💥 x 1, 🔥 x 5, ⚡ x 3 |
+| [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 5.78 | 15.48 | 🏆 x 1 | 🥇 x 1, 🥈 x 5, 🥉 x 4 | 💥 x 1, 🔥 x 6, ⚡ x 3 |
 | [Jae Park](../../persons/jae_park/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.94 | 34.95 |  | 🥇 x 1, 🥈 x 9 | 💥 x 4, 🔥 x 6, ⚡ x 6 |
 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 8.24 | 14.42 | 🏆 x 5 | 🥇 x 7, 🥈 x 5, 🥉 x 4 | 💥 x 6, 🔥 x 6, ⚡ x 4 |
 | [Peter Douthwright](../../persons/peter_douthwright/skewb.md) | 60+ | <i class="flag flag-CA" /> | 15.41 | 26.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
@@ -26,10 +26,10 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | 40+ | <i class="flag flag-GB" /> | 14.77 | 18.74 |  | 🥈 x 4 | 🔥 x 4, ⚡ x 2 |
-| [Andrea Doerner](../../persons/andrea_doerner/skewb.md) | 40+ | | 9.75 | 12.59 |  | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Anthony Rochester](../../persons/anthony_rochester/skewb.md) | 40+ | <i class="flag flag-AU" /> | 7.83 | 11.72 | 🏆 x 2 | 🥇 x 4, 🥈 x 3 | 🔥 x 5, ⚡ x 5 |
-| [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 5.78 | 16.01 | 🏆 x 1 | 🥇 x 1, 🥈 x 5, 🥉 x 4 | 💥 x 1, 🔥 x 5, ⚡ x 3 |
-| [Eric Dodson](../../persons/eric_dodson/skewb.md) | 40+ | <i class="flag flag-US" /> | 4.34 | 10.22 | 🏆 x 10 | 🥇 x 12, 🥈 x 1, 🥉 x 1 | 🔥 x 6, ⚡ x 4 |
+| [Andrea Doerner](../../persons/andrea_doerner/skewb.md) | 40+ | | 8.96 | 11.49 |  | 🥇 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
+| [Anthony Rochester](../../persons/anthony_rochester/skewb.md) | 40+ | <i class="flag flag-AU" /> | 7.83 | 9.23 | 🏆 x 3 | 🥇 x 5, 🥈 x 3 | 🔥 x 6, ⚡ x 5 |
+| [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 5.78 | 15.48 | 🏆 x 1 | 🥇 x 1, 🥈 x 5, 🥉 x 4 | 💥 x 1, 🔥 x 6, ⚡ x 3 |
+| [Eric Dodson](../../persons/eric_dodson/skewb.md) | 40+ | <i class="flag flag-US" /> | 4.34 | 10.22 | 🏆 x 10 | 🥇 x 12, 🥈 x 2, 🥉 x 1 | 🔥 x 6, ⚡ x 4 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | <i class="flag flag-JP" /> | 3.23 | 6.30 | 🏆 x 24 | 🥇 x 24 | 💥 x 6, 🔥 x 6, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/skewb.md) | 40+ | <i class="flag flag-KR" /> | 8.56 | 12.35 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/skewb.md) | 40+ | <i class="flag flag-PL" /> | 7.88 | 12.16 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
