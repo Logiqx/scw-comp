@@ -10,10 +10,11 @@
 
 #### Megaminx Results
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-08-08](../../results/2022-08-08/minx.md) | <40 | 3:30.95 | DNF | 🏆 | 3:30.95 | 3:44.23 | DNS | DNS | DNS | [Desktop](https://www.facebook.com/events/825089031814345/permalink/828351328154782) / [Mobile](https://m.facebook.com/events/825089031814345?view=permalink&id=828351328154782) |
 | [2020-05-26](../../results/2020-05-26/minx.md) | <40 | **3:24.48** | DNF | ⚡ | 3:30.53 | **3:24.48** | DNS | DNS | DNS | [Desktop](https://www.facebook.com/events/688407551989463/permalink/691174248379460) / [Mobile](https://m.facebook.com/events/688407551989463?view=permalink&id=691174248379460) |
 
 

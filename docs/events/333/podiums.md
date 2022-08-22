@@ -10,7 +10,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 14.16 | 18.58 | 🏆 🥇 | [Desktop](https://www.facebook.com/520891933/videos/609258353944624) / [Mobile](https://m.facebook.com/520891933/videos/609258353944624) |
+| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 14.16 | 18.58 | 🥇 | [Desktop](https://www.facebook.com/520891933/videos/609258353944624) / [Mobile](https://m.facebook.com/520891933/videos/609258353944624) |
 | 2 | [Rodney Gardner](../../persons/rodney_gardner/333.md) | 50+ | <i class="flag flag-US" /> | 15.85 | 19.87 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/825089031814345/permalink/832291451094103) / [Mobile](https://m.facebook.com/events/825089031814345?view=permalink&id=832291451094103) |
 | 3 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 15.36 | 20.04 | 🥉 | [Desktop](https://www.facebook.com/events/825089031814345/permalink/830703287919586) / [Mobile](https://m.facebook.com/events/825089031814345?view=permalink&id=830703287919586) |
 

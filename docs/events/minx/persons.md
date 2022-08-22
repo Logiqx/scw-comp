@@ -41,7 +41,7 @@
 | [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | <i class="flag flag-GB" /> | 2:37.06 | 2:48.88 | 🏆 x 1 | 🥇 x 2, 🥈 x 2, 🥉 x 3 | 🔥 x 4, ⚡ x 5 |
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:13.30 | 1:25.08 | 🏆 x 21 | 🥇 x 28, 🥈 x 8 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
-| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 40+ | <i class="flag flag-US" /> | 3:04.96 | 3:21.71 | 🏆 x 4 | 🥇 x 5, 🥈 x 2 | 🔥 x 3, ⚡ x 6 |
+| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 40+ | <i class="flag flag-US" /> | 3:04.96 | 3:21.71 | 🏆 x 3 | 🥇 x 5, 🥈 x 2 | 🔥 x 3, ⚡ x 6 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 2:39.97 | 2:44.42 |  | 🥈 x 3, 🥉 x 4 | 🔥 x 2, ⚡ x 6 |
 
@@ -52,7 +52,7 @@
 | [Adam Robson](../../persons/adam_robson/minx.md) | <40 | <i class="flag flag-GB" /> | 4:37.65 | DNF |  |  | ⚡ x 1 |
 | [Chris Looney](../../persons/chris_looney/minx.md) | <40 | <i class="flag flag-US" /> | 1:41.03 | 1:49.01 | 🏆 x 5 |  | 🔥 x 3, ⚡ x 3 |
 | [Chris Thames](../../persons/chris_thames/minx.md) | <40 | <i class="flag flag-US" /> | 6:02.13 | DNF |  |  | ⚡ x 1 |
-| [Ed Connell](../../persons/ed_connell/minx.md) | <40 | <i class="flag flag-IE" /> | 3:24.48 | DNF |  |  | ⚡ x 1 |
+| [Ed Connell](../../persons/ed_connell/minx.md) | <40 | <i class="flag flag-IE" /> | 3:24.48 | DNF | 🏆 x 1 |  | ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | <40 | <i class="flag flag-VE" /> | 1:20.62 | 1:28.43 | 🏆 x 14 |  | 🔥 x 8, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/minx.md) | 40+ | <i class="flag flag-KR" /> | 53.33 | 1:06.45 | 🏆 x 2 | 🥇 x 1 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 

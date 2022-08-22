@@ -8,7 +8,7 @@
 
 #### [3x3x3](333.md)
 
-<span style="white-space: nowrap;">🏆 [Toby Chamberlain](../../persons/toby_chamberlain/333.md) 18.58</span>
+<span style="white-space: nowrap;">🏆 [Ed Connell](../../persons/ed_connell/333.md) 18.05</span>
 
 <span style="white-space: nowrap;">🥇 [Toby Chamberlain](../../persons/toby_chamberlain/333.md) 18.58</span>, <span style="white-space: nowrap;">🥈 [Rodney Gardner](../../persons/rodney_gardner/333.md) 19.87</span>, <span style="white-space: nowrap;">🥉 [Daniel Houghton](../../persons/daniel_houghton/333.md) 20.04</span>
 
@@ -58,7 +58,7 @@
 
 #### [Megaminx](minx.md)
 
-<span style="white-space: nowrap;">🏆 [Mickey Doyle](../../persons/mickey_doyle/minx.md) DNF</span>
+<span style="white-space: nowrap;">🏆 [Ed Connell](../../persons/ed_connell/minx.md) DNF</span>
 
 <span style="white-space: nowrap;">🥇 [Mickey Doyle](../../persons/mickey_doyle/minx.md) DNF</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/minx.md) DNF</span>
 
