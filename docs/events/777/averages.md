@@ -30,7 +30,8 @@
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/777.md) | [2021-08-23](../../results/2021-08-23/777.md) | <40 | <i class="flag flag-VE" /> | 5:23.30 | 🏆 x 2 |  | 🔥 x 7, ⚡ x 7 | [Desktop](https://www.facebook.com/events/1108693076205590/permalink/1117084018699829) / [Mobile](https://m.facebook.com/events/1108693076205590?view=permalink&id=1117084018699829) |
 | 2 | [Pete Lee](../../persons/pete_lee/777.md) | [2021-10-18](../../results/2021-10-18/777.md) | <40 | <i class="flag flag-GB" /> | 5:31.60 | 🏆 x 15 |  | 🔥 x 12, ⚡ x 20 | [Desktop](https://www.facebook.com/events/917344582209340/permalink/922171375059994) / [Mobile](https://m.facebook.com/events/917344582209340?view=permalink&id=922171375059994) |
-| 3 | [Peter Osudar](../../persons/peter_osudar/777.md) | [2020-06-23](../../results/2020-06-23/777.md) | <40 | <i class="flag flag-CA" /> | 6:36.78 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/268636114456043/permalink/276983293621325) / [Mobile](https://m.facebook.com/events/268636114456043?view=permalink&id=276983293621325) |
+| 3 | [Chris Looney](../../persons/chris_looney/777.md) | [2022-08-22](../../results/2022-08-22/777.md) | <40 | <i class="flag flag-US" /> | 6:26.46 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/chris.looney/videos/1301838813888560) / [Mobile](https://m.facebook.com/chris.looney/videos/1301838813888560) |
+| 4 | [Peter Osudar](../../persons/peter_osudar/777.md) | [2020-06-23](../../results/2020-06-23/777.md) | <40 | <i class="flag flag-CA" /> | 6:36.78 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/268636114456043/permalink/276983293621325) / [Mobile](https://m.facebook.com/events/268636114456043?view=permalink&id=276983293621325) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-08-22](../../results/2022-08-22/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [David Roche](../../persons/david_roche/333fm.md) | 50+ | <i class="flag flag-AU" /> | 23 | 26.00 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/758758925188582/permalink/764702044594270) / [Mobile](https://m.facebook.com/events/758758925188582?view=permalink&id=764702044594270) |
+| 2 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | <i class="flag flag-BR" /> | 33 | 33.67 | 🥈 | [Desktop](https://www.facebook.com/events/758758925188582/permalink/759896905074784) / [Mobile](https://m.facebook.com/events/758758925188582?view=permalink&id=759896905074784) |
+
 #### [2022-08-08](../../results/2022-08-08/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

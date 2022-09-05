@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-08-22](../../results/2022-08-22/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 2:29.87 | 2:47.92 | 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1050714292295463/permalink/1057518574948368) / [Mobile](https://m.facebook.com/events/1050714292295463?view=permalink&id=1057518574948368) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 40+ | <i class="flag flag-US" /> | 3:04.30 | 3:14.52 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1050714292295463/permalink/1059038501463042) / [Mobile](https://m.facebook.com/events/1050714292295463?view=permalink&id=1059038501463042) |
+| 3 | [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:20.53 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/1050714292295463/permalink/1057863608247198) / [Mobile](https://m.facebook.com/events/1050714292295463?view=permalink&id=1057863608247198) |
+
 #### [2022-08-08](../../results/2022-08-08/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

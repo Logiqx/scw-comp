@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-08-22](../../results/2022-08-22/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/skewb.md) | 40+ | <i class="flag flag-TW" /> | 8.17 | 11.74 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/476554570981315/permalink/483107196992719) / [Mobile](https://m.facebook.com/events/476554570981315?view=permalink&id=483107196992719) |
+| 2 | [Andrea Doerner](../../persons/andrea_doerner/skewb.md) | 40+ | | 9.74 | 12.92 | 🥈 | [Desktop](https://www.facebook.com/andrea.doerner.146/videos/467634878355209) / [Mobile](https://m.facebook.com/andrea.doerner.146/videos/467634878355209) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.53 | 15.50 | 🥉 | [Desktop](https://www.facebook.com/events/476554570981315/permalink/485033706800068) / [Mobile](https://m.facebook.com/events/476554570981315?view=permalink&id=485033706800068) |
+
 #### [2022-08-08](../../results/2022-08-08/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

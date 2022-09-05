@@ -20,7 +20,7 @@
 | [Megaminx](minx.md) | 4:49.07 | - |  |  | ⚡ x 1 |
 | [Pyraminx](pyram.md) | 7.67 | 11.15 |  | 🥇 x 1, 🥈 x 2, 🥉 x 6 | 🔥 x 9, ⚡ x 7 |
 | [Skewb](skewb.md) | 4.34 | 10.22 | 🏆 x 10 | 🥇 x 12, 🥈 x 2, 🥉 x 1 | 🔥 x 6, ⚡ x 4 |
-| [Square-1](sq1.md) | 38.55 | 42.77 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 4, ⚡ x 4 |
+| [Square-1](sq1.md) | 36.94 | 42.77 |  | 🥈 x 1, 🥉 x 3 | 🔥 x 4, ⚡ x 5 |
 | [Clock](clock.md) | 11.79 | 14.58 | 🏆 x 5 | 🥇 x 5, 🥈 x 3 | 🔥 x 6, ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

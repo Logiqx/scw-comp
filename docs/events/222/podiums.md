@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-08-22](../../results/2022-08-22/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/222.md) | 40+ | <i class="flag flag-TW" /> | 7.84 | 8.26 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/1050714292295463/permalink/1057517761615116) / [Mobile](https://m.facebook.com/events/1050714292295463?view=permalink&id=1057517761615116) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | <i class="flag flag-US" /> | 6.81 | 8.38 | 🥈 | [Desktop](https://www.facebook.com/events/1050714292295463/permalink/1058911611475731) / [Mobile](https://m.facebook.com/events/1050714292295463?view=permalink&id=1058911611475731) |
+| 3 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 7.29 | 9.03 | 🥉 | [Desktop](https://www.facebook.com/events/1050714292295463/permalink/1057863608247198) / [Mobile](https://m.facebook.com/events/1050714292295463?view=permalink&id=1057863608247198) |
+
 #### [2022-08-08](../../results/2022-08-08/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

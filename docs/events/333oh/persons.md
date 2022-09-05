@@ -43,6 +43,7 @@
 | [Raúl Morales](../../persons/raul_morales/333oh.md) | 40+ | <i class="flag flag-ES" /> | 31.07 | 37.84 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 23.59 | 29.77 |  | 🥇 x 1, 🥈 x 10, 🥉 x 7 | 🔥 x 8, ⚡ x 3 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | <i class="flag flag-PL" /> | 27.43 | 35.12 |  | 🥉 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 38.09 | 40.05 |  | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333oh.md) | 40+ | <i class="flag flag-FR" /> | 31.59 | 38.24 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40
@@ -53,7 +54,7 @@
 | [Alex Friedman](../../persons/alex_friedman/333oh.md) | <40 | <i class="flag flag-IL" /> | 19.20 | 22.99 | 🏆 x 1 |  | 🔥 x 5, ⚡ x 5 |
 | [Chris Looney](../../persons/chris_looney/333oh.md) | <40 | <i class="flag flag-US" /> | 32.83 | 45.58 | 🏆 x 3 |  | 🔥 x 3, ⚡ x 3 |
 | [Chris Thames](../../persons/chris_thames/333oh.md) | <40 | <i class="flag flag-US" /> | 1:06.23 | 1:14.05 |  |  | 🔥 x 5, ⚡ x 4 |
-| [Ed Connell](../../persons/ed_connell/333oh.md) | <40 | <i class="flag flag-IE" /> | 21.93 | 27.55 | 🏆 x 8 |  | 🔥 x 7, ⚡ x 2 |
+| [Ed Connell](../../persons/ed_connell/333oh.md) | <40 | <i class="flag flag-IE" /> | 21.93 | 27.55 | 🏆 x 9 |  | 🔥 x 7, ⚡ x 2 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333oh.md) | <40 | <i class="flag flag-VE" /> | 26.22 | 30.38 |  |  | 🔥 x 3, ⚡ x 1 |
 | [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | 40+ | <i class="flag flag-KR" /> | 22.13 | 24.49 | 🏆 x 2 | 🥈 x 1 | 💥 x 1, 🔥 x 3, ⚡ x 2 |
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333oh.md) | 40+ | <i class="flag flag-GB" /> | 30.75 | 34.86 |  |  | 🔥 x 5, ⚡ x 4 |

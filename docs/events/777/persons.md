@@ -42,7 +42,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/777.md) | <40 | <i class="flag flag-GB" /> | 11:27.00 | DNF |  |  | ⚡ x 1 |
-| [Chris Looney](../../persons/chris_looney/777.md) | <40 | <i class="flag flag-US" /> | 6:50.00 | DNF |  |  | ⚡ x 1 |
+| [Chris Looney](../../persons/chris_looney/777.md) | <40 | <i class="flag flag-US" /> | 6:06.34 | 6:26.46 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 2 |
 | [Chris Thames](../../persons/chris_thames/777.md) | <40 | <i class="flag flag-US" /> | 14:00.59 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/777.md) | <40 | <i class="flag flag-IE" /> | 8:56.69 | DNF |  |  | ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/777.md) | <40 | <i class="flag flag-VE" /> | 5:09.66 | 5:23.30 | 🏆 x 2 |  | 🔥 x 7, ⚡ x 7 |
