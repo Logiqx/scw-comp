@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-09-05](../../results/2022-09-05/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 18.88 | 23.40 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/476554570981315/permalink/486939189942853) / [Mobile](https://m.facebook.com/events/476554570981315?view=permalink&id=486939189942853) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 40+ | <i class="flag flag-US" /> | 26.49 | 45.71 | 🥈 | [Desktop](https://www.facebook.com/events/921549679236169/permalink/932447234813080) / [Mobile](https://m.facebook.com/events/921549679236169?view=permalink&id=932447234813080) |
+
 #### [2022-08-22](../../results/2022-08-22/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

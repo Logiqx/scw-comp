@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-09-05](../../results/2022-09-05/777.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Glyn Brown](../../persons/glyn_brown/777.md) | 40+ | | 6:27.27 | 6:42.04 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/448393960648054/permalink/451473773673406) / [Mobile](https://m.facebook.com/events/448393960648054?view=permalink&id=451473773673406) |
+
 
 #### [2022-08-08](../../results/2022-08-08/777.md)
 

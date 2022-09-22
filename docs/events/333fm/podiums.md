@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-09-05](../../results/2022-09-05/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | <i class="flag flag-BR" /> | 31 | 34.00 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/600763575022561/permalink/601902394908679) / [Mobile](https://m.facebook.com/events/600763575022561?view=permalink&id=601902394908679) |
+
 #### [2022-08-22](../../results/2022-08-22/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

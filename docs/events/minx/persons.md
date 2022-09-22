@@ -18,7 +18,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | <i class="flag flag-GB" /> | 1:54.48 | 2:17.73 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:10.66 | DNF |  | 🥈 x 4, 🥉 x 4 | ⚡ x 5 |
+| [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:10.66 | DNF |  | 🥈 x 5, 🥉 x 4 | ⚡ x 5 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | <i class="flag flag-US" /> | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
@@ -31,7 +31,7 @@
 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | <i class="flag flag-GB" /> | 2:21.01 | 2:38.71 |  | 🥈 x 8 | 🔥 x 5, ⚡ x 4 |
 | [Anthony Rochester](../../persons/anthony_rochester/minx.md) | 40+ | <i class="flag flag-AU" /> | 3:53.90 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | <i class="flag flag-GB" /> | 1:54.48 | 2:17.73 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:10.66 | DNF |  | 🥈 x 4, 🥉 x 4 | ⚡ x 5 |
+| [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:10.66 | DNF |  | 🥈 x 5, 🥉 x 4 | ⚡ x 5 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | <i class="flag flag-US" /> | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/minx.md) | 40+ | <i class="flag flag-US" /> | 4:49.07 | DNF |  |  | ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | 40+ | <i class="flag flag-JP" /> | 1:21.66 | 1:37.12 | 🏆 x 7 | 🥇 x 7, 🥈 x 13, 🥉 x 4 | 💥 x 2, 🔥 x 3, ⚡ x 1 |
@@ -41,7 +41,7 @@
 | [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | <i class="flag flag-GB" /> | 2:37.06 | 2:48.88 | 🏆 x 1 | 🥇 x 2, 🥈 x 2, 🥉 x 3 | 🔥 x 4, ⚡ x 5 |
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:13.30 | 1:25.08 | 🏆 x 21 | 🥇 x 28, 🥈 x 8 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
-| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 40+ | <i class="flag flag-US" /> | 3:04.30 | 3:14.52 | 🏆 x 3 | 🥇 x 5, 🥈 x 3 | 🔥 x 4, ⚡ x 7 |
+| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 40+ | <i class="flag flag-US" /> | 2:57.13 | 3:03.67 | 🏆 x 4 | 🥇 x 6, 🥈 x 3 | 🔥 x 5, ⚡ x 8 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 2:29.87 | 2:44.42 |  | 🥇 x 1, 🥈 x 3, 🥉 x 4 | 🔥 x 2, ⚡ x 7 |
 

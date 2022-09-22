@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-09-05](../../results/2022-09-05/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:36.52 | 1:47.21 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/448393960648054/permalink/453932013427582) / [Mobile](https://m.facebook.com/events/448393960648054?view=permalink&id=453932013427582) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | | 2:05.75 | 2:19.25 | 🥈 | [Desktop](https://www.facebook.com/events/448393960648054/permalink/455093979978052) / [Mobile](https://m.facebook.com/events/448393960648054?view=permalink&id=455093979978052) |
+| 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:41.91 | 2:56.55 | 🥉 | [Desktop](https://www.facebook.com/events/448393960648054/permalink/449911077163009) / [Mobile](https://m.facebook.com/events/448393960648054?view=permalink&id=449911077163009) |
+
 #### [2022-08-22](../../results/2022-08-22/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
