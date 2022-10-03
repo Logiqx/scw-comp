@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-09-19](../../results/2022-09-19/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | <i class="flag flag-GB" /> | 2:28.73 | 2:36.84 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/JoCocco/videos/606202337907410) / [Mobile](https://m.facebook.com/JoCocco/videos/606202337907410) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 40+ | <i class="flag flag-US" /> | 2:53.31 | 3:18.90 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/400132442274991/permalink/406868184934750) / [Mobile](https://m.facebook.com/events/400132442274991?view=permalink&id=406868184934750) |
+
 #### [2022-09-05](../../results/2022-09-05/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -36,7 +36,7 @@
 | [Jang Junho (장준호)](../../persons/jang_junho/333oh.md) | 40+ | <i class="flag flag-KR" /> | 59.25 | 1:06.79 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Jason Green](../../persons/jason_green/333oh.md) | 40+ | <i class="flag flag-US" /> | 30.77 | 36.01 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/333oh.md) | 40+ | <i class="flag flag-US" /> | 36.79 | 44.49 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [Jo Cocco](../../persons/jo_cocco/333oh.md) | 40+ | <i class="flag flag-GB" /> | 1:02.55 | 1:11.38 |  | 🥇 x 2 | 🔥 x 3, ⚡ x 5 |
+| [Jo Cocco](../../persons/jo_cocco/333oh.md) | 40+ | <i class="flag flag-GB" /> | 45.79 | 1:04.22 | 🏆 x 1 | 🥇 x 3 | 🔥 x 4, ⚡ x 6 |
 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 16.07 | 20.76 | 🏆 x 43 | 🥇 x 43 | 💥 x 3, 🔥 x 5, ⚡ x 4 |
 | [Michael George](../../persons/michael_george/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.57 | 21.87 | 🏆 x 18 | 🥇 x 22 | 💥 x 5, 🔥 x 3, ⚡ x 5 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 60+ | <i class="flag flag-CA" /> | 1:26.57 | 1:57.43 |  | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 3 |
