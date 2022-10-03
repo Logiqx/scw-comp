@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-09-19](../../results/2022-09-19/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 50+ | | 18.24 | 19.56 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/michael.amarello/videos/1094397984610699) / [Mobile](https://m.facebook.com/michael.amarello/videos/1094397984610699) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 40+ | <i class="flag flag-US" /> | 27.70 | 32.57 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/622543946125717/permalink/629502892096489) / [Mobile](https://m.facebook.com/events/622543946125717?view=permalink&id=629502892096489) |
+
 #### [2022-09-05](../../results/2022-09-05/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

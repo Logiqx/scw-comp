@@ -29,12 +29,12 @@
 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | 40+ | <i class="flag flag-GB" /> | 3:27.31 | 3:35.12 | 🏆 x 11 | 🥇 x 12, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 4 |
 | [Chris Wright](../../persons/chris_wright/666.md) | 50+ | <i class="flag flag-GB" /> | 3:08.84 | 3:18.98 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/666.md) | 50+ | <i class="flag flag-US" /> | 5:28.23 | 5:54.57 |  | 🥇 x 5, 🥈 x 2, 🥉 x 4 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:51.94 | 3:54.33 | 🏆 x 2 | 🥇 x 3 | 🔥 x 2, ⚡ x 2 |
+| [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:51.94 | 3:54.33 | 🏆 x 2 | 🥇 x 3, 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/666.md) | 60+ | <i class="flag flag-US" /> | 12:04.43 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Eric Dodson](../../persons/eric_dodson/666.md) | 40+ | <i class="flag flag-US" /> | 8:34.62 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/666.md) | 40+ | <i class="flag flag-JP" /> | 2:38.63 | 2:44.23 | 🏆 x 24 | 🥇 x 24 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | <i class="flag flag-GB" /> | 3:17.40 | 3:32.21 | 🏆 x 4 | 🥇 x 20, 🥈 x 25, 🥉 x 2 | 🔥 x 6, ⚡ x 5 |
-| [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | | 4:51.78 | DNF |  | 🥈 x 1 | ⚡ x 1 |
+| [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | | 3:55.34 | 4:16.74 |  | 🥇 x 1, 🥈 x 1 | 🔥 x 1, ⚡ x 2 |
 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | 40+ | <i class="flag flag-KR" /> | 2:48.49 | 3:03.55 | 🏆 x 2 | 🥇 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [JM Tambaoan](../../persons/jm_tambaoan/666.md) | 40+ | <i class="flag flag-PH" /> | 4:41.61 | 5:06.21 |  | 🥈 x 10, 🥉 x 2 | 🔥 x 4, ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/666.md) | 40+ | <i class="flag flag-US" /> | 12:20.61 | DNF |  | 🥈 x 1 | ⚡ x 1 |
@@ -50,7 +50,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/666.md) | <40 | <i class="flag flag-GB" /> | 9:15.97 | DNF |  |  | ⚡ x 1 |
-| [Chris Looney](../../persons/chris_looney/666.md) | <40 | <i class="flag flag-US" /> | 3:41.82 | 4:04.98 | 🏆 x 6 |  | 🔥 x 2, ⚡ x 5 |
+| [Chris Looney](../../persons/chris_looney/666.md) | <40 | <i class="flag flag-US" /> | 3:41.82 | 4:02.29 | 🏆 x 7 |  | 🔥 x 3, ⚡ x 5 |
 | [Chris Thames](../../persons/chris_thames/666.md) | <40 | <i class="flag flag-US" /> | 9:58.46 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/666.md) | <40 | <i class="flag flag-IE" /> | 5:16.76 | DNF |  |  | ⚡ x 2 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | <40 | <i class="flag flag-VE" /> | 3:03.79 | 3:19.74 | 🏆 x 19 |  | 🔥 x 10, ⚡ x 9 |
