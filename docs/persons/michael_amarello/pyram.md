@@ -10,6 +10,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-09-19](../../results/2022-09-19/pyram.md) | 50+ | **21.85** | **38.89** | 🔥 ⚡ | 41.04 | 34.44 | **21.85** | 41.18 | 1:30.93 | [Desktop](https://www.facebook.com/michael.amarello/videos/3371523806394638) / [Mobile](https://m.facebook.com/michael.amarello/videos/3371523806394638) |
 | [2022-09-05](../../results/2022-09-05/pyram.md) | 50+ | **26.92** | **1:09.38** | 🥉 🔥 ⚡ | 45.83 | **26.92** | 1:58.82 | 2:58.19 | 43.48 | [Desktop](https://www.facebook.com/michael.amarello/videos/643951607342443) / [Mobile](https://m.facebook.com/michael.amarello/videos/643951607342443) |
 
 

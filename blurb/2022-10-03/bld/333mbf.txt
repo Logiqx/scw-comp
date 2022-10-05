@@ -1,0 +1,35 @@
+F D2 B' U' R2 U2 L2 U B2 D U R D B' R2 B2 D L2 R' Uw
+L U D' L F D' R F' L F' U2 R2 U2 F D2 B D' F' Rw2 Uw
+U2 R L2 B2 U' B2 D2 F2 L2 U2 L' B' U2 L2 D' R' B' D R Fw Uw'
+U2 L2 B R' U L2 U' D' R D U2 F' B R2 D2 B' U2 F' D2 Fw Uw2
+U2 L' D2 L' U2 L' R D2 F2 R' F' D F2 U2 R' B R2 U L F' Rw' Uw
+F B' L2 F U' R D' R2 B F2 U B2 U' L2 U2 F2 U' B2 R' Fw' Uw'
+F L' R' U2 R' D2 U2 F2 U2 B' D F2 L' F' R' D' R D2 Fw'
+R2 D B2 L2 U' B2 R2 D L U2 L' B' U2 R D' B2 U B2 Rw2
+B2 U2 L2 B2 D' L2 R2 D2 U' L R' U' R D B2 F' U R2 U Fw Uw
+L2 F2 L' U2 L2 B2 D2 L' B L2 D B' U L' B' R U2 B D2 Rw Uw'
+B L B2 R' L2 U L' B' L' F R2 F' D2 L2 B' L2 B' L' U Rw2 Uw'
+D R U B2 U' B2 D' F R' B' D F R2 F' L2 B' D2 F2 U2 Rw2 Uw'
+B R2 F2 U' F D' R2 L2 U' R2 L2 U2 L2 F' U2 F' D2 R' D2 Rw Uw
+R' D2 R L U' R L' B D U2 R2 F L2 F' D2 F B' U2 B2 Rw Uw
+F' D' F2 D L U' F B' L' D B2 U L2 U' F2 U2 B2 L2 U' L2 Uw
+L2 R B D2 L2 B L2 F2 D' B' R2 F D2 U' L F' D' R Fw' Uw2
+L U' R' L2 B' R2 B' F' D2 B U2 L' D U' F2 L' B2 L' D2 Rw Uw2
+B2 L2 F2 U2 R2 B L2 F' R' D L D L D' F' D2 B2 L' U2 Rw Uw2
+D2 B' R D F2 D L' B2 L' B' R' U' F2 D' L2 D F2 D B2 Rw'
+R2 U B2 U L2 F R B2 R F U B2 F2 D' L' R2 B' Rw2 Uw2
+F2 R D2 L2 F' U2 B R2 B2 L2 F' R2 U R' F L D' U' F2 R2 Uw2
+F U2 B' R2 L D' L2 U' B F2 R F2 B2 L2 D2 B2 R' F' D2 Rw2 Uw2
+B' L2 D R' B' U2 B2 D2 B L2 U2 F' D R' D F' U F' L' Fw' Uw
+B' L' F R U2 L' D' R2 B L U F2 U' F2 R2 D2 B2 U2 B Rw2
+L2 B D2 U2 R2 F' R2 B R' U' F U2 B' L2 D' L F2 D B' Rw2 Uw2
+D' L' B2 D2 L B2 F2 L2 U2 R B' D F' L' D U2 F2 U' B' U Fw Uw'
+R' F U2 F2 B R' B' L' D B' D2 R2 D2 F2 R U2 L2 U2 Fw' Uw'
+B2 R2 U R' B U' R F' B2 L2 U2 F2 D2 F' B2 R U2 R Fw Uw
+R F2 L R2 F D2 F2 L2 F L2 F R U B2 R2 B' L' B Rw' Uw2
+U' B D R2 D R2 U' R B L' R2 B' R2 D2 B R2 U' Fw'
+L B2 L' F2 D2 L' D2 U2 R2 F U B' U' L' B' L2 U2 B Uw
+L F2 R2 U F2 L2 B2 L2 D' U' R' U' L' D' B R' D' B2 Rw2 Uw
+D' F2 D2 L2 B2 U' R2 U' F' L D2 U L' B R' B L2 B D2 Fw' Uw
+R2 B2 U' F2 D L2 U L' B U' F' R2 F L R' B2 U' F' U' Fw'
+L2 D2 F' R' L' D F D F2 U D F2 L2 D' R2 U' R2 F L2 D2 Rw2 Uw'
