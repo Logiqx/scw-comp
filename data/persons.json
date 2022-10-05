@@ -27,7 +27,7 @@
   },
   "Andrea Doerner": {
     "age": "40+",
-    "country": "???",
+    "country": "Germany",
     "id": 106,
     "wcaId": "2020DOER01"
   },
@@ -204,7 +204,7 @@
   },
   "Glyn Brown": {
     "age": "40+",
-    "country": "???",
+    "country": "United Kingdom",
     "id": 109
   },
   "Go-ho Choi": {
@@ -277,8 +277,9 @@
   },
   "Jalmari Raippalinna": {
     "age": "40+",
-    "country": "???",
+    "country": "Finland",
     "id": 105
+    "wcaId": "2022RAIP02"
   },
   "Jamie Brady (Deansie)": {
     "age": "40+",
@@ -407,7 +408,7 @@
   },
   "Lee Acacio": {
     "age": "40+",
-    "country": "???",
+    "country": "United States",
     "id": 108,
     "wcaId": "2022ACAC01"
   },
@@ -485,7 +486,7 @@
   },
   "Michael Amarello": {
     "age": "50+",
-    "country": "???",
+    "country": "United States",
     "id": 110,
     "wcaId": "2022AMAR09"
   },
