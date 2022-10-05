@@ -16,7 +16,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Glyn Brown](../../persons/glyn_brown/777.md) | 40+ | | 6:27.27 | 6:42.04 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/448393960648054/permalink/451473773673406) / [Mobile](https://m.facebook.com/events/448393960648054?view=permalink&id=451473773673406) |
+| 1 | [Glyn Brown](../../persons/glyn_brown/777.md) | 40+ | <i class="flag flag-GB" /> | 6:27.27 | 6:42.04 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/448393960648054/permalink/451473773673406) / [Mobile](https://m.facebook.com/events/448393960648054?view=permalink&id=451473773673406) |
 
 
 #### [2022-08-08](../../results/2022-08-08/777.md)

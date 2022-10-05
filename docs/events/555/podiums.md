@@ -11,7 +11,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:34.61 | 1:43.98 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/450657513693488/permalink/456249413134298) / [Mobile](https://m.facebook.com/events/450657513693488?view=permalink&id=456249413134298) |
-| 2 | [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | | 1:57.53 | 2:09.98 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/450657513693488/permalink/456963099729596) / [Mobile](https://m.facebook.com/events/450657513693488?view=permalink&id=456963099729596) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | <i class="flag flag-GB" /> | 1:57.53 | 2:09.98 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/450657513693488/permalink/456963099729596) / [Mobile](https://m.facebook.com/events/450657513693488?view=permalink&id=456963099729596) |
 | 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 3:04.19 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/450657513693488/permalink/455553443203895) / [Mobile](https://m.facebook.com/events/450657513693488?view=permalink&id=455553443203895) |
 
 #### [2022-09-05](../../results/2022-09-05/555.md)
@@ -19,7 +19,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:36.52 | 1:47.21 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/448393960648054/permalink/453932013427582) / [Mobile](https://m.facebook.com/events/448393960648054?view=permalink&id=453932013427582) |
-| 2 | [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | | 2:05.75 | 2:19.25 | 🥈 | [Desktop](https://www.facebook.com/events/448393960648054/permalink/455093979978052) / [Mobile](https://m.facebook.com/events/448393960648054?view=permalink&id=455093979978052) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | <i class="flag flag-GB" /> | 2:05.75 | 2:19.25 | 🥈 | [Desktop](https://www.facebook.com/events/448393960648054/permalink/455093979978052) / [Mobile](https://m.facebook.com/events/448393960648054?view=permalink&id=455093979978052) |
 | 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:41.91 | 2:56.55 | 🥉 | [Desktop](https://www.facebook.com/events/448393960648054/permalink/449911077163009) / [Mobile](https://m.facebook.com/events/448393960648054?view=permalink&id=449911077163009) |
 
 #### [2022-08-22](../../results/2022-08-22/555.md)
@@ -27,7 +27,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | <i class="flag flag-TW" /> | 1:54.32 | 2:05.04 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/542579854309231/permalink/549489463618270) / [Mobile](https://m.facebook.com/events/542579854309231?view=permalink&id=549489463618270) |
-| 2 | [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | | 2:01.76 | 2:06.54 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/542579854309231/permalink/551754373391779) / [Mobile](https://m.facebook.com/events/542579854309231?view=permalink&id=551754373391779) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | <i class="flag flag-GB" /> | 2:01.76 | 2:06.54 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/542579854309231/permalink/551754373391779) / [Mobile](https://m.facebook.com/events/542579854309231?view=permalink&id=551754373391779) |
 | 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:47.46 | 2:57.26 | 🥉 | [Desktop](https://www.facebook.com/events/542579854309231/permalink/549844846916065) / [Mobile](https://m.facebook.com/events/542579854309231?view=permalink&id=549844846916065) |
 
 #### [2022-08-08](../../results/2022-08-08/555.md)

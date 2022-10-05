@@ -25,7 +25,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/skewb.md) | 40+ | <i class="flag flag-TW" /> | 8.17 | 11.74 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/476554570981315/permalink/483107196992719) / [Mobile](https://m.facebook.com/events/476554570981315?view=permalink&id=483107196992719) |
-| 2 | [Andrea Doerner](../../persons/andrea_doerner/skewb.md) | 40+ | | 9.74 | 12.92 | 🥈 | [Desktop](https://www.facebook.com/andrea.doerner.146/videos/467634878355209) / [Mobile](https://m.facebook.com/andrea.doerner.146/videos/467634878355209) |
+| 2 | [Andrea Doerner](../../persons/andrea_doerner/skewb.md) | 40+ | <i class="flag flag-DE" /> | 9.74 | 12.92 | 🥈 | [Desktop](https://www.facebook.com/andrea.doerner.146/videos/467634878355209) / [Mobile](https://m.facebook.com/andrea.doerner.146/videos/467634878355209) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.53 | 15.50 | 🥉 | [Desktop](https://www.facebook.com/events/476554570981315/permalink/485033706800068) / [Mobile](https://m.facebook.com/events/476554570981315?view=permalink&id=485033706800068) |
 
 #### [2022-08-08](../../results/2022-08-08/skewb.md)
@@ -34,13 +34,13 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Anthony Rochester](../../persons/anthony_rochester/skewb.md) | 40+ | <i class="flag flag-AU" /> | 8.06 | 9.23 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/1202320373645710/permalink/1204742810070133) / [Mobile](https://m.facebook.com/events/1202320373645710?view=permalink&id=1204742810070133) |
 | 2 | [Eric Dodson](../../persons/eric_dodson/skewb.md) | 40+ | <i class="flag flag-US" /> | 7.58 | 10.35 | 🥈 | [Desktop](https://www.facebook.com/events/1202320373645710/permalink/1211222746088806) / [Mobile](https://m.facebook.com/events/1202320373645710?view=permalink&id=1211222746088806) |
-| 3 | [Andrea Doerner](../../persons/andrea_doerner/skewb.md) | 40+ | | 8.96 | 11.49 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/andrea.doerner.146/videos/1428521347661542) / [Mobile](https://m.facebook.com/andrea.doerner.146/videos/1428521347661542) |
+| 3 | [Andrea Doerner](../../persons/andrea_doerner/skewb.md) | 40+ | <i class="flag flag-DE" /> | 8.96 | 11.49 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/andrea.doerner.146/videos/1428521347661542) / [Mobile](https://m.facebook.com/andrea.doerner.146/videos/1428521347661542) |
 
 #### [2022-07-25](../../results/2022-07-25/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Andrea Doerner](../../persons/andrea_doerner/skewb.md) | 40+ | | 9.75 | 12.59 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/andrea.doerner.146/videos/402257371775203) / [Mobile](https://m.facebook.com/andrea.doerner.146/videos/402257371775203) |
+| 1 | [Andrea Doerner](../../persons/andrea_doerner/skewb.md) | 40+ | <i class="flag flag-DE" /> | 9.75 | 12.59 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/andrea.doerner.146/videos/402257371775203) / [Mobile](https://m.facebook.com/andrea.doerner.146/videos/402257371775203) |
 | 2 | [Anthony Rochester](../../persons/anthony_rochester/skewb.md) | 40+ | <i class="flag flag-AU" /> | 7.83 | 13.12 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/587016656266234/permalink/590926939208539) / [Mobile](https://m.facebook.com/events/587016656266234?view=permalink&id=590926939208539) |
 | 3 | [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 12.76 | 16.01 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/587016656266234/permalink/594322492202317) / [Mobile](https://m.facebook.com/events/587016656266234?view=permalink&id=594322492202317) |
 

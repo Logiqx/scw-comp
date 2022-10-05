@@ -34,7 +34,7 @@
 | [Eric Dodson](../../persons/eric_dodson/666.md) | 40+ | <i class="flag flag-US" /> | 8:34.62 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/666.md) | 40+ | <i class="flag flag-JP" /> | 2:38.63 | 2:44.23 | 🏆 x 24 | 🥇 x 24 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | <i class="flag flag-GB" /> | 3:17.40 | 3:32.21 | 🏆 x 4 | 🥇 x 20, 🥈 x 25, 🥉 x 2 | 🔥 x 6, ⚡ x 5 |
-| [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | | 3:55.34 | 4:16.74 |  | 🥇 x 1, 🥈 x 1 | 🔥 x 1, ⚡ x 2 |
+| [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | <i class="flag flag-GB" /> | 3:55.34 | 4:16.74 |  | 🥇 x 1, 🥈 x 1 | 🔥 x 1, ⚡ x 2 |
 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | 40+ | <i class="flag flag-KR" /> | 2:48.49 | 3:03.55 | 🏆 x 2 | 🥇 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [JM Tambaoan](../../persons/jm_tambaoan/666.md) | 40+ | <i class="flag flag-PH" /> | 4:41.61 | 5:06.21 |  | 🥈 x 10, 🥉 x 2 | 🔥 x 4, ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/666.md) | 40+ | <i class="flag flag-US" /> | 12:20.61 | DNF |  | 🥈 x 1 | ⚡ x 1 |

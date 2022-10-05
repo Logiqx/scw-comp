@@ -12,14 +12,14 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 15.02 | 17.12 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/400132442274991/permalink/407143584907210) / [Mobile](https://m.facebook.com/events/400132442274991?view=permalink&id=407143584907210) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 15.83 | 19.86 | 🥈 | [Desktop](https://www.facebook.com/520891933/videos/777463756859130) / [Mobile](https://m.facebook.com/520891933/videos/777463756859130) |
-| 3 | [Glyn Brown](../../persons/glyn_brown/333.md) | 40+ | | 17.34 | 20.28 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/400132442274991/permalink/406562228298679) / [Mobile](https://m.facebook.com/events/400132442274991?view=permalink&id=406562228298679) |
+| 3 | [Glyn Brown](../../persons/glyn_brown/333.md) | 40+ | <i class="flag flag-GB" /> | 17.34 | 20.28 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/400132442274991/permalink/406562228298679) / [Mobile](https://m.facebook.com/events/400132442274991?view=permalink&id=406562228298679) |
 
 #### [2022-09-05](../../results/2022-09-05/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 14.91 | 16.89 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/865213714460720/permalink/871239793858112) / [Mobile](https://m.facebook.com/events/865213714460720?view=permalink&id=871239793858112) |
-| 2 | [Glyn Brown](../../persons/glyn_brown/333.md) | 40+ | | 17.82 | 18.88 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/865213714460720/permalink/871456797169745) / [Mobile](https://m.facebook.com/events/865213714460720?view=permalink&id=871456797169745) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/333.md) | 40+ | <i class="flag flag-GB" /> | 17.82 | 18.88 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/865213714460720/permalink/871456797169745) / [Mobile](https://m.facebook.com/events/865213714460720?view=permalink&id=871456797169745) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 17.47 | 19.12 | 🥉 | [Desktop](https://www.facebook.com/520891933/videos/1528296447601011) / [Mobile](https://m.facebook.com/520891933/videos/1528296447601011) |
 
 #### [2022-08-22](../../results/2022-08-22/333.md)

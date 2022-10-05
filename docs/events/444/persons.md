@@ -41,7 +41,7 @@
 | [Eric Dodson](../../persons/eric_dodson/444.md) | 40+ | <i class="flag flag-US" /> | 2:02.23 | 2:19.35 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | <i class="flag flag-JP" /> | 44.16 | 51.80 | 🏆 x 8 | 🥇 x 14, 🥈 x 10 | 💥 x 1, 🔥 x 4, ⚡ x 4 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | <i class="flag flag-GB" /> | 50.44 | 1:01.07 | 🏆 x 1 | 🥇 x 7, 🥈 x 17, 🥉 x 22 | 🔥 x 8, ⚡ x 8 |
-| [Glyn Brown](../../persons/glyn_brown/444.md) | 40+ | | 1:12.38 | 1:32.97 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
+| [Glyn Brown](../../persons/glyn_brown/444.md) | 40+ | <i class="flag flag-GB" /> | 1:12.38 | 1:32.97 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Go-ho Choi](../../persons/go_ho_choi/444.md) | 40+ | <i class="flag flag-KR" /> | 43.44 | 49.93 | 🏆 x 4 | 🥇 x 1 | 💥 x 5, 🔥 x 4, ⚡ x 6 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444.md) | 40+ | <i class="flag flag-PL" /> | 56.11 | 1:05.85 |  | 🥈 x 2 | 🔥 x 2, ⚡ x 1 |
 | [JM Tambaoan](../../persons/jm_tambaoan/444.md) | 40+ | <i class="flag flag-PH" /> | 1:08.84 | 1:20.86 |  | 🥇 x 1, 🥈 x 4, 🥉 x 4 | 🔥 x 3, ⚡ x 5 |

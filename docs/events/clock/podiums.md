@@ -10,21 +10,21 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 50+ | | 18.24 | 19.56 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/michael.amarello/videos/1094397984610699) / [Mobile](https://m.facebook.com/michael.amarello/videos/1094397984610699) |
+| 1 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 50+ | <i class="flag flag-US" /> | 18.24 | 19.56 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/michael.amarello/videos/1094397984610699) / [Mobile](https://m.facebook.com/michael.amarello/videos/1094397984610699) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 40+ | <i class="flag flag-US" /> | 27.70 | 32.57 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/622543946125717/permalink/629502892096489) / [Mobile](https://m.facebook.com/events/622543946125717?view=permalink&id=629502892096489) |
 
 #### [2022-09-05](../../results/2022-09-05/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 50+ | | 20.13 | 23.36 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/michael.amarello/videos/1898147307184095) / [Mobile](https://m.facebook.com/michael.amarello/videos/1898147307184095) |
+| 1 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 50+ | <i class="flag flag-US" /> | 20.13 | 23.36 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/michael.amarello/videos/1898147307184095) / [Mobile](https://m.facebook.com/michael.amarello/videos/1898147307184095) |
 
 #### [2022-08-22](../../results/2022-08-22/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 10.59 | 11.71 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/476554570981315/permalink/484429433527162) / [Mobile](https://m.facebook.com/events/476554570981315?view=permalink&id=484429433527162) |
-| 2 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 50+ | | 20.84 | 23.45 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/michael.amarello/videos/610151167159938) / [Mobile](https://m.facebook.com/michael.amarello/videos/610151167159938) |
+| 2 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 50+ | <i class="flag flag-US" /> | 20.84 | 23.45 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/michael.amarello/videos/610151167159938) / [Mobile](https://m.facebook.com/michael.amarello/videos/610151167159938) |
 | 3 | [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 40+ | <i class="flag flag-US" /> | 40.28 | 43.88 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/476554570981315/permalink/484539256849513) / [Mobile](https://m.facebook.com/events/476554570981315?view=permalink&id=484539256849513) |
 
 #### [2022-08-08](../../results/2022-08-08/clock.md)

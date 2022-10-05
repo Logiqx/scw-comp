@@ -12,7 +12,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 10.43 | 11.95 | 🥇 | [Desktop](https://www.facebook.com/events/622543946125717/permalink/627750292271749) / [Mobile](https://m.facebook.com/events/622543946125717?view=permalink&id=627750292271749) |
 | 2 | [Mark Cordell](../../persons/mark_cordell/pyram.md) | 40+ | <i class="flag flag-US" /> | 11.28 | 13.96 | 🥈 | [Desktop](https://www.facebook.com/events/622543946125717/permalink/633493748364070) / [Mobile](https://m.facebook.com/events/622543946125717?view=permalink&id=633493748364070) |
-| 3 | [Andrea Doerner](../../persons/andrea_doerner/pyram.md) | 40+ | | 13.93 | 18.78 | 🥉 | [Desktop](https://www.facebook.com/events/622543946125717/permalink/631252041921574) / [Mobile](https://m.facebook.com/events/622543946125717?view=permalink&id=631252041921574) |
+| 3 | [Andrea Doerner](../../persons/andrea_doerner/pyram.md) | 40+ | <i class="flag flag-DE" /> | 13.93 | 18.78 | 🥉 | [Desktop](https://www.facebook.com/events/622543946125717/permalink/631252041921574) / [Mobile](https://m.facebook.com/events/622543946125717?view=permalink&id=631252041921574) |
 
 #### [2022-09-05](../../results/2022-09-05/pyram.md)
 
@@ -20,7 +20,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 10.60 | 12.30 | 🥇 | [Desktop](https://www.facebook.com/events/476554570981315/permalink/486939189942853) / [Mobile](https://m.facebook.com/events/476554570981315?view=permalink&id=486939189942853) |
 | 2 | [Mark Cordell](../../persons/mark_cordell/pyram.md) | 40+ | <i class="flag flag-US" /> | 10.33 | 13.80 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/921549679236169/permalink/932686131455857) / [Mobile](https://m.facebook.com/events/921549679236169?view=permalink&id=932686131455857) |
-| 3 | [Michael Amarello](../../persons/michael_amarello/pyram.md) | 50+ | | 26.92 | 1:09.38 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/michael.amarello/videos/643951607342443) / [Mobile](https://m.facebook.com/michael.amarello/videos/643951607342443) |
+| 3 | [Michael Amarello](../../persons/michael_amarello/pyram.md) | 50+ | <i class="flag flag-US" /> | 26.92 | 1:09.38 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/michael.amarello/videos/643951607342443) / [Mobile](https://m.facebook.com/michael.amarello/videos/643951607342443) |
 
 #### [2022-08-22](../../results/2022-08-22/pyram.md)
 

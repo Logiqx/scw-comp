@@ -2,7 +2,9 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Jalmari Raippalinna
+### Jalmari Raippalinna - [2022RAIP02](https://www.worldcubeassociation.org/persons/2022RAIP02)
+
+<i class="flag flag-FI" />&nbsp;Finland
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 

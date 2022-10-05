@@ -10,7 +10,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | | 3:55.34 | 4:16.74 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/450657513693488/permalink/456958953063344) / [Mobile](https://m.facebook.com/events/450657513693488?view=permalink&id=456958953063344) |
+| 1 | [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | <i class="flag flag-GB" /> | 3:55.34 | 4:16.74 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/450657513693488/permalink/456958953063344) / [Mobile](https://m.facebook.com/events/450657513693488?view=permalink&id=456958953063344) |
 | 2 | [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 4:13.70 | 4:20.06 | 🥈 | [Desktop](https://www.facebook.com/events/400132442274991/permalink/407229801565255) / [Mobile](https://m.facebook.com/events/400132442274991?view=permalink&id=407229801565255) |
 
 #### [2022-09-05](../../results/2022-09-05/666.md)
@@ -18,7 +18,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:51.94 | 3:54.33 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/448393960648054/permalink/455528309934619) / [Mobile](https://m.facebook.com/events/448393960648054?view=permalink&id=455528309934619) |
-| 2 | [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | | 4:51.78 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/448393960648054/permalink/454511063369677) / [Mobile](https://m.facebook.com/events/448393960648054?view=permalink&id=454511063369677) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | <i class="flag flag-GB" /> | 4:51.78 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/448393960648054/permalink/454511063369677) / [Mobile](https://m.facebook.com/events/448393960648054?view=permalink&id=454511063369677) |
 | 3 | [Dan Smith](../../persons/dan_smith/666.md) | 50+ | <i class="flag flag-US" /> | 6:32.60 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/448393960648054/permalink/449911077163009) / [Mobile](https://m.facebook.com/events/448393960648054?view=permalink&id=449911077163009) |
 
 #### [2022-08-22](../../results/2022-08-22/666.md)

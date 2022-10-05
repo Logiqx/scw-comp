@@ -37,7 +37,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/222.md) | 40+ | <i class="flag flag-GB" /> | 3.13 | 6.39 |  | 🥈 x 3, 🥉 x 3 | 💥 x 1, 🔥 x 8, ⚡ x 7 |
-| [Andrea Doerner](../../persons/andrea_doerner/222.md) | 40+ | | 8.63 | 10.29 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Andrea Doerner](../../persons/andrea_doerner/222.md) | 40+ | <i class="flag flag-DE" /> | 8.63 | 10.29 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Andy Nicholls](../../persons/andy_nicholls/222.md) | 40+ | <i class="flag flag-GB" /> | 4.01 | 6.35 |  | 🥇 x 1, 🥈 x 3, 🥉 x 1 | 🔥 x 4, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | <i class="flag flag-AU" /> | 3.29 | 5.17 | 🏆 x 1 | 🥇 x 6, 🥈 x 18, 🥉 x 7 | 🔥 x 5, ⚡ x 3 |
 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | <i class="flag flag-GB" /> | 4.39 | 5.17 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
@@ -52,7 +52,7 @@
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/222.md) | 40+ | <i class="flag flag-PL" /> | 4.57 | 5.86 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [JM Tambaoan](../../persons/jm_tambaoan/222.md) | 40+ | <i class="flag flag-PH" /> | 4.47 | 6.91 |  | 🥈 x 2, 🥉 x 3 | 🔥 x 4, ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/222.md) | 50+ | <i class="flag flag-US" /> | 10.77 | 16.61 |  |  | 🔥 x 6, ⚡ x 6 |
-| [Jalmari Raippalinna](../../persons/jalmari_raippalinna/222.md) | 40+ | | 11.86 | 15.84 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Jalmari Raippalinna](../../persons/jalmari_raippalinna/222.md) | 40+ | <i class="flag flag-FI" /> | 11.86 | 15.84 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/222.md) | 40+ | <i class="flag flag-GB" /> | 3.34 | 10.72 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Jang Junho (장준호)](../../persons/jang_junho/222.md) | 40+ | <i class="flag flag-KR" /> | 9.01 | 10.40 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/222.md) | 40+ | <i class="flag flag-US" /> | 3.44 | 6.09 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |

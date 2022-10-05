@@ -26,7 +26,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/skewb.md) | 40+ | <i class="flag flag-GB" /> | 14.77 | 18.74 |  | 🥈 x 4 | 🔥 x 4, ⚡ x 2 |
-| [Andrea Doerner](../../persons/andrea_doerner/skewb.md) | 40+ | | 8.96 | 11.49 |  | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
+| [Andrea Doerner](../../persons/andrea_doerner/skewb.md) | 40+ | <i class="flag flag-DE" /> | 8.96 | 11.49 |  | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Anthony Rochester](../../persons/anthony_rochester/skewb.md) | 40+ | <i class="flag flag-AU" /> | 7.83 | 9.23 | 🏆 x 3 | 🥇 x 5, 🥈 x 3 | 🔥 x 6, ⚡ x 5 |
 | [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 5.78 | 15.48 | 🏆 x 3 | 🥇 x 3, 🥈 x 5, 🥉 x 4 | 💥 x 1, 🔥 x 6, ⚡ x 3 |
 | [Eric Dodson](../../persons/eric_dodson/skewb.md) | 40+ | <i class="flag flag-US" /> | 4.34 | 10.22 | 🏆 x 10 | 🥇 x 12, 🥈 x 2, 🥉 x 1 | 🔥 x 6, ⚡ x 4 |
