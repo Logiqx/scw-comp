@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-10-03](../../results/2022-10-03/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mickey Doyle](../../persons/mickey_doyle/skewb.md) | 40+ | <i class="flag flag-US" /> | 13.73 | 19.72 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/3347502062203517/permalink/3354362904850766) / [Mobile](https://m.facebook.com/events/3347502062203517?view=permalink&id=3354362904850766) |
+
 #### [2022-09-19](../../results/2022-09-19/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

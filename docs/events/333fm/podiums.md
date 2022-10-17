@@ -6,13 +6,20 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-10-03](../../results/2022-10-03/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [David Roche](../../persons/david_roche/333fm.md) | 50+ | <i class="flag flag-AU" /> | 28 | 29.67 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3169232626723149/permalink/3172796583033420) / [Mobile](https://m.facebook.com/events/3169232626723149?view=permalink&id=3172796583033420) |
+| 2 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | <i class="flag flag-BR" /> | 32 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/3169232626723149/permalink/3182940292019049) / [Mobile](https://m.facebook.com/events/3169232626723149?view=permalink&id=3182940292019049) |
+
 #### [2022-09-19](../../results/2022-09-19/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |
 | :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
 | 1 | [David Roche](../../persons/david_roche/333fm.md) | 50+ | <i class="flag flag-AU" /> | 27 | 30.33 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3238372606482352/permalink/3242299289423017) / [Mobile](https://m.facebook.com/events/3238372606482352?view=permalink&id=3242299289423017) |
 | 2 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | <i class="flag flag-BR" /> | 29 | 33.33 | 🥈 | [Desktop](https://www.facebook.com/events/3238372606482352/permalink/3239464103039869) / [Mobile](https://m.facebook.com/events/3238372606482352?view=permalink&id=3239464103039869) |
-| 3 | [Joey Day](../../persons/joey_day/333fm.md) | 40+ | | 62 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/3238372606482352/permalink/3242299289423017) / [Mobile](https://m.facebook.com/events/3238372606482352?view=permalink&id=3242299289423017) |
+| 3 | [Joey Day](../../persons/joey_day/333fm.md) | 40+ | <i class="flag flag-US" /> | 62 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/3238372606482352/permalink/3242299289423017) / [Mobile](https://m.facebook.com/events/3238372606482352?view=permalink&id=3242299289423017) |
 
 #### [2022-09-05](../../results/2022-09-05/333fm.md)
 
