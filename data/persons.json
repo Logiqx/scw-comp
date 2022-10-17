@@ -27,6 +27,7 @@
   },
   "Andrea Doerner": {
     "age": "40+",
+    "avatar": "1583308538.jpg",
     "country": "Germany",
     "id": 106,
     "wcaId": "2020DOER01"
@@ -337,7 +338,7 @@
   },
   "Joey Day": {
     "age": "40+",
-    "country": "???",
+    "country": "United States",
     "id": 111,
     "wcaId": "2022DAYJ01"
   },
@@ -364,7 +365,7 @@
   },
   "Jon McClay": {
     "age": "<40",
-    "country": "???",
+    "country": "United States",
     "id": 107
   },
   "Jonathan Charlesworth": {
@@ -587,6 +588,11 @@
     "country": "Sweden",
     "id": 7,
     "wcaId": "2014UGGL01"
+  },
+  "Rachel Radtke": {
+    "age": "<40",
+    "country": "???",
+    "id": 112
   },
   "Raimon Schaap": {
     "age": "<40",

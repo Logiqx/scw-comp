@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-10-03](../../results/2022-10-03/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 8.07 | 8.53 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1113163972925182/permalink/1123557638552482) / [Mobile](https://m.facebook.com/events/1113163972925182?view=permalink&id=1123557638552482) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/222.md) | 40+ | <i class="flag flag-GB" /> | 6.65 | 8.88 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1113163972925182/permalink/1122490768659169) / [Mobile](https://m.facebook.com/events/1113163972925182?view=permalink&id=1122490768659169) |
+| 3 | [Mark Cordell](../../persons/mark_cordell/222.md) | 40+ | <i class="flag flag-US" /> | 8.91 | 9.14 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/1113163972925182/permalink/1124375881803991) / [Mobile](https://m.facebook.com/events/1113163972925182?view=permalink&id=1124375881803991) |
+
 #### [2022-09-19](../../results/2022-09-19/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

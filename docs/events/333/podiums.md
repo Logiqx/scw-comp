@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-10-03](../../results/2022-10-03/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 15.16 | 16.29 | 🥇 | [Desktop](https://www.facebook.com/events/1113163972925182/permalink/1122398955335017) / [Mobile](https://m.facebook.com/events/1113163972925182?view=permalink&id=1122398955335017) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 17.30 | 18.97 | 🥈 | [Desktop](https://www.facebook.com/520891933/videos/644698660420296) / [Mobile](https://m.facebook.com/520891933/videos/644698660420296) |
+| 3 | [Rodney Gardner](../../persons/rodney_gardner/333.md) | 50+ | <i class="flag flag-US" /> | 17.84 | 19.73 | 🥉 | [Desktop](https://www.facebook.com/events/1113163972925182/permalink/1121990102042569) / [Mobile](https://m.facebook.com/events/1113163972925182?view=permalink&id=1121990102042569) |
+
 #### [2022-09-19](../../results/2022-09-19/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
