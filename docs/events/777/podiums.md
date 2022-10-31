@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-10-17](../../results/2022-10-17/777.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 5:44.07 | 5:54.05 | 🥇 🔥 | [Desktop](https://www.facebook.com/events/5873184052742514/permalink/5880518628675723) / [Mobile](https://m.facebook.com/events/5873184052742514?view=permalink&id=5880518628675723) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/777.md) | 40+ | <i class="flag flag-GB" /> | 5:44.13 | 6:17.94 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/815539682815599/permalink/835507670818800) / [Mobile](https://m.facebook.com/events/815539682815599?view=permalink&id=835507670818800) |
+
 #### [2022-10-03](../../results/2022-10-03/777.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

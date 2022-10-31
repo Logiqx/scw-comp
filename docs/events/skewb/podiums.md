@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-10-17](../../results/2022-10-17/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 18.05 | 22.87 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1085515762098391/permalink/1095070054476295) / [Mobile](https://m.facebook.com/events/1085515762098391?view=permalink&id=1095070054476295) |
+
 #### [2022-10-03](../../results/2022-10-03/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
