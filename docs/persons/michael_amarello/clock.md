@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-10-31](../../results/2022-10-31/clock.md) | 50+ | 15.26 | **17.21** | 🏆 🥇 🔥 | 15.52 | 19.37 | 24.04 | 15.26 | 16.73 | [Desktop](https://www.facebook.com/michael.amarello/videos/613508377174030) / [Mobile](https://m.facebook.com/michael.amarello/videos/613508377174030) |
 | [2022-10-17](../../results/2022-10-17/clock.md) | 50+ | **15.11** | **18.18** | 🏆 🥇 🔥 ⚡ | **15.11** | 18.87 | 17.29 | 40.43 | 18.39 | [Desktop](https://www.facebook.com/michael.amarello/videos/827440448435218) / [Mobile](https://m.facebook.com/michael.amarello/videos/827440448435218) |
 | [2022-10-03](../../results/2022-10-03/clock.md) | 50+ | **15.27** | 19.60 | 🏆 🥇 ⚡ | 21.37 | 17.67 | 19.76 | **15.27** | 29.70 | [Desktop](https://www.facebook.com/michael.amarello/videos/469236198479665) / [Mobile](https://m.facebook.com/michael.amarello/videos/469236198479665) |
 | [2022-09-19](../../results/2022-09-19/clock.md) | 50+ | **18.24** | **19.56** | 🏆 🥇 🔥 ⚡ | 23.60 | 20.28 | **18.24** | 19.69 | 18.71 | [Desktop](https://www.facebook.com/michael.amarello/videos/1094397984610699) / [Mobile](https://m.facebook.com/michael.amarello/videos/1094397984610699) |

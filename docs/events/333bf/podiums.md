@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-10-31](../../results/2022-10-31/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 49.22 | 50.41 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/789984605598588/permalink/794108288519553) / [Mobile](https://m.facebook.com/events/789984605598588?view=permalink&id=794108288519553) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 40+ | <i class="flag flag-AU" /> | 4:21.16 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/789984605598588/permalink/799184544678594) / [Mobile](https://m.facebook.com/events/789984605598588?view=permalink&id=799184544678594) |
+
 #### [2022-10-17](../../results/2022-10-17/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

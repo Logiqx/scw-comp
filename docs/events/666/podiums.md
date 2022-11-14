@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-10-31](../../results/2022-10-31/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:36.51 | 3:45.76 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/635474734791505/permalink/644883637183948) / [Mobile](https://m.facebook.com/events/635474734791505?view=permalink&id=644883637183948) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) | 40+ | <i class="flag flag-TW" /> | 4:08.18 | 4:25.47 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/635474734791505/permalink/638568634482115) / [Mobile](https://m.facebook.com/events/635474734791505?view=permalink&id=638568634482115) |
+
 #### [2022-10-17](../../results/2022-10-17/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

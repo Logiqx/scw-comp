@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-10-31](../../results/2022-10-31/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/skewb.md) | 40+ | <i class="flag flag-TW" /> | 9.03 | 13.56 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/843784600089254/permalink/846933653107682) / [Mobile](https://m.facebook.com/events/843784600089254?view=permalink&id=846933653107682) |
+| 2 | [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 14.52 | 17.26 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/843784600089254/permalink/853401805794200) / [Mobile](https://m.facebook.com/events/843784600089254?view=permalink&id=853401805794200) |
+
 #### [2022-10-17](../../results/2022-10-17/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

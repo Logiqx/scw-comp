@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-10-31](../../results/2022-10-31/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.52 | 10.63 | 🥇 | [Desktop](https://www.facebook.com/events/843784600089254/permalink/847280416406339) / [Mobile](https://m.facebook.com/events/843784600089254?view=permalink&id=847280416406339) |
+| 2 | [Mark Cordell](../../persons/mark_cordell/pyram.md) | 40+ | <i class="flag flag-US" /> | 10.31 | 11.50 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/843784600089254/permalink/853401805794200) / [Mobile](https://m.facebook.com/events/843784600089254?view=permalink&id=853401805794200) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/pyram.md) | 40+ | <i class="flag flag-US" /> | 12.50 | 23.06 | 🥉 | [Desktop](https://www.facebook.com/events/843784600089254/permalink/847936066340774) / [Mobile](https://m.facebook.com/events/843784600089254?view=permalink&id=847936066340774) |
+
 #### [2022-10-17](../../results/2022-10-17/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
