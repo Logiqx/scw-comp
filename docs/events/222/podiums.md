@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-11-14](../../results/2022-11-14/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 5.23 | 7.80 | 🥇 | [Desktop](https://www.facebook.com/events/536496438309051/permalink/555082016450493) / [Mobile](https://m.facebook.com/events/536496438309051?view=permalink&id=555082016450493) |
+| 2 | [Mark Cordell](../../persons/mark_cordell/222.md) | 40+ | <i class="flag flag-US" /> | 6.16 | 8.28 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/5802707333170226/permalink/5841408745966751) / [Mobile](https://m.facebook.com/events/5802707333170226?view=permalink&id=5841408745966751) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/222.md) | 40+ | <i class="flag flag-US" /> | 7.76 | 8.65 | 🥉 | [Desktop](https://www.facebook.com/events/5802707333170226/permalink/5842826439158315) / [Mobile](https://m.facebook.com/events/5802707333170226?view=permalink&id=5842826439158315) |
+
 #### [2022-10-31](../../results/2022-10-31/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

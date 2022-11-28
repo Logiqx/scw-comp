@@ -19,7 +19,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333bf.md) | 40+ | <i class="flag flag-GB" /> | 2:00.58 | 2:24.45 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 1, ⚡ x 1 |
-| [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 44.61 | 50.41 | 🏆 x 16 | 🥇 x 17, 🥈 x 18, 🥉 x 8 | 🔥 x 3, ⚡ x 7 |
+| [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 44.61 | 50.41 | 🏆 x 17 | 🥇 x 18, 🥈 x 18, 🥉 x 8 | 🔥 x 3, ⚡ x 7 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | <i class="flag flag-PL" /> | 51.62 | 59.98 | 🏆 x 7 | 🥇 x 7, 🥈 x 11, 🥉 x 3 | 🔥 x 2, ⚡ x 5 |
 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | <i class="flag flag-CA" /> | 1:23.53 | 1:33.27 | 🏆 x 3 | 🥇 x 3, 🥈 x 15, 🥉 x 14 | 🔥 x 7, ⚡ x 6 |
 | [Jae Park](../../persons/jae_park/333bf.md) | 50+ | <i class="flag flag-US" /> | 37.19 | 48.04 | 🏆 x 47 | 🥇 x 50, 🥈 x 1 | 💥 x 12, 🔥 x 3, ⚡ x 10 |
@@ -29,7 +29,7 @@
 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | <i class="flag flag-SE" /> | 1:57.81 | 3:12.88 | 🏆 x 1 | 🥇 x 2, 🥈 x 6, 🥉 x 5 | 💥 x 6, 🔥 x 1, ⚡ x 5 |
 | [Stuart Salmon](../../persons/stuart_salmon/333bf.md) | 40+ | <i class="flag flag-GB" /> | 3:24.37 | DNF |  |  | ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | 40+ | <i class="flag flag-FR" /> | 1:11.93 | 1:31.27 | 🏆 x 3 | 🥇 x 3, 🥈 x 9, 🥉 x 4 | 🔥 x 3, ⚡ x 2 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 40+ | <i class="flag flag-AU" /> | 3:10.33 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 1 | ⚡ x 2 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 40+ | <i class="flag flag-AU" /> | 3:10.33 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333bf.md) | 40+ | <i class="flag flag-IN" /> | 5:29.35 | DNF |  |  | ⚡ x 1 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333bf.md) | 40+ | <i class="flag flag-FR" /> | 1:50.43 | 2:50.79 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 3 |
 | [Yuichi Hamada](../../persons/yuichi_hamada/333bf.md) | 40+ | <i class="flag flag-JP" /> | 2:21.37 | DNF |  | 🥉 x 1 | ⚡ x 1 |

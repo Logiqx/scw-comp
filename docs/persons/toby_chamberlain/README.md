@@ -10,8 +10,8 @@
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [3x3x3](333.md) | 13.57 | 16.87 | 🏆 x 1 | 🥇 x 14, 🥈 x 9, 🥉 x 7 | 🔥 x 10, ⚡ x 5 |
-| [3x3x3 BLD](333bf.md) | 3:10.33 | - | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 1 | ⚡ x 2 |
+| [3x3x3](333.md) | 13.57 | 16.87 | 🏆 x 1 | 🥇 x 14, 🥈 x 10, 🥉 x 7 | 🔥 x 10, ⚡ x 5 |
+| [3x3x3 BLD](333bf.md) | 3:10.33 | - | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

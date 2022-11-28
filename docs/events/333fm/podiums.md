@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-11-14](../../results/2022-11-14/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | <i class="flag flag-BR" /> | 31 | 32.33 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/523380489415284/permalink/531189428634390) / [Mobile](https://m.facebook.com/events/523380489415284?view=permalink&id=531189428634390) |
+| 2 | [Dan Smith](../../persons/dan_smith/333fm.md) | 50+ | <i class="flag flag-US" /> | 53 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/523380489415284/permalink/531741625245837) / [Mobile](https://m.facebook.com/events/523380489415284?view=permalink&id=531741625245837) |
+
 #### [2022-10-31](../../results/2022-10-31/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |
