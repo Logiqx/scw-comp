@@ -44,7 +44,7 @@
 | [Raúl Morales](../../persons/raul_morales/333oh.md) | 40+ | <i class="flag flag-ES" /> | 31.07 | 37.84 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 23.59 | 29.77 |  | 🥇 x 1, 🥈 x 10, 🥉 x 7 | 🔥 x 8, ⚡ x 3 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | <i class="flag flag-PL" /> | 27.43 | 35.12 |  | 🥉 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 36.15 | 40.05 | 🏆 x 1 | 🥇 x 2 | 🔥 x 1, ⚡ x 2 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 36.15 | 40.05 | 🏆 x 2 | 🥇 x 3 | 🔥 x 1, ⚡ x 2 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333oh.md) | 40+ | <i class="flag flag-FR" /> | 31.59 | 38.24 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40

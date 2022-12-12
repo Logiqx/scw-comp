@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-11-28](../../results/2022-11-28/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:35.79 | 1:46.17 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1208453943094393/permalink/1216417028964751) / [Mobile](https://m.facebook.com/events/1208453943094393?view=permalink&id=1216417028964751) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | <i class="flag flag-GB" /> | 1:48.60 | 1:59.95 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1208453943094393/permalink/1218074062132381) / [Mobile](https://m.facebook.com/events/1208453943094393?view=permalink&id=1218074062132381) |
+| 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | <i class="flag flag-TW" /> | 1:50.26 | 2:02.54 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1208453943094393/permalink/1216937325579388) / [Mobile](https://m.facebook.com/events/1208453943094393?view=permalink&id=1216937325579388) |
+
 #### [2022-11-14](../../results/2022-11-14/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

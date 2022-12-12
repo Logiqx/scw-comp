@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-11-28](../../results/2022-11-28/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.51 | 11.90 | 🥇 | [Desktop](https://www.facebook.com/events/1804728823229042/permalink/1815547062147218) / [Mobile](https://m.facebook.com/events/1804728823229042?view=permalink&id=1815547062147218) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/pyram.md) | 40+ | <i class="flag flag-TW" /> | 12.84 | 14.34 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1804728823229042/permalink/1814229285612329) / [Mobile](https://m.facebook.com/events/1804728823229042?view=permalink&id=1814229285612329) |
+| 3 | [Michael Amarello](../../persons/michael_amarello/pyram.md) | 50+ | <i class="flag flag-US" /> | 19.47 | 26.07 | 🥉 | [Desktop](https://www.facebook.com/michael.amarello/videos/860861595267914) / [Mobile](https://m.facebook.com/michael.amarello/videos/860861595267914) |
+
 #### [2022-11-14](../../results/2022-11-14/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

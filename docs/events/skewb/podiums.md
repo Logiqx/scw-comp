@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-11-28](../../results/2022-11-28/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/skewb.md) | 40+ | <i class="flag flag-TW" /> | 7.92 | 13.53 | 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1804728823229042/permalink/1814229445612313) / [Mobile](https://m.facebook.com/events/1804728823229042?view=permalink&id=1814229445612313) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/skewb.md) | 40+ | <i class="flag flag-US" /> | 10.20 | 15.58 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1804728823229042/permalink/1815728625462395) / [Mobile](https://m.facebook.com/events/1804728823229042?view=permalink&id=1815728625462395) |
+
 #### [2022-11-14](../../results/2022-11-14/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

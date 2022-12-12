@@ -40,11 +40,11 @@
 | [Marcel Balzer](../../persons/marcel_balzer/skewb.md) | 40+ | <i class="flag flag-DE" /> | 27.44 | 47.53 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 1 |
 | [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 11.06 | 15.09 | 🏆 x 2 | 🥇 x 2, 🥈 x 1 | 🔥 x 3, ⚡ x 3 |
 | [Michael George](../../persons/michael_george/skewb.md) | 40+ | <i class="flag flag-GB" /> | 2.78 | 7.91 | 🏆 x 8 | 🥇 x 10 | 💥 x 4, 🔥 x 3, ⚡ x 2 |
-| [Mickey Doyle](../../persons/mickey_doyle/skewb.md) | 40+ | <i class="flag flag-US" /> | 10.42 | 19.72 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 3 | 🔥 x 5, ⚡ x 4 |
+| [Mickey Doyle](../../persons/mickey_doyle/skewb.md) | 40+ | <i class="flag flag-US" /> | 10.20 | 15.58 | 🏆 x 1 | 🥇 x 1, 🥈 x 4, 🥉 x 3 | 🔥 x 6, ⚡ x 5 |
 | [Peter Douthwright](../../persons/peter_douthwright/skewb.md) | 60+ | <i class="flag flag-CA" /> | 15.41 | 26.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Terence Brown](../../persons/terence_brown/skewb.md) | 40+ | <i class="flag flag-NZ" /> | 7.32 | 11.02 |  | 🥈 x 2 | 🔥 x 1, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | 40+ | <i class="flag flag-IN" /> | 4.49 | 8.06 | 🏆 x 2 | 🥇 x 2, 🥈 x 1 | 🔥 x 3, ⚡ x 3 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/skewb.md) | 40+ | <i class="flag flag-TW" /> | 8.17 | 11.74 | 🏆 x 2 | 🥇 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/skewb.md) | 40+ | <i class="flag flag-TW" /> | 7.92 | 11.74 | 🏆 x 2 | 🥇 x 3, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 
 #### Under 40
 
@@ -54,7 +54,7 @@
 | [Chris Looney](../../persons/chris_looney/skewb.md) | <40 | <i class="flag flag-US" /> | 9.58 | 13.06 | 🏆 x 1 |  | 🔥 x 2, ⚡ x 2 |
 | [Chris Thames](../../persons/chris_thames/skewb.md) | <40 | <i class="flag flag-US" /> | 9.60 | 18.66 | 🏆 x 1 |  | 🔥 x 4, ⚡ x 2 |
 | [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | <i class="flag flag-IE" /> | 4.85 | 11.31 | 🏆 x 2 |  | 🔥 x 3, ⚡ x 3 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | <40 | <i class="flag flag-VE" /> | 3.85 | 7.95 | 🏆 x 8 |  | 🔥 x 3, ⚡ x 5 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | <40 | <i class="flag flag-VE" /> | 3.85 | 7.95 | 🏆 x 9 |  | 🔥 x 3, ⚡ x 5 |
 | [Greg Simmons](../../persons/greg_simmons/skewb.md) | <40 | <i class="flag flag-GB" /> | 7.57 | 12.32 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Nick Agatyn](../../persons/nick_agatyn/skewb.md) | <40 | <i class="flag flag-AU" /> | 5.32 | 9.98 | 🏆 x 2 |  | 🔥 x 3, ⚡ x 3 |
 | [Pete Lee](../../persons/pete_lee/skewb.md) | <40 | <i class="flag flag-GB" /> | 6.84 | 13.62 |  |  | 🔥 x 2, ⚡ x 3 |
