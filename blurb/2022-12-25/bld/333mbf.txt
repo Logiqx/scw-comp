@@ -1,0 +1,35 @@
+D2 U' R2 U' F2 R2 B D2 B2 F L' D' L2 B' F L' U' B Uw'
+U' L' F' D R' U L B2 L' D2 B2 L2 U' R2 D2 L2 U F' Rw2 Uw2
+D' R2 F R B F2 D2 B2 L2 D' F2 U B2 L U' L2 U' L2 U' B' Rw Uw
+F' U L U B U' B R F' R2 U' F' U2 F' B U2 B D2 Fw'
+R' B2 R2 B2 L2 U2 F2 D F2 B R2 B L D2 F2 R' F L2 D Fw Uw'
+R' B' F2 D2 F2 R' F2 D2 L U2 B' L2 D L D R2 U' L2 F'
+L2 D2 B' R2 B' L2 F2 R' D U L' B' L2 D' F' D' R2 B Rw2
+L' B' D' R' F U F D2 B2 R2 D2 L D2 F2 L2 F D2 B U' Fw'
+R B2 R B2 F2 L D2 L F2 B' L2 D' R B' U R' D L2 F2 Rw' Uw2
+F' R' B2 L2 D' R2 D R2 D2 B D2 B2 L2 U2 B R2 B' L U' Fw' Uw
+F2 L R B2 L2 R F2 D L' F D' B F D2 L B' D' B2 Rw' Uw2
+D' L2 D' R2 D' B2 U2 R2 B' D2 F' R U B D R F2 R' D2 F' Rw' Uw'
+R L2 D F2 D2 F2 L2 D' R2 D L' R' B L' B' L F D' B2
+U2 R2 B' U' F2 D' B2 R2 D U' R2 U L D2 F U' B D' L2 Fw Uw2
+B' R' L' B' L2 D' B2 U2 B R2 F2 R' D2 R L2 U2 L' F2 D2 Rw' Uw
+D2 F2 L B2 L F2 R2 B2 L2 D2 B F' D F R B' U' L B2 U' Fw
+F' L' B' L2 D B' D R F B' L2 D2 F D2 F2 D2 B' R' U' Rw Uw'
+U2 L2 B2 L2 R2 D L2 U' B2 L' F R B' D' B L F2 R2 B' Rw Uw
+R2 U' R2 D B2 R2 B2 U' L2 F' L U2 B' U L U' F2 L B2 D2 Rw' Uw
+U L F' L2 U B2 U B2 F2 L2 U R2 U' B2 R B U' B2 U R' Uw
+U L D2 F L2 F2 L2 F L2 R2 B L' B' D B F2 R U2 B2 Uw
+B L' F L D2 R2 U R2 U2 L2 F2 R2 D L' F D2 F R' B R Fw' Uw2
+R' F' L2 U' F D2 B2 F U2 L2 R2 B' L F2 D U' R' D' U' Fw Uw'
+D2 B2 U2 L' D2 L F2 L2 D2 L U R B2 L2 F' L R B2 D' B Rw' Uw2
+D' B2 F2 R' F2 U2 L2 R2 U2 R' B' R U' B D U2 B U' L2 F Uw2
+L B' U R' U2 F2 B2 U' D B' D' F L2 B' R2 F2 L2 U2 F Rw Uw
+D' R2 U R2 F2 D' B2 D R' U F2 D2 U' F' L R2 U' L' D2 Fw Uw'
+U F2 B' R F2 D' B' L2 D' B2 R' U2 R U2 D2 L2 B Rw2
+U' L2 F D2 F D' R2 L U R F2 B2 D' F2 U L2 U F2 Uw'
+L2 D' B U2 B D2 F' L2 F' U2 F' U' R B L' B F' D' L2 B Rw Uw2
+L F' L' D L2 F' U' B' D L2 U2 F2 B2 L' D2 F2 U2 L2 U2 L' Fw Uw'
+R' L' B' D' R U2 D' B U' L2 B' D2 L2 F2 B L2 U2 R' D' Rw Uw
+F' D' F U2 L' D F2 U B2 D2 B L' F2 U' F' R' D Rw'
+F' L2 U2 F2 D' U R2 B2 U' R B' R F D2 F' U2 R B' Uw'
+U B2 R B2 D2 B R2 B R2 L2 D L2 U F2 R2 D2 R2 U2 R Fw Uw2
