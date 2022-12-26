@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-12-12](../../results/2022-12-12/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | <i class="flag flag-TW" /> | 41 | 44.33 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/638689841369034/permalink/644033824167969) / [Mobile](https://m.facebook.com/events/638689841369034?view=permalink&id=644033824167969) |
+
 #### [2022-11-28](../../results/2022-11-28/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

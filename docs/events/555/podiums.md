@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-12-12](../../results/2022-12-12/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:32.65 | 1:39.16 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1310297966473638/permalink/1321461952023906) / [Mobile](https://m.facebook.com/events/1310297966473638?view=permalink&id=1321461952023906) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | <i class="flag flag-TW" /> | 2:03.07 | 2:11.57 | 🥈 | [Desktop](https://www.facebook.com/events/1310297966473638/permalink/1315409012629200) / [Mobile](https://m.facebook.com/events/1310297966473638?view=permalink&id=1315409012629200) |
+| 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 3:07.16 | 3:10.37 | 🥉 | [Desktop](https://www.facebook.com/events/1208453943094393/permalink/1228478711091916) / [Mobile](https://m.facebook.com/events/1208453943094393?view=permalink&id=1228478711091916) |
+
 #### [2022-11-28](../../results/2022-11-28/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

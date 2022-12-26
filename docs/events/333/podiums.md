@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-12-12](../../results/2022-12-12/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 15.25 | 16.52 | 🥇 | [Desktop](https://www.facebook.com/events/1541409726309933/permalink/1563232580794314) / [Mobile](https://m.facebook.com/events/1541409726309933?view=permalink&id=1563232580794314) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | <i class="flag flag-TW" /> | 18.07 | 18.32 | 🥈 | [Desktop](https://www.facebook.com/events/1263750814207978/permalink/1266150863967973) / [Mobile](https://m.facebook.com/events/1263750814207978?view=permalink&id=1266150863967973) |
+| 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 16.56 | 18.59 | 🥉 | [Desktop](https://www.facebook.com/520891933/videos/1625456011228596) / [Mobile](https://m.facebook.com/520891933/videos/1625456011228596) |
+
 #### [2022-11-28](../../results/2022-11-28/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

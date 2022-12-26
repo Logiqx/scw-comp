@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-12-12](../../results/2022-12-12/minx.md) | <40 | 1:39.45 | 1:49.85 | 🏆 | 1:52.50 | 1:47.28 | 1:39.45 | 1:52.14 | 1:50.13 | [Desktop](https://www.facebook.com/chris.looney/videos/1183704045879954) / [Mobile](https://m.facebook.com/chris.looney/videos/1183704045879954) |
 | [2022-11-28](../../results/2022-11-28/minx.md) | <40 | **1:34.96** | 1:49.99 | 🏆 ⚡ | **1:34.96** | 1:42.49 | 1:55.80 | 2:13.20 | 1:51.69 | [Desktop](https://www.facebook.com/chris.looney/videos/863420938182193) / [Mobile](https://m.facebook.com/chris.looney/videos/863420938182193) |
 | [2022-11-14](../../results/2022-11-14/minx.md) | <40 | **1:37.61** | 1:51.29 | 🏆 ⚡ | 1:48.44 | 1:52.97 | 1:52.45 | 1:57.77 | **1:37.61** | [Desktop](https://www.facebook.com/chris.looney/videos/836047324387155) / [Mobile](https://m.facebook.com/chris.looney/videos/836047324387155) |
 | [2022-10-31](../../results/2022-10-31/minx.md) | <40 | 1:56.41 | 2:04.70 | 🏆 | 1:56.41 | 2:00.28 | 2:04.83 | 2:08.98 | 2:14.34 | [Desktop](https://www.facebook.com/chris.looney/videos/829503174841521) / [Mobile](https://m.facebook.com/chris.looney/videos/829503174841521) |
