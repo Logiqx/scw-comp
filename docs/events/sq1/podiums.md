@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-12-26](../../results/2022-12-26/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 18.85 | 22.48 | 🥇 | [Desktop](https://www.facebook.com/events/1093949927944727/permalink/1101977133808673) / [Mobile](https://m.facebook.com/events/1093949927944727?view=permalink&id=1101977133808673) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 40+ | <i class="flag flag-US" /> | 28.67 | 38.74 | 🥈 | [Desktop](https://www.facebook.com/events/1093949927944727/permalink/1102117247127995) / [Mobile](https://m.facebook.com/events/1093949927944727?view=permalink&id=1102117247127995) |
+| 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/sq1.md) | 40+ | <i class="flag flag-TW" /> | 37.71 | 46.77 | 🥉 | [Desktop](https://www.facebook.com/events/1093949927944727/permalink/1099536637386056) / [Mobile](https://m.facebook.com/events/1093949927944727?view=permalink&id=1099536637386056) |
+
 #### [2022-12-12](../../results/2022-12-12/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

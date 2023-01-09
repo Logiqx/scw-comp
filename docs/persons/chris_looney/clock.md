@@ -1,0 +1,20 @@
+<style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+
+## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+### [Chris Looney](README.md) - [2022LOON02](https://www.worldcubeassociation.org/persons/2022LOON02?event=clock)
+
+<i class="flag flag-US" />&nbsp;United States
+
+#### Clock Results
+
+<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-12-26](../../results/2022-12-26/clock.md) | <40 | **27.84** | **38.00** | 🔥 ⚡ | 37.07 | 1:12.15 | **27.84** | 44.74 | 32.19 | [Desktop](https://www.facebook.com/chris.looney/videos/700623628114983) / [Mobile](https://m.facebook.com/chris.looney/videos/700623628114983) |
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

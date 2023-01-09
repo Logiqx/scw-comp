@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2022-12-26](../../results/2022-12-26/pyram.md) | <40 | 5.90 | 8.59 | 🏆 | 9.00 | 8.27 | 8.50 | 5.90 | 12.72 | [Desktop](https://www.facebook.com/chris.looney/videos/612220927575035) / [Mobile](https://m.facebook.com/chris.looney/videos/612220927575035) |
 | [2022-12-12](../../results/2022-12-12/pyram.md) | <40 | 6.96 | 8.53 | 🏆 | 8.52 | 8.56 | 6.96 | 8.51 | 10.38 | [Desktop](https://www.facebook.com/chris.looney/videos/549273360396830) / [Mobile](https://m.facebook.com/chris.looney/videos/549273360396830) |
 | [2022-11-28](../../results/2022-11-28/pyram.md) | <40 | 6.88 | 8.52 | 🏆 | 8.04 | 12.23 | 6.88 | 7.98 | 9.53 | [Desktop](https://www.facebook.com/chris.looney/videos/2781087832027371) / [Mobile](https://m.facebook.com/chris.looney/videos/2781087832027371) |
 | [2022-11-14](../../results/2022-11-14/pyram.md) | <40 | 8.46 | 9.69 | 🏆 | 8.46 | 10.45 | 11.48 | 9.85 | 8.77 | [Desktop](https://www.facebook.com/chris.looney/videos/2738529656281698) / [Mobile](https://m.facebook.com/chris.looney/videos/2738529656281698) |

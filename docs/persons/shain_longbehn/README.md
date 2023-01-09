@@ -8,7 +8,7 @@
 
 | Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
-| [Square-1](sq1.md) | 16.20 | 17.50 | 🏆 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Square-1](sq1.md) | 11.04 | 17.50 | 🏆 x 2 | 💥 x 2, 🔥 x 1, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

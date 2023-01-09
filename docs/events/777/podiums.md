@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2022-12-26](../../results/2022-12-26/777.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 5:29.87 | 5:45.67 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/699260168471197/permalink/707102514353629) / [Mobile](https://m.facebook.com/events/699260168471197?view=permalink&id=707102514353629) |
+
 #### [2022-12-12](../../results/2022-12-12/777.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

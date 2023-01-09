@@ -10,8 +10,8 @@
 | :-- | --: | --: | :-- |
 | [3x3x3](333.md) | 27.08 | 32.38 | 🔥 x 2, ⚡ x 1 |
 | [2x2x2](222.md) | 4.48 | 7.37 | 🔥 x 2, ⚡ x 1 |
-| [Pyraminx](pyram.md) | 18.45 | 19.77 | 🔥 x 1, ⚡ x 1 |
-| [Skewb](skewb.md) | 11.32 | 19.28 | 🔥 x 1, ⚡ x 1 |
+| [Pyraminx](pyram.md) | 10.67 | 14.10 | 🔥 x 2, ⚡ x 2 |
+| [Skewb](skewb.md) | 7.05 | 18.04 | 🔥 x 2, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
