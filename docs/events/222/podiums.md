@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-01-09](../../results/2023-01-09/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 5.03 | 6.87 | 🥇 | [Desktop](https://www.facebook.com/events/4054783058080417/permalink/4067666840125372) / [Mobile](https://m.facebook.com/events/4054783058080417?view=permalink&id=4067666840125372) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/222.md) | 40+ | <i class="flag flag-TW" /> | 7.11 | 9.06 | 🥈 | [Desktop](https://www.facebook.com/events/4054783058080417/permalink/4064915487067174) / [Mobile](https://m.facebook.com/events/4054783058080417?view=permalink&id=4064915487067174) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/222.md) | 40+ | <i class="flag flag-US" /> | 8.06 | 9.74 | 🥉 | [Desktop](https://www.facebook.com/events/4054783058080417/permalink/4067703856788337) / [Mobile](https://m.facebook.com/events/4054783058080417?view=permalink&id=4067703856788337) |
+
 #### [2022-12-26](../../results/2022-12-26/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

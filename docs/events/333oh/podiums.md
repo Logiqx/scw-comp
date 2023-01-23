@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-01-09](../../results/2023-01-09/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 34.38 | 39.38 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/4054783058080417/permalink/4064915270400529) / [Mobile](https://m.facebook.com/events/4054783058080417?view=permalink&id=4064915270400529) |
+| 2 | [Jo Cocco](../../persons/jo_cocco/333oh.md) | 40+ | <i class="flag flag-GB" /> | 51.56 | 58.18 | 🥈 🔥 | [Desktop](https://www.facebook.com/JoCocco/videos/550202553502142) / [Mobile](https://m.facebook.com/JoCocco/videos/550202553502142) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 58.14 | 1:06.86 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/4054783058080417/permalink/4067704156788307) / [Mobile](https://m.facebook.com/events/4054783058080417?view=permalink&id=4067704156788307) |
+
 #### [2022-12-26](../../results/2022-12-26/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
