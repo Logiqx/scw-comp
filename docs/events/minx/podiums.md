@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-01-23](../../results/2023-01-23/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 40+ | <i class="flag flag-US" /> | 2:25.66 | 2:36.98 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/492735749600024/permalink/500755805464685) / [Mobile](https://m.facebook.com/events/492735749600024?view=permalink&id=500755805464685) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 2:38.97 | 2:49.47 | 🥈 | [Desktop](https://www.facebook.com/events/492735749600024/permalink/498513875688878) / [Mobile](https://m.facebook.com/events/492735749600024?view=permalink&id=498513875688878) |
+
 #### [2023-01-09](../../results/2023-01-09/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

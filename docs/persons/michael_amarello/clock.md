@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-01-23](../../results/2023-01-23/clock.md) | 50+ | 13.19 | 15.35 | 🏆 🥇 | 14.27 | 14.97 | 16.80 | DNF | 13.19 | [Desktop](https://www.facebook.com/michael.amarello/videos/670542588148655) / [Mobile](https://m.facebook.com/michael.amarello/videos/670542588148655) |
 | [2023-01-09](../../results/2023-01-09/clock.md) | 50+ | 13.71 | 15.56 | 🥇 | 14.10 | 14.56 | 18.20 | 13.71 | 18.01 | [Desktop](https://www.facebook.com/michael.amarello/videos/545323310869798) / [Mobile](https://m.facebook.com/michael.amarello/videos/545323310869798) |
 | [2022-12-26](../../results/2022-12-26/clock.md) | 50+ | **12.10** | **14.28** | 🏆 🥇 🔥 ⚡ | 12.86 | **12.10** | 15.61 | 14.38 | 16.81 | [Desktop](https://www.facebook.com/michael.amarello/videos/869046981105447) / [Mobile](https://m.facebook.com/michael.amarello/videos/869046981105447) |
 | [2022-12-12](../../results/2022-12-12/clock.md) | 50+ | **12.89** | **15.68** | 🏆 🥇 🔥 ⚡ | **12.89** | 15.86 | 15.96 | 15.23 | 16.90 | [Desktop](https://www.facebook.com/michael.amarello/videos/570390531592435) / [Mobile](https://m.facebook.com/michael.amarello/videos/570390531592435) |

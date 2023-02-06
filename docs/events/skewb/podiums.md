@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-01-23](../../results/2023-01-23/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/skewb.md) | 40+ | <i class="flag flag-TW" /> | 8.02 | 12.15 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1297068784473295/permalink/1305422726971234) / [Mobile](https://m.facebook.com/events/1297068784473295?view=permalink&id=1305422726971234) |
+| 2 | [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 15.61 | 23.39 | 🥈 | [Desktop](https://www.facebook.com/events/1297068784473295/permalink/1306437523536421) / [Mobile](https://m.facebook.com/events/1297068784473295?view=permalink&id=1306437523536421) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/skewb.md) | 40+ | <i class="flag flag-US" /> | 19.45 | 23.81 | 🥉 | [Desktop](https://www.facebook.com/events/1297068784473295/permalink/1305685656944941) / [Mobile](https://m.facebook.com/events/1297068784473295?view=permalink&id=1305685656944941) |
+
 #### [2023-01-09](../../results/2023-01-09/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

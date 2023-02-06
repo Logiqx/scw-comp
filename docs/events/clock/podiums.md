@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-01-23](../../results/2023-01-23/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 50+ | <i class="flag flag-US" /> | 13.19 | 15.35 | 🏆 🥇 | [Desktop](https://www.facebook.com/michael.amarello/videos/670542588148655) / [Mobile](https://m.facebook.com/michael.amarello/videos/670542588148655) |
+| 2 | [Mark Cordell](../../persons/mark_cordell/clock.md) | 40+ | <i class="flag flag-US" /> | 26.61 | 32.52 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1297068784473295/permalink/1306437736869733) / [Mobile](https://m.facebook.com/events/1297068784473295?view=permalink&id=1306437736869733) |
+
 #### [2023-01-09](../../results/2023-01-09/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

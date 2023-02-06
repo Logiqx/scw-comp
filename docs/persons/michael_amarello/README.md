@@ -11,7 +11,7 @@
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
 | [Pyraminx](pyram.md) | 12.52 | 20.89 |  | 🥉 x 4 | 🔥 x 5, ⚡ x 4 |
-| [Clock](clock.md) | 12.10 | 14.28 | 🏆 x 9 | 🥇 x 10, 🥈 x 1 | 🔥 x 8, ⚡ x 8 |
+| [Clock](clock.md) | 12.10 | 14.28 | 🏆 x 10 | 🥇 x 11, 🥈 x 1 | 🔥 x 8, ⚡ x 8 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-01-23](../../results/2023-01-23/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 14.98 | 17.88 | 🥇 | [Desktop](https://www.facebook.com/events/492735749600024/permalink/496810349192564) / [Mobile](https://m.facebook.com/events/492735749600024?view=permalink&id=496810349192564) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | <i class="flag flag-TW" /> | 17.11 | 20.32 | 🥈 | [Desktop](https://www.facebook.com/events/492735749600024/permalink/498513182355614) / [Mobile](https://m.facebook.com/events/492735749600024?view=permalink&id=498513182355614) |
+| 3 | [Mark Cordell](../../persons/mark_cordell/333.md) | 40+ | <i class="flag flag-US" /> | 18.58 | 24.64 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/492735749600024/permalink/501517935388472) / [Mobile](https://m.facebook.com/events/492735749600024?view=permalink&id=501517935388472) |
+
 #### [2023-01-09](../../results/2023-01-09/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

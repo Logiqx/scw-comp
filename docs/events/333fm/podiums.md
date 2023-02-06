@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-01-23](../../results/2023-01-23/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [David Roche](../../persons/david_roche/333fm.md) | 50+ | <i class="flag flag-AU" /> | 26 | 27.67 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1346562046195582/permalink/1351006665751120) / [Mobile](https://m.facebook.com/events/1346562046195582?view=permalink&id=1351006665751120) |
+| 2 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | <i class="flag flag-BR" /> | 27 | 29.67 | 🥈 | [Desktop](https://www.facebook.com/events/1346562046195582/permalink/1356189878566132) / [Mobile](https://m.facebook.com/events/1346562046195582?view=permalink&id=1356189878566132) |
+| 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | <i class="flag flag-TW" /> | 36 | 38.00 | 🥉 | [Desktop](https://www.facebook.com/events/1346562046195582/permalink/1354662652052188) / [Mobile](https://m.facebook.com/events/1346562046195582?view=permalink&id=1354662652052188) |
+
 #### [2022-12-26](../../results/2022-12-26/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |
