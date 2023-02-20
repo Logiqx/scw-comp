@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-02-06](../../results/2023-02-06/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.98 | 9.55 | 🥇 | [Desktop](https://www.facebook.com/events/727168602388677/permalink/734152701690267) / [Mobile](https://m.facebook.com/events/727168602388677?view=permalink&id=734152701690267) |
+| 2 | [Michael Amarello](../../persons/michael_amarello/pyram.md) | 50+ | <i class="flag flag-US" /> | 13.54 | 28.49 | 🥈 | [Desktop](https://www.facebook.com/michael.amarello/videos/1406939283459414) / [Mobile](https://m.facebook.com/michael.amarello/videos/1406939283459414) |
+
 #### [2023-01-23](../../results/2023-01-23/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

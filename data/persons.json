@@ -429,6 +429,12 @@
     "country": "Spain",
     "id": 88
   },
+  "Levin Houghton": {
+    "age": "<20",
+    "country": "???",
+    "id": 115,
+    "wcaId": "2016HOUG01"
+  },
   "Liran Muchnik": {
     "age": "<40",
     "country": "Israel",
@@ -610,6 +616,12 @@
     "country": "Spain",
     "id": 42,
     "wcaId": "2013MORA02"
+  },
+  "Richard Taylor": {
+    "age": "50+",
+    "country": "???",
+    "id": 116,
+    "wcaId": "2015TAYL04"
   },
   "Rob Peters": {
     "age": "40+",
