@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-02-20](../../results/2023-02-20/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Glyn Brown](../../persons/glyn_brown/333.md) | 40+ | <i class="flag flag-GB" /> | 15.46 | 16.25 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/569225115154363/permalink/576072154469659) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=576072154469659) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 16.24 | 18.29 | 🥈 | [Desktop](https://www.facebook.com/520891933/videos/755035639223727) / [Mobile](https://m.facebook.com/520891933/videos/755035639223727) |
+| 3 | [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | <i class="flag flag-TW" /> | 16.90 | 18.50 | 🥉 | [Desktop](https://www.facebook.com/events/569225115154363/permalink/570882054988669) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=570882054988669) |
+
 #### [2023-02-06](../../results/2023-02-06/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

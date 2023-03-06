@@ -30,6 +30,7 @@
 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 20.41 | 26.24 | 🏆 x 1 | 🥇 x 1, 🥈 x 19, 🥉 x 3 | 🔥 x 6, ⚡ x 5 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.94 | 27.02 | 🏆 x 4 | 🥇 x 5, 🥈 x 28, 🥉 x 21 | 🔥 x 10, ⚡ x 7 |
 | [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | 40+ | <i class="flag flag-KR" /> | 23.29 | 27.89 | 🏆 x 2 | 🥈 x 1 | 💥 x 1, 🔥 x 3, ⚡ x 2 |
+| [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | | 50.63 | 1:04.01 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) | 40+ | <i class="flag flag-PL" /> | 24.78 | 32.65 | 🏆 x 1 | 🥇 x 1, 🥈 x 2 | 🔥 x 3, ⚡ x 2 |
 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 27.06 | 29.43 |  | 🥈 x 7, 🥉 x 20 | 🔥 x 12, ⚡ x 4 |
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333oh.md) | 40+ | <i class="flag flag-GB" /> | 32.33 | 43.99 |  |  | 🔥 x 5, ⚡ x 4 |
@@ -44,7 +45,7 @@
 | [Raúl Morales](../../persons/raul_morales/333oh.md) | 40+ | <i class="flag flag-ES" /> | 31.07 | 37.84 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 23.59 | 29.77 |  | 🥇 x 1, 🥈 x 10, 🥉 x 7 | 🔥 x 8, ⚡ x 3 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | <i class="flag flag-PL" /> | 27.43 | 35.12 |  | 🥉 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 34.38 | 39.38 | 🏆 x 5 | 🥇 x 7 | 🔥 x 2, ⚡ x 3 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 34.38 | 39.38 | 🏆 x 6 | 🥇 x 8 | 🔥 x 2, ⚡ x 3 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333oh.md) | 40+ | <i class="flag flag-FR" /> | 31.59 | 38.24 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-02-20](../../results/2023-02-20/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/skewb.md) | 40+ | <i class="flag flag-TW" /> | 8.23 | 12.48 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/902902514362571/permalink/904623514190471) / [Mobile](https://m.facebook.com/events/902902514362571?view=permalink&id=904623514190471) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | | 9.44 | 13.96 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/1168404963860559) / [Mobile](https://m.facebook.com/766997877/videos/1168404963860559) |
+| 3 | [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 9.87 | 19.85 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/902902514362571/permalink/910654333587389) / [Mobile](https://m.facebook.com/events/902902514362571?view=permalink&id=910654333587389) |
+
 #### [2023-02-06](../../results/2023-02-06/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

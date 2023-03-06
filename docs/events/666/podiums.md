@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-02-20](../../results/2023-02-20/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) | 40+ | <i class="flag flag-TW" /> | 3:38.96 | 3:45.42 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/751205503064846/permalink/753027449549318) / [Mobile](https://m.facebook.com/events/751205503064846?view=permalink&id=753027449549318) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | <i class="flag flag-GB" /> | 3:47.74 | 3:56.41 | 🥈 | [Desktop](https://www.facebook.com/events/751205503064846/permalink/758387402346656) / [Mobile](https://m.facebook.com/events/751205503064846?view=permalink&id=758387402346656) |
+
 #### [2023-01-23](../../results/2023-01-23/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -34,7 +34,7 @@
 | [Eric Dodson](../../persons/eric_dodson/666.md) | 40+ | <i class="flag flag-US" /> | 8:34.62 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/666.md) | 40+ | <i class="flag flag-JP" /> | 2:38.63 | 2:44.23 | 🏆 x 24 | 🥇 x 24 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | <i class="flag flag-GB" /> | 3:17.40 | 3:32.21 | 🏆 x 4 | 🥇 x 20, 🥈 x 25, 🥉 x 2 | 🔥 x 6, ⚡ x 5 |
-| [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | <i class="flag flag-GB" /> | 3:37.50 | 3:50.59 | 🏆 x 1 | 🥇 x 2, 🥈 x 5 | 🔥 x 5, ⚡ x 4 |
+| [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | <i class="flag flag-GB" /> | 3:37.50 | 3:50.59 | 🏆 x 1 | 🥇 x 2, 🥈 x 6 | 🔥 x 5, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | 40+ | <i class="flag flag-KR" /> | 2:48.49 | 3:03.55 | 🏆 x 2 | 🥇 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [JM Tambaoan](../../persons/jm_tambaoan/666.md) | 40+ | <i class="flag flag-PH" /> | 4:41.61 | 5:06.21 |  | 🥈 x 10, 🥉 x 2 | 🔥 x 4, ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/666.md) | 40+ | <i class="flag flag-US" /> | 12:20.61 | DNF |  | 🥈 x 1 | ⚡ x 1 |
@@ -43,7 +43,7 @@
 | [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | <i class="flag flag-FI" /> | 2:59.31 | 3:18.51 | 🏆 x 2 | 🥇 x 4, 🥈 x 7 | 🔥 x 7, ⚡ x 5 |
 | [Michael George](../../persons/michael_george/666.md) | 40+ | <i class="flag flag-GB" /> | 4:37.39 | DNF |  | 🥉 x 4 | ⚡ x 7 |
 | [Mickey Doyle](../../persons/mickey_doyle/666.md) | 40+ | <i class="flag flag-US" /> | 7:22.72 | DNF |  | 🥇 x 2, 🥈 x 1, 🥉 x 1 | ⚡ x 3 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) | 40+ | <i class="flag flag-TW" /> | 3:41.89 | 3:57.90 |  | 🥇 x 2, 🥈 x 3, 🥉 x 7 | 🔥 x 3, ⚡ x 9 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) | 40+ | <i class="flag flag-TW" /> | 3:38.96 | 3:45.42 | 🏆 x 1 | 🥇 x 3, 🥈 x 3, 🥉 x 7 | 🔥 x 4, ⚡ x 10 |
 
 #### Under 40
 

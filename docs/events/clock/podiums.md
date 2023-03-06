@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-02-20](../../results/2023-02-20/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 50+ | <i class="flag flag-US" /> | 12.26 | 14.39 | 🏆 🥇 | [Desktop](https://www.facebook.com/michael.amarello/videos/193184040000195) / [Mobile](https://m.facebook.com/michael.amarello/videos/193184040000195) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/clock.md) | 40+ | | 17.70 | 18.83 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/166200822890397) / [Mobile](https://m.facebook.com/766997877/videos/166200822890397) |
+| 3 | [Daniel Houghton](../../persons/daniel_houghton/clock.md) | 40+ | <i class="flag flag-CH" /> | 23.16 | 24.26 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/902902514362571/permalink/908312720488217) / [Mobile](https://m.facebook.com/events/902902514362571?view=permalink&id=908312720488217) |
+
 #### [2023-02-06](../../results/2023-02-06/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-02-20](../../results/2023-02-20/pyram.md) | 50+ | 17.83 | 24.13 |  | 22.18 | 21.91 | 44.76 | 28.30 | 17.83 | [Desktop](https://www.facebook.com/michael.amarello/videos/1979486362443609) / [Mobile](https://m.facebook.com/michael.amarello/videos/1979486362443609) |
 | [2023-02-06](../../results/2023-02-06/pyram.md) | 50+ | 13.54 | 28.49 | 🥈 | 22.68 | 38.33 | 24.72 | 13.54 | 38.08 | [Desktop](https://www.facebook.com/michael.amarello/videos/1406939283459414) / [Mobile](https://m.facebook.com/michael.amarello/videos/1406939283459414) |
 | [2023-01-23](../../results/2023-01-23/pyram.md) | 50+ | 16.20 | 23.55 |  | 16.20 | 30.85 | 21.41 | 18.39 | 39.30 | [Desktop](https://www.facebook.com/michael.amarello/videos/1213378429581541) / [Mobile](https://m.facebook.com/michael.amarello/videos/1213378429581541) |
 | [2023-01-09](../../results/2023-01-09/pyram.md) | 50+ | 17.15 | 23.20 | 🥉 | 17.15 | 30.24 | 33.29 | 21.38 | 17.99 | [Desktop](https://www.facebook.com/michael.amarello/videos/1299683180608375) / [Mobile](https://m.facebook.com/michael.amarello/videos/1299683180608375) |

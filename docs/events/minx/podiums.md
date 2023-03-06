@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-02-20](../../results/2023-02-20/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Gordon Holey](../../persons/gordon_holey/minx.md) | 40+ | | 3:24.41 | 4:12.02 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/569225115154363/permalink/574125621330979) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=574125621330979) |
+
 
 #### [2023-01-23](../../results/2023-01-23/minx.md)
 

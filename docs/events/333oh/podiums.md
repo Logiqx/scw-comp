@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-02-20](../../results/2023-02-20/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 36.94 | 41.39 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/569225115154363/permalink/570882224988652) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=570882224988652) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | | 50.63 | 1:04.01 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/569225115154363/permalink/574075991335942) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=574075991335942) |
+
 
 #### [2023-01-23](../../results/2023-01-23/333oh.md)
 

@@ -32,7 +32,7 @@
 | [Martin Melcop](../../persons/martin_melcop/333.md) | 60+ | <i class="flag flag-BR" /> | 26.69 | 30.01 |  |  | 💥 x 3, 🔥 x 3, ⚡ x 2 |
 | [Peter Andersson](../../persons/peter_andersson/333.md) | 50+ | <i class="flag flag-SE" /> | 20.85 | 24.84 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/333.md) | 60+ | <i class="flag flag-CA" /> | 31.12 | 35.25 |  |  | 🔥 x 6, ⚡ x 4 |
-| [Richard Taylor](../../persons/richard_taylor/333.md) | 50+ | | 25.05 | 29.70 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Richard Taylor](../../persons/richard_taylor/333.md) | 50+ | | 24.60 | 29.40 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Robert Summerfield](../../persons/robert_summerfield/333.md) | 50+ | <i class="flag flag-GB" /> | 18.87 | 22.71 |  |  | 🔥 x 9, ⚡ x 7 |
 | [Rodney Gardner](../../persons/rodney_gardner/333.md) | 50+ | <i class="flag flag-US" /> | 15.85 | 19.60 |  | 🥈 x 7, 🥉 x 5 | 🔥 x 7, ⚡ x 4 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333.md) | 50+ | <i class="flag flag-PL" /> | 17.30 | 22.13 |  |  | 🔥 x 4, ⚡ x 1 |
@@ -57,8 +57,9 @@
 | [Fumiki Koseki](../../persons/fumiki_koseki/333.md) | 40+ | <i class="flag flag-JP" /> | 12.41 | 14.90 | 🏆 x 1 | 🥇 x 1, 🥈 x 17, 🥉 x 4 | 🔥 x 6, ⚡ x 3 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | <i class="flag flag-GB" /> | 13.49 | 14.96 |  | 🥇 x 4, 🥈 x 16, 🥉 x 20 | 🔥 x 10, ⚡ x 6 |
 | [Glenn Koster](../../persons/glenn_koster/333.md) | 40+ | <i class="flag flag-US" /> | 54.26 | 1:14.11 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Glyn Brown](../../persons/glyn_brown/333.md) | 40+ | <i class="flag flag-GB" /> | 15.56 | 17.36 |  | 🥈 x 2, 🥉 x 4 | 🔥 x 4, ⚡ x 6 |
+| [Glyn Brown](../../persons/glyn_brown/333.md) | 40+ | <i class="flag flag-GB" /> | 15.46 | 16.25 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 4 | 🔥 x 5, ⚡ x 7 |
 | [Go-ho Choi](../../persons/go_ho_choi/333.md) | 40+ | <i class="flag flag-KR" /> | 11.88 | 15.05 | 🏆 x 3 | 🥈 x 1 | 💥 x 2, 🔥 x 4, ⚡ x 4 |
+| [Gordon Holey](../../persons/gordon_holey/333.md) | 40+ | | 21.39 | 26.52 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | <i class="flag flag-PL" /> | 12.84 | 14.77 |  | 🥈 x 14, 🥉 x 7 | 🔥 x 3, ⚡ x 2 |
 | [Huy Nguyen](../../persons/huy_nguyen/333.md) | 40+ | <i class="flag flag-CA" /> | 15.56 | 19.62 |  | 🥉 x 1 | 🔥 x 5, ⚡ x 5 |
 | [JM Tambaoan](../../persons/jm_tambaoan/333.md) | 40+ | <i class="flag flag-PH" /> | 14.56 | 18.10 |  | 🥈 x 5, 🥉 x 4 | 🔥 x 5, ⚡ x 5 |
@@ -91,7 +92,7 @@
 | [Peter Douthwright](../../persons/peter_douthwright/333.md) | 60+ | <i class="flag flag-CA" /> | 31.12 | 35.25 |  |  | 🔥 x 6, ⚡ x 4 |
 | [Pontus Uggla](../../persons/pontus_uggla/333.md) | 40+ | <i class="flag flag-SE" /> | 18.25 | 20.09 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/333.md) | 40+ | <i class="flag flag-ES" /> | 15.73 | 19.60 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Richard Taylor](../../persons/richard_taylor/333.md) | 50+ | | 25.05 | 29.70 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Richard Taylor](../../persons/richard_taylor/333.md) | 50+ | | 24.60 | 29.40 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Rob Peters](../../persons/rob_peters/333.md) | 40+ | <i class="flag flag-US" /> | 15.00 | 16.58 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
 | [Robert Summerfield](../../persons/robert_summerfield/333.md) | 50+ | <i class="flag flag-GB" /> | 18.87 | 22.71 |  |  | 🔥 x 9, ⚡ x 7 |
 | [Rodney Gardner](../../persons/rodney_gardner/333.md) | 50+ | <i class="flag flag-US" /> | 15.85 | 19.60 |  | 🥈 x 7, 🥉 x 5 | 🔥 x 7, ⚡ x 4 |
@@ -100,10 +101,10 @@
 | [Terence Brown](../../persons/terence_brown/333.md) | 40+ | <i class="flag flag-NZ" /> | 18.87 | 21.71 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333.md) | 40+ | <i class="flag flag-FR" /> | 13.85 | 15.44 |  | 🥇 x 1, 🥈 x 3, 🥉 x 5 | 🔥 x 3, ⚡ x 6 |
 | [Timothy Salay](../../persons/timothy_salay/333.md) | 40+ | <i class="flag flag-US" /> | 24.45 | 31.22 |  |  | 🔥 x 3, ⚡ x 4 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 13.57 | 16.87 | 🏆 x 1 | 🥇 x 15, 🥈 x 12, 🥉 x 8 | 🔥 x 10, ⚡ x 5 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 13.57 | 16.87 | 🏆 x 1 | 🥇 x 15, 🥈 x 13, 🥉 x 8 | 🔥 x 10, ⚡ x 5 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333.md) | 40+ | <i class="flag flag-IN" /> | 19.25 | 21.09 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333.md) | 50+ | <i class="flag flag-PL" /> | 17.30 | 22.13 |  |  | 🔥 x 4, ⚡ x 1 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | <i class="flag flag-TW" /> | 15.17 | 16.83 |  | 🥇 x 1, 🥈 x 6, 🥉 x 5 | 🔥 x 8, ⚡ x 3 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | <i class="flag flag-TW" /> | 15.17 | 16.83 |  | 🥇 x 1, 🥈 x 6, 🥉 x 6 | 🔥 x 8, ⚡ x 3 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333.md) | 40+ | <i class="flag flag-FR" /> | 16.76 | 20.93 |  |  | 🔥 x 2, ⚡ x 3 |
 
 #### Under 40
