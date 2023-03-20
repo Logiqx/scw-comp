@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-03-06](../../results/2023-03-06/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | <i class="flag flag-BR" /> | 27 | 32.00 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/5964408530341716/permalink/6011553525627216) / [Mobile](https://m.facebook.com/events/5964408530341716?view=permalink&id=6011553525627216) |
+| 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | <i class="flag flag-TW" /> | 31 | 33.33 | 🥈 | [Desktop](https://www.facebook.com/events/5964408530341716/permalink/5981410411974861) / [Mobile](https://m.facebook.com/events/5964408530341716?view=permalink&id=5981410411974861) |
+
 #### [2023-02-20](../../results/2023-02-20/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

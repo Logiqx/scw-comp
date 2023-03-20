@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-03-06](../../results/2023-03-06/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 28.49 | 39.01 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/229553919432988/permalink/236693698719010) / [Mobile](https://m.facebook.com/events/229553919432988?view=permalink&id=236693698719010) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | | 39.37 | 56.08 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/596742045393926) / [Mobile](https://m.facebook.com/766997877/videos/596742045393926) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 56.65 | 1:07.33 | 🥉 | [Desktop](https://www.facebook.com/events/229553919432988/permalink/236266425428404) / [Mobile](https://m.facebook.com/events/229553919432988?view=permalink&id=236266425428404) |
+
 #### [2023-02-20](../../results/2023-02-20/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-03-06](../../results/2023-03-06/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | | 6.04 | 6.94 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/152878037655854) / [Mobile](https://m.facebook.com/766997877/videos/152878037655854) |
+| 2 | [Mark Cordell](../../persons/mark_cordell/222.md) | 40+ | <i class="flag flag-US" /> | 6.58 | 8.81 | 🥈 | [Desktop](https://www.facebook.com/events/229553919432988/permalink/235897125465334) / [Mobile](https://m.facebook.com/events/229553919432988?view=permalink&id=235897125465334) |
+| 3 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 7.78 | 8.82 | 🥉 | [Desktop](https://www.facebook.com/events/229553919432988/permalink/233593172362396) / [Mobile](https://m.facebook.com/events/229553919432988?view=permalink&id=233593172362396) |
+
 #### [2023-02-20](../../results/2023-02-20/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
