@@ -1,0 +1,1 @@
+R' U' F D' B L F' R2 B2 D2 F U2 F' D' L2 D L B2 D' F' D' R' U' F
