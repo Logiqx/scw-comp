@@ -34,7 +34,7 @@
 | [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:10.66 | DNF |  | 🥈 x 5, 🥉 x 4 | ⚡ x 5 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | <i class="flag flag-US" /> | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/minx.md) | 40+ | <i class="flag flag-US" /> | 4:49.07 | DNF |  |  | ⚡ x 1 |
-| [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | 40+ | <i class="flag flag-JP" /> | 1:21.66 | 1:37.12 | 🏆 x 7 | 🥇 x 7, 🥈 x 13, 🥉 x 4 | 💥 x 2, 🔥 x 3, ⚡ x 1 |
+| [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | 40+ | <i class="flag flag-JP" /> | 1:21.66 | 1:33.77 | 🏆 x 8 | 🥇 x 8, 🥈 x 13, 🥉 x 4 | 💥 x 2, 🔥 x 4, ⚡ x 1 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:24.41 | 1:34.05 | 🏆 x 19 | 🥇 x 25, 🥈 x 14, 🥉 x 7 | 💥 x 5, 🔥 x 4, ⚡ x 6 |
 | [Go-ho Choi](../../persons/go_ho_choi/minx.md) | 40+ | <i class="flag flag-KR" /> | 54.61 | 1:02.12 | 🏆 x 2 | 🥇 x 1 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Gordon Holey](../../persons/gordon_holey/minx.md) | 40+ | | 3:24.41 | 4:12.02 |  | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
@@ -51,7 +51,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/minx.md) | <40 | <i class="flag flag-GB" /> | 4:37.65 | DNF |  |  | ⚡ x 1 |
-| [Chris Looney](../../persons/chris_looney/minx.md) | <40 | <i class="flag flag-US" /> | 1:25.78 | 1:39.07 | 🏆 x 13 |  | 🔥 x 7, ⚡ x 7 |
+| [Chris Looney](../../persons/chris_looney/minx.md) | <40 | <i class="flag flag-US" /> | 1:25.78 | 1:37.71 | 🏆 x 13 |  | 🔥 x 8, ⚡ x 7 |
 | [Chris Thames](../../persons/chris_thames/minx.md) | <40 | <i class="flag flag-US" /> | 6:02.13 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/minx.md) | <40 | <i class="flag flag-IE" /> | 2:05.90 | 2:19.70 | 🏆 x 4 |  | 🔥 x 2, ⚡ x 3 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | <40 | <i class="flag flag-VE" /> | 1:20.62 | 1:28.43 | 🏆 x 16 |  | 🔥 x 8, ⚡ x 4 |

@@ -18,7 +18,7 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | <i class="flag flag-GB" /> | 1:41.03 | 1:46.58 |  | 🥇 x 1, 🥈 x 3 | 💥 x 3, 🔥 x 1, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | <i class="flag flag-IT" /> | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
-| [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 12, 🥉 x 20 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
+| [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 13, 🥉 x 20 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | <i class="flag flag-US" /> | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/555.md) | 50+ | <i class="flag flag-US" /> | 4:09.44 | 4:32.93 |  | 🥉 x 4 | 🔥 x 3, ⚡ x 7 |
 | [Kerry Go](../../persons/kerry_go/555.md) | 50+ | <i class="flag flag-US" /> | 3:02.77 | 3:36.28 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
@@ -33,8 +33,8 @@
 | [Anthony Rochester](../../persons/anthony_rochester/555.md) | 40+ | <i class="flag flag-AU" /> | 3:45.86 | 3:53.73 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | <i class="flag flag-GB" /> | 1:41.03 | 1:46.58 |  | 🥇 x 1, 🥈 x 3 | 💥 x 3, 🔥 x 1, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | <i class="flag flag-IT" /> | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
-| [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 12, 🥉 x 20 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
-| [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:29.29 | 1:36.83 | 🏆 x 18 | 🥇 x 20, 🥈 x 2 | 🔥 x 6, ⚡ x 2 |
+| [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 13, 🥉 x 20 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
+| [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:29.29 | 1:36.83 | 🏆 x 19 | 🥇 x 21, 🥈 x 2 | 🔥 x 6, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | <i class="flag flag-US" /> | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/555.md) | 40+ | <i class="flag flag-US" /> | 3:28.26 | 3:42.50 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | <i class="flag flag-JP" /> | 1:21.05 | 1:29.94 | 🏆 x 24 | 🥇 x 24 | 💥 x 7, 🔥 x 6, ⚡ x 4 |

@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-03-20](../../results/2023-03-20/777.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | <i class="flag flag-JP" /> | 4:25.90 | 4:32.15 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1273456476928238/permalink/1278516113088941) / [Mobile](https://m.facebook.com/events/1273456476928238?view=permalink&id=1278516113088941) |
+| 2 | [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 5:08.28 | 5:11.46 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1273456476928238/permalink/1277492709857948) / [Mobile](https://m.facebook.com/events/1273456476928238?view=permalink&id=1277492709857948) |
+
 #### [2023-03-06](../../results/2023-03-06/777.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

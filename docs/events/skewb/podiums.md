@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-03-20](../../results/2023-03-20/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | <i class="flag flag-JP" /> | 5.04 | 5.79 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/171663595723883/permalink/177443195145923) / [Mobile](https://m.facebook.com/events/171663595723883?view=permalink&id=177443195145923) |
+| 2 | [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 9.87 | 11.70 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/171663595723883/permalink/179969831559926) / [Mobile](https://m.facebook.com/events/171663595723883?view=permalink&id=179969831559926) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | | 7.47 | 13.39 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/1625657091286010) / [Mobile](https://m.facebook.com/766997877/videos/1625657091286010) |
+
 #### [2023-03-06](../../results/2023-03-06/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
