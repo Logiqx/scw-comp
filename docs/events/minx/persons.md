@@ -51,7 +51,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/minx.md) | <40 | <i class="flag flag-GB" /> | 4:37.65 | DNF |  |  | ⚡ x 1 |
-| [Chris Looney](../../persons/chris_looney/minx.md) | <40 | <i class="flag flag-US" /> | 1:25.78 | 1:37.71 | 🏆 x 13 |  | 🔥 x 8, ⚡ x 7 |
+| [Chris Looney](../../persons/chris_looney/minx.md) | <40 | <i class="flag flag-US" /> | 1:22.66 | 1:35.68 | 🏆 x 14 |  | 🔥 x 9, ⚡ x 8 |
 | [Chris Thames](../../persons/chris_thames/minx.md) | <40 | <i class="flag flag-US" /> | 6:02.13 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/minx.md) | <40 | <i class="flag flag-IE" /> | 2:05.90 | 2:19.70 | 🏆 x 4 |  | 🔥 x 2, ⚡ x 3 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | <40 | <i class="flag flag-VE" /> | 1:20.62 | 1:28.43 | 🏆 x 16 |  | 🔥 x 8, ⚡ x 4 |

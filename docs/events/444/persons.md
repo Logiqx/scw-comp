@@ -18,7 +18,7 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/444.md) | 50+ | <i class="flag flag-GB" /> | 50.41 | 56.44 |  | 🥈 x 3 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | 50+ | <i class="flag flag-IT" /> | 56.70 | 1:03.64 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 |
-| [Dan Smith](../../persons/dan_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:05.61 | 1:16.68 |  | 🥇 x 9, 🥈 x 17, 🥉 x 19 | 💥 x 1, 🔥 x 11, ⚡ x 6 |
+| [Dan Smith](../../persons/dan_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:05.61 | 1:16.68 |  | 🥇 x 9, 🥈 x 18, 🥉 x 19 | 💥 x 1, 🔥 x 11, ⚡ x 6 |
 | [Dean Money](../../persons/dean_money/444.md) | 50+ | | 1:47.62 | 2:00.60 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | <i class="flag flag-US" /> | 4:08.00 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Jae Park](../../persons/jae_park/444.md) | 50+ | <i class="flag flag-US" /> | 1:59.01 | 2:07.71 |  | 🥉 x 1 | 🔥 x 7, ⚡ x 7 |
@@ -36,8 +36,8 @@
 | [Anthony Rochester](../../persons/anthony_rochester/444.md) | 40+ | <i class="flag flag-AU" /> | 1:13.54 | 1:25.19 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
 | [Chris Wright](../../persons/chris_wright/444.md) | 50+ | <i class="flag flag-GB" /> | 50.41 | 56.44 |  | 🥈 x 3 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | 50+ | <i class="flag flag-IT" /> | 56.70 | 1:03.64 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 |
-| [Dan Smith](../../persons/dan_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:05.61 | 1:16.68 |  | 🥇 x 9, 🥈 x 17, 🥉 x 19 | 💥 x 1, 🔥 x 11, ⚡ x 6 |
-| [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 44.15 | 55.71 | 🏆 x 17 | 🥇 x 21, 🥈 x 1 | 🔥 x 4, ⚡ x 4 |
+| [Dan Smith](../../persons/dan_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:05.61 | 1:16.68 |  | 🥇 x 9, 🥈 x 18, 🥉 x 19 | 💥 x 1, 🔥 x 11, ⚡ x 6 |
+| [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 44.15 | 51.53 | 🏆 x 18 | 🥇 x 22, 🥈 x 1 | 🔥 x 5, ⚡ x 4 |
 | [Dean Money](../../persons/dean_money/444.md) | 50+ | | 1:47.62 | 2:00.60 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | <i class="flag flag-US" /> | 4:08.00 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Eric Dodson](../../persons/eric_dodson/444.md) | 40+ | <i class="flag flag-US" /> | 2:02.23 | 2:19.35 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
@@ -47,7 +47,7 @@
 | [Go-ho Choi](../../persons/go_ho_choi/444.md) | 40+ | <i class="flag flag-KR" /> | 43.44 | 49.93 | 🏆 x 4 | 🥇 x 1 | 💥 x 5, 🔥 x 4, ⚡ x 6 |
 | [Gordon Holey](../../persons/gordon_holey/444.md) | 40+ | | 1:18.78 | 1:32.83 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/444.md) | 40+ | <i class="flag flag-PL" /> | 56.11 | 1:05.85 |  | 🥈 x 2 | 🔥 x 2, ⚡ x 1 |
-| [JM Tambaoan](../../persons/jm_tambaoan/444.md) | 40+ | <i class="flag flag-PH" /> | 1:08.84 | 1:20.86 |  | 🥇 x 1, 🥈 x 4, 🥉 x 4 | 🔥 x 3, ⚡ x 5 |
+| [JM Tambaoan](../../persons/jm_tambaoan/444.md) | 40+ | <i class="flag flag-PH" /> | 1:08.84 | 1:20.86 |  | 🥇 x 1, 🥈 x 4, 🥉 x 5 | 🔥 x 3, ⚡ x 5 |
 | [Jae Park](../../persons/jae_park/444.md) | 50+ | <i class="flag flag-US" /> | 1:59.01 | 2:07.71 |  | 🥉 x 1 | 🔥 x 7, ⚡ x 7 |
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/444.md) | 40+ | <i class="flag flag-GB" /> | 1:32.33 | 1:41.26 |  |  | 🔥 x 6, ⚡ x 4 |
 | [Jang Junho (장준호)](../../persons/jang_junho/444.md) | 40+ | <i class="flag flag-KR" /> | 2:31.31 | 2:58.70 |  |  | 🔥 x 1, ⚡ x 1 |

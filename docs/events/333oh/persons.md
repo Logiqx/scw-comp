@@ -30,7 +30,7 @@
 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 20.41 | 26.24 | 🏆 x 1 | 🥇 x 1, 🥈 x 19, 🥉 x 3 | 🔥 x 6, ⚡ x 5 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.94 | 27.02 | 🏆 x 4 | 🥇 x 5, 🥈 x 28, 🥉 x 21 | 🔥 x 10, ⚡ x 7 |
 | [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | 40+ | <i class="flag flag-KR" /> | 23.29 | 27.89 | 🏆 x 2 | 🥈 x 1 | 💥 x 1, 🔥 x 3, ⚡ x 2 |
-| [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | | 39.37 | 55.53 | 🏆 x 1 | 🥇 x 1, 🥈 x 2 | 🔥 x 3, ⚡ x 2 |
+| [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | | 39.37 | 55.53 | 🏆 x 2 | 🥇 x 2, 🥈 x 2 | 🔥 x 3, ⚡ x 2 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) | 40+ | <i class="flag flag-PL" /> | 24.78 | 32.65 | 🏆 x 1 | 🥇 x 1, 🥈 x 2 | 🔥 x 3, ⚡ x 2 |
 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 27.06 | 29.43 |  | 🥈 x 7, 🥉 x 20 | 🔥 x 12, ⚡ x 4 |
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333oh.md) | 40+ | <i class="flag flag-GB" /> | 32.33 | 43.99 |  |  | 🔥 x 5, ⚡ x 4 |

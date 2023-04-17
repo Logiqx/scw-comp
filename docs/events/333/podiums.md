@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-04-03](../../results/2023-04-03/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 13.69 | 17.21 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/542929047949179/permalink/545663787675705) / [Mobile](https://m.facebook.com/events/542929047949179?view=permalink&id=545663787675705) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 16.08 | 18.33 | 🥈 | [Desktop](https://www.facebook.com/520891933/videos/1548532572305308) / [Mobile](https://m.facebook.com/520891933/videos/1548532572305308) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/333.md) | 40+ | | 20.65 | 21.64 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/773236254151635) / [Mobile](https://m.facebook.com/766997877/videos/773236254151635) |
+
 #### [2023-03-20](../../results/2023-03-20/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

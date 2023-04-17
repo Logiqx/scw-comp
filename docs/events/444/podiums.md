@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-04-03](../../results/2023-04-03/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 48.55 | 51.53 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/1352032565369803/permalink/1354698675103192) / [Mobile](https://m.facebook.com/events/1352032565369803?view=permalink&id=1354698675103192) |
+| 2 | [Dan Smith](../../persons/dan_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:14.42 | 1:22.04 | 🥈 | [Desktop](https://www.facebook.com/events/1352032565369803/permalink/1357911091448617) / [Mobile](https://m.facebook.com/events/1352032565369803?view=permalink&id=1357911091448617) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/444.md) | 40+ | <i class="flag flag-PH" /> | 1:14.84 | 1:24.66 | 🥉 | [Desktop](https://www.facebook.com/events/1352032565369803/permalink/1353561541883572) / [Mobile](https://m.facebook.com/events/1352032565369803?view=permalink&id=1353561541883572) |
+
 #### [2023-03-20](../../results/2023-03-20/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

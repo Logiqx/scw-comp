@@ -193,6 +193,12 @@
     "id": 96,
     "wcaId": "2021DODS01"
   },
+  "Fletch Cloyes": {
+    "age": "50+",
+    "country": "???",
+    "id": 119,
+    "wcaId": "2023CLOY01"
+  },
   "Fumiki Koseki": {
     "age": "40+",
     "avatar": "1601383364.jpg",
@@ -515,7 +521,7 @@
     "wcaId": "2019HART11"
   },
   "Michael Amarello": {
-    "age": "50+",
+    "age": "60+",
     "country": "United States",
     "id": 110,
     "wcaId": "2022AMAR09"

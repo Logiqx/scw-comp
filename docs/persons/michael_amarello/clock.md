@@ -8,10 +8,11 @@
 
 #### Clock Results
 
-<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-04-03](../../results/2023-04-03/clock.md) | 60+ | **13.65** | **13.92** | 🥈 💥 🔥 ⚡ | 14.08 | 13.91 | 13.77 | **13.65** | 14.13 | [Desktop](https://www.facebook.com/michael.amarello/videos/6262460413821506) / [Mobile](https://m.facebook.com/michael.amarello/videos/6262460413821506) |
 | [2023-03-20](../../results/2023-03-20/clock.md) | 50+ | 12.09 | 13.76 | 🥈 | 14.01 | 14.30 | 12.96 | 12.09 | 14.88 | [Desktop](https://www.facebook.com/michael.amarello/videos/2792363370893671) / [Mobile](https://m.facebook.com/michael.amarello/videos/2792363370893671) |
 | [2023-03-06](../../results/2023-03-06/clock.md) | 50+ | **11.96** | **13.46** | 🏆 🥇 🔥 ⚡ | 13.16 | 15.59 | 14.13 | 13.10 | **11.96** | [Desktop](https://www.facebook.com/michael.amarello/videos/725161449107771) / [Mobile](https://m.facebook.com/michael.amarello/videos/725161449107771) |
 | [2023-02-20](../../results/2023-02-20/clock.md) | 50+ | 12.26 | 14.39 | 🏆 🥇 | 14.12 | 12.26 | 16.76 | 13.92 | 15.14 | [Desktop](https://www.facebook.com/michael.amarello/videos/193184040000195) / [Mobile](https://m.facebook.com/michael.amarello/videos/193184040000195) |
