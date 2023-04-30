@@ -9,7 +9,8 @@
   "Adam Robson": {
     "age": "<40",
     "country": "United Kingdom",
-    "id": 15
+    "id": 15,
+    "wcaId": "2021ROBS01"
   },
   "Alex Friedman": {
     "age": "<40",
@@ -51,6 +52,7 @@
   },
   "Ben Coppin": {
     "age": "40+",
+    "avatar": "1681235172.jpg",
     "country": "United Kingdom",
     "id": 37,
     "wcaId": "2013COPP01"
@@ -120,7 +122,7 @@
     "aliases": [
       "Daniel Smith"
     ],
-    "avatar": "1570678334.png",
+    "avatar": "1678150280.jpg",
     "country": "United States",
     "id": 26,
     "wcaId": "2018SMIT42"
@@ -133,6 +135,7 @@
   },
   "David Burchill": {
     "age": "50+",
+    "avatar": "1654657008.jpg",
     "country": "Canada",
     "id": 27,
     "wcaId": "2020BURC01"
@@ -146,7 +149,8 @@
   },
   "Dean Money": {
     "age": "50+",
-    "country": "???",
+    "avatar": "1679244694.jpg",
+    "country": "United States",
     "id": 118,
     "wcaId": "2023MONE01"
   },
@@ -195,7 +199,8 @@
   },
   "Fletch Cloyes": {
     "age": "50+",
-    "country": "???",
+    "avatar": "1680917920.jpg",
+    "country": "United States",
     "id": 119,
     "wcaId": "2023CLOY01"
   },
@@ -239,12 +244,14 @@
   },
   "Gordon Holey": {
     "age": "40+",
-    "country": "???",
+    "avatar": "1642020105.jpg",
+    "country": "United States",
     "id": 117,
     "wcaId": "2021HOLE01"
   },
   "Greg Simmons": {
     "age": "<40",
+    "avatar": "1651864154.jpg",
     "country": "United Kingdom",
     "id": 77,
     "wcaId": "2022SIMM01"
@@ -276,6 +283,7 @@
   },
   "JM Tambaoan": {
     "age": "40+",
+    "avatar": "1681359750.png",
     "aliases": [
       "Nhoj Naoabmat",
       "John Tambaoan",
@@ -284,7 +292,8 @@
     ],
     "avatar": "1681359750.png",
     "country": "Philippines",
-    "id": 90
+    "id": 90,
+    "wcaId": "2023TAMB01"
   },
   "Jae Park": {
     "age": "50+",
@@ -374,6 +383,7 @@
   },
   "Joey Day": {
     "age": "40+",
+    "avatar": "1665260230.jpeg",
     "country": "United States",
     "id": 111,
     "wcaId": "2022DAYJ01"
@@ -462,14 +472,16 @@
   },
   "Levin Houghton": {
     "age": "<20",
-    "country": "???",
+    "avatar": "1538074743.jpg",
+    "country": "Switzerland",
     "id": 115,
     "wcaId": "2016HOUG01"
   },
   "Liran Muchnik": {
     "age": "<40",
     "country": "Israel",
-    "id": 101
+    "id": 101,
+    "wcaId": "2022MUCH03"
   },
   "Lisa Kucala": {
     "age": "50+",
@@ -523,8 +535,10 @@
   },
   "Martin Melcop": {
     "age": "60+",
+    "avatar": "1655908566.jpg",
     "country": "Brazil",
-    "id": 100
+    "id": 100,
+    "wcaId": "2022MELC01"
   },
   "Matthew Hart": {
     "age": "<40",
@@ -535,6 +549,7 @@
   },
   "Michael Amarello": {
     "age": "60+",
+    "avatar": "1659001530.jpg",
     "country": "United States",
     "id": 110,
     "wcaId": "2022AMAR09"
@@ -578,7 +593,8 @@
   "Nick Agatyn": {
     "age": "<40",
     "country": "Australia",
-    "id": 87
+    "id": 87,
+    "wcaId": "2021AGAT01"
   },
   "Pete Lee": {
     "age": "<40",
@@ -650,7 +666,8 @@
   },
   "Richard Taylor": {
     "age": "50+",
-    "country": "???",
+    "avatar": "1506360596.JPG",
+    "country": "United Kingdom",
     "id": 116,
     "wcaId": "2015TAYL04"
   },
@@ -688,11 +705,13 @@
       "Scott Archibald"
     ],
     "country": "United Kingdom",
-    "id": 75
+    "id": 75,
+    "wcaId": "2022ARCH01"
   },
   "Shain Longbehn": {
     "age": "<30",
-    "country": "???",
+    "avatar": "1646700186.jpg",
+    "country": "United States",
     "id": 114,
     "wcaId": "2020LONG05"
   },
@@ -771,6 +790,7 @@
   },
   "Will Lambert": {
     "age": "<20",
+    "avatar": "1656506326.jpg",
     "country": "United Kingdom",
     "id": 2,
     "wcaId": "2018LAMB02"
@@ -808,6 +828,7 @@
   },
   "Zain Ali": {
     "age": "<20",
+    "avatar": "1679210349.webp",
     "country": "India",
     "id": 65,
     "wcaId": "2019BEHZ01"
