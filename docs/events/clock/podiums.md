@@ -6,13 +6,21 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-04-17](../../results/2023-04-17/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 11.19 | 12.60 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/238970528738328/permalink/247152104586837) / [Mobile](https://m.facebook.com/events/238970528738328?view=permalink&id=247152104586837) |
+| 2 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 60+ | <i class="flag flag-US" /> | 11.31 | 13.35 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/michael.amarello/videos/250639173989580) / [Mobile](https://m.facebook.com/michael.amarello/videos/250639173989580) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/clock.md) | 40+ | <i class="flag flag-US" /> | 15.22 | 17.53 | 🥉 🔥 | [Desktop](https://www.facebook.com/766997877/videos/146214781596698) / [Mobile](https://m.facebook.com/766997877/videos/146214781596698) |
+
 #### [2023-04-03](../../results/2023-04-03/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 11.83 | 12.30 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/610841793891609/permalink/617212779921177) / [Mobile](https://m.facebook.com/events/610841793891609?view=permalink&id=617212779921177) |
 | 2 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 60+ | <i class="flag flag-US" /> | 13.65 | 13.92 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/michael.amarello/videos/6262460413821506) / [Mobile](https://m.facebook.com/michael.amarello/videos/6262460413821506) |
-| 3 | [Gordon Holey](../../persons/gordon_holey/clock.md) | 40+ | | 15.99 | 18.59 | 🥉 | [Desktop](https://www.facebook.com/766997877/videos/1367029157481341) / [Mobile](https://m.facebook.com/766997877/videos/1367029157481341) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/clock.md) | 40+ | <i class="flag flag-US" /> | 15.99 | 18.59 | 🥉 | [Desktop](https://www.facebook.com/766997877/videos/1367029157481341) / [Mobile](https://m.facebook.com/766997877/videos/1367029157481341) |
 
 #### [2023-03-20](../../results/2023-03-20/clock.md)
 
@@ -20,14 +28,14 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 11.00 | 12.70 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/171663595723883/permalink/178248781732031) / [Mobile](https://m.facebook.com/events/171663595723883?view=permalink&id=178248781732031) |
 | 2 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 50+ | <i class="flag flag-US" /> | 12.09 | 13.76 | 🥈 | [Desktop](https://www.facebook.com/michael.amarello/videos/2792363370893671) / [Mobile](https://m.facebook.com/michael.amarello/videos/2792363370893671) |
-| 3 | [Gordon Holey](../../persons/gordon_holey/clock.md) | 40+ | | 16.10 | 19.07 | 🥉 | [Desktop](https://www.facebook.com/766997877/videos/249900170724680) / [Mobile](https://m.facebook.com/766997877/videos/249900170724680) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/clock.md) | 40+ | <i class="flag flag-US" /> | 16.10 | 19.07 | 🥉 | [Desktop](https://www.facebook.com/766997877/videos/249900170724680) / [Mobile](https://m.facebook.com/766997877/videos/249900170724680) |
 
 #### [2023-03-06](../../results/2023-03-06/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 50+ | <i class="flag flag-US" /> | 11.96 | 13.46 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/michael.amarello/videos/725161449107771) / [Mobile](https://m.facebook.com/michael.amarello/videos/725161449107771) |
-| 2 | [Gordon Holey](../../persons/gordon_holey/clock.md) | 40+ | | 13.59 | 17.90 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/1608991232954337) / [Mobile](https://m.facebook.com/766997877/videos/1608991232954337) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/clock.md) | 40+ | <i class="flag flag-US" /> | 13.59 | 17.90 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/1608991232954337) / [Mobile](https://m.facebook.com/766997877/videos/1608991232954337) |
 | 3 | [Mark Cordell](../../persons/mark_cordell/clock.md) | 40+ | <i class="flag flag-US" /> | 23.36 | 27.34 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/520428456921801/permalink/527135556251091) / [Mobile](https://m.facebook.com/events/520428456921801?view=permalink&id=527135556251091) |
 
 #### [2023-02-20](../../results/2023-02-20/clock.md)
@@ -35,7 +43,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 50+ | <i class="flag flag-US" /> | 12.26 | 14.39 | 🏆 🥇 | [Desktop](https://www.facebook.com/michael.amarello/videos/193184040000195) / [Mobile](https://m.facebook.com/michael.amarello/videos/193184040000195) |
-| 2 | [Gordon Holey](../../persons/gordon_holey/clock.md) | 40+ | | 17.70 | 18.83 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/166200822890397) / [Mobile](https://m.facebook.com/766997877/videos/166200822890397) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/clock.md) | 40+ | <i class="flag flag-US" /> | 17.70 | 18.83 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/166200822890397) / [Mobile](https://m.facebook.com/766997877/videos/166200822890397) |
 | 3 | [Daniel Houghton](../../persons/daniel_houghton/clock.md) | 40+ | <i class="flag flag-CH" /> | 23.16 | 24.26 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/902902514362571/permalink/908312720488217) / [Mobile](https://m.facebook.com/events/902902514362571?view=permalink&id=908312720488217) |
 
 #### [2023-02-06](../../results/2023-02-06/clock.md)

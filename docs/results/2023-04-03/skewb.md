@@ -8,7 +8,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| 1 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | | 10.83 | 12.59 | 🏆 🥇 🔥 | 11.16 | 10.83 | 14.76 | 17.32 | 11.86 | [Desktop](https://www.facebook.com/766997877/videos/189449217216252) / [Mobile](https://m.facebook.com/766997877/videos/189449217216252) |
+| 1 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | <i class="flag flag-US" /> | 10.83 | 12.59 | 🏆 🥇 🔥 | 11.16 | 10.83 | 14.76 | 17.32 | 11.86 | [Desktop](https://www.facebook.com/766997877/videos/189449217216252) / [Mobile](https://m.facebook.com/766997877/videos/189449217216252) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.83 | 14.79 | 🥈 | 13.65 | 20.21 | 15.85 | 10.83 | 14.87 | [Desktop](https://www.facebook.com/events/610841793891609/permalink/617211333254655) / [Mobile](https://m.facebook.com/events/610841793891609?view=permalink&id=617211333254655) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-04-17](../../results/2023-04-17/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Gordon Holey](../../persons/gordon_holey/minx.md) | 40+ | <i class="flag flag-US" /> | 4:48.31 | DNF | 🥇 | [Desktop](https://www.facebook.com/766997877/videos/271104708590237) / [Mobile](https://m.facebook.com/766997877/videos/271104708590237) |
+
 
 #### [2023-03-20](../../results/2023-03-20/minx.md)
 
@@ -23,7 +29,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Gordon Holey](../../persons/gordon_holey/minx.md) | 40+ | | 3:24.41 | 4:12.02 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/569225115154363/permalink/574125621330979) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=574125621330979) |
+| 1 | [Gordon Holey](../../persons/gordon_holey/minx.md) | 40+ | <i class="flag flag-US" /> | 3:24.41 | 4:12.02 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/569225115154363/permalink/574125621330979) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=574125621330979) |
 
 
 #### [2023-01-23](../../results/2023-01-23/minx.md)

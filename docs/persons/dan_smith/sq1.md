@@ -6,7 +6,7 @@
 
 <i class="flag flag-US" />&nbsp;United States
 
-![Dan Smith](1570678334.png)
+![Dan Smith](1678150280.jpg)
 
 #### Square-1 Results
 
@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-04-17](../../results/2023-04-17/sq1.md) | 50+ | 21.87 | 25.55 | 🏆 🥇 | 27.71 | 21.87 | 28.06 | 22.93 | 26.00 | [Desktop](https://www.facebook.com/events/238970528738328/permalink/242922858343095) / [Mobile](https://m.facebook.com/events/238970528738328?view=permalink&id=242922858343095) |
 | [2023-04-03](../../results/2023-04-03/sq1.md) | 50+ | 15.59 | 21.05 | 🏆 🥇 | 22.68 | 20.24 | 24.77 | 20.22 | 15.59 | [Desktop](https://www.facebook.com/events/610841793891609/permalink/616013160041139) / [Mobile](https://m.facebook.com/events/610841793891609?view=permalink&id=616013160041139) |
 | [2023-03-20](../../results/2023-03-20/sq1.md) | 50+ | 16.14 | 25.14 | 🏆 🥇 | 16.14 | 23.07 | 30.21 | 34.39 | 22.15 | [Desktop](https://www.facebook.com/events/171663595723883/permalink/178184285071814) / [Mobile](https://m.facebook.com/events/171663595723883?view=permalink&id=178184285071814) |
 | [2023-03-06](../../results/2023-03-06/sq1.md) | 50+ | 20.73 | 24.70 | 🏆 🥇 | 23.96 | 23.40 | 26.75 | 26.80 | 20.73 | [Desktop](https://www.facebook.com/events/520428456921801/permalink/524769339821046) / [Mobile](https://m.facebook.com/events/520428456921801?view=permalink&id=524769339821046) |

@@ -6,6 +6,8 @@
 
 <i class="flag flag-CA" />&nbsp;Canada
 
+![David Burchill](1654657008.jpg)
+
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|

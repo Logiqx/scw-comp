@@ -6,7 +6,7 @@
 
 <i class="flag flag-US" />&nbsp;United States
 
-![Dan Smith](1570678334.png)
+![Dan Smith](1678150280.jpg)
 
 #### Pyraminx Results
 
@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-04-17](../../results/2023-04-17/pyram.md) | 50+ | 7.77 | 9.14 | 🥇 | 10.71 | 7.77 | 13.96 | 8.46 | 8.25 | [Desktop](https://www.facebook.com/events/238970528738328/permalink/242922858343095) / [Mobile](https://m.facebook.com/events/238970528738328?view=permalink&id=242922858343095) |
 | [2023-04-03](../../results/2023-04-03/pyram.md) | 50+ | 7.16 | 11.26 | 🥇 | 11.58 | 11.23 | 14.20 | 7.16 | 10.96 | [Desktop](https://www.facebook.com/events/610841793891609/permalink/616013160041139) / [Mobile](https://m.facebook.com/events/610841793891609?view=permalink&id=616013160041139) |
 | [2023-03-20](../../results/2023-03-20/pyram.md) | 50+ | 9.10 | 11.66 | 🥇 | 9.36 | 9.10 | 13.41 | 15.48 | 12.22 | [Desktop](https://www.facebook.com/events/171663595723883/permalink/178184285071814) / [Mobile](https://m.facebook.com/events/171663595723883?view=permalink&id=178184285071814) |
 | [2023-03-06](../../results/2023-03-06/pyram.md) | 50+ | 7.09 | 12.22 | 🥈 | 11.71 | 13.44 | 7.09 | 11.50 | 14.90 | [Desktop](https://www.facebook.com/events/520428456921801/permalink/524769339821046) / [Mobile](https://m.facebook.com/events/520428456921801?view=permalink&id=524769339821046) |

@@ -1,0 +1,18 @@
+<style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+
+## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+### [Joe Kucala](README.md) - [2022KUCA01](https://www.worldcubeassociation.org/persons/2022KUCA01?event=skewb)
+
+#### Skewb Results
+
+<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-04-17](../../results/2023-04-17/skewb.md) | 50+ | **18.46** | **24.90** | 🔥 ⚡ | 31.30 | 22.78 | **18.46** | 20.63 | 33.10 | [Desktop](https://www.facebook.com/events/238970528738328/permalink/247185317916849) / [Mobile](https://m.facebook.com/events/238970528738328?view=permalink&id=247185317916849) |
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-04-17](../../results/2023-04-17/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 21.87 | 25.55 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/238970528738328/permalink/242922858343095) / [Mobile](https://m.facebook.com/events/238970528738328?view=permalink&id=242922858343095) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 40+ | <i class="flag flag-US" /> | 31.17 | 34.63 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/238970528738328/permalink/246077844694263) / [Mobile](https://m.facebook.com/events/238970528738328?view=permalink&id=246077844694263) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 50+ | <i class="flag flag-US" /> | 37.96 | 53.78 | 🥉 | [Desktop](https://www.facebook.com/events/238970528738328/permalink/244206558214725) / [Mobile](https://m.facebook.com/events/238970528738328?view=permalink&id=244206558214725) |
+
 #### [2023-04-03](../../results/2023-04-03/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
@@ -28,7 +36,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 20.73 | 24.70 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/520428456921801/permalink/524769339821046) / [Mobile](https://m.facebook.com/events/520428456921801?view=permalink&id=524769339821046) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 40+ | <i class="flag flag-US" /> | 35.06 | 42.07 | 🥈 | [Desktop](https://www.facebook.com/events/520428456921801/permalink/527584216206225) / [Mobile](https://m.facebook.com/events/520428456921801?view=permalink&id=527584216206225) |
-| 3 | [Gordon Holey](../../persons/gordon_holey/sq1.md) | 40+ | | 41.21 | 55.56 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/209341641689599) / [Mobile](https://m.facebook.com/766997877/videos/209341641689599) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/sq1.md) | 40+ | <i class="flag flag-US" /> | 41.21 | 55.56 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/209341641689599) / [Mobile](https://m.facebook.com/766997877/videos/209341641689599) |
 
 #### [2023-02-20](../../results/2023-02-20/sq1.md)
 
@@ -36,7 +44,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 20.70 | 24.72 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/902902514362571/permalink/908352823817540) / [Mobile](https://m.facebook.com/events/902902514362571?view=permalink&id=908352823817540) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 40+ | <i class="flag flag-US" /> | 30.13 | 37.07 | 🥈 | [Desktop](https://www.facebook.com/events/902902514362571/permalink/910603393592483) / [Mobile](https://m.facebook.com/events/902902514362571?view=permalink&id=910603393592483) |
-| 3 | [Gordon Holey](../../persons/gordon_holey/sq1.md) | 40+ | | 51.80 | 56.84 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/210796521482827) / [Mobile](https://m.facebook.com/766997877/videos/210796521482827) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/sq1.md) | 40+ | <i class="flag flag-US" /> | 51.80 | 56.84 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/210796521482827) / [Mobile](https://m.facebook.com/766997877/videos/210796521482827) |
 
 #### [2023-02-06](../../results/2023-02-06/sq1.md)
 

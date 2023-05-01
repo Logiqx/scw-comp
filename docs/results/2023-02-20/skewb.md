@@ -9,7 +9,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
 | 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/skewb.md) | 40+ | <i class="flag flag-TW" /> | 8.23 | 12.48 | 🏆 🥇 | 8.23 | 11.21 | 15.91 | 14.33 | 11.91 | [Desktop](https://www.facebook.com/events/902902514362571/permalink/904623514190471) / [Mobile](https://m.facebook.com/events/902902514362571?view=permalink&id=904623514190471) |
-| 2 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | | 9.44 | 13.96 | 🥈 🔥 ⚡ | 13.05 | 12.17 | 16.67 | 9.44 | 22.86 | [Desktop](https://www.facebook.com/766997877/videos/1168404963860559) / [Mobile](https://m.facebook.com/766997877/videos/1168404963860559) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | <i class="flag flag-US" /> | 9.44 | 13.96 | 🥈 🔥 ⚡ | 13.05 | 12.17 | 16.67 | 9.44 | 22.86 | [Desktop](https://www.facebook.com/766997877/videos/1168404963860559) / [Mobile](https://m.facebook.com/766997877/videos/1168404963860559) |
 | 3 | [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 9.87 | 19.85 | 🥉 ⚡ | 20.65 | 9.87 | 23.64 | 46.48 | 15.27 | [Desktop](https://www.facebook.com/events/902902514362571/permalink/910654333587389) / [Mobile](https://m.facebook.com/events/902902514362571?view=permalink&id=910654333587389) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

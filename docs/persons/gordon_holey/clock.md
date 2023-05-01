@@ -4,12 +4,17 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Gordon Holey](README.md) - [2021HOLE01](https://www.worldcubeassociation.org/persons/2021HOLE01?event=clock)
 
+<i class="flag flag-US" />&nbsp;United States
+
+![Gordon Holey](1642020105.jpg)
+
 #### Clock Results
 
 <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-04-17](../../results/2023-04-17/clock.md) | 40+ | 15.22 | **17.53** | 🥉 🔥 | 15.22 | DNF | 18.53 | 18.51 | 15.55 | [Desktop](https://www.facebook.com/766997877/videos/146214781596698) / [Mobile](https://m.facebook.com/766997877/videos/146214781596698) |
 | [2023-04-03](../../results/2023-04-03/clock.md) | 40+ | 15.99 | 18.59 | 🥉 | 19.03 | 15.99 | 19.22 | 19.60 | 17.53 | [Desktop](https://www.facebook.com/766997877/videos/1367029157481341) / [Mobile](https://m.facebook.com/766997877/videos/1367029157481341) |
 | [2023-03-20](../../results/2023-03-20/clock.md) | 40+ | 16.10 | 19.07 | 🥉 | 19.83 | 16.87 | 26.18 | 16.10 | 20.50 | [Desktop](https://www.facebook.com/766997877/videos/249900170724680) / [Mobile](https://m.facebook.com/766997877/videos/249900170724680) |
 | [2023-03-06](../../results/2023-03-06/clock.md) | 40+ | **13.59** | **17.90** | 🥈 🔥 ⚡ | 18.34 | 18.31 | 17.04 | **13.59** | DNF | [Desktop](https://www.facebook.com/766997877/videos/1608991232954337) / [Mobile](https://m.facebook.com/766997877/videos/1608991232954337) |

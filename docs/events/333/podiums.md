@@ -6,13 +6,21 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-04-17](../../results/2023-04-17/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 14.43 | 15.61 | 🥇 | [Desktop](https://www.facebook.com/events/786804792820217/permalink/793399372160759) / [Mobile](https://m.facebook.com/events/786804792820217?view=permalink&id=793399372160759) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/333.md) | 40+ | <i class="flag flag-GB" /> | 15.06 | 16.90 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/786804792820217/permalink/791905598976803) / [Mobile](https://m.facebook.com/events/786804792820217?view=permalink&id=791905598976803) |
+| 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 13.38 | 17.47 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/786804792820217/permalink/793159968851366) / [Mobile](https://m.facebook.com/events/786804792820217?view=permalink&id=793159968851366) |
+
 #### [2023-04-03](../../results/2023-04-03/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 13.69 | 17.21 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/542929047949179/permalink/545663787675705) / [Mobile](https://m.facebook.com/events/542929047949179?view=permalink&id=545663787675705) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 40+ | <i class="flag flag-AU" /> | 16.08 | 18.33 | 🥈 | [Desktop](https://www.facebook.com/520891933/videos/1548532572305308) / [Mobile](https://m.facebook.com/520891933/videos/1548532572305308) |
-| 3 | [Gordon Holey](../../persons/gordon_holey/333.md) | 40+ | | 20.65 | 21.64 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/773236254151635) / [Mobile](https://m.facebook.com/766997877/videos/773236254151635) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/333.md) | 40+ | <i class="flag flag-US" /> | 20.65 | 21.64 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/773236254151635) / [Mobile](https://m.facebook.com/766997877/videos/773236254151635) |
 
 #### [2023-03-20](../../results/2023-03-20/333.md)
 

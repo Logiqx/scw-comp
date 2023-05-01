@@ -4,12 +4,17 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Gordon Holey](README.md) - [2021HOLE01](https://www.worldcubeassociation.org/persons/2021HOLE01?event=minx)
 
+<i class="flag flag-US" />&nbsp;United States
+
+![Gordon Holey](1642020105.jpg)
+
 #### Megaminx Results
 
 <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-04-17](../../results/2023-04-17/minx.md) | 40+ | 4:48.31 | DNF | 🥇 | 4:48.31 | 5:40.95 | DNS | DNS | DNS | [Desktop](https://www.facebook.com/766997877/videos/271104708590237) / [Mobile](https://m.facebook.com/766997877/videos/271104708590237) |
 | [2023-02-20](../../results/2023-02-20/minx.md) | 40+ | **3:24.41** | **4:12.02** | 🥇 🔥 ⚡ | **3:24.41** | 4:55.16 | 4:16.48 | DNS | DNS | [Desktop](https://www.facebook.com/events/569225115154363/permalink/574125621330979) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=574125621330979) |
 
 

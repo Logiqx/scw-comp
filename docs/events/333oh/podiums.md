@@ -6,24 +6,31 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-04-17](../../results/2023-04-17/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 57.83 | 1:06.48 | 🏆 🥇 | [Desktop](https://www.facebook.com/766997877/videos/1448595189266065) / [Mobile](https://m.facebook.com/766997877/videos/1448595189266065) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 1:08.70 | 1:16.25 | 🥈 | [Desktop](https://www.facebook.com/events/786804792820217/permalink/793137612186935) / [Mobile](https://m.facebook.com/events/786804792820217?view=permalink&id=793137612186935) |
+
 #### [2023-04-03](../../results/2023-04-03/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | | 51.16 | 56.48 | 🏆 🥇 | [Desktop](https://www.facebook.com/766997877/videos/892852438468816) / [Mobile](https://m.facebook.com/766997877/videos/892852438468816) |
+| 1 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 51.16 | 56.48 | 🏆 🥇 | [Desktop](https://www.facebook.com/766997877/videos/892852438468816) / [Mobile](https://m.facebook.com/766997877/videos/892852438468816) |
 
 #### [2023-03-20](../../results/2023-03-20/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | | 52.46 | 55.53 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/766997877/videos/205115275479129) / [Mobile](https://m.facebook.com/766997877/videos/205115275479129) |
+| 1 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 52.46 | 55.53 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/766997877/videos/205115275479129) / [Mobile](https://m.facebook.com/766997877/videos/205115275479129) |
 
 #### [2023-03-06](../../results/2023-03-06/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 28.49 | 39.01 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/229553919432988/permalink/236693698719010) / [Mobile](https://m.facebook.com/events/229553919432988?view=permalink&id=236693698719010) |
-| 2 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | | 39.37 | 56.08 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/596742045393926) / [Mobile](https://m.facebook.com/766997877/videos/596742045393926) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 39.37 | 56.08 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/596742045393926) / [Mobile](https://m.facebook.com/766997877/videos/596742045393926) |
 | 3 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 56.65 | 1:07.33 | 🥉 | [Desktop](https://www.facebook.com/events/229553919432988/permalink/236266425428404) / [Mobile](https://m.facebook.com/events/229553919432988?view=permalink&id=236266425428404) |
 
 #### [2023-02-20](../../results/2023-02-20/333oh.md)
@@ -31,7 +38,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 36.94 | 41.39 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/569225115154363/permalink/570882224988652) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=570882224988652) |
-| 2 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | | 50.63 | 1:04.01 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/569225115154363/permalink/574075991335942) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=574075991335942) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 50.63 | 1:04.01 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/569225115154363/permalink/574075991335942) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=574075991335942) |
 
 
 #### [2023-01-23](../../results/2023-01-23/333oh.md)

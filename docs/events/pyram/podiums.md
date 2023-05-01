@@ -6,20 +6,28 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-04-17](../../results/2023-04-17/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.77 | 9.14 | 🥇 | [Desktop](https://www.facebook.com/events/238970528738328/permalink/242922858343095) / [Mobile](https://m.facebook.com/events/238970528738328?view=permalink&id=242922858343095) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.45 | 9.73 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/238970528738328/permalink/247193091249405) / [Mobile](https://m.facebook.com/events/238970528738328?view=permalink&id=247193091249405) |
+| 3 | [Mark Cordell](../../persons/mark_cordell/pyram.md) | 40+ | <i class="flag flag-US" /> | 8.45 | 11.64 | 🥉 | [Desktop](https://www.facebook.com/events/238970528738328/permalink/247175091251205) / [Mobile](https://m.facebook.com/events/238970528738328?view=permalink&id=247175091251205) |
+
 #### [2023-04-03](../../results/2023-04-03/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.16 | 11.26 | 🥇 | [Desktop](https://www.facebook.com/events/610841793891609/permalink/616013160041139) / [Mobile](https://m.facebook.com/events/610841793891609?view=permalink&id=616013160041139) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 9.70 | 12.24 | 🥈 | [Desktop](https://www.facebook.com/events/610841793891609/permalink/617205226588599) / [Mobile](https://m.facebook.com/events/610841793891609?view=permalink&id=617205226588599) |
-| 3 | [Gordon Holey](../../persons/gordon_holey/pyram.md) | 40+ | | 13.25 | 15.48 | 🥉 | [Desktop](https://www.facebook.com/766997877/videos/888948648860795) / [Mobile](https://m.facebook.com/766997877/videos/888948648860795) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/pyram.md) | 40+ | <i class="flag flag-US" /> | 13.25 | 15.48 | 🥉 | [Desktop](https://www.facebook.com/766997877/videos/888948648860795) / [Mobile](https://m.facebook.com/766997877/videos/888948648860795) |
 
 #### [2023-03-20](../../results/2023-03-20/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 9.10 | 11.66 | 🥇 | [Desktop](https://www.facebook.com/events/171663595723883/permalink/178184285071814) / [Mobile](https://m.facebook.com/events/171663595723883?view=permalink&id=178184285071814) |
-| 2 | [Gordon Holey](../../persons/gordon_holey/pyram.md) | 40+ | | 7.55 | 12.56 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/942499450221181) / [Mobile](https://m.facebook.com/766997877/videos/942499450221181) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/pyram.md) | 40+ | <i class="flag flag-US" /> | 7.55 | 12.56 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/942499450221181) / [Mobile](https://m.facebook.com/766997877/videos/942499450221181) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 11.58 | 13.35 | 🥉 | [Desktop](https://www.facebook.com/events/171663595723883/permalink/178227891734120) / [Mobile](https://m.facebook.com/events/171663595723883?view=permalink&id=178227891734120) |
 
 #### [2023-03-06](../../results/2023-03-06/pyram.md)
@@ -28,7 +36,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mark Cordell](../../persons/mark_cordell/pyram.md) | 40+ | <i class="flag flag-US" /> | 9.72 | 11.96 | 🥇 | [Desktop](https://www.facebook.com/events/520428456921801/permalink/527135556251091) / [Mobile](https://m.facebook.com/events/520428456921801?view=permalink&id=527135556251091) |
 | 2 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.09 | 12.22 | 🥈 | [Desktop](https://www.facebook.com/events/520428456921801/permalink/524769339821046) / [Mobile](https://m.facebook.com/events/520428456921801?view=permalink&id=524769339821046) |
-| 3 | [Gordon Holey](../../persons/gordon_holey/pyram.md) | 40+ | | 9.97 | 14.74 | 🥉 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/563024612284796) / [Mobile](https://m.facebook.com/766997877/videos/563024612284796) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/pyram.md) | 40+ | <i class="flag flag-US" /> | 9.97 | 14.74 | 🥉 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/563024612284796) / [Mobile](https://m.facebook.com/766997877/videos/563024612284796) |
 
 #### [2023-02-20](../../results/2023-02-20/pyram.md)
 
@@ -36,7 +44,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 6.98 | 9.36 | 🥇 | [Desktop](https://www.facebook.com/events/902902514362571/permalink/908352823817540) / [Mobile](https://m.facebook.com/events/902902514362571?view=permalink&id=908352823817540) |
 | 2 | [Mark Cordell](../../persons/mark_cordell/pyram.md) | 40+ | <i class="flag flag-US" /> | 9.30 | 10.91 | 🥈 | [Desktop](https://www.facebook.com/events/902902514362571/permalink/910654333587389) / [Mobile](https://m.facebook.com/events/902902514362571?view=permalink&id=910654333587389) |
-| 3 | [Gordon Holey](../../persons/gordon_holey/pyram.md) | 40+ | | 11.64 | 14.55 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/152643347652124) / [Mobile](https://m.facebook.com/766997877/videos/152643347652124) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/pyram.md) | 40+ | <i class="flag flag-US" /> | 11.64 | 14.55 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/152643347652124) / [Mobile](https://m.facebook.com/766997877/videos/152643347652124) |
 
 #### [2023-02-06](../../results/2023-02-06/pyram.md)
 

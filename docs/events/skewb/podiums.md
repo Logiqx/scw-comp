@@ -6,11 +6,19 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-04-17](../../results/2023-04-17/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.44 | 13.14 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/238970528738328/permalink/245883411380373) / [Mobile](https://m.facebook.com/events/238970528738328?view=permalink&id=245883411380373) |
+| 2 | [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 10.14 | 14.17 | 🥈 | [Desktop](https://www.facebook.com/events/238970528738328/permalink/247175091251205) / [Mobile](https://m.facebook.com/events/238970528738328?view=permalink&id=247175091251205) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | <i class="flag flag-US" /> | 11.25 | 15.24 | 🥉 | [Desktop](https://www.facebook.com/766997877/videos/1956280334705163) / [Mobile](https://m.facebook.com/766997877/videos/1956280334705163) |
+
 #### [2023-04-03](../../results/2023-04-03/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | | 10.83 | 12.59 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/766997877/videos/189449217216252) / [Mobile](https://m.facebook.com/766997877/videos/189449217216252) |
+| 1 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | <i class="flag flag-US" /> | 10.83 | 12.59 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/766997877/videos/189449217216252) / [Mobile](https://m.facebook.com/766997877/videos/189449217216252) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.83 | 14.79 | 🥈 | [Desktop](https://www.facebook.com/events/610841793891609/permalink/617211333254655) / [Mobile](https://m.facebook.com/events/610841793891609?view=permalink&id=617211333254655) |
 
 #### [2023-03-20](../../results/2023-03-20/skewb.md)
@@ -19,13 +27,13 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | <i class="flag flag-JP" /> | 5.04 | 5.79 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/171663595723883/permalink/177443195145923) / [Mobile](https://m.facebook.com/events/171663595723883?view=permalink&id=177443195145923) |
 | 2 | [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 9.87 | 11.70 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/171663595723883/permalink/179969831559926) / [Mobile](https://m.facebook.com/events/171663595723883?view=permalink&id=179969831559926) |
-| 3 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | | 7.47 | 13.39 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/1625657091286010) / [Mobile](https://m.facebook.com/766997877/videos/1625657091286010) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | <i class="flag flag-US" /> | 7.47 | 13.39 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/1625657091286010) / [Mobile](https://m.facebook.com/766997877/videos/1625657091286010) |
 
 #### [2023-03-06](../../results/2023-03-06/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | | 8.85 | 14.74 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/719947926335166) / [Mobile](https://m.facebook.com/766997877/videos/719947926335166) |
+| 1 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | <i class="flag flag-US" /> | 8.85 | 14.74 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/719947926335166) / [Mobile](https://m.facebook.com/766997877/videos/719947926335166) |
 | 2 | [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 15.82 | 16.39 | 🥈 | [Desktop](https://www.facebook.com/events/520428456921801/permalink/527135556251091) / [Mobile](https://m.facebook.com/events/520428456921801?view=permalink&id=527135556251091) |
 
 #### [2023-02-20](../../results/2023-02-20/skewb.md)
@@ -33,7 +41,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/skewb.md) | 40+ | <i class="flag flag-TW" /> | 8.23 | 12.48 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/902902514362571/permalink/904623514190471) / [Mobile](https://m.facebook.com/events/902902514362571?view=permalink&id=904623514190471) |
-| 2 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | | 9.44 | 13.96 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/1168404963860559) / [Mobile](https://m.facebook.com/766997877/videos/1168404963860559) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | <i class="flag flag-US" /> | 9.44 | 13.96 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/1168404963860559) / [Mobile](https://m.facebook.com/766997877/videos/1168404963860559) |
 | 3 | [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 9.87 | 19.85 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/902902514362571/permalink/910654333587389) / [Mobile](https://m.facebook.com/events/902902514362571?view=permalink&id=910654333587389) |
 
 #### [2023-02-06](../../results/2023-02-06/skewb.md)

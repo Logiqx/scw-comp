@@ -2,9 +2,11 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [JM Tambaoan](README.md)
+### [JM Tambaoan](README.md) - [2023TAMB01](https://www.worldcubeassociation.org/persons/2023TAMB01?event=pyram)
 
 <i class="flag flag-PH" />&nbsp;Philippines
+
+![JM Tambaoan](1681359750.png)
 
 #### Pyraminx Results
 

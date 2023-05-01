@@ -4,6 +4,10 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Levin Houghton](README.md) - [2016HOUG01](https://www.worldcubeassociation.org/persons/2016HOUG01?event=sq1)
 
+<i class="flag flag-CH" />&nbsp;Switzerland
+
+![Levin Houghton](1538074743.jpg)
+
 #### Square-1 Results
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

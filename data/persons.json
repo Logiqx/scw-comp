@@ -282,6 +282,7 @@
       "J Tambaoan",
       "JM"
     ],
+    "avatar": "1681359750.png",
     "country": "Philippines",
     "id": 90
   },
@@ -304,6 +305,11 @@
     "country": "Finland",
     "id": 105,
     "wcaId": "2022RAIP02"
+  },
+  "James Longden": {
+    "age": "<40",
+    "country": "???",
+    "id": 121
   },
   "Jamie Brady (Deansie)": {
     "age": "40+",
@@ -358,6 +364,13 @@
     "country": "United Kingdom",
     "id": 20,
     "wcaId": "2022COCC01"
+  },
+  "Joe Kucala": {
+    "age": "50+",
+    "avatar": "1682123036.jpg",
+    "country": "United States",
+    "id": 120,
+    "wcaId": "2022KUCA01"
   },
   "Joey Day": {
     "age": "40+",
@@ -620,7 +633,7 @@
   },
   "Rachel Radtke": {
     "age": "<40",
-    "country": "???",
+    "country": "United States",
     "id": 112
   },
   "Raimon Schaap": {

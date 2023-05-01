@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Nick Agatyn](README.md)
+### [Nick Agatyn](README.md) - [2021AGAT01](https://www.worldcubeassociation.org/persons/2021AGAT01?event=skewb)
 
 <i class="flag flag-AU" />&nbsp;Australia
 

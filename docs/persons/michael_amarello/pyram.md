@@ -6,12 +6,15 @@
 
 <i class="flag flag-US" />&nbsp;United States
 
+![Michael Amarello](1659001530.jpg)
+
 #### Pyraminx Results
 
 <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-04-17](../../results/2023-04-17/pyram.md) | 60+ | **13.73** | **25.09** | 🔥 ⚡ | 24.11 | 20.98 | 31.32 | 30.19 | **13.73** | [Desktop](https://www.facebook.com/michael.amarello/videos/607339014645349) / [Mobile](https://m.facebook.com/michael.amarello/videos/607339014645349) |
 | [2023-04-03](../../results/2023-04-03/pyram.md) | 60+ | **19.57** | **29.61** | 🔥 ⚡ | 23.36 | 22.60 | **19.57** | 42.87 | 51.27 | [Desktop](https://www.facebook.com/michael.amarello/videos/920759492505963) / [Mobile](https://m.facebook.com/michael.amarello/videos/920759492505963) |
 | [2023-03-20](../../results/2023-03-20/pyram.md) | 50+ | 16.86 | 20.27 |  | 21.31 | 19.31 | 16.86 | 25.10 | 20.20 | [Desktop](https://www.facebook.com/michael.amarello/videos/1656718854773926) / [Mobile](https://m.facebook.com/michael.amarello/videos/1656718854773926) |
 | [2023-03-06](../../results/2023-03-06/pyram.md) | 50+ | 14.16 | **18.60** | 🔥 | 20.06 | 20.37 | 14.16 | 20.63 | 15.36 | [Desktop](https://www.facebook.com/michael.amarello/videos/2491248061027453) / [Mobile](https://m.facebook.com/michael.amarello/videos/2491248061027453) |

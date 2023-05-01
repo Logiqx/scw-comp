@@ -6,11 +6,19 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-04-17](../../results/2023-04-17/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 5.56 | 6.32 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/786804792820217/permalink/793399758827387) / [Mobile](https://m.facebook.com/events/786804792820217?view=permalink&id=793399758827387) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | <i class="flag flag-US" /> | 5.82 | 6.74 | 🥈 🔥 | [Desktop](https://www.facebook.com/766997877/videos/1308482383404772) / [Mobile](https://m.facebook.com/766997877/videos/1308482383404772) |
+| 3 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 6.18 | 6.94 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/786804792820217/permalink/790393379128025) / [Mobile](https://m.facebook.com/events/786804792820217?view=permalink&id=790393379128025) |
+
 #### [2023-04-03](../../results/2023-04-03/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | | 6.95 | 7.57 | 🏆 🥇 | [Desktop](https://www.facebook.com/766997877/videos/610466464311609) / [Mobile](https://m.facebook.com/766997877/videos/610466464311609) |
+| 1 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | <i class="flag flag-US" /> | 6.95 | 7.57 | 🏆 🥇 | [Desktop](https://www.facebook.com/766997877/videos/610466464311609) / [Mobile](https://m.facebook.com/766997877/videos/610466464311609) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | <i class="flag flag-US" /> | 7.08 | 8.03 | 🥈 | [Desktop](https://www.facebook.com/events/542929047949179/permalink/550256473883103) / [Mobile](https://m.facebook.com/events/542929047949179?view=permalink&id=550256473883103) |
 | 3 | [JM Tambaoan](../../persons/jm_tambaoan/222.md) | 40+ | <i class="flag flag-PH" /> | 6.73 | 8.84 | 🥉 | [Desktop](https://www.facebook.com/events/542929047949179/permalink/544478547794229) / [Mobile](https://m.facebook.com/events/542929047949179?view=permalink&id=544478547794229) |
 
@@ -20,13 +28,13 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 3.98 | 5.95 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/241366535002371/permalink/245531534585871) / [Mobile](https://m.facebook.com/events/241366535002371?view=permalink&id=245531534585871) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | <i class="flag flag-US" /> | 6.49 | 6.93 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/241366535002371/permalink/248965284242496) / [Mobile](https://m.facebook.com/events/241366535002371?view=permalink&id=248965284242496) |
-| 3 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | | 4.91 | 6.98 | 🥉 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/776122453700249) / [Mobile](https://m.facebook.com/766997877/videos/776122453700249) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | <i class="flag flag-US" /> | 4.91 | 6.98 | 🥉 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/776122453700249) / [Mobile](https://m.facebook.com/766997877/videos/776122453700249) |
 
 #### [2023-03-06](../../results/2023-03-06/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | | 6.04 | 6.94 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/152878037655854) / [Mobile](https://m.facebook.com/766997877/videos/152878037655854) |
+| 1 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | <i class="flag flag-US" /> | 6.04 | 6.94 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/152878037655854) / [Mobile](https://m.facebook.com/766997877/videos/152878037655854) |
 | 2 | [Mark Cordell](../../persons/mark_cordell/222.md) | 40+ | <i class="flag flag-US" /> | 6.58 | 8.81 | 🥈 | [Desktop](https://www.facebook.com/events/229553919432988/permalink/235897125465334) / [Mobile](https://m.facebook.com/events/229553919432988?view=permalink&id=235897125465334) |
 | 3 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 7.78 | 8.82 | 🥉 | [Desktop](https://www.facebook.com/events/229553919432988/permalink/233593172362396) / [Mobile](https://m.facebook.com/events/229553919432988?view=permalink&id=233593172362396) |
 
@@ -36,7 +44,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 4.80 | 7.24 | 🥇 🔥 | [Desktop](https://www.facebook.com/events/569225115154363/permalink/574398044637070) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=574398044637070) |
 | 2 | [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 5.19 | 7.28 | 🥈 | [Desktop](https://www.facebook.com/events/569225115154363/permalink/574369101306631) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=574369101306631) |
-| 3 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | | 6.43 | 7.39 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/569225115154363/permalink/574076274669247) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=574076274669247) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | <i class="flag flag-US" /> | 6.43 | 7.39 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/569225115154363/permalink/574076274669247) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=574076274669247) |
 
 #### [2023-02-06](../../results/2023-02-06/222.md)
 

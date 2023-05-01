@@ -6,7 +6,7 @@
 
 <i class="flag flag-US" />&nbsp;United States
 
-![Dan Smith](1570678334.png)
+![Dan Smith](1678150280.jpg)
 
 #### Megaminx Results
 

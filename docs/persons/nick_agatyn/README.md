@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### Nick Agatyn
+### Nick Agatyn - [2021AGAT01](https://www.worldcubeassociation.org/persons/2021AGAT01)
 
 <i class="flag flag-AU" />&nbsp;Australia
 

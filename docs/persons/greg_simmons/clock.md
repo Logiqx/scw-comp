@@ -6,6 +6,8 @@
 
 <i class="flag flag-GB" />&nbsp;United Kingdom
 
+![Greg Simmons](1651864154.jpg)
+
 #### Clock Results
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

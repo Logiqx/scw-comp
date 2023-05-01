@@ -12,7 +12,7 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Jae Park](../../persons/jae_park/333bf.md) | 50+ | <i class="flag flag-US" /> | 37.19 | 48.04 | 🏆 x 47 | 🥇 x 50, 🥈 x 1 | 💥 x 12, 🔥 x 3, ⚡ x 10 |
 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | <i class="flag flag-AR" /> | 2:34.83 | 3:37.17 |  | 🥇 x 1, 🥈 x 2, 🥉 x 7 | 🔥 x 2, ⚡ x 5 |
-| [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | <i class="flag flag-SE" /> | 1:57.81 | 2:36.91 | 🏆 x 3 | 🥇 x 4, 🥈 x 6, 🥉 x 5 | 💥 x 6, 🔥 x 2, ⚡ x 5 |
+| [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | <i class="flag flag-SE" /> | 1:57.81 | 2:36.91 | 🏆 x 4 | 🥇 x 5, 🥈 x 6, 🥉 x 5 | 💥 x 6, 🔥 x 2, ⚡ x 5 |
 
 #### Over 40
 
@@ -26,7 +26,7 @@
 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | <i class="flag flag-AR" /> | 2:34.83 | 3:37.17 |  | 🥇 x 1, 🥈 x 2, 🥉 x 7 | 🔥 x 2, ⚡ x 5 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/333bf.md) | 40+ | <i class="flag flag-US" /> | 2:31.65 | DNF |  | 🥉 x 1 | ⚡ x 3 |
 | [Mark Adams](../../persons/mark_adams/333bf.md) | 40+ | <i class="flag flag-GB" /> | 1:46.60 | DNF |  | 🥉 x 1 | ⚡ x 1 |
-| [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | <i class="flag flag-SE" /> | 1:57.81 | 2:36.91 | 🏆 x 3 | 🥇 x 4, 🥈 x 6, 🥉 x 5 | 💥 x 6, 🔥 x 2, ⚡ x 5 |
+| [Peter Andersson](../../persons/peter_andersson/333bf.md) | 50+ | <i class="flag flag-SE" /> | 1:57.81 | 2:36.91 | 🏆 x 4 | 🥇 x 5, 🥈 x 6, 🥉 x 5 | 💥 x 6, 🔥 x 2, ⚡ x 5 |
 | [Stuart Salmon](../../persons/stuart_salmon/333bf.md) | 40+ | <i class="flag flag-GB" /> | 3:24.37 | DNF |  |  | ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | 40+ | <i class="flag flag-FR" /> | 1:11.93 | 1:31.27 | 🏆 x 3 | 🥇 x 3, 🥈 x 9, 🥉 x 4 | 🔥 x 3, ⚡ x 2 |
 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 40+ | <i class="flag flag-AU" /> | 2:29.53 | 3:38.13 | 🏆 x 4 | 🥇 x 4, 🥈 x 4, 🥉 x 1 | 🔥 x 1, ⚡ x 4 |

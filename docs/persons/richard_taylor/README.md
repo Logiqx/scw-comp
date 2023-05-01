@@ -4,6 +4,10 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Richard Taylor - [2015TAYL04](https://www.worldcubeassociation.org/persons/2015TAYL04)
 
+<i class="flag flag-GB" />&nbsp;United Kingdom
+
+![Richard Taylor](1506360596.JPG)
+
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|

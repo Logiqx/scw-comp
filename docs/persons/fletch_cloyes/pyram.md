@@ -4,6 +4,10 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Fletch Cloyes](README.md) - [2023CLOY01](https://www.worldcubeassociation.org/persons/2023CLOY01?event=pyram)
 
+<i class="flag flag-US" />&nbsp;United States
+
+![Fletch Cloyes](1680917920.jpg)
+
 #### Pyraminx Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
