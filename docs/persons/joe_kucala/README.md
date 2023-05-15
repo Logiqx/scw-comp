@@ -4,6 +4,10 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Joe Kucala - [2022KUCA01](https://www.worldcubeassociation.org/persons/2022KUCA01)
 
+<i class="flag flag-US" />&nbsp;United States
+
+![Joe Kucala](1682123036.jpg)
+
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|

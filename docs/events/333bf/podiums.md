@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-05-01](../../results/2023-05-01/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 3:20.53 | DNF | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/542713531136099/permalink/548762303864555) / [Mobile](https://m.facebook.com/events/542713531136099?view=permalink&id=548762303864555) |
+
 #### [2023-04-17](../../results/2023-04-17/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-05-01](../../results/2023-05-01/skewb.md) | 40+ | 9.16 | **12.44** | 🥉 🔥 | 14.29 | 12.66 | 10.38 | 17.29 | 9.16 | [Desktop](https://www.facebook.com/766997877/videos/586458993624943) / [Mobile](https://m.facebook.com/766997877/videos/586458993624943) |
 | [2023-04-17](../../results/2023-04-17/skewb.md) | 40+ | 11.25 | 15.24 | 🥉 | 14.29 | 18.16 | 16.68 | 11.25 | 14.76 | [Desktop](https://www.facebook.com/766997877/videos/1956280334705163) / [Mobile](https://m.facebook.com/766997877/videos/1956280334705163) |
 | [2023-04-03](../../results/2023-04-03/skewb.md) | 40+ | 10.83 | **12.59** | 🏆 🥇 🔥 | 11.16 | 10.83 | 14.76 | 17.32 | 11.86 | [Desktop](https://www.facebook.com/766997877/videos/189449217216252) / [Mobile](https://m.facebook.com/766997877/videos/189449217216252) |
 | [2023-03-20](../../results/2023-03-20/skewb.md) | 40+ | **7.47** | **13.39** | 🥉 🔥 ⚡ | 16.52 | **7.47** | 11.32 | 17.23 | 12.33 | [Desktop](https://www.facebook.com/766997877/videos/1625657091286010) / [Mobile](https://m.facebook.com/766997877/videos/1625657091286010) |

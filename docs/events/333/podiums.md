@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-05-01](../../results/2023-05-01/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 13.90 | 16.69 | 🥇 | [Desktop](https://www.facebook.com/events/751816416413742/permalink/757733185822065) / [Mobile](https://m.facebook.com/events/751816416413742?view=permalink&id=757733185822065) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 50+ | <i class="flag flag-AU" /> | 16.97 | 19.69 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/542713531136099/permalink/548312373909548) / [Mobile](https://m.facebook.com/events/542713531136099?view=permalink&id=548312373909548) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/333.md) | 40+ | <i class="flag flag-PH" /> | 19.28 | 20.50 | 🥉 | [Desktop](https://www.facebook.com/events/751816416413742/permalink/756373162624734) / [Mobile](https://m.facebook.com/events/751816416413742?view=permalink&id=756373162624734) |
+
 #### [2023-04-17](../../results/2023-04-17/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

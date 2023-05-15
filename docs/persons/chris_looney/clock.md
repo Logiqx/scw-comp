@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-05-01](../../results/2023-05-01/clock.md) | <40 | 20.37 | 28.76 |  | 31.03 | 30.02 | 25.97 | 20.37 | 30.30 | [Desktop](https://www.facebook.com/chris.looney/videos/1876302299421492) / [Mobile](https://m.facebook.com/chris.looney/videos/1876302299421492) |
 | [2023-03-06](../../results/2023-03-06/clock.md) | <40 | **19.47** | **24.69** | 🔥 ⚡ | 23.00 | 26.92 | 27.58 | **19.47** | 24.14 | [Desktop](https://www.facebook.com/chris.looney/videos/604215968241080) / [Mobile](https://m.facebook.com/chris.looney/videos/604215968241080) |
 | [2023-02-20](../../results/2023-02-20/clock.md) | <40 | 27.25 | 32.22 |  | 47.09 | 29.27 | 27.27 | 27.25 | 40.12 | [Desktop](https://www.facebook.com/chris.looney/videos/924802445339287) / [Mobile](https://m.facebook.com/chris.looney/videos/924802445339287) |
 | [2023-01-23](../../results/2023-01-23/clock.md) | <40 | **22.82** | **29.27** | 🔥 ⚡ | 31.53 | 27.16 | 39.36 | 29.13 | **22.82** | [Desktop](https://www.facebook.com/chris.looney/videos/3354606088094171) / [Mobile](https://m.facebook.com/chris.looney/videos/3354606088094171) |

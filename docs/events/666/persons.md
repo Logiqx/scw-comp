@@ -29,7 +29,7 @@
 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | 40+ | <i class="flag flag-GB" /> | 3:27.31 | 3:35.12 | 🏆 x 11 | 🥇 x 12, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 4 |
 | [Chris Wright](../../persons/chris_wright/666.md) | 50+ | <i class="flag flag-GB" /> | 3:08.84 | 3:18.98 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/666.md) | 50+ | <i class="flag flag-US" /> | 5:23.74 | 5:54.57 |  | 🥇 x 5, 🥈 x 2, 🥉 x 7 | 💥 x 1, 🔥 x 1, ⚡ x 2 |
-| [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:05.42 | 3:22.90 | 🏆 x 12 | 🥇 x 15, 🥈 x 2 | 🔥 x 6, ⚡ x 9 |
+| [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:05.42 | 3:22.90 | 🏆 x 12 | 🥇 x 16, 🥈 x 2 | 🔥 x 6, ⚡ x 9 |
 | [Donna Leiber](../../persons/donna_leiber/666.md) | 60+ | <i class="flag flag-US" /> | 12:04.43 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Eric Dodson](../../persons/eric_dodson/666.md) | 40+ | <i class="flag flag-US" /> | 8:34.62 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/666.md) | 40+ | <i class="flag flag-JP" /> | 2:38.63 | 2:44.23 | 🏆 x 24 | 🥇 x 24 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
@@ -50,7 +50,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Adam Robson](../../persons/adam_robson/666.md) | <40 | <i class="flag flag-GB" /> | 9:15.97 | DNF |  |  | ⚡ x 1 |
-| [Chris Looney](../../persons/chris_looney/666.md) | <40 | <i class="flag flag-US" /> | 3:30.35 | 3:41.36 | 🏆 x 8 |  | 🔥 x 4, ⚡ x 6 |
+| [Chris Looney](../../persons/chris_looney/666.md) | <40 | <i class="flag flag-US" /> | 3:30.35 | 3:41.36 | 🏆 x 9 |  | 🔥 x 4, ⚡ x 6 |
 | [Chris Thames](../../persons/chris_thames/666.md) | <40 | <i class="flag flag-US" /> | 9:58.46 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/666.md) | <40 | <i class="flag flag-IE" /> | 4:46.43 | DNF |  |  | ⚡ x 3 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | <40 | <i class="flag flag-VE" /> | 3:03.79 | 3:19.74 | 🏆 x 20 |  | 🔥 x 10, ⚡ x 9 |

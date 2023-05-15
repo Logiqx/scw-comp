@@ -18,7 +18,7 @@
 | :-- | :--: | :--: | :--: | :--: | :--: | :-- | :-- |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333fm.md) | 50+ | <i class="flag flag-IT" /> | 43 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/333fm.md) | 50+ | <i class="flag flag-US" /> | 51 | 53.67 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | 🔥 x 1, ⚡ x 2 |
-| [David Roche](../../persons/david_roche/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 26.00 | 🏆 x 11 | 🥇 x 15, 🥈 x 5, 🥉 x 4 | 💥 x 8, 🔥 x 5, ⚡ x 4 |
+| [David Roche](../../persons/david_roche/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 26.00 | 🏆 x 12 | 🥇 x 16, 🥈 x 5, 🥉 x 4 | 💥 x 8, 🔥 x 5, ⚡ x 4 |
 | [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | <i class="flag flag-US" /> | 40 | DNF |  | 🥈 x 3, 🥉 x 5 | 💥 x 3, ⚡ x 3 |
 | [John Cook](../../persons/john_cook/333fm.md) | 50+ | <i class="flag flag-AU" /> | 45 | DNF |  | 🥉 x 2 | ⚡ x 3 |
 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | <i class="flag flag-GB" /> | 32 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 3 | ⚡ x 3 |
@@ -33,7 +33,7 @@
 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | <i class="flag flag-GB" /> | 23 | 26.33 | 🏆 x 17 | 🥇 x 26, 🥈 x 14, 🥉 x 6 | 💥 x 1, 🔥 x 2, ⚡ x 4 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333fm.md) | 50+ | <i class="flag flag-IT" /> | 43 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/333fm.md) | 50+ | <i class="flag flag-US" /> | 51 | 53.67 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | 🔥 x 1, ⚡ x 2 |
-| [David Roche](../../persons/david_roche/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 26.00 | 🏆 x 11 | 🥇 x 15, 🥈 x 5, 🥉 x 4 | 💥 x 8, 🔥 x 5, ⚡ x 4 |
+| [David Roche](../../persons/david_roche/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 26.00 | 🏆 x 12 | 🥇 x 16, 🥈 x 5, 🥉 x 4 | 💥 x 8, 🔥 x 5, ⚡ x 4 |
 | [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | <i class="flag flag-US" /> | 40 | DNF |  | 🥈 x 3, 🥉 x 5 | 💥 x 3, ⚡ x 3 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) | 40+ | <i class="flag flag-PL" /> | 24 | 25.33 | 🏆 x 17 | 🥇 x 23, 🥈 x 10, 🥉 x 2 | 💥 x 5, 🔥 x 4, ⚡ x 10 |
 | [Joey Day](../../persons/joey_day/333fm.md) | 40+ | <i class="flag flag-US" /> | 62 | DNF |  | 🥉 x 1 | ⚡ x 1 |

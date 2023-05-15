@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-05-01](../../results/2023-05-01/sq1.md) | 40+ | 52.56 | 1:09.41 |  | 52.56 | 1:21.88 | 1:07.90 | 58.44 | 1:23.45 | [Desktop](https://www.facebook.com/events/1407988503335303/permalink/1412854036182083) / [Mobile](https://m.facebook.com/events/1407988503335303?view=permalink&id=1412854036182083) |
 | [2022-04-18](../../results/2022-04-18/sq1.md) | 40+ | 1:06.72 | 1:18.13 | 🥉 | 1:06.72 | 1:10.34 | 1:37.33 | DNS | DNS | [Desktop](https://www.facebook.com/events/566110581332467/permalink/573215933955265) / [Mobile](https://m.facebook.com/events/566110581332467?view=permalink&id=573215933955265) |
 | [2022-04-04](../../results/2022-04-04/sq1.md) | 40+ | 48.39 | 1:25.57 |  | 48.39 | 1:22.37 | 2:19.91 | 1:20.10 | 1:34.24 | [Desktop](https://www.facebook.com/events/1171138513621623/permalink/1174215239980617) / [Mobile](https://m.facebook.com/events/1171138513621623?view=permalink&id=1174215239980617) |
 | [2022-03-21](../../results/2022-03-21/sq1.md) | 40+ | 1:26.49 | 1:35.49 | 🥉 | 1:48.06 | 1:31.93 | 1:26.49 | DNS | DNS | [Desktop](https://www.facebook.com/events/525463282272711/permalink/532702901548749) / [Mobile](https://m.facebook.com/events/525463282272711?view=permalink&id=532702901548749) |
