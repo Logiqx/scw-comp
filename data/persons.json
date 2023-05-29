@@ -603,7 +603,7 @@
     "wcaId": "2018LEEP04"
   },
   "Peter Andersson": {
-    "age": "50+",
+    "age": "60+",
     "avatar": "1485629308.png",
     "country": "Sweden",
     "id": 43,
@@ -669,6 +669,12 @@
     "country": "United Kingdom",
     "id": 116,
     "wcaId": "2015TAYL04"
+  },
+  "Richard Whitehead": {
+    "age": "40+",
+    "country": "???",
+    "id": 122,
+    "wcaId": "2023WHIT15"
   },
   "Rob Peters": {
     "age": "40+",

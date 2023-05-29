@@ -10,10 +10,11 @@
 
 #### Clock Results
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-05-15](../../results/2023-05-15/clock.md) | 50+ | 26.28 | **29.24** | 🥉 🔥 | 32.45 | 33.79 | 28.52 | 26.74 | 26.28 | [Desktop](https://www.facebook.com/events/128088546941599/permalink/131127193304401) / [Mobile](https://m.facebook.com/events/128088546941599?view=permalink&id=131127193304401) |
 | [2023-04-17](../../results/2023-04-17/clock.md) | 50+ | **25.72** | **29.65** | 🔥 ⚡ | 26.05 | **25.72** | 31.01 | 31.90 | 33.37 | [Desktop](https://www.facebook.com/events/238970528738328/permalink/247207071248007) / [Mobile](https://m.facebook.com/events/238970528738328?view=permalink&id=247207071248007) |
 
 
