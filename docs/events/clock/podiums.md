@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-05-29](../../results/2023-05-29/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 9.02 | 10.81 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/3552780501633678/permalink/3561492730762455) / [Mobile](https://m.facebook.com/events/3552780501633678?view=permalink&id=3561492730762455) |
+| 2 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 60+ | <i class="flag flag-US" /> | 11.69 | 12.63 | 🥈 💥 🔥 | [Desktop](https://www.facebook.com/events/3552780501633678/permalink/3556029874642074) / [Mobile](https://m.facebook.com/events/3552780501633678?view=permalink&id=3556029874642074) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/clock.md) | 40+ | <i class="flag flag-US" /> | 16.60 | 17.80 | 🥉 | [Desktop](https://www.facebook.com/766997877/videos/230890816359434) / [Mobile](https://m.facebook.com/766997877/videos/230890816359434) |
+
 #### [2023-05-15](../../results/2023-05-15/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

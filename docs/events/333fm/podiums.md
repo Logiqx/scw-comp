@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-05-29](../../results/2023-05-29/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [David Roche](../../persons/david_roche/333fm.md) | 50+ | <i class="flag flag-AU" /> | 27 | 28.33 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/272209365274988/permalink/278615544634370) / [Mobile](https://m.facebook.com/events/272209365274988?view=permalink&id=278615544634370) |
+
 #### [2023-05-15](../../results/2023-05-15/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |
