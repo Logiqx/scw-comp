@@ -8,10 +8,11 @@
 
 #### Pyraminx Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-06-12](../../results/2023-06-12/pyram.md) | 50+ | 8.84 | 10.71 | 🏆 🥇 | 10.92 | 14.61 | 10.20 | 8.84 | 11.01 | [Desktop](https://www.facebook.com/events/252304080823510/permalink/260323233354928) / [Mobile](https://m.facebook.com/events/252304080823510?view=permalink&id=260323233354928) |
 | [2023-05-29](../../results/2023-05-29/pyram.md) | 50+ | 10.53 | 11.09 | 🥈 | 11.28 | 11.41 | 13.27 | 10.53 | 10.59 | [Desktop](https://www.facebook.com/events/3552780501633678/permalink/3561467984098263) / [Mobile](https://m.facebook.com/events/3552780501633678?view=permalink&id=3561467984098263) |
 | [2023-05-15](../../results/2023-05-15/pyram.md) | 50+ | 8.14 | 9.80 | 🥈 | 8.14 | 10.19 | 9.54 | 9.66 | 10.98 | [Desktop](https://www.facebook.com/events/128088546941599/permalink/138635725886881) / [Mobile](https://m.facebook.com/events/128088546941599?view=permalink&id=138635725886881) |
 | [2023-05-01](../../results/2023-05-01/pyram.md) | 50+ | 8.43 | 12.46 | 🥈 | 12.45 | 12.63 | 8.43 | 14.42 | 12.29 | [Desktop](https://www.facebook.com/events/1407988503335303/permalink/1416365202497633) / [Mobile](https://m.facebook.com/events/1407988503335303?view=permalink&id=1416365202497633) |

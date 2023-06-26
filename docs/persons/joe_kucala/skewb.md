@@ -10,10 +10,11 @@
 
 #### Skewb Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-06-12](../../results/2023-06-12/skewb.md) | 60+ | **19.20** | **24.22** | 💥 🔥 ⚡ | 21.92 | 29.21 | 21.54 | **19.20** | 30.78 | [Desktop](https://www.facebook.com/events/252304080823510/permalink/257638103623441) / [Mobile](https://m.facebook.com/events/252304080823510?view=permalink&id=257638103623441) |
 | [2023-05-29](../../results/2023-05-29/skewb.md) | 50+ | 20.52 | 32.43 |  | 30.45 | 46.54 | 31.30 | 35.55 | 20.52 | [Desktop](https://www.facebook.com/events/3552780501633678/permalink/3559520537626341) / [Mobile](https://m.facebook.com/events/3552780501633678?view=permalink&id=3559520537626341) |
 | [2023-05-15](../../results/2023-05-15/skewb.md) | 50+ | 26.53 | 36.25 | 🥉 | 38.85 | 31.13 | 1:02.60 | 26.53 | 38.77 | [Desktop](https://www.facebook.com/events/128088546941599/permalink/131134699970317) / [Mobile](https://m.facebook.com/events/128088546941599?view=permalink&id=131134699970317) |
 | [2023-04-17](../../results/2023-04-17/skewb.md) | 50+ | **18.46** | **24.90** | 🔥 ⚡ | 31.30 | 22.78 | **18.46** | 20.63 | 33.10 | [Desktop](https://www.facebook.com/events/238970528738328/permalink/247185317916849) / [Mobile](https://m.facebook.com/events/238970528738328?view=permalink&id=247185317916849) |

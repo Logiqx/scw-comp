@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-06-12](../../results/2023-06-12/pyram.md) | 60+ | **9.80** | 19.70 | ⚡ | 20.07 | 32.32 | 20.25 | 18.77 | **9.80** | [Desktop](https://www.facebook.com/michael.amarello/videos/1016644532656979) / [Mobile](https://m.facebook.com/michael.amarello/videos/1016644532656979) |
 | [2023-05-29](../../results/2023-05-29/pyram.md) | 60+ | 14.41 | **18.17** | 🔥 | 20.83 | 18.17 | 14.41 | 25.88 | 15.51 | [Desktop](https://www.facebook.com/events/3552780501633678/permalink/3556032887975106) / [Mobile](https://m.facebook.com/events/3552780501633678?view=permalink&id=3556032887975106) |
 | [2023-05-15](../../results/2023-05-15/pyram.md) | 60+ | **12.86** | **18.22** | 🥉 🔥 ⚡ | 20.14 | 22.36 | 16.40 | **12.86** | 18.13 | [Desktop](https://www.facebook.com/michael.amarello/videos/258835549935925) / [Mobile](https://m.facebook.com/michael.amarello/videos/258835549935925) |
 | [2023-05-01](../../results/2023-05-01/pyram.md) | 60+ | 17.96 | **21.47** | 🔥 | 22.10 | 23.32 | 18.99 | 17.96 | 29.19 | [Desktop](https://www.facebook.com/michael.amarello/videos/258835549935925) / [Mobile](https://m.facebook.com/michael.amarello/videos/258835549935925) |

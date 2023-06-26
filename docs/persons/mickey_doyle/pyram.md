@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-06-12](../../results/2023-06-12/pyram.md) | 50+ | **14.12** | **25.03** | 🔥 ⚡ | **14.12** | 24.55 | 24.74 | 37.53 | 25.79 | [Desktop](https://www.facebook.com/events/252304080823510/permalink/259632100090708) / [Mobile](https://m.facebook.com/events/252304080823510?view=permalink&id=259632100090708) |
 | [2023-05-29](../../results/2023-05-29/pyram.md) | 40+ | 16.18 | 22.80 |  | 26.83 | 21.76 | 19.82 | 1:17.60 | 16.18 | [Desktop](https://www.facebook.com/events/3552780501633678/permalink/3561707714074290) / [Mobile](https://m.facebook.com/events/3552780501633678?view=permalink&id=3561707714074290) |
 | [2022-11-14](../../results/2022-11-14/pyram.md) | 40+ | 13.09 | 20.12 | 🥉 | 16.57 | 20.32 | 13.09 | 1:16.02 | 23.47 | [Desktop](https://www.facebook.com/events/6099811736738322/permalink/6147116168674545) / [Mobile](https://m.facebook.com/events/6099811736738322?view=permalink&id=6147116168674545) |
 | [2022-10-31](../../results/2022-10-31/pyram.md) | 40+ | 12.50 | 23.06 | 🥉 | 12.93 | 42.24 | 22.86 | 12.50 | 33.40 | [Desktop](https://www.facebook.com/events/843784600089254/permalink/847936066340774) / [Mobile](https://m.facebook.com/events/843784600089254?view=permalink&id=847936066340774) |

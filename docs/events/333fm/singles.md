@@ -56,6 +56,12 @@
 | 6 | [Chris Hardwick](../../persons/chris_hardwick/333fm.md) | [2020-06-30](../../results/2020-06-30/333fm.md) | <40 | <i class="flag flag-US" /> | 43 |  |  | ⚡ x 1 | [Desktop](https://www.facebook.com/events/1574705676027540/permalink/1578822932282481) / [Mobile](https://m.facebook.com/events/1574705676027540?view=permalink&id=1578822932282481) |
 | 7 | [Chris Thames](../../persons/chris_thames/333fm.md) | [2021-02-09](../../results/2021-02-09/333fm.md) | <40 | <i class="flag flag-US" /> | 47 |  |  | 🔥 x 1, ⚡ x 4 | [Desktop](https://www.facebook.com/events/324362745652604/permalink/326810018741210) / [Mobile](https://m.facebook.com/events/324362745652604?view=permalink&id=326810018741210) |
 
+#### Under 20
+
+| # | Name | Date | Age | 🌍 | Single | Cups | Medals | Achievements | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- | :-- | :-- |
+| 1 | [Samuel Jehanno](../../persons/samuel_jehanno/333fm.md) | [2023-06-12](../../results/2023-06-12/333fm.md) | <20 | | 35 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1707078883062009/permalink/1715344478902116) / [Mobile](https://m.facebook.com/events/1707078883062009?view=permalink&id=1715344478902116) |
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

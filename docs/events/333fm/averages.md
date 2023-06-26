@@ -33,6 +33,12 @@
 | 2 | [Ed Connell](../../persons/ed_connell/333fm.md) | [2022-06-27](../../results/2022-06-27/333fm.md) | <40 | <i class="flag flag-IE" /> | 30.33 | 🏆 x 4 |  | 🔥 x 1, ⚡ x 5 | [Desktop](https://www.facebook.com/events/1888546438002221/permalink/1895097837347081) / [Mobile](https://m.facebook.com/events/1888546438002221?view=permalink&id=1895097837347081) |
 | 3 | [Chris Thames](../../persons/chris_thames/333fm.md) | [2021-09-20](../../results/2021-09-20/333fm.md) | <40 | <i class="flag flag-US" /> | 66.33 |  |  | 🔥 x 1, ⚡ x 4 | [Desktop](https://www.facebook.com/events/209362497846754/permalink/214053557377648) / [Mobile](https://m.facebook.com/events/209362497846754?view=permalink&id=214053557377648) |
 
+#### Under 20
+
+| # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- | :-- | :-- |
+| 1 | [Samuel Jehanno](../../persons/samuel_jehanno/333fm.md) | [2023-06-12](../../results/2023-06-12/333fm.md) | <20 | | 39.33 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1707078883062009/permalink/1715344478902116) / [Mobile](https://m.facebook.com/events/1707078883062009?view=permalink&id=1715344478902116) |
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

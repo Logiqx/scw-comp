@@ -56,6 +56,12 @@
 | [Go-ho Choi](../../persons/go_ho_choi/333fm.md) | <40 | <i class="flag flag-KR" /> | 41 | DNF |  |  | ⚡ x 1 |
 | [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | <40 | <i class="flag flag-US" /> | 23 | 27.33 | 🏆 x 27 |  | 💥 x 1, 🔥 x 2, ⚡ x 8 |
 
+#### Under 20
+
+| Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
+| :-- | :--: | :--: | :--: | :--: | :--: | :-- | :-- |
+| [Samuel Jehanno](../../persons/samuel_jehanno/333fm.md) | <20 | | 35 | 39.33 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

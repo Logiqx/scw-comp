@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-06-12](../../results/2023-06-12/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 2:28.88 | 2:35.34 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2098018943739146/permalink/2105672852973755) / [Mobile](https://m.facebook.com/events/2098018943739146?view=permalink&id=2105672852973755) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/minx.md) | 40+ | <i class="flag flag-PH" /> | 3:29.62 | 4:05.57 | 🥈 | [Desktop](https://www.facebook.com/events/2098018943739146/permalink/2103921046482269) / [Mobile](https://m.facebook.com/events/2098018943739146?view=permalink&id=2103921046482269) |
+
 #### [2023-05-29](../../results/2023-05-29/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

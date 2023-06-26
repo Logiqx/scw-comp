@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-06-12](../../results/2023-06-12/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Glyn Brown](../../persons/glyn_brown/444.md) | 40+ | <i class="flag flag-GB" /> | 1:04.59 | 1:09.45 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/575948201291091/permalink/580983290787582) / [Mobile](https://m.facebook.com/events/575948201291091?view=permalink&id=580983290787582) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/444.md) | 40+ | <i class="flag flag-PH" /> | 1:15.19 | 1:17.95 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/575948201291091/permalink/580692580816653) / [Mobile](https://m.facebook.com/events/575948201291091?view=permalink&id=580692580816653) |
+| 3 | [Dan Smith](../../persons/dan_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:09.12 | 1:24.86 | 🥉 | [Desktop](https://www.facebook.com/events/575948201291091/permalink/582970313922213) / [Mobile](https://m.facebook.com/events/575948201291091?view=permalink&id=582970313922213) |
+
 #### [2023-05-29](../../results/2023-05-29/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

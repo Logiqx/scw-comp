@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-06-12](../../results/2023-06-12/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.44 | 9.04 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/252304080823510/permalink/260332823353969) / [Mobile](https://m.facebook.com/events/252304080823510?view=permalink&id=260332823353969) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | <i class="flag flag-US" /> | 7.16 | 11.21 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/245451628199365) / [Mobile](https://m.facebook.com/766997877/videos/245451628199365) |
+| 3 | [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 8.87 | 11.80 | 🥉 | [Desktop](https://www.facebook.com/events/252304080823510/permalink/256675853719666) / [Mobile](https://m.facebook.com/events/252304080823510?view=permalink&id=256675853719666) |
+
 #### [2023-05-29](../../results/2023-05-29/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
