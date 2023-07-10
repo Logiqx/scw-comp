@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-06-26](../../results/2023-06-26/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 50+ | <i class="flag flag-US" /> | 70 | 75.33 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1321118992086970/permalink/1323448645187338) / [Mobile](https://m.facebook.com/events/1321118992086970?view=permalink&id=1323448645187338) |
+| 2 | [John Cook](../../persons/john_cook/333fm.md) | 60+ | <i class="flag flag-AU" /> | 37 | DNF | 🥈 💥 ⚡ | [Desktop](https://www.facebook.com/events/1321118992086970/permalink/1329008144631388) / [Mobile](https://m.facebook.com/events/1321118992086970?view=permalink&id=1329008144631388) |
+
 
 #### [2023-05-29](../../results/2023-05-29/333fm.md)
 

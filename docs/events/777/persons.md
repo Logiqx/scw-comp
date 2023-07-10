@@ -32,7 +32,7 @@
 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | <i class="flag flag-JP" /> | 3:58.92 | 4:11.37 | 🏆 x 25 | 🥇 x 25 | 💥 x 6, 🔥 x 3, ⚡ x 5 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | <i class="flag flag-GB" /> | 4:49.30 | 5:07.54 | 🏆 x 18 | 🥇 x 20, 🥈 x 28 | 🔥 x 8, ⚡ x 7 |
 | [Glyn Brown](../../persons/glyn_brown/777.md) | 40+ | <i class="flag flag-GB" /> | 5:35.80 | 5:46.90 | 🏆 x 1 | 🥇 x 3, 🥈 x 5 | 🔥 x 4, ⚡ x 4 |
-| [JM Tambaoan](../../persons/jm_tambaoan/777.md) | 40+ | <i class="flag flag-PH" /> | 7:26.80 | 8:08.46 |  | 🥇 x 1, 🥈 x 10, 🥉 x 2 | 🔥 x 4, ⚡ x 6 |
+| [JM Tambaoan](../../persons/jm_tambaoan/777.md) | 40+ | <i class="flag flag-PH" /> | 7:26.80 | 8:08.46 | 🏆 x 1 | 🥇 x 2, 🥈 x 10, 🥉 x 2 | 🔥 x 4, ⚡ x 6 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/777.md) | 40+ | <i class="flag flag-US" /> | 8:08.23 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/777.md) | 50+ | <i class="flag flag-US" /> | 9:06.58 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Konsta Jukka](../../persons/konsta_jukka/777.md) | 40+ | <i class="flag flag-FI" /> | 4:44.78 | 5:09.11 | 🏆 x 3 | 🥇 x 3, 🥈 x 6, 🥉 x 1 | 🔥 x 4, ⚡ x 5 |

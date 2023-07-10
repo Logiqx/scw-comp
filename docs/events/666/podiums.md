@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-06-26](../../results/2023-06-26/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [JM Tambaoan](../../persons/jm_tambaoan/666.md) | 40+ | <i class="flag flag-PH" /> | 5:07.21 | 5:22.19 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1935666300144840/permalink/1945088909202579) / [Mobile](https://m.facebook.com/events/1935666300144840?view=permalink&id=1945088909202579) |
+
 #### [2023-06-12](../../results/2023-06-12/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

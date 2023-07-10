@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-06-26](../../results/2023-06-26/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 2:01.65 | 2:14.13 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/205496442461873/permalink/215493674795483) / [Mobile](https://m.facebook.com/events/205496442461873?view=permalink&id=215493674795483) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 2:25.17 | 2:37.43 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/205496442461873/permalink/214338478244336) / [Mobile](https://m.facebook.com/events/205496442461873?view=permalink&id=214338478244336) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/minx.md) | 40+ | <i class="flag flag-PH" /> | 3:16.88 | 3:27.92 | 🥉 | [Desktop](https://www.facebook.com/events/205496442461873/permalink/215815228096661) / [Mobile](https://m.facebook.com/events/205496442461873?view=permalink&id=215815228096661) |
+
 #### [2023-06-12](../../results/2023-06-12/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
