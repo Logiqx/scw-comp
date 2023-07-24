@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-07-10](../../results/2023-07-10/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 48.75 | 1:00.53 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/198208716234931/permalink/203284699060666) / [Mobile](https://m.facebook.com/events/198208716234931?view=permalink&id=203284699060666) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 56.90 | 1:03.80 | 🥈 | [Desktop](https://www.facebook.com/events/198208716234931/permalink/204176955638107) / [Mobile](https://m.facebook.com/events/198208716234931?view=permalink&id=204176955638107) |
+
 #### [2023-06-26](../../results/2023-06-26/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

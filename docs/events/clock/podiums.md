@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-07-10](../../results/2023-07-10/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 10.16 | 10.80 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/290406996735190/permalink/295854176190472) / [Mobile](https://m.facebook.com/events/290406996735190?view=permalink&id=295854176190472) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/clock.md) | 40+ | <i class="flag flag-US" /> | 12.77 | 14.30 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/290406996735190/permalink/296233549485868) / [Mobile](https://m.facebook.com/events/290406996735190?view=permalink&id=296233549485868) |
+| 3 | [Mark Cordell](../../persons/mark_cordell/clock.md) | 40+ | <i class="flag flag-US" /> | 13.80 | 15.37 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/290406996735190/permalink/297388136037076) / [Mobile](https://m.facebook.com/events/290406996735190?view=permalink&id=297388136037076) |
+
 #### [2023-06-26](../../results/2023-06-26/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

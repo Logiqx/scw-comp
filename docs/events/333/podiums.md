@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-07-10](../../results/2023-07-10/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 50+ | <i class="flag flag-AU" /> | 15.20 | 19.42 | 🥇 ⚡ | [Desktop](https://www.facebook.com/events/198208716234931/permalink/203100105745792) / [Mobile](https://m.facebook.com/events/198208716234931?view=permalink&id=203100105745792) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/333.md) | 40+ | <i class="flag flag-PH" /> | 17.14 | 19.58 | 🥈 | [Desktop](https://www.facebook.com/events/198208716234931/permalink/204215525634250) / [Mobile](https://m.facebook.com/events/198208716234931?view=permalink&id=204215525634250) |
+| 3 | [Mark Cordell](../../persons/mark_cordell/333.md) | 40+ | <i class="flag flag-US" /> | 17.92 | 20.92 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/198208716234931/permalink/204296872292782) / [Mobile](https://m.facebook.com/events/198208716234931?view=permalink&id=204296872292782) |
+
 #### [2023-06-26](../../results/2023-06-26/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

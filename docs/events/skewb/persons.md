@@ -10,7 +10,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 13.01 | 16.32 |  | 🥉 x 1 | 💥 x 2, 🔥 x 3, ⚡ x 3 |
+| [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 11.68 | 16.32 |  | 🥉 x 1 | 💥 x 3, 🔥 x 3, ⚡ x 4 |
 | [Peter Douthwright](../../persons/peter_douthwright/skewb.md) | 60+ | <i class="flag flag-CA" /> | 15.41 | 26.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 #### Over 50
@@ -20,8 +20,9 @@
 | [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 5.78 | 15.48 | 🏆 x 3 | 🥇 x 3, 🥈 x 5, 🥉 x 4 | 💥 x 1, 🔥 x 6, ⚡ x 3 |
 | [Dean Money](../../persons/dean_money/skewb.md) | 50+ | <i class="flag flag-US" /> | 16.23 | 30.21 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Jae Park](../../persons/jae_park/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.94 | 34.95 |  | 🥇 x 1, 🥈 x 9 | 💥 x 4, 🔥 x 6, ⚡ x 6 |
-| [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 13.01 | 16.32 |  | 🥉 x 1 | 💥 x 2, 🔥 x 3, ⚡ x 3 |
-| [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.26 | 9.04 | 🏆 x 9 | 🥇 x 11, 🥈 x 7, 🥉 x 6 | 💥 x 11, 🔥 x 11, ⚡ x 7 |
+| [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 11.68 | 16.32 |  | 🥉 x 1 | 💥 x 3, 🔥 x 3, ⚡ x 4 |
+| [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.26 | 9.04 | 🏆 x 9 | 🥇 x 11, 🥈 x 7, 🥉 x 7 | 💥 x 11, 🔥 x 11, ⚡ x 7 |
+| [Mickey Doyle](../../persons/mickey_doyle/skewb.md) | 50+ | <i class="flag flag-US" /> | 12.01 | 23.82 | 🏆 x 2 | 🥇 x 2, 🥈 x 5, 🥉 x 5 | 🔥 x 7, ⚡ x 6 |
 | [Peter Douthwright](../../persons/peter_douthwright/skewb.md) | 60+ | <i class="flag flag-CA" /> | 15.41 | 26.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 #### Over 40
@@ -36,17 +37,17 @@
 | [Eric Dodson](../../persons/eric_dodson/skewb.md) | 40+ | <i class="flag flag-US" /> | 4.34 | 10.22 | 🏆 x 10 | 🥇 x 12, 🥈 x 2, 🥉 x 1 | 🔥 x 6, ⚡ x 4 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | <i class="flag flag-JP" /> | 3.23 | 5.79 | 🏆 x 25 | 🥇 x 25 | 💥 x 7, 🔥 x 7, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/skewb.md) | 40+ | <i class="flag flag-KR" /> | 8.56 | 12.35 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | <i class="flag flag-US" /> | 7.16 | 11.21 | 🏆 x 2 | 🥇 x 2, 🥈 x 3, 🥉 x 3 | 🔥 x 6, ⚡ x 4 |
+| [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | <i class="flag flag-US" /> | 7.16 | 11.21 | 🏆 x 2 | 🥇 x 2, 🥈 x 4, 🥉 x 3 | 🔥 x 6, ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/skewb.md) | 40+ | <i class="flag flag-PL" /> | 7.88 | 12.16 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [JM Tambaoan](../../persons/jm_tambaoan/skewb.md) | 40+ | <i class="flag flag-PH" /> | 8.12 | 15.95 | 🏆 x 4 | 🥇 x 5, 🥈 x 9, 🥉 x 3 | 🔥 x 6, ⚡ x 5 |
 | [Jae Park](../../persons/jae_park/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.94 | 26.94 |  | 🥇 x 1, 🥈 x 9 | 💥 x 4, 🔥 x 6, ⚡ x 6 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | 40+ | <i class="flag flag-US" /> | 4.15 | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 13.01 | 16.32 |  | 🥉 x 1 | 💥 x 2, 🔥 x 3, ⚡ x 3 |
-| [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.26 | 9.04 | 🏆 x 9 | 🥇 x 11, 🥈 x 7, 🥉 x 6 | 💥 x 11, 🔥 x 11, ⚡ x 7 |
+| [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 11.68 | 16.32 |  | 🥉 x 1 | 💥 x 3, 🔥 x 3, ⚡ x 4 |
+| [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.26 | 9.04 | 🏆 x 9 | 🥇 x 11, 🥈 x 7, 🥉 x 7 | 💥 x 11, 🔥 x 11, ⚡ x 7 |
 | [Marcel Balzer](../../persons/marcel_balzer/skewb.md) | 40+ | <i class="flag flag-DE" /> | 27.44 | 47.53 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 1 |
-| [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 6.81 | 8.98 | 🏆 x 4 | 🥇 x 4, 🥈 x 8, 🥉 x 2 | 🔥 x 5, ⚡ x 6 |
+| [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 6.81 | 8.98 | 🏆 x 5 | 🥇 x 5, 🥈 x 8, 🥉 x 2 | 🔥 x 5, ⚡ x 6 |
 | [Michael George](../../persons/michael_george/skewb.md) | 40+ | <i class="flag flag-GB" /> | 2.78 | 7.91 | 🏆 x 8 | 🥇 x 10 | 💥 x 4, 🔥 x 3, ⚡ x 2 |
-| [Mickey Doyle](../../persons/mickey_doyle/skewb.md) | 40+ | <i class="flag flag-US" /> | 10.20 | 15.58 | 🏆 x 2 | 🥇 x 2, 🥈 x 5, 🥉 x 5 | 🔥 x 6, ⚡ x 5 |
+| [Mickey Doyle](../../persons/mickey_doyle/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.20 | 15.58 | 🏆 x 2 | 🥇 x 2, 🥈 x 5, 🥉 x 5 | 🔥 x 7, ⚡ x 6 |
 | [Peter Douthwright](../../persons/peter_douthwright/skewb.md) | 60+ | <i class="flag flag-CA" /> | 15.41 | 26.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Terence Brown](../../persons/terence_brown/skewb.md) | 40+ | <i class="flag flag-NZ" /> | 7.32 | 11.02 |  | 🥈 x 2 | 🔥 x 1, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | 40+ | <i class="flag flag-IN" /> | 4.49 | 8.06 | 🏆 x 2 | 🥇 x 2, 🥈 x 1 | 🔥 x 3, ⚡ x 3 |
