@@ -463,6 +463,12 @@
     "id": 82,
     "wcaId": "2008JUKK01"
   },
+  "Kristina Lim": {
+    "age": "50+",
+    "country": "???",
+    "id": 126,
+    "wcaId": "2022LIMK02"
+  },
   "Lee Acacio": {
     "age": "40+",
     "country": "United States",
@@ -708,6 +714,12 @@
     "country": "Netherlands",
     "id": 51,
     "wcaId": "2003BRUC01"
+  },
+  "Ross Richard Bambrey": {
+    "age": "40+",
+    "country": "???",
+    "id": 125,
+    "wcaId": "2023BAMB02"
   },
   "Samuel Jehanno": {
     "age": "<20",

@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-07-24](../../results/2023-07-24/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [JM Tambaoan](../../persons/jm_tambaoan/666.md) | 40+ | <i class="flag flag-PH" /> | 5:11.60 | 5:35.21 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3448294872104342/permalink/3456263217974174) / [Mobile](https://m.facebook.com/events/3448294872104342?view=permalink&id=3456263217974174) |
+| 2 | [Dan Smith](../../persons/dan_smith/666.md) | 50+ | <i class="flag flag-US" /> | 5:36.60 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/3448294872104342/permalink/3453961424871020) / [Mobile](https://m.facebook.com/events/3448294872104342?view=permalink&id=3453961424871020) |
+
 #### [2023-07-10](../../results/2023-07-10/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
