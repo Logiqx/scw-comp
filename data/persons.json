@@ -750,6 +750,12 @@
     "id": 21,
     "wcaId": "2016BOUC01"
   },
+  "Shawn Doyle": {
+    "age": "<10",
+    "country": "???",
+    "id": 127,
+    "wcaId": "2022DOYL03"
+  },
   "Stanley Watt": {
     "age": "40+",
     "country": "Canada",
@@ -766,6 +772,12 @@
     "country": "United Kingdom",
     "id": 31,
     "wcaId": "2018SALM01"
+  },
+  "Taryn Stys": {
+    "age": "40+",
+    "country": "???",
+    "id": 128,
+    "wcaId": "2023STYS01"
   },
   "Terence Brown": {
     "age": "40+",

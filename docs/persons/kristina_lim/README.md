@@ -8,7 +8,8 @@
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [Skewb](skewb.md) | 7.58 | 11.80 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Skewb](skewb.md) | 6.22 | 11.80 | 🏆 x 1 | 🥇 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 2 |
+| [Clock](clock.md) | 18.08 | 19.49 |  |  | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

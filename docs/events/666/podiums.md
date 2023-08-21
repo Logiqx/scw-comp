@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-08-07](../../results/2023-08-07/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | <i class="flag flag-GB" /> | 4:00.93 | 4:11.28 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/310216218066087/permalink/316970374057338) / [Mobile](https://m.facebook.com/events/310216218066087?view=permalink&id=316970374057338) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/666.md) | 40+ | <i class="flag flag-PH" /> | 4:58.06 | 5:06.40 | 🥈 | [Desktop](https://www.facebook.com/events/310216218066087/permalink/317070304047345) / [Mobile](https://m.facebook.com/events/310216218066087?view=permalink&id=317070304047345) |
+
 #### [2023-07-24](../../results/2023-07-24/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-08-07](../../results/2023-08-07/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.81 | 8.81 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/666756165039562/permalink/672531037795408) / [Mobile](https://m.facebook.com/events/666756165039562?view=permalink&id=672531037795408) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.81 | 9.60 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/666756165039562/permalink/668451244870054) / [Mobile](https://m.facebook.com/events/666756165039562?view=permalink&id=668451244870054) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/pyram.md) | 40+ | <i class="flag flag-US" /> | 9.10 | 13.39 | 🥉 | [Desktop](https://www.facebook.com/766997877/videos/3478897335696124) / [Mobile](https://m.facebook.com/766997877/videos/3478897335696124) |
+
 #### [2023-07-24](../../results/2023-07-24/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

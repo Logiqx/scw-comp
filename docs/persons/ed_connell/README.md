@@ -27,7 +27,7 @@
 | [3x3x3 BLD](333bf.md) | 2:00.37 | 2:24.05 | 🏆 x 7 | 🔥 x 4, ⚡ x 8 |
 | [4x4x4 BLD](444bf.md) | 20:04.82 | - |  | ⚡ x 1 |
 | [3x3x3 MBLD](333mbf.md) | 3/3 in 14:45 | - |  | ⚡ x 3 |
-| [3x3x3 FMC](333fm.md) | 27 | 30.33 | 🏆 x 4 | 🔥 x 1, ⚡ x 5 |
+| [3x3x3 FMC](333fm.md) | 27 | 30.33 | 🏆 x 5 | 🔥 x 1, ⚡ x 5 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
