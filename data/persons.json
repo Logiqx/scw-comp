@@ -112,7 +112,7 @@
   },
   "Christopher Iglesias": {
     "age": "<30",
-    "country": "???",
+    "country": "United States",
     "id": 113
   },
   "Ciro Vignotto": {
@@ -321,7 +321,7 @@
   },
   "James Longden": {
     "age": "<40",
-    "country": "???",
+    "country": "United Kingdom",
     "id": 121
   },
   "Jamie Brady (Deansie)": {
@@ -465,7 +465,8 @@
   },
   "Kristina Lim": {
     "age": "50+",
-    "country": "???",
+    "avatar": "1670987100.jpg",
+    "country": "United States",
     "id": 126,
     "wcaId": "2022LIMK02"
   },
@@ -683,7 +684,7 @@
   },
   "Richard Whitehead": {
     "age": "40+",
-    "country": "???",
+    "country": "Australia",
     "id": 122,
     "wcaId": "2023WHIT15"
   },
@@ -717,13 +718,14 @@
   },
   "Ross Richard Bambrey": {
     "age": "40+",
-    "country": "???",
+    "country": "United Kingdom",
     "id": 125,
     "wcaId": "2023BAMB02"
   },
   "Samuel Jehanno": {
     "age": "<20",
-    "country": "???",
+    "avatar": "1667688687.jpg",
+    "country": "France",
     "id": 123,
     "wcaId": "2018JEHA01"
   },
@@ -752,7 +754,8 @@
   },
   "Shawn Doyle": {
     "age": "<10",
-    "country": "???",
+    "avatar": "1687536855.png",
+    "country": "United States",
     "id": 127,
     "wcaId": "2022DOYL03"
   },
@@ -775,7 +778,8 @@
   },
   "Taryn Stys": {
     "age": "40+",
-    "country": "???",
+    "avatar": "1689526290.jpg",
+    "country": "United States",
     "id": 128,
     "wcaId": "2023STYS01"
   },
