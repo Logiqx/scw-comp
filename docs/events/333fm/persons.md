@@ -31,7 +31,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | :--: | :--: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333fm.md) | 40+ | <i class="flag flag-GB" /> | 36 | 48.33 |  | 🥈 x 3, 🥉 x 4 | 🔥 x 1, ⚡ x 2 |
-| [Anthony Rochester](../../persons/anthony_rochester/333fm.md) | 40+ | <i class="flag flag-AU" /> | 42 | DNF |  | 🥈 x 2, 🥉 x 3 | ⚡ x 3 |
+| [Anthony Rochester](../../persons/anthony_rochester/333fm.md) | 40+ | <i class="flag flag-AU" /> | 39 | DNF |  | 🥇 x 1, 🥈 x 2, 🥉 x 3 | ⚡ x 4 |
 | [Ben Coppin](../../persons/ben_coppin/333fm.md) | 40+ | <i class="flag flag-GB" /> | 23 | 26.33 | 🏆 x 17 | 🥇 x 26, 🥈 x 14, 🥉 x 6 | 💥 x 1, 🔥 x 2, ⚡ x 4 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333fm.md) | 50+ | <i class="flag flag-IT" /> | 43 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/333fm.md) | 50+ | <i class="flag flag-US" /> | 51 | 53.67 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | 🔥 x 1, ⚡ x 2 |
@@ -55,7 +55,7 @@
 | [Brooke Persoon](../../persons/brooke_persoon/333fm.md) | <40 | <i class="flag flag-US" /> | 42 | DNF |  |  | ⚡ x 1 |
 | [Chris Hardwick](../../persons/chris_hardwick/333fm.md) | <40 | <i class="flag flag-US" /> | 43 | DNF |  |  | ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/333fm.md) | <40 | <i class="flag flag-US" /> | 47 | 66.33 |  |  | 🔥 x 1, ⚡ x 4 |
-| [Ed Connell](../../persons/ed_connell/333fm.md) | <40 | <i class="flag flag-IE" /> | 27 | 30.33 | 🏆 x 5 |  | 🔥 x 1, ⚡ x 5 |
+| [Ed Connell](../../persons/ed_connell/333fm.md) | <40 | <i class="flag flag-IE" /> | 27 | 30.33 | 🏆 x 6 |  | 🔥 x 1, ⚡ x 5 |
 | [Go-ho Choi](../../persons/go_ho_choi/333fm.md) | <40 | <i class="flag flag-KR" /> | 41 | DNF |  |  | ⚡ x 1 |
 | [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | <40 | <i class="flag flag-US" /> | 23 | 27.33 | 🏆 x 27 |  | 💥 x 1, 🔥 x 2, ⚡ x 8 |
 
@@ -63,7 +63,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | :--: | :--: | :--: | :-- | :-- |
-| [Samuel Jehanno](../../persons/samuel_jehanno/333fm.md) | <20 | | 35 | 39.33 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
+| [Samuel Jehanno](../../persons/samuel_jehanno/333fm.md) | <20 | <i class="flag flag-FR" /> | 35 | 39.33 | 🏆 x 1 |  | 🔥 x 1, ⚡ x 1 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

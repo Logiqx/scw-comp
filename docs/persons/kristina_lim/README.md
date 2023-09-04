@@ -4,11 +4,17 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Kristina Lim - [2022LIMK02](https://www.worldcubeassociation.org/persons/2022LIMK02)
 
+<i class="flag flag-US" />&nbsp;United States
+
+![Kristina Lim](1670987100.jpg)
+
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [Skewb](skewb.md) | 6.22 | 11.80 | 🏆 x 1 | 🥇 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 2 |
+| [3x3x3](333.md) | 40.24 | 51.03 |  |  | 🔥 x 1, ⚡ x 1 |
+| [2x2x2](222.md) | 7.91 | 10.89 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Skewb](skewb.md) | 6.22 | 9.66 | 🏆 x 2 | 🥇 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Clock](clock.md) | 18.08 | 19.49 |  |  | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

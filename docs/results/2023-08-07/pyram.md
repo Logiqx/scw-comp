@@ -14,7 +14,7 @@
 | 4 | [Glyn Brown](../../persons/glyn_brown/pyram.md) | 40+ | <i class="flag flag-GB" /> | 11.25 | 17.01 | 🔥 ⚡ | 11.25 | 14.96 | 52.14 | 16.28 | 19.79 | [Desktop](https://www.facebook.com/events/666756165039562/permalink/672436434471535) / [Mobile](https://m.facebook.com/events/666756165039562?view=permalink&id=672436434471535) |
 | 5 | [JM Tambaoan](../../persons/jm_tambaoan/pyram.md) | 40+ | <i class="flag flag-PH" /> | 12.46 | 19.02 |  | 13.39 | 12.46 | 32.16 | 24.30 | 19.36 | [Desktop](https://www.facebook.com/events/666756165039562/permalink/672533491128496) / [Mobile](https://m.facebook.com/events/666756165039562?view=permalink&id=672533491128496) |
 | 6 | [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 11.45 | 21.42 |  | 11.45 | 20.82 | 25.19 | DNF | 18.25 | [Desktop](https://www.facebook.com/events/666756165039562/permalink/668477731534072) / [Mobile](https://m.facebook.com/events/666756165039562?view=permalink&id=668477731534072) |
-| 7 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/pyram.md) | 40+ | | 21.67 | 24.89 | 🔥 ⚡ | 22.58 | 28.30 | 23.80 | 21.67 | 28.34 | [Desktop](https://www.facebook.com/536706331/videos/240330102306242) / [Mobile](https://m.facebook.com/536706331/videos/240330102306242) |
+| 7 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/pyram.md) | 40+ | <i class="flag flag-GB" /> | 21.67 | 24.89 | 🔥 ⚡ | 22.58 | 28.30 | 23.80 | 21.67 | 28.34 | [Desktop](https://www.facebook.com/536706331/videos/240330102306242) / [Mobile](https://m.facebook.com/536706331/videos/240330102306242) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

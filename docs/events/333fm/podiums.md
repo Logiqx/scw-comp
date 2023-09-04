@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-08-21](../../results/2023-08-21/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Anthony Rochester](../../persons/anthony_rochester/333fm.md) | 40+ | <i class="flag flag-AU" /> | 39 | DNF | 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1207532573528494/permalink/1214630606152024) / [Mobile](https://m.facebook.com/events/1207532573528494?view=permalink&id=1214630606152024) |
+
 
 #### [2023-06-26](../../results/2023-06-26/333fm.md)
 

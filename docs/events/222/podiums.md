@@ -6,12 +6,20 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-08-21](../../results/2023-08-21/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | 40+ | <i class="flag flag-VE" /> | 4.81 | 6.00 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1826888371060368/permalink/1830072444075294) / [Mobile](https://m.facebook.com/events/1826888371060368?view=permalink&id=1830072444075294) |
+| 2 | [JM Tambaoan](../../persons/jm_tambaoan/222.md) | 40+ | <i class="flag flag-PH" /> | 4.00 | 7.55 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1826888371060368/permalink/1834476480301557) / [Mobile](https://m.facebook.com/events/1826888371060368?view=permalink&id=1834476480301557) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | <i class="flag flag-US" /> | 6.25 | 7.91 | 🥉 | [Desktop](https://www.facebook.com/events/1826888371060368/permalink/1833912677024604) / [Mobile](https://m.facebook.com/events/1826888371060368?view=permalink&id=1833912677024604) |
+
 #### [2023-08-07](../../results/2023-08-07/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [JM Tambaoan](../../persons/jm_tambaoan/222.md) | 40+ | <i class="flag flag-PH" /> | 5.44 | 6.50 | 🥇 | [Desktop](https://www.facebook.com/events/274987855148595/permalink/281705224476858) / [Mobile](https://m.facebook.com/events/274987855148595?view=permalink&id=281705224476858) |
-| 2 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/222.md) | 40+ | | 4.82 | 7.30 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/536706331/videos/308975511788002) / [Mobile](https://m.facebook.com/536706331/videos/308975511788002) |
+| 2 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/222.md) | 40+ | <i class="flag flag-GB" /> | 4.82 | 7.30 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/536706331/videos/308975511788002) / [Mobile](https://m.facebook.com/536706331/videos/308975511788002) |
 | 3 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | <i class="flag flag-US" /> | 3.42 | 7.46 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/274987855148595/permalink/275271748453539) / [Mobile](https://m.facebook.com/events/274987855148595?view=permalink&id=275271748453539) |
 
 #### [2023-07-24](../../results/2023-07-24/222.md)

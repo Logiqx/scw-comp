@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-08-21](../../results/2023-08-21/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:40.41 | 1:41.62 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/605466225085334/permalink/611974754434481) / [Mobile](https://m.facebook.com/events/605466225085334?view=permalink&id=611974754434481) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | 40+ | <i class="flag flag-VE" /> | 1:47.83 | 1:57.66 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/605466225085334/permalink/608408684791088) / [Mobile](https://m.facebook.com/events/605466225085334?view=permalink&id=608408684791088) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/555.md) | 40+ | <i class="flag flag-PH" /> | 1:57.63 | 2:22.23 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/605466225085334/permalink/612179904413966) / [Mobile](https://m.facebook.com/events/605466225085334?view=permalink&id=612179904413966) |
+
 #### [2023-08-07](../../results/2023-08-07/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

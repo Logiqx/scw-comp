@@ -29,14 +29,15 @@
 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | 40+ | <i class="flag flag-GB" /> | 3:27.31 | 3:35.12 | 🏆 x 11 | 🥇 x 12, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 4 |
 | [Chris Wright](../../persons/chris_wright/666.md) | 50+ | <i class="flag flag-GB" /> | 3:08.84 | 3:18.98 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/666.md) | 50+ | <i class="flag flag-US" /> | 5:23.74 | 5:54.57 |  | 🥇 x 5, 🥈 x 3, 🥉 x 7 | 💥 x 1, 🔥 x 1, ⚡ x 2 |
-| [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:05.42 | 3:22.90 | 🏆 x 14 | 🥇 x 18, 🥈 x 2 | 🔥 x 6, ⚡ x 9 |
+| [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:05.42 | 3:22.90 | 🏆 x 15 | 🥇 x 19, 🥈 x 2 | 🔥 x 6, ⚡ x 9 |
 | [Donna Leiber](../../persons/donna_leiber/666.md) | 60+ | <i class="flag flag-US" /> | 12:04.43 | DNF |  |  | 💥 x 3, ⚡ x 3 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | 40+ | <i class="flag flag-VE" /> | 3:35.84 | 3:43.01 | 🏆 x 20 | 🥈 x 1 | 🔥 x 11, ⚡ x 10 |
 | [Eric Dodson](../../persons/eric_dodson/666.md) | 40+ | <i class="flag flag-US" /> | 8:34.62 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/666.md) | 40+ | <i class="flag flag-JP" /> | 2:38.63 | 2:44.23 | 🏆 x 24 | 🥇 x 24 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | <i class="flag flag-GB" /> | 3:17.40 | 3:32.21 | 🏆 x 4 | 🥇 x 20, 🥈 x 25, 🥉 x 2 | 🔥 x 6, ⚡ x 5 |
 | [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | <i class="flag flag-GB" /> | 3:37.50 | 3:50.59 | 🏆 x 3 | 🥇 x 4, 🥈 x 7 | 🔥 x 5, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | 40+ | <i class="flag flag-KR" /> | 2:48.49 | 3:03.55 | 🏆 x 2 | 🥇 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
-| [JM Tambaoan](../../persons/jm_tambaoan/666.md) | 40+ | <i class="flag flag-PH" /> | 4:41.61 | 5:06.21 | 🏆 x 3 | 🥇 x 3, 🥈 x 13, 🥉 x 2 | 🔥 x 4, ⚡ x 4 |
+| [JM Tambaoan](../../persons/jm_tambaoan/666.md) | 40+ | <i class="flag flag-PH" /> | 4:41.61 | 5:06.21 | 🏆 x 3 | 🥇 x 3, 🥈 x 13, 🥉 x 3 | 🔥 x 4, ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/666.md) | 40+ | <i class="flag flag-US" /> | 12:20.61 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/666.md) | 40+ | <i class="flag flag-US" /> | 5:06.63 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/666.md) | 50+ | <i class="flag flag-US" /> | 6:34.83 | DNF |  | 🥈 x 1 | ⚡ x 1 |
@@ -53,7 +54,7 @@
 | [Chris Looney](../../persons/chris_looney/666.md) | <40 | <i class="flag flag-US" /> | 3:30.35 | 3:41.36 | 🏆 x 9 |  | 🔥 x 4, ⚡ x 6 |
 | [Chris Thames](../../persons/chris_thames/666.md) | <40 | <i class="flag flag-US" /> | 9:58.46 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/666.md) | <40 | <i class="flag flag-IE" /> | 4:46.43 | DNF |  |  | ⚡ x 3 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | <40 | <i class="flag flag-VE" /> | 3:03.79 | 3:19.74 | 🏆 x 20 |  | 🔥 x 10, ⚡ x 9 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | 40+ | <i class="flag flag-VE" /> | 3:03.79 | 3:19.74 | 🏆 x 20 | 🥈 x 1 | 🔥 x 11, ⚡ x 10 |
 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | 40+ | <i class="flag flag-KR" /> | 2:37.68 | 2:40.63 | 🏆 x 2 | 🥇 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [Pete Lee](../../persons/pete_lee/666.md) | <40 | <i class="flag flag-GB" /> | 3:18.16 | 3:24.87 | 🏆 x 12 |  | 🔥 x 12, ⚡ x 18 |
 | [Peter Osudar](../../persons/peter_osudar/666.md) | <40 | <i class="flag flag-CA" /> | 4:08.97 | 4:43.11 |  |  | 🔥 x 1, ⚡ x 1 |

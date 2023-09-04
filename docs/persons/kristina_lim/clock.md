@@ -4,12 +4,17 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Kristina Lim](README.md) - [2022LIMK02](https://www.worldcubeassociation.org/persons/2022LIMK02?event=clock)
 
+<i class="flag flag-US" />&nbsp;United States
+
+![Kristina Lim](1670987100.jpg)
+
 #### Clock Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-08-21](../../results/2023-08-21/clock.md) | 50+ | 18.94 | DNF |  | 19.05 | DNF | 18.94 | 21.09 | DNF | [Desktop](https://www.facebook.com/1045330593/videos/977364066858479) / [Mobile](https://m.facebook.com/1045330593/videos/977364066858479) |
 | [2023-08-07](../../results/2023-08-07/clock.md) | 50+ | **18.08** | **19.49** | 🔥 ⚡ | 18.97 | 20.25 | 19.41 | 20.10 | **18.08** | [Desktop](https://www.facebook.com/1045330593/videos/311385804624908) / [Mobile](https://m.facebook.com/1045330593/videos/311385804624908) |
 
 

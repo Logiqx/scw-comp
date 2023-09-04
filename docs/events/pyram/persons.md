@@ -10,7 +10,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.70 | 15.15 |  | 🥉 x 1 | 🔥 x 5, ⚡ x 5 |
+| [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.19 | 14.67 |  | 🥉 x 2 | 🔥 x 6, ⚡ x 6 |
 | [Martin Melcop](../../persons/martin_melcop/pyram.md) | 60+ | <i class="flag flag-BR" /> | 6.61 | 9.83 | 🏆 x 2 | 🥇 x 5, 🥈 x 2 | 💥 x 6, 🔥 x 6, ⚡ x 5 |
 | [Michael Amarello](../../persons/michael_amarello/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.80 | 18.17 |  | 🥈 x 1, 🥉 x 5 | 🔥 x 11, ⚡ x 8 |
 | [Peter Douthwright](../../persons/peter_douthwright/pyram.md) | 60+ | <i class="flag flag-CA" /> | 18.02 | 23.78 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -19,15 +19,15 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.81 | 🏆 x 10 | 🥇 x 44, 🥈 x 51, 🥉 x 6 | 💥 x 7, 🔥 x 5, ⚡ x 3 |
+| [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.81 | 🏆 x 10 | 🥇 x 44, 🥈 x 52, 🥉 x 6 | 💥 x 7, 🔥 x 5, ⚡ x 3 |
 | [Dean Money](../../persons/dean_money/pyram.md) | 50+ | <i class="flag flag-US" /> | 13.59 | 16.22 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Fletch Cloyes](../../persons/fletch_cloyes/pyram.md) | 50+ | <i class="flag flag-US" /> | 21.10 | 32.96 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/pyram.md) | 50+ | <i class="flag flag-US" /> | 1:36.40 | 1:58.10 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.70 | 15.15 |  | 🥉 x 1 | 🔥 x 5, ⚡ x 5 |
-| [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.40 | 9.60 | 🏆 x 1 | 🥇 x 7, 🥈 x 18, 🥉 x 27 | 🔥 x 8, ⚡ x 8 |
+| [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.19 | 14.67 |  | 🥉 x 2 | 🔥 x 6, ⚡ x 6 |
+| [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.40 | 9.42 | 🏆 x 2 | 🥇 x 8, 🥈 x 18, 🥉 x 27 | 🔥 x 9, ⚡ x 8 |
 | [Martin Melcop](../../persons/martin_melcop/pyram.md) | 60+ | <i class="flag flag-BR" /> | 6.61 | 9.83 | 🏆 x 2 | 🥇 x 5, 🥈 x 2 | 💥 x 6, 🔥 x 6, ⚡ x 5 |
 | [Michael Amarello](../../persons/michael_amarello/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.80 | 18.17 |  | 🥈 x 1, 🥉 x 5 | 🔥 x 11, ⚡ x 8 |
-| [Mickey Doyle](../../persons/mickey_doyle/pyram.md) | 50+ | <i class="flag flag-US" /> | 10.79 | 25.01 |  | 🥉 x 3 | 🔥 x 6, ⚡ x 6 |
+| [Mickey Doyle](../../persons/mickey_doyle/pyram.md) | 50+ | <i class="flag flag-US" /> | 8.28 | 18.22 |  | 🥉 x 3 | 🔥 x 7, ⚡ x 7 |
 | [Peter Douthwright](../../persons/peter_douthwright/pyram.md) | 60+ | <i class="flag flag-CA" /> | 18.02 | 23.78 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Over 40
@@ -37,7 +37,7 @@
 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | 40+ | <i class="flag flag-GB" /> | 11.80 | 13.95 |  | 🥈 x 1, 🥉 x 5 | 🔥 x 2, ⚡ x 4 |
 | [Andrea Doerner](../../persons/andrea_doerner/pyram.md) | 40+ | <i class="flag flag-DE" /> | 11.80 | 16.07 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/pyram.md) | 40+ | <i class="flag flag-AU" /> | 6.94 | 9.16 | 🏆 x 2 | 🥇 x 4, 🥈 x 4, 🥉 x 1 | 🔥 x 5, ⚡ x 6 |
-| [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.81 | 🏆 x 10 | 🥇 x 44, 🥈 x 51, 🥉 x 6 | 💥 x 7, 🔥 x 5, ⚡ x 3 |
+| [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.81 | 🏆 x 10 | 🥇 x 44, 🥈 x 52, 🥉 x 6 | 💥 x 7, 🔥 x 5, ⚡ x 3 |
 | [Daniel Houghton](../../persons/daniel_houghton/pyram.md) | 40+ | <i class="flag flag-CH" /> | 10.34 | 15.54 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Dean Money](../../persons/dean_money/pyram.md) | 50+ | <i class="flag flag-US" /> | 13.59 | 16.22 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/pyram.md) | 40+ | <i class="flag flag-US" /> | 7.67 | 11.15 |  | 🥇 x 1, 🥈 x 2, 🥉 x 6 | 🔥 x 9, ⚡ x 7 |
@@ -49,16 +49,16 @@
 | [Gordon Holey](../../persons/gordon_holey/pyram.md) | 40+ | <i class="flag flag-US" /> | 7.55 | 12.56 |  | 🥈 x 1, 🥉 x 4 | 🔥 x 2, ⚡ x 3 |
 | [JM Tambaoan](../../persons/jm_tambaoan/pyram.md) | 40+ | <i class="flag flag-PH" /> | 9.54 | 16.02 |  | 🥉 x 8 | 🔥 x 2, ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/pyram.md) | 50+ | <i class="flag flag-US" /> | 1:36.40 | 1:58.10 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.70 | 15.15 |  | 🥉 x 1 | 🔥 x 5, ⚡ x 5 |
-| [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.40 | 9.60 | 🏆 x 1 | 🥇 x 7, 🥈 x 18, 🥉 x 27 | 🔥 x 8, ⚡ x 8 |
+| [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.19 | 14.67 |  | 🥉 x 2 | 🔥 x 6, ⚡ x 6 |
+| [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.40 | 9.42 | 🏆 x 2 | 🥇 x 8, 🥈 x 18, 🥉 x 27 | 🔥 x 9, ⚡ x 8 |
 | [Marcel Balzer](../../persons/marcel_balzer/pyram.md) | 40+ | <i class="flag flag-DE" /> | 10.03 | 16.55 |  | 🥉 x 3 | 🔥 x 4, ⚡ x 3 |
 | [Mark Cordell](../../persons/mark_cordell/pyram.md) | 40+ | <i class="flag flag-US" /> | 6.95 | 9.36 |  | 🥇 x 3, 🥈 x 10, 🥉 x 7 | 🔥 x 7, ⚡ x 9 |
 | [Martin Melcop](../../persons/martin_melcop/pyram.md) | 60+ | <i class="flag flag-BR" /> | 6.61 | 9.83 | 🏆 x 2 | 🥇 x 5, 🥈 x 2 | 💥 x 6, 🔥 x 6, ⚡ x 5 |
 | [Michael Amarello](../../persons/michael_amarello/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.80 | 18.17 |  | 🥈 x 1, 🥉 x 5 | 🔥 x 11, ⚡ x 8 |
 | [Michael George](../../persons/michael_george/pyram.md) | 40+ | <i class="flag flag-GB" /> | 4.50 | 5.56 | 🏆 x 9 | 🥇 x 10 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
-| [Mickey Doyle](../../persons/mickey_doyle/pyram.md) | 50+ | <i class="flag flag-US" /> | 9.60 | 18.48 |  | 🥉 x 3 | 🔥 x 6, ⚡ x 6 |
+| [Mickey Doyle](../../persons/mickey_doyle/pyram.md) | 50+ | <i class="flag flag-US" /> | 8.28 | 18.22 |  | 🥉 x 3 | 🔥 x 7, ⚡ x 7 |
 | [Peter Douthwright](../../persons/peter_douthwright/pyram.md) | 60+ | <i class="flag flag-CA" /> | 18.02 | 23.78 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Ross Richard Bambrey](../../persons/ross_richard_bambrey/pyram.md) | 40+ | | 21.67 | 24.89 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Ross Richard Bambrey](../../persons/ross_richard_bambrey/pyram.md) | 40+ | <i class="flag flag-GB" /> | 12.55 | 20.90 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/pyram.md) | 40+ | <i class="flag flag-FR" /> | 7.44 | 9.77 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) | 40+ | <i class="flag flag-IN" /> | 7.13 | 8.81 | 🏆 x 1 | 🥇 x 2, 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/pyram.md) | 40+ | <i class="flag flag-TW" /> | 10.05 | 13.47 |  | 🥈 x 3, 🥉 x 2 | 🔥 x 3, ⚡ x 4 |
@@ -80,7 +80,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Christopher Iglesias](../../persons/christopher_iglesias/pyram.md) | <30 | | 10.67 | 14.10 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Christopher Iglesias](../../persons/christopher_iglesias/pyram.md) | <30 | <i class="flag flag-US" /> | 10.67 | 14.10 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Joshua Riegel](../../persons/joshua_riegel/pyram.md) | <30 | <i class="flag flag-US" /> | 9.32 | 15.49 |  |  | 🔥 x 4, ⚡ x 2 |
 
 #### Under 20
@@ -88,6 +88,12 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Dylan Cossin](../../persons/dylan_cossin/pyram.md) | <20 | <i class="flag flag-US" /> | 1.84 | 2.68 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+
+#### Under 10
+
+| Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
+| :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
+| [Shawn Doyle](../../persons/shawn_doyle/pyram.md) | <10 | <i class="flag flag-US" /> | 7.94 | 12.80 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -6,19 +6,27 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-08-21](../../results/2023-08-21/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | <i class="flag flag-US" /> | 7.50 | 9.66 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/1045330593/videos/856026029505353) / [Mobile](https://m.facebook.com/1045330593/videos/856026029505353) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 9.36 | 10.75 | 🥈 | [Desktop](https://www.facebook.com/events/1221531751824966/permalink/1227174651260676) / [Mobile](https://m.facebook.com/events/1221531751824966?view=permalink&id=1227174651260676) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/skewb.md) | 40+ | <i class="flag flag-PH" /> | 14.99 | 22.64 | 🥉 | [Desktop](https://www.facebook.com/events/1221531751824966/permalink/1227593181218823) / [Mobile](https://m.facebook.com/events/1221531751824966?view=permalink&id=1227593181218823) |
+
 #### [2023-08-07](../../results/2023-08-07/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | <i class="flag flag-US" /> | 7.33 | 9.57 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/766997877/videos/305398095315165) / [Mobile](https://m.facebook.com/766997877/videos/305398095315165) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 9.50 | 10.97 | 🥈 | [Desktop](https://www.facebook.com/events/666756165039562/permalink/668462074868971) / [Mobile](https://m.facebook.com/events/666756165039562?view=permalink&id=668462074868971) |
-| 3 | [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | | 6.22 | 12.31 | 🥉 ⚡ | [Desktop](https://www.facebook.com/1045330593/videos/1335015870730126) / [Mobile](https://m.facebook.com/1045330593/videos/1335015870730126) |
+| 3 | [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.22 | 12.31 | 🥉 ⚡ | [Desktop](https://www.facebook.com/1045330593/videos/1335015870730126) / [Mobile](https://m.facebook.com/1045330593/videos/1335015870730126) |
 
 #### [2023-07-24](../../results/2023-07-24/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | | 7.58 | 11.80 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/1045330593/videos/280770438030179) / [Mobile](https://m.facebook.com/1045330593/videos/280770438030179) |
+| 1 | [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | <i class="flag flag-US" /> | 7.58 | 11.80 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/1045330593/videos/280770438030179) / [Mobile](https://m.facebook.com/1045330593/videos/280770438030179) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 12.75 | 14.53 | 🥈 | [Desktop](https://www.facebook.com/events/806030584473421/permalink/812637233812756) / [Mobile](https://m.facebook.com/events/806030584473421?view=permalink&id=812637233812756) |
 | 3 | [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 17.40 | 21.55 | 🥉 | [Desktop](https://www.facebook.com/events/806030584473421/permalink/810305370712609) / [Mobile](https://m.facebook.com/events/806030584473421?view=permalink&id=810305370712609) |
 

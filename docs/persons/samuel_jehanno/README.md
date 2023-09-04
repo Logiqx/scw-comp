@@ -4,6 +4,10 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Samuel Jehanno - [2018JEHA01](https://www.worldcubeassociation.org/persons/2018JEHA01)
 
+<i class="flag flag-FR" />&nbsp;France
+
+![Samuel Jehanno](1667688687.jpg)
+
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Cups | Achievements|

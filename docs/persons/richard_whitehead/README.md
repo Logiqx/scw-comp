@@ -4,6 +4,8 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Richard Whitehead - [2023WHIT15](https://www.worldcubeassociation.org/persons/2023WHIT15)
 
+<i class="flag flag-AU" />&nbsp;Australia
+
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|

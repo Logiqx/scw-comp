@@ -21,8 +21,8 @@
 | [Dean Money](../../persons/dean_money/skewb.md) | 50+ | <i class="flag flag-US" /> | 16.23 | 30.21 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Jae Park](../../persons/jae_park/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.94 | 34.95 |  | 🥇 x 1, 🥈 x 9 | 💥 x 4, 🔥 x 6, ⚡ x 6 |
 | [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 11.68 | 16.32 |  | 🥉 x 2 | 💥 x 3, 🔥 x 3, ⚡ x 4 |
-| [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | | 6.22 | 11.80 | 🏆 x 1 | 🥇 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 2 |
-| [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.26 | 9.04 | 🏆 x 9 | 🥇 x 11, 🥈 x 9, 🥉 x 7 | 💥 x 11, 🔥 x 11, ⚡ x 7 |
+| [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.22 | 9.66 | 🏆 x 2 | 🥇 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
+| [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.26 | 9.04 | 🏆 x 9 | 🥇 x 11, 🥈 x 10, 🥉 x 7 | 💥 x 11, 🔥 x 11, ⚡ x 7 |
 | [Mickey Doyle](../../persons/mickey_doyle/skewb.md) | 50+ | <i class="flag flag-US" /> | 12.01 | 15.84 | 🏆 x 2 | 🥇 x 2, 🥈 x 5, 🥉 x 5 | 🔥 x 8, ⚡ x 6 |
 | [Peter Douthwright](../../persons/peter_douthwright/skewb.md) | 60+ | <i class="flag flag-CA" /> | 15.41 | 26.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
@@ -40,17 +40,18 @@
 | [Go-ho Choi](../../persons/go_ho_choi/skewb.md) | 40+ | <i class="flag flag-KR" /> | 8.56 | 12.35 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | <i class="flag flag-US" /> | 7.16 | 9.57 | 🏆 x 3 | 🥇 x 3, 🥈 x 4, 🥉 x 3 | 🔥 x 7, ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/skewb.md) | 40+ | <i class="flag flag-PL" /> | 7.88 | 12.16 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
-| [JM Tambaoan](../../persons/jm_tambaoan/skewb.md) | 40+ | <i class="flag flag-PH" /> | 8.12 | 15.95 | 🏆 x 4 | 🥇 x 5, 🥈 x 9, 🥉 x 3 | 🔥 x 6, ⚡ x 5 |
+| [JM Tambaoan](../../persons/jm_tambaoan/skewb.md) | 40+ | <i class="flag flag-PH" /> | 8.12 | 15.95 | 🏆 x 4 | 🥇 x 5, 🥈 x 9, 🥉 x 4 | 🔥 x 6, ⚡ x 5 |
 | [Jae Park](../../persons/jae_park/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.94 | 26.94 |  | 🥇 x 1, 🥈 x 9 | 💥 x 4, 🔥 x 6, ⚡ x 6 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | 40+ | <i class="flag flag-US" /> | 4.15 | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 11.68 | 16.32 |  | 🥉 x 2 | 💥 x 3, 🔥 x 3, ⚡ x 4 |
-| [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | | 6.22 | 11.80 | 🏆 x 1 | 🥇 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 2 |
-| [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.26 | 9.04 | 🏆 x 9 | 🥇 x 11, 🥈 x 9, 🥉 x 7 | 💥 x 11, 🔥 x 11, ⚡ x 7 |
+| [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.22 | 9.66 | 🏆 x 2 | 🥇 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
+| [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.26 | 9.04 | 🏆 x 9 | 🥇 x 11, 🥈 x 10, 🥉 x 7 | 💥 x 11, 🔥 x 11, ⚡ x 7 |
 | [Marcel Balzer](../../persons/marcel_balzer/skewb.md) | 40+ | <i class="flag flag-DE" /> | 27.44 | 47.53 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 1 |
 | [Mark Cordell](../../persons/mark_cordell/skewb.md) | 40+ | <i class="flag flag-US" /> | 6.81 | 8.98 | 🏆 x 5 | 🥇 x 5, 🥈 x 8, 🥉 x 2 | 🔥 x 5, ⚡ x 6 |
 | [Michael George](../../persons/michael_george/skewb.md) | 40+ | <i class="flag flag-GB" /> | 2.78 | 7.91 | 🏆 x 8 | 🥇 x 10 | 💥 x 4, 🔥 x 3, ⚡ x 2 |
 | [Mickey Doyle](../../persons/mickey_doyle/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.20 | 15.58 | 🏆 x 2 | 🥇 x 2, 🥈 x 5, 🥉 x 5 | 🔥 x 8, ⚡ x 6 |
 | [Peter Douthwright](../../persons/peter_douthwright/skewb.md) | 60+ | <i class="flag flag-CA" /> | 15.41 | 26.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Ross Richard Bambrey](../../persons/ross_richard_bambrey/skewb.md) | 40+ | <i class="flag flag-GB" /> | 19.86 | 25.77 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Terence Brown](../../persons/terence_brown/skewb.md) | 40+ | <i class="flag flag-NZ" /> | 7.32 | 11.02 |  | 🥈 x 2 | 🔥 x 1, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | 40+ | <i class="flag flag-IN" /> | 4.49 | 8.06 | 🏆 x 2 | 🥇 x 2, 🥈 x 1 | 🔥 x 3, ⚡ x 3 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/skewb.md) | 40+ | <i class="flag flag-TW" /> | 7.34 | 10.16 | 🏆 x 7 | 🥇 x 8, 🥉 x 2 | 🔥 x 4, ⚡ x 4 |
@@ -73,7 +74,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Christopher Iglesias](../../persons/christopher_iglesias/skewb.md) | <30 | | 7.05 | 18.04 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Christopher Iglesias](../../persons/christopher_iglesias/skewb.md) | <30 | <i class="flag flag-US" /> | 7.05 | 18.04 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Joshua Riegel](../../persons/joshua_riegel/skewb.md) | <30 | <i class="flag flag-US" /> | 23.14 | 31.86 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 20
