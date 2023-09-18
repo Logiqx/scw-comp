@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-09-04](../../results/2023-09-04/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [David Roche](../../persons/david_roche/333fm.md) | 50+ | <i class="flag flag-AU" /> | 25 | 27.33 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/618224723823300/permalink/621387840173655) / [Mobile](https://m.facebook.com/events/618224723823300?view=permalink&id=621387840173655) |
+| 2 | [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 32 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/618224723823300/permalink/618835353762237) / [Mobile](https://m.facebook.com/events/618224723823300?view=permalink&id=618835353762237) |
+
 #### [2023-08-21](../../results/2023-08-21/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

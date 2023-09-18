@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-09-04](../../results/2023-09-04/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 9.69 | 10.04 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/2641073766048109/permalink/2651024668386352) / [Mobile](https://m.facebook.com/events/2641073766048109?view=permalink&id=2651024668386352) |
+| 2 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/clock.md) | 40+ | <i class="flag flag-GB" /> | 15.69 | 17.16 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/536706331/videos/1977956135936518) / [Mobile](https://m.facebook.com/536706331/videos/1977956135936518) |
+| 3 | [Kristina Lim](../../persons/kristina_lim/clock.md) | 50+ | <i class="flag flag-US" /> | 16.00 | 18.69 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/1045330593/videos/738016254752952) / [Mobile](https://m.facebook.com/1045330593/videos/738016254752952) |
+
 #### [2023-08-21](../../results/2023-08-21/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

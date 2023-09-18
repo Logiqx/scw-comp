@@ -10,10 +10,11 @@
 
 #### Clock Results
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-09-04](../../results/2023-09-04/clock.md) | 50+ | **16.00** | **18.69** | 🥉 🔥 ⚡ | 19.49 | 19.89 | DNF | **16.00** | 16.68 | [Desktop](https://www.facebook.com/1045330593/videos/738016254752952) / [Mobile](https://m.facebook.com/1045330593/videos/738016254752952) |
 | [2023-08-21](../../results/2023-08-21/clock.md) | 50+ | 18.94 | DNF |  | 19.05 | DNF | 18.94 | 21.09 | DNF | [Desktop](https://www.facebook.com/1045330593/videos/977364066858479) / [Mobile](https://m.facebook.com/1045330593/videos/977364066858479) |
 | [2023-08-07](../../results/2023-08-07/clock.md) | 50+ | **18.08** | **19.49** | 🔥 ⚡ | 18.97 | 20.25 | 19.41 | 20.10 | **18.08** | [Desktop](https://www.facebook.com/1045330593/videos/311385804624908) / [Mobile](https://m.facebook.com/1045330593/videos/311385804624908) |
 
