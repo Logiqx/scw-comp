@@ -12,11 +12,11 @@
 
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
-| [3x3x3](333.md) | 40.30 | 58.02 |  | 🔥 x 6, ⚡ x 4 |
-| [2x2x2](222.md) | 5.18 | 9.92 |  | 🔥 x 4, ⚡ x 5 |
+| [3x3x3](333.md) | 40.30 | 50.12 |  | 🔥 x 7, ⚡ x 4 |
+| [2x2x2](222.md) | 5.18 | 9.69 |  | 🔥 x 5, ⚡ x 6 |
 | [Pyraminx](pyram.md) | 9.19 | 14.59 | 🥉 x 2 | 🔥 x 7, ⚡ x 6 |
-| [Skewb](skewb.md) | 11.68 | 16.32 | 🥉 x 2 | 💥 x 3, 🔥 x 3, ⚡ x 4 |
-| [Clock](clock.md) | 24.27 | 28.11 | 🥈 x 1, 🥉 x 3 | 🔥 x 6, ⚡ x 5 |
+| [Skewb](skewb.md) | 11.68 | 16.32 | 🥉 x 3 | 💥 x 3, 🔥 x 3, ⚡ x 4 |
+| [Clock](clock.md) | 22.79 | 26.01 | 🥈 x 2, 🥉 x 3 | 🔥 x 7, ⚡ x 6 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

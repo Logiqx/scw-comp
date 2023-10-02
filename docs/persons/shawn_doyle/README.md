@@ -14,7 +14,7 @@
 | :-- | --: | --: | :-- |
 | [3x3x3](333.md) | 19.05 | 27.25 | 🔥 x 2, ⚡ x 2 |
 | [2x2x2](222.md) | 5.61 | 6.63 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Pyraminx](pyram.md) | 7.94 | 12.80 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Pyraminx](pyram.md) | 5.43 | 11.05 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

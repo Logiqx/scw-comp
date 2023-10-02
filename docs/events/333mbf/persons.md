@@ -6,13 +6,19 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### Over 60
+
+| Name | Age | 🌍 | Single | Cups | Medals | Achievements |
+| :-- | :--: | :--: | :--: | :--: | :-- | :-- |
+| [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 60+ | <i class="flag flag-SE" /> | 4/7 in 33:31 | 🏆 x 4 | 🥇 x 4, 🥈 x 2, 🥉 x 1 | 💥 x 1, ⚡ x 3 |
+
 #### Over 50
 
 | Name | Age | 🌍 | Single | Cups | Medals | Achievements |
 | :-- | :--: | :--: | :--: | :--: | :-- | :-- |
 | [Jae Park](../../persons/jae_park/333mbf.md) | 50+ | <i class="flag flag-US" /> | 10/11 in 41:23 | 🏆 x 4 | 🥇 x 4, 🥈 x 3 | 💥 x 3, ⚡ x 3 |
 | [Javier Rossi](../../persons/javier_rossi/333mbf.md) | 50+ | <i class="flag flag-AR" /> | 2/2 in 12:59 |  | 🥉 x 1 | ⚡ x 1 |
-| [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 50+ | <i class="flag flag-SE" /> | 9/11 in 59:19 | 🏆 x 3 | 🥇 x 3, 🥈 x 2, 🥉 x 1 | ⚡ x 2 |
+| [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 60+ | <i class="flag flag-SE" /> | 9/11 in 59:19 | 🏆 x 4 | 🥇 x 4, 🥈 x 2, 🥉 x 1 | 💥 x 1, ⚡ x 3 |
 
 #### Over 40
 
@@ -24,7 +30,7 @@
 | [Huy Nguyen](../../persons/huy_nguyen/333mbf.md) | 40+ | <i class="flag flag-CA" /> | 5/5 in 27:19 |  | 🥈 x 2, 🥉 x 3 | ⚡ x 2 |
 | [Jae Park](../../persons/jae_park/333mbf.md) | 50+ | <i class="flag flag-US" /> | 10/11 in 41:23 | 🏆 x 4 | 🥇 x 4, 🥈 x 3 | 💥 x 3, ⚡ x 3 |
 | [Javier Rossi](../../persons/javier_rossi/333mbf.md) | 50+ | <i class="flag flag-AR" /> | 2/2 in 12:59 |  | 🥉 x 1 | ⚡ x 1 |
-| [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 50+ | <i class="flag flag-SE" /> | 9/11 in 59:19 | 🏆 x 3 | 🥇 x 3, 🥈 x 2, 🥉 x 1 | ⚡ x 2 |
+| [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 60+ | <i class="flag flag-SE" /> | 9/11 in 59:19 | 🏆 x 4 | 🥇 x 4, 🥈 x 2, 🥉 x 1 | 💥 x 1, ⚡ x 3 |
 | [Yuichi Hamada](../../persons/yuichi_hamada/333mbf.md) | 40+ | <i class="flag flag-JP" /> | 10/11 in 55:24 | 🏆 x 4 | 🥇 x 4, 🥈 x 1 | ⚡ x 2 |
 
 #### Under 40
