@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-10-02](../../results/2023-10-02/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 14.14 | 16.54 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1518773368939011/permalink/1525793748236973) / [Mobile](https://m.facebook.com/events/1518773368939011?view=permalink&id=1525793748236973) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 50+ | <i class="flag flag-AU" /> | 17.06 | 19.08 | 🥈 | [Desktop](https://www.facebook.com/events/1518773368939011/permalink/1526234368192911) / [Mobile](https://m.facebook.com/events/1518773368939011?view=permalink&id=1526234368192911) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/333.md) | 50+ | <i class="flag flag-US" /> | 21.86 | 22.38 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/1518773368939011/permalink/1526198238196524) / [Mobile](https://m.facebook.com/events/1518773368939011?view=permalink&id=1526198238196524) |
+
 #### [2023-09-18](../../results/2023-09-18/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

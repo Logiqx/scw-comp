@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-10-02](../../results/2023-10-02/pyram.md) | 50+ | 11.68 | 14.14 | 🥉 | 20.73 | 14.67 | 15.29 | 11.68 | 12.46 | [Desktop](https://www.facebook.com/1045330593/videos/1508559693235732) / [Mobile](https://m.facebook.com/1045330593/videos/1508559693235732) |
 | [2023-09-18](../../results/2023-09-18/pyram.md) | 50+ | **9.06** | **11.00** | 🥉 🔥 ⚡ | 9.79 | 10.49 | 12.73 | 16.95 | **9.06** | [Desktop](https://www.facebook.com/1045330593/videos/1296535614339837) / [Mobile](https://m.facebook.com/1045330593/videos/1296535614339837) |
 
 

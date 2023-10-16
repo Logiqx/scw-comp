@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-10-02](../../results/2023-10-02/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 60+ | <i class="flag flag-SE" /> | 8/11 in 50:47 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/838872687904576/permalink/845167270608451) / [Mobile](https://m.facebook.com/events/838872687904576?view=permalink&id=845167270608451) |
+
 #### [2023-09-18](../../results/2023-09-18/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |

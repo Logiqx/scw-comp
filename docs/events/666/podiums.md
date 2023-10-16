@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-10-02](../../results/2023-10-02/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:09.50 | 3:20.00 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/370105888672980/permalink/376999534650282) / [Mobile](https://m.facebook.com/events/370105888672980?view=permalink&id=376999534650282) |
+
 #### [2023-09-18](../../results/2023-09-18/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

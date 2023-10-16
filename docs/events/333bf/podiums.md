@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-10-02](../../results/2023-10-02/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:57.23 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/838872687904576/permalink/846203797171465) / [Mobile](https://m.facebook.com/events/838872687904576?view=permalink&id=846203797171465) |
+| 2 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 60+ | <i class="flag flag-SE" /> | 3:13.99 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/838872687904576/permalink/844121424046369) / [Mobile](https://m.facebook.com/events/838872687904576?view=permalink&id=844121424046369) |
+
 #### [2023-09-18](../../results/2023-09-18/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

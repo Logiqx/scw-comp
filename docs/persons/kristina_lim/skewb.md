@@ -10,10 +10,11 @@
 
 #### Skewb Results
 
-<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-10-02](../../results/2023-10-02/skewb.md) | 50+ | **4.59** | 9.75 | 🏆 🥇 💥 ⚡ | **4.59** | 9.25 | 18.68 | 10.89 | 9.11 | [Desktop](https://www.facebook.com/1045330593/videos/1189294102457209) / [Mobile](https://m.facebook.com/1045330593/videos/1189294102457209) |
 | [2023-09-18](../../results/2023-09-18/skewb.md) | 50+ | 7.54 | **9.54** | 🏆 🥇 🔥 | 8.99 | 11.93 | 7.81 | 7.54 | 11.82 | [Desktop](https://www.facebook.com/1045330593/videos/1376004096646441) / [Mobile](https://m.facebook.com/1045330593/videos/1376004096646441) |
 | [2023-09-04](../../results/2023-09-04/skewb.md) | 50+ | 8.98 | 11.86 | 🏆 🥇 | 11.08 | 13.42 | 8.98 | 11.39 | 13.12 | [Desktop](https://www.facebook.com/1045330593/videos/840689274439068) / [Mobile](https://m.facebook.com/1045330593/videos/840689274439068) |
 | [2023-08-21](../../results/2023-08-21/skewb.md) | 50+ | 7.50 | **9.66** | 🏆 🥇 🔥 | 9.61 | 12.27 | 10.39 | 7.50 | 8.97 | [Desktop](https://www.facebook.com/1045330593/videos/856026029505353) / [Mobile](https://m.facebook.com/1045330593/videos/856026029505353) |
