@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-10-16](../../results/2023-10-16/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 60+ | <i class="flag flag-SE" /> | 2:12.91 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/637374055147584/permalink/638199278398395) / [Mobile](https://m.facebook.com/events/637374055147584?view=permalink&id=638199278398395) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:14.84 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/637374055147584/permalink/644218061129850) / [Mobile](https://m.facebook.com/events/637374055147584?view=permalink&id=644218061129850) |
+| 3 | [Eric Dodson](../../persons/eric_dodson/333bf.md) | 50+ | <i class="flag flag-US" /> | 3:41.00 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/637374055147584/permalink/639501824934807) / [Mobile](https://m.facebook.com/events/637374055147584?view=permalink&id=639501824934807) |
+
 #### [2023-10-02](../../results/2023-10-02/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

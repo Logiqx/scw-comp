@@ -8,10 +8,11 @@
 
 #### Pyraminx Results
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-10-16](../../results/2023-10-16/pyram.md) | 40+ | 12.12 | **14.63** | 🥈 🔥 | 16.41 | 15.33 | 13.90 | 14.66 | 12.12 | [Desktop](https://www.facebook.com/events/1393317244902153/permalink/1399784730922071) / [Mobile](https://m.facebook.com/events/1393317244902153?view=permalink&id=1399784730922071) |
 | [2023-09-18](../../results/2023-09-18/pyram.md) | 40+ | **10.01** | 15.95 | ⚡ | 20.68 | **10.01** | 14.84 | 17.85 | 15.16 | [Desktop](https://www.facebook.com/events/2641073766048109/permalink/2659177644237721) / [Mobile](https://m.facebook.com/events/2641073766048109?view=permalink&id=2659177644237721) |
 | [2023-05-29](../../results/2023-05-29/pyram.md) | 40+ | **10.34** | 15.55 | ⚡ | 14.14 | 20.81 | **10.34** | 14.98 | 17.53 | [Desktop](https://www.facebook.com/events/3552780501633678/permalink/3559185937659801) / [Mobile](https://m.facebook.com/events/3552780501633678?view=permalink&id=3559185937659801) |
 | [2023-05-01](../../results/2023-05-01/pyram.md) | 40+ | **11.11** | **15.54** | 🔥 ⚡ | 15.91 | 14.89 | 18.34 | **11.11** | 15.81 | [Desktop](https://www.facebook.com/events/1407988503335303/permalink/1414419589358861) / [Mobile](https://m.facebook.com/events/1407988503335303?view=permalink&id=1414419589358861) |

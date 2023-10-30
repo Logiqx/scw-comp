@@ -10,10 +10,11 @@
 
 #### Skewb Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-10-16](../../results/2023-10-16/skewb.md) | 60+ | 18.10 | 25.27 | 🏆 🥇 | 26.48 | 18.10 | 21.84 | 34.56 | 27.50 | [Desktop](https://www.facebook.com/events/1393317244902153/permalink/1399578414276036) / [Mobile](https://m.facebook.com/events/1393317244902153?view=permalink&id=1399578414276036) |
 | [2023-10-02](../../results/2023-10-02/skewb.md) | 60+ | 12.43 | 21.29 | 🥉 | 12.43 | 17.34 | 27.19 | 40.08 | 19.34 | [Desktop](https://www.facebook.com/events/1174919303425786/permalink/1180340086217041) / [Mobile](https://m.facebook.com/events/1174919303425786?view=permalink&id=1180340086217041) |
 | [2023-09-18](../../results/2023-09-18/skewb.md) | 60+ | 16.11 | 22.15 | 🥉 | 16.11 | 18.86 | 22.59 | 36.24 | 25.00 | [Desktop](https://www.facebook.com/events/1513433686174189/permalink/1518504632333761) / [Mobile](https://m.facebook.com/events/1513433686174189?view=permalink&id=1518504632333761) |
 | [2023-09-04](../../results/2023-09-04/skewb.md) | 60+ | 19.13 | 25.40 |  | 23.76 | 28.74 | 19.13 | 23.69 | 34.10 | [Desktop](https://www.facebook.com/events/2641073766048109/permalink/2647688078720011) / [Mobile](https://m.facebook.com/events/2641073766048109?view=permalink&id=2647688078720011) |

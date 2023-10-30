@@ -13,11 +13,11 @@
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](333.md) | 38.10 | 46.86 |  |  | 🔥 x 2, ⚡ x 3 |
-| [2x2x2](222.md) | 7.20 | 9.14 |  |  | 🔥 x 4, ⚡ x 2 |
+| [2x2x2](222.md) | 7.20 | 9.14 |  | 🥉 x 1 | 🔥 x 4, ⚡ x 2 |
 | [Pyraminx](pyram.md) | 9.06 | 11.00 |  | 🥉 x 2 | 🔥 x 1, ⚡ x 1 |
 | [Skewb](skewb.md) | 4.59 | 9.54 | 🏆 x 5 | 🥇 x 5, 🥉 x 1 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
 | [Square-1](sq1.md) | 40.40 | 49.02 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Clock](clock.md) | 14.47 | 17.02 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 3, ⚡ x 3 |
+| [Clock](clock.md) | 14.29 | 16.28 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 2 | 🔥 x 4, ⚡ x 4 |
 | [3x3x3 FMC](333fm.md) | 32 | - |  | 🥈 x 1 | ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

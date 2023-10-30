@@ -17,7 +17,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | <i class="flag flag-GB" /> | 35.64 | 39.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 38.98 | 52.28 | 🏆 x 5 | 🥇 x 7, 🥈 x 9, 🥉 x 2 | 🔥 x 5, ⚡ x 6 |
+| [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 38.98 | 52.28 | 🏆 x 6 | 🥇 x 8, 🥈 x 9, 🥉 x 2 | 🔥 x 5, ⚡ x 6 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 60+ | <i class="flag flag-CA" /> | 1:26.57 | 1:57.43 |  | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 3 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | <i class="flag flag-PL" /> | 27.43 | 35.12 |  | 🥉 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
 
@@ -41,7 +41,7 @@
 | [Jo Cocco](../../persons/jo_cocco/333oh.md) | 40+ | <i class="flag flag-GB" /> | 45.79 | 58.18 | 🏆 x 1 | 🥇 x 3, 🥈 x 1 | 🔥 x 5, ⚡ x 6 |
 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 16.07 | 20.76 | 🏆 x 43 | 🥇 x 43 | 💥 x 3, 🔥 x 5, ⚡ x 4 |
 | [Michael George](../../persons/michael_george/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.57 | 21.87 | 🏆 x 18 | 🥇 x 22 | 💥 x 5, 🔥 x 3, ⚡ x 5 |
-| [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 38.98 | 52.28 | 🏆 x 5 | 🥇 x 7, 🥈 x 9, 🥉 x 2 | 🔥 x 5, ⚡ x 6 |
+| [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 38.98 | 52.28 | 🏆 x 6 | 🥇 x 8, 🥈 x 9, 🥉 x 2 | 🔥 x 5, ⚡ x 6 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 60+ | <i class="flag flag-CA" /> | 1:26.57 | 1:57.43 |  | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 3 |
 | [Raúl Morales](../../persons/raul_morales/333oh.md) | 40+ | <i class="flag flag-ES" /> | 31.07 | 37.84 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 23.59 | 29.77 |  | 🥇 x 1, 🥈 x 10, 🥉 x 7 | 🔥 x 8, ⚡ x 3 |

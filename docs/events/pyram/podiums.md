@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-10-16](../../results/2023-10-16/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 10.74 | 11.39 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1393317244902153/permalink/1401183040782240) / [Mobile](https://m.facebook.com/events/1393317244902153?view=permalink&id=1401183040782240) |
+| 2 | [Daniel Houghton](../../persons/daniel_houghton/pyram.md) | 40+ | <i class="flag flag-CH" /> | 12.12 | 14.63 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/1393317244902153/permalink/1399784730922071) / [Mobile](https://m.facebook.com/events/1393317244902153?view=permalink&id=1399784730922071) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/pyram.md) | 50+ | <i class="flag flag-US" /> | 16.12 | 19.12 | 🥉 | [Desktop](https://www.facebook.com/events/1393317244902153/permalink/1400169890883555) / [Mobile](https://m.facebook.com/events/1393317244902153?view=permalink&id=1400169890883555) |
+
 #### [2023-10-02](../../results/2023-10-02/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
