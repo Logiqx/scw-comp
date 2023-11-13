@@ -12,7 +12,7 @@
 | :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- | :-- | :-- |
 | 1 | [David Roche](../../persons/david_roche/333fm.md) | [2022-08-22](../../results/2022-08-22/333fm.md) | 50+ | <i class="flag flag-AU" /> | 26.00 | 🏆 x 16 | 🥇 x 20, 🥈 x 5, 🥉 x 4 | 💥 x 8, 🔥 x 5, ⚡ x 4 | [Desktop](https://www.facebook.com/events/758758925188582/permalink/764702044594270) / [Mobile](https://m.facebook.com/events/758758925188582?view=permalink&id=764702044594270) |
 | 2 | [Dan Smith](../../persons/dan_smith/333fm.md) | [2022-11-28](../../results/2022-11-28/333fm.md) | 50+ | <i class="flag flag-US" /> | 53.67 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/events/1289578228502698/permalink/1298016164325571) / [Mobile](https://m.facebook.com/events/1289578228502698?view=permalink&id=1298016164325571) |
-| 3 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | [2023-06-26](../../results/2023-06-26/333fm.md) | 50+ | <i class="flag flag-US" /> | 75.33 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1321118992086970/permalink/1323448645187338) / [Mobile](https://m.facebook.com/events/1321118992086970?view=permalink&id=1323448645187338) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | [2023-06-26](../../results/2023-06-26/333fm.md) | 50+ | <i class="flag flag-US" /> | 75.33 | 🏆 x 2 | 🥇 x 2 | 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/events/1321118992086970/permalink/1323448645187338) / [Mobile](https://m.facebook.com/events/1321118992086970?view=permalink&id=1323448645187338) |
 
 #### Over 40
 
@@ -25,7 +25,7 @@
 | 5 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | [2023-02-20](../../results/2023-02-20/333fm.md) | 40+ | <i class="flag flag-TW" /> | 30.33 | 🏆 x 8 | 🥇 x 9, 🥈 x 10, 🥉 x 5 | 🔥 x 3, ⚡ x 8 | [Desktop](https://www.facebook.com/events/2855131174624381/permalink/2857282871075878) / [Mobile](https://m.facebook.com/events/2855131174624381?view=permalink&id=2857282871075878) |
 | 6 | [Andy Nicholls](../../persons/andy_nicholls/333fm.md) | [2021-03-22](../../results/2021-03-22/333fm.md) | 40+ | <i class="flag flag-GB" /> | 48.33 |  | 🥈 x 3, 🥉 x 4 | 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/events/3984414398292690/permalink/3994292177304912) / [Mobile](https://m.facebook.com/events/3984414398292690?view=permalink&id=3994292177304912) |
 | 7 | [Dan Smith](../../persons/dan_smith/333fm.md) | [2022-11-28](../../results/2022-11-28/333fm.md) | 50+ | <i class="flag flag-US" /> | 53.67 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/events/1289578228502698/permalink/1298016164325571) / [Mobile](https://m.facebook.com/events/1289578228502698?view=permalink&id=1298016164325571) |
-| 8 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | [2023-06-26](../../results/2023-06-26/333fm.md) | 50+ | <i class="flag flag-US" /> | 75.33 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1321118992086970/permalink/1323448645187338) / [Mobile](https://m.facebook.com/events/1321118992086970?view=permalink&id=1323448645187338) |
+| 8 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | [2023-06-26](../../results/2023-06-26/333fm.md) | 50+ | <i class="flag flag-US" /> | 75.33 | 🏆 x 2 | 🥇 x 2 | 🔥 x 1, ⚡ x 2 | [Desktop](https://www.facebook.com/events/1321118992086970/permalink/1323448645187338) / [Mobile](https://m.facebook.com/events/1321118992086970?view=permalink&id=1323448645187338) |
 
 #### Under 40
 

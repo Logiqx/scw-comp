@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-10-30](../../results/2023-10-30/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 50+ | <i class="flag flag-US" /> | 65 | DNF | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/220502457586087/permalink/226206240349042) / [Mobile](https://m.facebook.com/events/220502457586087?view=permalink&id=226206240349042) |
+
 #### [2023-09-18](../../results/2023-09-18/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

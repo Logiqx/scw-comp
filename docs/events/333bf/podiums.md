@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-10-30](../../results/2023-10-30/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 60+ | <i class="flag flag-SE" /> | 2:03.55 | 2:22.76 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1030519728373871/permalink/1033406374751873) / [Mobile](https://m.facebook.com/events/1030519728373871?view=permalink&id=1033406374751873) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:25.23 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/1030519728373871/permalink/1037097824382728) / [Mobile](https://m.facebook.com/events/1030519728373871?view=permalink&id=1037097824382728) |
+| 3 | [Daniel Houghton](../../persons/daniel_houghton/333bf.md) | 40+ | <i class="flag flag-CH" /> | 3:07.80 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/1030519728373871/permalink/1035029887922855) / [Mobile](https://m.facebook.com/events/1030519728373871?view=permalink&id=1035029887922855) |
+
 #### [2023-10-16](../../results/2023-10-16/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-10-30](../../results/2023-10-30/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.02 | 15.70 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/690958203130039/permalink/697866492439210) / [Mobile](https://m.facebook.com/events/690958203130039?view=permalink&id=697866492439210) |
+| 2 | [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 16.81 | 18.55 | 🥈 | [Desktop](https://www.facebook.com/events/690958203130039/permalink/696873989205127) / [Mobile](https://m.facebook.com/events/690958203130039?view=permalink&id=696873989205127) |
+| 3 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/skewb.md) | 40+ | <i class="flag flag-GB" /> | 17.74 | 27.97 | 🥉 | [Desktop](https://www.facebook.com/536706331/videos/991635192095810) / [Mobile](https://m.facebook.com/536706331/videos/991635192095810) |
+
 #### [2023-10-16](../../results/2023-10-16/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -11,7 +11,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | <i class="flag flag-US" /> | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
-| [Peter Andersson](../../persons/peter_andersson/555.md) | 60+ | <i class="flag flag-SE" /> | 4:39.55 | 5:16.65 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Peter Andersson](../../persons/peter_andersson/555.md) | 60+ | <i class="flag flag-SE" /> | 4:15.39 | 4:47.75 |  |  | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 
 #### Over 50
 
@@ -19,12 +19,12 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | <i class="flag flag-GB" /> | 1:41.03 | 1:46.58 |  | 🥇 x 1, 🥈 x 3 | 💥 x 3, 🔥 x 1, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | <i class="flag flag-IT" /> | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
-| [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 20, 🥉 x 26 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
+| [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 20, 🥉 x 27 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | <i class="flag flag-US" /> | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/555.md) | 50+ | <i class="flag flag-US" /> | 4:09.44 | 4:32.93 |  | 🥉 x 4 | 🔥 x 3, ⚡ x 7 |
 | [Kerry Go](../../persons/kerry_go/555.md) | 50+ | <i class="flag flag-US" /> | 3:02.77 | 3:36.28 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [Mickey Doyle](../../persons/mickey_doyle/555.md) | 50+ | <i class="flag flag-US" /> | 2:35.55 | 2:59.03 |  | 🥈 x 2, 🥉 x 11 | 🔥 x 10, ⚡ x 12 |
-| [Peter Andersson](../../persons/peter_andersson/555.md) | 60+ | <i class="flag flag-SE" /> | 4:39.55 | 5:16.65 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Mickey Doyle](../../persons/mickey_doyle/555.md) | 50+ | <i class="flag flag-US" /> | 2:35.55 | 2:58.70 |  | 🥈 x 3, 🥉 x 11 | 🔥 x 11, ⚡ x 12 |
+| [Peter Andersson](../../persons/peter_andersson/555.md) | 60+ | <i class="flag flag-SE" /> | 4:15.39 | 4:47.75 |  |  | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | <i class="flag flag-CA" /> | 5:50.00 | DNF |  |  | ⚡ x 1 |
 
 #### Over 40
@@ -36,8 +36,8 @@
 | [Anthony Rochester](../../persons/anthony_rochester/555.md) | 40+ | <i class="flag flag-AU" /> | 3:45.86 | 3:53.73 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | <i class="flag flag-GB" /> | 1:41.03 | 1:46.58 |  | 🥇 x 1, 🥈 x 3 | 💥 x 3, 🔥 x 1, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | <i class="flag flag-IT" /> | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
-| [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 20, 🥉 x 26 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
-| [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:26.19 | 1:34.82 | 🏆 x 29 | 🥇 x 31, 🥈 x 2 | 🔥 x 7, ⚡ x 4 |
+| [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 20, 🥉 x 27 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
+| [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:25.12 | 1:34.82 | 🏆 x 30 | 🥇 x 32, 🥈 x 2 | 🔥 x 7, ⚡ x 5 |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | <i class="flag flag-US" /> | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | 40+ | <i class="flag flag-VE" /> | 1:47.83 | 1:57.66 | 🏆 x 21 | 🥈 x 1 | 🔥 x 9, ⚡ x 9 |
 | [Eric Dodson](../../persons/eric_dodson/555.md) | 40+ | <i class="flag flag-US" /> | 3:28.26 | 3:42.50 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 1 |
@@ -56,8 +56,8 @@
 | [Kerry Go](../../persons/kerry_go/555.md) | 50+ | <i class="flag flag-US" /> | 3:02.77 | 3:36.28 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | <i class="flag flag-FI" /> | 1:28.38 | 1:45.92 | 🏆 x 5 | 🥇 x 7, 🥈 x 9 | 🔥 x 6, ⚡ x 4 |
 | [Michael George](../../persons/michael_george/555.md) | 40+ | <i class="flag flag-GB" /> | 1:43.65 | 2:00.85 | 🏆 x 1 | 🥇 x 2, 🥈 x 4, 🥉 x 9 | 🔥 x 5, ⚡ x 5 |
-| [Mickey Doyle](../../persons/mickey_doyle/555.md) | 50+ | <i class="flag flag-US" /> | 2:35.55 | 2:53.64 |  | 🥈 x 2, 🥉 x 11 | 🔥 x 10, ⚡ x 12 |
-| [Peter Andersson](../../persons/peter_andersson/555.md) | 60+ | <i class="flag flag-SE" /> | 4:39.55 | 5:16.65 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Mickey Doyle](../../persons/mickey_doyle/555.md) | 50+ | <i class="flag flag-US" /> | 2:35.55 | 2:53.64 |  | 🥈 x 3, 🥉 x 11 | 🔥 x 11, ⚡ x 12 |
+| [Peter Andersson](../../persons/peter_andersson/555.md) | 60+ | <i class="flag flag-SE" /> | 4:15.39 | 4:47.75 |  |  | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | <i class="flag flag-CA" /> | 5:50.00 | DNF |  |  | ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/555.md) | 40+ | <i class="flag flag-ES" /> | 2:17.13 | 2:27.99 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/555.md) | 40+ | <i class="flag flag-GB" /> | 3:35.93 | 3:54.96 |  |  | 🔥 x 1, ⚡ x 1 |

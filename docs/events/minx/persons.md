@@ -21,6 +21,7 @@
 | [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:10.66 | DNF |  | 🥈 x 5, 🥉 x 4 | ⚡ x 5 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | <i class="flag flag-US" /> | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
+| [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 50+ | <i class="flag flag-US" /> | 5:12.40 | DNF | 🏆 x 1 | 🥇 x 1 | ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 2:06.40 | 2:22.26 | 🏆 x 15 | 🥇 x 23, 🥈 x 6 | 🔥 x 11, ⚡ x 17 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
 
@@ -43,6 +44,7 @@
 | [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | <i class="flag flag-GB" /> | 2:28.73 | 2:36.84 | 🏆 x 1 | 🥇 x 3, 🥈 x 3, 🥉 x 3 | 🔥 x 5, ⚡ x 6 |
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:13.30 | 1:25.08 | 🏆 x 21 | 🥇 x 28, 🥈 x 8 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
+| [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 50+ | <i class="flag flag-US" /> | 5:12.40 | DNF | 🏆 x 1 | 🥇 x 1 | ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 2:06.40 | 2:22.26 | 🏆 x 15 | 🥇 x 23, 🥈 x 6 | 🔥 x 11, ⚡ x 17 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 2:01.65 | 2:13.63 | 🏆 x 1 | 🥇 x 4, 🥈 x 4, 🥉 x 4 | 🔥 x 4, ⚡ x 10 |

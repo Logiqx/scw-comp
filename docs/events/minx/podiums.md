@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-10-30](../../results/2023-10-30/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 50+ | <i class="flag flag-US" /> | 5:12.40 | DNF | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1074911313795532/permalink/1083211186298878) / [Mobile](https://m.facebook.com/events/1074911313795532?view=permalink&id=1083211186298878) |
+
 #### [2023-10-16](../../results/2023-10-16/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
