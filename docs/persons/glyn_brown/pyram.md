@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
-### [Glyn Brown](README.md)
+### [Glyn Brown](README.md) - [2023BROW47](https://www.worldcubeassociation.org/persons/2023BROW47?event=pyram)
 
 <i class="flag flag-GB" />&nbsp;United Kingdom
 

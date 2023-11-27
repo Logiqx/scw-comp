@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-11-13](../../results/2023-11-13/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 58.40 | 1:04.10 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1478121449586426/permalink/1485376642194240) / [Mobile](https://m.facebook.com/events/1478121449586426?view=permalink&id=1485376642194240) |
+| 2 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/333oh.md) | 40+ | <i class="flag flag-GB" /> | 1:11.28 | 1:34.62 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/536706331/videos/360481576347821) / [Mobile](https://m.facebook.com/536706331/videos/360481576347821) |
+
 #### [2023-10-16](../../results/2023-10-16/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

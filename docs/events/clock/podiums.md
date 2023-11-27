@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-11-13](../../results/2023-11-13/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 50+ | <i class="flag flag-US" /> | 8.63 | 10.32 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/1003569957614479/permalink/1010676873570454) / [Mobile](https://m.facebook.com/events/1003569957614479?view=permalink&id=1010676873570454) |
+| 2 | [Maiko Curry](../../persons/maiko_curry/clock.md) | 40+ | | 10.03 | 12.09 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1003569957614479/permalink/1008455723792569) / [Mobile](https://m.facebook.com/events/1003569957614479?view=permalink&id=1008455723792569) |
+| 3 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/clock.md) | 40+ | <i class="flag flag-GB" /> | 15.16 | 16.19 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/536706331/videos/1822105181540462) / [Mobile](https://m.facebook.com/536706331/videos/1822105181540462) |
+
 #### [2023-10-30](../../results/2023-10-30/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

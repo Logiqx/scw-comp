@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-11-13](../../results/2023-11-13/sq1.md) | 50+ | 16.63 | **18.71** | 🏆 🥇 💥 🔥 | 22.75 | 16.63 | 18.79 | 17.15 | 20.18 | [Desktop](https://www.facebook.com/events/1003569957614479/permalink/1010598233578318) / [Mobile](https://m.facebook.com/events/1003569957614479?view=permalink&id=1010598233578318) |
 | [2023-10-30](../../results/2023-10-30/sq1.md) | 50+ | **14.82** | 20.42 | 🏆 🥇 💥 ⚡ | 23.57 | 21.78 | **14.82** | 15.92 | 25.15 | [Desktop](https://www.facebook.com/events/690958203130039/permalink/695931902632669) / [Mobile](https://m.facebook.com/events/690958203130039?view=permalink&id=695931902632669) |
 | [2023-10-16](../../results/2023-10-16/sq1.md) | 50+ | 21.37 | 23.80 | 🏆 🥇 | 21.69 | 23.98 | 31.44 | 21.37 | 25.72 | [Desktop](https://www.facebook.com/events/1393317244902153/permalink/1401183040782240) / [Mobile](https://m.facebook.com/events/1393317244902153?view=permalink&id=1401183040782240) |
 | [2023-10-02](../../results/2023-10-02/sq1.md) | 50+ | 20.39 | 23.15 | 🏆 🥇 | 20.39 | 25.00 | 20.98 | 26.55 | 23.46 | [Desktop](https://www.facebook.com/events/1174919303425786/permalink/1180842886166761) / [Mobile](https://m.facebook.com/events/1174919303425786?view=permalink&id=1180842886166761) |

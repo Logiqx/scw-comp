@@ -233,7 +233,8 @@
   "Glyn Brown": {
     "age": "40+",
     "country": "United Kingdom",
-    "id": 109
+    "id": 109,
+    "wcaId": "2023BROW47"
   },
   "Go-ho Choi": {
     "age": "40+",
@@ -499,6 +500,12 @@
     "country": "United States",
     "id": 30,
     "wcaId": "2019KUCA01"
+  },
+  "Maiko Curry": {
+    "age": "40+",
+    "country": "???",
+    "id": 129,
+    "wcaId": "2023CURR07"
   },
   "Marcel Balzer": {
     "age": "40+",

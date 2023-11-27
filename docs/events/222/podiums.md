@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-11-13](../../results/2023-11-13/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 6.62 | 6.92 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/1478121449586426/permalink/1485420782189826) / [Mobile](https://m.facebook.com/events/1478121449586426?view=permalink&id=1485420782189826) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | <i class="flag flag-US" /> | 6.00 | 7.24 | 🥈 | [Desktop](https://www.facebook.com/events/1478121449586426/permalink/1485486198849951) / [Mobile](https://m.facebook.com/events/1478121449586426?view=permalink&id=1485486198849951) |
+| 3 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/222.md) | 40+ | <i class="flag flag-GB" /> | 6.23 | 7.87 | 🥉 | [Desktop](https://www.facebook.com/536706331/videos/366249359139032) / [Mobile](https://m.facebook.com/536706331/videos/366249359139032) |
+
 #### [2023-10-30](../../results/2023-10-30/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
