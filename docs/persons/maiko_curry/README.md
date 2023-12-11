@@ -4,10 +4,13 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Maiko Curry - [2023CURR07](https://www.worldcubeassociation.org/persons/2023CURR07)
 
+<i class="flag flag-JP" />&nbsp;Japan
+
 <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
+| [Pyraminx](pyram.md) | 10.41 | 13.06 | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Clock](clock.md) | 10.03 | 12.09 | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

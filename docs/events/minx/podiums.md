@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-11-27](../../results/2023-11-27/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 1:51.48 | 1:56.78 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/889636606027860/permalink/895679568756897) / [Mobile](https://m.facebook.com/events/889636606027860?view=permalink&id=895679568756897) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 2:29.26 | 2:39.61 | 🥈 | [Desktop](https://www.facebook.com/events/889636606027860/permalink/896947075296813) / [Mobile](https://m.facebook.com/events/889636606027860?view=permalink&id=896947075296813) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 50+ | <i class="flag flag-US" /> | 4:02.58 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/889636606027860/permalink/895482232109964) / [Mobile](https://m.facebook.com/events/889636606027860?view=permalink&id=895482232109964) |
+
 #### [2023-11-13](../../results/2023-11-13/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

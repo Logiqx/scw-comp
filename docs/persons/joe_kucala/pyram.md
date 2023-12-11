@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-11-27](../../results/2023-11-27/pyram.md) | 60+ | 11.96 | 17.11 |  | 16.57 | 11.96 | 20.62 | 28.70 | 14.14 | [Desktop](https://www.facebook.com/events/872715707643227/permalink/878063383775126) / [Mobile](https://m.facebook.com/events/872715707643227?view=permalink&id=878063383775126) |
 | [2023-11-13](../../results/2023-11-13/pyram.md) | 60+ | 12.79 | DNF |  | 12.79 | 13.03 | DNF | 15.65 | DNF | [Desktop](https://www.facebook.com/events/1003569957614479/permalink/1010789766892498) / [Mobile](https://m.facebook.com/events/1003569957614479?view=permalink&id=1010789766892498) |
 | [2023-10-30](../../results/2023-10-30/pyram.md) | 60+ | 10.28 | **14.12** | 🔥 | 12.31 | 15.42 | 14.62 | 16.33 | 10.28 | [Desktop](https://www.facebook.com/events/690958203130039/permalink/696875825871610) / [Mobile](https://m.facebook.com/events/690958203130039?view=permalink&id=696875825871610) |
 | [2023-10-16](../../results/2023-10-16/pyram.md) | 60+ | 15.96 | 19.81 |  | 21.82 | 18.93 | 18.68 | 15.96 | DNF | [Desktop](https://www.facebook.com/events/1393317244902153/permalink/1399585304275347) / [Mobile](https://m.facebook.com/events/1393317244902153?view=permalink&id=1399585304275347) |

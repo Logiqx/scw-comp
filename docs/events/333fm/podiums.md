@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-11-27](../../results/2023-11-27/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | <i class="flag flag-TW" /> | 32 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1517328919014771/permalink/1521741155240214) / [Mobile](https://m.facebook.com/events/1517328919014771?view=permalink&id=1521741155240214) |
+| 2 | [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 42 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/1517328919014771/permalink/1520489532032043) / [Mobile](https://m.facebook.com/events/1517328919014771?view=permalink&id=1520489532032043) |
+
 #### [2023-10-30](../../results/2023-10-30/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

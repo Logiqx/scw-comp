@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-11-27](../../results/2023-11-27/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 38.05 | 40.93 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/889636606027860/permalink/895705065421014) / [Mobile](https://m.facebook.com/events/889636606027860?view=permalink&id=895705065421014) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 47.17 | 52.03 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/889636606027860/permalink/896946988630155) / [Mobile](https://m.facebook.com/events/889636606027860?view=permalink&id=896946988630155) |
+
 #### [2023-11-13](../../results/2023-11-13/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
