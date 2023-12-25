@@ -8,11 +8,12 @@
 
 ![Richard Taylor](1506360596.JPG)
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-| Event | Single | Average | Achievements|
-| :-- | --: | --: | :-- |
-| [3x3x3](333.md) | 21.16 | 25.61 | 🔥 x 3, ⚡ x 3 |
+| Event | Single | Average | Medals | Achievements|
+| :-- | --: | --: | :-- | :-- |
+| [3x3x3](333.md) | 21.16 | 25.61 |  | 🔥 x 3, ⚡ x 3 |
+| [3x3x3 FMC](333fm.md) | 43 | - | 🥈 x 1 | ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

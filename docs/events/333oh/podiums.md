@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-12-11](../../results/2023-12-11/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 49.20 | 57.37 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1404140403643629/permalink/1409732539751082) / [Mobile](https://m.facebook.com/events/1404140403643629?view=permalink&id=1409732539751082) |
+
 #### [2023-11-27](../../results/2023-11-27/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -28,7 +28,7 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/333bf.md) | 40+ | <i class="flag flag-GB" /> | 2:00.58 | 2:24.45 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 1, ⚡ x 1 |
 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 44.61 | 50.41 | 🏆 x 17 | 🥇 x 18, 🥈 x 18, 🥉 x 8 | 🔥 x 3, ⚡ x 7 |
-| [Daniel Houghton](../../persons/daniel_houghton/333bf.md) | 40+ | <i class="flag flag-CH" /> | 2:50.64 | 4:37.63 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 1, ⚡ x 3 |
+| [Daniel Houghton](../../persons/daniel_houghton/333bf.md) | 40+ | <i class="flag flag-CH" /> | 2:50.64 | 4:37.63 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 2 | 🔥 x 1, ⚡ x 3 |
 | [Eric Dodson](../../persons/eric_dodson/333bf.md) | 50+ | <i class="flag flag-US" /> | 3:41.00 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Gordon Holey](../../persons/gordon_holey/333bf.md) | 40+ | <i class="flag flag-US" /> | 15:57.48 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | <i class="flag flag-PL" /> | 51.62 | 59.98 | 🏆 x 7 | 🥇 x 7, 🥈 x 11, 🥉 x 3 | 🔥 x 2, ⚡ x 5 |

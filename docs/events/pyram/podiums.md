@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-12-11](../../results/2023-12-11/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.74 | 9.45 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/256225627472117/permalink/263780626716617) / [Mobile](https://m.facebook.com/events/256225627472117?view=permalink&id=263780626716617) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 50+ | <i class="flag flag-US" /> | 8.98 | 11.27 | 🥈 | [Desktop](https://www.facebook.com/events/256225627472117/permalink/264406796654000) / [Mobile](https://m.facebook.com/events/256225627472117?view=permalink&id=264406796654000) |
+| 3 | [Maiko Curry](../../persons/maiko_curry/pyram.md) | 40+ | <i class="flag flag-JP" /> | 10.39 | 11.56 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/256225627472117/permalink/256752680752745) / [Mobile](https://m.facebook.com/events/256225627472117?view=permalink&id=256752680752745) |
+
 #### [2023-11-27](../../results/2023-11-27/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
