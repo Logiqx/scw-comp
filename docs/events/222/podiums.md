@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2023-12-25](../../results/2023-12-25/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Kristina Lim](../../persons/kristina_lim/222.md) | 50+ | <i class="flag flag-US" /> | 4.97 | 7.80 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/1045330593/videos/335730709269984) / [Mobile](https://m.facebook.com/1045330593/videos/335730709269984) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 50+ | <i class="flag flag-US" /> | 6.86 | 7.80 | 🥈 | [Desktop](https://www.facebook.com/events/231087383363053/permalink/239641575840967) / [Mobile](https://m.facebook.com/events/231087383363053?view=permalink&id=239641575840967) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/222.md) | 50+ | <i class="flag flag-US" /> | 7.22 | 7.81 | 🥉 | [Desktop](https://www.facebook.com/events/231087383363053/permalink/238472015957923) / [Mobile](https://m.facebook.com/events/231087383363053?view=permalink&id=238472015957923) |
+
 #### [2023-12-11](../../results/2023-12-11/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

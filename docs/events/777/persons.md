@@ -20,6 +20,7 @@
 | [Dan Smith](../../persons/dan_smith/777.md) | 50+ | <i class="flag flag-US" /> | 9:50.21 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | <i class="flag flag-US" /> | 15:59.23 | DNF |  | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/777.md) | 50+ | <i class="flag flag-US" /> | 9:06.58 | DNF |  | 🥈 x 1 | ⚡ x 1 |
+| [Mickey Doyle](../../persons/mickey_doyle/777.md) | 50+ | <i class="flag flag-US" /> | 9:01.00 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 
 #### Over 40
 
@@ -29,7 +30,7 @@
 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | 40+ | <i class="flag flag-GB" /> | 4:58.23 | 5:24.33 | 🏆 x 12 | 🥇 x 12, 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/777.md) | 50+ | <i class="flag flag-GB" /> | 4:55.42 | 5:05.66 |  | 🥈 x 2 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Dan Smith](../../persons/dan_smith/777.md) | 50+ | <i class="flag flag-US" /> | 9:50.21 | DNF |  | 🥈 x 1 | ⚡ x 1 |
-| [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 4:07.00 | 4:23.40 | 🏆 x 26 | 🥇 x 28, 🥈 x 2 | 🔥 x 13, ⚡ x 9 |
+| [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 4:07.00 | 4:23.40 | 🏆 x 27 | 🥇 x 29, 🥈 x 2 | 🔥 x 13, ⚡ x 9 |
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | <i class="flag flag-US" /> | 15:59.23 | DNF |  | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | <i class="flag flag-JP" /> | 3:58.92 | 4:11.37 | 🏆 x 25 | 🥇 x 25 | 💥 x 6, 🔥 x 3, ⚡ x 5 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | <i class="flag flag-GB" /> | 4:49.30 | 5:07.54 | 🏆 x 18 | 🥇 x 20, 🥈 x 28 | 🔥 x 8, ⚡ x 7 |
@@ -38,6 +39,7 @@
 | [Jeremy Duehring](../../persons/jeremy_duehring/777.md) | 40+ | <i class="flag flag-US" /> | 8:08.23 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/777.md) | 50+ | <i class="flag flag-US" /> | 9:06.58 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Konsta Jukka](../../persons/konsta_jukka/777.md) | 40+ | <i class="flag flag-FI" /> | 4:44.78 | 5:09.11 | 🏆 x 3 | 🥇 x 3, 🥈 x 6, 🥉 x 1 | 🔥 x 4, ⚡ x 5 |
+| [Mickey Doyle](../../persons/mickey_doyle/777.md) | 50+ | <i class="flag flag-US" /> | 9:01.00 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/777.md) | 40+ | <i class="flag flag-TW" /> | 6:26.88 | 6:39.18 |  | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 3 |
 
 #### Under 40

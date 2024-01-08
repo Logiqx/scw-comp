@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2023-12-25](../../results/2023-12-25/minx.md) | 50+ | 3:48.42 | DNF | 🥈 | 3:58.91 | 3:48.42 | DNS | DNS | DNS | [Desktop](https://www.facebook.com/events/231087383363053/permalink/239628349175623) / [Mobile](https://m.facebook.com/events/231087383363053?view=permalink&id=239628349175623) |
 | [2023-12-11](../../results/2023-12-11/minx.md) | 50+ | **3:33.02** | DNF | 🥈 ⚡ | 3:48.40 | **3:33.02** | DNS | DNS | DNS | [Desktop](https://www.facebook.com/events/1404140403643629/permalink/1411468176244185) / [Mobile](https://m.facebook.com/events/1404140403643629?view=permalink&id=1411468176244185) |
 | [2023-11-27](../../results/2023-11-27/minx.md) | 50+ | 4:02.58 | DNF | 🥉 | 4:37.19 | 4:02.58 | DNS | DNS | DNS | [Desktop](https://www.facebook.com/events/889636606027860/permalink/895482232109964) / [Mobile](https://m.facebook.com/events/889636606027860?view=permalink&id=895482232109964) |
 | [2023-11-13](../../results/2023-11-13/minx.md) | 50+ | **3:52.34** | DNF | 🥈 ⚡ | 4:56.87 | **3:52.34** | DNS | DNS | DNS | [Desktop](https://www.facebook.com/events/1478121449586426/permalink/1485466685518569) / [Mobile](https://m.facebook.com/events/1478121449586426?view=permalink&id=1485466685518569) |
