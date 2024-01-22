@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-01-08](../../results/2024-01-08/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 1:46.89 | 1:52.53 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1278843609453417/permalink/1283841272286984) / [Mobile](https://m.facebook.com/events/1278843609453417?view=permalink&id=1283841272286984) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.92 | 4:11.29 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1278843609453417/permalink/1282597012411410) / [Mobile](https://m.facebook.com/events/1278843609453417?view=permalink&id=1282597012411410) |
+
 #### [2023-12-25](../../results/2023-12-25/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
