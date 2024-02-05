@@ -20,7 +20,7 @@
 | [Jae Park](../../persons/jae_park/333bf.md) | 50+ | <i class="flag flag-US" /> | 37.19 | 48.04 | 🏆 x 47 | 🥇 x 50, 🥈 x 1 | 💥 x 12, 🔥 x 3, ⚡ x 10 |
 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | <i class="flag flag-AR" /> | 2:34.83 | 3:37.17 |  | 🥇 x 1, 🥈 x 2, 🥉 x 7 | 🔥 x 2, ⚡ x 5 |
 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 60+ | <i class="flag flag-SE" /> | 1:55.87 | 2:14.75 | 🏆 x 11 | 🥇 x 13, 🥈 x 8, 🥉 x 5 | 💥 x 8, 🔥 x 3, ⚡ x 7 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:14.84 | DNF | 🏆 x 9 | 🥇 x 10, 🥈 x 10, 🥉 x 1 | 🔥 x 1, ⚡ x 8 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:14.84 | 2:37.83 | 🏆 x 10 | 🥇 x 11, 🥈 x 10, 🥉 x 1 | 🔥 x 2, ⚡ x 8 |
 
 #### Over 40
 
@@ -30,7 +30,7 @@
 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 44.61 | 50.41 | 🏆 x 17 | 🥇 x 18, 🥈 x 18, 🥉 x 8 | 🔥 x 3, ⚡ x 7 |
 | [Daniel Houghton](../../persons/daniel_houghton/333bf.md) | 40+ | <i class="flag flag-CH" /> | 2:50.64 | 4:37.63 | 🏆 x 2 | 🥇 x 2, 🥈 x 2, 🥉 x 2 | 🔥 x 1, ⚡ x 3 |
 | [Eric Dodson](../../persons/eric_dodson/333bf.md) | 50+ | <i class="flag flag-US" /> | 3:41.00 | DNF |  | 🥉 x 1 | ⚡ x 1 |
-| [Gordon Holey](../../persons/gordon_holey/333bf.md) | 40+ | <i class="flag flag-US" /> | 15:57.48 | DNF |  | 🥉 x 1 | ⚡ x 1 |
+| [Gordon Holey](../../persons/gordon_holey/333bf.md) | 40+ | <i class="flag flag-US" /> | 8:48.40 | DNF |  | 🥈 x 1, 🥉 x 1 | ⚡ x 2 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | <i class="flag flag-PL" /> | 51.62 | 59.98 | 🏆 x 7 | 🥇 x 7, 🥈 x 11, 🥉 x 3 | 🔥 x 2, ⚡ x 5 |
 | [Huy Nguyen](../../persons/huy_nguyen/333bf.md) | 40+ | <i class="flag flag-CA" /> | 1:23.53 | 1:33.27 | 🏆 x 3 | 🥇 x 3, 🥈 x 15, 🥉 x 14 | 🔥 x 7, ⚡ x 6 |
 | [Jae Park](../../persons/jae_park/333bf.md) | 50+ | <i class="flag flag-US" /> | 37.19 | 48.04 | 🏆 x 47 | 🥇 x 50, 🥈 x 1 | 💥 x 12, 🔥 x 3, ⚡ x 10 |
@@ -40,7 +40,7 @@
 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 60+ | <i class="flag flag-SE" /> | 1:55.87 | 2:14.75 | 🏆 x 11 | 🥇 x 13, 🥈 x 8, 🥉 x 5 | 💥 x 8, 🔥 x 3, ⚡ x 7 |
 | [Stuart Salmon](../../persons/stuart_salmon/333bf.md) | 40+ | <i class="flag flag-GB" /> | 3:24.37 | DNF |  |  | ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | 40+ | <i class="flag flag-FR" /> | 1:11.93 | 1:31.27 | 🏆 x 3 | 🥇 x 3, 🥈 x 9, 🥉 x 4 | 🔥 x 3, ⚡ x 2 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:14.84 | 3:38.13 | 🏆 x 9 | 🥇 x 10, 🥈 x 10, 🥉 x 1 | 🔥 x 1, ⚡ x 8 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:14.84 | 2:37.83 | 🏆 x 10 | 🥇 x 11, 🥈 x 10, 🥉 x 1 | 🔥 x 2, ⚡ x 8 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333bf.md) | 40+ | <i class="flag flag-IN" /> | 5:29.35 | DNF |  |  | ⚡ x 1 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333bf.md) | 40+ | <i class="flag flag-FR" /> | 1:50.43 | 2:50.79 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 3 |
 | [Yuichi Hamada](../../persons/yuichi_hamada/333bf.md) | 40+ | <i class="flag flag-JP" /> | 2:21.37 | DNF |  | 🥉 x 1 | ⚡ x 1 |

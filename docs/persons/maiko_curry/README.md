@@ -10,6 +10,7 @@
 
 | Event | Single | Average | Medals | Achievements|
 | :-- | --: | --: | :-- | :-- |
+| [3x3x3](333.md) | 36.02 | 48.32 |  | 🔥 x 1, ⚡ x 1 |
 | [Pyraminx](pyram.md) | 10.39 | 11.56 | 🥉 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Clock](clock.md) | 8.32 | 10.96 | 🥈 x 4 | 💥 x 1, 🔥 x 3, ⚡ x 4 |
 

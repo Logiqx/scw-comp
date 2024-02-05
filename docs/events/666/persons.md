@@ -30,7 +30,7 @@
 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | 40+ | <i class="flag flag-GB" /> | 3:27.31 | 3:35.12 | 🏆 x 11 | 🥇 x 12, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 4 |
 | [Chris Wright](../../persons/chris_wright/666.md) | 50+ | <i class="flag flag-GB" /> | 3:08.84 | 3:18.98 |  | 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/666.md) | 50+ | <i class="flag flag-US" /> | 5:23.74 | 5:54.57 |  | 🥇 x 5, 🥈 x 3, 🥉 x 7 | 💥 x 1, 🔥 x 1, ⚡ x 2 |
-| [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:00.32 | 3:10.07 | 🏆 x 25 | 🥇 x 29, 🥈 x 2 | 🔥 x 8, ⚡ x 10 |
+| [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:00.32 | 3:10.07 | 🏆 x 26 | 🥇 x 30, 🥈 x 2 | 🔥 x 8, ⚡ x 10 |
 | [Donna Leiber](../../persons/donna_leiber/666.md) | 60+ | <i class="flag flag-US" /> | 12:04.43 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | 40+ | <i class="flag flag-VE" /> | 3:35.84 | 3:43.01 | 🏆 x 20 | 🥈 x 1 | 🔥 x 11, ⚡ x 10 |
 | [Eric Dodson](../../persons/eric_dodson/666.md) | 40+ | <i class="flag flag-US" /> | 8:34.62 | DNF |  | 🥈 x 1 | ⚡ x 1 |
@@ -38,6 +38,7 @@
 | [Geoff Hartnell](../../persons/geoff_hartnell/666.md) | 40+ | <i class="flag flag-GB" /> | 3:17.40 | 3:32.21 | 🏆 x 4 | 🥇 x 20, 🥈 x 25, 🥉 x 2 | 🔥 x 6, ⚡ x 5 |
 | [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | <i class="flag flag-GB" /> | 3:06.46 | 3:21.41 | 🏆 x 3 | 🥇 x 4, 🥈 x 10 | 🔥 x 6, ⚡ x 5 |
 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | 40+ | <i class="flag flag-KR" /> | 2:48.49 | 3:03.55 | 🏆 x 2 | 🥇 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
+| [Gordon Holey](../../persons/gordon_holey/666.md) | 40+ | <i class="flag flag-US" /> | 6:30.17 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [JM Tambaoan](../../persons/jm_tambaoan/666.md) | 40+ | <i class="flag flag-PH" /> | 4:41.61 | 5:06.21 | 🏆 x 3 | 🥇 x 3, 🥈 x 14, 🥉 x 3 | 🔥 x 4, ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/666.md) | 40+ | <i class="flag flag-US" /> | 12:20.61 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/666.md) | 40+ | <i class="flag flag-US" /> | 5:06.63 | DNF |  | 🥉 x 1 | ⚡ x 2 |

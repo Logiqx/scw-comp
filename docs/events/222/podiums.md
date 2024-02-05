@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-01-22](../../results/2024-01-22/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | <i class="flag flag-US" /> | 6.48 | 6.88 | 🏆 🥇 | [Desktop](https://www.facebook.com/766997877/videos/390178620155570) / [Mobile](https://m.facebook.com/766997877/videos/390178620155570) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/222.md) | 50+ | <i class="flag flag-US" /> | 6.67 | 8.69 | 🥈 | [Desktop](https://www.facebook.com/events/1080083269860734/permalink/1087711732431221) / [Mobile](https://m.facebook.com/events/1080083269860734?view=permalink&id=1087711732431221) |
+| 3 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 7.82 | 8.71 | 🥉 | [Desktop](https://www.facebook.com/events/1080083269860734/permalink/1086388465896881) / [Mobile](https://m.facebook.com/events/1080083269860734?view=permalink&id=1086388465896881) |
+
 #### [2024-01-08](../../results/2024-01-08/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-01-22](../../results/2024-01-22/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 52.81 | 57.35 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1080083269860734/permalink/1087712065764521) / [Mobile](https://m.facebook.com/events/1080083269860734?view=permalink&id=1087712065764521) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 46.48 | 59.65 | 🥈 | [Desktop](https://www.facebook.com/766997877/videos/7477458108940406) / [Mobile](https://m.facebook.com/766997877/videos/7477458108940406) |
+
 #### [2024-01-08](../../results/2024-01-08/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-01-22](../../results/2024-01-22/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:06.28 | 3:21.49 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/395750252948744/permalink/398393582684411) / [Mobile](https://m.facebook.com/events/395750252948744?view=permalink&id=398393582684411) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/666.md) | 40+ | <i class="flag flag-US" /> | 6:30.17 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/409583814976419) / [Mobile](https://m.facebook.com/766997877/videos/409583814976419) |
+
 #### [2024-01-08](../../results/2024-01-08/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
