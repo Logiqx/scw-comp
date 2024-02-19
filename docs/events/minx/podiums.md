@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-02-05](../../results/2024-02-05/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 2:25.31 | 2:39.11 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3090201184445880/permalink/3102102576589074) / [Mobile](https://m.facebook.com/events/3090201184445880?view=permalink&id=3102102576589074) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 50+ | <i class="flag flag-US" /> | 3:33.59 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/3090201184445880/permalink/3102323149900350) / [Mobile](https://m.facebook.com/events/3090201184445880?view=permalink&id=3102323149900350) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/minx.md) | 40+ | <i class="flag flag-US" /> | 4:33.43 | DNF | 🥉 | [Desktop](https://www.facebook.com/766997877/videos/407683625078255) / [Mobile](https://m.facebook.com/766997877/videos/407683625078255) |
+
 #### [2024-01-22](../../results/2024-01-22/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

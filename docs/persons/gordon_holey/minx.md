@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-02-05](../../results/2024-02-05/minx.md) | 40+ | 4:33.43 | DNF | 🥉 | 5:17.57 | 4:33.43 | DNS | DNS | DNS | [Desktop](https://www.facebook.com/766997877/videos/407683625078255) / [Mobile](https://m.facebook.com/766997877/videos/407683625078255) |
 | [2023-04-17](../../results/2023-04-17/minx.md) | 40+ | 4:48.31 | DNF | 🥇 | 4:48.31 | 5:40.95 | DNS | DNS | DNS | [Desktop](https://www.facebook.com/766997877/videos/271104708590237) / [Mobile](https://m.facebook.com/766997877/videos/271104708590237) |
 | [2023-02-20](../../results/2023-02-20/minx.md) | 40+ | **3:24.41** | **4:12.02** | 🥇 🔥 ⚡ | **3:24.41** | 4:55.16 | 4:16.48 | DNS | DNS | [Desktop](https://www.facebook.com/events/569225115154363/permalink/574125621330979) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=574125621330979) |
 

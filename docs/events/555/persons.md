@@ -17,9 +17,9 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Chris Wright](../../persons/chris_wright/555.md) | 50+ | <i class="flag flag-GB" /> | 1:41.03 | 1:46.58 |  | 🥇 x 1, 🥈 x 3 | 💥 x 3, 🔥 x 1, ⚡ x 3 |
+| [Chris Wright](../../persons/chris_wright/555.md) | 50+ | <i class="flag flag-GB" /> | 1:40.02 | 1:46.23 | 🏆 x 1 | 🥇 x 2, 🥈 x 3 | 💥 x 4, 🔥 x 2, ⚡ x 4 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | <i class="flag flag-IT" /> | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
-| [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 21, 🥉 x 31 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
+| [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 21, 🥉 x 32 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | <i class="flag flag-US" /> | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/555.md) | 50+ | <i class="flag flag-US" /> | 4:09.44 | 4:32.93 |  | 🥉 x 4 | 🔥 x 3, ⚡ x 7 |
 | [Kerry Go](../../persons/kerry_go/555.md) | 50+ | <i class="flag flag-US" /> | 3:02.77 | 3:36.28 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
@@ -34,10 +34,10 @@
 | [Aaron Cumes](../../persons/aaron_cumes/555.md) | 40+ | <i class="flag flag-GB" /> | 2:21.64 | 2:32.97 |  | 🥉 x 3 | 🔥 x 4, ⚡ x 3 |
 | [Andy Nicholls](../../persons/andy_nicholls/555.md) | 40+ | <i class="flag flag-GB" /> | 1:38.52 | 1:46.32 | 🏆 x 12 | 🥇 x 14, 🥈 x 2 | 💥 x 3, 🔥 x 2, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/555.md) | 40+ | <i class="flag flag-AU" /> | 3:45.86 | 3:53.73 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Chris Wright](../../persons/chris_wright/555.md) | 50+ | <i class="flag flag-GB" /> | 1:41.03 | 1:46.58 |  | 🥇 x 1, 🥈 x 3 | 💥 x 3, 🔥 x 1, ⚡ x 3 |
+| [Chris Wright](../../persons/chris_wright/555.md) | 50+ | <i class="flag flag-GB" /> | 1:40.02 | 1:46.23 | 🏆 x 1 | 🥇 x 2, 🥈 x 3 | 💥 x 4, 🔥 x 2, ⚡ x 4 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | <i class="flag flag-IT" /> | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
-| [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 21, 🥉 x 31 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
-| [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:25.12 | 1:34.03 | 🏆 x 36 | 🥇 x 38, 🥈 x 2 | 🔥 x 8, ⚡ x 5 |
+| [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 21, 🥉 x 32 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
+| [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:25.12 | 1:34.03 | 🏆 x 36 | 🥇 x 38, 🥈 x 3 | 🔥 x 8, ⚡ x 5 |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | <i class="flag flag-US" /> | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | 40+ | <i class="flag flag-VE" /> | 1:47.83 | 1:57.66 | 🏆 x 21 | 🥈 x 1 | 🔥 x 9, ⚡ x 9 |
 | [Eric Dodson](../../persons/eric_dodson/555.md) | 40+ | <i class="flag flag-US" /> | 3:28.26 | 3:42.50 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 1 |
@@ -45,7 +45,7 @@
 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:41.88 | 1:56.29 | 🏆 x 2 | 🥇 x 17, 🥈 x 30, 🥉 x 7 | 🔥 x 7, ⚡ x 5 |
 | [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | <i class="flag flag-GB" /> | 1:42.98 | 1:50.99 | 🏆 x 1 | 🥇 x 2, 🥈 x 12, 🥉 x 3 | 🔥 x 6, ⚡ x 5 |
 | [Go-ho Choi](../../persons/go_ho_choi/555.md) | 40+ | <i class="flag flag-KR" /> | 1:29.28 | 1:31.87 | 🏆 x 6 | 🥇 x 1 | 💥 x 3, 🔥 x 2, ⚡ x 4 |
-| [Gordon Holey](../../persons/gordon_holey/555.md) | 40+ | <i class="flag flag-US" /> | 3:23.22 | 3:33.84 |  |  | 🔥 x 3, ⚡ x 3 |
+| [Gordon Holey](../../persons/gordon_holey/555.md) | 40+ | <i class="flag flag-US" /> | 2:40.47 | 3:33.84 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/555.md) | 40+ | <i class="flag flag-PL" /> | 2:37.21 | 2:48.50 |  |  | 🔥 x 1, ⚡ x 1 |
 | [JM Tambaoan](../../persons/jm_tambaoan/555.md) | 40+ | <i class="flag flag-PH" /> | 1:57.63 | 2:20.30 | 🏆 x 2 | 🥇 x 6, 🥈 x 9, 🥉 x 12 | 🔥 x 12, ⚡ x 10 |
 | [Jae Park](../../persons/jae_park/555.md) | 50+ | <i class="flag flag-US" /> | 4:09.44 | 4:32.93 |  | 🥉 x 4 | 🔥 x 3, ⚡ x 7 |
