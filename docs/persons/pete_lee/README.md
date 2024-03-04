@@ -8,19 +8,20 @@
 
 ![Pete Lee](1574700550.jpg)
 
-<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-| Event | Single | Average | Cups | Achievements|
-| :-- | --: | --: | :--: | :-- |
-| [3x3x3](333.md) | 12.85 | 17.45 |  | 🔥 x 10, ⚡ x 5 |
-| [2x2x2](222.md) | 4.68 | 7.24 |  | 🔥 x 3, ⚡ x 4 |
-| [4x4x4](444.md) | 52.61 | 1:03.27 | 🏆 x 4 | 🔥 x 9, ⚡ x 9 |
-| [5x5x5](555.md) | 1:39.52 | 1:49.65 | 🏆 x 12 | 🔥 x 16, ⚡ x 10 |
-| [6x6x6](666.md) | 3:18.16 | 3:24.87 | 🏆 x 12 | 🔥 x 12, ⚡ x 18 |
-| [7x7x7](777.md) | 5:04.61 | 5:31.60 | 🏆 x 15 | 🔥 x 12, ⚡ x 20 |
-| [3x3x3 OH](333oh.md) | 39.61 | 47.46 | 🏆 x 2 | 🔥 x 2, ⚡ x 1 |
-| [Pyraminx](pyram.md) | 14.79 | 28.28 |  | 🔥 x 1, ⚡ x 2 |
-| [Skewb](skewb.md) | 6.84 | 13.62 |  | 🔥 x 2, ⚡ x 3 |
+| Event | Single | Average | Cups | Medals | Achievements|
+| :-- | --: | --: | :--: | :-- | :-- |
+| [3x3x3](333.md) | 12.85 | 17.45 |  |  | 🔥 x 11, ⚡ x 6 |
+| [2x2x2](222.md) | 4.68 | 7.24 |  |  | 🔥 x 3, ⚡ x 4 |
+| [4x4x4](444.md) | 52.61 | 1:03.27 | 🏆 x 4 |  | 🔥 x 10, ⚡ x 10 |
+| [5x5x5](555.md) | 1:39.52 | 1:49.65 | 🏆 x 12 | 🥉 x 1 | 🔥 x 17, ⚡ x 11 |
+| [6x6x6](666.md) | 3:12.81 | 3:24.87 | 🏆 x 12 |  | 🔥 x 13, ⚡ x 19 |
+| [7x7x7](777.md) | 4:56.80 | 5:13.03 | 🏆 x 15 |  | 🔥 x 13, ⚡ x 21 |
+| [3x3x3 OH](333oh.md) | 39.61 | 47.46 | 🏆 x 2 |  | 🔥 x 2, ⚡ x 1 |
+| [Megaminx](minx.md) | 2:13.70 | 2:36.84 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Pyraminx](pyram.md) | 14.79 | 28.28 |  |  | 🔥 x 1, ⚡ x 2 |
+| [Skewb](skewb.md) | 6.84 | 13.62 |  |  | 🔥 x 2, ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

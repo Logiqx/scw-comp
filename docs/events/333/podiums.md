@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-02-19](../../results/2024-02-19/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Chris Wright](../../persons/chris_wright/333.md) | 50+ | <i class="flag flag-GB" /> | 13.49 | 14.94 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/947093233792978/permalink/949066083595693) / [Mobile](https://m.facebook.com/events/947093233792978?view=permalink&id=949066083595693) |
+| 2 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 15.02 | 15.98 | 🥈 | [Desktop](https://www.facebook.com/events/947093233792978/permalink/950708540098114) / [Mobile](https://m.facebook.com/events/947093233792978?view=permalink&id=950708540098114) |
+| 3 | [Ed Connell](../../persons/ed_connell/333.md) | 40+ | <i class="flag flag-IE" /> | 15.99 | 17.29 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/947093233792978/permalink/951338596701775) / [Mobile](https://m.facebook.com/events/947093233792978?view=permalink&id=951338596701775) |
+
 #### [2024-02-05](../../results/2024-02-05/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

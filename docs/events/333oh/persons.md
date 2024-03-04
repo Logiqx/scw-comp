@@ -16,8 +16,8 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | <i class="flag flag-GB" /> | 35.64 | 39.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 37.14 | 50.51 | 🏆 x 12 | 🥇 x 14, 🥈 x 10, 🥉 x 2 | 🔥 x 7, ⚡ x 7 |
+| [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | <i class="flag flag-GB" /> | 28.30 | 33.09 | 🏆 x 1 | 🥇 x 1 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
+| [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 36.60 | 46.06 | 🏆 x 12 | 🥇 x 14, 🥈 x 10, 🥉 x 3 | 🔥 x 8, ⚡ x 8 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 60+ | <i class="flag flag-CA" /> | 1:26.57 | 1:57.43 |  | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 3 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | <i class="flag flag-PL" /> | 27.43 | 35.12 |  | 🥉 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
 
@@ -27,7 +27,8 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/333oh.md) | 40+ | <i class="flag flag-GB" /> | 1:01.02 | 1:17.51 |  |  | 🔥 x 7, ⚡ x 8 |
 | [Andy Nicholls](../../persons/andy_nicholls/333oh.md) | 40+ | <i class="flag flag-GB" /> | 33.37 | 40.48 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 5 |
-| [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | <i class="flag flag-GB" /> | 35.64 | 39.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | <i class="flag flag-GB" /> | 28.30 | 33.09 | 🏆 x 1 | 🥇 x 1 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
+| [Ed Connell](../../persons/ed_connell/333oh.md) | 40+ | <i class="flag flag-IE" /> | 38.16 | 42.27 | 🏆 x 13 | 🥈 x 1 | 🔥 x 8, ⚡ x 3 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 20.41 | 26.24 | 🏆 x 1 | 🥇 x 1, 🥈 x 19, 🥉 x 3 | 🔥 x 6, ⚡ x 5 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.94 | 27.02 | 🏆 x 4 | 🥇 x 5, 🥈 x 28, 🥉 x 21 | 🔥 x 10, ⚡ x 7 |
 | [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | 40+ | <i class="flag flag-KR" /> | 23.29 | 27.89 | 🏆 x 2 | 🥈 x 1 | 💥 x 1, 🔥 x 3, ⚡ x 2 |
@@ -41,7 +42,7 @@
 | [Jo Cocco](../../persons/jo_cocco/333oh.md) | 40+ | <i class="flag flag-GB" /> | 45.79 | 58.18 | 🏆 x 1 | 🥇 x 3, 🥈 x 1 | 🔥 x 5, ⚡ x 6 |
 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 16.07 | 20.76 | 🏆 x 43 | 🥇 x 43 | 💥 x 3, 🔥 x 5, ⚡ x 4 |
 | [Michael George](../../persons/michael_george/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.57 | 21.87 | 🏆 x 18 | 🥇 x 22 | 💥 x 5, 🔥 x 3, ⚡ x 5 |
-| [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 37.14 | 50.51 | 🏆 x 12 | 🥇 x 14, 🥈 x 10, 🥉 x 2 | 🔥 x 7, ⚡ x 7 |
+| [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 36.60 | 46.06 | 🏆 x 12 | 🥇 x 14, 🥈 x 10, 🥉 x 3 | 🔥 x 8, ⚡ x 8 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 60+ | <i class="flag flag-CA" /> | 1:26.57 | 1:57.43 |  | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 3 |
 | [Raúl Morales](../../persons/raul_morales/333oh.md) | 40+ | <i class="flag flag-ES" /> | 31.07 | 37.84 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/333oh.md) | 40+ | <i class="flag flag-GB" /> | 1:11.28 | 1:34.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
@@ -58,7 +59,7 @@
 | [Alex Friedman](../../persons/alex_friedman/333oh.md) | <40 | <i class="flag flag-IL" /> | 19.20 | 22.99 | 🏆 x 1 |  | 🔥 x 5, ⚡ x 5 |
 | [Chris Looney](../../persons/chris_looney/333oh.md) | <40 | <i class="flag flag-US" /> | 32.83 | 45.58 | 🏆 x 3 |  | 🔥 x 3, ⚡ x 3 |
 | [Chris Thames](../../persons/chris_thames/333oh.md) | <40 | <i class="flag flag-US" /> | 1:06.23 | 1:14.05 |  |  | 🔥 x 5, ⚡ x 4 |
-| [Ed Connell](../../persons/ed_connell/333oh.md) | <40 | <i class="flag flag-IE" /> | 21.93 | 27.55 | 🏆 x 13 |  | 🔥 x 7, ⚡ x 2 |
+| [Ed Connell](../../persons/ed_connell/333oh.md) | 40+ | <i class="flag flag-IE" /> | 21.93 | 27.55 | 🏆 x 13 | 🥈 x 1 | 🔥 x 8, ⚡ x 3 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333oh.md) | <40 | <i class="flag flag-VE" /> | 26.22 | 30.38 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 1 |
 | [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | 40+ | <i class="flag flag-KR" /> | 22.13 | 24.49 | 🏆 x 2 | 🥈 x 1 | 💥 x 1, 🔥 x 3, ⚡ x 2 |
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/333oh.md) | 40+ | <i class="flag flag-GB" /> | 30.75 | 34.86 |  |  | 🔥 x 5, ⚡ x 4 |

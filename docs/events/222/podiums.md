@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-02-19](../../results/2024-02-19/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | <i class="flag flag-GB" /> | 4.51 | 6.25 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/947093233792978/permalink/951719639997004) / [Mobile](https://m.facebook.com/events/947093233792978?view=permalink&id=951719639997004) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | <i class="flag flag-US" /> | 7.33 | 8.28 | 🥈 | [Desktop](https://www.facebook.com/766997877/videos/313932058365821) / [Mobile](https://m.facebook.com/766997877/videos/313932058365821) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/222.md) | 50+ | <i class="flag flag-US" /> | 8.15 | 9.45 | 🥉 | [Desktop](https://www.facebook.com/events/947093233792978/permalink/954110246424610) / [Mobile](https://m.facebook.com/events/947093233792978?view=permalink&id=954110246424610) |
+
 #### [2024-02-05](../../results/2024-02-05/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

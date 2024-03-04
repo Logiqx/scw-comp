@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-02-19](../../results/2024-02-19/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | <i class="flag flag-BR" /> | 29 | 32.67 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/381823924477209/permalink/382505031075765) / [Mobile](https://m.facebook.com/events/381823924477209?view=permalink&id=382505031075765) |
+| 2 | [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 39 | 43.00 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/381823924477209/permalink/383694844290117) / [Mobile](https://m.facebook.com/events/381823924477209?view=permalink&id=383694844290117) |
+
 #### [2024-02-05](../../results/2024-02-05/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |
