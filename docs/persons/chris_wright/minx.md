@@ -10,10 +10,11 @@
 
 #### Megaminx Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-03-04](../../results/2024-03-04/minx.md) | 50+ | 2:03.31 | **2:10.39** | 🏆 🥇 💥 🔥 | 2:08.68 | 2:06.09 | 2:46.02 | 2:03.31 | 2:16.41 | [Desktop](https://www.facebook.com/events/682023687232856/permalink/686095800158978) / [Mobile](https://m.facebook.com/events/682023687232856?view=permalink&id=686095800158978) |
 | [2020-09-08](../../results/2020-09-08/minx.md) | 50+ | **1:54.48** | **2:17.73** | 🥈 💥 🔥 ⚡ | 2:15.61 | 2:03.12 | **1:54.48** | 3:14.79 | 2:34.47 | [Desktop](https://www.facebook.com/christopher.wright.94617999/videos/10157638865557874) / [Mobile](https://m.facebook.com/christopher.wright.94617999/videos/10157638865557874) |
 
 

@@ -16,7 +16,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Chris Wright](../../persons/chris_wright/666.md) | 50+ | <i class="flag flag-GB" /> | 3:08.84 | 3:18.98 |  | 🥈 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Chris Wright](../../persons/chris_wright/666.md) | 50+ | <i class="flag flag-GB" /> | 3:01.50 | 3:09.54 | 🏆 x 1 | 🥇 x 1, 🥈 x 2 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Dan Smith](../../persons/dan_smith/666.md) | 50+ | <i class="flag flag-US" /> | 5:23.74 | 5:54.57 |  | 🥇 x 5, 🥈 x 3, 🥉 x 7 | 💥 x 1, 🔥 x 1, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/666.md) | 60+ | <i class="flag flag-US" /> | 12:04.43 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/666.md) | 50+ | <i class="flag flag-US" /> | 6:34.83 | DNF |  | 🥈 x 1 | ⚡ x 1 |
@@ -28,9 +28,9 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/666.md) | 40+ | <i class="flag flag-GB" /> | 4:49.66 | DNF |  | 🥈 x 1, 🥉 x 5 | ⚡ x 4 |
 | [Andy Nicholls](../../persons/andy_nicholls/666.md) | 40+ | <i class="flag flag-GB" /> | 3:27.31 | 3:35.12 | 🏆 x 11 | 🥇 x 12, 🥈 x 1 | 💥 x 5, 🔥 x 2, ⚡ x 4 |
-| [Chris Wright](../../persons/chris_wright/666.md) | 50+ | <i class="flag flag-GB" /> | 3:08.84 | 3:18.98 |  | 🥈 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
+| [Chris Wright](../../persons/chris_wright/666.md) | 50+ | <i class="flag flag-GB" /> | 3:01.50 | 3:09.54 | 🏆 x 1 | 🥇 x 1, 🥈 x 2 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Dan Smith](../../persons/dan_smith/666.md) | 50+ | <i class="flag flag-US" /> | 5:23.74 | 5:54.57 |  | 🥇 x 5, 🥈 x 3, 🥉 x 7 | 💥 x 1, 🔥 x 1, ⚡ x 2 |
-| [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:00.32 | 3:10.07 | 🏆 x 28 | 🥇 x 32, 🥈 x 2 | 🔥 x 8, ⚡ x 10 |
+| [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:00.32 | 3:10.07 | 🏆 x 28 | 🥇 x 32, 🥈 x 2, 🥉 x 1 | 🔥 x 8, ⚡ x 10 |
 | [Donna Leiber](../../persons/donna_leiber/666.md) | 60+ | <i class="flag flag-US" /> | 12:04.43 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | 40+ | <i class="flag flag-VE" /> | 3:35.84 | 3:43.01 | 🏆 x 20 | 🥈 x 1 | 🔥 x 11, ⚡ x 10 |
 | [Eric Dodson](../../persons/eric_dodson/666.md) | 40+ | <i class="flag flag-US" /> | 8:34.62 | DNF |  | 🥈 x 1 | ⚡ x 1 |
@@ -46,7 +46,7 @@
 | [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | <i class="flag flag-FI" /> | 2:59.31 | 3:18.51 | 🏆 x 2 | 🥇 x 4, 🥈 x 7 | 🔥 x 7, ⚡ x 5 |
 | [Michael George](../../persons/michael_george/666.md) | 40+ | <i class="flag flag-GB" /> | 4:37.39 | DNF |  | 🥉 x 4 | ⚡ x 7 |
 | [Mickey Doyle](../../persons/mickey_doyle/666.md) | 50+ | <i class="flag flag-US" /> | 5:43.14 | DNF |  | 🥇 x 2, 🥈 x 2, 🥉 x 1 | ⚡ x 4 |
-| [Pete Lee](../../persons/pete_lee/666.md) | 40+ | <i class="flag flag-GB" /> | 3:12.81 | 3:34.44 | 🏆 x 12 |  | 🔥 x 13, ⚡ x 19 |
+| [Pete Lee](../../persons/pete_lee/666.md) | 40+ | <i class="flag flag-GB" /> | 3:12.00 | 3:24.46 | 🏆 x 12 | 🥈 x 1 | 🔥 x 14, ⚡ x 20 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) | 40+ | <i class="flag flag-TW" /> | 3:38.96 | 3:45.42 | 🏆 x 1 | 🥇 x 3, 🥈 x 7, 🥉 x 7 | 🔥 x 4, ⚡ x 10 |
 
 #### Under 40
@@ -59,7 +59,7 @@
 | [Ed Connell](../../persons/ed_connell/666.md) | <40 | <i class="flag flag-IE" /> | 4:43.44 | 5:08.50 |  |  | 🔥 x 1, ⚡ x 4 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | 40+ | <i class="flag flag-VE" /> | 3:03.79 | 3:19.74 | 🏆 x 20 | 🥈 x 1 | 🔥 x 11, ⚡ x 10 |
 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | 40+ | <i class="flag flag-KR" /> | 2:37.68 | 2:40.63 | 🏆 x 2 | 🥇 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
-| [Pete Lee](../../persons/pete_lee/666.md) | 40+ | <i class="flag flag-GB" /> | 3:18.16 | 3:24.87 | 🏆 x 12 |  | 🔥 x 13, ⚡ x 19 |
+| [Pete Lee](../../persons/pete_lee/666.md) | 40+ | <i class="flag flag-GB" /> | 3:18.16 | 3:24.87 | 🏆 x 12 | 🥈 x 1 | 🔥 x 14, ⚡ x 20 |
 | [Peter Osudar](../../persons/peter_osudar/666.md) | <40 | <i class="flag flag-CA" /> | 4:08.97 | 4:43.11 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 30

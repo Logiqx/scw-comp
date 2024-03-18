@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-03-04](../../results/2024-03-04/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | <i class="flag flag-GB" /> | 29.46 | 32.75 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/682023687232856/permalink/685679530200605) / [Mobile](https://m.facebook.com/events/682023687232856?view=permalink&id=685679530200605) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 45.02 | 48.44 | 🥈 | [Desktop](https://www.facebook.com/events/682023687232856/permalink/688412946593930) / [Mobile](https://m.facebook.com/events/682023687232856?view=permalink&id=688412946593930) |
+| 3 | [Dan Smith](../../persons/dan_smith/333oh.md) | 50+ | <i class="flag flag-US" /> | 1:25.60 | 1:35.59 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/682023687232856/permalink/686517930116765) / [Mobile](https://m.facebook.com/events/682023687232856?view=permalink&id=686517930116765) |
+
 #### [2024-02-19](../../results/2024-02-19/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
