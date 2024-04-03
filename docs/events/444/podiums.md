@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-03-18](../../results/2024-03-18/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 55.37 | 58.53 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/386186517521787/permalink/390644740409298) / [Mobile](https://m.facebook.com/events/386186517521787?view=permalink&id=390644740409298) |
+| 2 | [Chris Wright](../../persons/chris_wright/444.md) | 50+ | <i class="flag flag-GB" /> | 58.71 | 1:01.71 | 🥈 | [Desktop](https://www.facebook.com/events/386186517521787/permalink/391033390370433) / [Mobile](https://m.facebook.com/events/386186517521787?view=permalink&id=391033390370433) |
+| 3 | [Pete Lee](../../persons/pete_lee/444.md) | 40+ | <i class="flag flag-GB" /> | 1:03.97 | 1:14.86 | 🥉 | [Desktop](https://www.facebook.com/events/386186517521787/permalink/394154786724960) / [Mobile](https://m.facebook.com/events/386186517521787?view=permalink&id=394154786724960) |
+
 #### [2024-03-04](../../results/2024-03-04/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

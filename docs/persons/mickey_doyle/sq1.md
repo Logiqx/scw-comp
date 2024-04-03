@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-03-18](../../results/2024-03-18/sq1.md) | 50+ | 28.58 | 33.61 | 🥈 | 31.64 | 35.90 | 35.03 | 28.58 | 34.16 | [Desktop](https://www.facebook.com/events/424084876660275/permalink/429644826104280) / [Mobile](https://m.facebook.com/events/424084876660275?view=permalink&id=429644826104280) |
 | [2024-03-04](../../results/2024-03-04/sq1.md) | 50+ | 27.02 | 31.30 | 🥈 | 29.58 | 34.60 | 35.26 | 29.73 | 27.02 | [Desktop](https://www.facebook.com/events/424128753424901/permalink/431387822698994) / [Mobile](https://m.facebook.com/events/424128753424901?view=permalink&id=431387822698994) |
 | [2024-02-19](../../results/2024-02-19/sq1.md) | 50+ | **21.53** | **30.79** | 🥈 🔥 ⚡ | 47.41 | 27.49 | 38.08 | 26.79 | **21.53** | [Desktop](https://www.facebook.com/events/754314473328390/permalink/761201729306331) / [Mobile](https://m.facebook.com/events/754314473328390?view=permalink&id=761201729306331) |
 | [2024-02-05](../../results/2024-02-05/sq1.md) | 50+ | 24.22 | 31.67 | 🥈 | 42.24 | 24.22 | 35.20 | 31.69 | 28.11 | [Desktop](https://www.facebook.com/events/224940820608552/permalink/232325606536740) / [Mobile](https://m.facebook.com/events/224940820608552?view=permalink&id=232325606536740) |

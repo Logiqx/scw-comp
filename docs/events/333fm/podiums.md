@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-03-18](../../results/2024-03-18/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | <i class="flag flag-BR" /> | 33 | 35.00 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/327405973656724/permalink/334749922922329) / [Mobile](https://m.facebook.com/events/327405973656724?view=permalink&id=334749922922329) |
+| 2 | [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 37 | 39.67 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/327405973656724/permalink/330765559987432) / [Mobile](https://m.facebook.com/events/327405973656724?view=permalink&id=330765559987432) |
+| 3 | [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 39 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/327405973656724/permalink/333880279675960) / [Mobile](https://m.facebook.com/events/327405973656724?view=permalink&id=333880279675960) |
+
 #### [2024-03-04](../../results/2024-03-04/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |
