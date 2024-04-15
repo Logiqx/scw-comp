@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-04-01](../../results/2024-04-01/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:48.27 | 2:02.95 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/399816879472850/permalink/403682082419663) / [Mobile](https://m.facebook.com/events/399816879472850?view=permalink&id=403682082419663) |
+| 2 | [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | <i class="flag flag-GB" /> | 1:57.62 | 2:03.51 | 🥈 | [Desktop](https://www.facebook.com/events/399816879472850/permalink/406693168785221) / [Mobile](https://m.facebook.com/events/399816879472850?view=permalink&id=406693168785221) |
+| 3 | [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | <i class="flag flag-GB" /> | 2:39.42 | 2:48.89 | 🥉 | [Desktop](https://www.facebook.com/JoCocco/videos/405333815604387) / [Mobile](https://m.facebook.com/JoCocco/videos/405333815604387) |
+
 #### [2024-03-18](../../results/2024-03-18/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

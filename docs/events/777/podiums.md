@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-04-01](../../results/2024-04-01/777.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 4:28.92 | 4:37.04 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3767623586842150/permalink/3774969262774249) / [Mobile](https://m.facebook.com/events/3767623586842150?view=permalink&id=3774969262774249) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/777.md) | 40+ | <i class="flag flag-GB" /> | 4:32.74 | 4:40.43 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/3767623586842150/permalink/3770292649908577) / [Mobile](https://m.facebook.com/events/3767623586842150?view=permalink&id=3770292649908577) |
+| 3 | [Chris Wright](../../persons/chris_wright/777.md) | 50+ | <i class="flag flag-GB" /> | 4:53.02 | 4:59.30 | 🥉 💥 🔥 | [Desktop](https://www.facebook.com/events/3767623586842150/permalink/3770780263193149) / [Mobile](https://m.facebook.com/events/3767623586842150?view=permalink&id=3770780263193149) |
+
 #### [2024-03-18](../../results/2024-03-18/777.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

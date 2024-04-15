@@ -15,7 +15,7 @@
 | [4x4x4](444.md) | 1:31.50 | 1:51.97 |  | 🥉 x 2 | 🔥 x 6, ⚡ x 8 |
 | [5x5x5](555.md) | 3:37.69 | 4:04.60 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [3x3x3 OH](333oh.md) | 45.79 | 58.18 | 🏆 x 1 | 🥇 x 3, 🥈 x 1 | 🔥 x 5, ⚡ x 6 |
-| [Megaminx](minx.md) | 2:28.73 | 2:36.84 | 🏆 x 1 | 🥇 x 3, 🥈 x 3, 🥉 x 3 | 🔥 x 5, ⚡ x 6 |
+| [Megaminx](minx.md) | 2:28.73 | 2:36.84 | 🏆 x 1 | 🥇 x 3, 🥈 x 3, 🥉 x 4 | 🔥 x 5, ⚡ x 6 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
