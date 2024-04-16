@@ -124,9 +124,15 @@
 
 <span style="white-space: nowrap;">🏆 [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) 2:37.94</span>
 
-<span style="white-space: nowrap;">🥇 [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) 2:37.94</span>, <span style="white-space: nowrap;">🥈 [Dan Smith](../../persons/dan_smith/333bf.md) 5:58.62</span>
+<span style="white-space: nowrap;">🥇 [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) 2:37.94</span>, <span style="white-space: nowrap;">🥈 [Peter Andersson](../../persons/peter_andersson/333bf.md) 2:39.83</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/333bf.md) 5:58.62</span>
 
 ⚡ x 1 = <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/333bf.md) 5:58.62</span>
+
+#### [4x4x4 Blindfolded](444bf.md)
+
+<span style="white-space: nowrap;">🏆 [Peter Andersson](../../persons/peter_andersson/444bf.md) 9:09.76</span>
+
+<span style="white-space: nowrap;">🥇 [Peter Andersson](../../persons/peter_andersson/444bf.md) 9:09.76</span>
 
 #### [3x3x3 Fewest Moves](333fm.md)
 

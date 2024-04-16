@@ -11,7 +11,8 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:37.94 | 2:54.32 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1075936833483182/permalink/1082799322796933) / [Mobile](https://m.facebook.com/events/1075936833483182?view=permalink&id=1082799322796933) |
-| 2 | [Dan Smith](../../persons/dan_smith/333bf.md) | 50+ | <i class="flag flag-US" /> | 5:58.62 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1075936833483182/permalink/1081962482880617) / [Mobile](https://m.facebook.com/events/1075936833483182?view=permalink&id=1081962482880617) |
+| 2 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 60+ | <i class="flag flag-SE" /> | 2:39.83 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/1075936833483182/permalink/1078457586564440) / [Mobile](https://m.facebook.com/events/1075936833483182?view=permalink&id=1078457586564440) |
+| 3 | [Dan Smith](../../persons/dan_smith/333bf.md) | 50+ | <i class="flag flag-US" /> | 5:58.62 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/1075936833483182/permalink/1081962482880617) / [Mobile](https://m.facebook.com/events/1075936833483182?view=permalink&id=1081962482880617) |
 
 #### [2024-03-18](../../results/2024-03-18/333bf.md)
 
