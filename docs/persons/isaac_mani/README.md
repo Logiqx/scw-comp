@@ -4,11 +4,13 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Isaac Mani
 
+<i class="flag flag-MX" />&nbsp;Mexico
+
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
-| [3x3x3](333.md) | 14.06 | 14.88 | 🏆 x 1 | 🔥 x 1, ⚡ x 1 |
+| [3x3x3](333.md) | 9.80 | 12.79 | 🏆 x 2 | 🔥 x 2, ⚡ x 2 |
 | [2x2x2](222.md) | 4.72 | 6.00 | 🏆 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Pyraminx](pyram.md) | 15.27 | 16.39 |  | 🔥 x 1, ⚡ x 1 |
 | [Skewb](skewb.md) | 25.50 | 31.67 |  | 🔥 x 1, ⚡ x 1 |

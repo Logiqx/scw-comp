@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-04-15](../../results/2024-04-15/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | <i class="flag flag-GB" /> | 5.82 | 6.80 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/288128664385253/permalink/302872852910834) / [Mobile](https://m.facebook.com/events/288128664385253?view=permalink&id=302872852910834) |
+| 2 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | <i class="flag flag-US" /> | 6.39 | 8.51 | 🥈 | [Desktop](https://www.facebook.com/766997877/videos/839433834893068) / [Mobile](https://m.facebook.com/766997877/videos/839433834893068) |
+| 3 | [JM Tambaoan](../../persons/jm_tambaoan/222.md) | 40+ | <i class="flag flag-PH" /> | 7.23 | 8.90 | 🥉 | [Desktop](https://www.facebook.com/events/288128664385253/permalink/303919482806171) / [Mobile](https://m.facebook.com/events/288128664385253?view=permalink&id=303919482806171) |
+
 #### [2024-04-01](../../results/2024-04-01/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

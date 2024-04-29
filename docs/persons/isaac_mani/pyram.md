@@ -4,6 +4,8 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Isaac Mani](README.md)
 
+<i class="flag flag-MX" />&nbsp;Mexico
+
 #### Pyraminx Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

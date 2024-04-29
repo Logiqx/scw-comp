@@ -8,10 +8,11 @@
 
 #### Megaminx Results
 
-<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-04-15](../../results/2024-04-15/minx.md) | 60+ | **2:58.97** | **3:08.42** | 💥 🔥 ⚡ | 3:10.04 | **2:58.97** | 3:16.26 | DNS | DNS | [Desktop](https://www.facebook.com/events/288128664385253/permalink/303862606145192) / [Mobile](https://m.facebook.com/events/288128664385253?view=permalink&id=303862606145192) |
 | [2024-04-01](../../results/2024-04-01/minx.md) | 50+ | 3:08.38 | 3:19.81 |  | 3:08.38 | 3:30.80 | 3:20.26 | DNS | DNS | [Desktop](https://www.facebook.com/events/399816879472850/permalink/408041371983734) / [Mobile](https://m.facebook.com/events/399816879472850?view=permalink&id=408041371983734) |
 | [2024-03-18](../../results/2024-03-18/minx.md) | 50+ | **2:42.53** | **3:02.69** | 🥉 🔥 ⚡ | 3:21.73 | 3:03.80 | **2:42.53** | DNS | DNS | [Desktop](https://www.facebook.com/events/962609138892132/permalink/969182901568089) / [Mobile](https://m.facebook.com/events/962609138892132?view=permalink&id=969182901568089) |
 | [2024-03-04](../../results/2024-03-04/minx.md) | 50+ | 3:29.34 | **3:45.71** | 🔥 | 4:14.76 | 3:29.34 | 3:33.03 | DNS | DNS | [Desktop](https://www.facebook.com/events/682023687232856/permalink/687360803365811) / [Mobile](https://m.facebook.com/events/682023687232856?view=permalink&id=687360803365811) |

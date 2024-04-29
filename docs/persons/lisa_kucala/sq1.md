@@ -8,10 +8,11 @@
 
 #### Square-1 Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-04-15](../../results/2024-04-15/sq1.md) | 60+ | **30.13** | **43.55** | 🥉 💥 🔥 ⚡ | 43.05 | 1:01.96 | **30.13** | 46.57 | 41.04 | [Desktop](https://www.facebook.com/events/752364543677924/permalink/760408129540232) / [Mobile](https://m.facebook.com/events/752364543677924?view=permalink&id=760408129540232) |
 | [2024-04-01](../../results/2024-04-01/sq1.md) | 50+ | 38.67 | 48.67 | 🥉 | 53.67 | 38.67 | 45.17 | 57.24 | 47.18 | [Desktop](https://www.facebook.com/events/405769728858313/permalink/414218674680085) / [Mobile](https://m.facebook.com/events/405769728858313?view=permalink&id=414218674680085) |
 | [2024-03-18](../../results/2024-03-18/sq1.md) | 50+ | 49.23 | 55.08 | 🥉 | 1:02.82 | 52.98 | 52.53 | 49.23 | 59.73 | [Desktop](https://www.facebook.com/events/424084876660275/permalink/431941549207941) / [Mobile](https://m.facebook.com/events/424084876660275?view=permalink&id=431941549207941) |
 | [2024-03-04](../../results/2024-03-04/sq1.md) | 50+ | 30.51 | 47.15 | 🥉 | 33.23 | 1:04.10 | 1:04.93 | 30.51 | 44.11 | [Desktop](https://www.facebook.com/events/424128753424901/permalink/430180592819717) / [Mobile](https://m.facebook.com/events/424128753424901?view=permalink&id=430180592819717) |
