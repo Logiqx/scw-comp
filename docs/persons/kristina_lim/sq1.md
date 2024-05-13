@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-04-29](../../results/2024-04-29/sq1.md) | 50+ | 39.04 | 57.18 |  | 39.04 | 1:07.99 | 1:10.30 | 43.31 | 1:00.24 | [Desktop](https://www.facebook.com/1045330593/videos/794047935696933) / [Mobile](https://m.facebook.com/1045330593/videos/794047935696933) |
 | [2024-02-19](../../results/2024-02-19/sq1.md) | 50+ | 34.28 | **42.67** | 🥉 🔥 | 44.24 | 1:13.21 | 45.96 | 34.28 | 37.81 | [Desktop](https://www.facebook.com/1045330593/videos/363945936547727) / [Mobile](https://m.facebook.com/1045330593/videos/363945936547727) |
 | [2024-01-22](../../results/2024-01-22/sq1.md) | 50+ | 34.90 | 53.17 |  | 53.60 | 1:14.99 | 53.43 | 34.90 | 52.47 | [Desktop](https://www.facebook.com/1045330593/videos/3688999188086874) / [Mobile](https://m.facebook.com/1045330593/videos/3688999188086874) |
 | [2024-01-08](../../results/2024-01-08/sq1.md) | 50+ | **33.84** | 56.24 | ⚡ | **33.84** | 1:39.98 | 1:05.13 | 47.76 | 55.84 | [Desktop](https://www.facebook.com/1045330593/videos/1603612097078168) / [Mobile](https://m.facebook.com/1045330593/videos/1603612097078168) |
