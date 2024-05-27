@@ -25,7 +25,7 @@
 | [Jae Park](../../persons/jae_park/555.md) | 50+ | <i class="flag flag-US" /> | 4:09.44 | 4:32.93 |  | 🥉 x 4 | 🔥 x 3, ⚡ x 7 |
 | [Kerry Go](../../persons/kerry_go/555.md) | 50+ | <i class="flag flag-US" /> | 3:02.77 | 3:36.28 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Lisa Kucala](../../persons/lisa_kucala/555.md) | 60+ | <i class="flag flag-US" /> | 4:21.60 | DNF |  |  | ⚡ x 3 |
-| [Mickey Doyle](../../persons/mickey_doyle/555.md) | 50+ | <i class="flag flag-US" /> | 2:23.29 | 2:44.70 |  | 🥈 x 4, 🥉 x 13 | 🔥 x 14, ⚡ x 13 |
+| [Mickey Doyle](../../persons/mickey_doyle/555.md) | 50+ | <i class="flag flag-US" /> | 2:23.29 | 2:43.81 |  | 🥈 x 4, 🥉 x 14 | 🔥 x 15, ⚡ x 13 |
 | [Peter Andersson](../../persons/peter_andersson/555.md) | 60+ | <i class="flag flag-SE" /> | 4:15.39 | 4:47.75 |  |  | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | <i class="flag flag-CA" /> | 5:50.00 | DNF |  |  | ⚡ x 1 |
 
@@ -39,7 +39,7 @@
 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | <i class="flag flag-GB" /> | 1:32.37 | 1:39.45 | 🏆 x 1 | 🥇 x 2, 🥈 x 7, 🥉 x 1 | 💥 x 7, 🔥 x 3, ⚡ x 7 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | <i class="flag flag-IT" /> | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 21, 🥉 x 32 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
-| [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:20.81 | 1:30.70 | 🏆 x 41 | 🥇 x 43, 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 9, ⚡ x 6 |
+| [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:20.81 | 1:30.70 | 🏆 x 42 | 🥇 x 44, 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 9, ⚡ x 6 |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | <i class="flag flag-US" /> | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | 40+ | <i class="flag flag-VE" /> | 1:47.83 | 1:57.66 | 🏆 x 21 | 🥈 x 1 | 🔥 x 9, ⚡ x 9 |
 | [Eric Dodson](../../persons/eric_dodson/555.md) | 40+ | <i class="flag flag-US" /> | 3:28.26 | 3:42.50 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 1 |
@@ -59,8 +59,8 @@
 | [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | <i class="flag flag-FI" /> | 1:28.38 | 1:45.92 | 🏆 x 5 | 🥇 x 7, 🥈 x 9 | 🔥 x 6, ⚡ x 4 |
 | [Lisa Kucala](../../persons/lisa_kucala/555.md) | 60+ | <i class="flag flag-US" /> | 4:21.60 | DNF |  |  | ⚡ x 3 |
 | [Michael George](../../persons/michael_george/555.md) | 40+ | <i class="flag flag-GB" /> | 1:43.65 | 2:00.85 | 🏆 x 1 | 🥇 x 2, 🥈 x 4, 🥉 x 9 | 🔥 x 5, ⚡ x 5 |
-| [Mickey Doyle](../../persons/mickey_doyle/555.md) | 50+ | <i class="flag flag-US" /> | 2:23.29 | 2:44.70 |  | 🥈 x 4, 🥉 x 13 | 🔥 x 14, ⚡ x 13 |
-| [Pete Lee](../../persons/pete_lee/555.md) | 40+ | <i class="flag flag-GB" /> | 1:39.54 | 1:48.42 | 🏆 x 12 | 🥉 x 3 | 🔥 x 19, ⚡ x 13 |
+| [Mickey Doyle](../../persons/mickey_doyle/555.md) | 50+ | <i class="flag flag-US" /> | 2:23.29 | 2:43.81 |  | 🥈 x 4, 🥉 x 14 | 🔥 x 15, ⚡ x 13 |
+| [Pete Lee](../../persons/pete_lee/555.md) | 40+ | <i class="flag flag-GB" /> | 1:39.54 | 1:48.42 | 🏆 x 12 | 🥈 x 1, 🥉 x 3 | 🔥 x 19, ⚡ x 13 |
 | [Peter Andersson](../../persons/peter_andersson/555.md) | 60+ | <i class="flag flag-SE" /> | 4:15.39 | 4:47.75 |  |  | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | <i class="flag flag-CA" /> | 5:50.00 | DNF |  |  | ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/555.md) | 40+ | <i class="flag flag-ES" /> | 2:17.13 | 2:27.99 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -79,7 +79,7 @@
 | [Ed Connell](../../persons/ed_connell/555.md) | <40 | <i class="flag flag-IE" /> | 2:03.47 | 2:17.21 |  |  | 🔥 x 5, ⚡ x 6 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | 40+ | <i class="flag flag-VE" /> | 1:33.32 | 1:43.89 | 🏆 x 21 | 🥈 x 1 | 🔥 x 9, ⚡ x 9 |
 | [Go-ho Choi](../../persons/go_ho_choi/555.md) | 40+ | <i class="flag flag-KR" /> | 1:16.98 | 1:30.42 | 🏆 x 6 | 🥇 x 1 | 💥 x 3, 🔥 x 2, ⚡ x 4 |
-| [Pete Lee](../../persons/pete_lee/555.md) | 40+ | <i class="flag flag-GB" /> | 1:39.52 | 1:49.65 | 🏆 x 12 | 🥉 x 3 | 🔥 x 19, ⚡ x 13 |
+| [Pete Lee](../../persons/pete_lee/555.md) | 40+ | <i class="flag flag-GB" /> | 1:39.52 | 1:49.65 | 🏆 x 12 | 🥈 x 1, 🥉 x 3 | 🔥 x 19, ⚡ x 13 |
 | [Peter Osudar](../../persons/peter_osudar/555.md) | <40 | <i class="flag flag-CA" /> | 2:35.63 | 2:41.55 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Shawn Boucké](../../persons/shawn_boucke/555.md) | <40 | <i class="flag flag-US" /> | 2:05.29 | 2:20.52 |  |  | 🔥 x 1, ⚡ x 1 |
 

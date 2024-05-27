@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-05-13](../../results/2024-05-13/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 13.48 | 14.60 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/800074235387553/permalink/804737484921228) / [Mobile](https://m.facebook.com/events/800074235387553?view=permalink&id=804737484921228) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 50+ | <i class="flag flag-AU" /> | 15.54 | 17.04 | 🥈 | [Desktop](https://www.facebook.com/events/800074235387553/permalink/808157544579222) / [Mobile](https://m.facebook.com/events/800074235387553?view=permalink&id=808157544579222) |
+| 3 | [Pete Lee](../../persons/pete_lee/333.md) | 40+ | <i class="flag flag-GB" /> | 17.64 | 20.76 | 🥉 | [Desktop](https://www.facebook.com/events/800074235387553/permalink/808317697896540) / [Mobile](https://m.facebook.com/events/800074235387553?view=permalink&id=808317697896540) |
+
 #### [2024-04-29](../../results/2024-04-29/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

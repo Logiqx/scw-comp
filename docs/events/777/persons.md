@@ -30,7 +30,7 @@
 | [Andy Nicholls](../../persons/andy_nicholls/777.md) | 40+ | <i class="flag flag-GB" /> | 4:58.23 | 5:24.33 | 🏆 x 12 | 🥇 x 12, 🥈 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/777.md) | 50+ | <i class="flag flag-GB" /> | 4:38.21 | 4:49.99 |  | 🥈 x 4, 🥉 x 2 | 💥 x 6, 🔥 x 5, ⚡ x 4 |
 | [Dan Smith](../../persons/dan_smith/777.md) | 50+ | <i class="flag flag-US" /> | 9:50.21 | DNF |  | 🥈 x 1 | ⚡ x 1 |
-| [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 3:58.58 | 4:15.89 | 🏆 x 36 | 🥇 x 38, 🥈 x 2 | 💥 x 1, 🔥 x 14, ⚡ x 10 |
+| [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 3:58.58 | 4:15.89 | 🏆 x 37 | 🥇 x 39, 🥈 x 2 | 💥 x 1, 🔥 x 14, ⚡ x 10 |
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | <i class="flag flag-US" /> | 15:59.23 | DNF |  | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/777.md) | 40+ | <i class="flag flag-JP" /> | 3:58.92 | 4:11.37 | 🏆 x 25 | 🥇 x 25 | 💥 x 6, 🔥 x 3, ⚡ x 5 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/777.md) | 40+ | <i class="flag flag-GB" /> | 4:49.30 | 5:07.54 | 🏆 x 18 | 🥇 x 20, 🥈 x 28 | 🔥 x 8, ⚡ x 7 |
@@ -41,7 +41,7 @@
 | [Kerry Go](../../persons/kerry_go/777.md) | 50+ | <i class="flag flag-US" /> | 9:06.58 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Konsta Jukka](../../persons/konsta_jukka/777.md) | 40+ | <i class="flag flag-FI" /> | 4:44.78 | 5:09.11 | 🏆 x 3 | 🥇 x 3, 🥈 x 6, 🥉 x 1 | 🔥 x 4, ⚡ x 5 |
 | [Mickey Doyle](../../persons/mickey_doyle/777.md) | 50+ | <i class="flag flag-US" /> | 9:01.00 | DNF |  | 🥈 x 1 | ⚡ x 1 |
-| [Pete Lee](../../persons/pete_lee/777.md) | 40+ | <i class="flag flag-GB" /> | 4:56.80 | 5:13.03 | 🏆 x 15 | 🥉 x 1 | 🔥 x 13, ⚡ x 21 |
+| [Pete Lee](../../persons/pete_lee/777.md) | 40+ | <i class="flag flag-GB" /> | 4:56.80 | 5:13.03 | 🏆 x 15 | 🥈 x 1, 🥉 x 1 | 🔥 x 13, ⚡ x 21 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/777.md) | 40+ | <i class="flag flag-TW" /> | 6:26.88 | 6:39.18 |  | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 3 |
 
 #### Under 40
@@ -53,7 +53,7 @@
 | [Chris Thames](../../persons/chris_thames/777.md) | <40 | <i class="flag flag-US" /> | 14:00.59 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/777.md) | <40 | <i class="flag flag-IE" /> | 7:22.15 | DNF |  |  | ⚡ x 3 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/777.md) | <40 | <i class="flag flag-VE" /> | 5:09.66 | 5:23.30 | 🏆 x 2 |  | 🔥 x 7, ⚡ x 7 |
-| [Pete Lee](../../persons/pete_lee/777.md) | 40+ | <i class="flag flag-GB" /> | 5:04.61 | 5:31.60 | 🏆 x 15 | 🥉 x 1 | 🔥 x 13, ⚡ x 21 |
+| [Pete Lee](../../persons/pete_lee/777.md) | 40+ | <i class="flag flag-GB" /> | 5:04.61 | 5:31.60 | 🏆 x 15 | 🥈 x 1, 🥉 x 1 | 🔥 x 13, ⚡ x 21 |
 | [Peter Osudar](../../persons/peter_osudar/777.md) | <40 | <i class="flag flag-CA" /> | 6:13.99 | 6:36.78 |  |  | 🔥 x 1, ⚡ x 1 |
 
 #### Under 30

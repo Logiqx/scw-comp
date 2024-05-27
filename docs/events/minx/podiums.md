@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-05-13](../../results/2024-05-13/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:53.80 | 2:08.60 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/800074235387553/permalink/808315394563437) / [Mobile](https://m.facebook.com/events/800074235387553?view=permalink&id=808315394563437) |
+
 #### [2024-04-29](../../results/2024-04-29/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
