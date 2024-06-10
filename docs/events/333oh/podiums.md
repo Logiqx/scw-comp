@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-05-27](../../results/2024-05-27/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 35.40 | 1:07.24 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/838099921518555/permalink/845704680758079) / [Mobile](https://m.facebook.com/events/838099921518555?view=permalink&id=845704680758079) |
+| 2 | [Kristina Lim](../../persons/kristina_lim/333oh.md) | 50+ | <i class="flag flag-US" /> | 55.39 | 1:13.48 | 🥈 | [Desktop](https://www.facebook.com/1045330593/videos/1185149402684071) / [Mobile](https://m.facebook.com/1045330593/videos/1185149402684071) |
+
 #### [2024-05-13](../../results/2024-05-13/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

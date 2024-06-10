@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-05-27](../../results/2024-05-27/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 13.47 | 20.24 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/421561340652176/permalink/427309356744041) / [Mobile](https://m.facebook.com/events/421561340652176?view=permalink&id=427309356744041) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 24.45 | 40.83 | 🥈 | [Desktop](https://www.facebook.com/events/421561340652176/permalink/429423599865950) / [Mobile](https://m.facebook.com/events/421561340652176?view=permalink&id=429423599865950) |
+| 3 | [Kristina Lim](../../persons/kristina_lim/sq1.md) | 50+ | <i class="flag flag-US" /> | 46.92 | 55.64 | 🥉 | [Desktop](https://www.facebook.com/1045330593/videos/653543113633383) / [Mobile](https://m.facebook.com/1045330593/videos/653543113633383) |
+
 #### [2024-05-13](../../results/2024-05-13/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

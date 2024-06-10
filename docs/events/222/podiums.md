@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-05-27](../../results/2024-05-27/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Glyn Brown](../../persons/glyn_brown/222.md) | 40+ | <i class="flag flag-GB" /> | 3.71 | 6.54 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/838099921518555/permalink/845938580734689) / [Mobile](https://m.facebook.com/events/838099921518555?view=permalink&id=845938580734689) |
+| 2 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 6.76 | 7.50 | 🥈 | [Desktop](https://www.facebook.com/events/838099921518555/permalink/843653377629876) / [Mobile](https://m.facebook.com/events/838099921518555?view=permalink&id=843653377629876) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/222.md) | 50+ | <i class="flag flag-US" /> | 4.73 | 8.39 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/838099921518555/permalink/845704414091439) / [Mobile](https://m.facebook.com/events/838099921518555?view=permalink&id=845704414091439) |
+
 #### [2024-05-13](../../results/2024-05-13/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

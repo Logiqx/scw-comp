@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-05-27](../../results/2024-05-27/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/333mbf.md) | 50+ | <i class="flag flag-US" /> | 2/2 in 17:59 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/475143954967359/permalink/480763294405425) / [Mobile](https://m.facebook.com/events/475143954967359?view=permalink&id=480763294405425) |
+| 2 | [Yuichi Hamada](../../persons/yuichi_hamada/333mbf.md) | 50+ | <i class="flag flag-JP" /> | 6/11 in 52:53 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/475143954967359/permalink/478766847938403) / [Mobile](https://m.facebook.com/events/475143954967359?view=permalink&id=478766847938403) |
+
 #### [2024-05-13](../../results/2024-05-13/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |

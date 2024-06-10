@@ -48,7 +48,7 @@
 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:13.30 | 1:25.08 | 🏆 x 21 | 🥇 x 28, 🥈 x 8 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
 | [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:42.53 | 3:02.69 | 🏆 x 1 | 🥇 x 1, 🥈 x 6, 🥉 x 3 | 💥 x 1, 🔥 x 4, ⚡ x 6 |
 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:59.79 | 2:22.26 | 🏆 x 21 | 🥇 x 29, 🥈 x 8, 🥉 x 2 | 🔥 x 11, ⚡ x 18 |
-| [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:48.27 | 2:02.71 | 🏆 x 3 | 🥇 x 3, 🥈 x 4 | 🔥 x 4, ⚡ x 3 |
+| [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:48.27 | 1:56.99 | 🏆 x 4 | 🥇 x 4, 🥈 x 4 | 🔥 x 5, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 1:46.89 | 1:52.53 | 🏆 x 3 | 🥇 x 6, 🥈 x 4, 🥉 x 4 | 🔥 x 6, ⚡ x 12 |
 
