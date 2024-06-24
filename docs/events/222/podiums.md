@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-06-10](../../results/2024-06-10/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 2.22 | 6.08 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1031082051776253/permalink/1039272454290546) / [Mobile](https://m.facebook.com/events/1031082051776253?view=permalink&id=1039272454290546) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 6.98 | 8.51 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1031082051776253/permalink/1039487110935747) / [Mobile](https://m.facebook.com/events/1031082051776253?view=permalink&id=1039487110935747) |
+| 3 | [Kristina Lim](../../persons/kristina_lim/222.md) | 50+ | <i class="flag flag-US" /> | 2.50 | 8.62 | 🥉 ⚡ | [Desktop](https://www.facebook.com/1045330593/videos/1164924231321984) / [Mobile](https://m.facebook.com/1045330593/videos/1164924231321984) |
+
 #### [2024-05-27](../../results/2024-05-27/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

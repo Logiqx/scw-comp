@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-06-10](../../results/2024-06-10/clock.md) | 60+ | **10.93** | **11.83** | 🥉 🔥 ⚡ | 11.53 | **10.93** | 12.95 | 11.20 | 12.75 | [Desktop](https://www.facebook.com/michael.amarello/videos/745926824143762) / [Mobile](https://m.facebook.com/michael.amarello/videos/745926824143762) |
 | [2024-01-08](../../results/2024-01-08/clock.md) | 60+ | 12.71 | 13.55 | 🥉 | 13.54 | 12.71 | 14.22 | 13.32 | 13.79 | |
 | [2023-06-12](../../results/2023-06-12/clock.md) | 60+ | 12.24 | 13.32 | 🥈 | 12.24 | 15.46 | 14.68 | 13.00 | 12.27 | [Desktop](https://www.facebook.com/michael.amarello/videos/1016644532656979) / [Mobile](https://m.facebook.com/michael.amarello/videos/1016644532656979) |
 | [2023-05-29](../../results/2023-05-29/clock.md) | 60+ | 11.69 | **12.63** | 🥈 💥 🔥 | 12.57 | 11.69 | 13.60 | 11.71 | 14.93 | [Desktop](https://www.facebook.com/events/3552780501633678/permalink/3556029874642074) / [Mobile](https://m.facebook.com/events/3552780501633678?view=permalink&id=3556029874642074) |

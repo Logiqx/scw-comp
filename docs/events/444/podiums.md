@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-06-10](../../results/2024-06-10/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/444.md) | 40+ | <i class="flag flag-GB" /> | 57.98 | 1:03.49 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/804039971828225/permalink/807233281508894) / [Mobile](https://m.facebook.com/events/804039971828225?view=permalink&id=807233281508894) |
+| 2 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 57.29 | 1:03.72 | 🥈 | [Desktop](https://www.facebook.com/events/804039971828225/permalink/811820414383514) / [Mobile](https://m.facebook.com/events/804039971828225?view=permalink&id=811820414383514) |
+| 3 | [Andy Nicholls](../../persons/andy_nicholls/444.md) | 40+ | <i class="flag flag-GB" /> | 1:00.54 | 1:05.60 | 🥉 | [Desktop](https://www.facebook.com/events/804039971828225/permalink/804487525116803) / [Mobile](https://m.facebook.com/events/804039971828225?view=permalink&id=804487525116803) |
+
 #### [2024-05-27](../../results/2024-05-27/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

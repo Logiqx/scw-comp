@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-06-10](../../results/2024-06-10/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 38 | DNF | 🥇 | [Desktop](https://www.facebook.com/events/1490716228238504/permalink/1493828521260608) / [Mobile](https://m.facebook.com/events/1490716228238504?view=permalink&id=1493828521260608) |
+
 #### [2024-05-27](../../results/2024-05-27/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

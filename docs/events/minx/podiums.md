@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-06-10](../../results/2024-06-10/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:40.94 | 2:09.65 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1031082051776253/permalink/1034380734779718) / [Mobile](https://m.facebook.com/events/1031082051776253?view=permalink&id=1034380734779718) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 2:24.02 | 2:35.98 | 🥈 | [Desktop](https://www.facebook.com/events/1031082051776253/permalink/1038235304394261) / [Mobile](https://m.facebook.com/events/1031082051776253?view=permalink&id=1038235304394261) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 3:06.40 | 3:28.13 | 🥉 | [Desktop](https://www.facebook.com/events/1031082051776253/permalink/1039559207595204) / [Mobile](https://m.facebook.com/events/1031082051776253?view=permalink&id=1039559207595204) |
+
 #### [2024-05-27](../../results/2024-05-27/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

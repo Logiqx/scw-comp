@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-06-10](../../results/2024-06-10/444bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 60+ | <i class="flag flag-SE" /> | 10:07.97 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3671827413056432/permalink/3674324662806707) / [Mobile](https://m.facebook.com/events/3671827413056432?view=permalink&id=3674324662806707) |
+| 2 | [Andy Nicholls](../../persons/andy_nicholls/444bf.md) | 40+ | <i class="flag flag-GB" /> | 16:46.77 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/3671827413056432/permalink/3672488632990310) / [Mobile](https://m.facebook.com/events/3671827413056432?view=permalink&id=3672488632990310) |
+
 #### [2024-05-13](../../results/2024-05-13/444bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

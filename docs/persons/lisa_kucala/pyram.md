@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-06-10](../../results/2024-06-10/pyram.md) | 60+ | 9.95 | 10.40 | 🏆 🥇 | 9.95 | 10.64 | 11.11 | 10.28 | 10.27 | [Desktop](https://www.facebook.com/events/814120963986407/permalink/822406769824493) / [Mobile](https://m.facebook.com/events/814120963986407?view=permalink&id=822406769824493) |
 | [2024-04-29](../../results/2024-04-29/pyram.md) | 60+ | 9.46 | **9.97** | 🥈 🔥 | 9.46 | 9.60 | 10.28 | 10.04 | 10.63 | [Desktop](https://www.facebook.com/events/1658891934647799/permalink/1667550517115274) / [Mobile](https://m.facebook.com/events/1658891934647799?view=permalink&id=1667550517115274) |
 | [2024-04-15](../../results/2024-04-15/pyram.md) | 60+ | **9.08** | **10.64** | 🥈 🔥 ⚡ | 10.64 | 10.40 | 11.21 | **9.08** | 10.88 | [Desktop](https://www.facebook.com/events/752364543677924/permalink/759081686339543) / [Mobile](https://m.facebook.com/events/752364543677924?view=permalink&id=759081686339543) |
 | [2024-04-01](../../results/2024-04-01/pyram.md) | 50+ | 10.52 | 12.03 | 🥈 | 11.46 | 18.13 | 12.09 | 10.52 | 12.53 | [Desktop](https://www.facebook.com/events/405769728858313/permalink/414122091356410) / [Mobile](https://m.facebook.com/events/405769728858313?view=permalink&id=414122091356410) |

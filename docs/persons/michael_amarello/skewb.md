@@ -10,10 +10,11 @@
 
 #### Skewb Results
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-06-10](../../results/2024-06-10/skewb.md) | 60+ | 32.65 | **38.52** | 🥉 🔥 | 34.17 | 57.66 | 35.67 | 45.72 | 32.65 | [Desktop](https://www.facebook.com/events/814120963986407/permalink/816861173712386) / [Mobile](https://m.facebook.com/events/814120963986407?view=permalink&id=816861173712386) |
 | [2024-01-08](../../results/2024-01-08/skewb.md) | 60+ | **26.86** | **39.92** | 🔥 ⚡ | 44.08 | 38.83 | **26.86** | 1:02.91 | 36.86 | |
 
 

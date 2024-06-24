@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-06-10](../../results/2024-06-10/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 8.31 | 10.84 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/814120963986407/permalink/822403803158123) / [Mobile](https://m.facebook.com/events/814120963986407?view=permalink&id=822403803158123) |
+| 2 | [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 11.70 | 16.67 | 🥈 | [Desktop](https://www.facebook.com/events/814120963986407/permalink/821715146560322) / [Mobile](https://m.facebook.com/events/814120963986407?view=permalink&id=821715146560322) |
+| 3 | [Michael Amarello](../../persons/michael_amarello/skewb.md) | 60+ | <i class="flag flag-US" /> | 32.65 | 38.52 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/814120963986407/permalink/816861173712386) / [Mobile](https://m.facebook.com/events/814120963986407?view=permalink&id=816861173712386) |
+
 #### [2024-05-27](../../results/2024-05-27/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
