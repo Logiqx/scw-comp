@@ -10,10 +10,11 @@
 
 #### Pyraminx Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-06-24](../../results/2024-06-24/pyram.md) | 40+ | **7.25** | **9.97** | 🏆 🥇 🔥 ⚡ | 11.86 | 8.74 | 13.16 | 9.31 | **7.25** | [Desktop](https://www.facebook.com/766997877/videos/1193525458559507) / [Mobile](https://m.facebook.com/766997877/videos/1193525458559507) |
 | [2024-04-15](../../results/2024-04-15/pyram.md) | 40+ | 10.05 | 13.29 | 🥉 | 14.18 | 13.36 | 14.67 | 12.33 | 10.05 | [Desktop](https://www.facebook.com/766997877/videos/972527294537318) / [Mobile](https://m.facebook.com/766997877/videos/972527294537318) |
 | [2024-02-19](../../results/2024-02-19/pyram.md) | 40+ | 8.31 | 14.48 |  | 18.93 | 10.43 | 17.74 | 8.31 | 15.26 | [Desktop](https://www.facebook.com/766997877/videos/1379467159429472) / [Mobile](https://m.facebook.com/766997877/videos/1379467159429472) |
 | [2024-02-05](../../results/2024-02-05/pyram.md) | 40+ | 9.82 | 13.59 | 🥉 | 9.82 | 14.31 | 15.94 | 13.48 | 12.97 | [Desktop](https://www.facebook.com/766997877/videos/316151854782615) / [Mobile](https://m.facebook.com/766997877/videos/316151854782615) |
