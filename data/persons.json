@@ -522,6 +522,12 @@
     "country": "Germany",
     "id": 70
   },
+  "Marco Cavadini": {
+    "age": "50+",
+    "country": "???",
+    "id": 134,
+    "wcaId": "2024CAVA03"
+  },
   "Marius Rombout Ferreira van Riemsdijk": {
     "age": "40+",
     "avatar": "1532703737.jpeg",
@@ -588,6 +594,12 @@
     "country": "United Kingdom",
     "id": 4,
     "wcaId": "2015GEOR02"
+  },
+  "Michael Lee": {
+    "age": "40+",
+    "country": "???",
+    "id": 135,
+    "wcaId": "2023LEEM05"
   },
   "Michael Policastro": {
     "age": "40+",

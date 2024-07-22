@@ -50,7 +50,7 @@
 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:59.79 | 2:22.26 | 🏆 x 21 | 🥇 x 29, 🥈 x 9, 🥉 x 2 | 🔥 x 11, ⚡ x 18 |
 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:40.94 | 1:56.42 | 🏆 x 6 | 🥇 x 6, 🥈 x 4 | 🔥 x 6, ⚡ x 4 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
-| [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 1:46.89 | 1:52.53 | 🏆 x 3 | 🥇 x 6, 🥈 x 4, 🥉 x 4 | 🔥 x 6, ⚡ x 12 |
+| [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 1:34.01 | 1:41.81 | 🏆 x 4 | 🥇 x 7, 🥈 x 4, 🥉 x 4 | 🔥 x 7, ⚡ x 13 |
 
 #### Under 40
 

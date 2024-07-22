@@ -13,11 +13,11 @@
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](333.md) | 31.44 | 42.35 |  |  | 🔥 x 11, ⚡ x 9 |
-| [2x2x2](222.md) | 2.14 | 9.00 |  |  | 💥 x 1, 🔥 x 7, ⚡ x 9 |
+| [2x2x2](222.md) | 2.14 | 8.23 |  | 🥉 x 1 | 💥 x 1, 🔥 x 8, ⚡ x 9 |
 | [4x4x4](444.md) | 3:53.57 | - |  |  | ⚡ x 1 |
-| [Pyraminx](pyram.md) | 6.61 | 11.21 |  | 🥈 x 2, 🥉 x 8 | 💥 x 1, 🔥 x 13, ⚡ x 8 |
-| [Skewb](skewb.md) | 9.02 | 14.24 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 15 | 💥 x 5, 🔥 x 4, ⚡ x 5 |
-| [Clock](clock.md) | 16.55 | 19.15 |  | 🥈 x 2, 🥉 x 6 | 🔥 x 14, ⚡ x 13 |
+| [Pyraminx](pyram.md) | 6.61 | 11.21 |  | 🥈 x 2, 🥉 x 9 | 💥 x 1, 🔥 x 13, ⚡ x 8 |
+| [Skewb](skewb.md) | 9.02 | 14.24 | 🏆 x 1 | 🥇 x 1, 🥈 x 4, 🥉 x 15 | 💥 x 5, 🔥 x 4, ⚡ x 5 |
+| [Clock](clock.md) | 16.55 | 19.15 |  | 🥈 x 2, 🥉 x 7 | 🔥 x 14, ⚡ x 13 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

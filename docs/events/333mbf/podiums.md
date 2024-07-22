@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-07-08](../../results/2024-07-08/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Michael Lee](../../persons/michael_lee/333mbf.md) | 40+ | | 3/4 in 25:57 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1446099522937900/permalink/1452644248950094) / [Mobile](https://m.facebook.com/events/1446099522937900?view=permalink&id=1452644248950094) |
+
 #### [2024-05-27](../../results/2024-05-27/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |

@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-07-08](../../results/2024-07-08/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 1:34.01 | 1:41.81 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/821748909640871/permalink/827723439043418) / [Mobile](https://m.facebook.com/events/821748909640871?view=permalink&id=827723439043418) |
+
 #### [2024-06-24](../../results/2024-06-24/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

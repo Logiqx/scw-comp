@@ -22,7 +22,7 @@
 | [David Roche](../../persons/david_roche/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 26.00 | 🏆 x 16 | 🥇 x 20, 🥈 x 5, 🥉 x 4 | 💥 x 8, 🔥 x 5, ⚡ x 4 |
 | [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | <i class="flag flag-US" /> | 40 | DNF |  | 🥈 x 3, 🥉 x 5 | 💥 x 3, ⚡ x 3 |
 | [John Cook](../../persons/john_cook/333fm.md) | 60+ | <i class="flag flag-AU" /> | 37 | DNF |  | 🥈 x 1, 🥉 x 2 | 💥 x 1, ⚡ x 4 |
-| [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 32 | 40.67 |  | 🥈 x 3, 🥉 x 7 | 🔥 x 1, ⚡ x 2 |
+| [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 32 | 40.67 |  | 🥈 x 4, 🥉 x 7 | 🔥 x 1, ⚡ x 2 |
 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 50+ | <i class="flag flag-US" /> | 65 | 75.33 | 🏆 x 2 | 🥇 x 2 | 🔥 x 1, ⚡ x 2 |
 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | <i class="flag flag-GB" /> | 32 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 3 | ⚡ x 3 |
 | [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 29 | 37.00 | 🏆 x 2 | 🥇 x 3, 🥈 x 9, 🥉 x 3 | 🔥 x 6, ⚡ x 3 |
@@ -42,9 +42,9 @@
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) | 40+ | <i class="flag flag-PL" /> | 24 | 25.33 | 🏆 x 17 | 🥇 x 23, 🥈 x 10, 🥉 x 2 | 💥 x 5, 🔥 x 4, ⚡ x 10 |
 | [Joey Day](../../persons/joey_day/333fm.md) | 40+ | <i class="flag flag-US" /> | 62 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [John Cook](../../persons/john_cook/333fm.md) | 60+ | <i class="flag flag-AU" /> | 37 | DNF |  | 🥈 x 1, 🥉 x 2 | 💥 x 1, ⚡ x 4 |
-| [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 32 | 40.67 |  | 🥈 x 3, 🥉 x 7 | 🔥 x 1, ⚡ x 2 |
+| [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 32 | 40.67 |  | 🥈 x 4, 🥉 x 7 | 🔥 x 1, ⚡ x 2 |
 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 50+ | <i class="flag flag-US" /> | 65 | 75.33 | 🏆 x 2 | 🥇 x 2 | 🔥 x 1, ⚡ x 2 |
-| [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | <i class="flag flag-BR" /> | 26 | 28.67 | 🏆 x 20 | 🥇 x 21, 🥈 x 8, 🥉 x 1 | 🔥 x 4, ⚡ x 5 |
+| [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | <i class="flag flag-BR" /> | 26 | 28.67 | 🏆 x 21 | 🥇 x 22, 🥈 x 8, 🥉 x 1 | 🔥 x 4, ⚡ x 5 |
 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | <i class="flag flag-GB" /> | 32 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 3 | ⚡ x 3 |
 | [Michael George](../../persons/michael_george/333fm.md) | 40+ | <i class="flag flag-GB" /> | 31 | DNF |  | 🥇 x 1, 🥈 x 4, 🥉 x 5 | ⚡ x 3 |
 | [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 29 | 37.00 | 🏆 x 2 | 🥇 x 3, 🥈 x 9, 🥉 x 3 | 🔥 x 6, ⚡ x 3 |
