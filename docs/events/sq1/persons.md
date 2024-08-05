@@ -10,7 +10,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 60+ | <i class="flag flag-US" /> | 30.13 | 42.57 |  | 🥉 x 29 | 💥 x 2, 🔥 x 5, ⚡ x 4 |
+| [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 60+ | <i class="flag flag-US" /> | 30.13 | 42.57 |  | 🥈 x 1, 🥉 x 29 | 💥 x 2, 🔥 x 5, ⚡ x 4 |
 | [Peter Douthwright](../../persons/peter_douthwright/sq1.md) | 60+ | <i class="flag flag-CA" /> | 1:14.33 | 1:36.66 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 #### Over 50
@@ -18,9 +18,9 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 13.47 | 18.71 | 🏆 x 111 | 🥇 x 116, 🥈 x 9 | 💥 x 15, 🔥 x 8, ⚡ x 9 |
-| [Kristina Lim](../../persons/kristina_lim/sq1.md) | 50+ | <i class="flag flag-US" /> | 33.84 | 38.71 |  | 🥉 x 5 | 🔥 x 4, ⚡ x 3 |
-| [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 60+ | <i class="flag flag-US" /> | 26.88 | 42.57 |  | 🥉 x 29 | 💥 x 2, 🔥 x 5, ⚡ x 4 |
-| [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 21.53 | 28.98 |  | 🥈 x 65, 🥉 x 4 | 🔥 x 16, ⚡ x 10 |
+| [Kristina Lim](../../persons/kristina_lim/sq1.md) | 50+ | <i class="flag flag-US" /> | 33.84 | 38.71 |  | 🥉 x 6 | 🔥 x 4, ⚡ x 3 |
+| [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 60+ | <i class="flag flag-US" /> | 26.88 | 42.57 |  | 🥈 x 1, 🥉 x 29 | 💥 x 2, 🔥 x 5, ⚡ x 4 |
+| [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 21.53 | 28.98 | 🏆 x 1 | 🥇 x 1, 🥈 x 65, 🥉 x 4 | 🔥 x 16, ⚡ x 10 |
 | [Peter Douthwright](../../persons/peter_douthwright/sq1.md) | 60+ | <i class="flag flag-CA" /> | 1:14.33 | 1:36.66 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 #### Over 40
@@ -36,9 +36,9 @@
 | [Gordon Holey](../../persons/gordon_holey/sq1.md) | 40+ | <i class="flag flag-US" /> | 37.51 | 55.56 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 4 |
 | [JM Tambaoan](../../persons/jm_tambaoan/sq1.md) | 40+ | <i class="flag flag-PH" /> | 43.57 | 59.43 |  | 🥈 x 8, 🥉 x 5 | 🔥 x 11, ⚡ x 7 |
 | [Konsta Jukka](../../persons/konsta_jukka/sq1.md) | 40+ | <i class="flag flag-FI" /> | 24.21 | 40.11 |  | 🥉 x 5 | 🔥 x 4, ⚡ x 3 |
-| [Kristina Lim](../../persons/kristina_lim/sq1.md) | 50+ | <i class="flag flag-US" /> | 33.84 | 38.71 |  | 🥉 x 5 | 🔥 x 4, ⚡ x 3 |
-| [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 60+ | <i class="flag flag-US" /> | 26.88 | 42.57 |  | 🥉 x 29 | 💥 x 2, 🔥 x 5, ⚡ x 4 |
-| [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 21.53 | 28.98 |  | 🥈 x 65, 🥉 x 4 | 🔥 x 16, ⚡ x 10 |
+| [Kristina Lim](../../persons/kristina_lim/sq1.md) | 50+ | <i class="flag flag-US" /> | 33.84 | 38.71 |  | 🥉 x 6 | 🔥 x 4, ⚡ x 3 |
+| [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 60+ | <i class="flag flag-US" /> | 26.88 | 42.57 |  | 🥈 x 1, 🥉 x 29 | 💥 x 2, 🔥 x 5, ⚡ x 4 |
+| [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 21.53 | 28.98 | 🏆 x 1 | 🥇 x 1, 🥈 x 65, 🥉 x 4 | 🔥 x 16, ⚡ x 10 |
 | [Peter Douthwright](../../persons/peter_douthwright/sq1.md) | 60+ | <i class="flag flag-CA" /> | 1:14.33 | 1:36.66 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Terence Brown](../../persons/terence_brown/sq1.md) | 40+ | <i class="flag flag-NZ" /> | 27.62 | 32.91 |  | 🥈 x 3 | 🔥 x 3, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | <i class="flag flag-IN" /> | 43.91 | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |

@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-07-22](../../results/2024-07-22/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 60+ | <i class="flag flag-SE" /> | 7/9 in 43:27 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/1178365719879226/permalink/1184562292592902) / [Mobile](https://m.facebook.com/events/1178365719879226?view=permalink&id=1184562292592902) |
+| 2 | [Michael Lee](../../persons/michael_lee/333mbf.md) | 40+ | | 5/6 in 48:09 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1178365719879226/permalink/1185885289127269) / [Mobile](https://m.facebook.com/events/1178365719879226?view=permalink&id=1185885289127269) |
+
 #### [2024-07-08](../../results/2024-07-08/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |

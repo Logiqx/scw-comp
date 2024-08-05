@@ -9,7 +9,7 @@
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3 BLD](333bf.md) | 3:22.36 | - |  |  | ⚡ x 1 |
-| [3x3x3 MBLD](333mbf.md) | 3/4 in 25:57 | - | 🏆 x 1 | 🥇 x 1 | ⚡ x 1 |
+| [3x3x3 MBLD](333mbf.md) | 5/6 in 48:09 | - | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

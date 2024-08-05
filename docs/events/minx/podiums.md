@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-07-22](../../results/2024-07-22/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 1:33.32 | 1:49.85 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/909767637577126/permalink/916377866916103) / [Mobile](https://m.facebook.com/events/909767637577126?view=permalink&id=916377866916103) |
+| 2 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:59.27 | 2:07.64 | 🥈 | [Desktop](https://www.facebook.com/events/909767637577126/permalink/918041536749736) / [Mobile](https://m.facebook.com/events/909767637577126?view=permalink&id=918041536749736) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 2:19.02 | 2:30.08 | 🥉 | [Desktop](https://www.facebook.com/events/909767637577126/permalink/918843880002835) / [Mobile](https://m.facebook.com/events/909767637577126?view=permalink&id=918843880002835) |
+
 #### [2024-07-08](../../results/2024-07-08/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
