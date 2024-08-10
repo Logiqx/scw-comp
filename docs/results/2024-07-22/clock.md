@@ -13,6 +13,7 @@
 | 3 | [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 50+ | <i class="flag flag-US" /> | 11.64 | 12.46 | 🥉 🔥 ⚡ | 12.36 | 12.08 | 11.64 | 12.93 | 13.81 | [Desktop](https://www.facebook.com/events/1450990238890383/permalink/1459361684719905) / [Mobile](https://m.facebook.com/events/1450990238890383?view=permalink&id=1459361684719905) |
 | 4 | [Kristina Lim](../../persons/kristina_lim/clock.md) | 50+ | <i class="flag flag-US" /> | 13.43 | 15.26 |  | 14.71 | 17.12 | 13.94 | 20.31 | 13.43 | [Desktop](https://www.facebook.com/1045330593/videos/3475285686096477) / [Mobile](https://m.facebook.com/1045330593/videos/3475285686096477) |
 | 5 | [Joe Kucala](../../persons/joe_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 13.35 | 17.00 | 🔥 ⚡ | 16.57 | 17.50 | 16.93 | 13.35 | 17.85 | [Desktop](https://www.facebook.com/events/1450990238890383/permalink/1459353961387344) / [Mobile](https://m.facebook.com/events/1450990238890383?view=permalink&id=1459353961387344) |
+| 6 | [Dan Smith](../../persons/dan_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 16.65 | 22.53 | ⚡ | 21.22 | 16.65 | 17.81 | 30.38 | 28.56 | [Desktop](https://www.facebook.com/events/1450990238890383/permalink/1459809214675152) / [Mobile](https://m.facebook.com/events/1450990238890383?view=permalink&id=1459809214675152) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

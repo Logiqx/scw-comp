@@ -80,7 +80,7 @@
 
 <span style="white-space: nowrap;">🏆 [Adam Leyton](../../persons/adam_leyton/pyram.md) 7.07</span>
 
-<span style="white-space: nowrap;">🥇 [Adam Leyton](../../persons/adam_leyton/pyram.md) 7.07</span>, <span style="white-space: nowrap;">🥈 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 11.90</span>, <span style="white-space: nowrap;">🥉 [Joe Kucala](../../persons/joe_kucala/pyram.md) 12.71</span>
+<span style="white-space: nowrap;">🥇 [Adam Leyton](../../persons/adam_leyton/pyram.md) 7.07</span>, <span style="white-space: nowrap;">🥈 [Lisa Kucala](../../persons/lisa_kucala/pyram.md) 11.90</span>, <span style="white-space: nowrap;">🥉 [Dan Smith](../../persons/dan_smith/pyram.md) 11.90</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Adam Leyton](../../persons/adam_leyton/pyram.md) 7.07</span>
 
@@ -94,9 +94,9 @@
 
 #### [Square-1](sq1.md)
 
-<span style="white-space: nowrap;">🏆 [Mickey Doyle](../../persons/mickey_doyle/sq1.md) 34.54</span>
+<span style="white-space: nowrap;">🏆 [Dan Smith](../../persons/dan_smith/sq1.md) 21.10</span>
 
-<span style="white-space: nowrap;">🥇 [Mickey Doyle](../../persons/mickey_doyle/sq1.md) 34.54</span>, <span style="white-space: nowrap;">🥈 [Lisa Kucala](../../persons/lisa_kucala/sq1.md) 55.78</span>, <span style="white-space: nowrap;">🥉 [Kristina Lim](../../persons/kristina_lim/sq1.md) 1:00.07</span>
+<span style="white-space: nowrap;">🥇 [Dan Smith](../../persons/dan_smith/sq1.md) 21.10</span>, <span style="white-space: nowrap;">🥈 [Mickey Doyle](../../persons/mickey_doyle/sq1.md) 34.54</span>, <span style="white-space: nowrap;">🥉 [Lisa Kucala](../../persons/lisa_kucala/sq1.md) 55.78</span>
 
 #### [Clock](clock.md)
 
@@ -106,7 +106,7 @@
 
 🔥 x 3 = <span style="white-space: nowrap;">[Adam Leyton](../../persons/adam_leyton/clock.md) 9.38</span>, <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/clock.md) 12.46</span>, <span style="white-space: nowrap;">[Joe Kucala](../../persons/joe_kucala/clock.md) 17.00</span>
 
-⚡ x 3 = <span style="white-space: nowrap;">[Adam Leyton](../../persons/adam_leyton/clock.md) 8.82</span>, <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/clock.md) 11.64</span>, <span style="white-space: nowrap;">[Joe Kucala](../../persons/joe_kucala/clock.md) 13.35</span>
+⚡ x 4 = <span style="white-space: nowrap;">[Adam Leyton](../../persons/adam_leyton/clock.md) 8.82</span>, <span style="white-space: nowrap;">[Mickey Doyle](../../persons/mickey_doyle/clock.md) 11.64</span>, <span style="white-space: nowrap;">[Joe Kucala](../../persons/joe_kucala/clock.md) 13.35</span>, <span style="white-space: nowrap;">[Dan Smith](../../persons/dan_smith/clock.md) 16.65</span>
 
 #### [3x3x3 Blindfolded](333bf.md)
 
