@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-08-05](../../results/2024-08-05/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 60+ | <i class="flag flag-SE" /> | 8/11 in 1:00:00 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/910621581085877/permalink/919838806830821) / [Mobile](https://m.facebook.com/events/910621581085877?view=permalink&id=919838806830821) |
+| 2 | [Dan Smith](../../persons/dan_smith/333mbf.md) | 50+ | <i class="flag flag-US" /> | 2/2 in 15:09 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/910621581085877/permalink/916013253880043) / [Mobile](https://m.facebook.com/events/910621581085877?view=permalink&id=916013253880043) |
+
 #### [2024-07-22](../../results/2024-07-22/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |

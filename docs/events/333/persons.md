@@ -22,7 +22,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Chris Wright](../../persons/chris_wright/333.md) | 50+ | <i class="flag flag-GB" /> | 10.58 | 13.67 | 🏆 x 3 | 🥇 x 10, 🥈 x 5, 🥉 x 2 | 💥 x 5, 🔥 x 4, ⚡ x 3 |
+| [Chris Wright](../../persons/chris_wright/333.md) | 50+ | <i class="flag flag-GB" /> | 10.58 | 13.67 | 🏆 x 4 | 🥇 x 11, 🥈 x 5, 🥉 x 2 | 💥 x 5, 🔥 x 4, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | <i class="flag flag-IT" /> | 14.59 | 18.05 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 3 |
 | [Dan Smith](../../persons/dan_smith/333.md) | 50+ | <i class="flag flag-US" /> | 15.21 | 21.74 |  | 🥈 x 1, 🥉 x 9 | 💥 x 2, 🔥 x 15, ⚡ x 11 |
 | [David Burchill](../../persons/david_burchill/333.md) | 50+ | <i class="flag flag-CA" /> | 28.50 | 34.84 |  |  | 🔥 x 3, ⚡ x 4 |
@@ -55,15 +55,16 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/333.md) | <40 | <i class="flag flag-GB" /> | 15.18 | 18.44 |  | 🥉 x 5 | 🔥 x 9, ⚡ x 6 |
+| [Adam Leyton](../../persons/adam_leyton/333.md) | 40+ | | 24.82 | 31.33 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Andrea Doerner](../../persons/andrea_doerner/333.md) | 40+ | <i class="flag flag-DE" /> | 42.48 | 47.59 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Andrew Fischer](../../persons/andrew_fischer/333.md) | 40+ | | 24.34 | 30.31 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | <i class="flag flag-GB" /> | 14.08 | 17.00 |  | 🥈 x 3, 🥉 x 7 | 🔥 x 4, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/333.md) | 40+ | <i class="flag flag-AU" /> | 15.61 | 19.88 |  | 🥉 x 1 | 🔥 x 7, ⚡ x 6 |
-| [Chris Wright](../../persons/chris_wright/333.md) | 50+ | <i class="flag flag-GB" /> | 10.58 | 13.67 | 🏆 x 3 | 🥇 x 10, 🥈 x 5, 🥉 x 2 | 💥 x 5, 🔥 x 4, ⚡ x 3 |
+| [Chris Wright](../../persons/chris_wright/333.md) | 50+ | <i class="flag flag-GB" /> | 10.58 | 13.67 | 🏆 x 4 | 🥇 x 11, 🥈 x 5, 🥉 x 2 | 💥 x 5, 🔥 x 4, ⚡ x 3 |
 | [Christoph Woittequand](../../persons/christoph_woittequand/333.md) | 40+ | <i class="flag flag-FR" /> | 12.05 | 17.03 |  | 🥉 x 5 | 🔥 x 5, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | <i class="flag flag-IT" /> | 14.59 | 18.05 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 3 |
 | [Dan Smith](../../persons/dan_smith/333.md) | 50+ | <i class="flag flag-US" /> | 15.21 | 21.74 |  | 🥈 x 1, 🥉 x 9 | 💥 x 2, 🔥 x 15, ⚡ x 11 |
-| [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 9.92 | 14.47 | 🏆 x 23 | 🥇 x 37, 🥈 x 9, 🥉 x 5 | 🔥 x 7, ⚡ x 7 |
+| [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 9.92 | 14.47 | 🏆 x 23 | 🥇 x 37, 🥈 x 10, 🥉 x 5 | 🔥 x 7, ⚡ x 7 |
 | [David Burchill](../../persons/david_burchill/333.md) | 50+ | <i class="flag flag-CA" /> | 28.50 | 34.84 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Dean Money](../../persons/dean_money/333.md) | 50+ | <i class="flag flag-US" /> | 19.02 | 25.29 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Denis Reimer](../../persons/denis_reimer/333.md) | 40+ | <i class="flag flag-CA" /> | 19.64 | 24.93 |  |  | 🔥 x 2, ⚡ x 2 |
@@ -76,7 +77,7 @@
 | [Fumiki Koseki](../../persons/fumiki_koseki/333.md) | 40+ | <i class="flag flag-JP" /> | 12.41 | 14.90 | 🏆 x 1 | 🥇 x 1, 🥈 x 18, 🥉 x 4 | 🔥 x 6, ⚡ x 3 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/333.md) | 40+ | <i class="flag flag-GB" /> | 13.49 | 14.96 |  | 🥇 x 4, 🥈 x 16, 🥉 x 20 | 🔥 x 10, ⚡ x 6 |
 | [Glenn Koster](../../persons/glenn_koster/333.md) | 40+ | <i class="flag flag-US" /> | 52.31 | 59.30 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Glyn Brown](../../persons/glyn_brown/333.md) | 40+ | <i class="flag flag-GB" /> | 13.28 | 15.74 | 🏆 x 3 | 🥇 x 3, 🥈 x 11, 🥉 x 6 | 🔥 x 6, ⚡ x 11 |
+| [Glyn Brown](../../persons/glyn_brown/333.md) | 40+ | <i class="flag flag-GB" /> | 13.28 | 15.74 | 🏆 x 3 | 🥇 x 3, 🥈 x 11, 🥉 x 7 | 🔥 x 6, ⚡ x 11 |
 | [Go-ho Choi](../../persons/go_ho_choi/333.md) | 40+ | <i class="flag flag-KR" /> | 11.88 | 15.05 | 🏆 x 3 | 🥈 x 1 | 💥 x 2, 🔥 x 4, ⚡ x 4 |
 | [Gordon Holey](../../persons/gordon_holey/333.md) | 40+ | <i class="flag flag-US" /> | 18.57 | 21.64 |  | 🥉 x 1 | 🔥 x 3, ⚡ x 6 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333.md) | 40+ | <i class="flag flag-PL" /> | 12.84 | 14.77 |  | 🥈 x 14, 🥉 x 7 | 🔥 x 3, ⚡ x 2 |

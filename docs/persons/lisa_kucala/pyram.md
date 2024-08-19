@@ -8,10 +8,11 @@
 
 #### Pyraminx Results
 
-<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-08-05](../../results/2024-08-05/pyram.md) | 60+ | 9.07 | **9.48** | 🥈 💥 🔥 | 9.21 | 9.69 | 10.75 | 9.07 | 9.53 | [Desktop](https://www.facebook.com/events/2580397835477735/permalink/2591506737700178) / [Mobile](https://m.facebook.com/events/2580397835477735?view=permalink&id=2591506737700178) |
 | [2024-07-22](../../results/2024-07-22/pyram.md) | 60+ | **6.96** | 11.90 | 🥈 ⚡ | **6.96** | 11.70 | 11.60 | 20.34 | 12.41 | [Desktop](https://www.facebook.com/events/1450990238890383/permalink/1459401814715892) / [Mobile](https://m.facebook.com/events/1450990238890383?view=permalink&id=1459401814715892) |
 | [2024-06-24](../../results/2024-06-24/pyram.md) | 60+ | **8.62** | 10.10 | 🥈 ⚡ | 8.75 | 9.23 | 12.78 | **8.62** | 12.31 | [Desktop](https://www.facebook.com/events/1211259256891949/permalink/1220103719340836) / [Mobile](https://m.facebook.com/events/1211259256891949?view=permalink&id=1220103719340836) |
 | [2024-06-10](../../results/2024-06-10/pyram.md) | 60+ | 9.95 | 10.40 | 🏆 🥇 | 9.95 | 10.64 | 11.11 | 10.28 | 10.27 | [Desktop](https://www.facebook.com/events/814120963986407/permalink/822406769824493) / [Mobile](https://m.facebook.com/events/814120963986407?view=permalink&id=822406769824493) |

@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-08-05](../../results/2024-08-05/skewb.md) | 60+ | **6.75** | 13.14 | 🥉 💥 ⚡ | 12.57 | 10.17 | 16.67 | 19.16 | **6.75** | [Desktop](https://www.facebook.com/events/2580397835477735/permalink/2591510131033172) / [Mobile](https://m.facebook.com/events/2580397835477735?view=permalink&id=2591510131033172) |
 | [2024-07-22](../../results/2024-07-22/skewb.md) | 60+ | 9.22 | 11.62 | 🥈 | 9.22 | 10.07 | 18.93 | 12.26 | 12.53 | [Desktop](https://www.facebook.com/events/1450990238890383/permalink/1459403798049027) / [Mobile](https://m.facebook.com/events/1450990238890383?view=permalink&id=1459403798049027) |
 | [2024-06-24](../../results/2024-06-24/skewb.md) | 60+ | **7.79** | **9.93** | 🥉 💥 🔥 ⚡ | 12.88 | 8.04 | 11.35 | 10.40 | **7.79** | [Desktop](https://www.facebook.com/events/1211259256891949/permalink/1219518842732657) / [Mobile](https://m.facebook.com/events/1211259256891949?view=permalink&id=1219518842732657) |
 | [2024-06-10](../../results/2024-06-10/skewb.md) | 60+ | **8.31** | **10.84** | 🏆 🥇 💥 🔥 ⚡ | 12.08 | 10.17 | 11.59 | 10.75 | **8.31** | [Desktop](https://www.facebook.com/events/814120963986407/permalink/822403803158123) / [Mobile](https://m.facebook.com/events/814120963986407?view=permalink&id=822403803158123) |

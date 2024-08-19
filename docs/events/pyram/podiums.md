@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-08-05](../../results/2024-08-05/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Adam Leyton](../../persons/adam_leyton/pyram.md) | 40+ | | 5.39 | 7.02 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2580397835477735/permalink/2587007254816793) / [Mobile](https://m.facebook.com/events/2580397835477735?view=permalink&id=2587007254816793) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.07 | 9.48 | 🥈 💥 🔥 | [Desktop](https://www.facebook.com/events/2580397835477735/permalink/2591506737700178) / [Mobile](https://m.facebook.com/events/2580397835477735?view=permalink&id=2591506737700178) |
+| 3 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.97 | 10.02 | 🥉 | [Desktop](https://www.facebook.com/events/2580397835477735/permalink/2587776284739890) / [Mobile](https://m.facebook.com/events/2580397835477735?view=permalink&id=2587776284739890) |
+
 #### [2024-07-22](../../results/2024-07-22/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
