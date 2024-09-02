@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-08-19](../../results/2024-08-19/777.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | | 4:14.41 | 4:37.60 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/3009707042505640) / [Mobile](https://m.facebook.com/745394767/videos/3009707042505640) |
+| 2 | [Chris Wright](../../persons/chris_wright/777.md) | 50+ | <i class="flag flag-GB" /> | 4:36.91 | 4:42.46 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/969856414942868/permalink/973640654564444) / [Mobile](https://m.facebook.com/events/969856414942868?view=permalink&id=973640654564444) |
+| 3 | [Glyn Brown](../../persons/glyn_brown/777.md) | 40+ | <i class="flag flag-GB" /> | 4:33.98 | 4:47.25 | 🥉 | [Desktop](https://www.facebook.com/events/969856414942868/permalink/978929884035521) / [Mobile](https://m.facebook.com/events/969856414942868?view=permalink&id=978929884035521) |
+
 #### [2024-08-05](../../results/2024-08-05/777.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

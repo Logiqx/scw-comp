@@ -10,21 +10,21 @@
 
 | # | Name | Date | Age | 🌍 | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Peter Andersson](../../persons/peter_andersson/555bf.md) | [2024-07-08](../../results/2024-07-08/555bf.md) | 60+ | <i class="flag flag-SE" /> | 23:30.17 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1446099522937900/permalink/1454169108797608) / [Mobile](https://m.facebook.com/events/1446099522937900?view=permalink&id=1454169108797608) |
+| 1 | [Peter Andersson](../../persons/peter_andersson/555bf.md) | [2024-08-19](../../results/2024-08-19/555bf.md) | 60+ | <i class="flag flag-SE" /> | 22:45.96 | 🏆 x 2 | 🥇 x 2 | 💥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/808901778065834/permalink/809224511366894) / [Mobile](https://m.facebook.com/events/808901778065834?view=permalink&id=809224511366894) |
 
 #### Over 50
 
 | # | Name | Date | Age | 🌍 | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Jae Park](../../persons/jae_park/555bf.md) | [2021-04-05](../../results/2021-04-05/555bf.md) | 50+ | <i class="flag flag-US" /> | 11:49.51 | 🏆 x 19 | 🥇 x 27 | 💥 x 7, ⚡ x 7 | [Desktop](https://www.facebook.com/events/902189670577686/permalink/910877086375611) / [Mobile](https://m.facebook.com/events/902189670577686?view=permalink&id=910877086375611) |
-| 2 | [Peter Andersson](../../persons/peter_andersson/555bf.md) | [2024-07-08](../../results/2024-07-08/555bf.md) | 60+ | <i class="flag flag-SE" /> | 23:30.17 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1446099522937900/permalink/1454169108797608) / [Mobile](https://m.facebook.com/events/1446099522937900?view=permalink&id=1454169108797608) |
+| 2 | [Peter Andersson](../../persons/peter_andersson/555bf.md) | [2024-08-19](../../results/2024-08-19/555bf.md) | 60+ | <i class="flag flag-SE" /> | 22:45.96 | 🏆 x 2 | 🥇 x 2 | 💥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/808901778065834/permalink/809224511366894) / [Mobile](https://m.facebook.com/events/808901778065834?view=permalink&id=809224511366894) |
 
 #### Over 40
 
 | # | Name | Date | Age | 🌍 | Single | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
 | 1 | [Jae Park](../../persons/jae_park/555bf.md) | [2021-04-05](../../results/2021-04-05/555bf.md) | 50+ | <i class="flag flag-US" /> | 11:49.51 | 🏆 x 19 | 🥇 x 27 | 💥 x 7, ⚡ x 7 | [Desktop](https://www.facebook.com/events/902189670577686/permalink/910877086375611) / [Mobile](https://m.facebook.com/events/902189670577686?view=permalink&id=910877086375611) |
-| 2 | [Peter Andersson](../../persons/peter_andersson/555bf.md) | [2024-07-08](../../results/2024-07-08/555bf.md) | 60+ | <i class="flag flag-SE" /> | 23:30.17 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1446099522937900/permalink/1454169108797608) / [Mobile](https://m.facebook.com/events/1446099522937900?view=permalink&id=1454169108797608) |
+| 2 | [Peter Andersson](../../persons/peter_andersson/555bf.md) | [2024-08-19](../../results/2024-08-19/555bf.md) | 60+ | <i class="flag flag-SE" /> | 22:45.96 | 🏆 x 2 | 🥇 x 2 | 💥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/808901778065834/permalink/809224511366894) / [Mobile](https://m.facebook.com/events/808901778065834?view=permalink&id=809224511366894) |
 | 3 | [Andy Nicholls](../../persons/andy_nicholls/555bf.md) | [2020-06-30](../../results/2020-06-30/555bf.md) | 40+ | <i class="flag flag-GB" /> | 23:35.85 |  | 🥇 x 1, 🥈 x 2 | ⚡ x 2 | [Desktop](https://www.facebook.com/events/348465022802357/permalink/352552605726932) / [Mobile](https://m.facebook.com/events/348465022802357?view=permalink&id=352552605726932) |
 
 #### Under 40
