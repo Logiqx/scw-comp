@@ -21,7 +21,7 @@
 | [Donna Leiber](../../persons/donna_leiber/666.md) | 60+ | <i class="flag flag-US" /> | 12:04.43 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/666.md) | 50+ | <i class="flag flag-US" /> | 6:34.83 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/666.md) | 50+ | <i class="flag flag-US" /> | 4:54.14 | DNF |  | 🥇 x 2, 🥈 x 2, 🥉 x 1 | ⚡ x 5 |
-| [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | | 2:56.64 | 3:02.43 | 🏆 x 2 | 🥇 x 2, 🥈 x 3 | 💥 x 1, 🔥 x 2, ⚡ x 1 |
+| [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 2:56.64 | 3:02.43 | 🏆 x 2 | 🥇 x 2, 🥈 x 3 | 💥 x 1, 🔥 x 2, ⚡ x 1 |
 
 #### Over 40
 
@@ -48,7 +48,7 @@
 | [Michael George](../../persons/michael_george/666.md) | 40+ | <i class="flag flag-GB" /> | 4:37.39 | DNF |  | 🥉 x 4 | ⚡ x 7 |
 | [Mickey Doyle](../../persons/mickey_doyle/666.md) | 50+ | <i class="flag flag-US" /> | 4:54.14 | DNF |  | 🥇 x 2, 🥈 x 2, 🥉 x 1 | ⚡ x 5 |
 | [Pete Lee](../../persons/pete_lee/666.md) | 40+ | <i class="flag flag-GB" /> | 3:12.00 | 3:24.46 | 🏆 x 12 | 🥈 x 2, 🥉 x 2 | 🔥 x 14, ⚡ x 20 |
-| [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | | 2:56.64 | 3:02.43 | 🏆 x 2 | 🥇 x 2, 🥈 x 3 | 💥 x 1, 🔥 x 2, ⚡ x 1 |
+| [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 2:56.64 | 3:02.43 | 🏆 x 2 | 🥇 x 2, 🥈 x 3 | 💥 x 1, 🔥 x 2, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) | 40+ | <i class="flag flag-TW" /> | 3:38.96 | 3:45.42 | 🏆 x 1 | 🥇 x 3, 🥈 x 7, 🥉 x 7 | 🔥 x 4, ⚡ x 10 |
 
 #### Under 40

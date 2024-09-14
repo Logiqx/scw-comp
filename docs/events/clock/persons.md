@@ -35,7 +35,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/clock.md) | 40+ | <i class="flag flag-GB" /> | 26.22 | 32.71 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
-| [Adam Leyton](../../persons/adam_leyton/clock.md) | 40+ | | 7.37 | 8.48 | 🏆 x 3 | 🥇 x 3 | 💥 x 2, 🔥 x 3, ⚡ x 3 |
+| [Adam Leyton](../../persons/adam_leyton/clock.md) | 40+ | <i class="flag flag-GB" /> | 7.37 | 8.48 | 🏆 x 3 | 🥇 x 3 | 💥 x 2, 🔥 x 3, ⚡ x 3 |
 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | <i class="flag flag-GB" /> | 10.30 | 11.25 | 🏆 x 4 | 🥇 x 4, 🥈 x 3 | 💥 x 4, 🔥 x 4, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | <i class="flag flag-AU" /> | 11.14 | 13.06 | 🏆 x 2 | 🥇 x 8, 🥈 x 8, 🥉 x 3 | 🔥 x 7, ⚡ x 12 |
 | [Dan Smith](../../persons/dan_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 16.65 | 19.05 | 🏆 x 2 | 🥇 x 2, 🥈 x 2, 🥉 x 5 | 🔥 x 8, ⚡ x 10 |

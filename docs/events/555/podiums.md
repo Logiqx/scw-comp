@@ -12,7 +12,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:25.44 | 1:32.72 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/969856414942868/permalink/973123211282855) / [Mobile](https://m.facebook.com/events/969856414942868?view=permalink&id=973123211282855) |
 | 2 | [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | <i class="flag flag-GB" /> | 1:31.36 | 1:42.77 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/969856414942868/permalink/978930434035466) / [Mobile](https://m.facebook.com/events/969856414942868?view=permalink&id=978930434035466) |
-| 3 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | | 1:30.23 | 1:48.42 | 🥉 💥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/524150706785903) / [Mobile](https://m.facebook.com/745394767/videos/524150706785903) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:30.23 | 1:48.42 | 🥉 💥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/524150706785903) / [Mobile](https://m.facebook.com/745394767/videos/524150706785903) |
 
 #### [2024-08-05](../../results/2024-08-05/555.md)
 
@@ -20,21 +20,21 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:32.20 | 1:34.85 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/843031524469348/permalink/847011314071369) / [Mobile](https://m.facebook.com/events/843031524469348?view=permalink&id=847011314071369) |
 | 2 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | <i class="flag flag-GB" /> | 1:36.14 | 1:45.36 | 🥈 | [Desktop](https://www.facebook.com/events/843031524469348/permalink/848283533944147) / [Mobile](https://m.facebook.com/events/843031524469348?view=permalink&id=848283533944147) |
-| 3 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | | 1:42.51 | 1:46.93 | 🥉 | [Desktop](https://www.facebook.com/745394767/videos/8006104532768349) / [Mobile](https://m.facebook.com/745394767/videos/8006104532768349) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:42.51 | 1:46.93 | 🥉 | [Desktop](https://www.facebook.com/745394767/videos/8006104532768349) / [Mobile](https://m.facebook.com/745394767/videos/8006104532768349) |
 
 #### [2024-07-22](../../results/2024-07-22/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:28.12 | 1:38.93 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/785148847162745/permalink/793587796318850) / [Mobile](https://m.facebook.com/events/785148847162745?view=permalink&id=793587796318850) |
-| 2 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | | 1:39.48 | 1:44.72 | 🥈 | [Desktop](https://www.facebook.com/events/785148847162745/permalink/790755406602089) / [Mobile](https://m.facebook.com/events/785148847162745?view=permalink&id=790755406602089) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:39.48 | 1:44.72 | 🥈 | [Desktop](https://www.facebook.com/events/785148847162745/permalink/790755406602089) / [Mobile](https://m.facebook.com/events/785148847162745?view=permalink&id=790755406602089) |
 | 3 | [Pete Lee](../../persons/pete_lee/555.md) | 40+ | <i class="flag flag-GB" /> | 1:42.58 | 1:49.68 | 🥉 | [Desktop](https://www.facebook.com/events/785148847162745/permalink/792966233047673) / [Mobile](https://m.facebook.com/events/785148847162745?view=permalink&id=792966233047673) |
 
 #### [2024-07-08](../../results/2024-07-08/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | | 1:39.03 | 1:41.79 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/3684694011806728) / [Mobile](https://m.facebook.com/745394767/videos/3684694011806728) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:39.03 | 1:41.79 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/3684694011806728) / [Mobile](https://m.facebook.com/745394767/videos/3684694011806728) |
 | 2 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:33.57 | 1:44.26 | 🥈 | [Desktop](https://www.facebook.com/events/1154223792452847/permalink/1162578708284022) / [Mobile](https://m.facebook.com/events/1154223792452847?view=permalink&id=1162578708284022) |
 | 3 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:41.99 | 2:51.18 | 🥉 | [Desktop](https://www.facebook.com/events/1154223792452847/permalink/1157110498830843) / [Mobile](https://m.facebook.com/events/1154223792452847?view=permalink&id=1157110498830843) |
 
@@ -43,7 +43,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:28.02 | 1:39.81 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/500485402410682/permalink/508784991580723) / [Mobile](https://m.facebook.com/events/500485402410682?view=permalink&id=508784991580723) |
-| 2 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | | 1:45.08 | 1:46.40 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/998963765234428) / [Mobile](https://m.facebook.com/745394767/videos/998963765234428) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:45.08 | 1:46.40 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/998963765234428) / [Mobile](https://m.facebook.com/745394767/videos/998963765234428) |
 | 3 | [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | <i class="flag flag-GB" /> | 1:44.36 | 1:48.76 | 🥉 | [Desktop](https://www.facebook.com/events/500485402410682/permalink/504419762017246) / [Mobile](https://m.facebook.com/events/500485402410682?view=permalink&id=504419762017246) |
 
 #### [2024-06-10](../../results/2024-06-10/555.md)

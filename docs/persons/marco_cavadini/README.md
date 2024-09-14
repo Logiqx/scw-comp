@@ -4,6 +4,8 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Marco Cavadini - [2024CAVA03](https://www.worldcubeassociation.org/persons/2024CAVA03)
 
+<i class="flag flag-CH" />&nbsp;Switzerland
+
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|

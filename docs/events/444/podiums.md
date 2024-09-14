@@ -11,7 +11,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 41.76 | 47.72 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/969856414942868/permalink/973123394616170) / [Mobile](https://m.facebook.com/events/969856414942868?view=permalink&id=973123394616170) |
-| 2 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | | 48.40 | 59.93 | 🥈 | [Desktop](https://www.facebook.com/745394767/videos/861980505482900) / [Mobile](https://m.facebook.com/745394767/videos/861980505482900) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 48.40 | 59.93 | 🥈 | [Desktop](https://www.facebook.com/745394767/videos/861980505482900) / [Mobile](https://m.facebook.com/745394767/videos/861980505482900) |
 | 3 | [Glyn Brown](../../persons/glyn_brown/444.md) | 40+ | <i class="flag flag-GB" /> | 1:00.82 | 1:05.78 | 🥉 | [Desktop](https://www.facebook.com/events/969856414942868/permalink/978930660702110) / [Mobile](https://m.facebook.com/events/969856414942868?view=permalink&id=978930660702110) |
 
 #### [2024-08-05](../../results/2024-08-05/444.md)
@@ -19,7 +19,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 54.80 | 56.97 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/843031524469348/permalink/847010734071427) / [Mobile](https://m.facebook.com/events/843031524469348?view=permalink&id=847010734071427) |
-| 2 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | | 47.97 | 57.22 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/1059214845541865) / [Mobile](https://m.facebook.com/745394767/videos/1059214845541865) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 47.97 | 57.22 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/1059214845541865) / [Mobile](https://m.facebook.com/745394767/videos/1059214845541865) |
 | 3 | [Glyn Brown](../../persons/glyn_brown/444.md) | 40+ | <i class="flag flag-GB" /> | 58.41 | 1:01.60 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/843031524469348/permalink/848384120600755) / [Mobile](https://m.facebook.com/events/843031524469348?view=permalink&id=848384120600755) |
 
 #### [2024-07-22](../../results/2024-07-22/444.md)
@@ -27,7 +27,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 49.31 | 57.11 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/785148847162745/permalink/793587662985530) / [Mobile](https://m.facebook.com/events/785148847162745?view=permalink&id=793587662985530) |
-| 2 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | | 57.42 | 1:01.17 | 🥈 | [Desktop](https://www.facebook.com/events/785148847162745/permalink/790744909936472) / [Mobile](https://m.facebook.com/events/785148847162745?view=permalink&id=790744909936472) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 57.42 | 1:01.17 | 🥈 | [Desktop](https://www.facebook.com/events/785148847162745/permalink/790744909936472) / [Mobile](https://m.facebook.com/events/785148847162745?view=permalink&id=790744909936472) |
 | 3 | [Glyn Brown](../../persons/glyn_brown/444.md) | 40+ | <i class="flag flag-GB" /> | 50.87 | 1:02.81 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/785148847162745/permalink/791128823231414) / [Mobile](https://m.facebook.com/events/785148847162745?view=permalink&id=791128823231414) |
 
 #### [2024-07-08](../../results/2024-07-08/444.md)
@@ -35,7 +35,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 54.62 | 1:00.44 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1154223792452847/permalink/1162579414950618) / [Mobile](https://m.facebook.com/events/1154223792452847?view=permalink&id=1162579414950618) |
-| 2 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | | 56.89 | 1:00.90 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/458031110491139) / [Mobile](https://m.facebook.com/745394767/videos/458031110491139) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 56.89 | 1:00.90 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/458031110491139) / [Mobile](https://m.facebook.com/745394767/videos/458031110491139) |
 | 3 | [Mickey Doyle](../../persons/mickey_doyle/444.md) | 50+ | <i class="flag flag-US" /> | 1:10.35 | 1:18.63 | 🥉 | [Desktop](https://www.facebook.com/events/1154223792452847/permalink/1161622521712974) / [Mobile](https://m.facebook.com/events/1154223792452847?view=permalink&id=1161622521712974) |
 
 #### [2024-06-24](../../results/2024-06-24/444.md)
@@ -44,7 +44,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 52.30 | 59.91 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/500485402410682/permalink/508784274914128) / [Mobile](https://m.facebook.com/events/500485402410682?view=permalink&id=508784274914128) |
 | 2 | [Glyn Brown](../../persons/glyn_brown/444.md) | 40+ | <i class="flag flag-GB" /> | 58.22 | 1:10.65 | 🥈 | [Desktop](https://www.facebook.com/events/500485402410682/permalink/504419485350607) / [Mobile](https://m.facebook.com/events/500485402410682?view=permalink&id=504419485350607) |
-| 3 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | | 57.82 | 1:10.70 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/1169371024326806) / [Mobile](https://m.facebook.com/745394767/videos/1169371024326806) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 57.82 | 1:10.70 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/1169371024326806) / [Mobile](https://m.facebook.com/745394767/videos/1169371024326806) |
 
 #### [2024-06-10](../../results/2024-06-10/444.md)
 

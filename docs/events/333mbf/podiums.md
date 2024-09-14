@@ -19,13 +19,13 @@
 | # | Name | Age | 🌍 | Single | Awards | Video |
 | :--: | :-- | :--: | :--: | :--: | :--: | :-- |
 | 1 | [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 60+ | <i class="flag flag-SE" /> | 7/9 in 43:27 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/1178365719879226/permalink/1184562292592902) / [Mobile](https://m.facebook.com/events/1178365719879226?view=permalink&id=1184562292592902) |
-| 2 | [Michael Lee](../../persons/michael_lee/333mbf.md) | 40+ | | 5/6 in 48:09 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1178365719879226/permalink/1185885289127269) / [Mobile](https://m.facebook.com/events/1178365719879226?view=permalink&id=1185885289127269) |
+| 2 | [Michael Lee](../../persons/michael_lee/333mbf.md) | 40+ | <i class="flag flag-US" /> | 5/6 in 48:09 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1178365719879226/permalink/1185885289127269) / [Mobile](https://m.facebook.com/events/1178365719879226?view=permalink&id=1185885289127269) |
 
 #### [2024-07-08](../../results/2024-07-08/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |
 | :--: | :-- | :--: | :--: | :--: | :--: | :-- |
-| 1 | [Michael Lee](../../persons/michael_lee/333mbf.md) | 40+ | | 3/4 in 25:57 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1446099522937900/permalink/1452644248950094) / [Mobile](https://m.facebook.com/events/1446099522937900?view=permalink&id=1452644248950094) |
+| 1 | [Michael Lee](../../persons/michael_lee/333mbf.md) | 40+ | <i class="flag flag-US" /> | 3/4 in 25:57 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1446099522937900/permalink/1452644248950094) / [Mobile](https://m.facebook.com/events/1446099522937900?view=permalink&id=1452644248950094) |
 
 #### [2024-05-27](../../results/2024-05-27/333mbf.md)
 

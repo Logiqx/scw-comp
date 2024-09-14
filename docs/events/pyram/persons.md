@@ -37,7 +37,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/pyram.md) | 40+ | <i class="flag flag-GB" /> | 11.80 | 13.95 |  | 🥈 x 1, 🥉 x 5 | 🔥 x 2, ⚡ x 4 |
-| [Adam Leyton](../../persons/adam_leyton/pyram.md) | 40+ | | 5.39 | 7.02 | 🏆 x 3 | 🥇 x 3 | 🔥 x 2, ⚡ x 2 |
+| [Adam Leyton](../../persons/adam_leyton/pyram.md) | 40+ | <i class="flag flag-GB" /> | 5.39 | 7.02 | 🏆 x 3 | 🥇 x 3 | 🔥 x 2, ⚡ x 2 |
 | [Andrea Doerner](../../persons/andrea_doerner/pyram.md) | 40+ | <i class="flag flag-DE" /> | 11.80 | 16.07 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/pyram.md) | 40+ | <i class="flag flag-AU" /> | 6.94 | 9.16 | 🏆 x 2 | 🥇 x 4, 🥈 x 4, 🥉 x 1 | 🔥 x 5, ⚡ x 6 |
 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.47 | 🏆 x 21 | 🥇 x 55, 🥈 x 63, 🥉 x 9 | 💥 x 8, 🔥 x 6, ⚡ x 3 |

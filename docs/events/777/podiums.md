@@ -10,7 +10,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | | 4:14.41 | 4:37.60 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/3009707042505640) / [Mobile](https://m.facebook.com/745394767/videos/3009707042505640) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 4:14.41 | 4:37.60 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/3009707042505640) / [Mobile](https://m.facebook.com/745394767/videos/3009707042505640) |
 | 2 | [Chris Wright](../../persons/chris_wright/777.md) | 50+ | <i class="flag flag-GB" /> | 4:36.91 | 4:42.46 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/969856414942868/permalink/973640654564444) / [Mobile](https://m.facebook.com/events/969856414942868?view=permalink&id=973640654564444) |
 | 3 | [Glyn Brown](../../persons/glyn_brown/777.md) | 40+ | <i class="flag flag-GB" /> | 4:33.98 | 4:47.25 | 🥉 | [Desktop](https://www.facebook.com/events/969856414942868/permalink/978929884035521) / [Mobile](https://m.facebook.com/events/969856414942868?view=permalink&id=978929884035521) |
 
@@ -27,7 +27,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Glyn Brown](../../persons/glyn_brown/777.md) | 40+ | <i class="flag flag-GB" /> | 4:01.21 | 4:37.66 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/785148847162745/permalink/791127169898246) / [Mobile](https://m.facebook.com/events/785148847162745?view=permalink&id=791127169898246) |
-| 2 | [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | | 4:43.38 | 4:55.83 | 🥈 | [Desktop](https://www.facebook.com/events/785148847162745/permalink/790802646597365) / [Mobile](https://m.facebook.com/events/785148847162745?view=permalink&id=790802646597365) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 4:43.38 | 4:55.83 | 🥈 | [Desktop](https://www.facebook.com/events/785148847162745/permalink/790802646597365) / [Mobile](https://m.facebook.com/events/785148847162745?view=permalink&id=790802646597365) |
 | 3 | [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 4:38.74 | 4:59.43 | 🥉 | [Desktop](https://www.facebook.com/events/785148847162745/permalink/793588082985488) / [Mobile](https://m.facebook.com/events/785148847162745?view=permalink&id=793588082985488) |
 
 #### [2024-07-08](../../results/2024-07-08/777.md)
@@ -35,7 +35,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 4:37.83 | 4:45.04 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1154223792452847/permalink/1162577864950773) / [Mobile](https://m.facebook.com/events/1154223792452847?view=permalink&id=1162577864950773) |
-| 2 | [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | | 4:43.53 | 4:49.02 | 🥈 💥 🔥 | [Desktop](https://www.facebook.com/745394767/videos/496217493094606) / [Mobile](https://m.facebook.com/745394767/videos/496217493094606) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 4:43.53 | 4:49.02 | 🥈 💥 🔥 | [Desktop](https://www.facebook.com/745394767/videos/496217493094606) / [Mobile](https://m.facebook.com/745394767/videos/496217493094606) |
 
 #### [2024-06-24](../../results/2024-06-24/777.md)
 
@@ -43,7 +43,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 4:36.57 | 4:45.23 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/500485402410682/permalink/508786688247220) / [Mobile](https://m.facebook.com/events/500485402410682?view=permalink&id=508786688247220) |
 | 2 | [Glyn Brown](../../persons/glyn_brown/777.md) | 40+ | <i class="flag flag-GB" /> | 4:32.73 | 4:49.32 | 🥈 | [Desktop](https://www.facebook.com/events/500485402410682/permalink/504420135350542) / [Mobile](https://m.facebook.com/events/500485402410682?view=permalink&id=504420135350542) |
-| 3 | [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | | 4:38.91 | 4:49.51 | 🥉 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/1375259303865056) / [Mobile](https://m.facebook.com/745394767/videos/1375259303865056) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 4:38.91 | 4:49.51 | 🥉 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/1375259303865056) / [Mobile](https://m.facebook.com/745394767/videos/1375259303865056) |
 
 #### [2024-06-10](../../results/2024-06-10/777.md)
 

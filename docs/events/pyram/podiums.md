@@ -10,7 +10,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Adam Leyton](../../persons/adam_leyton/pyram.md) | 40+ | | 6.71 | 7.89 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1061504472310928/permalink/1066556818472360) / [Mobile](https://m.facebook.com/events/1061504472310928?view=permalink&id=1066556818472360) |
+| 1 | [Adam Leyton](../../persons/adam_leyton/pyram.md) | 40+ | <i class="flag flag-GB" /> | 6.71 | 7.89 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1061504472310928/permalink/1066556818472360) / [Mobile](https://m.facebook.com/events/1061504472310928?view=permalink&id=1066556818472360) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 8.15 | 9.58 | 🥈 | [Desktop](https://www.facebook.com/events/1061504472310928/permalink/1070070174787691) / [Mobile](https://m.facebook.com/events/1061504472310928?view=permalink&id=1070070174787691) |
 | 3 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 9.08 | 11.27 | 🥉 | [Desktop](https://www.facebook.com/events/1061504472310928/permalink/1068539221607453) / [Mobile](https://m.facebook.com/events/1061504472310928?view=permalink&id=1068539221607453) |
 
@@ -18,7 +18,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Adam Leyton](../../persons/adam_leyton/pyram.md) | 40+ | | 5.39 | 7.02 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2580397835477735/permalink/2587007254816793) / [Mobile](https://m.facebook.com/events/2580397835477735?view=permalink&id=2587007254816793) |
+| 1 | [Adam Leyton](../../persons/adam_leyton/pyram.md) | 40+ | <i class="flag flag-GB" /> | 5.39 | 7.02 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2580397835477735/permalink/2587007254816793) / [Mobile](https://m.facebook.com/events/2580397835477735?view=permalink&id=2587007254816793) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.07 | 9.48 | 🥈 💥 🔥 | [Desktop](https://www.facebook.com/events/2580397835477735/permalink/2591506737700178) / [Mobile](https://m.facebook.com/events/2580397835477735?view=permalink&id=2591506737700178) |
 | 3 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 7.97 | 10.02 | 🥉 | [Desktop](https://www.facebook.com/events/2580397835477735/permalink/2587776284739890) / [Mobile](https://m.facebook.com/events/2580397835477735?view=permalink&id=2587776284739890) |
 
@@ -26,7 +26,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Adam Leyton](../../persons/adam_leyton/pyram.md) | 40+ | | 6.72 | 7.07 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1450990238890383/permalink/1458589674797106) / [Mobile](https://m.facebook.com/events/1450990238890383?view=permalink&id=1458589674797106) |
+| 1 | [Adam Leyton](../../persons/adam_leyton/pyram.md) | 40+ | <i class="flag flag-GB" /> | 6.72 | 7.07 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1450990238890383/permalink/1458589674797106) / [Mobile](https://m.facebook.com/events/1450990238890383?view=permalink&id=1458589674797106) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 6.96 | 11.90 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1450990238890383/permalink/1459401814715892) / [Mobile](https://m.facebook.com/events/1450990238890383?view=permalink&id=1459401814715892) |
 | 3 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 9.60 | 11.90 | 🥉 | [Desktop](https://www.facebook.com/events/1450990238890383/permalink/1459809214675152) / [Mobile](https://m.facebook.com/events/1450990238890383?view=permalink&id=1459809214675152) |
 

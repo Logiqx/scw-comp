@@ -28,7 +28,7 @@
 | [Mickey Doyle](../../persons/mickey_doyle/555.md) | 50+ | <i class="flag flag-US" /> | 2:23.29 | 2:42.99 |  | 🥈 x 4, 🥉 x 14 | 🔥 x 16, ⚡ x 13 |
 | [Peter Andersson](../../persons/peter_andersson/555.md) | 60+ | <i class="flag flag-SE" /> | 4:15.39 | 4:47.75 |  |  | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | <i class="flag flag-CA" /> | 5:50.00 | DNF |  |  | ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | | 1:30.23 | 1:41.79 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 2 | 💥 x 1, 🔥 x 2, ⚡ x 3 |
+| [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:30.23 | 1:41.79 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 2 | 💥 x 1, 🔥 x 2, ⚡ x 3 |
 
 #### Over 40
 
@@ -66,7 +66,7 @@
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | <i class="flag flag-CA" /> | 5:50.00 | DNF |  |  | ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/555.md) | 40+ | <i class="flag flag-ES" /> | 2:17.13 | 2:27.99 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/555.md) | 40+ | <i class="flag flag-GB" /> | 3:12.23 | 3:25.05 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | | 1:30.23 | 1:41.79 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 2 | 💥 x 1, 🔥 x 2, ⚡ x 3 |
+| [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:30.23 | 1:41.79 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 2 | 💥 x 1, 🔥 x 2, ⚡ x 3 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | <i class="flag flag-TW" /> | 1:44.05 | 1:51.63 | 🏆 x 2 | 🥇 x 4, 🥈 x 19, 🥉 x 14 | 🔥 x 21, ⚡ x 20 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/555.md) | 40+ | <i class="flag flag-FR" /> | 2:36.25 | 2:52.60 |  |  | 🔥 x 1, ⚡ x 1 |
 

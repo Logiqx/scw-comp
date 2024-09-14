@@ -12,13 +12,13 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/333bf.md) | 40+ | <i class="flag flag-CH" /> | 2:18.87 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/808901778065834/permalink/812056727750339) / [Mobile](https://m.facebook.com/events/808901778065834?view=permalink&id=812056727750339) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:33.92 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/808901778065834/permalink/814212260868119) / [Mobile](https://m.facebook.com/events/808901778065834?view=permalink&id=814212260868119) |
-| 3 | [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | | 2:36.26 | DNF | 🥉 | [Desktop](https://www.facebook.com/745394767/videos/1469462050386384) / [Mobile](https://m.facebook.com/745394767/videos/1469462050386384) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:36.26 | DNF | 🥉 | [Desktop](https://www.facebook.com/745394767/videos/1469462050386384) / [Mobile](https://m.facebook.com/745394767/videos/1469462050386384) |
 
 #### [2024-08-05](../../results/2024-08-05/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | | 2:21.70 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/1748165446009841) / [Mobile](https://m.facebook.com/745394767/videos/1748165446009841) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:21.70 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/1748165446009841) / [Mobile](https://m.facebook.com/745394767/videos/1748165446009841) |
 | 2 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 60+ | <i class="flag flag-SE" /> | 2:31.01 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/910621581085877/permalink/918367946977907) / [Mobile](https://m.facebook.com/events/910621581085877?view=permalink&id=918367946977907) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:54.96 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/910621581085877/permalink/918162706998431) / [Mobile](https://m.facebook.com/events/910621581085877?view=permalink&id=918162706998431) |
 
@@ -42,7 +42,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:57.86 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/836072151304507/permalink/842759710635751) / [Mobile](https://m.facebook.com/events/836072151304507?view=permalink&id=842759710635751) |
-| 2 | [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | | 2:11.93 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/1685187058965343) / [Mobile](https://m.facebook.com/745394767/videos/1685187058965343) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:11.93 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/1685187058965343) / [Mobile](https://m.facebook.com/745394767/videos/1685187058965343) |
 | 3 | [Dan Smith](../../persons/dan_smith/333bf.md) | 50+ | <i class="flag flag-US" /> | 4:08.85 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/836072151304507/permalink/838674054377650) / [Mobile](https://m.facebook.com/events/836072151304507?view=permalink&id=838674054377650) |
 
 #### [2024-06-10](../../results/2024-06-10/333bf.md)

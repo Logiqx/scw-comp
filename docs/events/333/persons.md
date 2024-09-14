@@ -46,7 +46,7 @@
 | [Richard Taylor](../../persons/richard_taylor/333.md) | 50+ | <i class="flag flag-GB" /> | 21.16 | 25.61 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Robert Summerfield](../../persons/robert_summerfield/333.md) | 50+ | <i class="flag flag-GB" /> | 18.87 | 22.71 |  |  | 🔥 x 9, ⚡ x 7 |
 | [Rodney Gardner](../../persons/rodney_gardner/333.md) | 50+ | <i class="flag flag-US" /> | 15.85 | 19.60 |  | 🥈 x 7, 🥉 x 5 | 🔥 x 7, ⚡ x 4 |
-| [Shen Flindell](../../persons/shen_flindell/333.md) | 50+ | | 12.75 | 18.63 |  |  | 🔥 x 3, ⚡ x 3 |
+| [Shen Flindell](../../persons/shen_flindell/333.md) | 50+ | <i class="flag flag-AU" /> | 12.75 | 18.63 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 50+ | <i class="flag flag-AU" /> | 13.61 | 16.11 | 🏆 x 1 | 🥇 x 17, 🥈 x 31, 🥉 x 20 | 🔥 x 16, ⚡ x 13 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333.md) | 50+ | <i class="flag flag-PL" /> | 17.30 | 22.13 |  |  | 🔥 x 4, ⚡ x 1 |
 
@@ -55,7 +55,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/333.md) | <40 | <i class="flag flag-GB" /> | 15.18 | 18.44 |  | 🥉 x 5 | 🔥 x 9, ⚡ x 6 |
-| [Adam Leyton](../../persons/adam_leyton/333.md) | 40+ | | 24.82 | 31.33 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Adam Leyton](../../persons/adam_leyton/333.md) | 40+ | <i class="flag flag-GB" /> | 24.82 | 31.33 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Andrea Doerner](../../persons/andrea_doerner/333.md) | 40+ | <i class="flag flag-DE" /> | 42.48 | 47.59 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Andrew Fischer](../../persons/andrew_fischer/333.md) | 40+ | | 24.34 | 30.31 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | <i class="flag flag-GB" /> | 14.08 | 17.00 |  | 🥈 x 3, 🥉 x 7 | 🔥 x 4, ⚡ x 3 |
@@ -123,7 +123,7 @@
 | [Robert Summerfield](../../persons/robert_summerfield/333.md) | 50+ | <i class="flag flag-GB" /> | 18.87 | 22.71 |  |  | 🔥 x 9, ⚡ x 7 |
 | [Rodney Gardner](../../persons/rodney_gardner/333.md) | 50+ | <i class="flag flag-US" /> | 15.85 | 19.60 |  | 🥈 x 7, 🥉 x 5 | 🔥 x 7, ⚡ x 4 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/333.md) | 40+ | <i class="flag flag-GB" /> | 25.82 | 31.41 |  |  | 🔥 x 4, ⚡ x 6 |
-| [Shen Flindell](../../persons/shen_flindell/333.md) | 50+ | | 12.75 | 18.63 |  |  | 🔥 x 3, ⚡ x 3 |
+| [Shen Flindell](../../persons/shen_flindell/333.md) | 50+ | <i class="flag flag-AU" /> | 12.75 | 18.63 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Stanley Watt](../../persons/stanley_watt/333.md) | 40+ | <i class="flag flag-CA" /> | 22.03 | 25.64 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Stuart Salmon](../../persons/stuart_salmon/333.md) | 40+ | <i class="flag flag-GB" /> | 22.76 | 32.89 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Taryn Stys](../../persons/taryn_stys/333.md) | 40+ | <i class="flag flag-US" /> | 22.12 | 27.46 |  |  | 🔥 x 3, ⚡ x 2 |

@@ -8,7 +8,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| 1 | [Adam Leyton](../../persons/adam_leyton/skewb.md) | 40+ | | 14.14 | 17.25 | 🏆 🥇 🔥 ⚡ | 15.71 | 14.14 | 16.60 | 19.45 | 22.56 | [Desktop](https://www.facebook.com/events/1061504472310928/permalink/1066556185139090) / [Mobile](https://m.facebook.com/events/1061504472310928?view=permalink&id=1066556185139090) |
+| 1 | [Adam Leyton](../../persons/adam_leyton/skewb.md) | 40+ | <i class="flag flag-GB" /> | 14.14 | 17.25 | 🏆 🥇 🔥 ⚡ | 15.71 | 14.14 | 16.60 | 19.45 | 22.56 | [Desktop](https://www.facebook.com/events/1061504472310928/permalink/1066556185139090) / [Mobile](https://m.facebook.com/events/1061504472310928?view=permalink&id=1066556185139090) |
 | 2 | [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 10.28 | 17.31 | 🥈 | 19.41 | 10.28 | 26.96 | 17.75 | 14.77 | [Desktop](https://www.facebook.com/events/1061504472310928/permalink/1066209051840470) / [Mobile](https://m.facebook.com/events/1061504472310928?view=permalink&id=1066209051840470) |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

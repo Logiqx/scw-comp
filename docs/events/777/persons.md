@@ -21,7 +21,7 @@
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | <i class="flag flag-US" /> | 15:59.23 | DNF |  | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/777.md) | 50+ | <i class="flag flag-US" /> | 9:06.58 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/777.md) | 50+ | <i class="flag flag-US" /> | 9:01.00 | DNF |  | 🥈 x 1 | ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | | 4:14.41 | 4:37.60 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
+| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 4:14.41 | 4:37.60 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
 
 #### Over 40
 
@@ -43,7 +43,7 @@
 | [Konsta Jukka](../../persons/konsta_jukka/777.md) | 40+ | <i class="flag flag-FI" /> | 4:44.78 | 5:09.11 | 🏆 x 3 | 🥇 x 3, 🥈 x 6, 🥉 x 1 | 🔥 x 4, ⚡ x 5 |
 | [Mickey Doyle](../../persons/mickey_doyle/777.md) | 50+ | <i class="flag flag-US" /> | 9:01.00 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/777.md) | 40+ | <i class="flag flag-GB" /> | 4:56.80 | 5:13.03 | 🏆 x 15 | 🥈 x 1, 🥉 x 2 | 🔥 x 13, ⚡ x 21 |
-| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | | 4:14.41 | 4:37.60 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
+| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 4:14.41 | 4:37.60 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/777.md) | 40+ | <i class="flag flag-TW" /> | 6:26.88 | 6:39.18 |  | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 3 |
 
 #### Under 40

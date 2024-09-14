@@ -10,7 +10,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Adam Leyton](../../persons/adam_leyton/clock.md) | 40+ | | 7.37 | 8.48 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1061504472310928/permalink/1066555118472530) / [Mobile](https://m.facebook.com/events/1061504472310928?view=permalink&id=1066555118472530) |
+| 1 | [Adam Leyton](../../persons/adam_leyton/clock.md) | 40+ | <i class="flag flag-GB" /> | 7.37 | 8.48 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1061504472310928/permalink/1066555118472530) / [Mobile](https://m.facebook.com/events/1061504472310928?view=permalink&id=1066555118472530) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 8.15 | 9.58 | 🥈 💥 ⚡ | [Desktop](https://www.facebook.com/events/1061504472310928/permalink/1070073814787327) / [Mobile](https://m.facebook.com/events/1061504472310928?view=permalink&id=1070073814787327) |
 | 3 | [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 50+ | <i class="flag flag-US" /> | 11.80 | 12.57 | 🥉 | [Desktop](https://www.facebook.com/events/1061504472310928/permalink/1069183621543013) / [Mobile](https://m.facebook.com/events/1061504472310928?view=permalink&id=1069183621543013) |
 
@@ -18,7 +18,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Adam Leyton](../../persons/adam_leyton/clock.md) | 40+ | | 7.50 | 8.99 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2580397835477735/permalink/2587007631483422) / [Mobile](https://m.facebook.com/events/2580397835477735?view=permalink&id=2587007631483422) |
+| 1 | [Adam Leyton](../../persons/adam_leyton/clock.md) | 40+ | <i class="flag flag-GB" /> | 7.50 | 8.99 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2580397835477735/permalink/2587007631483422) / [Mobile](https://m.facebook.com/events/2580397835477735?view=permalink&id=2587007631483422) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 8.27 | 9.06 | 🥈 💥 ⚡ | [Desktop](https://www.facebook.com/events/2580397835477735/permalink/2591577584359760) / [Mobile](https://m.facebook.com/events/2580397835477735?view=permalink&id=2591577584359760) |
 | 3 | [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 50+ | <i class="flag flag-US" /> | 11.73 | 14.26 | 🥉 | [Desktop](https://www.facebook.com/events/2580397835477735/permalink/2588303851353800) / [Mobile](https://m.facebook.com/events/2580397835477735?view=permalink&id=2588303851353800) |
 
@@ -26,7 +26,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Adam Leyton](../../persons/adam_leyton/clock.md) | 40+ | | 8.82 | 9.38 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1450990238890383/permalink/1459234031399337) / [Mobile](https://m.facebook.com/events/1450990238890383?view=permalink&id=1459234031399337) |
+| 1 | [Adam Leyton](../../persons/adam_leyton/clock.md) | 40+ | <i class="flag flag-GB" /> | 8.82 | 9.38 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1450990238890383/permalink/1459234031399337) / [Mobile](https://m.facebook.com/events/1450990238890383?view=permalink&id=1459234031399337) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 8.66 | 9.61 | 🥈 | [Desktop](https://www.facebook.com/events/1450990238890383/permalink/1459362071386533) / [Mobile](https://m.facebook.com/events/1450990238890383?view=permalink&id=1459362071386533) |
 | 3 | [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 50+ | <i class="flag flag-US" /> | 11.64 | 12.46 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1450990238890383/permalink/1459361684719905) / [Mobile](https://m.facebook.com/events/1450990238890383?view=permalink&id=1459361684719905) |
 

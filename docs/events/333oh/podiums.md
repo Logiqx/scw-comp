@@ -10,21 +10,21 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | | 24.49 | 29.50 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/1675794166530041) / [Mobile](https://m.facebook.com/745394767/videos/1675794166530041) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 24.49 | 29.50 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/1675794166530041) / [Mobile](https://m.facebook.com/745394767/videos/1675794166530041) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 44.00 | 56.39 | 🥈 | [Desktop](https://www.facebook.com/events/1156782986175552/permalink/1165196502000867) / [Mobile](https://m.facebook.com/events/1156782986175552?view=permalink&id=1165196502000867) |
 
 #### [2024-08-05](../../results/2024-08-05/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | | 26.74 | 31.21 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/880587087288975) / [Mobile](https://m.facebook.com/745394767/videos/880587087288975) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 26.74 | 31.21 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/880587087288975) / [Mobile](https://m.facebook.com/745394767/videos/880587087288975) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 48.35 | 53.22 | 🥈 | [Desktop](https://www.facebook.com/events/1659713531529180/permalink/1666021560898377) / [Mobile](https://m.facebook.com/events/1659713531529180?view=permalink&id=1666021560898377) |
 
 #### [2024-07-22](../../results/2024-07-22/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | | 24.05 | 26.59 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/909767637577126/permalink/915607280326495) / [Mobile](https://m.facebook.com/events/909767637577126?view=permalink&id=915607280326495) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 24.05 | 26.59 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/909767637577126/permalink/915607280326495) / [Mobile](https://m.facebook.com/events/909767637577126?view=permalink&id=915607280326495) |
 | 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 34.29 | 38.10 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/909767637577126/permalink/916378293582727) / [Mobile](https://m.facebook.com/events/909767637577126?view=permalink&id=916378293582727) |
 | 3 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 53.15 | 59.65 | 🥉 | [Desktop](https://www.facebook.com/events/909767637577126/permalink/918843796669510) / [Mobile](https://m.facebook.com/events/909767637577126?view=permalink&id=918843796669510) |
 
@@ -32,13 +32,13 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | | 23.33 | 29.48 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/745394767/videos/1624176771485453) / [Mobile](https://m.facebook.com/745394767/videos/1624176771485453) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 23.33 | 29.48 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/745394767/videos/1624176771485453) / [Mobile](https://m.facebook.com/745394767/videos/1624176771485453) |
 
 #### [2024-06-24](../../results/2024-06-24/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | | 22.19 | 30.92 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/354205767706120) / [Mobile](https://m.facebook.com/745394767/videos/354205767706120) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 22.19 | 30.92 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/354205767706120) / [Mobile](https://m.facebook.com/745394767/videos/354205767706120) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 40.59 | 53.66 | 🥈 | [Desktop](https://www.facebook.com/events/437464695833920/permalink/445836621663394) / [Mobile](https://m.facebook.com/events/437464695833920?view=permalink&id=445836621663394) |
 | 3 | [Kristina Lim](../../persons/kristina_lim/333oh.md) | 50+ | <i class="flag flag-US" /> | 1:11.70 | 1:21.25 | 🥉 | [Desktop](https://www.facebook.com/1045330593/videos/262141633654008) / [Mobile](https://m.facebook.com/1045330593/videos/262141633654008) |
 

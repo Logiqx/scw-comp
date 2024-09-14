@@ -11,7 +11,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 5.20 | 7.41 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1156782986175552/permalink/1160401365813714) / [Mobile](https://m.facebook.com/events/1156782986175552?view=permalink&id=1160401365813714) |
-| 2 | [Adam Leyton](../../persons/adam_leyton/222.md) | 40+ | | 7.11 | 8.57 | 🥈 | [Desktop](https://www.facebook.com/events/1156782986175552/permalink/1162357882284729) / [Mobile](https://m.facebook.com/events/1156782986175552?view=permalink&id=1162357882284729) |
+| 2 | [Adam Leyton](../../persons/adam_leyton/222.md) | 40+ | <i class="flag flag-GB" /> | 7.11 | 8.57 | 🥈 | [Desktop](https://www.facebook.com/events/1156782986175552/permalink/1162357882284729) / [Mobile](https://m.facebook.com/events/1156782986175552?view=permalink&id=1162357882284729) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 8.04 | 8.66 | 🥉 | [Desktop](https://www.facebook.com/events/1156782986175552/permalink/1166147271905790) / [Mobile](https://m.facebook.com/events/1156782986175552?view=permalink&id=1166147271905790) |
 
 #### [2024-08-05](../../results/2024-08-05/222.md)
@@ -26,7 +26,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Adam Leyton](../../persons/adam_leyton/222.md) | 40+ | | 4.88 | 6.11 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/909767637577126/permalink/918709050016318) / [Mobile](https://m.facebook.com/events/909767637577126?view=permalink&id=918709050016318) |
+| 1 | [Adam Leyton](../../persons/adam_leyton/222.md) | 40+ | <i class="flag flag-GB" /> | 4.88 | 6.11 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/909767637577126/permalink/918709050016318) / [Mobile](https://m.facebook.com/events/909767637577126?view=permalink&id=918709050016318) |
 | 2 | [Glyn Brown](../../persons/glyn_brown/222.md) | 40+ | <i class="flag flag-GB" /> | 5.36 | 6.56 | 🥈 | [Desktop](https://www.facebook.com/events/909767637577126/permalink/916045720282651) / [Mobile](https://m.facebook.com/events/909767637577126?view=permalink&id=916045720282651) |
 | 3 | [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 5.91 | 6.63 | 🥉 | [Desktop](https://www.facebook.com/events/909767637577126/permalink/918732610013962) / [Mobile](https://m.facebook.com/events/909767637577126?view=permalink&id=918732610013962) |
 
