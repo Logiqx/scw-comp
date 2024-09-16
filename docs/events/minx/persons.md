@@ -18,12 +18,12 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | <i class="flag flag-GB" /> | 1:39.20 | 1:45.90 | 🏆 x 4 | 🥇 x 4, 🥈 x 2 | 💥 x 5, 🔥 x 5, ⚡ x 4 |
+| [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | <i class="flag flag-GB" /> | 1:31.96 | 1:42.69 | 🏆 x 5 | 🥇 x 5, 🥈 x 2 | 💥 x 6, 🔥 x 6, ⚡ x 5 |
 | [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:10.66 | DNF |  | 🥈 x 5, 🥉 x 4 | ⚡ x 5 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | <i class="flag flag-US" /> | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:41.67 | 2:49.60 | 🏆 x 1 | 🥇 x 1, 🥈 x 8, 🥉 x 5 | 💥 x 3, 🔥 x 6, ⚡ x 8 |
-| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:59.79 | 2:22.26 | 🏆 x 21 | 🥇 x 29, 🥈 x 9, 🥉 x 3 | 🔥 x 11, ⚡ x 18 |
+| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:59.79 | 2:22.26 | 🏆 x 21 | 🥇 x 29, 🥈 x 9, 🥉 x 4 | 🔥 x 11, ⚡ x 18 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
 
 #### Over 40
@@ -33,7 +33,7 @@
 | [Aaron Cumes](../../persons/aaron_cumes/minx.md) | 40+ | <i class="flag flag-GB" /> | 3:52.70 | DNF |  | 🥉 x 4 | ⚡ x 2 |
 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | <i class="flag flag-GB" /> | 2:21.01 | 2:38.71 |  | 🥈 x 8 | 🔥 x 5, ⚡ x 4 |
 | [Anthony Rochester](../../persons/anthony_rochester/minx.md) | 40+ | <i class="flag flag-AU" /> | 3:53.90 | DNF |  | 🥉 x 1 | ⚡ x 1 |
-| [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | <i class="flag flag-GB" /> | 1:39.20 | 1:45.90 | 🏆 x 4 | 🥇 x 4, 🥈 x 2 | 💥 x 5, 🔥 x 5, ⚡ x 4 |
+| [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | <i class="flag flag-GB" /> | 1:31.96 | 1:42.69 | 🏆 x 5 | 🥇 x 5, 🥈 x 2 | 💥 x 6, 🔥 x 6, ⚡ x 5 |
 | [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:10.66 | DNF |  | 🥈 x 5, 🥉 x 4 | ⚡ x 5 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | <i class="flag flag-US" /> | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/minx.md) | 40+ | <i class="flag flag-US" /> | 4:49.07 | DNF |  |  | ⚡ x 1 |
@@ -47,8 +47,8 @@
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:13.30 | 1:25.08 | 🏆 x 21 | 🥇 x 28, 🥈 x 8 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
 | [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:41.67 | 2:49.60 | 🏆 x 1 | 🥇 x 1, 🥈 x 8, 🥉 x 5 | 💥 x 3, 🔥 x 6, ⚡ x 8 |
-| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:59.79 | 2:22.26 | 🏆 x 21 | 🥇 x 29, 🥈 x 9, 🥉 x 3 | 🔥 x 11, ⚡ x 18 |
-| [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:31.88 | 1:42.27 | 🏆 x 7 | 🥇 x 7, 🥈 x 6 | 🔥 x 8, ⚡ x 6 |
+| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:59.79 | 2:22.26 | 🏆 x 21 | 🥇 x 29, 🥈 x 9, 🥉 x 4 | 🔥 x 11, ⚡ x 18 |
+| [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:31.88 | 1:42.27 | 🏆 x 7 | 🥇 x 7, 🥈 x 7 | 🔥 x 8, ⚡ x 6 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 1:33.32 | 1:41.81 | 🏆 x 5 | 🥇 x 8, 🥈 x 4, 🥉 x 4 | 🔥 x 7, ⚡ x 14 |
 

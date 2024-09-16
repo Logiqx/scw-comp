@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-09-02](../../results/2024-09-02/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 25.24 | 27.11 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/843370041113574) / [Mobile](https://m.facebook.com/745394767/videos/843370041113574) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 40.96 | 54.28 | 🥈 | [Desktop](https://www.facebook.com/events/536643418925945/permalink/546077101315910) / [Mobile](https://m.facebook.com/events/536643418925945?view=permalink&id=546077101315910) |
+
 #### [2024-08-19](../../results/2024-08-19/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
