@@ -1,0 +1,35 @@
+D F D' R2 F U' L' D B' L' D2 B2 R U2 B2 R B2 R2 D Fw Uw'
+D2 R' L2 B2 L D' R' D2 R F U2 L U2 R' U2 B2 R2 D' Fw
+R F' B2 D R' U L F' B D' U2 R2 L' F2 R2 L U2 L2 D2 Fw' Uw2
+L B' U B2 R' F B2 L U2 F2 D B2 R2 B2 L2 U R2 L' D Fw' Uw
+U F R2 L2 B' R2 F L' R2 F2 D2 B2 U' F2 L2 F2 D' L2 D' F' Uw
+L U R D2 R D2 R U' B' U' L' U B2 R2 B2 R2 U' B2 D' Rw' Uw
+F' R L2 U' L' D' B2 R B' R B2 U' D2 R2 D' B2 D L Uw2
+D' B' U L B' R2 F D L' R2 B2 R2 B D2 F R2 B' D' Rw2
+F' L2 B2 U' L2 B2 U' F2 L2 U2 L2 R U2 F2 R' U' L' B' F D2 Fw Uw2
+R' F U F2 L' F2 U R2 B R' U2 D2 L2 F' B' D2 L Fw Uw
+D2 L D2 L' F2 D2 B2 D2 L' F2 R2 D' R2 B' D' U2 L R F2 D2 Fw' Uw
+D2 F2 R' B' U L F' D F2 R' L F2 L2 D2 B2 U2 L' U2 D Rw' Uw'
+B' L B U' R' B L2 F U F2 D' R2 U2 D' F2 D2 R2 F2 L B Uw2
+B2 U B' U F' L' D B D2 R2 F2 B2 R B2 R B2 D2 U R Uw'
+U F2 D' R2 F2 D L2 B2 L2 F R D L' R F' D L' B D2 Fw
+U' L F' L' D R2 D L2 D L2 U R' U' B D' R F2 L' B2 Rw'
+R' F U2 B2 F' R2 B' R2 L D R U' L D2 F L2 B' Rw Uw2
+U2 B2 R2 F2 D R2 D' B2 U2 B2 L B U2 F2 U2 B2 L' D' L' Fw Uw'
+R F' L2 U2 R2 D' R2 U' B2 L2 D2 R2 U' L U' L2 B' D' L F' R' Fw' Uw2
+B2 R' F2 U' R2 F2 D2 F2 D B2 F' U L R2 B2 F D B D Fw' Uw2
+F' R2 B D F2 B' U' L D R D2 L' U2 B2 R' D2 L2 D' F Rw' Uw'
+D2 R B2 R F2 L R' F2 B L R' F' U R2 F' L2 U2 B Rw Uw
+U2 B2 R B2 U' L' U2 F B' U F2 U2 B2 R2 F2 D B2 U' Rw2 Uw2
+R' D B' U B' U R U D' F' R' F2 U2 D2 R D2 F2 R2 D
+L2 B2 D R' D' F R L' D2 R2 D' F2 U R2 U F2 B R B Rw2 Uw
+U' F R' U2 D' B' L2 B' L' U F2 L2 B2 D' L2 U' R' B' Rw
+D' L U' B' U' F B L U L2 U B2 U2 R D2 R F2 U2 Rw Uw'
+F2 L B2 D2 L' F2 R' D2 F2 R' D F D2 L2 D' L' U' L B Rw' Uw2
+U' B R L' U R' U' R2 B2 D2 L2 D2 R2 F2 R F2 L F' R' Fw Uw2
+F2 D R F R' D2 R' B2 L2 U2 R U' B' L2 B U2 R' B2 Rw Uw'
+R U L2 D2 R2 B2 R2 U2 B U' R' D2 B R' D' U F' L U' Rw' Uw2
+F' B' D' B R' B L2 D' R2 B' L2 D2 R2 F L2 F B L2 D' Rw Uw'
+U' F' U D2 R D' B' L2 D' R' U2 L2 D2 B2 U' D2 R2 U2 R Fw Uw
+B' D2 L2 B D2 U2 B2 D2 L2 B L' B R2 B D' B2 U' B2 R D' Rw2 Uw
+L' R' B2 L F2 L' U2 F2 B D' L' R' B' F D2 U' L R2 D2 Rw2 Uw2
