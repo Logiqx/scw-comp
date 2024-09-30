@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-09-16](../../results/2024-09-16/777.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 4:14.82 | 4:26.45 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1169142974162460/permalink/1175757600167664) / [Mobile](https://m.facebook.com/events/1169142974162460?view=permalink&id=1175757600167664) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 4:31.48 | 4:52.95 | 🥈 | [Desktop](https://www.facebook.com/745394767/videos/874214041002147) / [Mobile](https://m.facebook.com/745394767/videos/874214041002147) |
+| 3 | [Eric Dodson](../../persons/eric_dodson/777.md) | 50+ | <i class="flag flag-US" /> | 8:05.12 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/1169142974162460/permalink/1171915387218552) / [Mobile](https://m.facebook.com/events/1169142974162460?view=permalink&id=1171915387218552) |
+
 #### [2024-09-02](../../results/2024-09-02/777.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

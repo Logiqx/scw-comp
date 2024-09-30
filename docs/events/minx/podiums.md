@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-09-16](../../results/2024-09-16/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:27.39 | 1:57.40 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1432335554111064/permalink/1440899776587975) / [Mobile](https://m.facebook.com/events/1432335554111064?view=permalink&id=1440899776587975) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 2:22.09 | 2:36.75 | 🥈 | [Desktop](https://www.facebook.com/events/1432335554111064/permalink/1440506633293956) / [Mobile](https://m.facebook.com/events/1432335554111064?view=permalink&id=1440506633293956) |
+| 3 | [Eric Dodson](../../persons/eric_dodson/minx.md) | 50+ | <i class="flag flag-US" /> | 2:29.05 | 2:49.81 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1432335554111064/permalink/1433733853971234) / [Mobile](https://m.facebook.com/events/1432335554111064?view=permalink&id=1433733853971234) |
+
 #### [2024-09-02](../../results/2024-09-02/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

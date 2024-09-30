@@ -17,7 +17,7 @@
 | [4x4x4](444.md) | 3:53.57 | - |  |  | ⚡ x 1 |
 | [Pyraminx](pyram.md) | 6.61 | 11.21 |  | 🥈 x 2, 🥉 x 10 | 💥 x 1, 🔥 x 13, ⚡ x 8 |
 | [Skewb](skewb.md) | 7.91 | 12.42 | 🏆 x 1 | 🥇 x 1, 🥈 x 6, 🥉 x 17 | 💥 x 5, 🔥 x 5, ⚡ x 6 |
-| [Clock](clock.md) | 13.12 | 15.45 |  | 🥈 x 2, 🥉 x 7 | 🔥 x 17, ⚡ x 15 |
+| [Clock](clock.md) | 13.12 | 14.86 |  | 🥈 x 2, 🥉 x 7 | 🔥 x 18, ⚡ x 16 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

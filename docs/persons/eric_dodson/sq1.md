@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-09-16](../../results/2024-09-16/sq1.md) | 50+ | **24.63** | **37.29** | 🥉 🔥 ⚡ | **24.63** | 34.42 | 40.46 | 1:05.32 | 36.99 | [Desktop](https://www.facebook.com/events/876328274072061/permalink/877776683927220) / [Mobile](https://m.facebook.com/events/876328274072061?view=permalink&id=877776683927220) |
 | [2022-08-22](../../results/2022-08-22/sq1.md) | 40+ | **36.94** | 50.26 | 🥉 ⚡ | 51.28 | 51.20 | **36.94** | 48.31 | 53.44 | [Desktop](https://www.facebook.com/events/476554570981315/permalink/477537894216316) / [Mobile](https://m.facebook.com/events/476554570981315?view=permalink&id=477537894216316) |
 | [2022-08-08](../../results/2022-08-08/sq1.md) | 40+ | **38.55** | **42.77** | 🥈 🔥 ⚡ | **38.55** | 51.69 | 40.18 | 46.54 | 41.60 | [Desktop](https://www.facebook.com/events/1202320373645710/permalink/1210586729485741) / [Mobile](https://m.facebook.com/events/1202320373645710?view=permalink&id=1210586729485741) |
 | [2022-07-11](../../results/2022-07-11/sq1.md) | 40+ | 51.35 | 1:11.28 | 🥉 | 1:12.90 | 53.43 | 1:27.50 | 51.35 | 1:29.17 | [Desktop](https://www.facebook.com/events/1077792383124606/permalink/1082428245994353) / [Mobile](https://m.facebook.com/events/1077792383124606?view=permalink&id=1082428245994353) |

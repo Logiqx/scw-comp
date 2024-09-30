@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-09-16](../../results/2024-09-16/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 60+ | <i class="flag flag-SE" /> | 7/11 in 55:09 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/838621045098189/permalink/839819948311632) / [Mobile](https://m.facebook.com/events/838621045098189?view=permalink&id=839819948311632) |
+| 2 | [Daniel Houghton](../../persons/daniel_houghton/333mbf.md) | 40+ | <i class="flag flag-CH" /> | 2/4 in 23:46 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/838621045098189/permalink/842189894741304) / [Mobile](https://m.facebook.com/events/838621045098189?view=permalink&id=842189894741304) |
+| 3 | [Dan Smith](../../persons/dan_smith/333mbf.md) | 50+ | <i class="flag flag-US" /> | 2/4 in 35:08 | 🥉 | [Desktop](https://www.facebook.com/events/838621045098189/permalink/848971194063174) / [Mobile](https://m.facebook.com/events/838621045098189?view=permalink&id=848971194063174) |
+
 
 
 #### [2024-08-05](../../results/2024-08-05/333mbf.md)
