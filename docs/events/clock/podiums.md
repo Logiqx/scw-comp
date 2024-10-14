@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-09-30](../../results/2024-09-30/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Adam Leyton](../../persons/adam_leyton/clock.md) | 40+ | <i class="flag flag-GB" /> | 7.11 | 8.92 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/1131341765207379/permalink/1137169434624612) / [Mobile](https://m.facebook.com/events/1131341765207379?view=permalink&id=1137169434624612) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 8.04 | 9.66 | 🥈 | [Desktop](https://www.facebook.com/events/1131341765207379/permalink/1142167054124850) / [Mobile](https://m.facebook.com/events/1131341765207379?view=permalink&id=1142167054124850) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 50+ | <i class="flag flag-US" /> | 11.47 | 13.08 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/1131341765207379/permalink/1139368011071421) / [Mobile](https://m.facebook.com/events/1131341765207379?view=permalink&id=1139368011071421) |
+
 #### [2024-09-16](../../results/2024-09-16/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
