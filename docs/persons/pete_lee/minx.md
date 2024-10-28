@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-10-14](../../results/2024-10-14/minx.md) | 40+ | 1:35.63 | 1:45.27 | 🏆 🥇 | 1:35.63 | 1:50.57 | 1:42.75 | 2:03.07 | 1:42.48 | [Desktop](https://www.facebook.com/events/892899002359105/permalink/901391978176474) / [Mobile](https://m.facebook.com/events/892899002359105?view=permalink&id=901391978176474) |
 | [2024-09-30](../../results/2024-09-30/minx.md) | 40+ | 1:37.93 | 1:57.88 | 🥈 | 1:37.93 | 1:43.59 | 2:11.07 | 2:11.60 | 1:58.97 | [Desktop](https://www.facebook.com/events/559779533112258/permalink/569937542096457) / [Mobile](https://m.facebook.com/events/559779533112258?view=permalink&id=569937542096457) |
 | [2024-09-16](../../results/2024-09-16/minx.md) | 40+ | **1:27.39** | 1:57.40 | 🏆 🥇 ⚡ | 1:49.01 | 1:56.81 | 2:06.38 | DNF | **1:27.39** | [Desktop](https://www.facebook.com/events/1432335554111064/permalink/1440899776587975) / [Mobile](https://m.facebook.com/events/1432335554111064?view=permalink&id=1440899776587975) |
 | [2024-09-02](../../results/2024-09-02/minx.md) | 40+ | 1:35.52 | 1:53.49 | 🥈 | 1:35.52 | DNF | 2:10.47 | 1:41.26 | 1:48.75 | [Desktop](https://www.facebook.com/events/536643418925945/permalink/540409101882710) / [Mobile](https://m.facebook.com/events/536643418925945?view=permalink&id=540409101882710) |

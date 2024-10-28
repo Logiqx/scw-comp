@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-10-14](../../results/2024-10-14/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 23.04 | 25.45 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/1066832657975209) / [Mobile](https://m.facebook.com/745394767/videos/1066832657975209) |
+| 2 | [Eric Dodson](../../persons/eric_dodson/333oh.md) | 50+ | <i class="flag flag-US" /> | 44.71 | 1:10.02 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/892899002359105/permalink/902201364762202) / [Mobile](https://m.facebook.com/events/892899002359105?view=permalink&id=902201364762202) |
+| 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 1:04.79 | 1:17.89 | 🥉 | [Desktop](https://www.facebook.com/events/892899002359105/permalink/900581071590898) / [Mobile](https://m.facebook.com/events/892899002359105?view=permalink&id=900581071590898) |
+
 #### [2024-09-30](../../results/2024-09-30/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
