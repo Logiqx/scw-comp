@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-10-28](../../results/2024-10-28/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 18.17 | 24.55 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/929053079074962/permalink/933957045251232) / [Mobile](https://m.facebook.com/events/929053079074962?view=permalink&id=933957045251232) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 22.02 | 33.27 | 🥈 | [Desktop](https://www.facebook.com/events/929053079074962/permalink/938285708151699) / [Mobile](https://m.facebook.com/events/929053079074962?view=permalink&id=938285708151699) |
+| 3 | [Eric Dodson](../../persons/eric_dodson/sq1.md) | 50+ | <i class="flag flag-US" /> | 28.11 | 36.77 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/929053079074962/permalink/930122752301328) / [Mobile](https://m.facebook.com/events/929053079074962?view=permalink&id=930122752301328) |
+
 #### [2024-10-14](../../results/2024-10-14/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
