@@ -21,8 +21,8 @@
 | [Jae Park](../../persons/jae_park/333bf.md) | 50+ | <i class="flag flag-US" /> | 37.19 | 48.04 | 🏆 x 47 | 🥇 x 50, 🥈 x 1 | 💥 x 12, 🔥 x 3, ⚡ x 10 |
 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | <i class="flag flag-AR" /> | 2:34.83 | 3:37.17 |  | 🥇 x 1, 🥈 x 2, 🥉 x 7 | 🔥 x 2, ⚡ x 5 |
 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 60+ | <i class="flag flag-SE" /> | 1:55.87 | 2:14.75 | 🏆 x 14 | 🥇 x 16, 🥈 x 14, 🥉 x 6 | 💥 x 8, 🔥 x 3, ⚡ x 7 |
-| [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:08.71 | 2:28.20 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 3 | 🔥 x 1, ⚡ x 2 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:48.49 | 1:57.92 | 🏆 x 20 | 🥇 x 21, 🥈 x 15, 🥉 x 4 | 🔥 x 3, ⚡ x 9 |
+| [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:55.80 | 2:09.41 | 🏆 x 2 | 🥇 x 2, 🥈 x 1, 🥉 x 3 | 🔥 x 2, ⚡ x 3 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:48.49 | 1:57.92 | 🏆 x 20 | 🥇 x 21, 🥈 x 15, 🥉 x 5 | 🔥 x 3, ⚡ x 9 |
 
 #### Over 40
 
@@ -31,7 +31,7 @@
 | [Andy Nicholls](../../persons/andy_nicholls/333bf.md) | 40+ | <i class="flag flag-GB" /> | 2:00.58 | 2:24.45 |  | 🥈 x 2, 🥉 x 3 | 🔥 x 1, ⚡ x 1 |
 | [Anthony Rochester](../../persons/anthony_rochester/333bf.md) | 40+ | <i class="flag flag-AU" /> | 44.61 | 50.41 | 🏆 x 18 | 🥇 x 19, 🥈 x 18, 🥉 x 8 | 🔥 x 3, ⚡ x 7 |
 | [Dan Smith](../../persons/dan_smith/333bf.md) | 50+ | <i class="flag flag-US" /> | 2:58.56 | 3:28.67 |  | 🥈 x 1, 🥉 x 3 | 🔥 x 1, ⚡ x 6 |
-| [Daniel Houghton](../../persons/daniel_houghton/333bf.md) | 40+ | <i class="flag flag-CH" /> | 1:46.49 | 2:48.40 | 🏆 x 7 | 🥇 x 7, 🥈 x 7, 🥉 x 8 | 🔥 x 2, ⚡ x 7 |
+| [Daniel Houghton](../../persons/daniel_houghton/333bf.md) | 40+ | <i class="flag flag-CH" /> | 1:46.49 | 2:48.40 | 🏆 x 7 | 🥇 x 7, 🥈 x 8, 🥉 x 8 | 🔥 x 2, ⚡ x 7 |
 | [Eric Dodson](../../persons/eric_dodson/333bf.md) | 50+ | <i class="flag flag-US" /> | 3:41.00 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Gordon Holey](../../persons/gordon_holey/333bf.md) | 40+ | <i class="flag flag-US" /> | 8:48.40 | DNF |  | 🥈 x 1, 🥉 x 1 | ⚡ x 2 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333bf.md) | 40+ | <i class="flag flag-PL" /> | 51.62 | 59.98 | 🏆 x 7 | 🥇 x 7, 🥈 x 11, 🥉 x 3 | 🔥 x 2, ⚡ x 5 |
@@ -42,10 +42,10 @@
 | [Mark Adams](../../persons/mark_adams/333bf.md) | 40+ | <i class="flag flag-GB" /> | 1:46.60 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Michael Lee](../../persons/michael_lee/333bf.md) | 40+ | <i class="flag flag-US" /> | 3:22.36 | DNF |  |  | ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 60+ | <i class="flag flag-SE" /> | 1:55.87 | 2:14.75 | 🏆 x 14 | 🥇 x 16, 🥈 x 14, 🥉 x 6 | 💥 x 8, 🔥 x 3, ⚡ x 7 |
-| [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 2:08.71 | 2:28.20 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 3 | 🔥 x 1, ⚡ x 2 |
+| [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:55.80 | 2:09.41 | 🏆 x 2 | 🥇 x 2, 🥈 x 1, 🥉 x 3 | 🔥 x 2, ⚡ x 3 |
 | [Stuart Salmon](../../persons/stuart_salmon/333bf.md) | 40+ | <i class="flag flag-GB" /> | 3:24.37 | DNF |  |  | ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | 40+ | <i class="flag flag-FR" /> | 1:11.93 | 1:31.27 | 🏆 x 3 | 🥇 x 3, 🥈 x 9, 🥉 x 4 | 🔥 x 3, ⚡ x 2 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:48.49 | 1:57.92 | 🏆 x 20 | 🥇 x 21, 🥈 x 15, 🥉 x 4 | 🔥 x 3, ⚡ x 9 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:48.49 | 1:57.92 | 🏆 x 20 | 🥇 x 21, 🥈 x 15, 🥉 x 5 | 🔥 x 3, ⚡ x 9 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333bf.md) | 40+ | <i class="flag flag-IN" /> | 5:29.35 | DNF |  |  | ⚡ x 1 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333bf.md) | 40+ | <i class="flag flag-FR" /> | 1:50.43 | 2:50.79 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 3 |
 | [Yuichi Hamada](../../persons/yuichi_hamada/333bf.md) | 40+ | <i class="flag flag-JP" /> | 2:21.37 | DNF |  | 🥉 x 1 | ⚡ x 1 |

@@ -11,7 +11,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Joe Kucala](../../persons/joe_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 13.12 | 14.86 |  | 🥈 x 2, 🥉 x 7 | 🔥 x 18, ⚡ x 16 |
-| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 7.91 | 8.87 | 🏆 x 43 | 🥇 x 52, 🥈 x 23, 🥉 x 3 | 💥 x 42, 🔥 x 25, ⚡ x 33 |
+| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 7.91 | 8.87 | 🏆 x 43 | 🥇 x 52, 🥈 x 24, 🥉 x 3 | 💥 x 42, 🔥 x 25, ⚡ x 33 |
 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 60+ | <i class="flag flag-US" /> | 10.83 | 11.50 | 🏆 x 14 | 🥇 x 15, 🥈 x 8, 🥉 x 2 | 💥 x 5, 🔥 x 16, ⚡ x 14 |
 | [Peter Douthwright](../../persons/peter_douthwright/clock.md) | 60+ | <i class="flag flag-CA" /> | 32.77 | 36.78 |  | 🥈 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 
@@ -24,9 +24,9 @@
 | [Jae Park](../../persons/jae_park/clock.md) | 50+ | <i class="flag flag-US" /> | 24.69 | 31.52 |  | 🥈 x 4, 🥉 x 7 | 🔥 x 7, ⚡ x 7 |
 | [Joe Kucala](../../persons/joe_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 13.12 | 14.86 |  | 🥈 x 2, 🥉 x 7 | 🔥 x 18, ⚡ x 16 |
 | [Kristina Lim](../../persons/kristina_lim/clock.md) | 50+ | <i class="flag flag-US" /> | 10.45 | 13.70 | 🏆 x 1 | 🥇 x 1, 🥈 x 8, 🥉 x 7 | 🔥 x 7, ⚡ x 9 |
-| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 7.91 | 8.87 | 🏆 x 43 | 🥇 x 52, 🥈 x 23, 🥉 x 3 | 💥 x 42, 🔥 x 25, ⚡ x 33 |
+| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 7.91 | 8.87 | 🏆 x 43 | 🥇 x 52, 🥈 x 24, 🥉 x 3 | 💥 x 42, 🔥 x 25, ⚡ x 33 |
 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 60+ | <i class="flag flag-US" /> | 10.83 | 11.50 | 🏆 x 14 | 🥇 x 15, 🥈 x 8, 🥉 x 2 | 💥 x 5, 🔥 x 16, ⚡ x 14 |
-| [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 50+ | <i class="flag flag-US" /> | 11.47 | 12.46 | 🏆 x 3 | 🥇 x 4, 🥈 x 8, 🥉 x 13 | 🔥 x 15, ⚡ x 15 |
+| [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 50+ | <i class="flag flag-US" /> | 11.47 | 12.46 | 🏆 x 3 | 🥇 x 4, 🥈 x 8, 🥉 x 14 | 🔥 x 15, ⚡ x 15 |
 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | <i class="flag flag-SE" /> | 17.75 | 23.28 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 5, ⚡ x 4 |
 | [Peter Douthwright](../../persons/peter_douthwright/clock.md) | 60+ | <i class="flag flag-CA" /> | 32.77 | 36.78 |  | 🥈 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 
@@ -35,7 +35,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Aaron Cumes](../../persons/aaron_cumes/clock.md) | 40+ | <i class="flag flag-GB" /> | 26.22 | 32.71 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
-| [Adam Leyton](../../persons/adam_leyton/clock.md) | 40+ | <i class="flag flag-GB" /> | 7.11 | 8.33 | 🏆 x 6 | 🥇 x 6 | 💥 x 5, 🔥 x 5, ⚡ x 4 |
+| [Adam Leyton](../../persons/adam_leyton/clock.md) | 40+ | <i class="flag flag-GB" /> | 7.11 | 8.33 | 🏆 x 7 | 🥇 x 7 | 💥 x 5, 🔥 x 5, ⚡ x 4 |
 | [Andy Nicholls](../../persons/andy_nicholls/clock.md) | 40+ | <i class="flag flag-GB" /> | 10.30 | 11.25 | 🏆 x 4 | 🥇 x 4, 🥈 x 3 | 💥 x 4, 🔥 x 4, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/clock.md) | 40+ | <i class="flag flag-AU" /> | 11.14 | 13.06 | 🏆 x 2 | 🥇 x 8, 🥈 x 8, 🥉 x 3 | 🔥 x 7, ⚡ x 12 |
 | [Dan Smith](../../persons/dan_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 16.65 | 19.05 | 🏆 x 2 | 🥇 x 2, 🥈 x 2, 🥉 x 5 | 🔥 x 8, ⚡ x 10 |
@@ -51,11 +51,11 @@
 | [Jan Adams-Fielding](../../persons/jan_adams_fielding/clock.md) | 40+ | <i class="flag flag-GB" /> | 32.81 | 37.15 |  | 🥇 x 2, 🥈 x 1, 🥉 x 3 | 🔥 x 3, ⚡ x 3 |
 | [Joe Kucala](../../persons/joe_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 13.12 | 14.86 |  | 🥈 x 2, 🥉 x 7 | 🔥 x 18, ⚡ x 16 |
 | [Kristina Lim](../../persons/kristina_lim/clock.md) | 50+ | <i class="flag flag-US" /> | 10.45 | 13.70 | 🏆 x 1 | 🥇 x 1, 🥈 x 8, 🥉 x 7 | 🔥 x 7, ⚡ x 9 |
-| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 7.91 | 8.87 | 🏆 x 43 | 🥇 x 52, 🥈 x 23, 🥉 x 3 | 💥 x 42, 🔥 x 25, ⚡ x 33 |
+| [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 7.91 | 8.87 | 🏆 x 43 | 🥇 x 52, 🥈 x 24, 🥉 x 3 | 💥 x 42, 🔥 x 25, ⚡ x 33 |
 | [Maiko Curry](../../persons/maiko_curry/clock.md) | 40+ | <i class="flag flag-JP" /> | 8.32 | 10.96 |  | 🥈 x 4 | 💥 x 1, 🔥 x 3, ⚡ x 4 |
 | [Mark Cordell](../../persons/mark_cordell/clock.md) | 40+ | <i class="flag flag-US" /> | 13.80 | 15.37 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 6, ⚡ x 7 |
 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 60+ | <i class="flag flag-US" /> | 10.83 | 11.50 | 🏆 x 14 | 🥇 x 15, 🥈 x 8, 🥉 x 2 | 💥 x 5, 🔥 x 16, ⚡ x 14 |
-| [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 50+ | <i class="flag flag-US" /> | 11.47 | 12.46 | 🏆 x 3 | 🥇 x 4, 🥈 x 8, 🥉 x 13 | 🔥 x 15, ⚡ x 15 |
+| [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 50+ | <i class="flag flag-US" /> | 11.47 | 12.46 | 🏆 x 3 | 🥇 x 4, 🥈 x 8, 🥉 x 14 | 🔥 x 15, ⚡ x 15 |
 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | <i class="flag flag-SE" /> | 17.75 | 23.28 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 5, ⚡ x 4 |
 | [Peter Douthwright](../../persons/peter_douthwright/clock.md) | 60+ | <i class="flag flag-CA" /> | 32.77 | 36.78 |  | 🥈 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/clock.md) | 40+ | <i class="flag flag-GB" /> | 15.16 | 16.19 |  | 🥈 x 2, 🥉 x 3 | 🔥 x 4, ⚡ x 3 |

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-11-11](../../results/2024-11-11/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 35 | 38.00 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1083595216209881/permalink/1085966575972745) / [Mobile](https://m.facebook.com/events/1083595216209881?view=permalink&id=1085966575972745) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 39 | 44.67 | 🥈 | [Desktop](https://www.facebook.com/events/1083595216209881/permalink/1090718505497552) / [Mobile](https://m.facebook.com/events/1083595216209881?view=permalink&id=1090718505497552) |
+| 3 | [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 43 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/1083595216209881/permalink/1088021745767228) / [Mobile](https://m.facebook.com/events/1083595216209881?view=permalink&id=1088021745767228) |
+
 #### [2024-10-28](../../results/2024-10-28/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

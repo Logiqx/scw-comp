@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-11-11](../../results/2024-11-11/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Adam Leyton](../../persons/adam_leyton/pyram.md) | 40+ | <i class="flag flag-GB" /> | 4.55 | 6.83 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2181074155610032/permalink/2183830782001036) / [Mobile](https://m.facebook.com/events/2181074155610032?view=permalink&id=2183830782001036) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.10 | 10.76 | 🥈 | [Desktop](https://www.facebook.com/events/2181074155610032/permalink/2191239284593519) / [Mobile](https://m.facebook.com/events/2181074155610032?view=permalink&id=2191239284593519) |
+| 3 | [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.57 | 11.93 | 🥉 | [Desktop](https://www.facebook.com/events/2181074155610032/permalink/2181846945532753) / [Mobile](https://m.facebook.com/events/2181074155610032?view=permalink&id=2181846945532753) |
+
 #### [2024-10-28](../../results/2024-10-28/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

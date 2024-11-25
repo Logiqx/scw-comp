@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-11-11](../../results/2024-11-11/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Glyn Brown](../../persons/glyn_brown/222.md) | 40+ | <i class="flag flag-GB" /> | 5.61 | 6.37 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1967492723733489/permalink/1977330872749674) / [Mobile](https://m.facebook.com/events/1967492723733489?view=permalink&id=1977330872749674) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 6.25 | 7.41 | 🥈 | [Desktop](https://www.facebook.com/events/1967492723733489/permalink/1977503842732377) / [Mobile](https://m.facebook.com/events/1967492723733489?view=permalink&id=1977503842732377) |
+| 3 | [Adam Leyton](../../persons/adam_leyton/222.md) | 40+ | <i class="flag flag-GB" /> | 6.74 | 7.88 | 🥉 | [Desktop](https://www.facebook.com/events/1967492723733489/permalink/1970179956798099) / [Mobile](https://m.facebook.com/events/1967492723733489?view=permalink&id=1970179956798099) |
+
 #### [2024-10-28](../../results/2024-10-28/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

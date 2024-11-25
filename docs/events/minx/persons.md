@@ -11,7 +11,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | <i class="flag flag-US" /> | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
-| [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:33.77 | 2:45.86 | 🏆 x 1 | 🥇 x 1, 🥈 x 9, 🥉 x 7 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
+| [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:33.77 | 2:45.86 | 🏆 x 1 | 🥇 x 1, 🥈 x 10, 🥉 x 7 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
 
 #### Over 50
@@ -23,8 +23,8 @@
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | <i class="flag flag-US" /> | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/minx.md) | 50+ | <i class="flag flag-US" /> | 2:27.35 | 2:49.50 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
-| [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:33.77 | 2:45.86 | 🏆 x 1 | 🥇 x 1, 🥈 x 9, 🥉 x 7 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
-| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:59.79 | 2:22.26 | 🏆 x 22 | 🥇 x 30, 🥈 x 10, 🥉 x 4 | 🔥 x 11, ⚡ x 18 |
+| [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:33.77 | 2:45.86 | 🏆 x 1 | 🥇 x 1, 🥈 x 10, 🥉 x 7 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
+| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:59.79 | 2:22.26 | 🏆 x 23 | 🥇 x 31, 🥈 x 10, 🥉 x 4 | 🔥 x 11, ⚡ x 18 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
 
 #### Over 40
@@ -47,8 +47,8 @@
 | [Jo Cocco](../../persons/jo_cocco/minx.md) | 40+ | <i class="flag flag-GB" /> | 2:28.73 | 2:36.84 | 🏆 x 1 | 🥇 x 3, 🥈 x 3, 🥉 x 4 | 🔥 x 5, ⚡ x 6 |
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:13.30 | 1:25.08 | 🏆 x 21 | 🥇 x 28, 🥈 x 8 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
-| [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:33.77 | 2:45.86 | 🏆 x 1 | 🥇 x 1, 🥈 x 9, 🥉 x 7 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
-| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:59.79 | 2:22.26 | 🏆 x 22 | 🥇 x 30, 🥈 x 10, 🥉 x 4 | 🔥 x 11, ⚡ x 18 |
+| [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:33.77 | 2:45.86 | 🏆 x 1 | 🥇 x 1, 🥈 x 10, 🥉 x 7 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
+| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:59.79 | 2:22.26 | 🏆 x 23 | 🥇 x 31, 🥈 x 10, 🥉 x 4 | 🔥 x 11, ⚡ x 18 |
 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:27.39 | 1:42.27 | 🏆 x 9 | 🥇 x 9, 🥈 x 8 | 🔥 x 8, ⚡ x 7 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 1:33.32 | 1:41.81 | 🏆 x 5 | 🥇 x 8, 🥈 x 4, 🥉 x 4 | 🔥 x 7, ⚡ x 14 |
