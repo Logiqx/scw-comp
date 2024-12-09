@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-11-25](../../results/2024-11-25/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 7.33 | 11.24 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1941789882998379/permalink/1951101602067207) / [Mobile](https://m.facebook.com/events/1941789882998379?view=permalink&id=1951101602067207) |
+| 2 | [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 8.61 | 12.56 | 🥈 | [Desktop](https://www.facebook.com/events/1941789882998379/permalink/1944018822775485) / [Mobile](https://m.facebook.com/events/1941789882998379?view=permalink&id=1944018822775485) |
+| 3 | [Glyn Brown](../../persons/glyn_brown/pyram.md) | 40+ | <i class="flag flag-GB" /> | 9.93 | 14.93 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1941789882998379/permalink/1950896928754341) / [Mobile](https://m.facebook.com/events/1941789882998379?view=permalink&id=1950896928754341) |
+
 #### [2024-11-11](../../results/2024-11-11/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
