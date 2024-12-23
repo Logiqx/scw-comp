@@ -19,12 +19,12 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | <i class="flag flag-GB" /> | 1:31.96 | 1:35.45 | 🏆 x 6 | 🥇 x 6, 🥈 x 2 | 💥 x 7, 🔥 x 7, ⚡ x 5 |
-| [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:10.66 | DNF |  | 🥈 x 5, 🥉 x 4 | ⚡ x 5 |
+| [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:10.66 | DNF |  | 🥈 x 5, 🥉 x 5 | ⚡ x 5 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | <i class="flag flag-US" /> | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/minx.md) | 50+ | <i class="flag flag-US" /> | 2:27.35 | 2:49.50 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:33.77 | 2:45.86 | 🏆 x 1 | 🥇 x 1, 🥈 x 10, 🥉 x 7 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
-| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:59.79 | 2:12.07 | 🏆 x 23 | 🥇 x 31, 🥈 x 11, 🥉 x 4 | 🔥 x 12, ⚡ x 18 |
+| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:58.35 | 2:10.96 | 🏆 x 23 | 🥇 x 31, 🥈 x 12, 🥉 x 4 | 🔥 x 13, ⚡ x 19 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
 
 #### Over 40
@@ -35,7 +35,7 @@
 | [Andy Nicholls](../../persons/andy_nicholls/minx.md) | 40+ | <i class="flag flag-GB" /> | 2:21.01 | 2:38.71 |  | 🥈 x 8 | 🔥 x 5, ⚡ x 4 |
 | [Anthony Rochester](../../persons/anthony_rochester/minx.md) | 40+ | <i class="flag flag-AU" /> | 3:53.90 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | <i class="flag flag-GB" /> | 1:31.96 | 1:35.45 | 🏆 x 6 | 🥇 x 6, 🥈 x 2 | 💥 x 7, 🔥 x 7, ⚡ x 5 |
-| [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:10.66 | DNF |  | 🥈 x 5, 🥉 x 4 | ⚡ x 5 |
+| [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:10.66 | DNF |  | 🥈 x 5, 🥉 x 5 | ⚡ x 5 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | <i class="flag flag-US" /> | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/minx.md) | 50+ | <i class="flag flag-US" /> | 2:27.35 | 2:49.50 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/minx.md) | 40+ | <i class="flag flag-JP" /> | 1:21.66 | 1:33.77 | 🏆 x 8 | 🥇 x 8, 🥈 x 13, 🥉 x 4 | 💥 x 2, 🔥 x 4, ⚡ x 1 |
@@ -48,8 +48,8 @@
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:13.30 | 1:25.08 | 🏆 x 21 | 🥇 x 28, 🥈 x 8 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
 | [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:33.77 | 2:45.86 | 🏆 x 1 | 🥇 x 1, 🥈 x 10, 🥉 x 7 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
-| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:59.79 | 2:12.07 | 🏆 x 23 | 🥇 x 31, 🥈 x 11, 🥉 x 4 | 🔥 x 12, ⚡ x 18 |
-| [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:27.39 | 1:42.27 | 🏆 x 10 | 🥇 x 10, 🥈 x 8 | 🔥 x 8, ⚡ x 7 |
+| [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:58.35 | 2:10.96 | 🏆 x 23 | 🥇 x 31, 🥈 x 12, 🥉 x 4 | 🔥 x 13, ⚡ x 19 |
+| [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:27.39 | 1:42.27 | 🏆 x 11 | 🥇 x 11, 🥈 x 8 | 🔥 x 8, ⚡ x 7 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 1:33.32 | 1:41.81 | 🏆 x 5 | 🥇 x 8, 🥈 x 4, 🥉 x 4 | 🔥 x 7, ⚡ x 14 |
 

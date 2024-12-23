@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-12-09](../../results/2024-12-09/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/333mbf.md) | 40+ | <i class="flag flag-CH" /> | 5/7 in 47:55 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/553095514206807/permalink/561988366650855) / [Mobile](https://m.facebook.com/events/553095514206807?view=permalink&id=561988366650855) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 2/4 in 21:55 | 🥈 | [Desktop](https://www.facebook.com/745394767/videos/8981618361897687) / [Mobile](https://m.facebook.com/745394767/videos/8981618361897687) |
+
 #### [2024-11-25](../../results/2024-11-25/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |

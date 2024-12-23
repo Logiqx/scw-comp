@@ -10,10 +10,11 @@
 
 #### Clock Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2024-12-09](../../results/2024-12-09/clock.md) | 60+ | **11.46** | **13.71** | 🏆 🥇 🔥 ⚡ | 13.35 | DNF | 13.59 | **11.46** | 14.18 | [Desktop](https://www.facebook.com/events/597699649435295/permalink/602410722297521) / [Mobile](https://m.facebook.com/events/597699649435295?view=permalink&id=602410722297521) |
 | [2024-11-25](../../results/2024-11-25/clock.md) | 60+ | 14.28 | 16.54 | 🥉 | 16.55 | 17.01 | 14.28 | 16.05 | 17.85 | [Desktop](https://www.facebook.com/events/1941789882998379/permalink/1944022899441744) / [Mobile](https://m.facebook.com/events/1941789882998379?view=permalink&id=1944022899441744) |
 | [2024-11-11](../../results/2024-11-11/clock.md) | 60+ | 14.42 | 18.10 |  | 16.59 | 14.42 | 16.43 | 23.40 | 21.28 | [Desktop](https://www.facebook.com/events/2181074155610032/permalink/2181854185532029) / [Mobile](https://m.facebook.com/events/2181074155610032?view=permalink&id=2181854185532029) |
 | [2024-10-28](../../results/2024-10-28/clock.md) | 60+ | 15.61 | 16.91 |  | 15.61 | 17.38 | 17.73 | 15.99 | 17.37 | [Desktop](https://www.facebook.com/events/929053079074962/permalink/932483758731894) / [Mobile](https://m.facebook.com/events/929053079074962?view=permalink&id=932483758731894) |

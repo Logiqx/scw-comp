@@ -25,7 +25,7 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | <i class="flag flag-GB" /> | 4.26 | 5.17 | 🏆 x 4 | 🥇 x 5, 🥈 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 2 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | <i class="flag flag-IT" /> | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
-| [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 2.36 | 6.92 | 🏆 x 6 | 🥇 x 11, 🥈 x 21, 🥉 x 39 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
+| [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 2.36 | 6.92 | 🏆 x 6 | 🥇 x 11, 🥈 x 21, 🥉 x 40 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
 | [Dean Money](../../persons/dean_money/222.md) | 50+ | <i class="flag flag-US" /> | 6.68 | 10.23 |  |  | 🔥 x 2, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | <i class="flag flag-US" /> | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/222.md) | 50+ | <i class="flag flag-US" /> | 6.10 | 7.57 | 🏆 x 2 | 🥇 x 2, 🥈 x 1, 🥉 x 5 | 🔥 x 8, ⚡ x 11 |
@@ -40,7 +40,7 @@
 | [Markus Niederöst](../../persons/markus_niederost/222.md) | 50+ | <i class="flag flag-CH" /> | 7.80 | 9.63 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Martin Melcop](../../persons/martin_melcop/222.md) | 60+ | <i class="flag flag-BR" /> | 5.01 | 8.30 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 💥 x 6, 🔥 x 5, ⚡ x 5 |
 | [Michael Amarello](../../persons/michael_amarello/222.md) | 60+ | <i class="flag flag-US" /> | 11.43 | 31.30 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Mickey Doyle](../../persons/mickey_doyle/222.md) | 50+ | <i class="flag flag-US" /> | 2.92 | 7.14 | 🏆 x 3 | 🥇 x 4, 🥈 x 11, 🥉 x 18 | 🔥 x 14, ⚡ x 14 |
+| [Mickey Doyle](../../persons/mickey_doyle/222.md) | 50+ | <i class="flag flag-US" /> | 2.92 | 7.14 | 🏆 x 3 | 🥇 x 4, 🥈 x 12, 🥉 x 18 | 🔥 x 14, ⚡ x 14 |
 | [Peter Andersson](../../persons/peter_andersson/222.md) | 60+ | <i class="flag flag-SE" /> | 6.82 | 9.38 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/222.md) | 60+ | <i class="flag flag-CA" /> | 6.53 | 10.79 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/222.md) | 50+ | <i class="flag flag-PL" /> | 4.81 | 7.52 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 4 |
@@ -56,8 +56,8 @@
 | [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | <i class="flag flag-AU" /> | 3.29 | 5.17 | 🏆 x 1 | 🥇 x 6, 🥈 x 18, 🥉 x 7 | 🔥 x 5, ⚡ x 3 |
 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | <i class="flag flag-GB" /> | 4.26 | 5.17 | 🏆 x 4 | 🥇 x 5, 🥈 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 2 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | <i class="flag flag-IT" /> | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
-| [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 2.36 | 6.92 | 🏆 x 6 | 🥇 x 11, 🥈 x 21, 🥉 x 39 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
-| [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 2.01 | 5.71 | 🏆 x 19 | 🥇 x 25, 🥈 x 9, 🥉 x 4 | 🔥 x 4, ⚡ x 6 |
+| [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 2.36 | 6.92 | 🏆 x 6 | 🥇 x 11, 🥈 x 21, 🥉 x 40 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
+| [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 2.01 | 5.71 | 🏆 x 20 | 🥇 x 26, 🥈 x 9, 🥉 x 4 | 🔥 x 4, ⚡ x 6 |
 | [Dean Money](../../persons/dean_money/222.md) | 50+ | <i class="flag flag-US" /> | 6.68 | 10.23 |  |  | 🔥 x 2, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | <i class="flag flag-US" /> | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | 40+ | <i class="flag flag-VE" /> | 4.81 | 6.00 | 🏆 x 14 | 🥇 x 1 | 💥 x 1, 🔥 x 5, ⚡ x 5 |
@@ -90,7 +90,7 @@
 | [Martin Melcop](../../persons/martin_melcop/222.md) | 60+ | <i class="flag flag-BR" /> | 5.01 | 8.30 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 💥 x 6, 🔥 x 5, ⚡ x 5 |
 | [Michael Amarello](../../persons/michael_amarello/222.md) | 60+ | <i class="flag flag-US" /> | 11.43 | 31.30 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Michael George](../../persons/michael_george/222.md) | 40+ | <i class="flag flag-GB" /> | 3.20 | 4.40 | 🏆 x 19 | 🥇 x 23 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
-| [Mickey Doyle](../../persons/mickey_doyle/222.md) | 50+ | <i class="flag flag-US" /> | 2.92 | 7.14 | 🏆 x 3 | 🥇 x 4, 🥈 x 11, 🥉 x 18 | 🔥 x 14, ⚡ x 14 |
+| [Mickey Doyle](../../persons/mickey_doyle/222.md) | 50+ | <i class="flag flag-US" /> | 2.92 | 7.14 | 🏆 x 3 | 🥇 x 4, 🥈 x 12, 🥉 x 18 | 🔥 x 14, ⚡ x 14 |
 | [Peter Andersson](../../persons/peter_andersson/222.md) | 60+ | <i class="flag flag-SE" /> | 6.82 | 9.38 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/222.md) | 60+ | <i class="flag flag-CA" /> | 6.53 | 10.79 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/222.md) | 40+ | <i class="flag flag-GB" /> | 4.82 | 6.72 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 2 |

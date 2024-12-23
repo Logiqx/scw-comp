@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2024-12-09](../../results/2024-12-09/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:46.66 | 1:55.64 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/984530303534896/permalink/993879599266633) / [Mobile](https://m.facebook.com/events/984530303534896?view=permalink&id=993879599266633) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:58.35 | 2:10.96 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/984530303534896/permalink/993909205930339) / [Mobile](https://m.facebook.com/events/984530303534896?view=permalink&id=993909205930339) |
+| 3 | [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 4:24.72 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/1257789925369732/permalink/1275448970270494) / [Mobile](https://m.facebook.com/events/1257789925369732?view=permalink&id=1275448970270494) |
+
 #### [2024-11-25](../../results/2024-11-25/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
