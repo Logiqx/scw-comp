@@ -10,10 +10,10 @@
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [3x3x3](333.md) | 13.38 | 16.11 | 🏆 x 1 | 🥇 x 17, 🥈 x 34, 🥉 x 26 | 🔥 x 16, ⚡ x 13 |
-| [3x3x3 OH](333oh.md) | 54.03 | 1:01.60 |  | 🥈 x 5, 🥉 x 2 | 🔥 x 3, ⚡ x 1 |
-| [3x3x3 BLD](333bf.md) | 1:48.49 | 1:57.92 | 🏆 x 20 | 🥇 x 21, 🥈 x 16, 🥉 x 7 | 🔥 x 3, ⚡ x 9 |
-| [3x3x3 MBLD](333mbf.md) | 3/3 in 13:54 | - | 🏆 x 1 | 🥇 x 1, 🥉 x 3 | ⚡ x 3 |
+| [3x3x3](333.md) | 13.38 | 16.11 | 🏆 x 1 | 🥇 x 17, 🥈 x 35, 🥉 x 26 | 🔥 x 16, ⚡ x 13 |
+| [3x3x3 OH](333oh.md) | 54.03 | 1:01.60 |  | 🥈 x 6, 🥉 x 2 | 🔥 x 3, ⚡ x 1 |
+| [3x3x3 BLD](333bf.md) | 1:48.49 | 1:57.92 | 🏆 x 20 | 🥇 x 21, 🥈 x 16, 🥉 x 8 | 🔥 x 3, ⚡ x 9 |
+| [3x3x3 MBLD](333mbf.md) | 3/3 in 13:54 | - | 🏆 x 2 | 🥇 x 2, 🥉 x 3 | ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

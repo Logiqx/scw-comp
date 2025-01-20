@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-01-06](../../results/2025-01-06/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 27 | 31.33 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1116608616224962/permalink/1118319639387193) / [Mobile](https://m.facebook.com/events/1116608616224962?view=permalink&id=1118319639387193) |
+| 2 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 40+ | <i class="flag flag-BR" /> | 32 | 32.67 | 🥈 | [Desktop](https://www.facebook.com/events/1116608616224962/permalink/1117415772810913) / [Mobile](https://m.facebook.com/events/1116608616224962?view=permalink&id=1117415772810913) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 34 | 37.00 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/1116608616224962/permalink/1123060298913127) / [Mobile](https://m.facebook.com/events/1116608616224962?view=permalink&id=1123060298913127) |
+
 #### [2024-12-23](../../results/2024-12-23/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

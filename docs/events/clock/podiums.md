@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-01-06](../../results/2025-01-06/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 8.29 | 8.89 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/627142583067327/permalink/636646015450317) / [Mobile](https://m.facebook.com/events/627142583067327?view=permalink&id=636646015450317) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 50+ | <i class="flag flag-US" /> | 12.35 | 14.18 | 🥈 | [Desktop](https://www.facebook.com/events/627142583067327/permalink/636152018833050) / [Mobile](https://m.facebook.com/events/627142583067327?view=permalink&id=636152018833050) |
+| 3 | [Joe Kucala](../../persons/joe_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 12.63 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/627142583067327/permalink/632561542525431) / [Mobile](https://m.facebook.com/events/627142583067327?view=permalink&id=632561542525431) |
+
 #### [2024-12-23](../../results/2024-12-23/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
