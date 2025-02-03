@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2025-01-20](../../results/2025-01-20/clock.md) | 60+ | 13.37 | 14.42 | 🥈 | 14.66 | 15.13 | 13.47 | 13.37 | 17.37 | [Desktop](https://www.facebook.com/events/1298033571516093/permalink/1299594558026661) / [Mobile](https://m.facebook.com/events/1298033571516093?view=permalink&id=1299594558026661) |
 | [2025-01-06](../../results/2025-01-06/clock.md) | 60+ | 12.63 | DNF | 🥉 | 12.63 | 13.12 | 15.13 | DNF | DNF | [Desktop](https://www.facebook.com/events/627142583067327/permalink/632561542525431) / [Mobile](https://m.facebook.com/events/627142583067327?view=permalink&id=632561542525431) |
 | [2024-12-23](../../results/2024-12-23/clock.md) | 60+ | 13.00 | 14.81 |  | 15.36 | 13.35 | 15.73 | 13.00 | 17.06 | [Desktop](https://www.facebook.com/events/1319402379491573/permalink/1320701969361614) / [Mobile](https://m.facebook.com/events/1319402379491573?view=permalink&id=1320701969361614) |
 | [2024-12-09](../../results/2024-12-09/clock.md) | 60+ | **11.46** | **13.71** | 🏆 🥇 🔥 ⚡ | 13.35 | DNF | 13.59 | **11.46** | 14.18 | [Desktop](https://www.facebook.com/events/597699649435295/permalink/602410722297521) / [Mobile](https://m.facebook.com/events/597699649435295?view=permalink&id=602410722297521) |

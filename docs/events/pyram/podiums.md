@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-01-20](../../results/2025-01-20/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 10.65 | 11.40 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1298033571516093/permalink/1307807827205334) / [Mobile](https://m.facebook.com/events/1298033571516093?view=permalink&id=1307807827205334) |
+| 2 | [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 8.99 | 11.47 | 🥈 | [Desktop](https://www.facebook.com/events/1298033571516093/permalink/1299592744693509) / [Mobile](https://m.facebook.com/events/1298033571516093?view=permalink&id=1299592744693509) |
+| 3 | [Kristina Lim](../../persons/kristina_lim/pyram.md) | 50+ | <i class="flag flag-US" /> | 12.49 | 17.28 | 🥉 | [Desktop](https://www.facebook.com/1045330593/videos/1868319347306309) / [Mobile](https://m.facebook.com/1045330593/videos/1868319347306309) |
+
 #### [2025-01-06](../../results/2025-01-06/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

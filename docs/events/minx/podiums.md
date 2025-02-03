@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-01-20](../../results/2025-01-20/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:59.97 | 2:10.14 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/918940140419097/permalink/928568636122914) / [Mobile](https://m.facebook.com/events/918940140419097?view=permalink&id=928568636122914) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:41.21 | 2:58.48 | 🥈 | [Desktop](https://www.facebook.com/events/918940140419097/permalink/928647029448408) / [Mobile](https://m.facebook.com/events/918940140419097?view=permalink&id=928647029448408) |
+
 #### [2025-01-06](../../results/2025-01-06/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
