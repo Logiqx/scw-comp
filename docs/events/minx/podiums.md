@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-02-03](../../results/2025-02-03/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 2:16.22 | 2:17.87 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/595481126781396/permalink/605250465804462) / [Mobile](https://m.facebook.com/events/595481126781396?view=permalink&id=605250465804462) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:55.38 | 3:02.11 | 🥈 | [Desktop](https://www.facebook.com/events/595481126781396/permalink/606093755720133) / [Mobile](https://m.facebook.com/events/595481126781396?view=permalink&id=606093755720133) |
+| 3 | [Kristina Lim](../../persons/kristina_lim/minx.md) | 50+ | <i class="flag flag-US" /> | 6:25.35 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/1045330593/videos/9543098369080309) / [Mobile](https://m.facebook.com/1045330593/videos/9543098369080309) |
+
 #### [2025-01-20](../../results/2025-01-20/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
