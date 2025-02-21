@@ -19,7 +19,7 @@
 | [Pyraminx](pyram.md) | 9.69 | 12.12 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 5, ⚡ x 5 |
 | [Clock](clock.md) | 15.01 | 17.82 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 4, ⚡ x 5 |
 | [3x3x3 BLD](333bf.md) | 1:32.65 | 2:48.40 | 🏆 x 10 | 🥇 x 10, 🥈 x 11, 🥉 x 8 | 🔥 x 2, ⚡ x 10 |
-| [3x3x3 MBLD](333mbf.md) | 6/7 in 43:38 | - | 🏆 x 5 | 🥇 x 5, 🥈 x 2, 🥉 x 1 | ⚡ x 7 |
+| [3x3x3 MBLD](333mbf.md) | 6/7 in 43:38 | - | 🏆 x 4 | 🥇 x 4, 🥈 x 3, 🥉 x 1 | ⚡ x 7 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
