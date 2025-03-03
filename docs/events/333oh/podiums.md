@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-02-17](../../results/2025-02-17/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 19.78 | 24.89 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/613334854747392) / [Mobile](https://m.facebook.com/745394767/videos/613334854747392) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 37.32 | 57.11 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1147070173669130/permalink/1153117319731082) / [Mobile](https://m.facebook.com/events/1147070173669130?view=permalink&id=1153117319731082) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 52.39 | 1:05.92 | 🥉 | [Desktop](https://www.facebook.com/766997877/videos/661233499901007) / [Mobile](https://m.facebook.com/766997877/videos/661233499901007) |
+
 #### [2025-02-03](../../results/2025-02-03/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

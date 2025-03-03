@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-02-17](../../results/2025-02-17/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | <i class="flag flag-US" /> | 7.13 | 9.06 | 🏆 🥇 | [Desktop](https://www.facebook.com/1045330593/videos/1270052127416068) / [Mobile](https://m.facebook.com/1045330593/videos/1270052127416068) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 7.06 | 12.89 | 🥈 | [Desktop](https://www.facebook.com/events/3910571685857249/permalink/3923568814557536) / [Mobile](https://m.facebook.com/events/3910571685857249?view=permalink&id=3923568814557536) |
+| 3 | [Gordon Holey](../../persons/gordon_holey/skewb.md) | 40+ | <i class="flag flag-US" /> | 9.59 | 13.35 | 🥉 | [Desktop](https://www.facebook.com/766997877/videos/1811464172988015) / [Mobile](https://m.facebook.com/766997877/videos/1811464172988015) |
+
 #### [2025-02-03](../../results/2025-02-03/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-02-17](../../results/2025-02-17/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 50.99 | 57.30 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/932951942320656/permalink/936198465329337) / [Mobile](https://m.facebook.com/events/932951942320656?view=permalink&id=936198465329337) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 56.45 | 59.43 | 🥈 | [Desktop](https://www.facebook.com/745394767/videos/1649061172483844) / [Mobile](https://m.facebook.com/745394767/videos/1649061172483844) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/444.md) | 50+ | <i class="flag flag-US" /> | 1:11.17 | 1:20.38 | 🥉 | [Desktop](https://www.facebook.com/events/932951942320656/permalink/942092891406561) / [Mobile](https://m.facebook.com/events/932951942320656?view=permalink&id=942092891406561) |
+
 #### [2025-02-03](../../results/2025-02-03/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
