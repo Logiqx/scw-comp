@@ -19,7 +19,7 @@
 | [Jae Park](../../persons/jae_park/444bf.md) | 50+ | <i class="flag flag-US" /> | 4:33.83 | DNF | 🏆 x 33 | 🥇 x 36, 🥈 x 1, 🥉 x 1 | 💥 x 11, ⚡ x 11 |
 | [Javier Rossi](../../persons/javier_rossi/444bf.md) | 50+ | <i class="flag flag-AR" /> | 25:34.50 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 60+ | <i class="flag flag-SE" /> | 8:42.99 | DNF | 🏆 x 24 | 🥇 x 25, 🥈 x 7 | 💥 x 8, ⚡ x 8 |
-| [Shen Flindell](../../persons/shen_flindell/444bf.md) | 50+ | <i class="flag flag-AU" /> | 6:58.04 | 8:05.67 | 🏆 x 9 | 🥇 x 9 | 💥 x 2, 🔥 x 2, ⚡ x 5 |
+| [Shen Flindell](../../persons/shen_flindell/444bf.md) | 50+ | <i class="flag flag-AU" /> | 6:58.04 | 8:05.67 | 🏆 x 10 | 🥇 x 10 | 💥 x 2, 🔥 x 2, ⚡ x 5 |
 | [Yuichi Hamada](../../persons/yuichi_hamada/444bf.md) | 50+ | <i class="flag flag-JP" /> | 10:40.31 | DNF | 🏆 x 7 | 🥇 x 7, 🥈 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 3 |
 
 #### Over 40
@@ -32,7 +32,7 @@
 | [Jae Park](../../persons/jae_park/444bf.md) | 50+ | <i class="flag flag-US" /> | 4:26.20 | DNF | 🏆 x 33 | 🥇 x 36, 🥈 x 1, 🥉 x 1 | 💥 x 11, ⚡ x 11 |
 | [Javier Rossi](../../persons/javier_rossi/444bf.md) | 50+ | <i class="flag flag-AR" /> | 25:34.50 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/444bf.md) | 60+ | <i class="flag flag-SE" /> | 8:42.99 | DNF | 🏆 x 24 | 🥇 x 25, 🥈 x 7 | 💥 x 8, ⚡ x 8 |
-| [Shen Flindell](../../persons/shen_flindell/444bf.md) | 50+ | <i class="flag flag-AU" /> | 6:58.04 | 8:05.67 | 🏆 x 9 | 🥇 x 9 | 💥 x 2, 🔥 x 2, ⚡ x 5 |
+| [Shen Flindell](../../persons/shen_flindell/444bf.md) | 50+ | <i class="flag flag-AU" /> | 6:58.04 | 8:05.67 | 🏆 x 10 | 🥇 x 10 | 💥 x 2, 🔥 x 2, ⚡ x 5 |
 | [Yuichi Hamada](../../persons/yuichi_hamada/444bf.md) | 50+ | <i class="flag flag-JP" /> | 7:30.00 | 10:06.86 | 🏆 x 7 | 🥇 x 7, 🥈 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 3 |
 
 #### Under 40

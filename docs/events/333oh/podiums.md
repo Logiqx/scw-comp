@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-03-03](../../results/2025-03-03/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 23.46 | 26.54 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1685594042052171/permalink/1686439161967659) / [Mobile](https://m.facebook.com/events/1685594042052171?view=permalink&id=1686439161967659) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 41.39 | 47.16 | 🥈 | [Desktop](https://www.facebook.com/events/1685594042052171/permalink/1694378264507082) / [Mobile](https://m.facebook.com/events/1685594042052171?view=permalink&id=1694378264507082) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 48.41 | 55.99 | 🥉 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1685594042052171/permalink/1694350531176522) / [Mobile](https://m.facebook.com/events/1685594042052171?view=permalink&id=1694350531176522) |
+
 #### [2025-02-17](../../results/2025-02-17/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

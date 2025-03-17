@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-03-03](../../results/2025-03-03/777.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Glyn Brown](../../persons/glyn_brown/777.md) | 40+ | <i class="flag flag-GB" /> | 4:04.61 | 4:10.69 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1658275441710851/permalink/1660346308170431) / [Mobile](https://m.facebook.com/events/1658275441710851?view=permalink&id=1660346308170431) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 4:18.09 | 4:36.79 | 🥈 | [Desktop](https://www.facebook.com/events/1658275441710851/permalink/1662795591258836) / [Mobile](https://m.facebook.com/events/1658275441710851?view=permalink&id=1662795591258836) |
+| 3 | [Pete Lee](../../persons/pete_lee/777.md) | 40+ | <i class="flag flag-GB" /> | 5:27.88 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/1658275441710851/permalink/1666779440860451) / [Mobile](https://m.facebook.com/events/1658275441710851?view=permalink&id=1666779440860451) |
+
 #### [2025-02-17](../../results/2025-02-17/777.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
