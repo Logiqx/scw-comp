@@ -1,0 +1,7 @@
+L2 B U F2 U' B2 U R2 F2 D R2 U2 B R' B R' F D' F' Fw2 Rw2 Fw2 F L Uw2 Fw2 Rw2 R' F2 D2 Rw2 R B' Uw' B' F2 D2 Rw Fw U2 Rw Uw B2 Rw'
+D2 F' L U2 R' D F2 B U2 D2 R2 U2 B' R2 L2 D2 R2 D B' Rw2 F L2 Uw2 U' Rw2 U Rw2 U' B D R2 B2 Rw' U2 Rw' U B Uw' L R2 D Fw' Uw' B'
+F D2 L D F R' B U F2 R' L' U2 R2 D2 R B2 U2 B' R2 Rw2 Fw2 F2 U2 L Uw2 F' U2 R' U2 B2 Uw2 L' Uw' B R B Rw2 Uw' D2 Rw' B Uw2 Fw' Uw U
+D' B2 L2 U' B2 U' B2 D' L2 R2 F' U B R' U' D' F2 U L' Fw2 L2 U' Rw2 D R U2 D2 F2 Uw2 D B2 Fw' D Rw2 Fw B D' Uw' Fw D R Uw2 Rw2 Fw2
+U2 L B' U2 B2 R' D' U F' L2 B2 L F2 L D2 R B2 L' Fw2 Rw2 F Rw2 L' B' Uw2 R2 B' D2 L Fw2 F Uw U2 R L D' Fw' D2 Rw U2 Rw2 F' U2
+B L2 U2 R2 D' L2 D2 R' F' L' F' L2 U2 F' U2 F D2 F' D2 Fw2 Rw2 L' Uw2 R' F R2 F2 D2 Fw2 D2 L F' Uw R2 D B' L' Fw Rw' Fw' D' Fw' Uw2 B'
+U2 F2 L B2 L' U2 B2 U2 F2 B' R D' R2 D' R' B2 D2 B D' Rw2 Uw2 L Fw2 U' L Fw2 D2 B2 L U' D L Fw L' F2 U2 Uw F2 Rw' Uw2 Fw B' F R'
