@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-03-17](../../results/2025-03-17/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 6.62 | 7.09 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/4062322140668303/permalink/4076132362620614) / [Mobile](https://m.facebook.com/events/4062322140668303?view=permalink&id=4076132362620614) |
+| 2 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 7.02 | 8.63 | 🥈 | [Desktop](https://www.facebook.com/events/1685594042052171/permalink/1707241799887395) / [Mobile](https://m.facebook.com/events/1685594042052171?view=permalink&id=1707241799887395) |
+| 3 | [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 6.28 | 8.75 | 🥉 | [Desktop](https://www.facebook.com/events/4062322140668303/permalink/4073597876207396) / [Mobile](https://m.facebook.com/events/4062322140668303?view=permalink&id=4073597876207396) |
+
 #### [2025-03-03](../../results/2025-03-03/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

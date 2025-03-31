@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-03-17](../../results/2025-03-17/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 34 | 36.67 | 🥇 | [Desktop](https://www.facebook.com/events/1337425114124627/permalink/1343488380184967) / [Mobile](https://m.facebook.com/events/1337425114124627?view=permalink&id=1343488380184967) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 60+ | <i class="flag flag-US" /> | 72 | 73.33 | 🥈 | [Desktop](https://www.facebook.com/events/1337425114124627/permalink/1346684283198710) / [Mobile](https://m.facebook.com/events/1337425114124627?view=permalink&id=1346684283198710) |
+| 3 | [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 33 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/1337425114124627/permalink/1337910857409386) / [Mobile](https://m.facebook.com/events/1337425114124627?view=permalink&id=1337910857409386) |
+
 #### [2025-03-03](../../results/2025-03-03/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |
