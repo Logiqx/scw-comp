@@ -10,7 +10,8 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 48.41 | 52.76 |  | 🥈 x 1, 🥉 x 2 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
+| [Joe Kucala](../../persons/joe_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 2:02.50 | 3:07.57 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 41.52 | 50.42 |  | 🥈 x 2, 🥉 x 2 | 💥 x 4, 🔥 x 4, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 60+ | <i class="flag flag-CA" /> | 1:44.59 | DNF |  | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 3 |
 
 #### Over 50
@@ -20,12 +21,13 @@
 | [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | <i class="flag flag-GB" /> | 28.30 | 32.75 | 🏆 x 4 | 🥇 x 4 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
 | [Dan Smith](../../persons/dan_smith/333oh.md) | 50+ | <i class="flag flag-US" /> | 1:25.60 | 1:35.59 |  | 🥉 x 2 | 🔥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/333oh.md) | 50+ | <i class="flag flag-US" /> | 44.71 | 1:05.04 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
+| [Joe Kucala](../../persons/joe_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 2:02.50 | 3:07.57 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Kristina Lim](../../persons/kristina_lim/333oh.md) | 50+ | <i class="flag flag-US" /> | 45.42 | 55.03 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 48.41 | 52.76 |  | 🥈 x 1, 🥉 x 2 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
+| [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 41.52 | 50.42 |  | 🥈 x 2, 🥉 x 2 | 💥 x 4, 🔥 x 4, ⚡ x 3 |
 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 35.40 | 46.06 | 🏆 x 16 | 🥇 x 18, 🥈 x 21, 🥉 x 4 | 🔥 x 8, ⚡ x 9 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 60+ | <i class="flag flag-CA" /> | 1:26.57 | 1:57.43 |  | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 3 |
-| [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 19.42 | 23.72 | 🏆 x 20 | 🥇 x 20 | 💥 x 7, 🔥 x 5, ⚡ x 4 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 37.32 | 57.11 |  | 🥈 x 9, 🥉 x 3 | 🔥 x 4, ⚡ x 3 |
+| [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 19.42 | 23.72 | 🏆 x 21 | 🥇 x 21 | 💥 x 7, 🔥 x 5, ⚡ x 4 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 37.32 | 56.76 |  | 🥈 x 9, 🥉 x 4 | 🔥 x 5, ⚡ x 3 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | <i class="flag flag-PL" /> | 27.43 | 35.12 |  | 🥉 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
 
 #### Over 40
@@ -49,17 +51,18 @@
 | [Jason Green](../../persons/jason_green/333oh.md) | 40+ | <i class="flag flag-US" /> | 30.77 | 36.01 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/333oh.md) | 40+ | <i class="flag flag-US" /> | 36.79 | 44.49 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jo Cocco](../../persons/jo_cocco/333oh.md) | 40+ | <i class="flag flag-GB" /> | 45.79 | 58.18 | 🏆 x 1 | 🥇 x 3, 🥈 x 1 | 🔥 x 5, ⚡ x 6 |
+| [Joe Kucala](../../persons/joe_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 2:02.50 | 3:07.57 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 16.07 | 20.76 | 🏆 x 43 | 🥇 x 43 | 💥 x 3, 🔥 x 5, ⚡ x 4 |
 | [Kristina Lim](../../persons/kristina_lim/333oh.md) | 50+ | <i class="flag flag-US" /> | 45.42 | 55.03 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 48.41 | 52.76 |  | 🥈 x 1, 🥉 x 2 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
+| [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 41.52 | 50.42 |  | 🥈 x 2, 🥉 x 2 | 💥 x 4, 🔥 x 4, ⚡ x 3 |
 | [Michael George](../../persons/michael_george/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.57 | 21.87 | 🏆 x 18 | 🥇 x 22 | 💥 x 5, 🔥 x 3, ⚡ x 5 |
 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 35.40 | 46.06 | 🏆 x 16 | 🥇 x 18, 🥈 x 21, 🥉 x 4 | 🔥 x 8, ⚡ x 9 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 60+ | <i class="flag flag-CA" /> | 1:26.57 | 1:57.43 |  | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 3 |
 | [Raúl Morales](../../persons/raul_morales/333oh.md) | 40+ | <i class="flag flag-ES" /> | 31.07 | 37.84 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/333oh.md) | 40+ | <i class="flag flag-GB" /> | 1:11.28 | 1:34.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 19.42 | 23.72 | 🏆 x 20 | 🥇 x 20 | 💥 x 7, 🔥 x 5, ⚡ x 4 |
+| [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 19.42 | 23.72 | 🏆 x 21 | 🥇 x 21 | 💥 x 7, 🔥 x 5, ⚡ x 4 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 23.59 | 29.77 |  | 🥇 x 1, 🥈 x 10, 🥉 x 7 | 🔥 x 8, ⚡ x 3 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 37.32 | 57.11 |  | 🥈 x 9, 🥉 x 3 | 🔥 x 4, ⚡ x 3 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 37.32 | 56.76 |  | 🥈 x 9, 🥉 x 4 | 🔥 x 5, ⚡ x 3 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | <i class="flag flag-PL" /> | 27.43 | 35.12 |  | 🥉 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 28.49 | 38.10 | 🏆 x 10 | 🥇 x 12, 🥈 x 1 | 🔥 x 4, ⚡ x 4 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333oh.md) | 40+ | <i class="flag flag-FR" /> | 31.59 | 38.24 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |

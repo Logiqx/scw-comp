@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-03-31](../../results/2025-03-31/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 8.78 | 9.10 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/675467158281524/permalink/686348643860042) / [Mobile](https://m.facebook.com/events/675467158281524?view=permalink&id=686348643860042) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 50+ | <i class="flag flag-US" /> | 11.41 | 12.37 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/675467158281524/permalink/686351477193092) / [Mobile](https://m.facebook.com/events/675467158281524?view=permalink&id=686351477193092) |
+| 3 | [Eric Dodson](../../persons/eric_dodson/clock.md) | 50+ | <i class="flag flag-US" /> | 9.66 | 12.39 | 🥉 | [Desktop](https://www.facebook.com/events/675467158281524/permalink/681035691058004) / [Mobile](https://m.facebook.com/events/675467158281524?view=permalink&id=681035691058004) |
+
 #### [2025-03-17](../../results/2025-03-17/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

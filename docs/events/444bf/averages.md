@@ -10,13 +10,13 @@
 
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/444bf.md) | [2025-01-20](../../results/2025-01-20/444bf.md) | 50+ | <i class="flag flag-AU" /> | 8:05.67 | 🏆 x 11 | 🥇 x 11 | 💥 x 2, 🔥 x 2, ⚡ x 5 | [Desktop](https://www.facebook.com/745394767/videos/636282478902918) / [Mobile](https://m.facebook.com/745394767/videos/636282478902918) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/444bf.md) | [2025-01-20](../../results/2025-01-20/444bf.md) | 50+ | <i class="flag flag-AU" /> | 8:05.67 | 🏆 x 12 | 🥇 x 12 | 💥 x 2, 🔥 x 2, ⚡ x 5 | [Desktop](https://www.facebook.com/745394767/videos/636282478902918) / [Mobile](https://m.facebook.com/745394767/videos/636282478902918) |
 
 #### Over 40
 
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/444bf.md) | [2025-01-20](../../results/2025-01-20/444bf.md) | 50+ | <i class="flag flag-AU" /> | 8:05.67 | 🏆 x 11 | 🥇 x 11 | 💥 x 2, 🔥 x 2, ⚡ x 5 | [Desktop](https://www.facebook.com/745394767/videos/636282478902918) / [Mobile](https://m.facebook.com/745394767/videos/636282478902918) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/444bf.md) | [2025-01-20](../../results/2025-01-20/444bf.md) | 50+ | <i class="flag flag-AU" /> | 8:05.67 | 🏆 x 12 | 🥇 x 12 | 💥 x 2, 🔥 x 2, ⚡ x 5 | [Desktop](https://www.facebook.com/745394767/videos/636282478902918) / [Mobile](https://m.facebook.com/745394767/videos/636282478902918) |
 | 2 | [Yuichi Hamada](../../persons/yuichi_hamada/444bf.md) | [2022-08-08](../../results/2022-08-08/444bf.md) | 40+ | <i class="flag flag-JP" /> | 10:06.86 | 🏆 x 7 | 🥇 x 7, 🥈 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 3 | [Desktop](https://www.facebook.com/1849183990/videos/1756210731397461) / [Mobile](https://m.facebook.com/1849183990/videos/1756210731397461) |
 
 #### Under 40
