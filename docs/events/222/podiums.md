@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-04-14](../../results/2025-04-14/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 6.03 | 6.16 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/686757560572325/permalink/692549499993131) / [Mobile](https://m.facebook.com/events/686757560572325?view=permalink&id=692549499993131) |
+| 2 | [Michael Orger](../../persons/michael_orger/222.md) | 40+ | | 5.37 | 6.87 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/michaelorger/videos/1070076794940463) / [Mobile](https://m.facebook.com/michaelorger/videos/1070076794940463) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 5.43 | 7.61 | 🥉 | [Desktop](https://www.facebook.com/events/686757560572325/permalink/696706769577404) / [Mobile](https://m.facebook.com/events/686757560572325?view=permalink&id=696706769577404) |
+
 #### [2025-03-31](../../results/2025-03-31/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

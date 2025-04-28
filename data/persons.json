@@ -177,6 +177,12 @@
     "country": "United States",
     "id": 62
   },
+  "Doug Li": {
+    "age": "40+",
+    "country": "???",
+    "id": 139,
+    "wcaId": "2003LIDO01"
+  },
   "Dylan Cossin": {
     "age": "<20",
     "avatar": "1557022679.jpg",
@@ -219,6 +225,12 @@
     "country": "United States",
     "id": 119,
     "wcaId": "2023CLOY01"
+  },
+  "Fred Johnson": {
+    "age": "<40",
+    "country": "???",
+    "id": 138,
+    "wcaId": "2006JOHN01"
   },
   "Fumiki Koseki": {
     "age": "40+",
@@ -606,6 +618,12 @@
     "country": "United States",
     "id": 135,
     "wcaId": "2023LEEM05"
+  },
+  "Michael Orger": {
+    "age": "40+",
+    "country": "???",
+    "id": 137,
+    "wcaId": "2024ORGE01"
   },
   "Michael Policastro": {
     "age": "40+",

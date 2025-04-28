@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-04-14](../../results/2025-04-14/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 24.30 | 25.93 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/686757560572325/permalink/687726497142098) / [Mobile](https://m.facebook.com/events/686757560572325?view=permalink&id=687726497142098) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 40.33 | 45.45 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/686757560572325/permalink/696687009579380) / [Mobile](https://m.facebook.com/events/686757560572325?view=permalink&id=696687009579380) |
+| 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 48.45 | 1:01.79 | 🥉 | [Desktop](https://www.facebook.com/events/686757560572325/permalink/693248519923229) / [Mobile](https://m.facebook.com/events/686757560572325?view=permalink&id=693248519923229) |
+
 #### [2025-03-31](../../results/2025-03-31/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

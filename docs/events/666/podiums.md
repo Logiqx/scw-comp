@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-04-14](../../results/2025-04-14/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 2:43.34 | 2:49.79 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/557740544015249/permalink/561063293682974) / [Mobile](https://m.facebook.com/events/557740544015249?view=permalink&id=561063293682974) |
+| 2 | [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:06.47 | 3:20.35 | 🥈 | [Desktop](https://www.facebook.com/events/557740544015249/permalink/563543770101593) / [Mobile](https://m.facebook.com/events/557740544015249?view=permalink&id=563543770101593) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/666.md) | 60+ | <i class="flag flag-US" /> | 5:34.34 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/557740544015249/permalink/567190999736870) / [Mobile](https://m.facebook.com/events/557740544015249?view=permalink&id=567190999736870) |
+
 #### [2025-03-31](../../results/2025-03-31/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
