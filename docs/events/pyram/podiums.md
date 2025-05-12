@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-04-28](../../results/2025-04-28/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 7.95 | 10.32 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/652906761064641/permalink/663456100009707) / [Mobile](https://m.facebook.com/events/652906761064641?view=permalink&id=663456100009707) |
+| 2 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 9.17 | 10.85 | 🥈 | [Desktop](https://www.facebook.com/events/652906761064641/permalink/661279943560656) / [Mobile](https://m.facebook.com/events/652906761064641?view=permalink&id=661279943560656) |
+| 3 | [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 8.49 | 10.99 | 🥉 | [Desktop](https://www.facebook.com/events/652906761064641/permalink/661309463557704) / [Mobile](https://m.facebook.com/events/652906761064641?view=permalink&id=661309463557704) |
+
 #### [2025-04-14](../../results/2025-04-14/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

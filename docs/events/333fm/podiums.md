@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-04-28](../../results/2025-04-28/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Doug Li](../../persons/doug_li/333fm.md) | 40+ | | 22 | 22.67 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1184675719499464/permalink/1189866715647031) / [Mobile](https://m.facebook.com/events/1184675719499464?view=permalink&id=1189866715647031) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 32 | 40.00 | 🥈 | [Desktop](https://www.facebook.com/events/1184675719499464/permalink/1192618155371887) / [Mobile](https://m.facebook.com/events/1184675719499464?view=permalink&id=1192618155371887) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 60+ | <i class="flag flag-US" /> | 60 | 63.00 | 🥉 | [Desktop](https://www.facebook.com/events/1184675719499464/permalink/1188679472432422) / [Mobile](https://m.facebook.com/events/1184675719499464?view=permalink&id=1188679472432422) |
+
 #### [2025-04-14](../../results/2025-04-14/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

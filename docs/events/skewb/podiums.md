@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-04-28](../../results/2025-04-28/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.83 | 8.67 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/652906761064641/permalink/662823556739628) / [Mobile](https://m.facebook.com/events/652906761064641?view=permalink&id=662823556739628) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 9.58 | 12.07 | 🥈 | [Desktop](https://www.facebook.com/events/652906761064641/permalink/663449610010356) / [Mobile](https://m.facebook.com/events/652906761064641?view=permalink&id=663449610010356) |
+| 3 | [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 14.89 | 16.70 | 🥉 | [Desktop](https://www.facebook.com/events/652906761064641/permalink/661299500225367) / [Mobile](https://m.facebook.com/events/652906761064641?view=permalink&id=661299500225367) |
+
 #### [2025-04-14](../../results/2025-04-14/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

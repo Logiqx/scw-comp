@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-04-28](../../results/2025-04-28/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | <i class="flag flag-GB" /> | 2:50.20 | 2:56.24 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1377117046816998/permalink/1380024203192949) / [Mobile](https://m.facebook.com/events/1377117046816998?view=permalink&id=1380024203192949) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 3:01.20 | 3:09.77 | 🥈 | [Desktop](https://www.facebook.com/events/1377117046816998/permalink/1378659656662737) / [Mobile](https://m.facebook.com/events/1377117046816998?view=permalink&id=1378659656662737) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/666.md) | 60+ | <i class="flag flag-US" /> | 5:11.89 | DNF | 🥉 💥 ⚡ | [Desktop](https://www.facebook.com/events/1377117046816998/permalink/1385148606013842) / [Mobile](https://m.facebook.com/events/1377117046816998?view=permalink&id=1385148606013842) |
+
 #### [2025-04-14](../../results/2025-04-14/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
