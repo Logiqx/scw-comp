@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-05-12](../../results/2025-05-12/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 9.37 | 10.87 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1452696462562084/permalink/1462676818230715) / [Mobile](https://m.facebook.com/events/1452696462562084?view=permalink&id=1462676818230715) |
+| 2 | [Joe Kucala](../../persons/joe_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 13.22 | 13.75 | 🥈 | [Desktop](https://www.facebook.com/events/1452696462562084/permalink/1459674838530913) / [Mobile](https://m.facebook.com/events/1452696462562084?view=permalink&id=1459674838530913) |
+| 3 | [J.M. Gerardo](../../persons/jm_gerardo/clock.md) | 50+ | <i class="flag flag-US" /> | 15.70 | 18.56 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/1452696462562084/permalink/1462469328251464) / [Mobile](https://m.facebook.com/events/1452696462562084?view=permalink&id=1462469328251464) |
+
 #### [2025-04-28](../../results/2025-04-28/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

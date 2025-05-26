@@ -4,6 +4,8 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Fred Johnson - [2006JOHN01](https://www.worldcubeassociation.org/persons/2006JOHN01)
 
+<i class="flag flag-US" />&nbsp;United States
+
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Achievements|

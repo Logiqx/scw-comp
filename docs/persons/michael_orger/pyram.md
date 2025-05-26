@@ -4,6 +4,8 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [Michael Orger](README.md) - [2024ORGE01](https://www.worldcubeassociation.org/persons/2024ORGE01?event=pyram)
 
+<i class="flag flag-GB" />&nbsp;United Kingdom
+
 #### Pyraminx Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

@@ -4,6 +4,8 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Michael Orger - [2024ORGE01](https://www.worldcubeassociation.org/persons/2024ORGE01)
 
+<i class="flag flag-GB" />&nbsp;United Kingdom
+
 <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Medals | Achievements|

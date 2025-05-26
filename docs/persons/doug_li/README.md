@@ -4,6 +4,8 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Doug Li - [2003LIDO01](https://www.worldcubeassociation.org/persons/2003LIDO01)
 
+<i class="flag flag-US" />&nbsp;United States
+
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Cups | Medals | Achievements|

@@ -6,11 +6,19 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-05-12](../../results/2025-05-12/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 30 | 35.33 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1199638985139585/permalink/1202430924860391) / [Mobile](https://m.facebook.com/events/1199638985139585?view=permalink&id=1202430924860391) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 60+ | <i class="flag flag-US" /> | 53 | 61.00 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1199638985139585/permalink/1202269134876570) / [Mobile](https://m.facebook.com/events/1199638985139585?view=permalink&id=1202269134876570) |
+| 3 | [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 43 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/1199638985139585/permalink/1207913474312136) / [Mobile](https://m.facebook.com/events/1199638985139585?view=permalink&id=1207913474312136) |
+
 #### [2025-04-28](../../results/2025-04-28/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |
 | :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
-| 1 | [Doug Li](../../persons/doug_li/333fm.md) | 40+ | | 22 | 22.67 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1184675719499464/permalink/1189866715647031) / [Mobile](https://m.facebook.com/events/1184675719499464?view=permalink&id=1189866715647031) |
+| 1 | [Doug Li](../../persons/doug_li/333fm.md) | 40+ | <i class="flag flag-US" /> | 22 | 22.67 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1184675719499464/permalink/1189866715647031) / [Mobile](https://m.facebook.com/events/1184675719499464?view=permalink&id=1189866715647031) |
 | 2 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 32 | 40.00 | 🥈 | [Desktop](https://www.facebook.com/events/1184675719499464/permalink/1192618155371887) / [Mobile](https://m.facebook.com/events/1184675719499464?view=permalink&id=1192618155371887) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 60+ | <i class="flag flag-US" /> | 60 | 63.00 | 🥉 | [Desktop](https://www.facebook.com/events/1184675719499464/permalink/1188679472432422) / [Mobile](https://m.facebook.com/events/1184675719499464?view=permalink&id=1188679472432422) |
 
@@ -18,7 +26,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |
 | :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
-| 1 | [Doug Li](../../persons/doug_li/333fm.md) | 40+ | | 22 | 23.67 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1333469884550778/permalink/1342017423696024) / [Mobile](https://m.facebook.com/events/1333469884550778?view=permalink&id=1342017423696024) |
+| 1 | [Doug Li](../../persons/doug_li/333fm.md) | 40+ | <i class="flag flag-US" /> | 22 | 23.67 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1333469884550778/permalink/1342017423696024) / [Mobile](https://m.facebook.com/events/1333469884550778?view=permalink&id=1342017423696024) |
 | 2 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 35 | 41.00 | 🥈 | [Desktop](https://www.facebook.com/events/1333469884550778/permalink/1339631683934598) / [Mobile](https://m.facebook.com/events/1333469884550778?view=permalink&id=1339631683934598) |
 | 3 | [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 37 | 41.33 | 🥉 | [Desktop](https://www.facebook.com/events/1333469884550778/permalink/1341840687047031) / [Mobile](https://m.facebook.com/events/1333469884550778?view=permalink&id=1341840687047031) |
 

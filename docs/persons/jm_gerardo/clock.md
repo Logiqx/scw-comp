@@ -4,12 +4,15 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### [J.M. Gerardo](README.md) - [2022GERA05](https://www.worldcubeassociation.org/persons/2022GERA05?event=clock)
 
+<i class="flag flag-US" />&nbsp;United States
+
 #### Clock Results
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2025-05-12](../../results/2025-05-12/clock.md) | 50+ | 15.70 | **18.56** | 🥉 🔥 | 15.70 | 18.29 | 19.13 | DNF | 18.25 | [Desktop](https://www.facebook.com/events/1452696462562084/permalink/1462469328251464) / [Mobile](https://m.facebook.com/events/1452696462562084?view=permalink&id=1462469328251464) |
 | [2025-04-28](../../results/2025-04-28/clock.md) | 50+ | **14.00** | **19.21** | 🔥 ⚡ | 21.57 | 18.03 | 19.40 | 20.19 | **14.00** | [Desktop](https://www.facebook.com/events/652906761064641/permalink/663301193358531) / [Mobile](https://m.facebook.com/events/652906761064641?view=permalink&id=663301193358531) |
 
 
