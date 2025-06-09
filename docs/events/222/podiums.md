@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-05-26](../../results/2025-05-26/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [J.M. Gerardo](../../persons/jm_gerardo/222.md) | 50+ | <i class="flag flag-US" /> | 6.09 | 7.23 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/2135590763616965/permalink/2143920486117326) / [Mobile](https://m.facebook.com/events/2135590763616965?view=permalink&id=2143920486117326) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 6.58 | 7.69 | 🥈 | [Desktop](https://www.facebook.com/events/2135590763616965/permalink/2146588355850539) / [Mobile](https://m.facebook.com/events/2135590763616965?view=permalink&id=2146588355850539) |
+| 3 | [Mickey Doyle](../../persons/mickey_doyle/222.md) | 50+ | <i class="flag flag-US" /> | 7.11 | 8.26 | 🥉 | [Desktop](https://www.facebook.com/events/2135590763616965/permalink/2147244689118239) / [Mobile](https://m.facebook.com/events/2135590763616965?view=permalink&id=2147244689118239) |
+
 #### [2025-05-12](../../results/2025-05-12/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

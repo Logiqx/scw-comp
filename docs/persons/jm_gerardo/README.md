@@ -6,13 +6,13 @@
 
 <i class="flag flag-US" />&nbsp;United States
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-| Event | Single | Average | Medals | Achievements|
-| :-- | --: | --: | :-- | :-- |
-| [3x3x3](333.md) | 44.93 | 52.46 |  | 🔥 x 2, ⚡ x 1 |
-| [2x2x2](222.md) | 3.87 | 7.69 | 🥈 x 1 | 🔥 x 2, ⚡ x 1 |
-| [Clock](clock.md) | 14.00 | 18.56 | 🥉 x 1 | 🔥 x 2, ⚡ x 1 |
+| Event | Single | Average | Cups | Medals | Achievements|
+| :-- | --: | --: | :--: | :-- | :-- |
+| [3x3x3](333.md) | 34.62 | 44.81 |  |  | 🔥 x 3, ⚡ x 2 |
+| [2x2x2](222.md) | 3.87 | 7.23 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | 🔥 x 3, ⚡ x 1 |
+| [Clock](clock.md) | 14.00 | 16.94 |  | 🥉 x 1 | 🔥 x 3, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

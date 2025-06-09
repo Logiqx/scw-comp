@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-05-26](../../results/2025-05-26/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 18.01 | 19.68 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/731157299363008/permalink/738646995280705) / [Mobile](https://m.facebook.com/events/731157299363008?view=permalink&id=738646995280705) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 18.99 | 29.36 | 🥈 | [Desktop](https://www.facebook.com/events/731157299363008/permalink/741325275012877) / [Mobile](https://m.facebook.com/events/731157299363008?view=permalink&id=741325275012877) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 60+ | <i class="flag flag-US" /> | 31.57 | 47.17 | 🥉 | [Desktop](https://www.facebook.com/events/731157299363008/permalink/740828191729252) / [Mobile](https://m.facebook.com/events/731157299363008?view=permalink&id=740828191729252) |
+
 #### [2025-05-12](../../results/2025-05-12/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

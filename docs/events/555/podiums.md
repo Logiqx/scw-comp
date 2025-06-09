@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-05-26](../../results/2025-05-26/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:18.91 | 1:30.73 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/682673204539262/permalink/688832557256660) / [Mobile](https://m.facebook.com/events/682673204539262?view=permalink&id=688832557256660) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:32.12 | 1:46.57 | 🥈 | [Desktop](https://www.facebook.com/events/682673204539262/permalink/684922674314315) / [Mobile](https://m.facebook.com/events/682673204539262?view=permalink&id=684922674314315) |
+| 3 | [Pete Lee](../../persons/pete_lee/555.md) | 40+ | <i class="flag flag-GB" /> | 1:42.08 | 1:53.25 | 🥉 | [Desktop](https://www.facebook.com/events/682673204539262/permalink/692028603603722) / [Mobile](https://m.facebook.com/events/682673204539262?view=permalink&id=692028603603722) |
+
 #### [2025-05-12](../../results/2025-05-12/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
