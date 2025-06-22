@@ -1,0 +1,35 @@
+F' D B' R U2 L2 U2 R' B' U' B D2 R2 D2 R2 F U2 B U2 B Rw Uw2
+R F D' B' R2 F' U2 L2 U2 F2 D2 F L U B2 L2 D2 L D' Rw Uw2
+D' B L2 B2 R2 B2 L' D R D2 R D2 B2 R' F2 R2 U2 F' L Fw
+L' B' D B' R' U2 B' R2 F U B U' D' L2 D' B2 U D2 Rw'
+B2 L2 B2 D' U2 L2 U L2 B2 D2 F U' L R B F' R U R B' Uw
+U' D2 B R2 U' L' D2 R' B2 R F L2 B2 U2 F' L2 U2 F' Rw2 Uw
+B U2 F R2 F' U2 F R2 L' B' U2 B2 U' F L F' R D2 Rw Uw2
+D2 B2 R' B2 U' F2 D2 L2 U' R2 F2 D2 F D B F2 D R2 F Rw
+R B2 L F2 L2 D B2 U' R2 U' R' U' F' U' R2 D' R F2
+B2 U2 F' D2 F R2 D2 B2 F' R' F D' L B2 F2 D' F' R F' L
+R' F' B2 L2 F2 U' B2 D F2 U B D' R U' B2 D B U' B Rw' Uw'
+B2 R2 B L U' R' B' D R2 B' U2 F R2 F' D2 B2 L2 B' L U' Fw Uw'
+R' B2 R U' L D2 B2 L' D' B2 U2 L2 D2 F' U2 F D L2 Fw'
+U R2 F D' U2 F2 D2 U' F2 L2 R' D' B F2 L F L2 B Rw Uw
+D2 R D' F2 D B2 D F2 U2 R2 B L B2 L2 R' B U' B2 L Fw' Uw'
+U F2 U F2 L2 D' R2 F2 L' F' U' B F' D' F' L' F R' B2 Rw' Uw2
+F2 D' U2 L2 D L2 B2 D' F2 L' B' F D B2 R' U2 F U' R B Rw Uw2
+F2 B2 R' U2 B L2 B' U2 L' F2 L2 D2 F2 B2 U' B' L' D' Rw2
+U' F2 R2 F2 U F2 R2 U B2 R F2 D2 R2 F' U' B2 R B2 L2 Fw' Uw
+U L U' L' U' L2 F' U2 L D' F' R2 L2 F2 L' U2 R B2 D2 Rw2 Uw'
+B D2 R F2 D2 L' B2 L' B D' B F R' U R2 B2 U' B' Rw2
+F' D L2 U' B2 U L2 U F2 U' R' D2 B' F' U B L' B' R2 B2 Rw
+B L2 D2 B2 U2 B L2 B2 R2 U2 L2 U' L D' R2 U2 L' F R B2 Rw' Uw
+U' B D2 U2 R2 D2 B2 D2 R' B2 L' D L' B' D' R' U R2 U2 R' Fw
+B' R2 B' L U' D F R' U' L' B2 D2 R2 F2 U2 R D2 R' U2 Rw2 Uw'
+L B2 R' F L' D F2 D R' U2 F U D R2 B2 U R2 F2 U Rw Uw2
+D2 F' R2 U2 L B2 R F2 R B2 F2 R D F2 D' F D L' B' F' Uw
+D2 R2 F' U' F' R' F' R' U2 R2 L2 U2 F L2 F2 U2 B U' F Rw2 Uw
+R F2 D2 U2 F' D2 B2 F' D2 F U2 D' R F' D B' D F D U' Rw2 Uw2
+D' F' L2 D' L2 D2 U2 B2 D' L2 F' D2 B U B U' F R U2 Fw
+D' B2 R2 B2 L' B2 L F2 D2 R D2 R' B D' R' B2 R2 F L D2 Rw Uw
+L F2 U' F2 L B' U' F2 L F' R2 D2 B2 R2 B2 D B2 D' F2 Rw2 Uw2
+D2 L2 F' L2 B2 F L2 B U2 D' L' R2 D' U R F' D' B D' Rw' Uw'
+R F2 L F2 D2 F2 L2 R' U2 B U2 R' F R U B D U' B2 Uw
+L2 D2 B2 F2 D R2 U' L2 F2 D' U2 L' F' R B' F' R' U L' D' Rw Uw'
