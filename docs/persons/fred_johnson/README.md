@@ -6,17 +6,19 @@
 
 <i class="flag flag-US" />&nbsp;United States
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-| Event | Single | Average | Achievements|
-| :-- | --: | --: | :-- |
-| [3x3x3](333.md) | 16.72 | 18.06 | 🔥 x 1, ⚡ x 1 |
-| [4x4x4](444.md) | 59.71 | 1:04.09 | 🔥 x 1, ⚡ x 1 |
-| [5x5x5](555.md) | 1:41.54 | 1:54.43 | 🔥 x 1, ⚡ x 1 |
-| [6x6x6](666.md) | 3:31.17 | 3:46.28 | 🔥 x 1, ⚡ x 1 |
-| [7x7x7](777.md) | 5:21.98 | 5:25.23 | 🔥 x 1, ⚡ x 1 |
-| [Clock](clock.md) | 10.30 | 14.01 | 🔥 x 1, ⚡ x 1 |
-| [3x3x3 BLD](333bf.md) | 4:35.24 | 5:37.54 | 🔥 x 1, ⚡ x 1 |
+| Event | Single | Average | Cups | Achievements|
+| :-- | --: | --: | :--: | :-- |
+| [3x3x3](333.md) | 16.72 | 18.06 |  | 🔥 x 1, ⚡ x 1 |
+| [2x2x2](222.md) | 5.76 | 6.51 | 🏆 x 1 | 🔥 x 1, ⚡ x 1 |
+| [4x4x4](444.md) | 56.60 | 1:00.51 |  | 🔥 x 2, ⚡ x 2 |
+| [5x5x5](555.md) | 1:39.12 | 1:50.66 |  | 🔥 x 2, ⚡ x 2 |
+| [6x6x6](666.md) | 3:31.17 | 3:46.28 |  | 🔥 x 1, ⚡ x 1 |
+| [7x7x7](777.md) | 5:21.98 | 5:25.23 |  | 🔥 x 1, ⚡ x 1 |
+| [Megaminx](minx.md) | 1:48.41 | 1:59.46 |  | 🔥 x 1, ⚡ x 1 |
+| [Clock](clock.md) | 10.30 | 14.01 |  | 🔥 x 1, ⚡ x 1 |
+| [3x3x3 BLD](333bf.md) | 4:35.24 | 5:37.54 |  | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

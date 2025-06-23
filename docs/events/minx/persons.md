@@ -11,7 +11,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | <i class="flag flag-US" /> | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
-| [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:29.70 | 2:39.59 | 🏆 x 1 | 🥇 x 1, 🥈 x 18, 🥉 x 11 | 💥 x 7, 🔥 x 10, ⚡ x 10 |
+| [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:29.70 | 2:39.59 | 🏆 x 1 | 🥇 x 1, 🥈 x 18, 🥉 x 12 | 💥 x 7, 🔥 x 10, ⚡ x 10 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
 
 #### Over 50
@@ -24,9 +24,10 @@
 | [Eric Dodson](../../persons/eric_dodson/minx.md) | 50+ | <i class="flag flag-US" /> | 2:27.35 | 2:49.50 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Kristina Lim](../../persons/kristina_lim/minx.md) | 50+ | <i class="flag flag-US" /> | 6:25.35 | DNF |  | 🥉 x 1 | ⚡ x 1 |
-| [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:29.70 | 2:39.59 | 🏆 x 1 | 🥇 x 1, 🥈 x 18, 🥉 x 11 | 💥 x 7, 🔥 x 10, ⚡ x 10 |
+| [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:29.70 | 2:39.59 | 🏆 x 1 | 🥇 x 1, 🥈 x 18, 🥉 x 12 | 💥 x 7, 🔥 x 10, ⚡ x 10 |
 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:51.94 | 2:07.81 | 🏆 x 26 | 🥇 x 34, 🥈 x 16, 🥉 x 4 | 🔥 x 15, ⚡ x 20 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
+| [Shen Flindell](../../persons/shen_flindell/minx.md) | 50+ | <i class="flag flag-AU" /> | 2:38.28 | 2:56.21 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Over 40
 
@@ -49,10 +50,11 @@
 | [Kerry Go](../../persons/kerry_go/minx.md) | 50+ | <i class="flag flag-US" /> | 3:16.62 | 3:33.43 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:13.30 | 1:25.08 | 🏆 x 21 | 🥇 x 28, 🥈 x 8 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
 | [Kristina Lim](../../persons/kristina_lim/minx.md) | 50+ | <i class="flag flag-US" /> | 6:25.35 | DNF |  | 🥉 x 1 | ⚡ x 1 |
-| [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:29.70 | 2:39.59 | 🏆 x 1 | 🥇 x 1, 🥈 x 18, 🥉 x 11 | 💥 x 7, 🔥 x 10, ⚡ x 10 |
+| [Lisa Kucala](../../persons/lisa_kucala/minx.md) | 60+ | <i class="flag flag-US" /> | 2:29.70 | 2:39.59 | 🏆 x 1 | 🥇 x 1, 🥈 x 18, 🥉 x 12 | 💥 x 7, 🔥 x 10, ⚡ x 10 |
 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:51.94 | 2:07.81 | 🏆 x 26 | 🥇 x 34, 🥈 x 16, 🥉 x 4 | 🔥 x 15, ⚡ x 20 |
-| [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:12.81 | 1:26.84 | 🏆 x 20 | 🥇 x 20, 🥈 x 8 | 🔥 x 11, ⚡ x 10 |
+| [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:12.66 | 1:21.35 | 🏆 x 21 | 🥇 x 21, 🥈 x 8 | 🔥 x 12, ⚡ x 11 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
+| [Shen Flindell](../../persons/shen_flindell/minx.md) | 50+ | <i class="flag flag-AU" /> | 2:38.28 | 2:56.21 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 1:33.32 | 1:41.81 | 🏆 x 5 | 🥇 x 8, 🥈 x 4, 🥉 x 4 | 🔥 x 7, ⚡ x 14 |
 
 #### Under 40
@@ -64,6 +66,7 @@
 | [Chris Thames](../../persons/chris_thames/minx.md) | <40 | <i class="flag flag-US" /> | 6:02.13 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/minx.md) | <40 | <i class="flag flag-IE" /> | 2:05.90 | 2:19.70 | 🏆 x 4 |  | 🔥 x 2, ⚡ x 3 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | <40 | <i class="flag flag-VE" /> | 1:20.62 | 1:28.43 | 🏆 x 16 |  | 🔥 x 8, ⚡ x 4 |
+| [Fred Johnson](../../persons/fred_johnson/minx.md) | <40 | <i class="flag flag-US" /> | 1:48.41 | 1:59.46 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Go-ho Choi](../../persons/go_ho_choi/minx.md) | 40+ | <i class="flag flag-KR" /> | 53.33 | 1:06.45 | 🏆 x 2 | 🥇 x 1 | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 
 
