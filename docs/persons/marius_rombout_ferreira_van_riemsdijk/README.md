@@ -12,7 +12,7 @@
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [3x3x3 FMC](333fm.md) | 25 | 28.67 | 🏆 x 31 | 🥇 x 33, 🥈 x 11, 🥉 x 1 | 🔥 x 4, ⚡ x 6 |
+| [3x3x3 FMC](333fm.md) | 24 | 28.67 | 🏆 x 31 | 🥇 x 34, 🥈 x 11, 🥉 x 1 | 🔥 x 4, ⚡ x 7 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
