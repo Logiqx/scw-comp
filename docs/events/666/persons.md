@@ -24,7 +24,7 @@
 | [Kerry Go](../../persons/kerry_go/666.md) | 50+ | <i class="flag flag-US" /> | 6:34.83 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/666.md) | 60+ | <i class="flag flag-US" /> | 5:11.89 | DNF |  | 🥉 x 6 | 💥 x 7, ⚡ x 7 |
 | [Mickey Doyle](../../persons/mickey_doyle/666.md) | 50+ | <i class="flag flag-US" /> | 4:32.97 | DNF |  | 🥇 x 2, 🥈 x 2, 🥉 x 2 | ⚡ x 7 |
-| [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 2:34.83 | 2:47.01 | 🏆 x 11 | 🥇 x 11, 🥈 x 14, 🥉 x 2 | 💥 x 3, 🔥 x 4, ⚡ x 4 |
+| [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 2:33.89 | 2:47.01 | 🏆 x 12 | 🥇 x 12, 🥈 x 14, 🥉 x 2 | 💥 x 4, 🔥 x 4, ⚡ x 5 |
 
 #### Over 40
 
@@ -52,7 +52,7 @@
 | [Michael George](../../persons/michael_george/666.md) | 40+ | <i class="flag flag-GB" /> | 4:37.39 | DNF |  | 🥉 x 4 | ⚡ x 7 |
 | [Mickey Doyle](../../persons/mickey_doyle/666.md) | 50+ | <i class="flag flag-US" /> | 4:32.97 | DNF |  | 🥇 x 2, 🥈 x 2, 🥉 x 2 | ⚡ x 7 |
 | [Pete Lee](../../persons/pete_lee/666.md) | 40+ | <i class="flag flag-GB" /> | 3:12.00 | 3:24.46 | 🏆 x 12 | 🥈 x 2, 🥉 x 3 | 🔥 x 14, ⚡ x 20 |
-| [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 2:34.83 | 2:47.01 | 🏆 x 11 | 🥇 x 11, 🥈 x 14, 🥉 x 2 | 💥 x 3, 🔥 x 4, ⚡ x 4 |
+| [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 2:33.89 | 2:47.01 | 🏆 x 12 | 🥇 x 12, 🥈 x 14, 🥉 x 2 | 💥 x 4, 🔥 x 4, ⚡ x 5 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) | 40+ | <i class="flag flag-TW" /> | 3:38.96 | 3:45.42 | 🏆 x 1 | 🥇 x 3, 🥈 x 7, 🥉 x 7 | 🔥 x 4, ⚡ x 10 |
 
 #### Under 40
@@ -64,7 +64,7 @@
 | [Chris Thames](../../persons/chris_thames/666.md) | <40 | <i class="flag flag-US" /> | 9:58.46 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/666.md) | <40 | <i class="flag flag-IE" /> | 4:43.44 | 5:08.50 |  |  | 🔥 x 1, ⚡ x 4 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/666.md) | 40+ | <i class="flag flag-VE" /> | 3:03.79 | 3:19.74 | 🏆 x 20 | 🥈 x 1 | 🔥 x 11, ⚡ x 10 |
-| [Fred Johnson](../../persons/fred_johnson/666.md) | <40 | <i class="flag flag-US" /> | 3:31.17 | 3:46.28 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Fred Johnson](../../persons/fred_johnson/666.md) | <40 | <i class="flag flag-US" /> | 3:13.35 | 3:46.28 |  |  | 🔥 x 1, ⚡ x 2 |
 | [Go-ho Choi](../../persons/go_ho_choi/666.md) | 40+ | <i class="flag flag-KR" /> | 2:37.68 | 2:40.63 | 🏆 x 2 | 🥇 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [Pete Lee](../../persons/pete_lee/666.md) | 40+ | <i class="flag flag-GB" /> | 3:18.16 | 3:24.87 | 🏆 x 12 | 🥈 x 2, 🥉 x 3 | 🔥 x 14, ⚡ x 20 |
 | [Peter Osudar](../../persons/peter_osudar/666.md) | <40 | <i class="flag flag-CA" /> | 4:08.97 | 4:43.11 |  |  | 🔥 x 1, ⚡ x 1 |

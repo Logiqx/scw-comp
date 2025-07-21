@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-07-07](../../results/2025-07-07/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:36.98 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1420769135914941/permalink/1427501088575079) / [Mobile](https://m.facebook.com/events/1420769135914941?view=permalink&id=1427501088575079) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:37.94 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/1420769135914941/permalink/1430799994911855) / [Mobile](https://m.facebook.com/events/1420769135914941?view=permalink&id=1430799994911855) |
+| 3 | [Dan Smith](../../persons/dan_smith/333bf.md) | 50+ | <i class="flag flag-US" /> | 3:17.18 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/1420769135914941/permalink/1428744535117401) / [Mobile](https://m.facebook.com/events/1420769135914941?view=permalink&id=1428744535117401) |
+
 #### [2025-06-23](../../results/2025-06-23/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

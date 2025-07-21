@@ -20,10 +20,10 @@
 | [Megaminx](minx.md) | 6:25.35 | - |  | 🥉 x 1 | ⚡ x 1 |
 | [Pyraminx](pyram.md) | 6.88 | 11.00 |  | 🥈 x 3, 🥉 x 13 | 🔥 x 1, ⚡ x 5 |
 | [Skewb](skewb.md) | 4.02 | 5.62 | 🏆 x 45 | 🥇 x 45, 🥉 x 1 | 💥 x 9, 🔥 x 10, ⚡ x 5 |
-| [Square-1](sq1.md) | 33.84 | 38.71 |  | 🥉 x 5 | 🔥 x 4, ⚡ x 3 |
-| [Clock](clock.md) | 10.45 | 13.70 | 🏆 x 1 | 🥇 x 1, 🥈 x 9, 🥉 x 8 | 🔥 x 7, ⚡ x 9 |
+| [Square-1](sq1.md) | 33.84 | 38.71 |  | 🥉 x 6 | 🔥 x 4, ⚡ x 3 |
+| [Clock](clock.md) | 10.45 | 13.70 | 🏆 x 1 | 🥇 x 1, 🥈 x 10, 🥉 x 8 | 🔥 x 7, ⚡ x 9 |
 | [3x3x3 BLD](333bf.md) | 6:34.71 | - |  |  | ⚡ x 4 |
-| [3x3x3 FMC](333fm.md) | 32 | 40.00 | 🏆 x 1 | 🥇 x 1, 🥈 x 9, 🥉 x 17 | 🔥 x 3, ⚡ x 3 |
+| [3x3x3 FMC](333fm.md) | 32 | 40.00 | 🏆 x 1 | 🥇 x 1, 🥈 x 9, 🥉 x 18 | 🔥 x 3, ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2025-07-07](../../results/2025-07-07/minx.md) | <40 | **1:40.73** | **1:51.56** | 🔥 ⚡ | 1:43.54 | 2:13.99 | **1:40.73** | 1:47.19 | 2:03.94 | [Desktop](https://www.facebook.com/frederick.g.johnson/videos/724154740247428) / [Mobile](https://m.facebook.com/frederick.g.johnson/videos/724154740247428) |
 | [2025-06-09](../../results/2025-06-09/minx.md) | <40 | **1:48.41** | **1:59.46** | 🔥 ⚡ | 2:05.42 | 2:09.02 | 1:56.49 | 1:56.46 | **1:48.41** | [Desktop](https://www.facebook.com/frederick.g.johnson/videos/1353504892391062) / [Mobile](https://m.facebook.com/frederick.g.johnson/videos/1353504892391062) |
 
 

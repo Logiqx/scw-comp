@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-07-07](../../results/2025-07-07/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 11.14 | 15.52 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/781137304473681/permalink/788017067119038) / [Mobile](https://m.facebook.com/events/781137304473681?view=permalink&id=788017067119038) |
+
 #### [2025-06-23](../../results/2025-06-23/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
