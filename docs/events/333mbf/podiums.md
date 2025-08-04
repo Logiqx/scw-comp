@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-07-21](../../results/2025-07-21/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 10/11 in 48:08 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1794629137825918/permalink/1803129416975890) / [Mobile](https://m.facebook.com/events/1794629137825918?view=permalink&id=1803129416975890) |
+| 2 | [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 60+ | <i class="flag flag-SE" /> | 6/11 in 53:09 | 🥈 | [Desktop](https://www.facebook.com/events/1794629137825918/permalink/1801992667089565) / [Mobile](https://m.facebook.com/events/1794629137825918?view=permalink&id=1801992667089565) |
+
 #### [2025-07-07](../../results/2025-07-07/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |

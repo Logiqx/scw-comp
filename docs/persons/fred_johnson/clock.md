@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2025-07-21](../../results/2025-07-21/clock.md) | <40 | 10.95 | 16.50 |  | 28.18 | 11.56 | 24.67 | 10.95 | 13.26 | [Desktop](https://www.facebook.com/frederick.g.johnson/videos/24303615122592149) / [Mobile](https://m.facebook.com/frederick.g.johnson/videos/24303615122592149) |
 | [2025-04-28](../../results/2025-04-28/clock.md) | <40 | **10.30** | **14.01** | 🔥 ⚡ | 13.08 | 18.62 | 16.48 | 12.47 | **10.30** | [Desktop](https://www.facebook.com/frederick.g.johnson/videos/1062785612380344) / [Mobile](https://m.facebook.com/frederick.g.johnson/videos/1062785612380344) |
 
 

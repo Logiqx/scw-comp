@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-07-21](../../results/2025-07-21/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:29.07 | 1:36.82 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1282615073570085/permalink/1293487265816199) / [Mobile](https://m.facebook.com/events/1282615073570085?view=permalink&id=1293487265816199) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | <i class="flag flag-GB" /> | 1:35.11 | 1:42.82 | 🥈 | [Desktop](https://www.facebook.com/events/1282615073570085/permalink/1291735745991351) / [Mobile](https://m.facebook.com/events/1282615073570085?view=permalink&id=1291735745991351) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:41.78 | 1:44.86 | 🥉 | [Desktop](https://www.facebook.com/events/1282615073570085/permalink/1291196809378578) / [Mobile](https://m.facebook.com/events/1282615073570085?view=permalink&id=1291196809378578) |
+
 #### [2025-07-07](../../results/2025-07-07/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
