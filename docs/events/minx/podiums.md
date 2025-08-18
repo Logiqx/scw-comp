@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-08-04](../../results/2025-08-04/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:17.51 | 1:22.83 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1901314967391999/permalink/1906184883571674) / [Mobile](https://m.facebook.com/events/1901314967391999?view=permalink&id=1906184883571674) |
+| 2 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:19.20 | 1:39.94 | 🥈 | [Desktop](https://www.facebook.com/events/1901314967391999/permalink/1913272142862948) / [Mobile](https://m.facebook.com/events/1901314967391999?view=permalink&id=1913272142862948) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/minx.md) | 50+ | <i class="flag flag-AU" /> | 1:49.06 | 2:10.08 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1901314967391999/permalink/1912526909604138) / [Mobile](https://m.facebook.com/events/1901314967391999?view=permalink&id=1912526909604138) |
+
 #### [2025-07-21](../../results/2025-07-21/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -10,7 +10,7 @@
 
 | Event | Single | Average | Achievements|
 | :-- | --: | --: | :-- |
-| [3x3x3](333.md) | 18.71 | 21.18 | 🔥 x 3, ⚡ x 2 |
+| [3x3x3](333.md) | 17.63 | 20.09 | 🔥 x 4, ⚡ x 3 |
 | [2x2x2](222.md) | 9.49 | 11.53 | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

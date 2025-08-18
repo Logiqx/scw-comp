@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-08-04](../../results/2025-08-04/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 10.07 | 12.54 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/773476181922397/permalink/783972387539443) / [Mobile](https://m.facebook.com/events/773476181922397?view=permalink&id=783972387539443) |
+| 2 | [Daniel Houghton](../../persons/daniel_houghton/skewb.md) | 40+ | <i class="flag flag-CH" /> | 6.15 | 13.21 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/773476181922397/permalink/784416127495069) / [Mobile](https://m.facebook.com/events/773476181922397?view=permalink&id=784416127495069) |
+| 3 | [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 10.14 | 15.44 | 🥉 | [Desktop](https://www.facebook.com/events/773476181922397/permalink/784700934133255) / [Mobile](https://m.facebook.com/events/773476181922397?view=permalink&id=784700934133255) |
+
 #### [2025-07-21](../../results/2025-07-21/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
