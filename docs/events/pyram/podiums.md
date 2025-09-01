@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-08-18](../../results/2025-08-18/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 8.16 | 9.93 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/771985561972365/permalink/782988144205440) / [Mobile](https://m.facebook.com/events/771985561972365?view=permalink&id=782988144205440) |
+| 2 | [Daniel Houghton](../../persons/daniel_houghton/pyram.md) | 40+ | <i class="flag flag-CH" /> | 6.60 | 10.49 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/771985561972365/permalink/781197121051209) / [Mobile](https://m.facebook.com/events/771985561972365?view=permalink&id=781197121051209) |
+| 3 | [Pete Lee](../../persons/pete_lee/pyram.md) | 40+ | <i class="flag flag-GB" /> | 12.21 | 12.94 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/771985561972365/permalink/774270231743898) / [Mobile](https://m.facebook.com/events/771985561972365?view=permalink&id=774270231743898) |
+
 #### [2025-08-04](../../results/2025-08-04/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

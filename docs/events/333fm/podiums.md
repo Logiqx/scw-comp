@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-08-18](../../results/2025-08-18/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 34 | 35.67 | 🥇 | [Desktop](https://www.facebook.com/events/752385294068410/permalink/755122800461326) / [Mobile](https://m.facebook.com/events/752385294068410?view=permalink&id=755122800461326) |
+| 2 | [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 28 | 36.67 | 🥈 | [Desktop](https://www.facebook.com/events/752385294068410/permalink/759319270041679) / [Mobile](https://m.facebook.com/events/752385294068410?view=permalink&id=759319270041679) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 60+ | <i class="flag flag-US" /> | 51 | 59.00 | 🥉 | [Desktop](https://www.facebook.com/events/752385294068410/permalink/763321762974763) / [Mobile](https://m.facebook.com/events/752385294068410?view=permalink&id=763321762974763) |
+
 #### [2025-08-04](../../results/2025-08-04/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

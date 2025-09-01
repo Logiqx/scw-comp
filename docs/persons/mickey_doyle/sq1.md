@@ -10,10 +10,11 @@
 
 #### Square-1 Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2025-08-18](../../results/2025-08-18/sq1.md) | 50+ | 26.44 | 31.22 | 🏆 🥇 | 29.13 | 26.44 | 54.27 | 33.04 | 31.49 | [Desktop](https://www.facebook.com/events/771985561972365/permalink/782904087547179) / [Mobile](https://m.facebook.com/events/771985561972365?view=permalink&id=782904087547179) |
 | [2025-08-04](../../results/2025-08-04/sq1.md) | 50+ | **16.57** | 28.56 | 🥈 ⚡ | 27.60 | 35.21 | 29.81 | 28.26 | **16.57** | [Desktop](https://www.facebook.com/events/773476181922397/permalink/783920280877987) / [Mobile](https://m.facebook.com/events/773476181922397?view=permalink&id=783920280877987) |
 | [2025-07-21](../../results/2025-07-21/sq1.md) | 50+ | 23.49 | 32.14 | 🥈 | 24.99 | 34.65 | 41.28 | 36.79 | 23.49 | [Desktop](https://www.facebook.com/events/1686787435351677/permalink/1697437084286712) / [Mobile](https://m.facebook.com/events/1686787435351677?view=permalink&id=1697437084286712) |
 | [2025-07-07](../../results/2025-07-07/sq1.md) | 50+ | 24.09 | 30.79 | 🥈 | 28.40 | 36.64 | 34.35 | 24.09 | 29.63 | [Desktop](https://www.facebook.com/events/781137304473681/permalink/791805503406861) / [Mobile](https://m.facebook.com/events/781137304473681?view=permalink&id=791805503406861) |

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-08-18](../../results/2025-08-18/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 26.44 | 31.22 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/771985561972365/permalink/782904087547179) / [Mobile](https://m.facebook.com/events/771985561972365?view=permalink&id=782904087547179) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 60+ | <i class="flag flag-US" /> | 33.11 | 55.14 | 🥈 | [Desktop](https://www.facebook.com/events/771985561972365/permalink/782993970871524) / [Mobile](https://m.facebook.com/events/771985561972365?view=permalink&id=782993970871524) |
+| 3 | [Glyn Brown](../../persons/glyn_brown/sq1.md) | 40+ | <i class="flag flag-GB" /> | 40.58 | 56.84 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/771985561972365/permalink/779633331207588) / [Mobile](https://m.facebook.com/events/771985561972365?view=permalink&id=779633331207588) |
+
 #### [2025-08-04](../../results/2025-08-04/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2025-08-18](../../results/2025-08-18/minx.md) | 50+ | 2:20.23 | 2:22.82 | 🥉 | 2:20.23 | 2:22.24 | 2:26.00 | DNS | DNS | [Desktop](https://www.facebook.com/events/4098227200495459/permalink/4109435989374580) / [Mobile](https://m.facebook.com/events/4098227200495459?view=permalink&id=4109435989374580) |
 | [2025-08-04](../../results/2025-08-04/minx.md) | 50+ | **1:49.06** | **2:10.08** | 🥉 🔥 ⚡ | 2:07.51 | 2:20.80 | 2:18.95 | 2:03.78 | **1:49.06** | [Desktop](https://www.facebook.com/events/1901314967391999/permalink/1912526909604138) / [Mobile](https://m.facebook.com/events/1901314967391999?view=permalink&id=1912526909604138) |
 | [2025-07-21](../../results/2025-07-21/minx.md) | 50+ | **2:18.20** | **2:31.88** | 🥉 🔥 ⚡ | 2:21.08 | 2:56.36 | **2:18.20** | DNS | DNS | [Desktop](https://www.facebook.com/events/1261538608778309/permalink/1271704187761751) / [Mobile](https://m.facebook.com/events/1261538608778309?view=permalink&id=1271704187761751) |
 | [2025-07-07](../../results/2025-07-07/minx.md) | 50+ | **2:18.98** | **2:34.34** | 🔥 ⚡ | 2:47.92 | **2:18.98** | 2:36.13 | DNS | DNS | [Desktop](https://www.facebook.com/events/1328488458860314/permalink/1338582487850911) / [Mobile](https://m.facebook.com/events/1328488458860314?view=permalink&id=1338582487850911) |
