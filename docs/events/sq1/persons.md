@@ -22,7 +22,7 @@
 | [Eric Dodson](../../persons/eric_dodson/sq1.md) | 50+ | <i class="flag flag-US" /> | 24.63 | 36.77 |  | 🥈 x 1, 🥉 x 7 | 🔥 x 6, ⚡ x 6 |
 | [Kristina Lim](../../persons/kristina_lim/sq1.md) | 50+ | <i class="flag flag-US" /> | 33.84 | 38.71 |  | 🥉 x 6 | 🔥 x 4, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 60+ | <i class="flag flag-US" /> | 26.88 | 40.21 |  | 🥈 x 1, 🥉 x 47 | 💥 x 5, 🔥 x 7, ⚡ x 5 |
-| [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 16.57 | 24.19 | 🏆 x 1 | 🥇 x 1, 🥈 x 92, 🥉 x 5 | 🔥 x 19, ⚡ x 13 |
+| [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 16.57 | 24.19 | 🏆 x 2 | 🥇 x 2, 🥈 x 92, 🥉 x 5 | 🔥 x 19, ⚡ x 13 |
 | [Peter Douthwright](../../persons/peter_douthwright/sq1.md) | 60+ | <i class="flag flag-CA" /> | 1:14.33 | 1:36.66 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 #### Over 40
@@ -42,7 +42,7 @@
 | [Konsta Jukka](../../persons/konsta_jukka/sq1.md) | 40+ | <i class="flag flag-FI" /> | 24.21 | 40.11 |  | 🥉 x 5 | 🔥 x 4, ⚡ x 3 |
 | [Kristina Lim](../../persons/kristina_lim/sq1.md) | 50+ | <i class="flag flag-US" /> | 33.84 | 38.71 |  | 🥉 x 6 | 🔥 x 4, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 60+ | <i class="flag flag-US" /> | 26.88 | 40.21 |  | 🥈 x 1, 🥉 x 47 | 💥 x 5, 🔥 x 7, ⚡ x 5 |
-| [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 16.57 | 24.19 | 🏆 x 1 | 🥇 x 1, 🥈 x 92, 🥉 x 5 | 🔥 x 19, ⚡ x 13 |
+| [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 16.57 | 24.19 | 🏆 x 2 | 🥇 x 2, 🥈 x 92, 🥉 x 5 | 🔥 x 19, ⚡ x 13 |
 | [Peter Douthwright](../../persons/peter_douthwright/sq1.md) | 60+ | <i class="flag flag-CA" /> | 1:14.33 | 1:36.66 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Terence Brown](../../persons/terence_brown/sq1.md) | 40+ | <i class="flag flag-NZ" /> | 27.62 | 32.91 |  | 🥈 x 3 | 🔥 x 3, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | <i class="flag flag-IN" /> | 43.91 | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |

@@ -4,11 +4,11 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
 ### Zach Nahlik
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-| Event | Single | Average | Achievements|
-| :-- | --: | --: | :-- |
-| [3x3x3 FMC](333fm.md) | 30 | 31.33 | 🔥 x 1, ⚡ x 1 |
+| Event | Single | Average | Cups | Achievements|
+| :-- | --: | --: | :--: | :-- |
+| [3x3x3 FMC](333fm.md) | 29 | 30.67 | 🏆 x 1 | 🔥 x 2, ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

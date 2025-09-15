@@ -22,7 +22,7 @@
 | [Skewb](skewb.md) | 5.90 | 9.04 | 🏆 x 14 | 🥇 x 16, 🥈 x 41, 🥉 x 13 | 💥 x 20, 🔥 x 17, ⚡ x 13 |
 | [Square-1](sq1.md) | 26.88 | 40.21 |  | 🥈 x 1, 🥉 x 47 | 💥 x 5, 🔥 x 7, ⚡ x 5 |
 | [Clock](clock.md) | 7.78 | 8.64 | 🏆 x 58 | 🥇 x 67, 🥈 x 24, 🥉 x 3 | 💥 x 46, 🔥 x 28, ⚡ x 34 |
-| [3x3x3 FMC](333fm.md) | 46 | 50.67 | 🏆 x 2 | 🥇 x 4, 🥈 x 4, 🥉 x 6 | 💥 x 7, 🔥 x 8, ⚡ x 7 |
+| [3x3x3 FMC](333fm.md) | 46 | 50.67 | 🏆 x 2 | 🥇 x 4, 🥈 x 5, 🥉 x 6 | 💥 x 7, 🔥 x 8, ⚡ x 7 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
