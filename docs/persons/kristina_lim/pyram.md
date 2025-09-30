@@ -10,10 +10,11 @@
 
 #### Pyraminx Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2025-09-15](../../results/2025-09-15/pyram.md) | 50+ | 11.19 | 12.99 | 🏆 🥇 | 14.87 | 18.50 | 11.19 | 12.41 | 11.70 | [Desktop](https://www.facebook.com/events/1235660375260870/permalink/1243662887793952) / [Mobile](https://m.facebook.com/events/1235660375260870?view=permalink&id=1243662887793952) |
 | [2025-07-21](../../results/2025-07-21/pyram.md) | 50+ | 9.19 | 14.73 | 🥉 | 17.89 | 14.41 | 9.19 | 18.10 | 11.90 | [Desktop](https://www.facebook.com/events/1686787435351677/permalink/1697117950985292) / [Mobile](https://m.facebook.com/events/1686787435351677?view=permalink&id=1697117950985292) |
 | [2025-06-23](../../results/2025-06-23/pyram.md) | 50+ | 10.03 | 13.43 | 🥈 | 12.26 | 10.03 | 15.67 | 13.32 | 14.72 | [Desktop](https://www.facebook.com/events/1800949017165375/permalink/1806425019951108) / [Mobile](https://m.facebook.com/events/1800949017165375?view=permalink&id=1806425019951108) |
 | [2025-06-09](../../results/2025-06-09/pyram.md) | 50+ | 10.84 | 12.97 |  | 13.18 | 13.30 | 12.96 | 12.76 | 10.84 | [Desktop](https://www.facebook.com/events/1216240666866597/permalink/1226591715831492) / [Mobile](https://m.facebook.com/events/1216240666866597?view=permalink&id=1226591715831492) |

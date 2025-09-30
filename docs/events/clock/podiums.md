@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-09-15](../../results/2025-09-15/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Joe Kucala](../../persons/joe_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 13.01 | 13.52 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1235660375260870/permalink/1240875578072683) / [Mobile](https://m.facebook.com/events/1235660375260870?view=permalink&id=1240875578072683) |
+| 2 | [J.M. Gerardo](../../persons/jm_gerardo/clock.md) | 50+ | <i class="flag flag-US" /> | 16.45 | 22.12 | 🥈 | [Desktop](https://www.facebook.com/events/1235660375260870/permalink/1247441930749381) / [Mobile](https://m.facebook.com/events/1235660375260870?view=permalink&id=1247441930749381) |
+
 #### [2025-09-01](../../results/2025-09-01/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

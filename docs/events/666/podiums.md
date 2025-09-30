@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-09-15](../../results/2025-09-15/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 3:00.57 | 3:05.15 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1154655416510842/permalink/1157037036272680) / [Mobile](https://m.facebook.com/events/1154655416510842?view=permalink&id=1157037036272680) |
+| 2 | [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 2:55.23 | 3:08.12 | 🥈 | [Desktop](https://www.facebook.com/events/1154655416510842/permalink/1165777358731981) / [Mobile](https://m.facebook.com/events/1154655416510842?view=permalink&id=1165777358731981) |
+| 3 | [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | <i class="flag flag-FI" /> | 3:19.12 | 3:25.57 | 🥉 | [Desktop](https://www.facebook.com/events/1154655416510842/permalink/1165066455469738) / [Mobile](https://m.facebook.com/events/1154655416510842?view=permalink&id=1165066455469738) |
+
 #### [2025-09-01](../../results/2025-09-01/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

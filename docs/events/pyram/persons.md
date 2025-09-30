@@ -10,7 +10,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 6.61 | 9.62 | 🏆 x 6 | 🥇 x 6, 🥈 x 9, 🥉 x 15 | 💥 x 1, 🔥 x 17, ⚡ x 8 |
+| [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 6.61 | 9.62 | 🏆 x 6 | 🥇 x 6, 🥈 x 10, 🥉 x 15 | 💥 x 1, 🔥 x 17, ⚡ x 8 |
 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 6.96 | 9.48 | 🏆 x 24 | 🥇 x 30, 🥈 x 36, 🥉 x 29 | 💥 x 1, 🔥 x 12, ⚡ x 11 |
 | [Martin Melcop](../../persons/martin_melcop/pyram.md) | 60+ | <i class="flag flag-BR" /> | 6.61 | 9.83 | 🏆 x 2 | 🥇 x 5, 🥈 x 2 | 💥 x 6, 🔥 x 6, ⚡ x 5 |
 | [Michael Amarello](../../persons/michael_amarello/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.80 | 17.84 |  | 🥈 x 1, 🥉 x 5 | 🔥 x 12, ⚡ x 8 |
@@ -24,10 +24,10 @@
 | [Dean Money](../../persons/dean_money/pyram.md) | 50+ | <i class="flag flag-US" /> | 13.59 | 16.22 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/pyram.md) | 50+ | <i class="flag flag-US" /> | 6.34 | 10.82 |  | 🥇 x 1, 🥈 x 4, 🥉 x 6 | 🔥 x 11, ⚡ x 8 |
 | [Fletch Cloyes](../../persons/fletch_cloyes/pyram.md) | 50+ | <i class="flag flag-US" /> | 21.10 | 32.96 |  |  | 🔥 x 1, ⚡ x 1 |
-| [J.M. Gerardo](../../persons/jm_gerardo/pyram.md) | 50+ | <i class="flag flag-US" /> | 17.28 | 27.53 |  |  | 🔥 x 1, ⚡ x 1 |
+| [J.M. Gerardo](../../persons/jm_gerardo/pyram.md) | 50+ | <i class="flag flag-US" /> | 16.40 | 21.86 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jae Park](../../persons/jae_park/pyram.md) | 50+ | <i class="flag flag-US" /> | 1:36.40 | 1:58.10 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 6.61 | 9.62 | 🏆 x 6 | 🥇 x 6, 🥈 x 9, 🥉 x 15 | 💥 x 1, 🔥 x 17, ⚡ x 8 |
-| [Kristina Lim](../../persons/kristina_lim/pyram.md) | 50+ | <i class="flag flag-US" /> | 6.88 | 11.00 |  | 🥈 x 3, 🥉 x 14 | 🔥 x 1, ⚡ x 5 |
+| [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 6.61 | 9.62 | 🏆 x 6 | 🥇 x 6, 🥈 x 10, 🥉 x 15 | 💥 x 1, 🔥 x 17, ⚡ x 8 |
+| [Kristina Lim](../../persons/kristina_lim/pyram.md) | 50+ | <i class="flag flag-US" /> | 6.88 | 11.00 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 14 | 🔥 x 1, ⚡ x 5 |
 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 5.40 | 9.42 | 🏆 x 24 | 🥇 x 30, 🥈 x 36, 🥉 x 29 | 💥 x 1, 🔥 x 12, ⚡ x 11 |
 | [Martin Melcop](../../persons/martin_melcop/pyram.md) | 60+ | <i class="flag flag-BR" /> | 6.61 | 9.83 | 🏆 x 2 | 🥇 x 5, 🥈 x 2 | 💥 x 6, 🔥 x 6, ⚡ x 5 |
 | [Michael Amarello](../../persons/michael_amarello/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.80 | 17.84 |  | 🥈 x 1, 🥉 x 5 | 🔥 x 12, ⚡ x 8 |
@@ -53,11 +53,11 @@
 | [Glyn Brown](../../persons/glyn_brown/pyram.md) | 40+ | <i class="flag flag-GB" /> | 9.93 | 14.93 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Go-ho Choi](../../persons/go_ho_choi/pyram.md) | 40+ | <i class="flag flag-KR" /> | 6.07 | 7.85 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Gordon Holey](../../persons/gordon_holey/pyram.md) | 40+ | <i class="flag flag-US" /> | 7.25 | 9.97 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 6 | 🔥 x 3, ⚡ x 4 |
-| [J.M. Gerardo](../../persons/jm_gerardo/pyram.md) | 50+ | <i class="flag flag-US" /> | 17.28 | 27.53 |  |  | 🔥 x 1, ⚡ x 1 |
+| [J.M. Gerardo](../../persons/jm_gerardo/pyram.md) | 50+ | <i class="flag flag-US" /> | 16.40 | 21.86 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [JM Tambaoan](../../persons/jm_tambaoan/pyram.md) | 40+ | <i class="flag flag-PH" /> | 9.54 | 14.27 |  | 🥉 x 9 | 🔥 x 3, ⚡ x 4 |
 | [Jae Park](../../persons/jae_park/pyram.md) | 50+ | <i class="flag flag-US" /> | 1:36.40 | 1:58.10 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 6.61 | 9.62 | 🏆 x 6 | 🥇 x 6, 🥈 x 9, 🥉 x 15 | 💥 x 1, 🔥 x 17, ⚡ x 8 |
-| [Kristina Lim](../../persons/kristina_lim/pyram.md) | 50+ | <i class="flag flag-US" /> | 6.88 | 11.00 |  | 🥈 x 3, 🥉 x 14 | 🔥 x 1, ⚡ x 5 |
+| [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 6.61 | 9.62 | 🏆 x 6 | 🥇 x 6, 🥈 x 10, 🥉 x 15 | 💥 x 1, 🔥 x 17, ⚡ x 8 |
+| [Kristina Lim](../../persons/kristina_lim/pyram.md) | 50+ | <i class="flag flag-US" /> | 6.88 | 11.00 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 14 | 🔥 x 1, ⚡ x 5 |
 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 5.40 | 9.42 | 🏆 x 24 | 🥇 x 30, 🥈 x 36, 🥉 x 29 | 💥 x 1, 🔥 x 12, ⚡ x 11 |
 | [Maiko Curry](../../persons/maiko_curry/pyram.md) | 40+ | <i class="flag flag-JP" /> | 10.39 | 11.56 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Marcel Balzer](../../persons/marcel_balzer/pyram.md) | 40+ | <i class="flag flag-DE" /> | 10.03 | 16.55 |  | 🥉 x 3 | 🔥 x 4, ⚡ x 3 |
