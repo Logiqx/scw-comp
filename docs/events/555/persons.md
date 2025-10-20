@@ -30,7 +30,7 @@
 | [Mickey Doyle](../../persons/mickey_doyle/555.md) | 50+ | <i class="flag flag-US" /> | 2:15.82 | 2:34.85 |  | 🥈 x 4, 🥉 x 14 | 🔥 x 18, ⚡ x 14 |
 | [Peter Andersson](../../persons/peter_andersson/555.md) | 60+ | <i class="flag flag-SE" /> | 4:15.39 | 4:47.75 |  |  | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | <i class="flag flag-CA" /> | 5:50.00 | DNF |  |  | ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:20.33 | 1:36.40 | 🏆 x 3 | 🥇 x 3, 🥈 x 17, 🥉 x 12 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
+| [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:20.33 | 1:36.40 | 🏆 x 3 | 🥇 x 3, 🥈 x 18, 🥉 x 12 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
 
 #### Over 40
 
@@ -48,7 +48,7 @@
 | [Eric Dodson](../../persons/eric_dodson/555.md) | 50+ | <i class="flag flag-US" /> | 2:50.88 | 2:57.27 |  | 🥉 x 2 | 🔥 x 3, ⚡ x 2 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | <i class="flag flag-JP" /> | 1:21.05 | 1:29.94 | 🏆 x 24 | 🥇 x 24 | 💥 x 7, 🔥 x 6, ⚡ x 4 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:41.88 | 1:56.29 | 🏆 x 2 | 🥇 x 17, 🥈 x 30, 🥉 x 7 | 🔥 x 7, ⚡ x 5 |
-| [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | <i class="flag flag-GB" /> | 1:25.33 | 1:34.98 | 🏆 x 3 | 🥇 x 4, 🥈 x 22, 🥉 x 9 | 🔥 x 12, ⚡ x 7 |
+| [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | <i class="flag flag-GB" /> | 1:25.33 | 1:34.65 | 🏆 x 4 | 🥇 x 5, 🥈 x 22, 🥉 x 9 | 🔥 x 13, ⚡ x 7 |
 | [Go-ho Choi](../../persons/go_ho_choi/555.md) | 40+ | <i class="flag flag-KR" /> | 1:29.28 | 1:31.87 | 🏆 x 6 | 🥇 x 1 | 💥 x 3, 🔥 x 2, ⚡ x 4 |
 | [Gordon Holey](../../persons/gordon_holey/555.md) | 40+ | <i class="flag flag-US" /> | 2:40.47 | 3:28.56 |  |  | 🔥 x 4, ⚡ x 4 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/555.md) | 40+ | <i class="flag flag-PL" /> | 2:37.21 | 2:48.50 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -69,7 +69,7 @@
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | <i class="flag flag-CA" /> | 5:50.00 | DNF |  |  | ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/555.md) | 40+ | <i class="flag flag-ES" /> | 2:17.13 | 2:27.99 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/555.md) | 40+ | <i class="flag flag-GB" /> | 3:12.23 | 3:25.05 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:20.33 | 1:36.40 | 🏆 x 3 | 🥇 x 3, 🥈 x 17, 🥉 x 12 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
+| [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:20.33 | 1:36.40 | 🏆 x 3 | 🥇 x 3, 🥈 x 18, 🥉 x 12 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | <i class="flag flag-TW" /> | 1:44.05 | 1:51.63 | 🏆 x 2 | 🥇 x 4, 🥈 x 19, 🥉 x 14 | 🔥 x 21, ⚡ x 20 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/555.md) | 40+ | <i class="flag flag-FR" /> | 2:36.25 | 2:52.60 |  |  | 🔥 x 1, ⚡ x 1 |
 

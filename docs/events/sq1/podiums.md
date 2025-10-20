@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-09-29](../../results/2025-09-29/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 22.40 | 33.55 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1724848664863140/permalink/1737134180301255) / [Mobile](https://m.facebook.com/events/1724848664863140?view=permalink&id=1737134180301255) |
+| 2 | [Kristina Lim](../../persons/kristina_lim/sq1.md) | 50+ | <i class="flag flag-US" /> | 34.59 | 58.80 | 🥈 | [Desktop](https://www.facebook.com/events/1724848664863140/permalink/1733705103977496) / [Mobile](https://m.facebook.com/events/1724848664863140?view=permalink&id=1733705103977496) |
+
 #### [2025-09-15](../../results/2025-09-15/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-09-29](../../results/2025-09-29/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 54.52 | 56.87 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/31214798074830951/permalink/31459949070315849) / [Mobile](https://m.facebook.com/events/31214798074830951?view=permalink&id=31459949070315849) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/444.md) | 60+ | <i class="flag flag-US" /> | 1:15.93 | 1:25.85 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/31214798074830951/permalink/31479337011710388) / [Mobile](https://m.facebook.com/events/31214798074830951?view=permalink&id=31479337011710388) |
+| 3 | [Kristina Lim](../../persons/kristina_lim/444.md) | 50+ | <i class="flag flag-US" /> | 2:21.76 | 2:25.28 | 🥉 | [Desktop](https://www.facebook.com/events/31214798074830951/permalink/31402879319356158) / [Mobile](https://m.facebook.com/events/31214798074830951?view=permalink&id=31402879319356158) |
+
 #### [2025-09-15](../../results/2025-09-15/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

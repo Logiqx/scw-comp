@@ -8,7 +8,7 @@
 
 | Event | Single | Average | Cups | Achievements|
 | :-- | --: | --: | :--: | :-- |
-| [3x3x3 FMC](333fm.md) | 26 | 28.00 | 🏆 x 2 | 🔥 x 3, ⚡ x 3 |
+| [3x3x3 FMC](333fm.md) | 26 | 28.00 | 🏆 x 3 | 🔥 x 3, ⚡ x 4 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
