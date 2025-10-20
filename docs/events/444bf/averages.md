@@ -10,13 +10,13 @@
 
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/444bf.md) | [2025-09-15](../../results/2025-09-15/444bf.md) | 50+ | <i class="flag flag-AU" /> | 7:34.23 | 🏆 x 21 | 🥇 x 21 | 💥 x 4, 🔥 x 4, ⚡ x 6 | [Desktop](https://www.facebook.com/events/738335735872971/permalink/739999509039927) / [Mobile](https://m.facebook.com/events/738335735872971?view=permalink&id=739999509039927) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/444bf.md) | [2025-09-15](../../results/2025-09-15/444bf.md) | 50+ | <i class="flag flag-AU" /> | 7:34.23 | 🏆 x 22 | 🥇 x 22 | 💥 x 4, 🔥 x 4, ⚡ x 6 | [Desktop](https://www.facebook.com/events/738335735872971/permalink/739999509039927) / [Mobile](https://m.facebook.com/events/738335735872971?view=permalink&id=739999509039927) |
 
 #### Over 40
 
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/444bf.md) | [2025-09-15](../../results/2025-09-15/444bf.md) | 50+ | <i class="flag flag-AU" /> | 7:34.23 | 🏆 x 21 | 🥇 x 21 | 💥 x 4, 🔥 x 4, ⚡ x 6 | [Desktop](https://www.facebook.com/events/738335735872971/permalink/739999509039927) / [Mobile](https://m.facebook.com/events/738335735872971?view=permalink&id=739999509039927) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/444bf.md) | [2025-09-15](../../results/2025-09-15/444bf.md) | 50+ | <i class="flag flag-AU" /> | 7:34.23 | 🏆 x 22 | 🥇 x 22 | 💥 x 4, 🔥 x 4, ⚡ x 6 | [Desktop](https://www.facebook.com/events/738335735872971/permalink/739999509039927) / [Mobile](https://m.facebook.com/events/738335735872971?view=permalink&id=739999509039927) |
 | 2 | [Yuichi Hamada](../../persons/yuichi_hamada/444bf.md) | [2022-08-08](../../results/2022-08-08/444bf.md) | 40+ | <i class="flag flag-JP" /> | 10:06.86 | 🏆 x 7 | 🥇 x 7, 🥈 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 3 | [Desktop](https://www.facebook.com/1849183990/videos/1756210731397461) / [Mobile](https://m.facebook.com/1849183990/videos/1756210731397461) |
 
 #### Under 40
