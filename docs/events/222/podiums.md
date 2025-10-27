@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-10-13](../../results/2025-10-13/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | <i class="flag flag-FI" /> | 4.09 | 4.86 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1142683474629830/permalink/1145571721007672) / [Mobile](https://m.facebook.com/events/1142683474629830?view=permalink&id=1145571721007672) |
+| 2 | [Mickey Doyle](../../persons/mickey_doyle/222.md) | 50+ | <i class="flag flag-US" /> | 6.56 | 8.07 | 🥈 | [Desktop](https://www.facebook.com/events/1142683474629830/permalink/1146668160898028) / [Mobile](https://m.facebook.com/events/1142683474629830?view=permalink&id=1146668160898028) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 6.37 | 8.25 | 🥉 | [Desktop](https://www.facebook.com/events/1142683474629830/permalink/1146708607560650) / [Mobile](https://m.facebook.com/events/1142683474629830?view=permalink&id=1146708607560650) |
+
 #### [2025-09-29](../../results/2025-09-29/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

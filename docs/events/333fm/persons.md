@@ -28,7 +28,7 @@
 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 60+ | <i class="flag flag-US" /> | 46 | 50.67 | 🏆 x 2 | 🥇 x 4, 🥈 x 6, 🥉 x 6 | 💥 x 7, 🔥 x 8, ⚡ x 7 |
 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | <i class="flag flag-GB" /> | 32 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 3 | ⚡ x 3 |
 | [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 27 | 30.67 | 🏆 x 6 | 🥇 x 8, 🥈 x 19, 🥉 x 8 | 🔥 x 9, ⚡ x 6 |
-| [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 26 | 30.33 | 🏆 x 3 | 🥇 x 9, 🥈 x 8, 🥉 x 5 | 🔥 x 7, ⚡ x 3 |
+| [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 26 | 30.33 | 🏆 x 4 | 🥇 x 10, 🥈 x 8, 🥉 x 5 | 🔥 x 7, ⚡ x 3 |
 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | <i class="flag flag-UA" /> | 21 | DNF | 🏆 x 14 | 🥇 x 14, 🥈 x 1 | 💥 x 3, ⚡ x 4 |
 
 #### Over 40
@@ -53,7 +53,7 @@
 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | <i class="flag flag-GB" /> | 32 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 3 | ⚡ x 3 |
 | [Michael George](../../persons/michael_george/333fm.md) | 40+ | <i class="flag flag-GB" /> | 31 | DNF |  | 🥇 x 1, 🥈 x 4, 🥉 x 5 | ⚡ x 3 |
 | [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 27 | 30.67 | 🏆 x 6 | 🥇 x 8, 🥈 x 19, 🥉 x 8 | 🔥 x 9, ⚡ x 6 |
-| [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 26 | 30.33 | 🏆 x 3 | 🥇 x 9, 🥈 x 8, 🥉 x 5 | 🔥 x 7, ⚡ x 3 |
+| [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 26 | 30.33 | 🏆 x 4 | 🥇 x 10, 🥈 x 8, 🥉 x 5 | 🔥 x 7, ⚡ x 3 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | <i class="flag flag-TW" /> | 27 | 30.33 | 🏆 x 9 | 🥇 x 10, 🥈 x 11, 🥉 x 6 | 🔥 x 3, ⚡ x 8 |
 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | <i class="flag flag-UA" /> | 21 | DNF | 🏆 x 14 | 🥇 x 14, 🥈 x 1 | 💥 x 3, ⚡ x 4 |
 

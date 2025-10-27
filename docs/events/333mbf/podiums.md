@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-10-13](../../results/2025-10-13/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 9/11 in 52:17 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1202135511793512/permalink/1204338378239892) / [Mobile](https://m.facebook.com/events/1202135511793512?view=permalink&id=1204338378239892) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/333mbf.md) | 40+ | <i class="flag flag-GB" /> | 5/6 in 53:39 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1202135511793512/permalink/1205901141416949) / [Mobile](https://m.facebook.com/events/1202135511793512?view=permalink&id=1205901141416949) |
+
 #### [2025-09-29](../../results/2025-09-29/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-10-13](../../results/2025-10-13/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:20.17 | 1:25.99 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1142683474629830/permalink/1145571721007672) / [Mobile](https://m.facebook.com/events/1142683474629830?view=permalink&id=1145571721007672) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/minx.md) | 50+ | <i class="flag flag-AU" /> | 1:30.71 | 2:09.32 | 🥈 💥 ⚡ | [Desktop](https://www.facebook.com/events/1142683474629830/permalink/1145169031047941) / [Mobile](https://m.facebook.com/events/1142683474629830?view=permalink&id=1145169031047941) |
+| 3 | [Paweł Zok](../../persons/pawe_zok/minx.md) | 40+ | <i class="flag flag-PL" /> | 2:15.34 | 2:26.89 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1142683474629830/permalink/1146199664278211) / [Mobile](https://m.facebook.com/events/1142683474629830?view=permalink&id=1146199664278211) |
+
 #### [2025-09-29](../../results/2025-09-29/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
