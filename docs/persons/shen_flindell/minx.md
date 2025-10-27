@@ -8,10 +8,11 @@
 
 #### Megaminx Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2025-10-13](../../results/2025-10-13/minx.md) | 50+ | **1:30.71** | 2:09.32 | 🥈 💥 ⚡ | 2:40.84 | 2:05.70 | **1:30.71** | 2:11.28 | 2:10.98 | [Desktop](https://www.facebook.com/events/1142683474629830/permalink/1145169031047941) / [Mobile](https://m.facebook.com/events/1142683474629830?view=permalink&id=1145169031047941) |
 | [2025-09-29](../../results/2025-09-29/minx.md) | 50+ | **1:42.97** | **1:58.28** | 🥈 🔥 ⚡ | 2:22.55 | 2:04.41 | 1:57.06 | **1:42.97** | 1:53.37 | [Desktop](https://www.facebook.com/events/3131653436983766/permalink/3143422809140162) / [Mobile](https://m.facebook.com/events/3131653436983766?view=permalink&id=3143422809140162) |
 | [2025-09-15](../../results/2025-09-15/minx.md) | 50+ | 1:53.20 | **2:06.30** | 🥈 🔥 | 2:22.67 | 1:53.20 | 2:08.08 | 2:08.34 | 2:02.48 | [Desktop](https://www.facebook.com/events/1678098952866203/permalink/1688396615169770) / [Mobile](https://m.facebook.com/events/1678098952866203?view=permalink&id=1688396615169770) |
 | [2025-09-01](../../results/2025-09-01/minx.md) | 50+ | 1:51.14 | 2:13.13 | 🥉 | 2:21.61 | 1:51.14 | 2:18.15 | 2:08.51 | 2:12.72 | [Desktop](https://www.facebook.com/events/674637162322812/permalink/684877531298775) / [Mobile](https://m.facebook.com/events/674637162322812?view=permalink&id=684877531298775) |

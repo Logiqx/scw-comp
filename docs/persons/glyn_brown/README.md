@@ -20,6 +20,7 @@
 | [Pyraminx](pyram.md) | 9.93 | 14.93 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Square-1](sq1.md) | 40.58 | 56.84 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Clock](clock.md) | 12.54 | 16.60 |  | 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
+| [3x3x3 MBLD](333mbf.md) | 5/6 in 53:39 | - |  | 🥈 x 1 | ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

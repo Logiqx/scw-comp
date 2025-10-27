@@ -11,7 +11,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | <i class="flag flag-US" /> | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
-| [Lisa Kucala](../../persons/lisa_kucala/555.md) | 60+ | <i class="flag flag-US" /> | 2:41.31 | 2:50.93 |  | 🥉 x 1 | 💥 x 10, 🔥 x 6, ⚡ x 13 |
+| [Lisa Kucala](../../persons/lisa_kucala/555.md) | 60+ | <i class="flag flag-US" /> | 2:41.31 | 2:50.93 |  | 🥉 x 2 | 💥 x 10, 🔥 x 6, ⚡ x 13 |
 | [Peter Andersson](../../persons/peter_andersson/555.md) | 60+ | <i class="flag flag-SE" /> | 4:15.39 | 4:47.75 |  |  | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 
 #### Over 50
@@ -26,11 +26,11 @@
 | [Jae Park](../../persons/jae_park/555.md) | 50+ | <i class="flag flag-US" /> | 4:09.44 | 4:32.93 |  | 🥉 x 4 | 🔥 x 3, ⚡ x 7 |
 | [Kerry Go](../../persons/kerry_go/555.md) | 50+ | <i class="flag flag-US" /> | 3:02.77 | 3:36.28 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Kristina Lim](../../persons/kristina_lim/555.md) | 50+ | <i class="flag flag-US" /> | 6:31.80 | DNF |  |  | ⚡ x 1 |
-| [Lisa Kucala](../../persons/lisa_kucala/555.md) | 60+ | <i class="flag flag-US" /> | 2:41.31 | 2:50.93 |  | 🥉 x 1 | 💥 x 10, 🔥 x 6, ⚡ x 13 |
+| [Lisa Kucala](../../persons/lisa_kucala/555.md) | 60+ | <i class="flag flag-US" /> | 2:41.31 | 2:50.93 |  | 🥉 x 2 | 💥 x 10, 🔥 x 6, ⚡ x 13 |
 | [Mickey Doyle](../../persons/mickey_doyle/555.md) | 50+ | <i class="flag flag-US" /> | 2:15.82 | 2:34.85 |  | 🥈 x 4, 🥉 x 14 | 🔥 x 18, ⚡ x 14 |
 | [Peter Andersson](../../persons/peter_andersson/555.md) | 60+ | <i class="flag flag-SE" /> | 4:15.39 | 4:47.75 |  |  | 💥 x 2, 🔥 x 2, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | <i class="flag flag-CA" /> | 5:50.00 | DNF |  |  | ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:20.33 | 1:36.40 | 🏆 x 3 | 🥇 x 3, 🥈 x 18, 🥉 x 12 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
+| [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:20.33 | 1:36.40 | 🏆 x 3 | 🥇 x 3, 🥈 x 19, 🥉 x 12 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
 
 #### Over 40
 
@@ -59,9 +59,9 @@
 | [Jo Cocco](../../persons/jo_cocco/555.md) | 40+ | <i class="flag flag-GB" /> | 3:37.69 | 4:04.60 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/555.md) | 40+ | <i class="flag flag-US" /> | 4:06.17 | 4:17.14 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Kerry Go](../../persons/kerry_go/555.md) | 50+ | <i class="flag flag-US" /> | 3:02.77 | 3:36.28 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | <i class="flag flag-FI" /> | 1:26.83 | 1:39.12 | 🏆 x 5 | 🥇 x 7, 🥈 x 12, 🥉 x 1 | 🔥 x 9, ⚡ x 6 |
+| [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | <i class="flag flag-FI" /> | 1:26.83 | 1:37.69 | 🏆 x 6 | 🥇 x 8, 🥈 x 12, 🥉 x 1 | 🔥 x 10, ⚡ x 6 |
 | [Kristina Lim](../../persons/kristina_lim/555.md) | 50+ | <i class="flag flag-US" /> | 6:31.80 | DNF |  |  | ⚡ x 1 |
-| [Lisa Kucala](../../persons/lisa_kucala/555.md) | 60+ | <i class="flag flag-US" /> | 2:41.31 | 2:50.93 |  | 🥉 x 1 | 💥 x 10, 🔥 x 6, ⚡ x 13 |
+| [Lisa Kucala](../../persons/lisa_kucala/555.md) | 60+ | <i class="flag flag-US" /> | 2:41.31 | 2:50.93 |  | 🥉 x 2 | 💥 x 10, 🔥 x 6, ⚡ x 13 |
 | [Michael George](../../persons/michael_george/555.md) | 40+ | <i class="flag flag-GB" /> | 1:43.65 | 2:00.85 | 🏆 x 1 | 🥇 x 2, 🥈 x 4, 🥉 x 9 | 🔥 x 5, ⚡ x 5 |
 | [Mickey Doyle](../../persons/mickey_doyle/555.md) | 50+ | <i class="flag flag-US" /> | 2:15.82 | 2:34.85 |  | 🥈 x 4, 🥉 x 14 | 🔥 x 18, ⚡ x 14 |
 | [Pete Lee](../../persons/pete_lee/555.md) | 40+ | <i class="flag flag-GB" /> | 1:37.98 | 1:48.42 | 🏆 x 12 | 🥈 x 2, 🥉 x 15 | 🔥 x 19, ⚡ x 14 |
@@ -69,7 +69,7 @@
 | [Peter Douthwright](../../persons/peter_douthwright/555.md) | 50+ | <i class="flag flag-CA" /> | 5:50.00 | DNF |  |  | ⚡ x 1 |
 | [Raúl Morales](../../persons/raul_morales/555.md) | 40+ | <i class="flag flag-ES" /> | 2:17.13 | 2:27.99 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/555.md) | 40+ | <i class="flag flag-GB" /> | 3:12.23 | 3:25.05 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:20.33 | 1:36.40 | 🏆 x 3 | 🥇 x 3, 🥈 x 18, 🥉 x 12 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
+| [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:20.33 | 1:36.40 | 🏆 x 3 | 🥇 x 3, 🥈 x 19, 🥉 x 12 | 💥 x 4, 🔥 x 4, ⚡ x 4 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/555.md) | 40+ | <i class="flag flag-TW" /> | 1:44.05 | 1:51.63 | 🏆 x 2 | 🥇 x 4, 🥈 x 19, 🥉 x 14 | 🔥 x 21, ⚡ x 20 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/555.md) | 40+ | <i class="flag flag-FR" /> | 2:36.25 | 2:52.60 |  |  | 🔥 x 1, ⚡ x 1 |
 

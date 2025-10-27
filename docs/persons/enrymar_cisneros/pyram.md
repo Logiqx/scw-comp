@@ -10,10 +10,11 @@
 
 #### Pyraminx Results
 
-<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2025-10-13](../../results/2025-10-13/pyram.md) | 40+ | **4.27** | **9.24** | 🏆 🥇 🔥 ⚡ | 8.48 | 10.04 | **4.27** | 9.38 | 9.87 | [Desktop](https://www.facebook.com/events/1791768661465254/permalink/1792856461356474) / [Mobile](https://m.facebook.com/events/1791768661465254?view=permalink&id=1792856461356474) |
 | [2023-01-09](../../results/2023-01-09/pyram.md) | <40 | 6.93 | 8.30 |  | 6.93 | 10.96 | 8.87 | 7.66 | 8.36 | [Desktop](https://www.facebook.com/events/3345232965716031/permalink/3355457971360197) / [Mobile](https://m.facebook.com/events/3345232965716031?view=permalink&id=3355457971360197) |
 | [2022-12-12](../../results/2022-12-12/pyram.md) | <40 | 5.83 | 8.97 |  | 10.57 | 8.75 | 8.63 | 5.83 | 9.52 | [Desktop](https://www.facebook.com/events/663641112081341/permalink/674987427613376) / [Mobile](https://m.facebook.com/events/663641112081341?view=permalink&id=674987427613376) |
 | [2022-11-28](../../results/2022-11-28/pyram.md) | <40 | 7.29 | 9.28 |  | 8.39 | 12.92 | 7.29 | 11.09 | 8.36 | [Desktop](https://www.facebook.com/events/1804728823229042/permalink/1815867028781888) / [Mobile](https://m.facebook.com/events/1804728823229042?view=permalink&id=1815867028781888) |

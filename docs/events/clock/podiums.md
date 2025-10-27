@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-10-13](../../results/2025-10-13/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 9.21 | 9.54 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1791768661465254/permalink/1795803711061749) / [Mobile](https://m.facebook.com/events/1791768661465254?view=permalink&id=1795803711061749) |
+| 2 | [Joe Kucala](../../persons/joe_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 11.81 | 12.27 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/1791768661465254/permalink/1794028537905933) / [Mobile](https://m.facebook.com/events/1791768661465254?view=permalink&id=1794028537905933) |
+
 #### [2025-09-29](../../results/2025-09-29/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

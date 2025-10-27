@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-10-13](../../results/2025-10-13/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) | 40+ | <i class="flag flag-VE" /> | 4.27 | 9.24 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1791768661465254/permalink/1792856461356474) / [Mobile](https://m.facebook.com/events/1791768661465254?view=permalink&id=1792856461356474) |
+| 2 | [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 10.76 | 11.75 | 🥈 | [Desktop](https://www.facebook.com/events/1791768661465254/permalink/1794019647906822) / [Mobile](https://m.facebook.com/events/1791768661465254?view=permalink&id=1794019647906822) |
+
 #### [2025-09-29](../../results/2025-09-29/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
