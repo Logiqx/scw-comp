@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-10-27](../../results/2025-10-27/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | <i class="flag flag-US" /> | 4.87 | 6.96 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1159153835655933/permalink/1169453294625987) / [Mobile](https://m.facebook.com/events/1159153835655933?view=permalink&id=1169453294625987) |
+
 #### [2025-10-13](../../results/2025-10-13/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

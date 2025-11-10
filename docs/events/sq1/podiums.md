@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-10-27](../../results/2025-10-27/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/sq1.md) | 40+ | <i class="flag flag-VE" /> | 32.80 | 53.43 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1159153835655933/permalink/1169274804643836) / [Mobile](https://m.facebook.com/events/1159153835655933?view=permalink&id=1169274804643836) |
+
 #### [2025-10-13](../../results/2025-10-13/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

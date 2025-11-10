@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-10-27](../../results/2025-10-27/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:15.23 | 1:23.69 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/787732707421464/permalink/791459190382149) / [Mobile](https://m.facebook.com/events/787732707421464?view=permalink&id=791459190382149) |
+| 2 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:20.37 | 1:24.30 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/787732707421464/permalink/798509079677160) / [Mobile](https://m.facebook.com/events/787732707421464?view=permalink&id=798509079677160) |
+| 3 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | 40+ | <i class="flag flag-VE" /> | 1:33.55 | 1:35.11 | 🥉 | [Desktop](https://www.facebook.com/events/787732707421464/permalink/798426373018764) / [Mobile](https://m.facebook.com/events/787732707421464?view=permalink&id=798426373018764) |
+
 #### [2025-10-13](../../results/2025-10-13/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
