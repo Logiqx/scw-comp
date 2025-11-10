@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-10-27](../../results/2025-10-27/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | <i class="flag flag-FI" /> | 9.74 | 10.41 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/787732707421464/permalink/798509079677160) / [Mobile](https://m.facebook.com/events/787732707421464?view=permalink&id=798509079677160) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) | 40+ | <i class="flag flag-VE" /> | 11.67 | 13.68 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/787732707421464/permalink/797354093125992) / [Mobile](https://m.facebook.com/events/787732707421464?view=permalink&id=797354093125992) |
+| 3 | [Glyn Brown](../../persons/glyn_brown/333.md) | 40+ | <i class="flag flag-GB" /> | 14.20 | 15.49 | 🥉 | [Desktop](https://www.facebook.com/events/787732707421464/permalink/798220013039400) / [Mobile](https://m.facebook.com/events/787732707421464?view=permalink&id=798220013039400) |
+
 #### [2025-10-13](../../results/2025-10-13/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

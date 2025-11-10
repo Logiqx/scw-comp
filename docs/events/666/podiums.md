@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-10-27](../../results/2025-10-27/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | <i class="flag flag-GB" /> | 2:38.25 | 2:48.51 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1367607281549487/permalink/1378126700497545) / [Mobile](https://m.facebook.com/events/1367607281549487?view=permalink&id=1378126700497545) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 3:04.62 | 3:12.71 | 🥈 | [Desktop](https://www.facebook.com/events/1367607281549487/permalink/1375872054056343) / [Mobile](https://m.facebook.com/events/1367607281549487?view=permalink&id=1375872054056343) |
+| 3 | [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | <i class="flag flag-FI" /> | 3:10.77 | 3:30.07 | 🥉 | [Desktop](https://www.facebook.com/events/1367607281549487/permalink/1378445437132338) / [Mobile](https://m.facebook.com/events/1367607281549487?view=permalink&id=1378445437132338) |
+
 #### [2025-10-13](../../results/2025-10-13/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

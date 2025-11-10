@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2025-10-27](../../results/2025-10-27/skewb.md) | 50+ | 4.87 | 6.96 | 🏆 🥇 | 4.87 | 9.49 | 5.88 | 9.63 | 5.51 | [Desktop](https://www.facebook.com/events/1159153835655933/permalink/1169453294625987) / [Mobile](https://m.facebook.com/events/1159153835655933?view=permalink&id=1169453294625987) |
 | [2025-09-29](../../results/2025-09-29/skewb.md) | 50+ | 6.40 | 8.82 | 🏆 🥇 | 6.40 | 12.52 | 7.01 | 9.10 | 10.34 | [Desktop](https://www.facebook.com/events/1724848664863140/permalink/1737041276977212) / [Mobile](https://m.facebook.com/events/1724848664863140?view=permalink&id=1737041276977212) |
 | [2025-09-15](../../results/2025-09-15/skewb.md) | 50+ | 6.56 | 7.05 | 🏆 🥇 | 6.56 | 6.82 | 7.48 | 6.86 | 8.82 | [Desktop](https://www.facebook.com/events/1235660375260870/permalink/1244557634371144) / [Mobile](https://m.facebook.com/events/1235660375260870?view=permalink&id=1244557634371144) |
 | [2025-09-01](../../results/2025-09-01/skewb.md) | 50+ | 5.37 | 7.21 | 🏆 🥇 | 6.30 | 9.60 | 5.73 | 5.37 | 10.54 | [Desktop](https://www.facebook.com/events/1683571982223204/permalink/1693938684519867) / [Mobile](https://m.facebook.com/events/1683571982223204?view=permalink&id=1693938684519867) |

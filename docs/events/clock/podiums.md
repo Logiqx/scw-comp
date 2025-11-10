@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-10-27](../../results/2025-10-27/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/clock.md) | 40+ | <i class="flag flag-GB" /> | 15.50 | 17.24 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1159153835655933/permalink/1164293981808585) / [Mobile](https://m.facebook.com/events/1159153835655933?view=permalink&id=1164293981808585) |
+| 2 | [Kristina Lim](../../persons/kristina_lim/clock.md) | 50+ | <i class="flag flag-US" /> | 17.61 | 18.45 | 🥈 | [Desktop](https://www.facebook.com/events/1159153835655933/permalink/1169471224624194) / [Mobile](https://m.facebook.com/events/1159153835655933?view=permalink&id=1169471224624194) |
+
 #### [2025-10-13](../../results/2025-10-13/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
