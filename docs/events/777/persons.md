@@ -24,7 +24,7 @@
 | [Kerry Go](../../persons/kerry_go/777.md) | 50+ | <i class="flag flag-US" /> | 9:06.58 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/777.md) | 60+ | <i class="flag flag-US" /> | 8:19.78 | DNF |  | 🥉 x 5 | 💥 x 5, ⚡ x 6 |
 | [Mickey Doyle](../../persons/mickey_doyle/777.md) | 50+ | <i class="flag flag-US" /> | 9:01.00 | DNF |  | 🥈 x 1 | ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 3:54.69 | 4:12.31 | 🏆 x 10 | 🥇 x 10, 🥈 x 16, 🥉 x 9 | 💥 x 8, 🔥 x 8, ⚡ x 5 |
+| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 3:54.69 | 4:12.31 | 🏆 x 11 | 🥇 x 11, 🥈 x 16, 🥉 x 9 | 💥 x 8, 🔥 x 8, ⚡ x 5 |
 
 #### Over 40
 
@@ -48,7 +48,7 @@
 | [Lisa Kucala](../../persons/lisa_kucala/777.md) | 60+ | <i class="flag flag-US" /> | 8:19.78 | DNF |  | 🥉 x 5 | 💥 x 5, ⚡ x 6 |
 | [Mickey Doyle](../../persons/mickey_doyle/777.md) | 50+ | <i class="flag flag-US" /> | 9:01.00 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/777.md) | 40+ | <i class="flag flag-GB" /> | 4:56.80 | 5:13.03 | 🏆 x 15 | 🥈 x 1, 🥉 x 4 | 🔥 x 13, ⚡ x 21 |
-| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 3:54.69 | 4:12.31 | 🏆 x 10 | 🥇 x 10, 🥈 x 16, 🥉 x 9 | 💥 x 8, 🔥 x 8, ⚡ x 5 |
+| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 3:54.69 | 4:12.31 | 🏆 x 11 | 🥇 x 11, 🥈 x 16, 🥉 x 9 | 💥 x 8, 🔥 x 8, ⚡ x 5 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/777.md) | 40+ | <i class="flag flag-TW" /> | 6:26.88 | 6:39.18 |  | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 3 |
 
 #### Under 40

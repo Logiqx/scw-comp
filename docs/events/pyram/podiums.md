@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-11-10](../../results/2025-11-10/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) | 40+ | <i class="flag flag-VE" /> | 6.42 | 8.41 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2241519663007657/permalink/2249839788842311) / [Mobile](https://m.facebook.com/events/2241519663007657?view=permalink&id=2249839788842311) |
+| 2 | [Joe Kucala](../../persons/joe_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 8.15 | 11.26 | 🥈 | [Desktop](https://www.facebook.com/events/2241519663007657/permalink/2250827882076835) / [Mobile](https://m.facebook.com/events/2241519663007657?view=permalink&id=2250827882076835) |
+| 3 | [Kristina Lim](../../persons/kristina_lim/pyram.md) | 50+ | <i class="flag flag-US" /> | 9.94 | 11.62 | 🥉 | [Desktop](https://www.facebook.com/events/2241519663007657/permalink/2245384372621186) / [Mobile](https://m.facebook.com/events/2241519663007657?view=permalink&id=2245384372621186) |
+
 #### [2025-10-27](../../results/2025-10-27/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

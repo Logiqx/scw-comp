@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-11-10](../../results/2025-11-10/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) | 40+ | <i class="flag flag-VE" /> | 49.79 | 57.37 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/2009330383351839/permalink/2017675589183985) / [Mobile](https://m.facebook.com/events/2009330383351839?view=permalink&id=2017675589183985) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 55.81 | 57.48 | 🥈 | [Desktop](https://www.facebook.com/events/2009330383351839/permalink/2010722999879244) / [Mobile](https://m.facebook.com/events/2009330383351839?view=permalink&id=2010722999879244) |
+| 3 | [Joe Kucala](../../persons/joe_kucala/444.md) | 60+ | <i class="flag flag-US" /> | 4:48.61 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/2009330383351839/permalink/2018795222405355) / [Mobile](https://m.facebook.com/events/2009330383351839?view=permalink&id=2018795222405355) |
+
 #### [2025-10-27](../../results/2025-10-27/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

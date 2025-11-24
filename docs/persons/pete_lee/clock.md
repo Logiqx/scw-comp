@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2025-11-10](../../results/2025-11-10/clock.md) | 40+ | 16.02 | **16.37** | 🥈 🔥 | 16.24 | 16.21 | 16.65 | 16.02 | 21.38 | [Desktop](https://www.facebook.com/events/2241519663007657/permalink/2244949502664673) / [Mobile](https://m.facebook.com/events/2241519663007657?view=permalink&id=2244949502664673) |
 | [2025-10-27](../../results/2025-10-27/clock.md) | 40+ | **15.50** | **17.24** | 🏆 🥇 🔥 ⚡ | 18.60 | 17.06 | 22.07 | **15.50** | 16.05 | [Desktop](https://www.facebook.com/events/1159153835655933/permalink/1164293981808585) / [Mobile](https://m.facebook.com/events/1159153835655933?view=permalink&id=1164293981808585) |
 
 
