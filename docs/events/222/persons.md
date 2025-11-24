@@ -11,7 +11,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | <i class="flag flag-US" /> | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Joe Kucala](../../persons/joe_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 2.14 | 7.45 | 🏆 x 1 | 🥇 x 1, 🥉 x 2 | 💥 x 1, 🔥 x 10, ⚡ x 9 |
+| [Joe Kucala](../../persons/joe_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 2.14 | 7.45 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 2 | 💥 x 1, 🔥 x 10, ⚡ x 9 |
 | [John Cook](../../persons/john_cook/222.md) | 60+ | <i class="flag flag-AU" /> | 6.64 | 9.75 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 4.17 | 6.85 | 🏆 x 4 | 🥇 x 9, 🥈 x 30, 🥉 x 34 | 💥 x 7, 🔥 x 14, ⚡ x 11 |
 | [Martin Melcop](../../persons/martin_melcop/222.md) | 60+ | <i class="flag flag-BR" /> | 5.01 | 8.30 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 💥 x 6, 🔥 x 5, ⚡ x 5 |
@@ -29,13 +29,13 @@
 | [Dean Money](../../persons/dean_money/222.md) | 50+ | <i class="flag flag-US" /> | 6.68 | 10.23 |  |  | 🔥 x 2, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | <i class="flag flag-US" /> | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/222.md) | 50+ | <i class="flag flag-US" /> | 6.10 | 7.57 | 🏆 x 2 | 🥇 x 2, 🥈 x 1, 🥉 x 5 | 🔥 x 8, ⚡ x 11 |
-| [J.M. Gerardo](../../persons/jm_gerardo/222.md) | 50+ | <i class="flag flag-US" /> | 3.87 | 6.50 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 2 | 🔥 x 6, ⚡ x 1 |
+| [J.M. Gerardo](../../persons/jm_gerardo/222.md) | 50+ | <i class="flag flag-US" /> | 3.87 | 6.50 | 🏆 x 2 | 🥇 x 2, 🥈 x 3, 🥉 x 2 | 🔥 x 6, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/222.md) | 50+ | <i class="flag flag-US" /> | 10.77 | 16.61 |  |  | 🔥 x 6, ⚡ x 6 |
-| [Joe Kucala](../../persons/joe_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 2.14 | 7.45 | 🏆 x 1 | 🥇 x 1, 🥉 x 2 | 💥 x 1, 🔥 x 10, ⚡ x 9 |
+| [Joe Kucala](../../persons/joe_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 2.14 | 7.45 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 2 | 💥 x 1, 🔥 x 10, ⚡ x 9 |
 | [John Cook](../../persons/john_cook/222.md) | 60+ | <i class="flag flag-AU" /> | 6.64 | 9.75 |  |  | 🔥 x 1, ⚡ x 1 |
 | [John Neo Stanley](../../persons/john_neo_stanley/222.md) | 50+ | <i class="flag flag-GB" /> | 9.18 | 11.36 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/222.md) | 50+ | <i class="flag flag-US" /> | 8.36 | 12.29 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Kristina Lim](../../persons/kristina_lim/222.md) | 50+ | <i class="flag flag-US" /> | 2.50 | 7.80 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 5 | 🔥 x 6, ⚡ x 6 |
+| [Kristina Lim](../../persons/kristina_lim/222.md) | 50+ | <i class="flag flag-US" /> | 2.50 | 7.80 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 6 | 🔥 x 6, ⚡ x 6 |
 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 3.89 | 6.73 | 🏆 x 4 | 🥇 x 9, 🥈 x 30, 🥉 x 34 | 💥 x 7, 🔥 x 14, ⚡ x 11 |
 | [Marco Cavadini](../../persons/marco_cavadini/222.md) | 50+ | <i class="flag flag-CH" /> | 8.69 | 14.86 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Markus Niederöst](../../persons/markus_niederost/222.md) | 50+ | <i class="flag flag-CH" /> | 7.80 | 9.63 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -70,7 +70,7 @@
 | [Go-ho Choi](../../persons/go_ho_choi/222.md) | 40+ | <i class="flag flag-KR" /> | 5.12 | 5.41 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [Gordon Holey](../../persons/gordon_holey/222.md) | 40+ | <i class="flag flag-US" /> | 3.42 | 6.12 | 🏆 x 7 | 🥇 x 7, 🥈 x 6, 🥉 x 3 | 🔥 x 4, ⚡ x 5 |
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/222.md) | 40+ | <i class="flag flag-PL" /> | 4.57 | 5.86 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [J.M. Gerardo](../../persons/jm_gerardo/222.md) | 50+ | <i class="flag flag-US" /> | 3.87 | 6.50 | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 2 | 🔥 x 6, ⚡ x 1 |
+| [J.M. Gerardo](../../persons/jm_gerardo/222.md) | 50+ | <i class="flag flag-US" /> | 3.87 | 6.50 | 🏆 x 2 | 🥇 x 2, 🥈 x 3, 🥉 x 2 | 🔥 x 6, ⚡ x 1 |
 | [JM Tambaoan](../../persons/jm_tambaoan/222.md) | 40+ | <i class="flag flag-PH" /> | 3.26 | 5.64 | 🏆 x 2 | 🥇 x 3, 🥈 x 6, 🥉 x 7 | 🔥 x 6, ⚡ x 6 |
 | [Jae Park](../../persons/jae_park/222.md) | 50+ | <i class="flag flag-US" /> | 10.77 | 16.61 |  |  | 🔥 x 6, ⚡ x 6 |
 | [Jalmari Raippalinna](../../persons/jalmari_raippalinna/222.md) | 40+ | <i class="flag flag-FI" /> | 11.86 | 15.84 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -78,12 +78,12 @@
 | [Jang Junho (장준호)](../../persons/jang_junho/222.md) | 40+ | <i class="flag flag-KR" /> | 9.01 | 10.40 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/222.md) | 40+ | <i class="flag flag-US" /> | 3.44 | 6.09 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
 | [Jo Cocco](../../persons/jo_cocco/222.md) | 40+ | <i class="flag flag-GB" /> | 10.83 | 14.12 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Joe Kucala](../../persons/joe_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 2.14 | 7.45 | 🏆 x 1 | 🥇 x 1, 🥉 x 2 | 💥 x 1, 🔥 x 10, ⚡ x 9 |
+| [Joe Kucala](../../persons/joe_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 2.14 | 7.45 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 2 | 💥 x 1, 🔥 x 10, ⚡ x 9 |
 | [John Cook](../../persons/john_cook/222.md) | 60+ | <i class="flag flag-AU" /> | 6.64 | 9.75 |  |  | 🔥 x 1, ⚡ x 1 |
 | [John Neo Stanley](../../persons/john_neo_stanley/222.md) | 50+ | <i class="flag flag-GB" /> | 9.18 | 11.36 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/222.md) | 50+ | <i class="flag flag-US" /> | 8.36 | 12.29 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | <i class="flag flag-FI" /> | 1.63 | 3.03 | 🏆 x 43 | 🥇 x 47, 🥈 x 3 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
-| [Kristina Lim](../../persons/kristina_lim/222.md) | 50+ | <i class="flag flag-US" /> | 2.50 | 7.80 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 5 | 🔥 x 6, ⚡ x 6 |
+| [Kristina Lim](../../persons/kristina_lim/222.md) | 50+ | <i class="flag flag-US" /> | 2.50 | 7.80 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 6 | 🔥 x 6, ⚡ x 6 |
 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 3.89 | 6.73 | 🏆 x 4 | 🥇 x 9, 🥈 x 30, 🥉 x 34 | 💥 x 7, 🔥 x 14, ⚡ x 11 |
 | [Marcel Balzer](../../persons/marcel_balzer/222.md) | 40+ | <i class="flag flag-DE" /> | 4.55 | 9.02 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Marco Cavadini](../../persons/marco_cavadini/222.md) | 50+ | <i class="flag flag-CH" /> | 8.69 | 14.86 |  |  | 🔥 x 1, ⚡ x 1 |

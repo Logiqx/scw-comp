@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-11-10](../../results/2025-11-10/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:29.72 | 1:34.88 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/events/2009330383351839/permalink/2015435232741354) / [Mobile](https://m.facebook.com/events/2009330383351839?view=permalink&id=2015435232741354) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | 40+ | <i class="flag flag-VE" /> | 1:40.87 | 1:46.84 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2009330383351839/permalink/2016891859262358) / [Mobile](https://m.facebook.com/events/2009330383351839?view=permalink&id=2016891859262358) |
+
 #### [2025-10-27](../../results/2025-10-27/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

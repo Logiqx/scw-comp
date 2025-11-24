@@ -18,7 +18,7 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Jae Park](../../persons/jae_park/555bf.md) | 50+ | <i class="flag flag-US" /> | 11:49.51 | DNF | 🏆 x 19 | 🥇 x 27 | 💥 x 7, ⚡ x 7 |
 | [Peter Andersson](../../persons/peter_andersson/555bf.md) | 60+ | <i class="flag flag-SE" /> | 22:03.13 | DNF | 🏆 x 3 | 🥇 x 3 | 💥 x 3, ⚡ x 3 |
-| [Shen Flindell](../../persons/shen_flindell/555bf.md) | 50+ | <i class="flag flag-AU" /> | 13:11.69 | DNF | 🏆 x 16 | 🥇 x 16 | ⚡ x 7 |
+| [Shen Flindell](../../persons/shen_flindell/555bf.md) | 50+ | <i class="flag flag-AU" /> | 13:11.69 | DNF | 🏆 x 17 | 🥇 x 17 | ⚡ x 7 |
 
 #### Over 40
 
@@ -27,7 +27,7 @@
 | [Andy Nicholls](../../persons/andy_nicholls/555bf.md) | 40+ | <i class="flag flag-GB" /> | 23:35.85 | DNF |  | 🥇 x 1, 🥈 x 2 | ⚡ x 2 |
 | [Jae Park](../../persons/jae_park/555bf.md) | 50+ | <i class="flag flag-US" /> | 11:49.51 | DNF | 🏆 x 19 | 🥇 x 27 | 💥 x 7, ⚡ x 7 |
 | [Peter Andersson](../../persons/peter_andersson/555bf.md) | 60+ | <i class="flag flag-SE" /> | 22:03.13 | DNF | 🏆 x 3 | 🥇 x 3 | 💥 x 3, ⚡ x 3 |
-| [Shen Flindell](../../persons/shen_flindell/555bf.md) | 50+ | <i class="flag flag-AU" /> | 13:11.69 | DNF | 🏆 x 16 | 🥇 x 16 | ⚡ x 7 |
+| [Shen Flindell](../../persons/shen_flindell/555bf.md) | 50+ | <i class="flag flag-AU" /> | 13:11.69 | DNF | 🏆 x 17 | 🥇 x 17 | ⚡ x 7 |
 
 #### Under 40
 
