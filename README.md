@@ -28,9 +28,10 @@ Generate scrambles for new competition
  - Generate the scrambles using TNoodle and extract the resulting zip to the *scrambles/* folder (should create *scrambles/Scrambles for [New Date]/*")
  - Run *bin/weekly_scrambles.sh* to process the new scrambles
  - Delete the zip and extracted contents
- 
+ - Edit *docs/scrambles.html* to use the new date at the end of the URL
+  
 
-Create new Form/Sheet for new competition
+Create Google Form/Sheet for new competition
 New Sheet:
  - In Google drive open the current Responses sheet and do *File->Make a Copy*
  - In the popup that appears change the name to use the new competition date and remove the "Copy of"
@@ -46,6 +47,6 @@ New Form:
  - Click the "*Published"* button and then click "*Copy Responder Link*" to get the URL of the new Form
  - Edit *docs/submit.html* to use this new link
  - Edit *docs/analytics.html* to use the same link but with "/viewanalytics" at the end instead of "/viewform"
- 
+
  
  
