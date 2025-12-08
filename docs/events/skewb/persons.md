@@ -42,6 +42,7 @@
 | [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 5.78 | 15.48 | 🏆 x 3 | 🥇 x 3, 🥈 x 5, 🥉 x 4 | 💥 x 1, 🔥 x 6, ⚡ x 3 |
 | [Daniel Houghton](../../persons/daniel_houghton/skewb.md) | 40+ | <i class="flag flag-CH" /> | 6.15 | 10.92 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 3, ⚡ x 4 |
 | [Dean Money](../../persons/dean_money/skewb.md) | 50+ | <i class="flag flag-US" /> | 16.23 | 30.21 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | 40+ | <i class="flag flag-VE" /> | 7.91 | 9.84 | 🏆 x 10 | 🥇 x 1 | 🔥 x 4, ⚡ x 6 |
 | [Eric Dodson](../../persons/eric_dodson/skewb.md) | 50+ | <i class="flag flag-US" /> | 4.34 | 8.51 | 🏆 x 10 | 🥇 x 12, 🥈 x 5, 🥉 x 3 | 🔥 x 8, ⚡ x 8 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/skewb.md) | 40+ | <i class="flag flag-JP" /> | 3.23 | 5.79 | 🏆 x 25 | 🥇 x 25 | 💥 x 7, 🔥 x 7, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/skewb.md) | 40+ | <i class="flag flag-KR" /> | 8.56 | 12.35 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
@@ -74,7 +75,7 @@
 | [Chris Looney](../../persons/chris_looney/skewb.md) | <40 | <i class="flag flag-US" /> | 9.58 | 13.06 | 🏆 x 1 |  | 🔥 x 2, ⚡ x 2 |
 | [Chris Thames](../../persons/chris_thames/skewb.md) | <40 | <i class="flag flag-US" /> | 9.60 | 18.66 | 🏆 x 1 |  | 🔥 x 4, ⚡ x 2 |
 | [Ed Connell](../../persons/ed_connell/skewb.md) | <40 | <i class="flag flag-IE" /> | 4.85 | 11.31 | 🏆 x 2 |  | 🔥 x 3, ⚡ x 3 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | <40 | <i class="flag flag-VE" /> | 3.85 | 7.95 | 🏆 x 9 |  | 🔥 x 3, ⚡ x 5 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | 40+ | <i class="flag flag-VE" /> | 3.85 | 7.95 | 🏆 x 10 | 🥇 x 1 | 🔥 x 4, ⚡ x 6 |
 | [Greg Simmons](../../persons/greg_simmons/skewb.md) | <40 | <i class="flag flag-GB" /> | 7.57 | 12.32 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Nick Agatyn](../../persons/nick_agatyn/skewb.md) | <40 | <i class="flag flag-AU" /> | 5.32 | 9.98 | 🏆 x 2 |  | 🔥 x 3, ⚡ x 3 |
 | [Pete Lee](../../persons/pete_lee/skewb.md) | <40 | <i class="flag flag-GB" /> | 6.84 | 13.62 |  |  | 🔥 x 2, ⚡ x 3 |

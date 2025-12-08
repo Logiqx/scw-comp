@@ -58,7 +58,7 @@
 | [Mark Cordell](../../persons/mark_cordell/clock.md) | 40+ | <i class="flag flag-US" /> | 13.80 | 15.37 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 6, ⚡ x 7 |
 | [Michael Amarello](../../persons/michael_amarello/clock.md) | 60+ | <i class="flag flag-US" /> | 10.83 | 11.50 | 🏆 x 14 | 🥇 x 15, 🥈 x 8, 🥉 x 2 | 💥 x 5, 🔥 x 16, ⚡ x 14 |
 | [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 50+ | <i class="flag flag-US" /> | 11.20 | 12.37 | 🏆 x 4 | 🥇 x 5, 🥈 x 17, 🥉 x 19 | 🔥 x 16, ⚡ x 16 |
-| [Pete Lee](../../persons/pete_lee/clock.md) | 40+ | <i class="flag flag-GB" /> | 15.50 | 16.37 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | 🔥 x 2, ⚡ x 1 |
+| [Pete Lee](../../persons/pete_lee/clock.md) | 40+ | <i class="flag flag-GB" /> | 15.50 | 16.37 | 🏆 x 2 | 🥇 x 2, 🥈 x 1 | 🔥 x 2, ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | <i class="flag flag-SE" /> | 17.75 | 23.28 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 5, ⚡ x 4 |
 | [Peter Douthwright](../../persons/peter_douthwright/clock.md) | 60+ | <i class="flag flag-CA" /> | 32.77 | 36.78 |  | 🥈 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/clock.md) | 40+ | <i class="flag flag-GB" /> | 15.16 | 16.19 |  | 🥈 x 2, 🥉 x 3 | 🔥 x 4, ⚡ x 3 |

@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-11-24](../../results/2025-11-24/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/clock.md) | 40+ | <i class="flag flag-GB" /> | 16.44 | 18.94 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2025958187971232/permalink/2028953651005019) / [Mobile](https://m.facebook.com/events/2025958187971232?view=permalink&id=2028953651005019) |
+
 #### [2025-11-10](../../results/2025-11-10/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

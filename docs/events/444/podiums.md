@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-11-24](../../results/2025-11-24/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 52.91 | 59.66 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1383168160121235/permalink/1388515186253199) / [Mobile](https://m.facebook.com/events/1383168160121235?view=permalink&id=1388515186253199) |
+| 2 | [Pete Lee](../../persons/pete_lee/444.md) | 40+ | <i class="flag flag-GB" /> | 1:02.59 | 1:13.84 | 🥈 | [Desktop](https://www.facebook.com/events/1383168160121235/permalink/1391023656002352) / [Mobile](https://m.facebook.com/events/1383168160121235?view=permalink&id=1391023656002352) |
+
 #### [2025-11-10](../../results/2025-11-10/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

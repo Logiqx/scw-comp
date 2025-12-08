@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-11-24](../../results/2025-11-24/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 28 | 31.00 | 🥇 | [Desktop](https://www.facebook.com/events/1694701041876185/permalink/1700749801271309) / [Mobile](https://m.facebook.com/events/1694701041876185?view=permalink&id=1700749801271309) |
+| 2 | [Pete Lee](../../persons/pete_lee/333fm.md) | 40+ | <i class="flag flag-GB" /> | 50 | 55.33 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1694701041876185/permalink/1704348050911484) / [Mobile](https://m.facebook.com/events/1694701041876185?view=permalink&id=1704348050911484) |
+| 3 | [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 36 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/1694701041876185/permalink/1695693021776987) / [Mobile](https://m.facebook.com/events/1694701041876185?view=permalink&id=1695693021776987) |
+
 #### [2025-11-10](../../results/2025-11-10/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

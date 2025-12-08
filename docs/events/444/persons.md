@@ -36,7 +36,7 @@
 | [Peter Andersson](../../persons/peter_andersson/444.md) | 60+ | <i class="flag flag-SE" /> | 1:37.25 | 1:56.56 |  |  | 💥 x 2, 🔥 x 3, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/444.md) | 50+ | <i class="flag flag-CA" /> | 2:20.53 | 2:42.21 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Ron van Bruchem](../../persons/ron_van_bruchem/444.md) | 50+ | <i class="flag flag-NL" /> | 46.32 | 49.81 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 46.83 | 55.66 | 🏆 x 5 | 🥇 x 5, 🥈 x 22, 🥉 x 8 | 🔥 x 7, ⚡ x 4 |
+| [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 46.83 | 55.66 | 🏆 x 6 | 🥇 x 6, 🥈 x 22, 🥉 x 8 | 🔥 x 7, ⚡ x 4 |
 
 #### Over 40
 
@@ -77,13 +77,13 @@
 | [Mark Cordell](../../persons/mark_cordell/444.md) | 40+ | <i class="flag flag-US" /> | 1:37.28 | 1:51.40 |  |  | 🔥 x 2, ⚡ x 6 |
 | [Michael George](../../persons/michael_george/444.md) | 40+ | <i class="flag flag-GB" /> | 45.67 | 53.30 | 🏆 x 8 | 🥇 x 18, 🥈 x 3 | 💥 x 3, 🔥 x 2, ⚡ x 2 |
 | [Mickey Doyle](../../persons/mickey_doyle/444.md) | 50+ | <i class="flag flag-US" /> | 1:00.82 | 1:11.13 |  | 🥈 x 10, 🥉 x 30 | 🔥 x 20, ⚡ x 17 |
-| [Pete Lee](../../persons/pete_lee/444.md) | 40+ | <i class="flag flag-GB" /> | 53.25 | 58.96 | 🏆 x 5 | 🥇 x 1, 🥈 x 1, 🥉 x 6 | 🔥 x 12, ⚡ x 12 |
+| [Pete Lee](../../persons/pete_lee/444.md) | 40+ | <i class="flag flag-GB" /> | 53.25 | 58.96 | 🏆 x 5 | 🥇 x 1, 🥈 x 2, 🥉 x 6 | 🔥 x 12, ⚡ x 12 |
 | [Peter Andersson](../../persons/peter_andersson/444.md) | 60+ | <i class="flag flag-SE" /> | 1:37.25 | 1:56.56 |  |  | 💥 x 2, 🔥 x 3, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/444.md) | 50+ | <i class="flag flag-CA" /> | 2:20.53 | 2:42.21 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Rob Peters](../../persons/rob_peters/444.md) | 40+ | <i class="flag flag-US" /> | 53.64 | 1:01.01 |  | 🥈 x 4, 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
 | [Ron van Bruchem](../../persons/ron_van_bruchem/444.md) | 50+ | <i class="flag flag-NL" /> | 46.32 | 49.81 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/444.md) | 40+ | <i class="flag flag-GB" /> | 1:34.07 | 1:47.34 |  |  | 🔥 x 4, ⚡ x 3 |
-| [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 46.83 | 55.66 | 🏆 x 5 | 🥇 x 5, 🥈 x 22, 🥉 x 8 | 🔥 x 7, ⚡ x 4 |
+| [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 46.83 | 55.66 | 🏆 x 6 | 🥇 x 6, 🥈 x 22, 🥉 x 8 | 🔥 x 7, ⚡ x 4 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/444.md) | 40+ | <i class="flag flag-FR" /> | 1:12.69 | 1:21.31 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/444.md) | 40+ | <i class="flag flag-TW" /> | 53.86 | 1:05.93 | 🏆 x 1 | 🥇 x 2, 🥈 x 15, 🥉 x 10 | 🔥 x 12, ⚡ x 7 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/444.md) | 40+ | <i class="flag flag-FR" /> | 1:00.53 | 1:11.54 |  |  | 🔥 x 2, ⚡ x 1 |
@@ -105,7 +105,7 @@
 | [Jamie Brady (Deansie)](../../persons/jamie_brady/444.md) | <40 | <i class="flag flag-GB" /> | 2:24.93 | 2:38.28 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Matthew Hart](../../persons/matthew_hart/444.md) | <40 | <i class="flag flag-GB" /> | 2:00.16 | 2:07.96 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Neilimixam Snetrem](../../persons/neilimixam_snetrem/444.md) | <40 | <i class="flag flag-BE" /> | 1:08.70 | 1:24.75 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Pete Lee](../../persons/pete_lee/444.md) | 40+ | <i class="flag flag-GB" /> | 52.61 | 1:03.27 | 🏆 x 5 | 🥇 x 1, 🥈 x 1, 🥉 x 6 | 🔥 x 12, ⚡ x 12 |
+| [Pete Lee](../../persons/pete_lee/444.md) | 40+ | <i class="flag flag-GB" /> | 52.61 | 1:03.27 | 🏆 x 5 | 🥇 x 1, 🥈 x 2, 🥉 x 6 | 🔥 x 12, ⚡ x 12 |
 | [Peter Osudar](../../persons/peter_osudar/444.md) | <40 | <i class="flag flag-CA" /> | 1:29.48 | 1:35.22 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Scott Knight](../../persons/scott_knight/444.md) | <40 | <i class="flag flag-GB" /> | 1:33.19 | 1:40.28 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Shawn Boucké](../../persons/shawn_boucke/444.md) | <40 | <i class="flag flag-US" /> | 43.27 | 49.26 | 🏆 x 24 |  | 💥 x 2, 🔥 x 3, ⚡ x 7 |
