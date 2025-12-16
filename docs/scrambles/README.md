@@ -1,5 +1,5 @@
 ## [Senior Cubers Worldwide - Bi-Weekly Competition](/scw-comp/scrambles/)
-Text scrambles to copy/paste into csTimer can be found on [GitHub](/docs/scrambles.html).
+Text scrambles to copy/paste into csTimer can be found on [GitHub](/scw-comp/scrambles.html).
 
 ### Scramble Sheets
 #### Latest Competition
