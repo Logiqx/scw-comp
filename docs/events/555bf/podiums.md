@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-12-08](../../results/2025-12-08/555bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/555bf.md) | 50+ | <i class="flag flag-AU" /> | 16:38.44 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/25201027762872988/permalink/25285772091065221) / [Mobile](https://m.facebook.com/events/25201027762872988?view=permalink&id=25285772091065221) |
+| 2 | [Stephen Burson](../../persons/stephen_burson/555bf.md) | 50+ | | 54:29.50 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/25201027762872988/permalink/25288584620783968) / [Mobile](https://m.facebook.com/events/25201027762872988?view=permalink&id=25288584620783968) |
+
 #### [2025-11-24](../../results/2025-11-24/555bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

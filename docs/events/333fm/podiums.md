@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-12-08](../../results/2025-12-08/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 30 | 31.67 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3024699764401123/permalink/3030921000445666) / [Mobile](https://m.facebook.com/events/3024699764401123?view=permalink&id=3030921000445666) |
+
 #### [2025-11-24](../../results/2025-11-24/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

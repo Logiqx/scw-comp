@@ -1,0 +1,20 @@
+<style>table {white-space: nowrap;}</style>
+<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+
+## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+### [Shen Flindell](README.md) - [2023FLIN02](https://www.worldcubeassociation.org/persons/2023FLIN02?event=sq1)
+
+<i class="flag flag-AU" />&nbsp;Australia
+
+#### Square-1 Results
+
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+| Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
+| :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2025-12-08](../../results/2025-12-08/sq1.md) | 50+ | **35.54** | **42.15** | 🏆 🥇 🔥 ⚡ | 35.82 | **35.54** | 2:02.64 | 42.32 | 48.32 | [Desktop](https://www.facebook.com/events/26073220195613492/permalink/26184936207775223) / [Mobile](https://m.facebook.com/events/26073220195613492?view=permalink&id=26184936207775223) |
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-86348435-3');</script>

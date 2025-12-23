@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-12-08](../../results/2025-12-08/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | <i class="flag flag-FI" /> | 4.42 | 4.81 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1604758584053522/permalink/1614670329729014) / [Mobile](https://m.facebook.com/events/1604758584053522?view=permalink&id=1614670329729014) |
+| 2 | [Pete Lee](../../persons/pete_lee/222.md) | 40+ | <i class="flag flag-GB" /> | 5.43 | 7.83 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1604758584053522/permalink/1613779159818131) / [Mobile](https://m.facebook.com/events/1604758584053522?view=permalink&id=1613779159818131) |
+| 3 | [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 5.56 | 8.00 | 🥉 | [Desktop](https://www.facebook.com/events/1604758584053522/permalink/1609498526912861) / [Mobile](https://m.facebook.com/events/1604758584053522?view=permalink&id=1609498526912861) |
+
 #### [2025-11-24](../../results/2025-11-24/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

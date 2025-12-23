@@ -22,8 +22,9 @@
 | [Javier Rossi](../../persons/javier_rossi/333bf.md) | 50+ | <i class="flag flag-AR" /> | 2:34.83 | 3:37.17 |  | 🥇 x 1, 🥈 x 2, 🥉 x 7 | 🔥 x 2, ⚡ x 5 |
 | [Kristina Lim](../../persons/kristina_lim/333bf.md) | 50+ | <i class="flag flag-US" /> | 6:34.71 | DNF |  | 🥉 x 1 | ⚡ x 4 |
 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 60+ | <i class="flag flag-SE" /> | 1:55.87 | 2:14.75 | 🏆 x 14 | 🥇 x 16, 🥈 x 14, 🥉 x 6 | 💥 x 8, 🔥 x 3, ⚡ x 7 |
-| [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:10.87 | 1:24.61 | 🏆 x 17 | 🥇 x 17, 🥈 x 8, 🥉 x 6 | 🔥 x 4, ⚡ x 5 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:22.42 | 1:40.32 | 🏆 x 23 | 🥇 x 24, 🥈 x 27, 🥉 x 15 | 🔥 x 5, ⚡ x 13 |
+| [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:10.87 | 1:24.61 | 🏆 x 18 | 🥇 x 18, 🥈 x 8, 🥉 x 6 | 🔥 x 4, ⚡ x 5 |
+| [Stephen Burson](../../persons/stephen_burson/333bf.md) | 50+ | | 4:21.00 | DNF |  | 🥉 x 1 | ⚡ x 1 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:22.42 | 1:40.32 | 🏆 x 23 | 🥇 x 24, 🥈 x 28, 🥉 x 15 | 🔥 x 5, ⚡ x 13 |
 
 #### Over 40
 
@@ -44,10 +45,11 @@
 | [Mark Adams](../../persons/mark_adams/333bf.md) | 40+ | <i class="flag flag-GB" /> | 1:46.60 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Michael Lee](../../persons/michael_lee/333bf.md) | 40+ | <i class="flag flag-US" /> | 3:22.36 | DNF |  |  | ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 60+ | <i class="flag flag-SE" /> | 1:55.87 | 2:14.75 | 🏆 x 14 | 🥇 x 16, 🥈 x 14, 🥉 x 6 | 💥 x 8, 🔥 x 3, ⚡ x 7 |
-| [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:10.87 | 1:24.61 | 🏆 x 17 | 🥇 x 17, 🥈 x 8, 🥉 x 6 | 🔥 x 4, ⚡ x 5 |
+| [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:10.87 | 1:24.61 | 🏆 x 18 | 🥇 x 18, 🥈 x 8, 🥉 x 6 | 🔥 x 4, ⚡ x 5 |
+| [Stephen Burson](../../persons/stephen_burson/333bf.md) | 50+ | | 4:21.00 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [Stuart Salmon](../../persons/stuart_salmon/333bf.md) | 40+ | <i class="flag flag-GB" /> | 3:24.37 | DNF |  |  | ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | 40+ | <i class="flag flag-FR" /> | 1:11.93 | 1:31.27 | 🏆 x 3 | 🥇 x 3, 🥈 x 9, 🥉 x 4 | 🔥 x 3, ⚡ x 2 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:22.42 | 1:40.32 | 🏆 x 23 | 🥇 x 24, 🥈 x 27, 🥉 x 15 | 🔥 x 5, ⚡ x 13 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:22.42 | 1:40.32 | 🏆 x 23 | 🥇 x 24, 🥈 x 28, 🥉 x 15 | 🔥 x 5, ⚡ x 13 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333bf.md) | 40+ | <i class="flag flag-IN" /> | 5:29.35 | DNF |  |  | ⚡ x 1 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333bf.md) | 40+ | <i class="flag flag-FR" /> | 1:50.43 | 2:50.79 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 3 |
 | [Yuichi Hamada](../../persons/yuichi_hamada/333bf.md) | 40+ | <i class="flag flag-JP" /> | 2:21.37 | DNF |  | 🥉 x 1 | ⚡ x 1 |
