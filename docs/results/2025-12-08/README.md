@@ -78,6 +78,12 @@
 
 ⚡ x 1 = <span style="white-space: nowrap;">[Pete Lee](../../persons/pete_lee/pyram.md) 7.53</span>
 
+#### [Skewb](skewb.md)
+
+<span style="white-space: nowrap;">🏆 [Kristina Lim](../../persons/kristina_lim/skewb.md) 7.90</span>
+
+<span style="white-space: nowrap;">🥇 [Kristina Lim](../../persons/kristina_lim/skewb.md) 7.90</span>
+
 #### [Square-1](sq1.md)
 
 <span style="white-space: nowrap;">🏆 [Shen Flindell](../../persons/shen_flindell/sq1.md) 42.15</span>
