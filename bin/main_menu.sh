@@ -24,7 +24,7 @@ while true; do
 	echo
 	echo Main Menu
 	echo 
-	echo -e "\t1. Process Results for $OldDate"
+	echo -e "\t1. Download and Process Results for $OldDate"
 	echo -e "\t2. Generate Scrambles for $NewDate"
 	echo -e "\t3. Create new Google Form for $NewDate"
 	echo -e "\t4. Push committed changes to GitHub"

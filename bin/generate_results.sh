@@ -73,9 +73,5 @@ if [ "$DoCommit" == "Y" ]; then
 	echo "Committing changes, please wait..."
 	echo
 	git add . 
-
-	# Don't include our new scripts yet!
-	git reset bin --no-refresh  
-
 	git commit -m "Results for $OldDate"
 fi

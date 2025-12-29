@@ -59,9 +59,5 @@ if [ "$DoCommit" == "Y" ]; then
 	echo
 
 	git add . 
-
-	# Don't include our new scripts yet!
-	git reset bin --no-refresh  
-
 	git commit -m "Scrambles/links for $NewDate"
 fi
