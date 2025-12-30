@@ -13,14 +13,15 @@
 - Best solve wins, unlike the other WCA events which are based on the average
   - MBLD scoring uses the WCA system based on "points" and the time taken
 - You can use an "extra" solve if you are interrupted mid-solve (much like per WCA comps)
+- For averages 3BLD uses Ao5, while 4BLD and 5BLD are Mo3
 
 #### Process
 
-- Use the 3 scrambles provided <sup>[1]</sup> - either 1, 2 or 3 attempts
+- Use the scrambles provided <sup>[1]</sup> - up to 5 attempts for 3BLD, and up to 3 for 4BLD/5BLD
   - Use the first "n" scrambles provided for MBLD
 - Post your video directly to the event page or upload to YouTube and share the link
   - Include your age category (e.g. 40+) in the video description
-  - Include your times and Mo3 in the video description, written to 2 decimal places
+  - Include your times and average (Ao5 for 3BLD, Mo3 for 4BLD/5BLD) in the video description, written to 2 decimal places
     - Please write times unambiguously; e.g. 1:19.32 rather than 1:17.32 + 2
   - Indicate if it is your fastest average to date with a 🔥 emoji <sup>[2]</sup>
   - Indicate if it is your fastest single to date with a ⚡ emoji <sup>[2]</sup>
