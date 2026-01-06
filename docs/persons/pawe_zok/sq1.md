@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2025-12-22](../../results/2025-12-22/sq1.md) | 40+ | 1:06.92 | **1:13.54** | 🥉 🔥 | 1:10.60 | 2:25.43 | 1:08.15 | 1:21.87 | 1:06.92 | [Desktop](https://www.facebook.com/events/1544874610097824/permalink/1548023336449618) / [Mobile](https://m.facebook.com/events/1544874610097824?view=permalink&id=1548023336449618) |
 | [2025-12-08](../../results/2025-12-08/sq1.md) | 40+ | **57.24** | **1:18.98** | 🥈 🔥 ⚡ | 1:33.52 | 1:22.20 | 1:01.23 | 1:43.76 | **57.24** | [Desktop](https://www.facebook.com/events/26073220195613492/permalink/26174951372107040) / [Mobile](https://m.facebook.com/events/26073220195613492?view=permalink&id=26174951372107040) |
 
 

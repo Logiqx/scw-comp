@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2025-12-22](../../results/2025-12-22/skewb.md) | 50+ | **8.09** | **11.91** | 🥈 🔥 ⚡ | 12.85 | 11.17 | 13.36 | 11.71 | **8.09** | [Desktop](https://www.facebook.com/events/1544874610097824/permalink/1547640563154562) / [Mobile](https://m.facebook.com/events/1544874610097824?view=permalink&id=1547640563154562) |
 | [2025-04-14](../../results/2025-04-14/skewb.md) | 40+ | **9.38** | **10.21** | 🥈 🔥 ⚡ | 10.41 | 9.80 | 10.42 | 14.09 | **9.38** | [Desktop](https://www.facebook.com/michaelorger/videos/1203487881304685) / [Mobile](https://m.facebook.com/michaelorger/videos/1203487881304685) |
 
 

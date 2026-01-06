@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-12-22](../../results/2025-12-22/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 48.35 | 1:00.92 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1544874610097824/permalink/1552012339384051) / [Mobile](https://m.facebook.com/events/1544874610097824?view=permalink&id=1552012339384051) |
+| 2 | [Michael Orger](../../persons/michael_orger/sq1.md) | 50+ | <i class="flag flag-GB" /> | 41.95 | 1:08.80 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1544874610097824/permalink/1548043256447626) / [Mobile](https://m.facebook.com/events/1544874610097824?view=permalink&id=1548043256447626) |
+| 3 | [Paweł Zok](../../persons/pawe_zok/sq1.md) | 40+ | <i class="flag flag-PL" /> | 1:06.92 | 1:13.54 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/1544874610097824/permalink/1548023336449618) / [Mobile](https://m.facebook.com/events/1544874610097824?view=permalink&id=1548023336449618) |
+
 #### [2025-12-08](../../results/2025-12-08/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

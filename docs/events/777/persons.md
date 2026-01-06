@@ -11,7 +11,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | <i class="flag flag-US" /> | 15:59.23 | DNF |  | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
-| [Lisa Kucala](../../persons/lisa_kucala/777.md) | 60+ | <i class="flag flag-US" /> | 8:19.78 | DNF |  | 🥉 x 5 | 💥 x 5, ⚡ x 6 |
+| [Lisa Kucala](../../persons/lisa_kucala/777.md) | 60+ | <i class="flag flag-US" /> | 8:11.01 | DNF |  | 🥉 x 6 | 💥 x 6, ⚡ x 7 |
 
 #### Over 50
 
@@ -22,9 +22,10 @@
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | <i class="flag flag-US" /> | 15:59.23 | DNF |  | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
 | [Eric Dodson](../../persons/eric_dodson/777.md) | 50+ | <i class="flag flag-US" /> | 8:03.49 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/777.md) | 50+ | <i class="flag flag-US" /> | 9:06.58 | DNF |  | 🥈 x 1 | ⚡ x 1 |
-| [Lisa Kucala](../../persons/lisa_kucala/777.md) | 60+ | <i class="flag flag-US" /> | 8:19.78 | DNF |  | 🥉 x 5 | 💥 x 5, ⚡ x 6 |
+| [Lisa Kucala](../../persons/lisa_kucala/777.md) | 60+ | <i class="flag flag-US" /> | 8:11.01 | DNF |  | 🥉 x 6 | 💥 x 6, ⚡ x 7 |
+| [Michael Orger](../../persons/michael_orger/777.md) | 50+ | <i class="flag flag-GB" /> | 8:43.95 | DNF |  |  | ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/777.md) | 50+ | <i class="flag flag-US" /> | 9:01.00 | DNF |  | 🥈 x 1 | ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 3:54.69 | 4:12.31 | 🏆 x 12 | 🥇 x 12, 🥈 x 17, 🥉 x 9 | 💥 x 8, 🔥 x 8, ⚡ x 5 |
+| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 3:54.69 | 4:11.87 | 🏆 x 13 | 🥇 x 13, 🥈 x 17, 🥉 x 9 | 💥 x 9, 🔥 x 9, ⚡ x 5 |
 
 #### Over 40
 
@@ -44,11 +45,12 @@
 | [JM Tambaoan](../../persons/jm_tambaoan/777.md) | 40+ | <i class="flag flag-PH" /> | 7:26.80 | 8:08.46 | 🏆 x 3 | 🥇 x 4, 🥈 x 11, 🥉 x 2 | 🔥 x 4, ⚡ x 6 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/777.md) | 40+ | <i class="flag flag-US" /> | 8:08.23 | DNF |  | 🥉 x 1 | ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/777.md) | 50+ | <i class="flag flag-US" /> | 9:06.58 | DNF |  | 🥈 x 1 | ⚡ x 1 |
-| [Konsta Jukka](../../persons/konsta_jukka/777.md) | 40+ | <i class="flag flag-FI" /> | 4:26.68 | 4:53.34 | 🏆 x 3 | 🥇 x 3, 🥈 x 7, 🥉 x 3 | 🔥 x 5, ⚡ x 6 |
-| [Lisa Kucala](../../persons/lisa_kucala/777.md) | 60+ | <i class="flag flag-US" /> | 8:19.78 | DNF |  | 🥉 x 5 | 💥 x 5, ⚡ x 6 |
+| [Konsta Jukka](../../persons/konsta_jukka/777.md) | 40+ | <i class="flag flag-FI" /> | 4:26.68 | 4:53.34 | 🏆 x 3 | 🥇 x 3, 🥈 x 8, 🥉 x 3 | 🔥 x 5, ⚡ x 6 |
+| [Lisa Kucala](../../persons/lisa_kucala/777.md) | 60+ | <i class="flag flag-US" /> | 8:11.01 | DNF |  | 🥉 x 6 | 💥 x 6, ⚡ x 7 |
+| [Michael Orger](../../persons/michael_orger/777.md) | 50+ | <i class="flag flag-GB" /> | 8:43.95 | DNF |  |  | ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/777.md) | 50+ | <i class="flag flag-US" /> | 9:01.00 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/777.md) | 40+ | <i class="flag flag-GB" /> | 4:56.80 | 5:13.03 | 🏆 x 15 | 🥈 x 1, 🥉 x 4 | 🔥 x 13, ⚡ x 21 |
-| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 3:54.69 | 4:12.31 | 🏆 x 12 | 🥇 x 12, 🥈 x 17, 🥉 x 9 | 💥 x 8, 🔥 x 8, ⚡ x 5 |
+| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 3:54.69 | 4:11.87 | 🏆 x 13 | 🥇 x 13, 🥈 x 17, 🥉 x 9 | 💥 x 9, 🔥 x 9, ⚡ x 5 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/777.md) | 40+ | <i class="flag flag-TW" /> | 6:26.88 | 6:39.18 |  | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 3 |
 
 #### Under 40

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-12-22](../../results/2025-12-22/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) | 40+ | <i class="flag flag-VE" /> | 5.94 | 7.09 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/1544874610097824/permalink/1554032959181989) / [Mobile](https://m.facebook.com/events/1544874610097824?view=permalink&id=1554032959181989) |
+| 2 | [Michael Orger](../../persons/michael_orger/pyram.md) | 50+ | <i class="flag flag-GB" /> | 7.54 | 9.79 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1544874610097824/permalink/1547644373154181) / [Mobile](https://m.facebook.com/events/1544874610097824?view=permalink&id=1547644373154181) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 8.71 | 10.22 | 🥉 | [Desktop](https://www.facebook.com/events/1544874610097824/permalink/1553786022540016) / [Mobile](https://m.facebook.com/events/1544874610097824?view=permalink&id=1553786022540016) |
+
 #### [2025-12-08](../../results/2025-12-08/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

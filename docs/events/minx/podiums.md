@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2025-12-22](../../results/2025-12-22/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:15.88 | 1:23.52 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/846491475035716/permalink/854892334195630) / [Mobile](https://m.facebook.com/events/846491475035716?view=permalink&id=854892334195630) |
+| 2 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:21.02 | 1:24.76 | 🥈 | [Desktop](https://www.facebook.com/events/846491475035716/permalink/857526953932168) / [Mobile](https://m.facebook.com/events/846491475035716?view=permalink&id=857526953932168) |
+| 3 | [Daniel Houghton](../../persons/daniel_houghton/minx.md) | 40+ | <i class="flag flag-CH" /> | 1:38.30 | 1:49.76 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/846491475035716/permalink/857518523933011) / [Mobile](https://m.facebook.com/events/846491475035716?view=permalink&id=857518523933011) |
+
 #### [2025-12-08](../../results/2025-12-08/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

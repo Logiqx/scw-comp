@@ -20,6 +20,7 @@
 | [Megaminx](minx.md) | 1:26.85 | 1:40.54 |  | 🔥 x 4, ⚡ x 3 |
 | [Clock](clock.md) | 10.30 | 14.01 |  | 🔥 x 1, ⚡ x 1 |
 | [3x3x3 BLD](333bf.md) | 3:33.90 | 5:37.54 |  | 🔥 x 1, ⚡ x 2 |
+| [4x4x4 BLD](444bf.md) | 37:02.35 | - |  | ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

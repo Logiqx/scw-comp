@@ -13,7 +13,7 @@
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | <i class="flag flag-US" /> | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Joe Kucala](../../persons/joe_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 2.14 | 7.45 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 2 | 💥 x 1, 🔥 x 10, ⚡ x 9 |
 | [John Cook](../../persons/john_cook/222.md) | 60+ | <i class="flag flag-AU" /> | 6.64 | 9.75 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 4.17 | 6.85 | 🏆 x 4 | 🥇 x 9, 🥈 x 30, 🥉 x 34 | 💥 x 7, 🔥 x 14, ⚡ x 11 |
+| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 4.17 | 6.85 | 🏆 x 4 | 🥇 x 9, 🥈 x 30, 🥉 x 35 | 💥 x 7, 🔥 x 14, ⚡ x 11 |
 | [Martin Melcop](../../persons/martin_melcop/222.md) | 60+ | <i class="flag flag-BR" /> | 5.01 | 8.30 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 💥 x 6, 🔥 x 5, ⚡ x 5 |
 | [Michael Amarello](../../persons/michael_amarello/222.md) | 60+ | <i class="flag flag-US" /> | 11.43 | 31.30 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Peter Andersson](../../persons/peter_andersson/222.md) | 60+ | <i class="flag flag-SE" /> | 9.37 | 11.38 |  |  | 🔥 x 2, ⚡ x 3 |
@@ -36,15 +36,16 @@
 | [John Neo Stanley](../../persons/john_neo_stanley/222.md) | 50+ | <i class="flag flag-GB" /> | 9.18 | 11.36 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/222.md) | 50+ | <i class="flag flag-US" /> | 8.36 | 12.29 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Kristina Lim](../../persons/kristina_lim/222.md) | 50+ | <i class="flag flag-US" /> | 2.50 | 7.80 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 6 | 🔥 x 6, ⚡ x 6 |
-| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 3.89 | 6.73 | 🏆 x 4 | 🥇 x 9, 🥈 x 30, 🥉 x 34 | 💥 x 7, 🔥 x 14, ⚡ x 11 |
+| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 3.89 | 6.73 | 🏆 x 4 | 🥇 x 9, 🥈 x 30, 🥉 x 35 | 💥 x 7, 🔥 x 14, ⚡ x 11 |
 | [Marco Cavadini](../../persons/marco_cavadini/222.md) | 50+ | <i class="flag flag-CH" /> | 8.69 | 14.86 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Markus Niederöst](../../persons/markus_niederost/222.md) | 50+ | <i class="flag flag-CH" /> | 7.80 | 9.63 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Martin Melcop](../../persons/martin_melcop/222.md) | 60+ | <i class="flag flag-BR" /> | 5.01 | 8.30 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 💥 x 6, 🔥 x 5, ⚡ x 5 |
 | [Michael Amarello](../../persons/michael_amarello/222.md) | 60+ | <i class="flag flag-US" /> | 11.43 | 31.30 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Michael Orger](../../persons/michael_orger/222.md) | 50+ | <i class="flag flag-GB" /> | 5.42 | 6.15 |  | 🥈 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Mickey Doyle](../../persons/mickey_doyle/222.md) | 50+ | <i class="flag flag-US" /> | 2.92 | 6.29 | 🏆 x 4 | 🥇 x 5, 🥈 x 19, 🥉 x 23 | 🔥 x 17, ⚡ x 14 |
 | [Peter Andersson](../../persons/peter_andersson/222.md) | 60+ | <i class="flag flag-SE" /> | 6.82 | 9.38 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/222.md) | 60+ | <i class="flag flag-CA" /> | 6.53 | 10.79 |  |  | 🔥 x 3, ⚡ x 3 |
-| [Shen Flindell](../../persons/shen_flindell/222.md) | 50+ | <i class="flag flag-AU" /> | 8.14 | 10.28 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Shen Flindell](../../persons/shen_flindell/222.md) | 50+ | <i class="flag flag-AU" /> | 7.57 | 8.47 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/222.md) | 50+ | <i class="flag flag-PL" /> | 4.81 | 7.52 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 4 |
 
 #### Over 40
@@ -83,9 +84,9 @@
 | [John Cook](../../persons/john_cook/222.md) | 60+ | <i class="flag flag-AU" /> | 6.64 | 9.75 |  |  | 🔥 x 1, ⚡ x 1 |
 | [John Neo Stanley](../../persons/john_neo_stanley/222.md) | 50+ | <i class="flag flag-GB" /> | 9.18 | 11.36 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Kerry Go](../../persons/kerry_go/222.md) | 50+ | <i class="flag flag-US" /> | 8.36 | 12.29 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | <i class="flag flag-FI" /> | 1.63 | 3.03 | 🏆 x 44 | 🥇 x 48, 🥈 x 3 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
+| [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | <i class="flag flag-FI" /> | 1.63 | 3.03 | 🏆 x 45 | 🥇 x 49, 🥈 x 3 | 💥 x 9, 🔥 x 8, ⚡ x 5 |
 | [Kristina Lim](../../persons/kristina_lim/222.md) | 50+ | <i class="flag flag-US" /> | 2.50 | 7.80 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 6 | 🔥 x 6, ⚡ x 6 |
-| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 3.89 | 6.73 | 🏆 x 4 | 🥇 x 9, 🥈 x 30, 🥉 x 34 | 💥 x 7, 🔥 x 14, ⚡ x 11 |
+| [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 3.89 | 6.73 | 🏆 x 4 | 🥇 x 9, 🥈 x 30, 🥉 x 35 | 💥 x 7, 🔥 x 14, ⚡ x 11 |
 | [Marcel Balzer](../../persons/marcel_balzer/222.md) | 40+ | <i class="flag flag-DE" /> | 4.55 | 9.02 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Marco Cavadini](../../persons/marco_cavadini/222.md) | 50+ | <i class="flag flag-CH" /> | 8.69 | 14.86 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Mark Cordell](../../persons/mark_cordell/222.md) | 40+ | <i class="flag flag-US" /> | 5.62 | 7.65 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 4, ⚡ x 6 |
@@ -93,14 +94,14 @@
 | [Martin Melcop](../../persons/martin_melcop/222.md) | 60+ | <i class="flag flag-BR" /> | 5.01 | 8.30 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 💥 x 6, 🔥 x 5, ⚡ x 5 |
 | [Michael Amarello](../../persons/michael_amarello/222.md) | 60+ | <i class="flag flag-US" /> | 11.43 | 31.30 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Michael George](../../persons/michael_george/222.md) | 40+ | <i class="flag flag-GB" /> | 3.20 | 4.40 | 🏆 x 19 | 🥇 x 23 | 💥 x 5, 🔥 x 3, ⚡ x 4 |
-| [Michael Orger](../../persons/michael_orger/222.md) | 40+ | <i class="flag flag-GB" /> | 5.37 | 6.87 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Michael Orger](../../persons/michael_orger/222.md) | 50+ | <i class="flag flag-GB" /> | 5.37 | 6.15 |  | 🥈 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Mickey Doyle](../../persons/mickey_doyle/222.md) | 50+ | <i class="flag flag-US" /> | 2.92 | 6.29 | 🏆 x 4 | 🥇 x 5, 🥈 x 19, 🥉 x 23 | 🔥 x 17, ⚡ x 14 |
-| [Paweł Zok](../../persons/pawe_zok/222.md) | 40+ | <i class="flag flag-PL" /> | 6.09 | 8.76 | 🏆 x 1 | 🥇 x 1 | 🔥 x 2, ⚡ x 2 |
+| [Paweł Zok](../../persons/pawe_zok/222.md) | 40+ | <i class="flag flag-PL" /> | 6.09 | 8.75 | 🏆 x 1 | 🥇 x 1 | 🔥 x 3, ⚡ x 2 |
 | [Pete Lee](../../persons/pete_lee/222.md) | 40+ | <i class="flag flag-GB" /> | 5.43 | 7.83 |  | 🥈 x 1 | 🔥 x 5, ⚡ x 7 |
 | [Peter Andersson](../../persons/peter_andersson/222.md) | 60+ | <i class="flag flag-SE" /> | 6.82 | 9.38 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/222.md) | 60+ | <i class="flag flag-CA" /> | 6.53 | 10.79 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/222.md) | 40+ | <i class="flag flag-GB" /> | 4.82 | 6.72 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
-| [Shen Flindell](../../persons/shen_flindell/222.md) | 50+ | <i class="flag flag-AU" /> | 8.14 | 10.28 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Shen Flindell](../../persons/shen_flindell/222.md) | 50+ | <i class="flag flag-AU" /> | 7.57 | 8.47 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Stuart Salmon](../../persons/stuart_salmon/222.md) | 40+ | <i class="flag flag-GB" /> | 8.07 | 12.10 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Terence Brown](../../persons/terence_brown/222.md) | 40+ | <i class="flag flag-NZ" /> | 4.21 | 7.55 | 🏆 x 1 | 🥇 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/222.md) | 40+ | <i class="flag flag-FR" /> | 3.18 | 6.10 |  | 🥈 x 4, 🥉 x 6 | 💥 x 1, 🔥 x 3, ⚡ x 5 |
@@ -125,7 +126,7 @@
 | [Jon McClay](../../persons/jon_mcclay/222.md) | <40 | <i class="flag flag-US" /> | 14.65 | 23.86 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Matthew Hart](../../persons/matthew_hart/222.md) | <40 | <i class="flag flag-GB" /> | 8.11 | 14.60 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Nick Agatyn](../../persons/nick_agatyn/222.md) | <40 | <i class="flag flag-AU" /> | 8.40 | 9.61 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Paweł Zok](../../persons/pawe_zok/222.md) | 40+ | <i class="flag flag-PL" /> | 9.49 | 11.53 | 🏆 x 1 | 🥇 x 1 | 🔥 x 2, ⚡ x 2 |
+| [Paweł Zok](../../persons/pawe_zok/222.md) | 40+ | <i class="flag flag-PL" /> | 9.49 | 11.53 | 🏆 x 1 | 🥇 x 1 | 🔥 x 3, ⚡ x 2 |
 | [Pete Lee](../../persons/pete_lee/222.md) | 40+ | <i class="flag flag-GB" /> | 4.68 | 7.24 |  | 🥈 x 1 | 🔥 x 5, ⚡ x 7 |
 | [Peter Osudar](../../persons/peter_osudar/222.md) | <40 | <i class="flag flag-CA" /> | 7.21 | 9.40 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Phil Yu](../../persons/phil_yu/222.md) | <40 | <i class="flag flag-US" /> | 2.87 | 4.25 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |

@@ -197,6 +197,11 @@
     "id": 39,
     "wcaId": "2018CONN04"
   },
+  "Elodie": {
+    "age": "40+",
+    "country": "???",
+    "id": 143
+  },
   "Enrymar Cisneros": {
     "age": "40+",
     "aliases": [
@@ -626,7 +631,7 @@
     "wcaId": "2023LEEM05"
   },
   "Michael Orger": {
-    "age": "40+",
+    "age": "50+",
     "country": "United Kingdom",
     "id": 137,
     "wcaId": "2024ORGE01"
