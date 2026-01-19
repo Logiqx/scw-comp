@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-01-05](../../results/2026-01-05/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 31.85 | 44.04 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1373011727904885/permalink/1380276357178422) / [Mobile](https://m.facebook.com/events/1373011727904885?view=permalink&id=1380276357178422) |
+| 2 | [Kristina Lim](../../persons/kristina_lim/sq1.md) | 50+ | <i class="flag flag-US" /> | 42.29 | 59.50 | 🥈 | [Desktop](https://www.facebook.com/events/1373011727904885/permalink/1382417976964260) / [Mobile](https://m.facebook.com/events/1373011727904885?view=permalink&id=1382417976964260) |
+
 #### [2025-12-22](../../results/2025-12-22/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

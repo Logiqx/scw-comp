@@ -34,7 +34,7 @@
 
 🔥 x 2 = <span style="white-space: nowrap;">[Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) 55.24</span>, <span style="white-space: nowrap;">[Michael Orger](../../persons/michael_orger/444.md) 1:40.00</span>
 
-⚡ x 3 = <span style="white-space: nowrap;">[Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) 48.72</span>, <span style="white-space: nowrap;">[Joe Kucala](../../persons/joe_kucala/444.md) 1:27.01</span>, <span style="white-space: nowrap;">[Michael Orger](../../persons/michael_orger/444.md) 1:31.44</span>
+⚡ x 3 = <span style="white-space: nowrap;">[Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) 48.72</span>, <span style="white-space: nowrap;">[Michael Orger](../../persons/michael_orger/444.md) 1:31.44</span>, <span style="white-space: nowrap;">[Joe Kucala](../../persons/joe_kucala/444.md) 3:44.00</span>
 
 #### [5x5x5](555.md)
 

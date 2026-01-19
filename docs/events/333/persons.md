@@ -66,14 +66,14 @@
 | [Christoph Woittequand](../../persons/christoph_woittequand/333.md) | 40+ | <i class="flag flag-FR" /> | 12.05 | 17.03 |  | 🥉 x 5 | 🔥 x 5, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | <i class="flag flag-IT" /> | 14.59 | 18.05 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 3 |
 | [Dan Smith](../../persons/dan_smith/333.md) | 50+ | <i class="flag flag-US" /> | 15.21 | 21.74 |  | 🥈 x 1, 🥉 x 9 | 💥 x 2, 🔥 x 15, ⚡ x 11 |
-| [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 9.92 | 13.82 | 🏆 x 38 | 🥇 x 52, 🥈 x 17, 🥉 x 9 | 🔥 x 9, ⚡ x 7 |
+| [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 9.92 | 13.82 | 🏆 x 38 | 🥇 x 52, 🥈 x 17, 🥉 x 10 | 🔥 x 9, ⚡ x 7 |
 | [David Burchill](../../persons/david_burchill/333.md) | 50+ | <i class="flag flag-CA" /> | 28.50 | 34.84 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Dean Money](../../persons/dean_money/333.md) | 50+ | <i class="flag flag-US" /> | 19.02 | 25.29 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Denis Reimer](../../persons/denis_reimer/333.md) | 40+ | <i class="flag flag-CA" /> | 19.64 | 24.93 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/333.md) | 60+ | <i class="flag flag-US" /> | 52.97 | 59.90 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/333.md) | 40+ | <i class="flag flag-IE" /> | 14.53 | 16.87 | 🏆 x 12 | 🥉 x 2 | 🔥 x 11, ⚡ x 7 |
 | [Elodie](../../persons/elodie/333.md) | 40+ | | 23.98 | 27.15 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) | 40+ | <i class="flag flag-VE" /> | 10.43 | 13.10 | 🏆 x 18 | 🥇 x 4, 🥈 x 4 | 🔥 x 10, ⚡ x 8 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) | 40+ | <i class="flag flag-VE" /> | 10.43 | 13.10 | 🏆 x 18 | 🥇 x 4, 🥈 x 5 | 🔥 x 10, ⚡ x 8 |
 | [Eric Dodson](../../persons/eric_dodson/333.md) | 50+ | <i class="flag flag-US" /> | 20.25 | 26.27 |  |  | 🔥 x 7, ⚡ x 7 |
 | [Eric Hemati](../../persons/eric_hemati/333.md) | 40+ | | 1:04.90 | 1:21.71 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Fletch Cloyes](../../persons/fletch_cloyes/333.md) | 50+ | <i class="flag flag-US" /> | 55.89 | 1:12.48 |  |  | 🔥 x 1, ⚡ x 1 |
@@ -102,7 +102,7 @@
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/333.md) | 40+ | <i class="flag flag-US" /> | 38.26 | 40.14 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Kerrie Jarman](../../persons/kerrie_jarman/333.md) | 40+ | <i class="flag flag-AU" /> | 41.01 | 48.20 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Kerry Go](../../persons/kerry_go/333.md) | 50+ | <i class="flag flag-US" /> | 21.16 | 29.64 |  |  | 🔥 x 4, ⚡ x 4 |
-| [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | <i class="flag flag-FI" /> | 8.47 | 9.75 | 🏆 x 55 | 🥇 x 55 | 💥 x 6, 🔥 x 4, ⚡ x 5 |
+| [Konsta Jukka](../../persons/konsta_jukka/333.md) | 40+ | <i class="flag flag-FI" /> | 8.47 | 9.75 | 🏆 x 56 | 🥇 x 56 | 💥 x 6, 🔥 x 4, ⚡ x 5 |
 | [Kristina Lim](../../persons/kristina_lim/333.md) | 50+ | <i class="flag flag-US" /> | 25.57 | 33.09 |  |  | 🔥 x 7, ⚡ x 8 |
 | [Lee Acacio](../../persons/lee_acacio/333.md) | 40+ | <i class="flag flag-US" /> | 34.88 | 44.84 |  |  | 🔥 x 3, ⚡ x 1 |
 | [Leo Arroyo](../../persons/leo_arroyo/333.md) | 40+ | <i class="flag flag-ES" /> | 39.63 | 54.76 |  |  | 🔥 x 4, ⚡ x 4 |
@@ -138,6 +138,7 @@
 | [Timothy Salay](../../persons/timothy_salay/333.md) | 40+ | <i class="flag flag-US" /> | 24.45 | 31.22 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 50+ | <i class="flag flag-AU" /> | 12.27 | 15.66 | 🏆 x 4 | 🥇 x 21, 🥈 x 43, 🥉 x 36 | 🔥 x 17, ⚡ x 16 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333.md) | 40+ | <i class="flag flag-IN" /> | 19.25 | 21.09 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 3 |
+| [Veronika Rose](../../persons/veronika_rose/333.md) | 40+ | | 18.05 | 21.40 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333.md) | 50+ | <i class="flag flag-PL" /> | 17.30 | 22.13 |  |  | 🔥 x 4, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/333.md) | 40+ | <i class="flag flag-TW" /> | 14.80 | 16.83 |  | 🥇 x 1, 🥈 x 6, 🥉 x 11 | 🔥 x 8, ⚡ x 4 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333.md) | 40+ | <i class="flag flag-FR" /> | 16.76 | 20.93 |  |  | 🔥 x 2, ⚡ x 3 |
@@ -155,7 +156,7 @@
 | [Chris Looney](../../persons/chris_looney/333.md) | <40 | <i class="flag flag-US" /> | 13.87 | 15.51 | 🏆 x 3 |  | 🔥 x 11, ⚡ x 12 |
 | [Chris Thames](../../persons/chris_thames/333.md) | <40 | <i class="flag flag-US" /> | 17.55 | 28.04 |  |  | 🔥 x 6, ⚡ x 5 |
 | [Ed Connell](../../persons/ed_connell/333.md) | 40+ | <i class="flag flag-IE" /> | 11.80 | 14.70 | 🏆 x 12 | 🥉 x 2 | 🔥 x 11, ⚡ x 7 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) | 40+ | <i class="flag flag-VE" /> | 10.81 | 12.39 | 🏆 x 18 | 🥇 x 4, 🥈 x 4 | 🔥 x 10, ⚡ x 8 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) | 40+ | <i class="flag flag-VE" /> | 10.81 | 12.39 | 🏆 x 18 | 🥇 x 4, 🥈 x 5 | 🔥 x 10, ⚡ x 8 |
 | [Fred Johnson](../../persons/fred_johnson/333.md) | <40 | <i class="flag flag-US" /> | 15.50 | 17.88 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Go-ho Choi](../../persons/go_ho_choi/333.md) | 40+ | <i class="flag flag-KR" /> | 11.23 | 12.74 | 🏆 x 3 | 🥈 x 1 | 💥 x 2, 🔥 x 4, ⚡ x 4 |
 | [Greg Simmons](../../persons/greg_simmons/333.md) | <40 | <i class="flag flag-GB" /> | 13.96 | 15.90 |  |  | 🔥 x 7, ⚡ x 7 |

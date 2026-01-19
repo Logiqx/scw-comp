@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-01-05](../../results/2026-01-05/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:16.26 | 1:19.16 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/903150902238683/permalink/907202381833535) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=907202381833535) |
+| 2 | [Veronika Rose](../../persons/veronika_rose/minx.md) | 40+ | | 1:25.92 | 1:29.51 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/903150902238683/permalink/904586608761779) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=904586608761779) |
+| 3 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:27.60 | 1:35.77 | 🥉 | [Desktop](https://www.facebook.com/events/903150902238683/permalink/912481711305602) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=912481711305602) |
+
 #### [2025-12-22](../../results/2025-12-22/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

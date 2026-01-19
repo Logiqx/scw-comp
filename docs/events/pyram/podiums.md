@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-01-05](../../results/2026-01-05/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) | 40+ | <i class="flag flag-VE" /> | 6.13 | 9.25 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1373011727904885/permalink/1380799840459407) / [Mobile](https://m.facebook.com/events/1373011727904885?view=permalink&id=1380799840459407) |
+| 2 | [Veronika Rose](../../persons/veronika_rose/pyram.md) | 40+ | | 8.28 | 13.23 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1373011727904885/permalink/1373691087836949) / [Mobile](https://m.facebook.com/events/1373011727904885?view=permalink&id=1373691087836949) |
+
 #### [2025-12-22](../../results/2025-12-22/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

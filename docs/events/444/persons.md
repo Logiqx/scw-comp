@@ -11,7 +11,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | <i class="flag flag-US" /> | 4:08.00 | DNF |  |  | 💥 x 3, ⚡ x 3 |
-| [Joe Kucala](../../persons/joe_kucala/444.md) | 60+ | <i class="flag flag-US" /> | 1:27.01 | DNF |  | 🥉 x 1 | ⚡ x 3 |
+| [Joe Kucala](../../persons/joe_kucala/444.md) | 60+ | <i class="flag flag-US" /> | 3:44.00 | DNF |  | 🥉 x 1 | ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/444.md) | 60+ | <i class="flag flag-US" /> | 1:15.93 | 1:25.85 |  | 🥈 x 1 | 💥 x 6, 🔥 x 11, ⚡ x 17 |
 | [Peter Andersson](../../persons/peter_andersson/444.md) | 60+ | <i class="flag flag-SE" /> | 1:37.25 | 1:56.56 |  |  | 💥 x 2, 🔥 x 3, ⚡ x 2 |
 
@@ -27,7 +27,7 @@
 | [Eric Dodson](../../persons/eric_dodson/444.md) | 50+ | <i class="flag flag-US" /> | 1:22.70 | 1:37.04 |  | 🥉 x 1 | 🔥 x 4, ⚡ x 5 |
 | [Jae Park](../../persons/jae_park/444.md) | 50+ | <i class="flag flag-US" /> | 1:59.01 | 2:07.71 |  | 🥉 x 1 | 🔥 x 7, ⚡ x 7 |
 | [Jo Cocco](../../persons/jo_cocco/444.md) | 50+ | <i class="flag flag-GB" /> | 1:53.86 | 1:58.13 |  | 🥉 x 2 | 🔥 x 7, ⚡ x 9 |
-| [Joe Kucala](../../persons/joe_kucala/444.md) | 60+ | <i class="flag flag-US" /> | 1:27.01 | DNF |  | 🥉 x 1 | ⚡ x 3 |
+| [Joe Kucala](../../persons/joe_kucala/444.md) | 60+ | <i class="flag flag-US" /> | 3:44.00 | DNF |  | 🥉 x 1 | ⚡ x 3 |
 | [John Neo Stanley](../../persons/john_neo_stanley/444.md) | 50+ | <i class="flag flag-GB" /> | 2:06.67 | 2:21.77 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Kerry Go](../../persons/kerry_go/444.md) | 50+ | <i class="flag flag-US" /> | 1:40.14 | 1:41.66 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Kristina Lim](../../persons/kristina_lim/444.md) | 50+ | <i class="flag flag-US" /> | 1:50.84 | 2:10.22 |  | 🥉 x 1 | 🔥 x 3, ⚡ x 4 |
@@ -49,11 +49,11 @@
 | [Chris Wright](../../persons/chris_wright/444.md) | 50+ | <i class="flag flag-GB" /> | 46.99 | 54.80 | 🏆 x 3 | 🥇 x 3, 🥈 x 4, 🥉 x 2 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | 50+ | <i class="flag flag-IT" /> | 56.70 | 1:03.64 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:05.61 | 1:14.08 |  | 🥇 x 9, 🥈 x 24, 🥉 x 39 | 💥 x 1, 🔥 x 14, ⚡ x 6 |
-| [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 41.76 | 47.72 | 🏆 x 62 | 🥇 x 67, 🥈 x 12, 🥉 x 3 | 💥 x 1, 🔥 x 7, ⚡ x 5 |
+| [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 41.76 | 47.72 | 🏆 x 62 | 🥇 x 67, 🥈 x 12, 🥉 x 4 | 💥 x 1, 🔥 x 7, ⚡ x 5 |
 | [Dean Money](../../persons/dean_money/444.md) | 50+ | <i class="flag flag-US" /> | 1:37.78 | 1:57.45 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | <i class="flag flag-US" /> | 4:08.00 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Ed Connell](../../persons/ed_connell/444.md) | 40+ | <i class="flag flag-IE" /> | 1:17.93 | 1:29.37 | 🏆 x 1 |  | 🔥 x 5, ⚡ x 6 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) | 40+ | <i class="flag flag-VE" /> | 48.72 | 55.24 | 🏆 x 16 | 🥇 x 1, 🥈 x 1, 🥉 x 2 | 🔥 x 7, ⚡ x 8 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) | 40+ | <i class="flag flag-VE" /> | 47.09 | 54.75 | 🏆 x 16 | 🥇 x 1, 🥈 x 2, 🥉 x 2 | 🔥 x 8, ⚡ x 9 |
 | [Eric Dodson](../../persons/eric_dodson/444.md) | 50+ | <i class="flag flag-US" /> | 1:22.70 | 1:37.04 |  | 🥉 x 1 | 🔥 x 4, ⚡ x 5 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/444.md) | 40+ | <i class="flag flag-JP" /> | 44.16 | 51.80 | 🏆 x 8 | 🥇 x 14, 🥈 x 10 | 💥 x 1, 🔥 x 4, ⚡ x 4 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/444.md) | 40+ | <i class="flag flag-GB" /> | 50.44 | 1:01.07 | 🏆 x 1 | 🥇 x 7, 🥈 x 17, 🥉 x 22 | 🔥 x 8, ⚡ x 8 |
@@ -68,11 +68,11 @@
 | [Jason Green](../../persons/jason_green/444.md) | 40+ | <i class="flag flag-US" /> | 1:06.29 | 1:14.80 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/444.md) | 40+ | <i class="flag flag-US" /> | 52.35 | 1:02.91 |  | 🥈 x 2, 🥉 x 7 | 🔥 x 2, ⚡ x 2 |
 | [Jo Cocco](../../persons/jo_cocco/444.md) | 50+ | <i class="flag flag-GB" /> | 1:31.50 | 1:51.97 |  | 🥉 x 2 | 🔥 x 7, ⚡ x 9 |
-| [Joe Kucala](../../persons/joe_kucala/444.md) | 60+ | <i class="flag flag-US" /> | 1:27.01 | DNF |  | 🥉 x 1 | ⚡ x 3 |
+| [Joe Kucala](../../persons/joe_kucala/444.md) | 60+ | <i class="flag flag-US" /> | 3:44.00 | DNF |  | 🥉 x 1 | ⚡ x 3 |
 | [John Neo Stanley](../../persons/john_neo_stanley/444.md) | 50+ | <i class="flag flag-GB" /> | 2:06.67 | 2:21.77 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/444.md) | 40+ | <i class="flag flag-US" /> | 3:13.21 | 3:38.78 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Kerry Go](../../persons/kerry_go/444.md) | 50+ | <i class="flag flag-US" /> | 1:40.14 | 1:41.66 |  |  | 🔥 x 3, ⚡ x 3 |
-| [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | <i class="flag flag-FI" /> | 41.75 | 48.43 | 🏆 x 26 | 🥇 x 33, 🥈 x 10, 🥉 x 2 | 💥 x 1, 🔥 x 8, ⚡ x 9 |
+| [Konsta Jukka](../../persons/konsta_jukka/444.md) | 40+ | <i class="flag flag-FI" /> | 40.02 | 47.24 | 🏆 x 27 | 🥇 x 34, 🥈 x 10, 🥉 x 2 | 💥 x 2, 🔥 x 9, ⚡ x 10 |
 | [Kristina Lim](../../persons/kristina_lim/444.md) | 50+ | <i class="flag flag-US" /> | 1:50.84 | 2:10.22 |  | 🥉 x 1 | 🔥 x 3, ⚡ x 4 |
 | [Lisa Kucala](../../persons/lisa_kucala/444.md) | 60+ | <i class="flag flag-US" /> | 1:15.93 | 1:25.85 |  | 🥈 x 1 | 💥 x 6, 🔥 x 11, ⚡ x 17 |
 | [Mark Cordell](../../persons/mark_cordell/444.md) | 40+ | <i class="flag flag-US" /> | 1:37.28 | 1:51.40 |  |  | 🔥 x 2, ⚡ x 6 |
@@ -99,7 +99,7 @@
 | [Chris Looney](../../persons/chris_looney/444.md) | <40 | <i class="flag flag-US" /> | 51.88 | 1:02.97 | 🏆 x 2 |  | 🔥 x 7, ⚡ x 5 |
 | [Chris Thames](../../persons/chris_thames/444.md) | <40 | <i class="flag flag-US" /> | 1:35.67 | 1:43.52 |  |  | 🔥 x 8, ⚡ x 9 |
 | [Ed Connell](../../persons/ed_connell/444.md) | 40+ | <i class="flag flag-IE" /> | 51.95 | 1:03.98 | 🏆 x 1 |  | 🔥 x 5, ⚡ x 6 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) | 40+ | <i class="flag flag-VE" /> | 43.94 | 51.91 | 🏆 x 16 | 🥇 x 1, 🥈 x 1, 🥉 x 2 | 🔥 x 7, ⚡ x 8 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) | 40+ | <i class="flag flag-VE" /> | 43.94 | 51.91 | 🏆 x 16 | 🥇 x 1, 🥈 x 2, 🥉 x 2 | 🔥 x 8, ⚡ x 9 |
 | [Fred Johnson](../../persons/fred_johnson/444.md) | <40 | <i class="flag flag-US" /> | 56.60 | 1:00.51 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Go-ho Choi](../../persons/go_ho_choi/444.md) | 40+ | <i class="flag flag-KR" /> | 36.50 | 49.27 | 🏆 x 4 | 🥇 x 1 | 💥 x 5, 🔥 x 4, ⚡ x 6 |
 | [Greg Simmons](../../persons/greg_simmons/444.md) | <40 | <i class="flag flag-GB" /> | 1:21.68 | 1:29.20 |  |  | 🔥 x 1, ⚡ x 1 |

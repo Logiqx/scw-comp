@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-01-05](../../results/2026-01-05/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 22.70 | 22.89 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/903150902238683/permalink/911987194688387) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=911987194688387) |
+| 2 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 20.35 | 23.49 | 🥈 | [Desktop](https://www.facebook.com/events/903150902238683/permalink/912464441307329) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=912464441307329) |
+| 3 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333oh.md) | 40+ | <i class="flag flag-VE" /> | 31.83 | 36.44 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/903150902238683/permalink/911034041450369) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=911034041450369) |
+
 #### [2025-12-22](../../results/2025-12-22/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

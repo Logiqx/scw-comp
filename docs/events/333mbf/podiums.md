@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-01-05](../../results/2026-01-05/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 10/12 in 50:24 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/636386589532561/permalink/642461988925021) / [Mobile](https://m.facebook.com/events/636386589532561?view=permalink&id=642461988925021) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 7/9 in 39:20 | 🥈 | [Desktop](https://www.facebook.com/events/636386589532561/permalink/643089368862283) / [Mobile](https://m.facebook.com/events/636386589532561?view=permalink&id=643089368862283) |
+
 #### [2025-12-22](../../results/2025-12-22/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |

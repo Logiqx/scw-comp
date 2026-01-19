@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-01-05](../../results/2026-01-05/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | <i class="flag flag-FI" /> | 3.77 | 4.44 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/903150902238683/permalink/912467637973676) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=912467637973676) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | 40+ | <i class="flag flag-VE" /> | 5.58 | 5.81 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/903150902238683/permalink/911014918118948) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=911014918118948) |
+| 3 | [Veronika Rose](../../persons/veronika_rose/222.md) | 40+ | | 5.14 | 6.73 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/903150902238683/permalink/905317868688653) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=905317868688653) |
+
 #### [2025-12-22](../../results/2025-12-22/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
