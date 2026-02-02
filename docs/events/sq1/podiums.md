@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-01-19](../../results/2026-01-19/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 34.26 | 38.90 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/2129532901115592/permalink/2138337396901809) / [Mobile](https://m.facebook.com/events/2129532901115592?view=permalink&id=2138337396901809) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 60+ | <i class="flag flag-US" /> | 40.79 | 48.25 | 🥈 | [Desktop](https://www.facebook.com/events/2129532901115592/permalink/2138895460179336) / [Mobile](https://m.facebook.com/events/2129532901115592?view=permalink&id=2138895460179336) |
+
 #### [2026-01-05](../../results/2026-01-05/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

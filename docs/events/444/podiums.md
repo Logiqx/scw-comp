@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-01-19](../../results/2026-01-19/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) | 40+ | <i class="flag flag-VE" /> | 51.02 | 56.11 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/890187273702223/permalink/900021792718771) / [Mobile](https://m.facebook.com/events/890187273702223?view=permalink&id=900021792718771) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 53.20 | 59.72 | 🥈 | [Desktop](https://www.facebook.com/events/890187273702223/permalink/899418142779136) / [Mobile](https://m.facebook.com/events/890187273702223?view=permalink&id=899418142779136) |
+| 3 | [Koen Heltzel](../../persons/koen_heltzel/444.md) | 40+ | | 1:09.57 | 1:24.24 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/890187273702223/permalink/890874813633469) / [Mobile](https://m.facebook.com/events/890187273702223?view=permalink&id=890874813633469) |
+
 #### [2026-01-05](../../results/2026-01-05/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -10,6 +10,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-01-19](../../results/2026-01-19/minx.md) | 40+ | **1:21.51** | 1:30.81 | 🥈 ⚡ | 1:29.40 | 1:32.86 | 1:30.17 | 2:21.11 | **1:21.51** | [Desktop](https://www.facebook.com/events/1243256814319232/permalink/1247748983870015) / [Mobile](https://m.facebook.com/events/1243256814319232?view=permalink&id=1247748983870015) |
 | [2026-01-05](../../results/2026-01-05/minx.md) | 40+ | **1:25.92** | **1:29.51** | 🥈 🔥 ⚡ | 1:35.71 | **1:25.92** | 1:28.08 | 1:25.96 | 1:34.50 | [Desktop](https://www.facebook.com/events/903150902238683/permalink/904586608761779) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=904586608761779) |
 
 

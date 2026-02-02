@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-01-19](../../results/2026-01-19/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 50+ | <i class="flag flag-BR" /> | 29 | 31.33 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1186810820273756/permalink/1192531409701697) / [Mobile](https://m.facebook.com/events/1186810820273756?view=permalink&id=1192531409701697) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 60+ | <i class="flag flag-US" /> | 50 | 54.00 | 🥈 | [Desktop](https://www.facebook.com/events/1186810820273756/permalink/1195793282708843) / [Mobile](https://m.facebook.com/events/1186810820273756?view=permalink&id=1195793282708843) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 33 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/1186810820273756/permalink/1193346699620168) / [Mobile](https://m.facebook.com/events/1186810820273756?view=permalink&id=1193346699620168) |
+
 #### [2026-01-05](../../results/2026-01-05/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

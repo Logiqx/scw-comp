@@ -465,6 +465,11 @@
     "id": 64,
     "wcaId": "2016CHAR01"
   },
+  "Josh Lewis": {
+    "age": "50+",
+    "country": "???",
+    "id": 146
+  },
   "Joshua M. Woodward": {
     "age": "40+",
     "aliases": [
@@ -495,6 +500,12 @@
     "country": "United States",
     "id": 85,
     "wcaId": "2019GOKE01"
+  },
+  "Koen Heltzel": {
+    "age": "40+",
+    "country": "???",
+    "id": 145,
+    "wcaId": "2003HELT01"
   },
   "Konsta Jukka": {
     "age": "40+",
@@ -558,7 +569,7 @@
     "wcaId": "2024CAVA03"
   },
   "Marius Rombout Ferreira van Riemsdijk": {
-    "age": "40+",
+    "age": "50+",
     "avatar": "1532703737.jpeg",
     "country": "Brazil",
     "id": 89,
