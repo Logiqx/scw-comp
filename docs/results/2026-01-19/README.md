@@ -126,9 +126,11 @@
 
 <span style="white-space: nowrap;">🏆 [Shen Flindell](../../persons/shen_flindell/333bf.md) 1:22.81</span>
 
-<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/333bf.md) 1:22.81</span>, <span style="white-space: nowrap;">🥈 [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) 1:25.70</span>
+<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/333bf.md) 1:22.81</span>, <span style="white-space: nowrap;">🥈 [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) 1:25.70</span>, <span style="white-space: nowrap;">🥉 [Stephen Burson](../../persons/stephen_burson/333bf.md) 3:17.89</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Fred Johnson](../../persons/fred_johnson/333bf.md) 5:17.72</span>
+
+⚡ x 1 = <span style="white-space: nowrap;">[Stephen Burson](../../persons/stephen_burson/333bf.md) 3:17.89</span>
 
 #### [4x4x4 Blindfolded](444bf.md)
 
@@ -142,11 +144,11 @@
 
 <span style="white-space: nowrap;">🏆 [Shen Flindell](../../persons/shen_flindell/333mbf.md) 12/12 in 56:58</span>
 
-<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/333mbf.md) 12/12 in 56:58</span>
+<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/333mbf.md) 12/12 in 56:58</span>, <span style="white-space: nowrap;">🥈 [Stephen Burson](../../persons/stephen_burson/333mbf.md) 5/8 in 57:54</span>
 
 💥 x 1 = <span style="white-space: nowrap;">[Shen Flindell](../../persons/shen_flindell/333mbf.md) 50+</span>
 
-⚡ x 1 = <span style="white-space: nowrap;">[Shen Flindell](../../persons/shen_flindell/333mbf.md) 12/12 in 56:58</span>
+⚡ x 2 = <span style="white-space: nowrap;">[Shen Flindell](../../persons/shen_flindell/333mbf.md) 12/12 in 56:58</span>, <span style="white-space: nowrap;">[Stephen Burson](../../persons/stephen_burson/333mbf.md) 5/8 in 57:54</span>
 
 #### [3x3x3 Fewest Moves](333fm.md)
 

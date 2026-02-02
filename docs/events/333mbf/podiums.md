@@ -11,6 +11,7 @@
 | # | Name | Age | 🌍 | Single | Awards | Video |
 | :--: | :-- | :--: | :--: | :--: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 12/12 in 56:58 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/1692240905081799/permalink/1698170734488816) / [Mobile](https://m.facebook.com/events/1692240905081799?view=permalink&id=1698170734488816) |
+| 2 | [Stephen Burson](../../persons/stephen_burson/333mbf.md) | 50+ | | 5/8 in 57:54 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1692240905081799/permalink/1703692373936652) / [Mobile](https://m.facebook.com/events/1692240905081799?view=permalink&id=1703692373936652) |
 
 #### [2026-01-05](../../results/2026-01-05/333mbf.md)
 

@@ -12,6 +12,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:22.81 | 1:50.53 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1692240905081799/permalink/1699020627737160) / [Mobile](https://m.facebook.com/events/1692240905081799?view=permalink&id=1699020627737160) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:25.70 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/1692240905081799/permalink/1702373540735202) / [Mobile](https://m.facebook.com/events/1692240905081799?view=permalink&id=1702373540735202) |
+| 3 | [Stephen Burson](../../persons/stephen_burson/333bf.md) | 50+ | | 3:17.89 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/1692240905081799/permalink/1703697467269476) / [Mobile](https://m.facebook.com/events/1692240905081799?view=permalink&id=1703697467269476) |
 
 #### [2026-01-05](../../results/2026-01-05/333bf.md)
 

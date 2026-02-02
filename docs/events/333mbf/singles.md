@@ -23,6 +23,7 @@
 | 5 | [Dan Smith](../../persons/dan_smith/333mbf.md) | [2024-10-14](../../results/2024-10-14/333mbf.md) | 50+ | <i class="flag flag-US" /> | 4/4 in 34:28 | 🏆 x 2 | 🥇 x 2, 🥈 x 2, 🥉 x 1 | ⚡ x 3 | [Desktop](https://www.facebook.com/events/844597247519001/permalink/852175546761171) / [Mobile](https://m.facebook.com/events/844597247519001?view=permalink&id=852175546761171) |
 | 6 | [Yuichi Hamada](../../persons/yuichi_hamada/333mbf.md) | [2025-02-17](../../results/2025-02-17/333mbf.md) | 50+ | <i class="flag flag-JP" /> | 7/11 in 54:01 | 🏆 x 5 | 🥇 x 5, 🥈 x 2 | ⚡ x 5 | [Desktop](https://www.facebook.com/events/584866521185796/permalink/594603600212088) / [Mobile](https://m.facebook.com/events/584866521185796?view=permalink&id=594603600212088) |
 | 7 | [Javier Rossi](../../persons/javier_rossi/333mbf.md) | [2021-04-19](../../results/2021-04-19/333mbf.md) | 50+ | <i class="flag flag-AR" /> | 2/2 in 12:59 |  | 🥉 x 1 | ⚡ x 1 | [Desktop](https://www.facebook.com/100000123498724/videos/4564969236850481) / [Mobile](https://m.facebook.com/100000123498724/videos/4564969236850481) |
+| 8 | [Stephen Burson](../../persons/stephen_burson/333mbf.md) | [2026-01-19](../../results/2026-01-19/333mbf.md) | 50+ | | 5/8 in 57:54 |  | 🥈 x 1 | ⚡ x 1 | [Desktop](https://www.facebook.com/events/1692240905081799/permalink/1703692373936652) / [Mobile](https://m.facebook.com/events/1692240905081799?view=permalink&id=1703692373936652) |
 
 #### Over 40
 
@@ -42,6 +43,7 @@
 | 12 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333mbf.md) | [2021-09-20](../../results/2021-09-20/333mbf.md) | 40+ | <i class="flag flag-PL" /> | 2/2 in 8:34 |  | 🥈 x 1 | ⚡ x 1 | [Desktop](https://www.facebook.com/events/161657459452919/permalink/166225332329465) / [Mobile](https://m.facebook.com/events/161657459452919?view=permalink&id=166225332329465) |
 | 13 | [Javier Rossi](../../persons/javier_rossi/333mbf.md) | [2021-04-19](../../results/2021-04-19/333mbf.md) | 50+ | <i class="flag flag-AR" /> | 2/2 in 12:59 |  | 🥉 x 1 | ⚡ x 1 | [Desktop](https://www.facebook.com/100000123498724/videos/4564969236850481) / [Mobile](https://m.facebook.com/100000123498724/videos/4564969236850481) |
 | 14 | [Andy Nicholls](../../persons/andy_nicholls/333mbf.md) | [2021-03-22](../../results/2021-03-22/333mbf.md) | 40+ | <i class="flag flag-GB" /> | 4/6 in 56:43 |  |  | ⚡ x 1 | [Desktop](https://www.facebook.com/events/351132469547749/permalink/352668766060786) / [Mobile](https://m.facebook.com/events/351132469547749?view=permalink&id=352668766060786) |
+| 15 | [Stephen Burson](../../persons/stephen_burson/333mbf.md) | [2026-01-19](../../results/2026-01-19/333mbf.md) | 50+ | | 5/8 in 57:54 |  | 🥈 x 1 | ⚡ x 1 | [Desktop](https://www.facebook.com/events/1692240905081799/permalink/1703692373936652) / [Mobile](https://m.facebook.com/events/1692240905081799?view=permalink&id=1703692373936652) |
 
 #### Under 40
 
