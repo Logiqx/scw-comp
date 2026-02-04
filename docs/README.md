@@ -9,10 +9,10 @@ The general concept is to use the scrambles provided and to record your solves o
 This serves as a good way of practicing for actual WCA competitions where nerves can be a big factor in your results. It allows anyone to ask for critique of their solves, provide encouragement to others and watch faster solvers for inspiration.
 
 <!-- To encourage wide participation in the competition we also offer prizes, kindly provided by [TheCubicle](https://www.thecubicle.com/). An explanation of the prize draw system can be found on the [prizes](prizes/README.md) page. -->
-We originally offered randomly drawn prizes (discount vouchers for an online cube shop) for each competition, round however from June 2025 we have been unable to award these. If you know of anybody who would be willing to sponsor us and provide prizes, either via discount vouchers or another format, please let us know. An explanation of the previous prize draw system can be found on the [prizes](prizes/README.md) page.
 
 All of the competitions can be found in the group [calendar](https://www.facebook.com/groups/1604105099735401/events/?source=4&action_history=null&filter=calendar) on Facebook.
 
+We originally offered randomly drawn prizes (discount vouchers for an online cube shop) for each competition round, however from June 2025 we have been unable to award these. If you know of anybody who would be willing to sponsor us and provide prizes, either via discount vouchers or another format, please let us know. An explanation of the previous prize draw system can be found on the [prizes](prizes/README.md) page.
 
 
 ### Links
