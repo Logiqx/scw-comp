@@ -2,7 +2,7 @@
 
 <!-- ![TheCubicle](cubicle.png) -->
 
-**NOTE: Prizes were only awarded to June 2025, after this date we have been unfortunately been unable to award prizes. If you know anyone who would be willing to sponsor us and allow us to resume awarding prized please let us know. The information that follows is for historial purposes only.**
+**NOTE: Prizes were only awarded to June 2025, after this date we have been unfortunately been unable to award prizes. If you know anyone who would be willing to sponsor us and allow us to resume awarding prizes please let us know. The information that follows is for historical purposes only.**
 
 ### Prizes
 
