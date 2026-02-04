@@ -1,12 +1,12 @@
 ## Senior Cubers Worldwide - Bi-weekly Competition
 
-![TheCubicle](cubicle.png)
+<!-- ![TheCubicle](cubicle.png) -->
 
 **NOTE: Prizes were only awarded to June 2025, after this date we have been unfortunately been unable to award prizes. If you know anyone who would be willing to sponsor us and allow us to resume awarding prized please let us know. The information that follows is for historial purposes only.**
 
 ### Prizes
 
-To encourage wide participation in the competition we are able to offer prizes, kindly provided by [TheCubicle](https://www.thecubicle.com/).
+To encourage wide participation in the competition we are able to offer prizes, kindly provided by <!--[TheCubicle](https://www.thecubicle.com/). --> TheCubicle.
 
 Every competition, 4 competitors will be selected at random and will receive a $10 gift card.
 
