@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### 5x5x5 Competitors
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
@@ -40,12 +40,13 @@
 | [Aaron Cumes](../../persons/aaron_cumes/555.md) | 40+ | <i class="flag flag-GB" /> | 2:21.64 | 2:32.97 |  | 🥉 x 3 | 🔥 x 4, ⚡ x 3 |
 | [Andy Nicholls](../../persons/andy_nicholls/555.md) | 40+ | <i class="flag flag-GB" /> | 1:36.29 | 1:44.74 | 🏆 x 12 | 🥇 x 14, 🥈 x 3 | 💥 x 3, 🔥 x 3, ⚡ x 4 |
 | [Anthony Rochester](../../persons/anthony_rochester/555.md) | 40+ | <i class="flag flag-AU" /> | 3:45.86 | 3:53.73 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Brad Deegan](../../persons/brad_deegan/555.md) | 40+ | | 2:28.26 | 2:35.06 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/555.md) | 50+ | <i class="flag flag-GB" /> | 1:32.37 | 1:39.45 | 🏆 x 1 | 🥇 x 2, 🥈 x 9, 🥉 x 1 | 💥 x 7, 🔥 x 3, ⚡ x 7 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | <i class="flag flag-IT" /> | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 21, 🥉 x 36 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
-| [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:18.54 | 1:25.65 | 🏆 x 75 | 🥇 x 77, 🥈 x 7, 🥉 x 2 | 💥 x 4, 🔥 x 11, ⚡ x 9 |
+| [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:18.54 | 1:25.65 | 🏆 x 76 | 🥇 x 78, 🥈 x 7, 🥉 x 2 | 💥 x 4, 🔥 x 11, ⚡ x 9 |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | <i class="flag flag-US" /> | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | 40+ | <i class="flag flag-VE" /> | 1:40.87 | 1:46.84 | 🏆 x 21 | 🥈 x 3, 🥉 x 1 | 🔥 x 10, ⚡ x 10 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | 40+ | <i class="flag flag-VE" /> | 1:40.87 | 1:46.84 | 🏆 x 21 | 🥈 x 4, 🥉 x 1 | 🔥 x 10, ⚡ x 10 |
 | [Eric Dodson](../../persons/eric_dodson/555.md) | 50+ | <i class="flag flag-US" /> | 2:50.88 | 2:57.27 |  | 🥉 x 2 | 🔥 x 3, ⚡ x 2 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/555.md) | 40+ | <i class="flag flag-JP" /> | 1:21.05 | 1:29.94 | 🏆 x 24 | 🥇 x 24 | 💥 x 7, 🔥 x 6, ⚡ x 4 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/555.md) | 40+ | <i class="flag flag-GB" /> | 1:41.88 | 1:56.29 | 🏆 x 2 | 🥇 x 17, 🥈 x 30, 🥉 x 7 | 🔥 x 7, ⚡ x 5 |
@@ -60,7 +61,7 @@
 | [Jo Cocco](../../persons/jo_cocco/555.md) | 40+ | <i class="flag flag-GB" /> | 3:37.69 | 4:04.60 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Joshua M. Woodward](../../persons/joshua_m_woodward/555.md) | 40+ | <i class="flag flag-US" /> | 4:06.17 | 4:17.14 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Kerry Go](../../persons/kerry_go/555.md) | 50+ | <i class="flag flag-US" /> | 3:02.77 | 3:36.28 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [Koen Heltzel](../../persons/koen_heltzel/555.md) | 40+ | | 2:38.17 | 3:01.94 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Koen Heltzel](../../persons/koen_heltzel/555.md) | 40+ | <i class="flag flag-NL" /> | 2:38.17 | 3:01.94 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Konsta Jukka](../../persons/konsta_jukka/555.md) | 40+ | <i class="flag flag-FI" /> | 1:24.80 | 1:36.81 | 🏆 x 8 | 🥇 x 10, 🥈 x 13, 🥉 x 1 | 🔥 x 12, ⚡ x 7 |
 | [Kristina Lim](../../persons/kristina_lim/555.md) | 50+ | <i class="flag flag-US" /> | 5:22.24 | DNF |  |  | ⚡ x 2 |
 | [Lisa Kucala](../../persons/lisa_kucala/555.md) | 60+ | <i class="flag flag-US" /> | 2:41.31 | 2:49.07 |  | 🥉 x 2 | 💥 x 11, 🔥 x 7, ⚡ x 13 |
@@ -85,7 +86,7 @@
 | [Chris Looney](../../persons/chris_looney/555.md) | <40 | <i class="flag flag-US" /> | 1:50.27 | 2:06.52 |  |  | 🔥 x 6, ⚡ x 7 |
 | [Chris Thames](../../persons/chris_thames/555.md) | <40 | <i class="flag flag-US" /> | 4:12.71 | DNF |  |  | ⚡ x 5 |
 | [Ed Connell](../../persons/ed_connell/555.md) | <40 | <i class="flag flag-IE" /> | 2:03.47 | 2:17.21 |  |  | 🔥 x 5, ⚡ x 6 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | 40+ | <i class="flag flag-VE" /> | 1:33.32 | 1:43.89 | 🏆 x 21 | 🥈 x 3, 🥉 x 1 | 🔥 x 10, ⚡ x 10 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | 40+ | <i class="flag flag-VE" /> | 1:33.32 | 1:43.89 | 🏆 x 21 | 🥈 x 4, 🥉 x 1 | 🔥 x 10, ⚡ x 10 |
 | [Fred Johnson](../../persons/fred_johnson/555.md) | <40 | <i class="flag flag-US" /> | 1:32.21 | 1:40.13 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Go-ho Choi](../../persons/go_ho_choi/555.md) | 40+ | <i class="flag flag-KR" /> | 1:16.98 | 1:30.42 | 🏆 x 6 | 🥇 x 1 | 💥 x 3, 🔥 x 2, ⚡ x 4 |
 | [Pete Lee](../../persons/pete_lee/555.md) | 40+ | <i class="flag flag-GB" /> | 1:39.52 | 1:49.65 | 🏆 x 12 | 🥈 x 2, 🥉 x 17 | 🔥 x 19, ⚡ x 14 |

@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### [Michael Amarello](README.md) - [2022AMAR09](https://www.worldcubeassociation.org/persons/2022AMAR09?event=clock)
 
 <i class="flag flag-US" />&nbsp;United States

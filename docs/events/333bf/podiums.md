@@ -1,10 +1,18 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### 3x3x3 Blindfolded Senior Podiums
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+#### [2026-02-02](../../results/2026-02-02/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:22.83 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3212043932427643/permalink/3217916845173685) / [Mobile](https://m.facebook.com/events/3212043932427643?view=permalink&id=3217916845173685) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:29.74 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/3212043932427643/permalink/3222051494760220) / [Mobile](https://m.facebook.com/events/3212043932427643?view=permalink&id=3222051494760220) |
+| 3 | [Daniel Houghton](../../persons/daniel_houghton/333bf.md) | 40+ | <i class="flag flag-CH" /> | 1:40.20 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/3212043932427643/permalink/3220252171606819) / [Mobile](https://m.facebook.com/events/3212043932427643?view=permalink&id=3220252171606819) |
 
 #### [2026-01-19](../../results/2026-01-19/333bf.md)
 
@@ -12,7 +20,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:22.81 | 1:50.53 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1692240905081799/permalink/1699020627737160) / [Mobile](https://m.facebook.com/events/1692240905081799?view=permalink&id=1699020627737160) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:25.70 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/1692240905081799/permalink/1702373540735202) / [Mobile](https://m.facebook.com/events/1692240905081799?view=permalink&id=1702373540735202) |
-| 3 | [Stephen Burson](../../persons/stephen_burson/333bf.md) | 50+ | | 3:17.89 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/1692240905081799/permalink/1703697467269476) / [Mobile](https://m.facebook.com/events/1692240905081799?view=permalink&id=1703697467269476) |
+| 3 | [Stephen Burson](../../persons/stephen_burson/333bf.md) | 50+ | <i class="flag flag-US" /> | 3:17.89 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/1692240905081799/permalink/1703697467269476) / [Mobile](https://m.facebook.com/events/1692240905081799?view=permalink&id=1703697467269476) |
 
 #### [2026-01-05](../../results/2026-01-05/333bf.md)
 
@@ -36,7 +44,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:18.35 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/25201027762872988/permalink/25223643437278087) / [Mobile](https://m.facebook.com/events/25201027762872988?view=permalink&id=25223643437278087) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:23.73 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/25201027762872988/permalink/25302891076019989) / [Mobile](https://m.facebook.com/events/25201027762872988?view=permalink&id=25302891076019989) |
-| 3 | [Stephen Burson](../../persons/stephen_burson/333bf.md) | 50+ | | 4:21.00 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/25201027762872988/permalink/25298641663111597) / [Mobile](https://m.facebook.com/events/25201027762872988?view=permalink&id=25298641663111597) |
+| 3 | [Stephen Burson](../../persons/stephen_burson/333bf.md) | 50+ | <i class="flag flag-US" /> | 4:21.00 | DNF | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/25201027762872988/permalink/25298641663111597) / [Mobile](https://m.facebook.com/events/25201027762872988?view=permalink&id=25298641663111597) |
 
 #### [2025-11-24](../../results/2025-11-24/333bf.md)
 

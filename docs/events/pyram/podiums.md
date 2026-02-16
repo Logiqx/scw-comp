@@ -1,10 +1,18 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### Pyraminx Senior Podiums
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+#### [2026-02-02](../../results/2026-02-02/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) | 40+ | <i class="flag flag-VE" /> | 8.35 | 9.57 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1231685255739977) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1231685255739977) |
+| 2 | [Veronika Rose](../../persons/veronika_rose/pyram.md) | 40+ | <i class="flag flag-SK" /> | 7.90 | 11.45 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1225070013068168) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1225070013068168) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 10.26 | 11.59 | 🥉 | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1233654875543015) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1233654875543015) |
 
 #### [2026-01-19](../../results/2026-01-19/pyram.md)
 
@@ -12,14 +20,14 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) | 40+ | <i class="flag flag-VE" /> | 7.51 | 9.14 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2129532901115592/permalink/2139588810110001) / [Mobile](https://m.facebook.com/events/2129532901115592?view=permalink&id=2139588810110001) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/pyram.md) | 60+ | <i class="flag flag-US" /> | 9.70 | 10.48 | 🥈 | [Desktop](https://www.facebook.com/events/2129532901115592/permalink/2138960800172802) / [Mobile](https://m.facebook.com/events/2129532901115592?view=permalink&id=2138960800172802) |
-| 3 | [Veronika Rose](../../persons/veronika_rose/pyram.md) | 40+ | | 9.84 | 11.13 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/2129532901115592/permalink/2134437500625132) / [Mobile](https://m.facebook.com/events/2129532901115592?view=permalink&id=2134437500625132) |
+| 3 | [Veronika Rose](../../persons/veronika_rose/pyram.md) | 40+ | <i class="flag flag-SK" /> | 9.84 | 11.13 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/2129532901115592/permalink/2134437500625132) / [Mobile](https://m.facebook.com/events/2129532901115592?view=permalink&id=2134437500625132) |
 
 #### [2026-01-05](../../results/2026-01-05/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/pyram.md) | 40+ | <i class="flag flag-VE" /> | 6.13 | 9.25 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1373011727904885/permalink/1380799840459407) / [Mobile](https://m.facebook.com/events/1373011727904885?view=permalink&id=1380799840459407) |
-| 2 | [Veronika Rose](../../persons/veronika_rose/pyram.md) | 40+ | | 8.28 | 13.23 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1373011727904885/permalink/1373691087836949) / [Mobile](https://m.facebook.com/events/1373011727904885?view=permalink&id=1373691087836949) |
+| 2 | [Veronika Rose](../../persons/veronika_rose/pyram.md) | 40+ | <i class="flag flag-SK" /> | 8.28 | 13.23 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1373011727904885/permalink/1373691087836949) / [Mobile](https://m.facebook.com/events/1373011727904885?view=permalink&id=1373691087836949) |
 
 #### [2025-12-22](../../results/2025-12-22/pyram.md)
 

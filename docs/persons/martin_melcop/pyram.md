@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### [Martin Melcop](README.md) - [2022MELC01](https://www.worldcubeassociation.org/persons/2022MELC01?event=pyram)
 
 <i class="flag flag-BR" />&nbsp;Brazil

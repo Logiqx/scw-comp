@@ -1,10 +1,18 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### 5x5x5 Senior Podiums
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+#### [2026-02-02](../../results/2026-02-02/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:30.37 | 1:38.44 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3635598963248617/permalink/3647448748730305) / [Mobile](https://m.facebook.com/events/3635598963248617?view=permalink&id=3647448748730305) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | 40+ | <i class="flag flag-VE" /> | 1:51.72 | 1:59.67 | 🥈 | [Desktop](https://www.facebook.com/events/3635598963248617/permalink/3641297269345453) / [Mobile](https://m.facebook.com/events/3635598963248617?view=permalink&id=3641297269345453) |
+| 3 | [Brad Deegan](../../persons/brad_deegan/555.md) | 40+ | | 2:28.26 | 2:35.06 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/3635598963248617/permalink/3641455905996256) / [Mobile](https://m.facebook.com/events/3635598963248617?view=permalink&id=3641455905996256) |
 
 #### [2026-01-19](../../results/2026-01-19/555.md)
 

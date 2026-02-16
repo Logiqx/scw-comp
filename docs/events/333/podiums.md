@@ -1,10 +1,18 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### 3x3x3 Senior Podiums
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+#### [2026-02-02](../../results/2026-02-02/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333.md) | 40+ | <i class="flag flag-VE" /> | 13.29 | 14.62 | 🥇 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25450803577935648) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25450803577935648) |
+| 2 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 13.36 | 14.99 | 🥈 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25499432596406079) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25499432596406079) |
+| 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 50+ | <i class="flag flag-AU" /> | 13.08 | 16.57 | 🥉 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25520551397627532) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25520551397627532) |
 
 #### [2026-01-19](../../results/2026-01-19/333.md)
 

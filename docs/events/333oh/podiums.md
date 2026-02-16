@@ -1,10 +1,18 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### 3x3x3 One-Handed Senior Podiums
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+#### [2026-02-02](../../results/2026-02-02/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 22.39 | 23.88 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25500344296314909) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25500344296314909) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333oh.md) | 40+ | <i class="flag flag-VE" /> | 33.44 | 43.87 | 🥈 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25470155709333768) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25470155709333768) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 36.80 | 48.99 | 🥉 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25499672219715450) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25499672219715450) |
 
 #### [2026-01-19](../../results/2026-01-19/333oh.md)
 

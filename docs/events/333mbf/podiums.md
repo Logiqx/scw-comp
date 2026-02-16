@@ -1,17 +1,23 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### 3x3x3 Multi-Blind Senior Podiums
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+#### [2026-02-02](../../results/2026-02-02/333mbf.md)
+
+| # | Name | Age | 🌍 | Single | Awards | Video |
+| :--: | :-- | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 7/11 in 53:32 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3212043932427643/permalink/3217936575171712) / [Mobile](https://m.facebook.com/events/3212043932427643?view=permalink&id=3217936575171712) |
 
 #### [2026-01-19](../../results/2026-01-19/333mbf.md)
 
 | # | Name | Age | 🌍 | Single | Awards | Video |
 | :--: | :-- | :--: | :--: | :--: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 12/12 in 56:58 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/1692240905081799/permalink/1698170734488816) / [Mobile](https://m.facebook.com/events/1692240905081799?view=permalink&id=1698170734488816) |
-| 2 | [Stephen Burson](../../persons/stephen_burson/333mbf.md) | 50+ | | 5/8 in 57:54 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1692240905081799/permalink/1703692373936652) / [Mobile](https://m.facebook.com/events/1692240905081799?view=permalink&id=1703692373936652) |
+| 2 | [Stephen Burson](../../persons/stephen_burson/333mbf.md) | 50+ | <i class="flag flag-US" /> | 5/8 in 57:54 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1692240905081799/permalink/1703692373936652) / [Mobile](https://m.facebook.com/events/1692240905081799?view=permalink&id=1703692373936652) |
 
 #### [2026-01-05](../../results/2026-01-05/333mbf.md)
 

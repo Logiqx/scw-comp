@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### 3x3x3 Multi-Blind Competitors
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
@@ -21,8 +21,8 @@
 | [Javier Rossi](../../persons/javier_rossi/333mbf.md) | 50+ | <i class="flag flag-AR" /> | 2/2 in 12:59 |  | 🥉 x 1 | ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 60+ | <i class="flag flag-SE" /> | 9/11 in 59:19 | 🏆 x 9 | 🥇 x 9, 🥈 x 3, 🥉 x 1 | 💥 x 3, ⚡ x 5 |
 | [Shen Flindell](../../persons/shen_flindell/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 12/12 in 56:58 | 🏆 x 21 | 🥇 x 21, 🥈 x 8, 🥉 x 3 | 💥 x 4, ⚡ x 9 |
-| [Stephen Burson](../../persons/stephen_burson/333mbf.md) | 50+ | | 5/8 in 57:54 |  | 🥈 x 1 | ⚡ x 1 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 8/9 in 37:16 | 🏆 x 6 | 🥇 x 6, 🥈 x 12, 🥉 x 4 | ⚡ x 6 |
+| [Stephen Burson](../../persons/stephen_burson/333mbf.md) | 50+ | <i class="flag flag-US" /> | 5/8 in 57:54 |  | 🥈 x 1 | ⚡ x 1 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 8/9 in 37:16 | 🏆 x 7 | 🥇 x 7, 🥈 x 12, 🥉 x 4 | ⚡ x 6 |
 | [Yuichi Hamada](../../persons/yuichi_hamada/333mbf.md) | 50+ | <i class="flag flag-JP" /> | 7/11 in 54:01 | 🏆 x 5 | 🥇 x 5, 🥈 x 2 | ⚡ x 5 |
 
 #### Over 40
@@ -41,8 +41,8 @@
 | [Michael Lee](../../persons/michael_lee/333mbf.md) | 40+ | <i class="flag flag-US" /> | 5/6 in 48:09 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | ⚡ x 2 |
 | [Peter Andersson](../../persons/peter_andersson/333mbf.md) | 60+ | <i class="flag flag-SE" /> | 9/11 in 59:19 | 🏆 x 9 | 🥇 x 9, 🥈 x 3, 🥉 x 1 | 💥 x 3, ⚡ x 5 |
 | [Shen Flindell](../../persons/shen_flindell/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 12/12 in 56:58 | 🏆 x 21 | 🥇 x 21, 🥈 x 8, 🥉 x 3 | 💥 x 4, ⚡ x 9 |
-| [Stephen Burson](../../persons/stephen_burson/333mbf.md) | 50+ | | 5/8 in 57:54 |  | 🥈 x 1 | ⚡ x 1 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 8/9 in 37:16 | 🏆 x 6 | 🥇 x 6, 🥈 x 12, 🥉 x 4 | ⚡ x 6 |
+| [Stephen Burson](../../persons/stephen_burson/333mbf.md) | 50+ | <i class="flag flag-US" /> | 5/8 in 57:54 |  | 🥈 x 1 | ⚡ x 1 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 8/9 in 37:16 | 🏆 x 7 | 🥇 x 7, 🥈 x 12, 🥉 x 4 | ⚡ x 6 |
 | [Yuichi Hamada](../../persons/yuichi_hamada/333mbf.md) | 50+ | <i class="flag flag-JP" /> | 10/11 in 55:24 | 🏆 x 5 | 🥇 x 5, 🥈 x 2 | ⚡ x 5 |
 
 #### Under 40

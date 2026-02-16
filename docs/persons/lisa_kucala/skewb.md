@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### [Lisa Kucala](README.md) - [2019KUCA01](https://www.worldcubeassociation.org/persons/2019KUCA01?event=skewb)
 
 <i class="flag flag-US" />&nbsp;United States
@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-02-02](../../results/2026-02-02/skewb.md) | 60+ | 9.58 | 12.78 | 🥉 | 14.90 | 10.68 | 12.77 | 15.85 | 9.58 | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1233648728876963) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1233648728876963) |
 | [2025-12-22](../../results/2025-12-22/skewb.md) | 60+ | 11.55 | 13.75 | 🥉 | 14.67 | 13.47 | 17.96 | 11.55 | 13.12 | [Desktop](https://www.facebook.com/events/1544874610097824/permalink/1553789212539697) / [Mobile](https://m.facebook.com/events/1544874610097824?view=permalink&id=1553789212539697) |
 | [2025-08-18](../../results/2025-08-18/skewb.md) | 60+ | 7.23 | **9.37** | 🏆 🥇 💥 🔥 | 7.23 | 12.44 | 10.17 | 8.73 | 9.22 | [Desktop](https://www.facebook.com/events/771985561972365/permalink/782983524205902) / [Mobile](https://m.facebook.com/events/771985561972365?view=permalink&id=782983524205902) |
 | [2025-08-04](../../results/2025-08-04/skewb.md) | 60+ | 10.07 | 12.54 | 🏆 🥇 | 10.07 | 11.15 | 13.14 | 13.32 | 20.10 | [Desktop](https://www.facebook.com/events/773476181922397/permalink/783972387539443) / [Mobile](https://m.facebook.com/events/773476181922397?view=permalink&id=783972387539443) |

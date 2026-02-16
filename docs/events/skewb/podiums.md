@@ -1,10 +1,18 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### Skewb Senior Podiums
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+#### [2026-02-02](../../results/2026-02-02/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | 40+ | <i class="flag flag-VE" /> | 7.52 | 10.38 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1228433419398494) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1228433419398494) |
+| 2 | [Brad Deegan](../../persons/brad_deegan/skewb.md) | 40+ | | 9.51 | 12.00 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1226990052876164) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1226990052876164) |
+| 3 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 9.58 | 12.78 | 🥉 | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1233648728876963) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1233648728876963) |
 
 #### [2026-01-19](../../results/2026-01-19/skewb.md)
 

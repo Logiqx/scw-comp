@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### Pete Lee - [2018LEEP04](https://www.worldcubeassociation.org/persons/2018LEEP04)
 
 <i class="flag flag-GB" />&nbsp;United Kingdom
@@ -13,13 +13,13 @@
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](333.md) | 12.54 | 17.45 |  | 🥉 x 2 | 🔥 x 13, ⚡ x 7 |
-| [2x2x2](222.md) | 4.68 | 7.24 |  | 🥈 x 1 | 🔥 x 5, ⚡ x 7 |
+| [2x2x2](222.md) | 4.68 | 7.24 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 6, ⚡ x 7 |
 | [4x4x4](444.md) | 52.61 | 58.96 | 🏆 x 5 | 🥇 x 1, 🥈 x 2, 🥉 x 6 | 🔥 x 12, ⚡ x 12 |
 | [5x5x5](555.md) | 1:37.98 | 1:48.42 | 🏆 x 12 | 🥈 x 2, 🥉 x 17 | 🔥 x 19, ⚡ x 14 |
 | [6x6x6](666.md) | 3:12.00 | 3:24.46 | 🏆 x 12 | 🥈 x 2, 🥉 x 4 | 🔥 x 14, ⚡ x 20 |
 | [7x7x7](777.md) | 4:56.80 | 5:13.03 | 🏆 x 15 | 🥈 x 1, 🥉 x 4 | 🔥 x 13, ⚡ x 21 |
-| [3x3x3 OH](333oh.md) | 39.61 | 47.46 | 🏆 x 2 | 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
-| [Megaminx](minx.md) | 1:07.76 | 1:18.64 | 🏆 x 35 | 🥇 x 35, 🥈 x 9 | 🔥 x 15, ⚡ x 13 |
+| [3x3x3 OH](333oh.md) | 39.61 | 47.46 | 🏆 x 2 | 🥉 x 1 | 🔥 x 4, ⚡ x 3 |
+| [Megaminx](minx.md) | 1:07.60 | 1:16.10 | 🏆 x 36 | 🥇 x 36, 🥈 x 9 | 🔥 x 16, ⚡ x 14 |
 | [Pyraminx](pyram.md) | 7.53 | 12.94 | 🏆 x 1 | 🥇 x 1, 🥉 x 2 | 🔥 x 3, ⚡ x 5 |
 | [Skewb](skewb.md) | 6.84 | 13.62 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Clock](clock.md) | 12.94 | 16.02 | 🏆 x 3 | 🥇 x 3, 🥈 x 1 | 🔥 x 3, ⚡ x 2 |

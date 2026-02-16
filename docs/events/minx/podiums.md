@@ -1,17 +1,25 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### Megaminx Senior Podiums
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+#### [2026-02-02](../../results/2026-02-02/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:07.60 | 1:16.10 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25515592848123387) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25515592848123387) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | 40+ | <i class="flag flag-VE" /> | 1:27.64 | 1:34.92 | 🥈 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25470139506002055) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25470139506002055) |
+| 3 | [Veronika Rose](../../persons/veronika_rose/minx.md) | 40+ | <i class="flag flag-SK" /> | 1:30.78 | 1:39.48 | 🥉 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25463435673339105) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25463435673339105) |
 
 #### [2026-01-19](../../results/2026-01-19/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:10.33 | 1:20.63 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1243256814319232/permalink/1248636127114634) / [Mobile](https://m.facebook.com/events/1243256814319232?view=permalink&id=1248636127114634) |
-| 2 | [Veronika Rose](../../persons/veronika_rose/minx.md) | 40+ | | 1:21.51 | 1:30.81 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1243256814319232/permalink/1247748983870015) / [Mobile](https://m.facebook.com/events/1243256814319232?view=permalink&id=1247748983870015) |
+| 2 | [Veronika Rose](../../persons/veronika_rose/minx.md) | 40+ | <i class="flag flag-SK" /> | 1:21.51 | 1:30.81 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1243256814319232/permalink/1247748983870015) / [Mobile](https://m.facebook.com/events/1243256814319232?view=permalink&id=1247748983870015) |
 | 3 | [Shen Flindell](../../persons/shen_flindell/minx.md) | 50+ | <i class="flag flag-AU" /> | 1:45.81 | 2:06.32 | 🥉 | [Desktop](https://www.facebook.com/events/1243256814319232/permalink/1252344833410430) / [Mobile](https://m.facebook.com/events/1243256814319232?view=permalink&id=1252344833410430) |
 
 #### [2026-01-05](../../results/2026-01-05/minx.md)
@@ -19,7 +27,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:16.26 | 1:19.16 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/903150902238683/permalink/907202381833535) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=907202381833535) |
-| 2 | [Veronika Rose](../../persons/veronika_rose/minx.md) | 40+ | | 1:25.92 | 1:29.51 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/903150902238683/permalink/904586608761779) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=904586608761779) |
+| 2 | [Veronika Rose](../../persons/veronika_rose/minx.md) | 40+ | <i class="flag flag-SK" /> | 1:25.92 | 1:29.51 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/903150902238683/permalink/904586608761779) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=904586608761779) |
 | 3 | [Konsta Jukka](../../persons/konsta_jukka/minx.md) | 40+ | <i class="flag flag-FI" /> | 1:27.60 | 1:35.77 | 🥉 | [Desktop](https://www.facebook.com/events/903150902238683/permalink/912481711305602) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=912481711305602) |
 
 #### [2025-12-22](../../results/2025-12-22/minx.md)

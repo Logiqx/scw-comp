@@ -1,10 +1,18 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### Clock Senior Podiums
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+#### [2026-02-02](../../results/2026-02-02/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 8.53 | 9.22 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1233631542212015) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1233631542212015) |
+| 2 | [Joe Kucala](../../persons/joe_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 10.88 | 12.69 | 🥈 | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1231037165804786) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1231037165804786) |
+| 3 | [Brad Deegan](../../persons/brad_deegan/clock.md) | 40+ | | 14.99 | 16.07 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1227000012875168) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1227000012875168) |
 
 #### [2026-01-19](../../results/2026-01-19/clock.md)
 

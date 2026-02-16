@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### [Enrymar Cisneros](README.md) - [2013CISN01](https://www.worldcubeassociation.org/persons/2013CISN01?event=skewb)
 
 <i class="flag flag-VE" />&nbsp;Venezuela
@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-02-02](../../results/2026-02-02/skewb.md) | 40+ | 7.52 | 10.38 | 🏆 🥇 | 9.34 | 7.52 | 10.67 | 11.51 | 11.14 | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1228433419398494) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1228433419398494) |
 | [2026-01-19](../../results/2026-01-19/skewb.md) | 40+ | 7.62 | **9.06** | 🥈 🔥 | 8.76 | 11.00 | 8.70 | 9.71 | 7.62 | [Desktop](https://www.facebook.com/events/2129532901115592/permalink/2139590260109856) / [Mobile](https://m.facebook.com/events/2129532901115592?view=permalink&id=2139590260109856) |
 | [2026-01-05](../../results/2026-01-05/skewb.md) | 40+ | **5.79** | **9.64** | 🥈 🔥 ⚡ | 9.41 | 7.89 | **5.79** | 11.63 | 13.34 | [Desktop](https://www.facebook.com/events/1373011727904885/permalink/1381675480371843) / [Mobile](https://m.facebook.com/events/1373011727904885?view=permalink&id=1381675480371843) |
 | [2025-11-24](../../results/2025-11-24/skewb.md) | 40+ | **7.91** | **9.84** | 🏆 🥇 🔥 ⚡ | 9.51 | 9.04 | **7.91** | 13.23 | 10.98 | [Desktop](https://www.facebook.com/events/2025958187971232/permalink/2034114457155605) / [Mobile](https://m.facebook.com/events/2025958187971232?view=permalink&id=2034114457155605) |

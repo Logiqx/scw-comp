@@ -1,10 +1,18 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### 7x7x7 Senior Podiums
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+#### [2026-02-02](../../results/2026-02-02/777.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 4:34.50 | 4:38.33 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3635598963248617/permalink/3642862879188892) / [Mobile](https://m.facebook.com/events/3635598963248617?view=permalink&id=3642862879188892) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/777.md) | 40+ | <i class="flag flag-VE" /> | 5:47.25 | 6:01.07 | 🥈 | [Desktop](https://www.facebook.com/events/3635598963248617/permalink/3648327758642404) / [Mobile](https://m.facebook.com/events/3635598963248617?view=permalink&id=3648327758642404) |
+| 3 | [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 4:22.65 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/3635598963248617/permalink/3647446512063862) / [Mobile](https://m.facebook.com/events/3635598963248617?view=permalink&id=3647446512063862) |
 
 #### [2026-01-19](../../results/2026-01-19/777.md)
 

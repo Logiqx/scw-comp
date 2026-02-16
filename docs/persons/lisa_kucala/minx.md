@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### [Lisa Kucala](README.md) - [2019KUCA01](https://www.worldcubeassociation.org/persons/2019KUCA01?event=minx)
 
 <i class="flag flag-US" />&nbsp;United States
@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-02-02](../../results/2026-02-02/minx.md) | 60+ | 2:48.27 | 3:00.84 |  | 3:08.26 | 3:05.99 | 2:48.27 | DNS | DNS | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25499581546391184) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25499581546391184) |
 | [2025-12-22](../../results/2025-12-22/minx.md) | 60+ | 2:58.45 | 3:02.84 |  | 3:10.01 | 2:58.45 | 3:00.06 | DNS | DNS | [Desktop](https://www.facebook.com/events/846491475035716/permalink/857449187273278) / [Mobile](https://m.facebook.com/events/846491475035716?view=permalink&id=857449187273278) |
 | [2025-10-13](../../results/2025-10-13/minx.md) | 60+ | 2:39.96 | 2:41.77 |  | 2:43.95 | 2:41.40 | 2:39.96 | DNS | DNS | [Desktop](https://www.facebook.com/events/1142683474629830/permalink/1146685067563004) / [Mobile](https://m.facebook.com/events/1142683474629830?view=permalink&id=1146685067563004) |
 | [2025-09-29](../../results/2025-09-29/minx.md) | 60+ | 2:47.67 | 3:27.12 |  | 4:27.34 | 3:06.35 | 2:47.67 | DNS | DNS | [Desktop](https://www.facebook.com/events/3131653436983766/permalink/3148038272011949) / [Mobile](https://m.facebook.com/events/3131653436983766?view=permalink&id=3148038272011949) |

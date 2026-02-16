@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### Historical Archive
 #### Individuals
 Competitors - [3x3x3](../events/333/persons.md), [2x2x2](../events/222/persons.md), [4x4x4](../events/444/persons.md), [5x5x5](../events/555/persons.md), [6x6x6](../events/666/persons.md), [7x7x7](../events/777/persons.md), [OH](../events/333oh/persons.md), [Mega](../events/minx/persons.md), [Pyra](../events/pyram/persons.md), [Skewb](../events/skewb/persons.md), [Sq-1](../events/sq1/persons.md), [Clock](../events/clock/persons.md), [3BLD](../events/333bf/persons.md), [4BLD](../events/444bf/persons.md), [5BLD](../events/555bf/persons.md), [MBLD](../events/333mbf/persons.md), [FMC](../events/333fm/persons.md)
@@ -14,6 +14,8 @@ Best Averages - [3x3x3](../events/333/averages.md), [2x2x2](../events/222/averag
 Seniors - [3x3x3](../events/333/podiums.md), [2x2x2](../events/222/podiums.md), [4x4x4](../events/444/podiums.md), [5x5x5](../events/555/podiums.md), [6x6x6](../events/666/podiums.md), [7x7x7](../events/777/podiums.md), [OH](../events/333oh/podiums.md), [Mega](../events/minx/podiums.md), [Pyra](../events/pyram/podiums.md), [Skewb](../events/skewb/podiums.md), [Sq-1](../events/sq1/podiums.md), [Clock](../events/clock/podiums.md), [3BLD](../events/333bf/podiums.md), [4BLD](../events/444bf/podiums.md), [5BLD](../events/555bf/podiums.md), [MBLD](../events/333mbf/podiums.md), [FMC](../events/333fm/podiums.md)
 
 #### Results
+[2026-02-02](2026-02-02/README.md) - [3x3x3](2026-02-02/333.md), [2x2x2](2026-02-02/222.md), [4x4x4](2026-02-02/444.md), [5x5x5](2026-02-02/555.md), [6x6x6](2026-02-02/666.md), [7x7x7](2026-02-02/777.md), [OH](2026-02-02/333oh.md), [Mega](2026-02-02/minx.md), [Pyra](2026-02-02/pyram.md), [Skewb](2026-02-02/skewb.md), [Sq-1](2026-02-02/sq1.md), [Clock](2026-02-02/clock.md), [3BLD](2026-02-02/333bf.md), [5BLD](2026-02-02/555bf.md), [MBLD](2026-02-02/333mbf.md), [FMC](2026-02-02/333fm.md)
+
 [2026-01-19](2026-01-19/README.md) - [3x3x3](2026-01-19/333.md), [2x2x2](2026-01-19/222.md), [4x4x4](2026-01-19/444.md), [5x5x5](2026-01-19/555.md), [6x6x6](2026-01-19/666.md), [7x7x7](2026-01-19/777.md), [OH](2026-01-19/333oh.md), [Mega](2026-01-19/minx.md), [Pyra](2026-01-19/pyram.md), [Skewb](2026-01-19/skewb.md), [Sq-1](2026-01-19/sq1.md), [Clock](2026-01-19/clock.md), [3BLD](2026-01-19/333bf.md), [4BLD](2026-01-19/444bf.md), [MBLD](2026-01-19/333mbf.md), [FMC](2026-01-19/333fm.md)
 
 [2026-01-05](2026-01-05/README.md) - [3x3x3](2026-01-05/333.md), [2x2x2](2026-01-05/222.md), [4x4x4](2026-01-05/444.md), [5x5x5](2026-01-05/555.md), [6x6x6](2026-01-05/666.md), [7x7x7](2026-01-05/777.md), [OH](2026-01-05/333oh.md), [Mega](2026-01-05/minx.md), [Pyra](2026-01-05/pyram.md), [Skewb](2026-01-05/skewb.md), [Sq-1](2026-01-05/sq1.md), [3BLD](2026-01-05/333bf.md), [5BLD](2026-01-05/555bf.md), [MBLD](2026-01-05/333mbf.md), [FMC](2026-01-05/333fm.md)

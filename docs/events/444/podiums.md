@@ -1,10 +1,18 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### 4x4x4 Senior Podiums
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+#### [2026-02-02](../../results/2026-02-02/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 48.15 | 54.27 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3635598963248617/permalink/3647448605396986) / [Mobile](https://m.facebook.com/events/3635598963248617?view=permalink&id=3647448605396986) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) | 40+ | <i class="flag flag-VE" /> | 51.48 | 56.23 | 🥈 | [Desktop](https://www.facebook.com/events/3635598963248617/permalink/3638953009579879) / [Mobile](https://m.facebook.com/events/3635598963248617?view=permalink&id=3638953009579879) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 59.13 | 1:01.42 | 🥉 | [Desktop](https://www.facebook.com/events/3635598963248617/permalink/3646602272148286) / [Mobile](https://m.facebook.com/events/3635598963248617?view=permalink&id=3646602272148286) |
 
 #### [2026-01-19](../../results/2026-01-19/444.md)
 
@@ -12,7 +20,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) | 40+ | <i class="flag flag-VE" /> | 51.02 | 56.11 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/890187273702223/permalink/900021792718771) / [Mobile](https://m.facebook.com/events/890187273702223?view=permalink&id=900021792718771) |
 | 2 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 53.20 | 59.72 | 🥈 | [Desktop](https://www.facebook.com/events/890187273702223/permalink/899418142779136) / [Mobile](https://m.facebook.com/events/890187273702223?view=permalink&id=899418142779136) |
-| 3 | [Koen Heltzel](../../persons/koen_heltzel/444.md) | 40+ | | 1:09.57 | 1:24.24 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/890187273702223/permalink/890874813633469) / [Mobile](https://m.facebook.com/events/890187273702223?view=permalink&id=890874813633469) |
+| 3 | [Koen Heltzel](../../persons/koen_heltzel/444.md) | 40+ | <i class="flag flag-NL" /> | 1:09.57 | 1:24.24 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/890187273702223/permalink/890874813633469) / [Mobile](https://m.facebook.com/events/890187273702223?view=permalink&id=890874813633469) |
 
 #### [2026-01-05](../../results/2026-01-05/444.md)
 

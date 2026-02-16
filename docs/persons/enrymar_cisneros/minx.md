@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### [Enrymar Cisneros](README.md) - [2013CISN01](https://www.worldcubeassociation.org/persons/2013CISN01?event=minx)
 
 <i class="flag flag-VE" />&nbsp;Venezuela
@@ -14,6 +14,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-02-02](../../results/2026-02-02/minx.md) | 40+ | 1:27.64 | 1:34.92 | 🥈 | 1:33.16 | 1:27.64 | 1:32.45 | 1:39.14 | 1:39.54 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25470139506002055) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25470139506002055) |
 | [2025-11-10](../../results/2025-11-10/minx.md) | 40+ | 1:21.96 | 1:31.57 | 🥈 | 1:29.68 | 1:39.89 | 1:31.80 | 1:21.96 | 1:33.24 | [Desktop](https://www.facebook.com/events/687883157732160/permalink/695993246921151) / [Mobile](https://m.facebook.com/events/687883157732160?view=permalink&id=695993246921151) |
 | [2025-10-27](../../results/2025-10-27/minx.md) | 40+ | 1:33.55 | 1:35.11 | 🥉 | 1:37.11 | 1:34.12 | 1:33.55 | 1:34.11 | 1:37.14 | [Desktop](https://www.facebook.com/events/787732707421464/permalink/798426373018764) / [Mobile](https://m.facebook.com/events/787732707421464?view=permalink&id=798426373018764) |
 | [2025-07-07](../../results/2025-07-07/minx.md) | 40+ | **1:16.68** | **1:23.85** | 🏆 🥇 🔥 ⚡ | 1:36.18 | 1:28.17 | 1:19.64 | 1:23.75 | **1:16.68** | [Desktop](https://www.facebook.com/events/1328488458860314/permalink/1338374174538409) / [Mobile](https://m.facebook.com/events/1328488458860314?view=permalink&id=1338374174538409) |

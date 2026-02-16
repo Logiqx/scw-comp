@@ -1,10 +1,16 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### 5x5x5 Blindfolded Senior Podiums
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+#### [2026-02-02](../../results/2026-02-02/555bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/555bf.md) | 50+ | <i class="flag flag-AU" /> | 11:54.93 | DNF | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/3212043932427643/permalink/3216393095326060) / [Mobile](https://m.facebook.com/events/3212043932427643?view=permalink&id=3216393095326060) |
 
 #### [2026-01-05](../../results/2026-01-05/555bf.md)
 
@@ -23,7 +29,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/555bf.md) | 50+ | <i class="flag flag-AU" /> | 16:38.44 | DNF | 🏆 🥇 | [Desktop](https://www.facebook.com/events/25201027762872988/permalink/25285772091065221) / [Mobile](https://m.facebook.com/events/25201027762872988?view=permalink&id=25285772091065221) |
-| 2 | [Stephen Burson](../../persons/stephen_burson/555bf.md) | 50+ | | 54:29.50 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/25201027762872988/permalink/25288584620783968) / [Mobile](https://m.facebook.com/events/25201027762872988?view=permalink&id=25288584620783968) |
+| 2 | [Stephen Burson](../../persons/stephen_burson/555bf.md) | 50+ | <i class="flag flag-US" /> | 54:29.50 | DNF | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/25201027762872988/permalink/25288584620783968) / [Mobile](https://m.facebook.com/events/25201027762872988?view=permalink&id=25288584620783968) |
 
 #### [2025-11-24](../../results/2025-11-24/555bf.md)
 

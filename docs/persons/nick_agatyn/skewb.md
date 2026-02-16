@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### [Nick Agatyn](README.md) - [2021AGAT01](https://www.worldcubeassociation.org/persons/2021AGAT01?event=skewb)
 
 <i class="flag flag-AU" />&nbsp;Australia

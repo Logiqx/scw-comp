@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### [Dylan Cossin](README.md) - [2016COSS01](https://www.worldcubeassociation.org/persons/2016COSS01?event=pyram)
 
 <i class="flag flag-US" />&nbsp;United States

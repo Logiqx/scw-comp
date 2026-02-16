@@ -1,17 +1,25 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### 2x2x2 Senior Podiums
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+
+#### [2026-02-02](../../results/2026-02-02/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | 40+ | <i class="flag flag-VE" /> | 5.44 | 6.00 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25450788481270491) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25450788481270491) |
+| 2 | [Veronika Rose](../../persons/veronika_rose/222.md) | 40+ | <i class="flag flag-SK" /> | 6.59 | 7.03 | 🥈 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25433757156306957) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25433757156306957) |
+| 3 | [Pete Lee](../../persons/pete_lee/222.md) | 40+ | <i class="flag flag-GB" /> | 6.80 | 7.58 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25515557381460267) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25515557381460267) |
 
 #### [2026-01-19](../../results/2026-01-19/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | 40+ | <i class="flag flag-VE" /> | 5.54 | 6.01 | 🥇 | [Desktop](https://www.facebook.com/events/1243256814319232/permalink/1247052060606374) / [Mobile](https://m.facebook.com/events/1243256814319232?view=permalink&id=1247052060606374) |
-| 2 | [Veronika Rose](../../persons/veronika_rose/222.md) | 40+ | | 5.32 | 6.07 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/1243256814319232/permalink/1247604150551165) / [Mobile](https://m.facebook.com/events/1243256814319232?view=permalink&id=1247604150551165) |
+| 2 | [Veronika Rose](../../persons/veronika_rose/222.md) | 40+ | <i class="flag flag-SK" /> | 5.32 | 6.07 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/1243256814319232/permalink/1247604150551165) / [Mobile](https://m.facebook.com/events/1243256814319232?view=permalink&id=1247604150551165) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/222.md) | 60+ | <i class="flag flag-US" /> | 6.60 | 7.18 | 🥉 | [Desktop](https://www.facebook.com/events/1243256814319232/permalink/1252051353439778) / [Mobile](https://m.facebook.com/events/1243256814319232?view=permalink&id=1252051353439778) |
 
 #### [2026-01-05](../../results/2026-01-05/222.md)
@@ -20,7 +28,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/222.md) | 40+ | <i class="flag flag-FI" /> | 3.77 | 4.44 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/903150902238683/permalink/912467637973676) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=912467637973676) |
 | 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | 40+ | <i class="flag flag-VE" /> | 5.58 | 5.81 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/903150902238683/permalink/911014918118948) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=911014918118948) |
-| 3 | [Veronika Rose](../../persons/veronika_rose/222.md) | 40+ | | 5.14 | 6.73 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/903150902238683/permalink/905317868688653) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=905317868688653) |
+| 3 | [Veronika Rose](../../persons/veronika_rose/222.md) | 40+ | <i class="flag flag-SK" /> | 5.14 | 6.73 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/903150902238683/permalink/905317868688653) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=905317868688653) |
 
 #### [2025-12-22](../../results/2025-12-22/222.md)
 

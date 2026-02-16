@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### [Peter Osudar](README.md) - [2017OSUD01](https://www.worldcubeassociation.org/persons/2017OSUD01?event=sq1)
 
 <i class="flag flag-CA" />&nbsp;Canada

@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="/scw-comp/css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](/scw-comp/results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
 ### Toby Chamberlain - [2022CHAM03](https://www.worldcubeassociation.org/persons/2022CHAM03)
 
 <i class="flag flag-AU" />&nbsp;Australia
@@ -10,10 +10,10 @@
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [3x3x3](333.md) | 12.27 | 15.66 | 🏆 x 4 | 🥇 x 21, 🥈 x 43, 🥉 x 36 | 🔥 x 17, ⚡ x 16 |
+| [3x3x3](333.md) | 12.27 | 15.66 | 🏆 x 4 | 🥇 x 21, 🥈 x 43, 🥉 x 37 | 🔥 x 17, ⚡ x 16 |
 | [3x3x3 OH](333oh.md) | 31.42 | 43.83 |  | 🥈 x 12, 🥉 x 15 | 🔥 x 8, ⚡ x 4 |
-| [3x3x3 BLD](333bf.md) | 1:22.42 | 1:40.32 | 🏆 x 23 | 🥇 x 24, 🥈 x 30, 🥉 x 16 | 🔥 x 5, ⚡ x 13 |
-| [3x3x3 MBLD](333mbf.md) | 8/9 in 37:16 | - | 🏆 x 6 | 🥇 x 6, 🥈 x 12, 🥉 x 4 | ⚡ x 6 |
+| [3x3x3 BLD](333bf.md) | 1:22.42 | 1:40.32 | 🏆 x 23 | 🥇 x 24, 🥈 x 31, 🥉 x 16 | 🔥 x 5, ⚡ x 13 |
+| [3x3x3 MBLD](333mbf.md) | 8/9 in 37:16 | - | 🏆 x 7 | 🥇 x 7, 🥈 x 12, 🥉 x 4 | ⚡ x 6 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
