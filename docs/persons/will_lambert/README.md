@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 <link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### Will Lambert - [2018LAMB02](https://www.worldcubeassociation.org/persons/2018LAMB02)
 
 <i class="flag flag-GB" />&nbsp;United Kingdom

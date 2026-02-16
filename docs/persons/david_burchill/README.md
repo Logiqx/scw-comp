@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 <link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### David Burchill - [2020BURC01](https://www.worldcubeassociation.org/persons/2020BURC01)
 
 <i class="flag flag-CA" />&nbsp;Canada

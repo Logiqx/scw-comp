@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 <link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### Stephen Burson - [2025BURS02](https://www.worldcubeassociation.org/persons/2025BURS02)
 
 <i class="flag flag-US" />&nbsp;United States

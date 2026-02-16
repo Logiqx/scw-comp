@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 <link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### [Greg Simmons](README.md) - [2022SIMM01](https://www.worldcubeassociation.org/persons/2022SIMM01?event=clock)
 
 <i class="flag flag-GB" />&nbsp;United Kingdom

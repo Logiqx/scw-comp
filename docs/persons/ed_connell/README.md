@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 <link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### Ed Connell - [2018CONN04](https://www.worldcubeassociation.org/persons/2018CONN04)
 
 <i class="flag flag-IE" />&nbsp;Ireland

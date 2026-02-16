@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 <link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### [Yi-Wei Chen](README.md) - [2020CHEN34](https://www.worldcubeassociation.org/persons/2020CHEN34?event=minx)
 
 <i class="flag flag-TW" />&nbsp;Taiwan

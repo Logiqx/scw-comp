@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 <link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### [Mark Cordell](README.md) - [2022CORD03](https://www.worldcubeassociation.org/persons/2022CORD03?event=pyram)
 
 <i class="flag flag-US" />&nbsp;United States

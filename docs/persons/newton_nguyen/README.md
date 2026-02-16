@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 <link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### Newton Nguyen - [2019NGUY30](https://www.worldcubeassociation.org/persons/2019NGUY30)
 
 <i class="flag flag-CA" />&nbsp;Canada

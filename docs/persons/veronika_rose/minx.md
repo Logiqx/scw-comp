@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 <link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### [Veronika Rose](README.md) - [2024ROSE02](https://www.worldcubeassociation.org/persons/2024ROSE02?event=minx)
 
 <i class="flag flag-SK" />&nbsp;Slovakia

@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 <link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### Denis Reimer - [2016REIM01](https://www.worldcubeassociation.org/persons/2016REIM01)
 
 <i class="flag flag-CA" />&nbsp;Canada

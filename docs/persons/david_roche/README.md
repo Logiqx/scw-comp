@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 <link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### David Roche - [2014ROCH07](https://www.worldcubeassociation.org/persons/2014ROCH07)
 
 <i class="flag flag-AU" />&nbsp;Australia

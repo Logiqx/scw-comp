@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 <link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### Chris Wright - [2011WRIG01](https://www.worldcubeassociation.org/persons/2011WRIG01)
 
 <i class="flag flag-GB" />&nbsp;United Kingdom

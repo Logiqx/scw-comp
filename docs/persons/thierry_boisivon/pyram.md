@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 <link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### [Thierry Boisivon](README.md) - [2011BOIS01](https://www.worldcubeassociation.org/persons/2011BOIS01?event=pyram)
 
 <i class="flag flag-FR" />&nbsp;France

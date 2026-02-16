@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
 <link rel="stylesheet" type="text/css" href="../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### [Michael George](README.md) - [2015GEOR02](https://www.worldcubeassociation.org/persons/2015GEOR02?event=pyram)
 
 <i class="flag flag-GB" />&nbsp;United Kingdom
