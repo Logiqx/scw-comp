@@ -130,7 +130,7 @@
 
 <span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/333bf.md) 1:22.83</span>, <span style="white-space: nowrap;">🥈 [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) 1:29.74</span>, <span style="white-space: nowrap;">🥉 [Daniel Houghton](../../persons/daniel_houghton/333bf.md) 1:40.20</span>
 
-⚡ x 1 = <span style="white-space: nowrap;">[Veronika Rose](../../persons/veronika_rose/333bf.md) 2:09.30</span>
+⚡ x 2 = <span style="white-space: nowrap;">[Veronika Rose](../../persons/veronika_rose/333bf.md) 2:09.30</span>, <span style="white-space: nowrap;">[Stephen Burson](../../persons/stephen_burson/333bf.md) 2:57.11</span>
 
 #### [5x5x5 Blindfolded](555bf.md)
 
@@ -142,9 +142,11 @@
 
 #### [3x3x3 Multi-Blind](333mbf.md)
 
-<span style="white-space: nowrap;">🏆 [Toby Chamberlain](../../persons/toby_chamberlain/333mbf.md) 7/11 in 53:32</span>
+<span style="white-space: nowrap;">🏆 [Stephen Burson](../../persons/stephen_burson/333mbf.md) 6/7 in 58:25</span>
 
-<span style="white-space: nowrap;">🥇 [Toby Chamberlain](../../persons/toby_chamberlain/333mbf.md) 7/11 in 53:32</span>
+<span style="white-space: nowrap;">🥇 [Stephen Burson](../../persons/stephen_burson/333mbf.md) 6/7 in 58:25</span>, <span style="white-space: nowrap;">🥈 [Toby Chamberlain](../../persons/toby_chamberlain/333mbf.md) 7/11 in 53:32</span>
+
+⚡ x 1 = <span style="white-space: nowrap;">[Stephen Burson](../../persons/stephen_burson/333mbf.md) 6/7 in 58:25</span>
 
 #### [3x3x3 Fewest Moves](333fm.md)
 

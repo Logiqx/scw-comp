@@ -10,7 +10,8 @@
 
 | # | Name | Age | 🌍 | Single | Awards | Video |
 | :--: | :-- | :--: | :--: | :--: | :--: | :-- |
-| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 7/11 in 53:32 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3212043932427643/permalink/3217936575171712) / [Mobile](https://m.facebook.com/events/3212043932427643?view=permalink&id=3217936575171712) |
+| 1 | [Stephen Burson](../../persons/stephen_burson/333mbf.md) | 50+ | <i class="flag flag-US" /> | 6/7 in 58:25 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/3212043932427643/permalink/3223568741275162) / [Mobile](https://m.facebook.com/events/3212043932427643?view=permalink&id=3223568741275162) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333mbf.md) | 50+ | <i class="flag flag-AU" /> | 7/11 in 53:32 | 🥈 | [Desktop](https://www.facebook.com/events/3212043932427643/permalink/3217936575171712) / [Mobile](https://m.facebook.com/events/3212043932427643?view=permalink&id=3217936575171712) |
 
 #### [2026-01-19](../../results/2026-01-19/333mbf.md)
 
