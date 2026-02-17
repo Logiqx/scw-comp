@@ -1,7 +1,7 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="../css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../../css/flags.css" />
 
-## [Senior Cubers Worldwide - Weekly Comp Results](../results/)
+## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### Historical Archive
 #### Individuals
 Competitors - [3x3x3](../events/333/persons.md), [2x2x2](../events/222/persons.md), [4x4x4](../events/444/persons.md), [5x5x5](../events/555/persons.md), [6x6x6](../events/666/persons.md), [7x7x7](../events/777/persons.md), [OH](../events/333oh/persons.md), [Mega](../events/minx/persons.md), [Pyra](../events/pyram/persons.md), [Skewb](../events/skewb/persons.md), [Sq-1](../events/sq1/persons.md), [Clock](../events/clock/persons.md), [3BLD](../events/333bf/persons.md), [4BLD](../events/444bf/persons.md), [5BLD](../events/555bf/persons.md), [MBLD](../events/333mbf/persons.md), [FMC](../events/333fm/persons.md)

@@ -6,7 +6,7 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
-#### [2026-02-02](../../../results/2026-02-02/333oh.md)
+#### [2026-02-02](../../results/2026-02-02/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -14,7 +14,7 @@
 | 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333oh.md) | 40+ | <i class="flag flag-VE" /> | 33.44 | 43.87 | 🥈 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25470155709333768) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25470155709333768) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 36.80 | 48.99 | 🥉 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25499672219715450) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25499672219715450) |
 
-#### [2026-01-19](../../../results/2026-01-19/333oh.md)
+#### [2026-01-19](../../results/2026-01-19/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -22,7 +22,7 @@
 | 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333oh.md) | 40+ | <i class="flag flag-VE" /> | 35.74 | 38.95 | 🥈 | [Desktop](https://www.facebook.com/events/1243256814319232/permalink/1247067367271510) / [Mobile](https://m.facebook.com/events/1243256814319232?view=permalink&id=1247067367271510) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 39.85 | 44.18 | 🥉 | [Desktop](https://www.facebook.com/events/1243256814319232/permalink/1253028476675399) / [Mobile](https://m.facebook.com/events/1243256814319232?view=permalink&id=1253028476675399) |
 
-#### [2026-01-05](../../../results/2026-01-05/333oh.md)
+#### [2026-01-05](../../results/2026-01-05/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -30,7 +30,7 @@
 | 2 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 20.35 | 23.49 | 🥈 | [Desktop](https://www.facebook.com/events/903150902238683/permalink/912464441307329) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=912464441307329) |
 | 3 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333oh.md) | 40+ | <i class="flag flag-VE" /> | 31.83 | 36.44 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/903150902238683/permalink/911034041450369) / [Mobile](https://m.facebook.com/events/903150902238683?view=permalink&id=911034041450369) |
 
-#### [2025-12-22](../../../results/2025-12-22/333oh.md)
+#### [2025-12-22](../../results/2025-12-22/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -38,7 +38,7 @@
 | 2 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 21.60 | 26.76 | 🥈 | [Desktop](https://www.facebook.com/events/846491475035716/permalink/855159327502264) / [Mobile](https://m.facebook.com/events/846491475035716?view=permalink&id=855159327502264) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 32.35 | 47.13 | 🥉 | [Desktop](https://www.facebook.com/events/846491475035716/permalink/856005404084323) / [Mobile](https://m.facebook.com/events/846491475035716?view=permalink&id=856005404084323) |
 
-#### [2025-12-08](../../../results/2025-12-08/333oh.md)
+#### [2025-12-08](../../results/2025-12-08/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -46,14 +46,14 @@
 | 2 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 23.60 | 24.66 | 🥈 | [Desktop](https://www.facebook.com/events/1604758584053522/permalink/1613977716464942) / [Mobile](https://m.facebook.com/events/1604758584053522?view=permalink&id=1613977716464942) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 31.42 | 43.83 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1604758584053522/permalink/1612480009948046) / [Mobile](https://m.facebook.com/events/1604758584053522?view=permalink&id=1612480009948046) |
 
-#### [2025-11-24](../../../results/2025-11-24/333oh.md)
+#### [2025-11-24](../../results/2025-11-24/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 21.97 | 25.28 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1647450843305837/permalink/1655368875847367) / [Mobile](https://m.facebook.com/events/1647450843305837?view=permalink&id=1655368875847367) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 41.17 | 46.24 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/1647450843305837/permalink/1650336726350582) / [Mobile](https://m.facebook.com/events/1647450843305837?view=permalink&id=1650336726350582) |
 
-#### [2025-11-10](../../../results/2025-11-10/333oh.md)
+#### [2025-11-10](../../results/2025-11-10/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -61,7 +61,7 @@
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 51.17 | 57.86 | 🥈 | [Desktop](https://www.facebook.com/events/687883157732160/permalink/696087690245040) / [Mobile](https://m.facebook.com/events/687883157732160?view=permalink&id=696087690245040) |
 | 3 | [Kristina Lim](../../persons/kristina_lim/333oh.md) | 50+ | <i class="flag flag-US" /> | 57.54 | 1:09.84 | 🥉 | [Desktop](https://www.facebook.com/events/687883157732160/permalink/691564984030644) / [Mobile](https://m.facebook.com/events/687883157732160?view=permalink&id=691564984030644) |
 
-#### [2025-10-27](../../../results/2025-10-27/333oh.md)
+#### [2025-10-27](../../results/2025-10-27/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -69,7 +69,7 @@
 | 2 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 21.83 | 24.48 | 🥈 | [Desktop](https://www.facebook.com/events/787732707421464/permalink/790889087105826) / [Mobile](https://m.facebook.com/events/787732707421464?view=permalink&id=790889087105826) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 38.23 | 52.63 | 🥉 | [Desktop](https://www.facebook.com/events/787732707421464/permalink/797063643155037) / [Mobile](https://m.facebook.com/events/787732707421464?view=permalink&id=797063643155037) |
 
-#### [2025-10-13](../../../results/2025-10-13/333oh.md)
+#### [2025-10-13](../../results/2025-10-13/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -77,7 +77,7 @@
 | 2 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 20.94 | 22.74 | 🥈 💥 🔥 | [Desktop](https://www.facebook.com/events/1142683474629830/permalink/1145918420973002) / [Mobile](https://m.facebook.com/events/1142683474629830?view=permalink&id=1145918420973002) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 38.93 | 44.78 | 🥉 | [Desktop](https://www.facebook.com/events/1142683474629830/permalink/1146705654227612) / [Mobile](https://m.facebook.com/events/1142683474629830?view=permalink&id=1146705654227612) |
 
-#### [2025-09-29](../../../results/2025-09-29/333oh.md)
+#### [2025-09-29](../../results/2025-09-29/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -85,7 +85,7 @@
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 42.32 | 43.61 | 🥈 | [Desktop](https://www.facebook.com/events/3131653436983766/permalink/3148017875347322) / [Mobile](https://m.facebook.com/events/3131653436983766?view=permalink&id=3148017875347322) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 47.76 | 58.46 | 🥉 | [Desktop](https://www.facebook.com/events/3131653436983766/permalink/3141162622699514) / [Mobile](https://m.facebook.com/events/3131653436983766?view=permalink&id=3141162622699514) |
 
-#### [2025-09-15](../../../results/2025-09-15/333oh.md)
+#### [2025-09-15](../../results/2025-09-15/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -93,7 +93,7 @@
 | 2 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 22.85 | 24.52 | 🥈 | [Desktop](https://www.facebook.com/events/1678098952866203/permalink/1688373091838789) / [Mobile](https://m.facebook.com/events/1678098952866203?view=permalink&id=1688373091838789) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 51.07 | 1:13.79 | 🥉 | [Desktop](https://www.facebook.com/events/1678098952866203/permalink/1687624755246956) / [Mobile](https://m.facebook.com/events/1678098952866203?view=permalink&id=1687624755246956) |
 
-#### [2025-09-01](../../../results/2025-09-01/333oh.md)
+#### [2025-09-01](../../results/2025-09-01/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -101,7 +101,7 @@
 | 2 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 22.61 | 25.66 | 🥈 | [Desktop](https://www.facebook.com/events/674637162322812/permalink/683186664801195) / [Mobile](https://m.facebook.com/events/674637162322812?view=permalink&id=683186664801195) |
 | 3 | [Pete Lee](../../persons/pete_lee/333oh.md) | 40+ | <i class="flag flag-GB" /> | 59.41 | 1:05.99 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/674637162322812/permalink/681430194976842) / [Mobile](https://m.facebook.com/events/674637162322812?view=permalink&id=681430194976842) |
 
-#### [2025-08-18](../../../results/2025-08-18/333oh.md)
+#### [2025-08-18](../../results/2025-08-18/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -109,7 +109,7 @@
 | 2 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 19.97 | 23.66 | 🥈 | [Desktop](https://www.facebook.com/events/4098227200495459/permalink/4112292679088911) / [Mobile](https://m.facebook.com/events/4098227200495459?view=permalink&id=4112292679088911) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 40.54 | 42.33 | 🥉 | [Desktop](https://www.facebook.com/events/4098227200495459/permalink/4112086445776201) / [Mobile](https://m.facebook.com/events/4098227200495459?view=permalink&id=4112086445776201) |
 
-#### [2025-08-04](../../../results/2025-08-04/333oh.md)
+#### [2025-08-04](../../results/2025-08-04/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -117,7 +117,7 @@
 | 2 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 19.77 | 23.64 | 🥈 | [Desktop](https://www.facebook.com/events/1901314967391999/permalink/1913272142862948) / [Mobile](https://m.facebook.com/events/1901314967391999?view=permalink&id=1913272142862948) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 32.25 | 42.18 | 🥉 💥 ⚡ | [Desktop](https://www.facebook.com/events/1901314967391999/permalink/1912384119618417) / [Mobile](https://m.facebook.com/events/1901314967391999?view=permalink&id=1912384119618417) |
 
-#### [2025-07-21](../../../results/2025-07-21/333oh.md)
+#### [2025-07-21](../../results/2025-07-21/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -125,7 +125,7 @@
 | 2 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 22.46 | 25.75 | 🥈 | [Desktop](https://www.facebook.com/events/1261538608778309/permalink/1272149734383863) / [Mobile](https://m.facebook.com/events/1261538608778309?view=permalink&id=1272149734383863) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 32.64 | 45.09 | 🥉 💥 ⚡ | [Desktop](https://www.facebook.com/events/1261538608778309/permalink/1266895421575961) / [Mobile](https://m.facebook.com/events/1261538608778309?view=permalink&id=1266895421575961) |
 
-#### [2025-07-07](../../../results/2025-07-07/333oh.md)
+#### [2025-07-07](../../results/2025-07-07/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -133,14 +133,14 @@
 | 2 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 21.95 | 25.11 | 🥈 | [Desktop](https://www.facebook.com/events/1328488458860314/permalink/1338971457812014) / [Mobile](https://m.facebook.com/events/1328488458860314?view=permalink&id=1338971457812014) |
 | 3 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333oh.md) | 40+ | <i class="flag flag-VE" /> | 27.87 | 40.93 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1328488458860314/permalink/1338350664540760) / [Mobile](https://m.facebook.com/events/1328488458860314?view=permalink&id=1338350664540760) |
 
-#### [2025-06-23](../../../results/2025-06-23/333oh.md)
+#### [2025-06-23](../../results/2025-06-23/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 19.53 | 23.96 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/4134767840134485/permalink/4137758756502060) / [Mobile](https://m.facebook.com/events/4134767840134485?view=permalink&id=4137758756502060) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 49.59 | 49.82 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/4134767840134485/permalink/4145611895716746) / [Mobile](https://m.facebook.com/events/4134767840134485?view=permalink&id=4145611895716746) |
 
-#### [2025-06-09](../../../results/2025-06-09/333oh.md)
+#### [2025-06-09](../../results/2025-06-09/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -148,7 +148,7 @@
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 34.40 | 45.40 | 🥈 | [Desktop](https://www.facebook.com/events/947256517415436/permalink/955342689940152) / [Mobile](https://m.facebook.com/events/947256517415436?view=permalink&id=955342689940152) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 46.00 | 57.71 | 🥉 | [Desktop](https://www.facebook.com/events/947256517415436/permalink/952876443520110) / [Mobile](https://m.facebook.com/events/947256517415436?view=permalink&id=952876443520110) |
 
-#### [2025-05-26](../../../results/2025-05-26/333oh.md)
+#### [2025-05-26](../../results/2025-05-26/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -156,7 +156,7 @@
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 35.35 | 46.78 | 🥈 | [Desktop](https://www.facebook.com/events/2135590763616965/permalink/2146578769184831) / [Mobile](https://m.facebook.com/events/2135590763616965?view=permalink&id=2146578769184831) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 40.33 | 57.85 | 🥉 | [Desktop](https://www.facebook.com/events/2135590763616965/permalink/2145220359320672) / [Mobile](https://m.facebook.com/events/2135590763616965?view=permalink&id=2145220359320672) |
 
-#### [2025-05-12](../../../results/2025-05-12/333oh.md)
+#### [2025-05-12](../../results/2025-05-12/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -164,7 +164,7 @@
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 33.21 | 40.84 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1716950522530027/permalink/1723959008495845) / [Mobile](https://m.facebook.com/events/1716950522530027?view=permalink&id=1723959008495845) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 1:13.37 | 1:16.33 | 🥉 | [Desktop](https://www.facebook.com/events/1716950522530027/permalink/1726344774923935) / [Mobile](https://m.facebook.com/events/1716950522530027?view=permalink&id=1726344774923935) |
 
-#### [2025-04-28](../../../results/2025-04-28/333oh.md)
+#### [2025-04-28](../../results/2025-04-28/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -172,7 +172,7 @@
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 42.44 | 47.61 | 🥈 | [Desktop](https://www.facebook.com/events/1398919087967450/permalink/1406832233842802) / [Mobile](https://m.facebook.com/events/1398919087967450?view=permalink&id=1406832233842802) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 56.61 | 58.96 | 🥉 | [Desktop](https://www.facebook.com/events/1398919087967450/permalink/1404957430696949) / [Mobile](https://m.facebook.com/events/1398919087967450?view=permalink&id=1404957430696949) |
 
-#### [2025-04-14](../../../results/2025-04-14/333oh.md)
+#### [2025-04-14](../../results/2025-04-14/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -180,7 +180,7 @@
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 40.33 | 45.45 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/686757560572325/permalink/696687009579380) / [Mobile](https://m.facebook.com/events/686757560572325?view=permalink&id=696687009579380) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 48.45 | 1:01.79 | 🥉 | [Desktop](https://www.facebook.com/events/686757560572325/permalink/693248519923229) / [Mobile](https://m.facebook.com/events/686757560572325?view=permalink&id=693248519923229) |
 
-#### [2025-03-31](../../../results/2025-03-31/333oh.md)
+#### [2025-03-31](../../results/2025-03-31/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -188,7 +188,7 @@
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 41.52 | 50.42 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/952001183807395/permalink/962291929444987) / [Mobile](https://m.facebook.com/events/952001183807395?view=permalink&id=962291929444987) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 45.01 | 56.76 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/952001183807395/permalink/956383386702508) / [Mobile](https://m.facebook.com/events/952001183807395?view=permalink&id=956383386702508) |
 
-#### [2025-03-17](../../../results/2025-03-17/333oh.md)
+#### [2025-03-17](../../results/2025-03-17/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -196,7 +196,7 @@
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 49.92 | 52.76 | 🥈 💥 🔥 | [Desktop](https://www.facebook.com/events/4062322140668303/permalink/4076124949288022) / [Mobile](https://m.facebook.com/events/4062322140668303?view=permalink&id=4076124949288022) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 51.57 | 57.85 | 🥉 | [Desktop](https://www.facebook.com/events/4062322140668303/permalink/4070447036522480) / [Mobile](https://m.facebook.com/events/4062322140668303?view=permalink&id=4070447036522480) |
 
-#### [2025-03-03](../../../results/2025-03-03/333oh.md)
+#### [2025-03-03](../../results/2025-03-03/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -204,7 +204,7 @@
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 41.39 | 47.16 | 🥈 | [Desktop](https://www.facebook.com/events/1685594042052171/permalink/1694378264507082) / [Mobile](https://m.facebook.com/events/1685594042052171?view=permalink&id=1694378264507082) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 48.41 | 55.99 | 🥉 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1685594042052171/permalink/1694350531176522) / [Mobile](https://m.facebook.com/events/1685594042052171?view=permalink&id=1694350531176522) |
 
-#### [2025-02-17](../../../results/2025-02-17/333oh.md)
+#### [2025-02-17](../../results/2025-02-17/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -212,7 +212,7 @@
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 37.32 | 57.11 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1147070173669130/permalink/1153117319731082) / [Mobile](https://m.facebook.com/events/1147070173669130?view=permalink&id=1153117319731082) |
 | 3 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 52.39 | 1:05.92 | 🥉 | [Desktop](https://www.facebook.com/766997877/videos/661233499901007) / [Mobile](https://m.facebook.com/766997877/videos/661233499901007) |
 
-#### [2025-02-03](../../../results/2025-02-03/333oh.md)
+#### [2025-02-03](../../results/2025-02-03/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -220,56 +220,56 @@
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 59.67 | 1:03.29 | 🥈 | [Desktop](https://www.facebook.com/events/595481126781396/permalink/603971615932347) / [Mobile](https://m.facebook.com/events/595481126781396?view=permalink&id=603971615932347) |
 | 3 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 55.35 | 1:05.48 | 🥉 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/595481126781396/permalink/606073822388793) / [Mobile](https://m.facebook.com/events/595481126781396?view=permalink&id=606073822388793) |
 
-#### [2025-01-20](../../../results/2025-01-20/333oh.md)
+#### [2025-01-20](../../results/2025-01-20/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 21.00 | 29.90 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/972164667625124) / [Mobile](https://m.facebook.com/745394767/videos/972164667625124) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 53.28 | 1:04.45 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/918940140419097/permalink/927437826235995) / [Mobile](https://m.facebook.com/events/918940140419097?view=permalink&id=927437826235995) |
 
-#### [2025-01-06](../../../results/2025-01-06/333oh.md)
+#### [2025-01-06](../../results/2025-01-06/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 20.15 | 25.96 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/929599922647539) / [Mobile](https://m.facebook.com/745394767/videos/929599922647539) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 1:01.69 | 1:08.34 | 🥈 | [Desktop](https://www.facebook.com/events/595415366757855/permalink/604321365867255) / [Mobile](https://m.facebook.com/events/595415366757855?view=permalink&id=604321365867255) |
 
-#### [2024-12-23](../../../results/2024-12-23/333oh.md)
+#### [2024-12-23](../../results/2024-12-23/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 23.78 | 27.10 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/9099838380077237) / [Mobile](https://m.facebook.com/745394767/videos/9099838380077237) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 57.99 | 1:01.60 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/1148887196801084/permalink/1157524855937318) / [Mobile](https://m.facebook.com/events/1148887196801084?view=permalink&id=1157524855937318) |
 
-#### [2024-12-09](../../../results/2024-12-09/333oh.md)
+#### [2024-12-09](../../results/2024-12-09/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 25.73 | 27.93 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/485362227368304) / [Mobile](https://m.facebook.com/745394767/videos/485362227368304) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 58.43 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/984530303534896/permalink/993662315955028) / [Mobile](https://m.facebook.com/events/984530303534896?view=permalink&id=993662315955028) |
 
-#### [2024-11-25](../../../results/2024-11-25/333oh.md)
+#### [2024-11-25](../../results/2024-11-25/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 21.81 | 26.84 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/745394767/videos/590803206790061) / [Mobile](https://m.facebook.com/745394767/videos/590803206790061) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 1:08.64 | 1:16.44 | 🥈 | [Desktop](https://www.facebook.com/events/1257789925369732/permalink/1264025031412888) / [Mobile](https://m.facebook.com/events/1257789925369732?view=permalink&id=1264025031412888) |
 
-#### [2024-11-11](../../../results/2024-11-11/333oh.md)
+#### [2024-11-11](../../results/2024-11-11/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 25.01 | 28.77 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/493249437074678) / [Mobile](https://m.facebook.com/745394767/videos/493249437074678) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 59.98 | 1:08.46 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/1967492723733489/permalink/1975552226260872) / [Mobile](https://m.facebook.com/events/1967492723733489?view=permalink&id=1975552226260872) |
 
-#### [2024-10-28](../../../results/2024-10-28/333oh.md)
+#### [2024-10-28](../../results/2024-10-28/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 23.23 | 24.50 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/1192364798523876) / [Mobile](https://m.facebook.com/745394767/videos/1192364798523876) |
 | 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 1:09.69 | 1:19.14 | 🥈 | [Desktop](https://www.facebook.com/events/946695540632554/permalink/955027746466000) / [Mobile](https://m.facebook.com/events/946695540632554?view=permalink&id=955027746466000) |
 
-#### [2024-10-14](../../../results/2024-10-14/333oh.md)
+#### [2024-10-14](../../results/2024-10-14/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -277,7 +277,7 @@
 | 2 | [Eric Dodson](../../persons/eric_dodson/333oh.md) | 50+ | <i class="flag flag-US" /> | 44.71 | 1:10.02 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/892899002359105/permalink/902201364762202) / [Mobile](https://m.facebook.com/events/892899002359105?view=permalink&id=902201364762202) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 1:04.79 | 1:17.89 | 🥉 | [Desktop](https://www.facebook.com/events/892899002359105/permalink/900581071590898) / [Mobile](https://m.facebook.com/events/892899002359105?view=permalink&id=900581071590898) |
 
-#### [2024-09-30](../../../results/2024-09-30/333oh.md)
+#### [2024-09-30](../../results/2024-09-30/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -285,7 +285,7 @@
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 40.50 | 55.05 | 🥈 | [Desktop](https://www.facebook.com/events/559779533112258/permalink/567561295667415) / [Mobile](https://m.facebook.com/events/559779533112258?view=permalink&id=567561295667415) |
 | 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 54.03 | 1:12.85 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/559779533112258/permalink/568968378860040) / [Mobile](https://m.facebook.com/events/559779533112258?view=permalink&id=568968378860040) |
 
-#### [2024-09-16](../../../results/2024-09-16/333oh.md)
+#### [2024-09-16](../../results/2024-09-16/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -293,28 +293,28 @@
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 45.79 | 52.89 | 🥈 | [Desktop](https://www.facebook.com/events/1432335554111064/permalink/1440373326640620) / [Mobile](https://m.facebook.com/events/1432335554111064?view=permalink&id=1440373326640620) |
 | 3 | [Eric Dodson](../../persons/eric_dodson/333oh.md) | 50+ | <i class="flag flag-US" /> | 58.37 | 1:05.04 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1432335554111064/permalink/1433807130630573) / [Mobile](https://m.facebook.com/events/1432335554111064?view=permalink&id=1433807130630573) |
 
-#### [2024-09-02](../../../results/2024-09-02/333oh.md)
+#### [2024-09-02](../../results/2024-09-02/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 25.24 | 27.11 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/843370041113574) / [Mobile](https://m.facebook.com/745394767/videos/843370041113574) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 40.96 | 54.28 | 🥈 | [Desktop](https://www.facebook.com/events/536643418925945/permalink/546077101315910) / [Mobile](https://m.facebook.com/events/536643418925945?view=permalink&id=546077101315910) |
 
-#### [2024-08-19](../../../results/2024-08-19/333oh.md)
+#### [2024-08-19](../../results/2024-08-19/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 24.49 | 29.50 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/1675794166530041) / [Mobile](https://m.facebook.com/745394767/videos/1675794166530041) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 44.00 | 56.39 | 🥈 | [Desktop](https://www.facebook.com/events/1156782986175552/permalink/1165196502000867) / [Mobile](https://m.facebook.com/events/1156782986175552?view=permalink&id=1165196502000867) |
 
-#### [2024-08-05](../../../results/2024-08-05/333oh.md)
+#### [2024-08-05](../../results/2024-08-05/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 26.74 | 31.21 | 🏆 🥇 | [Desktop](https://www.facebook.com/745394767/videos/880587087288975) / [Mobile](https://m.facebook.com/745394767/videos/880587087288975) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 48.35 | 53.22 | 🥈 | [Desktop](https://www.facebook.com/events/1659713531529180/permalink/1666021560898377) / [Mobile](https://m.facebook.com/events/1659713531529180?view=permalink&id=1666021560898377) |
 
-#### [2024-07-22](../../../results/2024-07-22/333oh.md)
+#### [2024-07-22](../../results/2024-07-22/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -322,13 +322,13 @@
 | 2 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 34.29 | 38.10 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/909767637577126/permalink/916378293582727) / [Mobile](https://m.facebook.com/events/909767637577126?view=permalink&id=916378293582727) |
 | 3 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 53.15 | 59.65 | 🥉 | [Desktop](https://www.facebook.com/events/909767637577126/permalink/918843796669510) / [Mobile](https://m.facebook.com/events/909767637577126?view=permalink&id=918843796669510) |
 
-#### [2024-07-08](../../../results/2024-07-08/333oh.md)
+#### [2024-07-08](../../results/2024-07-08/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 23.33 | 29.48 | 🏆 🥇 💥 🔥 | [Desktop](https://www.facebook.com/745394767/videos/1624176771485453) / [Mobile](https://m.facebook.com/745394767/videos/1624176771485453) |
 
-#### [2024-06-24](../../../results/2024-06-24/333oh.md)
+#### [2024-06-24](../../results/2024-06-24/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -336,20 +336,20 @@
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 40.59 | 53.66 | 🥈 | [Desktop](https://www.facebook.com/events/437464695833920/permalink/445836621663394) / [Mobile](https://m.facebook.com/events/437464695833920?view=permalink&id=445836621663394) |
 | 3 | [Kristina Lim](../../persons/kristina_lim/333oh.md) | 50+ | <i class="flag flag-US" /> | 1:11.70 | 1:21.25 | 🥉 | [Desktop](https://www.facebook.com/1045330593/videos/262141633654008) / [Mobile](https://m.facebook.com/1045330593/videos/262141633654008) |
 
-#### [2024-06-10](../../../results/2024-06-10/333oh.md)
+#### [2024-06-10](../../results/2024-06-10/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 51.04 | 1:00.73 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1031082051776253/permalink/1038235244394267) / [Mobile](https://m.facebook.com/events/1031082051776253?view=permalink&id=1038235244394267) |
 
-#### [2024-05-27](../../../results/2024-05-27/333oh.md)
+#### [2024-05-27](../../results/2024-05-27/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 35.40 | 1:07.24 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/838099921518555/permalink/845704680758079) / [Mobile](https://m.facebook.com/events/838099921518555?view=permalink&id=845704680758079) |
 | 2 | [Kristina Lim](../../persons/kristina_lim/333oh.md) | 50+ | <i class="flag flag-US" /> | 55.39 | 1:13.48 | 🥈 | [Desktop](https://www.facebook.com/1045330593/videos/1185149402684071) / [Mobile](https://m.facebook.com/1045330593/videos/1185149402684071) |
 
-#### [2024-05-13](../../../results/2024-05-13/333oh.md)
+#### [2024-05-13](../../results/2024-05-13/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -357,14 +357,14 @@
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 54.47 | 56.96 | 🥈 | [Desktop](https://www.facebook.com/events/800074235387553/permalink/807555221306121) / [Mobile](https://m.facebook.com/events/800074235387553?view=permalink&id=807555221306121) |
 | 3 | [Eric Dodson](../../persons/eric_dodson/333oh.md) | 50+ | <i class="flag flag-US" /> | 1:01.74 | 1:15.78 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/800074235387553/permalink/802247758503534) / [Mobile](https://m.facebook.com/events/800074235387553?view=permalink&id=802247758503534) |
 
-#### [2024-04-29](../../../results/2024-04-29/333oh.md)
+#### [2024-04-29](../../results/2024-04-29/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 52.43 | 1:02.67 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/728652622517739/permalink/735863601796641) / [Mobile](https://m.facebook.com/events/728652622517739?view=permalink&id=735863601796641) |
 | 2 | [Kristina Lim](../../persons/kristina_lim/333oh.md) | 50+ | <i class="flag flag-US" /> | 1:16.31 | 1:37.01 | 🥈 | [Desktop](https://www.facebook.com/1045330593/videos/463586986137355) / [Mobile](https://m.facebook.com/1045330593/videos/463586986137355) |
 
-#### [2024-04-15](../../../results/2024-04-15/333oh.md)
+#### [2024-04-15](../../results/2024-04-15/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -372,7 +372,7 @@
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 46.54 | 54.29 | 🥈 | [Desktop](https://www.facebook.com/events/288128664385253/permalink/303075726223880) / [Mobile](https://m.facebook.com/events/288128664385253?view=permalink&id=303075726223880) |
 | 3 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 54.16 | 1:00.35 | 🥉 | [Desktop](https://www.facebook.com/766997877/videos/1416131506452908) / [Mobile](https://m.facebook.com/766997877/videos/1416131506452908) |
 
-#### [2024-04-01](../../../results/2024-04-01/333oh.md)
+#### [2024-04-01](../../results/2024-04-01/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -380,13 +380,13 @@
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 45.03 | 51.58 | 🥈 | [Desktop](https://www.facebook.com/events/399816879472850/permalink/407950051992866) / [Mobile](https://m.facebook.com/events/399816879472850?view=permalink&id=407950051992866) |
 | 3 | [Dan Smith](../../persons/dan_smith/333oh.md) | 50+ | <i class="flag flag-US" /> | 1:33.52 | 1:41.84 | 🥉 | [Desktop](https://www.facebook.com/events/399816879472850/permalink/406328795488325) / [Mobile](https://m.facebook.com/events/399816879472850?view=permalink&id=406328795488325) |
 
-#### [2024-03-18](../../../results/2024-03-18/333oh.md)
+#### [2024-03-18](../../results/2024-03-18/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 39.62 | 51.78 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/962609138892132/permalink/968608821625497) / [Mobile](https://m.facebook.com/events/962609138892132?view=permalink&id=968608821625497) |
 
-#### [2024-03-04](../../../results/2024-03-04/333oh.md)
+#### [2024-03-04](../../results/2024-03-04/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -394,7 +394,7 @@
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 45.02 | 48.44 | 🥈 | [Desktop](https://www.facebook.com/events/682023687232856/permalink/688412946593930) / [Mobile](https://m.facebook.com/events/682023687232856?view=permalink&id=688412946593930) |
 | 3 | [Dan Smith](../../persons/dan_smith/333oh.md) | 50+ | <i class="flag flag-US" /> | 1:25.60 | 1:35.59 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/682023687232856/permalink/686517930116765) / [Mobile](https://m.facebook.com/events/682023687232856?view=permalink&id=686517930116765) |
 
-#### [2024-02-19](../../../results/2024-02-19/333oh.md)
+#### [2024-02-19](../../results/2024-02-19/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -402,144 +402,144 @@
 | 2 | [Ed Connell](../../persons/ed_connell/333oh.md) | 40+ | <i class="flag flag-IE" /> | 38.16 | 42.27 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/947093233792978/permalink/951338770035091) / [Mobile](https://m.facebook.com/events/947093233792978?view=permalink&id=951338770035091) |
 | 3 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 36.60 | 46.06 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/947093233792978/permalink/954110076424627) / [Mobile](https://m.facebook.com/events/947093233792978?view=permalink&id=954110076424627) |
 
-#### [2024-02-05](../../../results/2024-02-05/333oh.md)
+#### [2024-02-05](../../results/2024-02-05/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 37.14 | 50.51 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/3090201184445880/permalink/3102057519926913) / [Mobile](https://m.facebook.com/events/3090201184445880?view=permalink&id=3102057519926913) |
 | 2 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 42.68 | 50.93 | 🥈 🔥 | [Desktop](https://www.facebook.com/766997877/videos/707552584903185) / [Mobile](https://m.facebook.com/766997877/videos/707552584903185) |
 
-#### [2024-01-22](../../../results/2024-01-22/333oh.md)
+#### [2024-01-22](../../results/2024-01-22/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 52.81 | 57.35 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1080083269860734/permalink/1087712065764521) / [Mobile](https://m.facebook.com/events/1080083269860734?view=permalink&id=1087712065764521) |
 | 2 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 46.48 | 59.65 | 🥈 | [Desktop](https://www.facebook.com/766997877/videos/7477458108940406) / [Mobile](https://m.facebook.com/766997877/videos/7477458108940406) |
 
-#### [2024-01-08](../../../results/2024-01-08/333oh.md)
+#### [2024-01-08](../../results/2024-01-08/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 56.34 | 1:05.48 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1278843609453417/permalink/1285978828739895) / [Mobile](https://m.facebook.com/events/1278843609453417?view=permalink&id=1285978828739895) |
 
-#### [2023-12-25](../../../results/2023-12-25/333oh.md)
+#### [2023-12-25](../../results/2023-12-25/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 49.40 | 59.72 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/231087383363053/permalink/238472115957913) / [Mobile](https://m.facebook.com/events/231087383363053?view=permalink&id=238472115957913) |
 
-#### [2023-12-11](../../../results/2023-12-11/333oh.md)
+#### [2023-12-11](../../results/2023-12-11/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 49.20 | 57.37 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1404140403643629/permalink/1409732539751082) / [Mobile](https://m.facebook.com/events/1404140403643629?view=permalink&id=1409732539751082) |
 
-#### [2023-11-27](../../../results/2023-11-27/333oh.md)
+#### [2023-11-27](../../results/2023-11-27/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 38.05 | 40.93 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/889636606027860/permalink/895705065421014) / [Mobile](https://m.facebook.com/events/889636606027860?view=permalink&id=895705065421014) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 47.17 | 52.03 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/889636606027860/permalink/896946988630155) / [Mobile](https://m.facebook.com/events/889636606027860?view=permalink&id=896946988630155) |
 
-#### [2023-11-13](../../../results/2023-11-13/333oh.md)
+#### [2023-11-13](../../results/2023-11-13/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 58.40 | 1:04.10 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1478121449586426/permalink/1485376642194240) / [Mobile](https://m.facebook.com/events/1478121449586426?view=permalink&id=1485376642194240) |
 | 2 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/333oh.md) | 40+ | <i class="flag flag-GB" /> | 1:11.28 | 1:34.62 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/536706331/videos/360481576347821) / [Mobile](https://m.facebook.com/536706331/videos/360481576347821) |
 
-#### [2023-10-16](../../../results/2023-10-16/333oh.md)
+#### [2023-10-16](../../results/2023-10-16/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 1:01.49 | 1:02.08 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1058362692072125/permalink/1064790451429349) / [Mobile](https://m.facebook.com/events/1058362692072125?view=permalink&id=1064790451429349) |
 
-#### [2023-10-02](../../../results/2023-10-02/333oh.md)
+#### [2023-10-02](../../results/2023-10-02/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 56.32 | 1:02.71 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1518773368939011/permalink/1526198318196516) / [Mobile](https://m.facebook.com/events/1518773368939011?view=permalink&id=1526198318196516) |
 
 
-#### [2023-08-21](../../../results/2023-08-21/333oh.md)
+#### [2023-08-21](../../results/2023-08-21/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 38.98 | 52.41 | 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1826888371060368/permalink/1834332873649251) / [Mobile](https://m.facebook.com/events/1826888371060368?view=permalink&id=1834332873649251) |
 
-#### [2023-08-07](../../../results/2023-08-07/333oh.md)
+#### [2023-08-07](../../results/2023-08-07/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 55.89 | 58.10 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/274987855148595/permalink/281327181181329) / [Mobile](https://m.facebook.com/events/274987855148595?view=permalink&id=281327181181329) |
 | 2 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 42.22 | 1:14.76 | 🥈 | [Desktop](https://www.facebook.com/766997877/videos/190815683824726) / [Mobile](https://m.facebook.com/766997877/videos/190815683824726) |
 
-#### [2023-07-24](../../../results/2023-07-24/333oh.md)
+#### [2023-07-24](../../results/2023-07-24/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 1:01.29 | 1:06.16 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1475111463308788/permalink/1480877816065486) / [Mobile](https://m.facebook.com/events/1475111463308788?view=permalink&id=1480877816065486) |
 
-#### [2023-07-10](../../../results/2023-07-10/333oh.md)
+#### [2023-07-10](../../results/2023-07-10/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 48.75 | 1:00.53 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/198208716234931/permalink/203284699060666) / [Mobile](https://m.facebook.com/events/198208716234931?view=permalink&id=203284699060666) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 56.90 | 1:03.80 | 🥈 | [Desktop](https://www.facebook.com/events/198208716234931/permalink/204176955638107) / [Mobile](https://m.facebook.com/events/198208716234931?view=permalink&id=204176955638107) |
 
-#### [2023-06-26](../../../results/2023-06-26/333oh.md)
+#### [2023-06-26](../../results/2023-06-26/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 37.11 | 45.53 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/205496442461873/permalink/215493048128879) / [Mobile](https://m.facebook.com/events/205496442461873?view=permalink&id=215493048128879) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 48.22 | 52.28 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/205496442461873/permalink/214338338244350) / [Mobile](https://m.facebook.com/events/205496442461873?view=permalink&id=214338338244350) |
 
-#### [2023-06-12](../../../results/2023-06-12/333oh.md)
+#### [2023-06-12](../../results/2023-06-12/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 54.99 | 58.31 | 🥇 | [Desktop](https://www.facebook.com/events/2098018943739146/permalink/2105972019610505) / [Mobile](https://m.facebook.com/events/2098018943739146?view=permalink&id=2105972019610505) |
 
-#### [2023-05-29](../../../results/2023-05-29/333oh.md)
+#### [2023-05-29](../../results/2023-05-29/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 1:10.06 | 1:13.92 | 🏆 🥇 | [Desktop](https://www.facebook.com/766997877/videos/1346573782567010) / [Mobile](https://m.facebook.com/766997877/videos/1346573782567010) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 1:00.15 | 1:20.32 | 🥈 | [Desktop](https://www.facebook.com/events/199553879662923/permalink/208516775433300) / [Mobile](https://m.facebook.com/events/199553879662923?view=permalink&id=208516775433300) |
 
-#### [2023-05-15](../../../results/2023-05-15/333oh.md)
+#### [2023-05-15](../../results/2023-05-15/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 37.95 | 42.96 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/943848890264789/permalink/945354593447552) / [Mobile](https://m.facebook.com/events/943848890264789?view=permalink&id=945354593447552) |
 
-#### [2023-05-01](../../../results/2023-05-01/333oh.md)
+#### [2023-05-01](../../results/2023-05-01/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 49.22 | 53.06 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/766997877/videos/618431099978313) / [Mobile](https://m.facebook.com/766997877/videos/618431099978313) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 57.52 | 1:08.06 | 🥈 | [Desktop](https://www.facebook.com/events/751816416413742/permalink/759466758982041) / [Mobile](https://m.facebook.com/events/751816416413742?view=permalink&id=759466758982041) |
 
-#### [2023-04-17](../../../results/2023-04-17/333oh.md)
+#### [2023-04-17](../../results/2023-04-17/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 57.83 | 1:06.48 | 🏆 🥇 | [Desktop](https://www.facebook.com/766997877/videos/1448595189266065) / [Mobile](https://m.facebook.com/766997877/videos/1448595189266065) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 1:08.70 | 1:16.25 | 🥈 | [Desktop](https://www.facebook.com/events/786804792820217/permalink/793137612186935) / [Mobile](https://m.facebook.com/events/786804792820217?view=permalink&id=793137612186935) |
 
-#### [2023-04-03](../../../results/2023-04-03/333oh.md)
+#### [2023-04-03](../../results/2023-04-03/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 51.16 | 56.48 | 🏆 🥇 | [Desktop](https://www.facebook.com/766997877/videos/892852438468816) / [Mobile](https://m.facebook.com/766997877/videos/892852438468816) |
 
-#### [2023-03-20](../../../results/2023-03-20/333oh.md)
+#### [2023-03-20](../../results/2023-03-20/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 52.46 | 55.53 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/766997877/videos/205115275479129) / [Mobile](https://m.facebook.com/766997877/videos/205115275479129) |
 
-#### [2023-03-06](../../../results/2023-03-06/333oh.md)
+#### [2023-03-06](../../results/2023-03-06/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -547,7 +547,7 @@
 | 2 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 39.37 | 56.08 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/766997877/videos/596742045393926) / [Mobile](https://m.facebook.com/766997877/videos/596742045393926) |
 | 3 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 56.65 | 1:07.33 | 🥉 | [Desktop](https://www.facebook.com/events/229553919432988/permalink/236266425428404) / [Mobile](https://m.facebook.com/events/229553919432988?view=permalink&id=236266425428404) |
 
-#### [2023-02-20](../../../results/2023-02-20/333oh.md)
+#### [2023-02-20](../../results/2023-02-20/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -555,14 +555,14 @@
 | 2 | [Gordon Holey](../../persons/gordon_holey/333oh.md) | 40+ | <i class="flag flag-US" /> | 50.63 | 1:04.01 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/569225115154363/permalink/574075991335942) / [Mobile](https://m.facebook.com/events/569225115154363?view=permalink&id=574075991335942) |
 
 
-#### [2023-01-23](../../../results/2023-01-23/333oh.md)
+#### [2023-01-23](../../results/2023-01-23/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 39.94 | 42.22 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/492735749600024/permalink/498513339022265) / [Mobile](https://m.facebook.com/events/492735749600024?view=permalink&id=498513339022265) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 43.91 | 1:02.13 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/492735749600024/permalink/500755655464700) / [Mobile](https://m.facebook.com/events/492735749600024?view=permalink&id=500755655464700) |
 
-#### [2023-01-09](../../../results/2023-01-09/333oh.md)
+#### [2023-01-09](../../results/2023-01-09/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -570,58 +570,58 @@
 | 2 | [Jo Cocco](../../persons/jo_cocco/333oh.md) | 40+ | <i class="flag flag-GB" /> | 51.56 | 58.18 | 🥈 🔥 | [Desktop](https://www.facebook.com/JoCocco/videos/550202553502142) / [Mobile](https://m.facebook.com/JoCocco/videos/550202553502142) |
 | 3 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 58.14 | 1:06.86 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/4054783058080417/permalink/4067704156788307) / [Mobile](https://m.facebook.com/events/4054783058080417?view=permalink&id=4067704156788307) |
 
-#### [2022-12-26](../../../results/2022-12-26/333oh.md)
+#### [2022-12-26](../../results/2022-12-26/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 36.77 | 44.10 | 🥇 | [Desktop](https://www.facebook.com/events/563573978559176/permalink/568904041359503) / [Mobile](https://m.facebook.com/events/563573978559176?view=permalink&id=568904041359503) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 1:06.34 | 1:12.49 | 🥈 | [Desktop](https://www.facebook.com/events/563573978559176/permalink/571397951110112) / [Mobile](https://m.facebook.com/events/563573978559176?view=permalink&id=571397951110112) |
 
-#### [2022-12-12](../../../results/2022-12-12/333oh.md)
+#### [2022-12-12](../../results/2022-12-12/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 38.37 | 49.58 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1263750814207978/permalink/1268753770374349) / [Mobile](https://m.facebook.com/events/1263750814207978?view=permalink&id=1268753770374349) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 1:07.19 | 1:09.59 | 🥈 | [Desktop](https://www.facebook.com/events/1263750814207978/permalink/1274055616510831) / [Mobile](https://m.facebook.com/events/1263750814207978?view=permalink&id=1274055616510831) |
 
-#### [2022-11-28](../../../results/2022-11-28/333oh.md)
+#### [2022-11-28](../../results/2022-11-28/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 37.38 | 47.71 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1541409726309933/permalink/1550307698753469) / [Mobile](https://m.facebook.com/events/1541409726309933?view=permalink&id=1550307698753469) |
 
-#### [2022-11-14](../../../results/2022-11-14/333oh.md)
+#### [2022-11-14](../../results/2022-11-14/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 1:00.52 | 1:18.92 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/5802707333170226/permalink/5842827969158162) / [Mobile](https://m.facebook.com/events/5802707333170226?view=permalink&id=5842827969158162) |
 
-#### [2022-10-31](../../../results/2022-10-31/333oh.md)
+#### [2022-10-31](../../results/2022-10-31/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 36.15 | 42.89 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/536496438309051/permalink/539681337990561) / [Mobile](https://m.facebook.com/events/536496438309051?view=permalink&id=539681337990561) |
 | 2 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 1:06.82 | 1:08.85 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/536496438309051/permalink/540845154540846) / [Mobile](https://m.facebook.com/events/536496438309051?view=permalink&id=540845154540846) |
 
-#### [2022-10-17](../../../results/2022-10-17/333oh.md)
+#### [2022-10-17](../../results/2022-10-17/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 1:17.21 | 1:29.88 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3406415112938858/permalink/3416934985220204) / [Mobile](https://m.facebook.com/events/3406415112938858?view=permalink&id=3416934985220204) |
 
-#### [2022-10-03](../../../results/2022-10-03/333oh.md)
+#### [2022-10-03](../../results/2022-10-03/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 40+ | <i class="flag flag-US" /> | 1:01.33 | 1:09.37 | 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1113163972925182/permalink/1118933459014900) / [Mobile](https://m.facebook.com/events/1113163972925182?view=permalink&id=1118933459014900) |
 
-#### [2022-09-19](../../../results/2022-09-19/333oh.md)
+#### [2022-09-19](../../results/2022-09-19/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Jo Cocco](../../persons/jo_cocco/333oh.md) | 40+ | <i class="flag flag-GB" /> | 45.79 | 1:04.22 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/JoCocco/videos/654198549394467) / [Mobile](https://m.facebook.com/JoCocco/videos/654198549394467) |
 
-#### [2022-08-22](../../../results/2022-08-22/333oh.md)
+#### [2022-08-22](../../results/2022-08-22/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -629,13 +629,13 @@
 
 
 
-#### [2022-06-27](../../../results/2022-06-27/333oh.md)
+#### [2022-06-27](../../results/2022-06-27/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Jo Cocco](../../persons/jo_cocco/333oh.md) | 40+ | <i class="flag flag-GB" /> | 1:02.55 | 1:20.06 | 🥇 ⚡ | [Desktop](https://www.facebook.com/JoCocco/videos/1418846161926841) / [Mobile](https://m.facebook.com/JoCocco/videos/1418846161926841) |
 
-#### [2022-06-13](../../../results/2022-06-13/333oh.md)
+#### [2022-06-13](../../results/2022-06-13/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -647,60 +647,60 @@
 
 
 
-#### [2022-02-07](../../../results/2022-02-07/333oh.md)
+#### [2022-02-07](../../results/2022-02-07/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 60+ | <i class="flag flag-CA" /> | 1:44.59 | DNF | 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/622712395/videos/pcb.1016259075658167/5192281770805320) / [Mobile](https://m.facebook.com/622712395/videos/pcb.1016259075658167/5192281770805320) |
 
-#### [2022-01-24](../../../results/2022-01-24/333oh.md)
+#### [2022-01-24](../../results/2022-01-24/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 23.32 | 24.13 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1729699367421612/permalink/1739977666393782) / [Mobile](https://m.facebook.com/events/1729699367421612?view=permalink&id=1739977666393782) |
 
 
-#### [2021-12-27](../../../results/2021-12-27/333oh.md)
+#### [2021-12-27](../../results/2021-12-27/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 19.73 | 22.97 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/343359980546742/permalink/350647106484696) / [Mobile](https://m.facebook.com/events/343359980546742?view=permalink&id=350647106484696) |
 | 2 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 29.21 | 36.56 | 🥈 | [Desktop](https://www.facebook.com/events/343359980546742/permalink/350636589819081) / [Mobile](https://m.facebook.com/events/343359980546742?view=permalink&id=350636589819081) |
 
-#### [2021-12-13](../../../results/2021-12-13/333oh.md)
+#### [2021-12-13](../../results/2021-12-13/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 20.23 | 21.15 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/273334328175697/permalink/282135433962253) / [Mobile](https://m.facebook.com/events/273334328175697?view=permalink&id=282135433962253) |
 | 2 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 30.54 | 31.79 | 🥈 | [Desktop](https://www.facebook.com/events/273334328175697/permalink/282073040635159) / [Mobile](https://m.facebook.com/events/273334328175697?view=permalink&id=282073040635159) |
 
-#### [2021-11-29](../../../results/2021-11-29/333oh.md)
+#### [2021-11-29](../../results/2021-11-29/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 21.84 | 23.09 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/401731615009477/permalink/410531024129536) / [Mobile](https://m.facebook.com/events/401731615009477?view=permalink&id=410531024129536) |
 
-#### [2021-11-15](../../../results/2021-11-15/333oh.md)
+#### [2021-11-15](../../results/2021-11-15/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 24.72 | 25.74 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/717487009641909/permalink/726045182119425) / [Mobile](https://m.facebook.com/events/717487009641909?view=permalink&id=726045182119425) |
 | 2 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 30.35 | 34.70 | 🥈 | [Desktop](https://www.facebook.com/events/717487009641909/permalink/726208912103052) / [Mobile](https://m.facebook.com/events/717487009641909?view=permalink&id=726208912103052) |
 
-#### [2021-11-01](../../../results/2021-11-01/333oh.md)
+#### [2021-11-01](../../results/2021-11-01/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 26.25 | 28.08 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/556108165479652/permalink/563933444697124) / [Mobile](https://m.facebook.com/events/556108165479652?view=permalink&id=563933444697124) |
 
-#### [2021-10-18](../../../results/2021-10-18/333oh.md)
+#### [2021-10-18](../../results/2021-10-18/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 22.41 | 27.47 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/261213032615951/permalink/270249691712285) / [Mobile](https://m.facebook.com/events/261213032615951?view=permalink&id=270249691712285) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 24.65 | 29.02 | 🥈 | [Desktop](https://www.facebook.com/events/261213032615951/permalink/266286602108594) / [Mobile](https://m.facebook.com/events/261213032615951?view=permalink&id=266286602108594) |
 
-#### [2021-10-04](../../../results/2021-10-04/333oh.md)
+#### [2021-10-04](../../results/2021-10-04/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -708,14 +708,14 @@
 | 2 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 28.59 | 29.43 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/1102565390277531/permalink/1106216629912407) / [Mobile](https://m.facebook.com/events/1102565390277531?view=permalink&id=1106216629912407) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 31.86 | 35.91 | 🥉 | [Desktop](https://www.facebook.com/events/1102565390277531/permalink/1107490606451676) / [Mobile](https://m.facebook.com/events/1102565390277531?view=permalink&id=1107490606451676) |
 
-#### [2021-09-20](../../../results/2021-09-20/333oh.md)
+#### [2021-09-20](../../results/2021-09-20/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 20.39 | 23.05 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/836337370416586/permalink/844502229600100) / [Mobile](https://m.facebook.com/events/836337370416586?view=permalink&id=844502229600100) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 27.40 | 29.38 | 🥈 | [Desktop](https://www.facebook.com/events/836337370416586/permalink/841467743236882) / [Mobile](https://m.facebook.com/events/836337370416586?view=permalink&id=841467743236882) |
 
-#### [2021-09-06](../../../results/2021-09-06/333oh.md)
+#### [2021-09-06](../../results/2021-09-06/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -723,7 +723,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 27.91 | 29.30 | 🥈 | [Desktop](https://www.facebook.com/events/208105634636421/permalink/208422884604696) / [Mobile](https://m.facebook.com/events/208105634636421?view=permalink&id=208422884604696) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 29.93 | 32.67 | 🥉 | [Desktop](https://www.facebook.com/events/208105634636421/permalink/212367914210193) / [Mobile](https://m.facebook.com/events/208105634636421?view=permalink&id=212367914210193) |
 
-#### [2021-08-23](../../../results/2021-08-23/333oh.md)
+#### [2021-08-23](../../results/2021-08-23/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -731,13 +731,13 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 24.94 | 28.58 | 🥈 | [Desktop](https://www.facebook.com/events/992549044856331/permalink/1000538134057422) / [Mobile](https://m.facebook.com/events/992549044856331?view=permalink&id=1000538134057422) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 30.18 | 32.71 | 🥉 | [Desktop](https://www.facebook.com/events/992549044856331/permalink/997093234401912) / [Mobile](https://m.facebook.com/events/992549044856331?view=permalink&id=997093234401912) |
 
-#### [2021-08-09](../../../results/2021-08-09/333oh.md)
+#### [2021-08-09](../../results/2021-08-09/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 27.03 | 28.23 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/799005364067137/permalink/805734536727553) / [Mobile](https://m.facebook.com/events/799005364067137?view=permalink&id=805734536727553) |
 
-#### [2021-07-26](../../../results/2021-07-26/333oh.md)
+#### [2021-07-26](../../results/2021-07-26/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -745,7 +745,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 25.43 | 29.66 | 🥈 | [Desktop](https://www.facebook.com/events/345405150546336/permalink/354119376341580) / [Mobile](https://m.facebook.com/events/345405150546336?view=permalink&id=354119376341580) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 29.98 | 32.51 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/345405150546336/permalink/354784199608431) / [Mobile](https://m.facebook.com/events/345405150546336?view=permalink&id=354784199608431) |
 
-#### [2021-07-12](../../../results/2021-07-12/333oh.md)
+#### [2021-07-12](../../results/2021-07-12/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -753,20 +753,20 @@
 | 2 | [Go-ho Choi](../../persons/go_ho_choi/333oh.md) | 40+ | <i class="flag flag-KR" /> | 23.29 | 27.89 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/511699716713156/permalink/517136362836158) / [Mobile](https://m.facebook.com/events/511699716713156?view=permalink&id=517136362836158) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 25.89 | 29.44 | 🥉 | [Desktop](https://www.facebook.com/events/511699716713156/permalink/516169179599543) / [Mobile](https://m.facebook.com/events/511699716713156?view=permalink&id=516169179599543) |
 
-#### [2021-06-28](../../../results/2021-06-28/333oh.md)
+#### [2021-06-28](../../results/2021-06-28/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 22.38 | 25.50 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/849999075950147/permalink/860518028231585) / [Mobile](https://m.facebook.com/events/849999075950147?view=permalink&id=860518028231585) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 21.63 | 27.02 | 🥈 🔥 | [Desktop](https://www.facebook.com/557281693/videos/567729587940463) / [Mobile](https://m.facebook.com/557281693/videos/567729587940463) |
 
-#### [2021-06-14](../../../results/2021-06-14/333oh.md)
+#### [2021-06-14](../../results/2021-06-14/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 28.14 | 31.08 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/318989363128881/permalink/328228805538270) / [Mobile](https://m.facebook.com/events/318989363128881?view=permalink&id=328228805538270) |
 
-#### [2021-05-31](../../../results/2021-05-31/333oh.md)
+#### [2021-05-31](../../results/2021-05-31/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -774,14 +774,14 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 20.83 | 30.16 | 🥈 | [Desktop](https://www.facebook.com/events/477312563557358/permalink/481619476460000) / [Mobile](https://m.facebook.com/events/477312563557358?view=permalink&id=481619476460000) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 29.19 | 33.39 | 🥉 | [Desktop](https://www.facebook.com/events/477312563557358/permalink/485161189439162) / [Mobile](https://m.facebook.com/events/477312563557358?view=permalink&id=485161189439162) |
 
-#### [2021-05-17](../../../results/2021-05-17/333oh.md)
+#### [2021-05-17](../../results/2021-05-17/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 21.50 | 23.04 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/294093895691078/permalink/302885228145278) / [Mobile](https://m.facebook.com/events/294093895691078?view=permalink&id=302885228145278) |
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 30.01 | 31.42 | 🥈 | [Desktop](https://www.facebook.com/events/294093895691078/permalink/302851481481986) / [Mobile](https://m.facebook.com/events/294093895691078?view=permalink&id=302851481481986) |
 
-#### [2021-05-03](../../../results/2021-05-03/333oh.md)
+#### [2021-05-03](../../results/2021-05-03/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -789,7 +789,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 26.64 | 28.15 | 🥈 | [Desktop](https://www.facebook.com/events/2542204919406396/permalink/2543864845907070) / [Mobile](https://m.facebook.com/events/2542204919406396?view=permalink&id=2543864845907070) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 28.79 | 33.17 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/2542204919406396/permalink/2546877572272464) / [Mobile](https://m.facebook.com/events/2542204919406396?view=permalink&id=2546877572272464) |
 
-#### [2021-04-19](../../../results/2021-04-19/333oh.md)
+#### [2021-04-19](../../results/2021-04-19/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -797,7 +797,7 @@
 | 2 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 30.58 | 33.58 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/195346665532379/permalink/202131308187248) / [Mobile](https://m.facebook.com/events/195346665532379?view=permalink&id=202131308187248) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 18.94 | 33.80 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/195346665532379/permalink/199064258493953) / [Mobile](https://m.facebook.com/events/195346665532379?view=permalink&id=199064258493953) |
 
-#### [2021-04-05](../../../results/2021-04-05/333oh.md)
+#### [2021-04-05](../../results/2021-04-05/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -805,7 +805,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 26.27 | 32.30 | 🥈 | [Desktop](https://www.facebook.com/events/486157032419819/permalink/490346998667489) / [Mobile](https://m.facebook.com/events/486157032419819?view=permalink&id=490346998667489) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 34.16 | 35.64 | 🥉 | [Desktop](https://www.facebook.com/events/486157032419819/permalink/489407632094759) / [Mobile](https://m.facebook.com/events/486157032419819?view=permalink&id=489407632094759) |
 
-#### [2021-03-22](../../../results/2021-03-22/333oh.md)
+#### [2021-03-22](../../results/2021-03-22/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -813,14 +813,14 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 24.99 | 28.22 | 🥈 | [Desktop](https://www.facebook.com/events/802754890451423/permalink/807004093359836) / [Mobile](https://m.facebook.com/events/802754890451423?view=permalink&id=807004093359836) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 31.93 | 37.32 | 🥉 | [Desktop](https://www.facebook.com/events/802754890451423/permalink/808777499849162) / [Mobile](https://m.facebook.com/events/802754890451423?view=permalink&id=808777499849162) |
 
-#### [2021-03-08](../../../results/2021-03-08/333oh.md)
+#### [2021-03-08](../../results/2021-03-08/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 26.05 | 28.40 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/286026952942446/permalink/294712712073870) / [Mobile](https://m.facebook.com/events/286026952942446?view=permalink&id=294712712073870) |
 | 2 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 32.66 | 37.32 | 🥈 | [Desktop](https://www.facebook.com/events/286026952942446/permalink/294992762045865) / [Mobile](https://m.facebook.com/events/286026952942446?view=permalink&id=294992762045865) |
 
-#### [2021-02-24](../../../results/2021-02-24/333oh.md)
+#### [2021-02-24](../../results/2021-02-24/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -828,7 +828,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 25.31 | 27.24 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/264199631979561/permalink/265961638470027) / [Mobile](https://m.facebook.com/events/264199631979561?view=permalink&id=265961638470027) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 36.70 | 42.43 | 🥉 | [Desktop](https://www.facebook.com/events/264199631979561/permalink/272279781171546) / [Mobile](https://m.facebook.com/events/264199631979561?view=permalink&id=272279781171546) |
 
-#### [2021-02-17](../../../results/2021-02-17/333oh.md)
+#### [2021-02-17](../../results/2021-02-17/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -836,7 +836,7 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 26.89 | 31.02 | 🥈 | [Desktop](https://www.facebook.com/events/2846210318979915/permalink/2850778545189759) / [Mobile](https://m.facebook.com/events/2846210318979915?view=permalink&id=2850778545189759) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 29.93 | 32.97 | 🥉 | [Desktop](https://www.facebook.com/events/2846210318979915/permalink/2848772602057020) / [Mobile](https://m.facebook.com/events/2846210318979915?view=permalink&id=2848772602057020) |
 
-#### [2021-02-09](../../../results/2021-02-09/333oh.md)
+#### [2021-02-09](../../results/2021-02-09/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -844,7 +844,7 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 23.88 | 32.23 | 🥈 | [Desktop](https://www.facebook.com/events/749806039307047/permalink/753680098919641) / [Mobile](https://m.facebook.com/events/749806039307047?view=permalink&id=753680098919641) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 26.67 | 32.73 | 🥉 | [Desktop](https://www.facebook.com/events/749806039307047/permalink/753222112298773) / [Mobile](https://m.facebook.com/events/749806039307047?view=permalink&id=753222112298773) |
 
-#### [2021-02-02](../../../results/2021-02-02/333oh.md)
+#### [2021-02-02](../../results/2021-02-02/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -852,7 +852,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 26.17 | 29.10 | 🥈 🔥 | [Desktop](https://www.facebook.com/557281693/videos/10159383727601694) / [Mobile](https://m.facebook.com/557281693/videos/10159383727601694) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 27.06 | 34.50 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/176364004262939/permalink/179749520591054) / [Mobile](https://m.facebook.com/events/176364004262939?view=permalink&id=179749520591054) |
 
-#### [2021-01-26](../../../results/2021-01-26/333oh.md)
+#### [2021-01-26](../../results/2021-01-26/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -860,7 +860,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 24.51 | 33.34 | 🥈 | [Desktop](https://www.facebook.com/events/415506712992555/permalink/418462346030325) / [Mobile](https://m.facebook.com/events/415506712992555?view=permalink&id=418462346030325) |
 | 3 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 23.52 | 33.93 | 🥉 | [Desktop](https://www.facebook.com/events/415506712992555/permalink/419093069300586) / [Mobile](https://m.facebook.com/events/415506712992555?view=permalink&id=419093069300586) |
 
-#### [2021-01-19](../../../results/2021-01-19/333oh.md)
+#### [2021-01-19](../../results/2021-01-19/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -868,7 +868,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 27.14 | 29.99 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/259430338941057/permalink/262212375329520) / [Mobile](https://m.facebook.com/events/259430338941057?view=permalink&id=262212375329520) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 33.83 | 40.63 | 🥉 | [Desktop](https://www.facebook.com/events/259430338941057/permalink/261340725416685) / [Mobile](https://m.facebook.com/events/259430338941057?view=permalink&id=261340725416685) |
 
-#### [2021-01-12](../../../results/2021-01-12/333oh.md)
+#### [2021-01-12](../../results/2021-01-12/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -876,7 +876,7 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 20.90 | 26.24 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/154842819532367/permalink/157684892581493) / [Mobile](https://m.facebook.com/events/154842819532367?view=permalink&id=157684892581493) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 29.73 | 38.09 | 🥉 | [Desktop](https://www.facebook.com/events/154842819532367/permalink/156904812659501) / [Mobile](https://m.facebook.com/events/154842819532367?view=permalink&id=156904812659501) |
 
-#### [2021-01-05](../../../results/2021-01-05/333oh.md)
+#### [2021-01-05](../../results/2021-01-05/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -884,7 +884,7 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 23.50 | 27.38 | 🥈 | [Desktop](https://www.facebook.com/events/237822631087555/permalink/242177937318691) / [Mobile](https://m.facebook.com/events/237822631087555?view=permalink&id=242177937318691) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 29.81 | DNF | 🥉 | [Desktop](https://www.facebook.com/events/237822631087555/permalink/242231130646705) / [Mobile](https://m.facebook.com/events/237822631087555?view=permalink&id=242231130646705) |
 
-#### [2020-12-29](../../../results/2020-12-29/333oh.md)
+#### [2020-12-29](../../results/2020-12-29/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -892,7 +892,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 26.40 | 30.89 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/807437066779451/permalink/811052613084563) / [Mobile](https://m.facebook.com/events/807437066779451?view=permalink&id=811052613084563) |
 | 3 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 24.17 | 31.27 | 🥉 | [Desktop](https://www.facebook.com/events/807437066779451/permalink/811243109732180) / [Mobile](https://m.facebook.com/events/807437066779451?view=permalink&id=811243109732180) |
 
-#### [2020-12-22](../../../results/2020-12-22/333oh.md)
+#### [2020-12-22](../../results/2020-12-22/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -900,7 +900,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 25.07 | 31.45 | 🥈 | [Desktop](https://www.facebook.com/events/758481858355136/permalink/760170018186320) / [Mobile](https://m.facebook.com/events/758481858355136?view=permalink&id=760170018186320) |
 | 3 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 25.72 | 31.83 | 🥉 | [Desktop](https://www.facebook.com/events/758481858355136/permalink/762141841322471) / [Mobile](https://m.facebook.com/events/758481858355136?view=permalink&id=762141841322471) |
 
-#### [2020-12-15](../../../results/2020-12-15/333oh.md)
+#### [2020-12-15](../../results/2020-12-15/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -908,7 +908,7 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 24.14 | 26.98 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/804969103386330/permalink/808504356366138) / [Mobile](https://m.facebook.com/events/804969103386330?view=permalink&id=808504356366138) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 28.83 | 31.34 | 🥉 | [Desktop](https://www.facebook.com/events/804969103386330/permalink/808494549700452) / [Mobile](https://m.facebook.com/events/804969103386330?view=permalink&id=808494549700452) |
 
-#### [2020-12-08](../../../results/2020-12-08/333oh.md)
+#### [2020-12-08](../../results/2020-12-08/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -916,7 +916,7 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 28.57 | 29.40 | 🥈 | [Desktop](https://www.facebook.com/events/1026387727837469/permalink/1030557637420478) / [Mobile](https://m.facebook.com/events/1026387727837469?view=permalink&id=1030557637420478) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 28.88 | 31.54 | 🥉 | [Desktop](https://www.facebook.com/events/1026387727837469/permalink/1030121654130743) / [Mobile](https://m.facebook.com/events/1026387727837469?view=permalink&id=1030121654130743) |
 
-#### [2020-12-01](../../../results/2020-12-01/333oh.md)
+#### [2020-12-01](../../results/2020-12-01/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -924,7 +924,7 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 26.51 | 27.90 | 🥈 | [Desktop](https://www.facebook.com/events/456949201957439/permalink/461347001517659) / [Mobile](https://m.facebook.com/events/456949201957439?view=permalink&id=461347001517659) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 30.21 | 33.27 | 🥉 | [Desktop](https://www.facebook.com/events/456949201957439/permalink/461362514849441) / [Mobile](https://m.facebook.com/events/456949201957439?view=permalink&id=461362514849441) |
 
-#### [2020-11-24](../../../results/2020-11-24/333oh.md)
+#### [2020-11-24](../../results/2020-11-24/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -932,7 +932,7 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 20.41 | 27.50 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/418254925863499/permalink/422552855433706) / [Mobile](https://m.facebook.com/events/418254925863499?view=permalink&id=422552855433706) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 31.44 | 33.49 | 🥉 | [Desktop](https://www.facebook.com/events/418254925863499/permalink/421990115489980) / [Mobile](https://m.facebook.com/events/418254925863499?view=permalink&id=421990115489980) |
 
-#### [2020-11-17](../../../results/2020-11-17/333oh.md)
+#### [2020-11-17](../../results/2020-11-17/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -940,14 +940,14 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 24.15 | 32.44 | 🥈 | [Desktop](https://www.facebook.com/events/770207250227350/permalink/773966299851445) / [Mobile](https://m.facebook.com/events/770207250227350?view=permalink&id=773966299851445) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 34.12 | 39.82 | 🥉 | [Desktop](https://www.facebook.com/events/770207250227350/permalink/772012456713496) / [Mobile](https://m.facebook.com/events/770207250227350?view=permalink&id=772012456713496) |
 
-#### [2020-11-10](../../../results/2020-11-10/333oh.md)
+#### [2020-11-10](../../results/2020-11-10/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 19.45 | 24.51 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/355672432175632/permalink/360671055009103) / [Mobile](https://m.facebook.com/events/355672432175632?view=permalink&id=360671055009103) |
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 25.44 | 29.44 | 🥈 | [Desktop](https://www.facebook.com/events/355672432175632/permalink/359813561761519) / [Mobile](https://m.facebook.com/events/355672432175632?view=permalink&id=359813561761519) |
 
-#### [2020-11-03](../../../results/2020-11-03/333oh.md)
+#### [2020-11-03](../../results/2020-11-03/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -955,14 +955,14 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 23.81 | 27.60 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1239637256416110/permalink/1245603182486184) / [Mobile](https://m.facebook.com/events/1239637256416110?view=permalink&id=1245603182486184) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 29.95 | 36.77 | 🥉 | [Desktop](https://www.facebook.com/events/1239637256416110/permalink/1246115435768292) / [Mobile](https://m.facebook.com/events/1239637256416110?view=permalink&id=1246115435768292) |
 
-#### [2020-10-27](../../../results/2020-10-27/333oh.md)
+#### [2020-10-27](../../results/2020-10-27/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Konsta Jukka](../../persons/konsta_jukka/333oh.md) | 40+ | <i class="flag flag-FI" /> | 24.58 | 27.98 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/814285582657691/permalink/818979595521623) / [Mobile](https://m.facebook.com/events/814285582657691?view=permalink&id=818979595521623) |
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 24.48 | 30.00 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/814285582657691/permalink/817773588975557) / [Mobile](https://m.facebook.com/events/814285582657691?view=permalink&id=817773588975557) |
 
-#### [2020-10-20](../../../results/2020-10-20/333oh.md)
+#### [2020-10-20](../../results/2020-10-20/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -970,7 +970,7 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 25.92 | 30.71 | 🥈 | [Desktop](https://www.facebook.com/events/1017705805364611/permalink/1023561028112422) / [Mobile](https://m.facebook.com/events/1017705805364611?view=permalink&id=1023561028112422) |
 | 3 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333oh.md) | 40+ | <i class="flag flag-FR" /> | 33.54 | 40.99 | 🥉 | [Desktop](https://www.facebook.com/events/1017705805364611/permalink/1022443291557529) / [Mobile](https://m.facebook.com/events/1017705805364611?view=permalink&id=1022443291557529) |
 
-#### [2020-10-13](../../../results/2020-10-13/333oh.md)
+#### [2020-10-13](../../results/2020-10-13/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -978,7 +978,7 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 28.68 | 32.30 | 🥈 | [Desktop](https://www.facebook.com/events/2855876438029747/permalink/2863142147303176) / [Mobile](https://m.facebook.com/events/2855876438029747?view=permalink&id=2863142147303176) |
 | 3 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | <i class="flag flag-PL" /> | 27.43 | 37.10 | 🥉 💥 ⚡ | [Desktop](https://www.facebook.com/events/2855876438029747/permalink/2862234187393972) / [Mobile](https://m.facebook.com/events/2855876438029747?view=permalink&id=2862234187393972) |
 
-#### [2020-10-06](../../../results/2020-10-06/333oh.md)
+#### [2020-10-06](../../results/2020-10-06/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -986,7 +986,7 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 26.72 | 32.31 | 🥈 | [Desktop](https://www.facebook.com/events/2645965315652815/permalink/2652051668377513) / [Mobile](https://m.facebook.com/events/2645965315652815?view=permalink&id=2652051668377513) |
 | 3 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | <i class="flag flag-PL" /> | 31.60 | 35.12 | 🥉 💥 🔥 | [Desktop](https://www.facebook.com/events/2645965315652815/permalink/2649640285285318) / [Mobile](https://m.facebook.com/events/2645965315652815?view=permalink&id=2649640285285318) |
 
-#### [2020-09-29](../../../results/2020-09-29/333oh.md)
+#### [2020-09-29](../../results/2020-09-29/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -994,7 +994,7 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 24.85 | 32.28 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1202263490156156/permalink/1207957422920096) / [Mobile](https://m.facebook.com/events/1202263490156156?view=permalink&id=1207957422920096) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 31.74 | 34.93 | 🥉 | [Desktop](https://www.facebook.com/events/1202263490156156/permalink/1207207106328461) / [Mobile](https://m.facebook.com/events/1202263490156156?view=permalink&id=1207207106328461) |
 
-#### [2020-09-22](../../../results/2020-09-22/333oh.md)
+#### [2020-09-22](../../results/2020-09-22/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1002,7 +1002,7 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 28.41 | 30.85 | 🥈 | [Desktop](https://www.facebook.com/events/349197636276246/permalink/350480909481252) / [Mobile](https://m.facebook.com/events/349197636276246?view=permalink&id=350480909481252) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 35.34 | 37.31 | 🥉 | [Desktop](https://www.facebook.com/events/349197636276246/permalink/352981682564508) / [Mobile](https://m.facebook.com/events/349197636276246?view=permalink&id=352981682564508) |
 
-#### [2020-09-15](../../../results/2020-09-15/333oh.md)
+#### [2020-09-15](../../results/2020-09-15/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1010,7 +1010,7 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 27.26 | 28.76 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/3404368289613252/permalink/3417648911618523) / [Mobile](https://m.facebook.com/events/3404368289613252?view=permalink&id=3417648911618523) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 30.10 | 34.44 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/3404368289613252/permalink/3416320421751372) / [Mobile](https://m.facebook.com/events/3404368289613252?view=permalink&id=3416320421751372) |
 
-#### [2020-09-08](../../../results/2020-09-08/333oh.md)
+#### [2020-09-08](../../results/2020-09-08/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1018,14 +1018,14 @@
 | 2 | [Fumiki Koseki](../../persons/fumiki_koseki/333oh.md) | 40+ | <i class="flag flag-JP" /> | 25.40 | 29.96 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/660661614881054/permalink/662098801404002) / [Mobile](https://m.facebook.com/events/660661614881054?view=permalink&id=662098801404002) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 35.18 | 38.19 | 🥉 | [Desktop](https://www.facebook.com/events/660661614881054/permalink/661802854766930) / [Mobile](https://m.facebook.com/events/660661614881054?view=permalink&id=661802854766930) |
 
-#### [2020-09-01](../../../results/2020-09-01/333oh.md)
+#### [2020-09-01](../../results/2020-09-01/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Michael George](../../persons/michael_george/333oh.md) | 40+ | <i class="flag flag-GB" /> | 19.46 | 23.95 | 🏆 🥇 | [Desktop](https://www.facebook.com/michael.george.545/videos/10214233698396727) / [Mobile](https://m.facebook.com/michael.george.545/videos/10214233698396727) |
 | 2 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 36.13 | 39.97 | 🥈 | [Desktop](https://www.facebook.com/events/652945192290048/permalink/658844118366822) / [Mobile](https://m.facebook.com/events/652945192290048?view=permalink&id=658844118366822) |
 
-#### [2020-08-25](../../../results/2020-08-25/333oh.md)
+#### [2020-08-25](../../results/2020-08-25/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1033,7 +1033,7 @@
 | 2 | [Jason Green](../../persons/jason_green/333oh.md) | 40+ | <i class="flag flag-US" /> | 30.77 | 36.01 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/jasongreenbowler/videos/10163944573110425) / [Mobile](https://m.facebook.com/jasongreenbowler/videos/10163944573110425) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 30.74 | 37.76 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/2812216602434889/permalink/2818200948503121) / [Mobile](https://m.facebook.com/events/2812216602434889?view=permalink&id=2818200948503121) |
 
-#### [2020-08-18](../../../results/2020-08-18/333oh.md)
+#### [2020-08-18](../../results/2020-08-18/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1041,7 +1041,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 21.17 | 34.82 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/357518755418063/permalink/361776554992283) / [Mobile](https://m.facebook.com/events/357518755418063?view=permalink&id=361776554992283) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 36.21 | 38.86 | 🥉 | [Desktop](https://www.facebook.com/events/357518755418063/permalink/362138078289464) / [Mobile](https://m.facebook.com/events/357518755418063?view=permalink&id=362138078289464) |
 
-#### [2020-08-11](../../../results/2020-08-11/333oh.md)
+#### [2020-08-11](../../results/2020-08-11/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1049,7 +1049,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 27.03 | 32.25 | 🥈 | [Desktop](https://www.facebook.com/events/338631130511019/permalink/342003433507122) / [Mobile](https://m.facebook.com/events/338631130511019?view=permalink&id=342003433507122) |
 | 3 | [Huy Nguyen](../../persons/huy_nguyen/333oh.md) | 40+ | <i class="flag flag-CA" /> | 29.48 | 38.02 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/338631130511019/permalink/342680723439393) / [Mobile](https://m.facebook.com/events/338631130511019?view=permalink&id=342680723439393) |
 
-#### [2020-08-04](../../../results/2020-08-04/333oh.md)
+#### [2020-08-04](../../results/2020-08-04/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1057,7 +1057,7 @@
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 28.19 | 33.25 | 🥈 | [Desktop](https://www.facebook.com/events/748440219235440/permalink/749239219155540) / [Mobile](https://m.facebook.com/events/748440219235440?view=permalink&id=749239219155540) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 26.60 | 33.85 | 🥉 | [Desktop](https://www.facebook.com/events/748440219235440/permalink/753078005438328) / [Mobile](https://m.facebook.com/events/748440219235440?view=permalink&id=753078005438328) |
 
-#### [2020-07-28](../../../results/2020-07-28/333oh.md)
+#### [2020-07-28](../../results/2020-07-28/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1065,7 +1065,7 @@
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 25.51 | 29.77 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/708566320000803/permalink/712727039584731) / [Mobile](https://m.facebook.com/events/708566320000803?view=permalink&id=712727039584731) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 26.86 | 36.18 | 🥉 | [Desktop](https://www.facebook.com/events/708566320000803/permalink/712563192934449) / [Mobile](https://m.facebook.com/events/708566320000803?view=permalink&id=712563192934449) |
 
-#### [2020-07-21](../../../results/2020-07-21/333oh.md)
+#### [2020-07-21](../../results/2020-07-21/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1073,7 +1073,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 25.95 | 32.42 | 🥈 | [Desktop](https://www.facebook.com/events/1842039515939197/permalink/1846057968870685) / [Mobile](https://m.facebook.com/events/1842039515939197?view=permalink&id=1846057968870685) |
 | 3 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 29.97 | 34.05 | 🥉 | [Desktop](https://www.facebook.com/events/1842039515939197/permalink/1847140878762394) / [Mobile](https://m.facebook.com/events/1842039515939197?view=permalink&id=1847140878762394) |
 
-#### [2020-07-14](../../../results/2020-07-14/333oh.md)
+#### [2020-07-14](../../results/2020-07-14/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1081,7 +1081,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 29.24 | 39.60 | 🥈 | [Desktop](https://www.facebook.com/events/1157754364595802/permalink/1158788084492430) / [Mobile](https://m.facebook.com/events/1157754364595802?view=permalink&id=1158788084492430) |
 | 3 | [Andy Nicholls](../../persons/andy_nicholls/333oh.md) | 40+ | <i class="flag flag-GB" /> | 39.95 | 45.44 | 🥉 | [Desktop](https://www.facebook.com/events/1157754364595802/permalink/1160333601004545) / [Mobile](https://m.facebook.com/events/1157754364595802?view=permalink&id=1160333601004545) |
 
-#### [2020-07-07](../../../results/2020-07-07/333oh.md)
+#### [2020-07-07](../../results/2020-07-07/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1089,7 +1089,7 @@
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 27.76 | 31.20 | 🥈 | [Desktop](https://www.facebook.com/events/271667090769235/permalink/275249050411039) / [Mobile](https://m.facebook.com/events/271667090769235?view=permalink&id=275249050411039) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 24.40 | 35.40 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/271667090769235/permalink/275075220428422) / [Mobile](https://m.facebook.com/events/271667090769235?view=permalink&id=275075220428422) |
 
-#### [2020-06-30](../../../results/2020-06-30/333oh.md)
+#### [2020-06-30](../../results/2020-06-30/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1097,7 +1097,7 @@
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 30.57 | 34.02 | 🥈 | [Desktop](https://www.facebook.com/events/679860472562391/permalink/683361455545626) / [Mobile](https://m.facebook.com/events/679860472562391?view=permalink&id=683361455545626) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 28.72 | 35.26 | 🥉 | [Desktop](https://www.facebook.com/events/679860472562391/permalink/682401835641588) / [Mobile](https://m.facebook.com/events/679860472562391?view=permalink&id=682401835641588) |
 
-#### [2020-06-23](../../../results/2020-06-23/333oh.md)
+#### [2020-06-23](../../results/2020-06-23/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1105,7 +1105,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 26.90 | 31.90 | 🥈 | [Desktop](https://www.facebook.com/events/722150235200875/permalink/725001771582388) / [Mobile](https://m.facebook.com/events/722150235200875?view=permalink&id=725001771582388) |
 | 3 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 24.37 | 32.20 | 🥉 | [Desktop](https://www.facebook.com/events/722150235200875/permalink/725709858178246) / [Mobile](https://m.facebook.com/events/722150235200875?view=permalink&id=725709858178246) |
 
-#### [2020-06-16](../../../results/2020-06-16/333oh.md)
+#### [2020-06-16](../../results/2020-06-16/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1113,7 +1113,7 @@
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 28.20 | 29.96 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/604103587178706/permalink/608762373379494) / [Mobile](https://m.facebook.com/events/604103587178706?view=permalink&id=608762373379494) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 28.68 | 34.92 | 🥉 | [Desktop](https://www.facebook.com/events/604103587178706/permalink/605602253695506) / [Mobile](https://m.facebook.com/events/604103587178706?view=permalink&id=605602253695506) |
 
-#### [2020-06-09](../../../results/2020-06-09/333oh.md)
+#### [2020-06-09](../../results/2020-06-09/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1121,7 +1121,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 26.13 | 31.67 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/903549840109576/permalink/907264923071401) / [Mobile](https://m.facebook.com/events/903549840109576?view=permalink&id=907264923071401) |
 | 3 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 33.07 | 37.82 | 🥉 | [Desktop](https://www.facebook.com/events/903549840109576/permalink/908184629646097) / [Mobile](https://m.facebook.com/events/903549840109576?view=permalink&id=908184629646097) |
 
-#### [2020-06-02](../../../results/2020-06-02/333oh.md)
+#### [2020-06-02](../../results/2020-06-02/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1129,7 +1129,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 31.99 | 33.56 | 🥈 | [Desktop](https://www.facebook.com/events/3373950429496747/permalink/3379383188953471) / [Mobile](https://m.facebook.com/events/3373950429496747?view=permalink&id=3379383188953471) |
 | 3 | [Jeremy Duehring](../../persons/jeremy_duehring/333oh.md) | 40+ | <i class="flag flag-US" /> | 39.23 | 45.18 | 🥉 | [Desktop](https://www.facebook.com/jeremy.duehring/videos/10160063812337846) / [Mobile](https://m.facebook.com/jeremy.duehring/videos/10160063812337846) |
 
-#### [2020-05-26](../../../results/2020-05-26/333oh.md)
+#### [2020-05-26](../../results/2020-05-26/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1137,7 +1137,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 29.13 | 30.96 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/688407551989463/permalink/690561981774020) / [Mobile](https://m.facebook.com/events/688407551989463?view=permalink&id=690561981774020) |
 | 3 | [Andy Nicholls](../../persons/andy_nicholls/333oh.md) | 40+ | <i class="flag flag-GB" /> | 34.17 | 47.82 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/688407551989463/permalink/690047708492114) / [Mobile](https://m.facebook.com/events/688407551989463?view=permalink&id=690047708492114) |
 
-#### [2020-05-19](../../../results/2020-05-19/333oh.md)
+#### [2020-05-19](../../results/2020-05-19/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1145,7 +1145,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 32.26 | 34.33 | 🥈 | [Desktop](https://www.facebook.com/events/1880761498725633/permalink/1885596818242101.) / [Mobile](https://m.facebook.com/events/1880761498725633?view=permalink&id=1885596818242101.) |
 | 3 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 26.19 | 35.60 | 🥉 | [Desktop](https://www.facebook.com/events/1880761498725633/permalink/1885800074888442) / [Mobile](https://m.facebook.com/events/1880761498725633?view=permalink&id=1885800074888442) |
 
-#### [2020-05-12](../../../results/2020-05-12/333oh.md)
+#### [2020-05-12](../../results/2020-05-12/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1153,7 +1153,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 27.93 | 35.92 | 🥈 | [Desktop](https://www.facebook.com/events/546188069600739/permalink/548662439353302) / [Mobile](https://m.facebook.com/events/546188069600739?view=permalink&id=548662439353302) |
 | 3 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 32.71 | 36.68 | 🥉 | [Desktop](https://www.facebook.com/events/546188069600739/permalink/550269032525976) / [Mobile](https://m.facebook.com/events/546188069600739?view=permalink&id=550269032525976) |
 
-#### [2020-05-05](../../../results/2020-05-05/333oh.md)
+#### [2020-05-05](../../results/2020-05-05/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1161,7 +1161,7 @@
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 26.11 | 32.56 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/3313106775587396/permalink/3314531595444914) / [Mobile](https://m.facebook.com/events/3313106775587396?view=permalink&id=3314531595444914) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 32.03 | 39.92 | 🥉 | [Desktop](https://www.facebook.com/events/3313106775587396/permalink/3318143511750389) / [Mobile](https://m.facebook.com/events/3313106775587396?view=permalink&id=3318143511750389) |
 
-#### [2020-04-28](../../../results/2020-04-28/333oh.md)
+#### [2020-04-28](../../results/2020-04-28/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1169,7 +1169,7 @@
 | 2 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333oh.md) | 40+ | <i class="flag flag-PL" /> | 29.38 | 32.65 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/535188653858103/permalink/537395990304036) / [Mobile](https://m.facebook.com/events/535188653858103?view=permalink&id=537395990304036) |
 | 3 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 29.83 | 32.89 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/535188653858103/permalink/536882240355411) / [Mobile](https://m.facebook.com/events/535188653858103?view=permalink&id=536882240355411) |
 
-#### [2020-04-21](../../../results/2020-04-21/333oh.md)
+#### [2020-04-21](../../results/2020-04-21/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1177,7 +1177,7 @@
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 23.59 | 35.12 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/880278499062375/permalink/882003692223189) / [Mobile](https://m.facebook.com/events/880278499062375?view=permalink&id=882003692223189) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 31.06 | 35.95 | 🥉 | [Desktop](https://www.facebook.com/events/880278499062375/permalink/884961721927386) / [Mobile](https://m.facebook.com/events/880278499062375?view=permalink&id=884961721927386) |
 
-#### [2020-04-14](../../../results/2020-04-14/333oh.md)
+#### [2020-04-14](../../results/2020-04-14/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1185,7 +1185,7 @@
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 25.66 | 34.08 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/982619255468618/permalink/986831878380689) / [Mobile](https://m.facebook.com/events/982619255468618?view=permalink&id=986831878380689) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 28.46 | 36.20 | 🥉 | [Desktop](https://www.facebook.com/events/982619255468618/permalink/984296091967601) / [Mobile](https://m.facebook.com/events/982619255468618?view=permalink&id=984296091967601) |
 
-#### [2020-04-07](../../../results/2020-04-07/333oh.md)
+#### [2020-04-07](../../results/2020-04-07/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1193,7 +1193,7 @@
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 30.56 | 34.18 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/682716079141575/permalink/686811572065359) / [Mobile](https://m.facebook.com/events/682716079141575?view=permalink&id=686811572065359) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 35.84 | 38.23 | 🥉 | [Desktop](https://www.facebook.com/events/682716079141575/permalink/684397598973423) / [Mobile](https://m.facebook.com/events/682716079141575?view=permalink&id=684397598973423) |
 
-#### [2020-03-24](../../../results/2020-03-24/333oh.md)
+#### [2020-03-24](../../results/2020-03-24/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1201,7 +1201,7 @@
 | 2 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 27.51 | 35.00 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/212335450005639/permalink/215249939714190) / [Mobile](https://m.facebook.com/events/212335450005639?view=permalink&id=215249939714190) |
 | 3 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 32.00 | 37.62 | 🥉 | [Desktop](https://www.facebook.com/events/212335450005639/permalink/216598292912688) / [Mobile](https://m.facebook.com/events/212335450005639?view=permalink&id=216598292912688) |
 
-#### [2020-03-10](../../../results/2020-03-10/333oh.md)
+#### [2020-03-10](../../results/2020-03-10/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
@@ -1209,7 +1209,7 @@
 | 2 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 25.02 | 34.80 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/684510792316675/permalink/687069845394103) / [Mobile](https://m.facebook.com/events/684510792316675?view=permalink&id=687069845394103) |
 | 3 | [Geoff Hartnell](../../persons/geoff_hartnell/333oh.md) | 40+ | <i class="flag flag-GB" /> | 28.58 | 35.11 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/684510792316675/permalink/686046518829769) / [Mobile](https://m.facebook.com/events/684510792316675?view=permalink&id=686046518829769) |
 
-#### [2020-02-18](../../../results/2020-02-18/333oh.md)
+#### [2020-02-18](../../results/2020-02-18/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
