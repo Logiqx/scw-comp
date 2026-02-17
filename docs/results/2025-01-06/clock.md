@@ -1,5 +1,5 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="te../../css" href="../../css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../../css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### Clock 2025-01-06
