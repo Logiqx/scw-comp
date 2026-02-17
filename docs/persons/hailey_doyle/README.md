@@ -1,5 +1,5 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="../css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../../css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### Hailey Doyle - [2021DOYL01](https://www.worldcubeassociation.org/persons/2021DOYL01)

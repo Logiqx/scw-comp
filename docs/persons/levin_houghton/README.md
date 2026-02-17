@@ -1,5 +1,5 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="../css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../../css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### Levin Houghton - [2016HOUG01](https://www.worldcubeassociation.org/persons/2016HOUG01)

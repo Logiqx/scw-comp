@@ -1,5 +1,5 @@
 <style>table {white-space: nowrap;}</style>
-<link rel="stylesheet" type="text/css" href="../css/flags.css" />
+<link rel="stylesheet" type="text/css" href="../../css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### [Denis Reimer](README.md) - [2016REIM01](https://www.worldcubeassociation.org/persons/2016REIM01?event=clock)
