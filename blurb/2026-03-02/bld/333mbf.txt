@@ -1,0 +1,35 @@
+F U' B R2 D2 F' D2 R2 U2 R2 F2 U2 D' R' B F2 L' B L Fw' Uw2
+F R' B' L F' R' F' U2 B D' R F2 D2 B' U2 L2 D2 F Rw2 Uw
+D' B2 U' L' U2 F R B2 L2 U' D L2 B2 U F2 U2 F R D Rw' Uw'
+D2 R D2 B' L' D2 L' F2 R2 F2 B' L2 F' D2 F2 D2 L2 U' L' D' Rw2 Uw'
+D B2 R2 F' B2 D2 L' R2 D B2 U' B2 U' R2 U' L' F2 U Fw'
+R F2 D F2 U' B2 L2 U L2 D' R' F L' F' U' R U2 R U2 Rw Uw2
+L2 F2 U2 B2 D B2 U R2 L' B' F R U' F' U L F L' D F Rw2 Uw
+B D L2 U' R2 U2 L2 B2 U F2 L2 B' R' D' L F L' B Rw2
+U L R2 D2 R2 U' L2 R2 B U2 R2 F' R' B2 L B' R2 B Rw2 Uw'
+D R' F2 D R' D2 B F R2 D2 B2 R2 L U2 R2 B U' B F' Rw Uw'
+B' D2 B' U2 F' B2 D' F2 L2 D' U L B' R' D L B2 F2 Rw Uw2
+F' D2 F B2 D R2 D' R B U B F2 U2 F2 R2 U' B2 D2 Fw' Uw2
+D B' U' B' F2 R2 F2 D2 L' D2 L' B L D' L2 U2 F' D' Fw
+F U D R L F' R U L U' R D2 L2 D' L2 U' B2 D B2 Uw
+L2 U L' F2 R' U2 R U2 D R F D2 B2 L2 D2 B' U2 B L Fw Uw2
+F' D' B' U' R2 F2 R U2 R2 B2 D2 R2 F R2 B L D Rw2 Uw2
+F2 R F L2 D2 F2 L R2 D2 R' D' R2 D' B' D' F L F2 Rw' Uw
+U' B R2 U' F U' B2 R B2 D2 B2 R2 D' R2 D2 R' D' R' Fw' Uw
+D' L D' B2 U F2 D U B2 R2 B2 R' U R2 B' U' R B L Fw Uw'
+L F2 R F2 D' B2 F2 U B2 D2 L B' L' R2 U' R2 B2 R Fw Uw
+F U' F' U2 R2 D2 B D2 B2 F' U F' R D L2 R2 F L U2 Fw Uw2
+U B2 R B2 L2 R' D2 U2 F2 U2 L B F' R U' R2 D2 F D' F Rw' Uw
+R' F2 L' B' D2 R B2 D' R' F R U2 R2 B2 L2 F2 U B2 D' Fw Uw
+D' F' L F B2 U' D' L F2 B2 L D2 L' D2 B2 F' U L F' Rw' Uw
+R2 B2 R2 D L2 F' D' F2 R2 U F U2 B2 L' D2 R' D2 F2 Rw2 Uw'
+L2 B F L2 F' U2 F R' F D U L U2 F2 L2 R' U2 L' F Uw'
+F2 U' B2 D B2 L D2 F' L2 B F' L F' L2 F' U2 B2 Uw
+B' D B' R U R2 F' B' R2 U' L2 D F2 B2 U L2 R' B2 U2 Rw' Uw2
+F2 R U R2 D2 F2 U2 B2 F' R D' B U2 B' F' D2 R2 D Rw2 Uw'
+D' F2 L2 U2 B2 R U2 L' B2 D2 U2 R2 D F' D' B' F' U2 L' F'
+R2 F' D2 U2 R2 B U2 D B' L2 F2 D2 U L' R' D B2 L2 F Rw' Uw
+B R' F2 D' L2 F2 L2 F2 D' U2 L2 F2 L D' F D2 U L' F L2 Fw Uw'
+R' U2 F' U' F2 D2 R2 U' F2 D F2 U2 F' D' L' B2 U R B' Rw2
+B L F' D' B' D2 F' D2 U2 F2 L2 B' U2 D' B' U' F L' D F2 Rw Uw2
+U2 D2 L' B D' F' U D2 F U D2 R B2 L2 U2 R' B2 L B2 U Rw2 Uw
