@@ -14,7 +14,7 @@ JavaPID=$!
 # Check we have dates
 if [ -z "$NewDate" ]; then
 	cd bin
-	. generate_compdates.sh
+	. ./generate_compdates.sh
 fi
 
 echo
@@ -42,7 +42,7 @@ echo Processing scrambles for $NewDate
 echo
 
 cd bin
-. weekly_scrambles.sh
+. ./weekly_scrambles.sh
 
 
 # Clean up

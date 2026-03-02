@@ -29,7 +29,7 @@ mkdir -p $OldDate
 # There can be errors in the XLSX that need to be manually fixed, so we loop and allow [R]eload until it's all good
 Reload=true
 while $Reload == "true"; do 
-	cd $PROJ_Dir/data/$OldDate
+	cd $PROJ_DIR/data/$OldDate
 	rm -f *.xlsx
 
 	# Get the XLSX
@@ -44,7 +44,7 @@ while $Reload == "true"; do
 	cd $PROJ_DIR
 
 	cd bin
-	. convert_spreadsheets.sh
+	. ./convert_spreadsheets.sh
 	set +x
 	echo
 	echo
@@ -62,7 +62,7 @@ done
 ## Generate/updated the results pages with weekly_results.sh
 echo
 cd bin
-. weekly_results.sh
+. ./weekly_results.sh
 
 # weekly-results outputs 4 prizewinners from when we used to give out $10 vouchers, I still add to the Prizes spreadsheet just in case
 set +x
@@ -73,7 +73,7 @@ echo
 
 # Generate list of PBs for Facebook page in lieu of prizewinners
 cd bin
-. generate_records.sh
+. ./generate_records.sh
 
 
 ## Commit and continue

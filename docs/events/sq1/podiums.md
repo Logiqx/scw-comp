@@ -6,13 +6,20 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-02-16](../../results/2026-02-16/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 27.84 | 35.12 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1441642847626663/permalink/1443380180786263) / [Mobile](https://m.facebook.com/events/1441642847626663?view=permalink&id=1443380180786263) |
+| 2 | [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 60+ | <i class="flag flag-US" /> | 39.84 | 53.36 | 🥈 | [Desktop](https://www.facebook.com/events/1441642847626663/permalink/1451582076632740) / [Mobile](https://m.facebook.com/events/1441642847626663?view=permalink&id=1451582076632740) |
+
 #### [2026-02-02](../../results/2026-02-02/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 34.20 | 41.05 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1231168225791680) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1231168225791680) |
 | 2 | [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 60+ | <i class="flag flag-US" /> | 38.28 | 52.31 | 🥈 | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1233652078876628) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1233652078876628) |
-| 3 | [Brad Deegan](../../persons/brad_deegan/sq1.md) | 40+ | | 53.25 | 56.15 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1229738335934669) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1229738335934669) |
+| 3 | [Brad Deegan](../../persons/brad_deegan/sq1.md) | 40+ | <i class="flag flag-AU" /> | 53.25 | 56.15 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1229738335934669) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1229738335934669) |
 
 #### [2026-01-19](../../results/2026-01-19/sq1.md)
 

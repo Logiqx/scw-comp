@@ -4,6 +4,8 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### [Brad Deegan](README.md) - [2023DEEG01](https://www.worldcubeassociation.org/persons/2023DEEG01?event=minx)
 
+<i class="flag flag-AU" />&nbsp;Australia
+
 #### Megaminx Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

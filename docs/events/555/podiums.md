@@ -6,13 +6,21 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-02-16](../../results/2026-02-16/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:25.77 | 1:35.07 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1759110925494480/permalink/1760813928657513) / [Mobile](https://m.facebook.com/events/1759110925494480?view=permalink&id=1760813928657513) |
+| 2 | [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | <i class="flag flag-GB" /> | 1:25.00 | 1:38.22 | 🥈 | [Desktop](https://www.facebook.com/events/1759110925494480/permalink/1766040671468172) / [Mobile](https://m.facebook.com/events/1759110925494480?view=permalink&id=1766040671468172) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:27.18 | 1:39.47 | 🥉 | [Desktop](https://www.facebook.com/events/1759110925494480/permalink/1770617287677177) / [Mobile](https://m.facebook.com/events/1759110925494480?view=permalink&id=1770617287677177) |
+
 #### [2026-02-02](../../results/2026-02-02/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:30.37 | 1:38.44 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/3635598963248617/permalink/3647448748730305) / [Mobile](https://m.facebook.com/events/3635598963248617?view=permalink&id=3647448748730305) |
 | 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | 40+ | <i class="flag flag-VE" /> | 1:51.72 | 1:59.67 | 🥈 | [Desktop](https://www.facebook.com/events/3635598963248617/permalink/3641297269345453) / [Mobile](https://m.facebook.com/events/3635598963248617?view=permalink&id=3641297269345453) |
-| 3 | [Brad Deegan](../../persons/brad_deegan/555.md) | 40+ | | 2:28.26 | 2:35.06 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/3635598963248617/permalink/3641455905996256) / [Mobile](https://m.facebook.com/events/3635598963248617?view=permalink&id=3641455905996256) |
+| 3 | [Brad Deegan](../../persons/brad_deegan/555.md) | 40+ | <i class="flag flag-AU" /> | 2:28.26 | 2:35.06 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/3635598963248617/permalink/3641455905996256) / [Mobile](https://m.facebook.com/events/3635598963248617?view=permalink&id=3641455905996256) |
 
 #### [2026-01-19](../../results/2026-01-19/555.md)
 

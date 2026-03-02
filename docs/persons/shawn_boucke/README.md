@@ -17,7 +17,7 @@
 | [4x4x4](444.md) | 43.27 | 49.26 | 🏆 x 24 | 💥 x 2, 🔥 x 3, ⚡ x 7 |
 | [5x5x5](555.md) | 2:05.29 | 2:20.52 |  | 🔥 x 1, ⚡ x 1 |
 | [3x3x3 OH](333oh.md) | 23.99 | 27.70 | 🏆 x 1 | 🔥 x 1, ⚡ x 2 |
-| [3x3x3 FMC](333fm.md) | 23 | 24.67 | 🏆 x 41 | 💥 x 1, 🔥 x 8, ⚡ x 9 |
+| [3x3x3 FMC](333fm.md) | 23 | 24.67 | 🏆 x 42 | 💥 x 1, 🔥 x 9, ⚡ x 9 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

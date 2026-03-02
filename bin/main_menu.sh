@@ -8,7 +8,8 @@ set +x
 
 # Get dates - do out of loop as the generate_newform can change them, this way they stay the same until the menu is closed and rerun
 cd bin
-. generate_compdates.sh
+pwd
+. ./generate_compdates.sh
 	
 ## Main menu
 while true; do
@@ -40,11 +41,11 @@ while true; do
 		
 	case "$UserSel" in
 		""|"Q"|"q") exit 0;;
-		"1") . generate_results.sh;;
-		"2") . generate_scrambles.sh;;
-		"3") . generate_newform.sh;;
+		"1") . ./generate_results.sh;;
+		"2") . ./generate_scrambles.sh;;
+		"3") . ./generate_newform.sh;;
 		"4") git push;;
-		"0") . generate_all.sh;;		
+		"0") . ./generate_all.sh;;		
 	esac
 	
 	set +x

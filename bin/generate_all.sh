@@ -3,15 +3,15 @@
 ## Created Toby 26/10/2025
 
 # Results
-. generate_results.sh
+. ./generate_results.sh
 
 # Scrambles
 cd $PROJ_DIR/bin
-. generate_scrambles.sh
+. ./generate_scrambles.sh
 
 # Links
 cd $PROJ_DIR/bin
-. generate_newform.sh
+. ./generate_newform.sh
 
 # Push
 echo

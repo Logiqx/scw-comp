@@ -11,6 +11,7 @@
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3 BLD](333bf.md) | 2:57.11 | 5:49.95 |  | 🥉 x 2 | 🔥 x 1, ⚡ x 4 |
+| [4x4x4 BLD](444bf.md) | 14:33.68 | 15:40.82 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [5x5x5 BLD](555bf.md) | 54:29.50 | - |  | 🥈 x 1 | ⚡ x 1 |
 | [3x3x3 MBLD](333mbf.md) | 6/7 in 58:25 | - | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | ⚡ x 2 |
 

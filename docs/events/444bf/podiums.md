@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-02-16](../../results/2026-02-16/444bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/444bf.md) | 50+ | <i class="flag flag-AU" /> | 5:48.11 | DNF | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1348907486924234/permalink/1353097439838572) / [Mobile](https://m.facebook.com/events/1348907486924234?view=permalink&id=1353097439838572) |
+| 2 | [Stephen Burson](../../persons/stephen_burson/444bf.md) | 50+ | <i class="flag flag-US" /> | 14:33.68 | 15:40.82 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1348907486924234/permalink/1355344286280554) / [Mobile](https://m.facebook.com/events/1348907486924234?view=permalink&id=1355344286280554) |
+
 #### [2026-01-19](../../results/2026-01-19/444bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

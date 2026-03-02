@@ -1,0 +1,83 @@
+2026-03-02 23:04:33,145 INFO [main] o.w.t.d.j.s.MainLauncher [MainLauncher.kt:43] Detected os: Linux
+2026-03-02 23:04:33,148 INFO [main] o.w.t.d.j.s.MainLauncher [MainLauncher.kt:49] needsReExecing: false
+2026-03-02 23:04:33,521 ERROR [main] d.s.SystemTray [SystemTray.java:685] AppIndicator unable to load.  Please install libappindicator3, for example: 'apt install libappindicator3'.
+2026-03-02 23:04:33,521 WARN [main] o.w.t.d.j.s.OfflineJarUtils [OfflineJarUtils.kt:49] SystemTray is not supported
+2026-03-02 23:04:33,538 INFO [main] o.w.t.d.j.WebscramblesServer [WebscramblesServer.kt:81] TNoodle-WCA-1.2.2 started
+2026-03-02 23:04:33,600 INFO [main] Application [ApplicationEngineEnvironmentReloading.kt:161] Autoreload is disabled because the development mode is off.
+2026-03-02 23:04:33,843 INFO [main] Application [BaseApplicationEngine.kt:65] Application started in 0.264 seconds.
+2026-03-02 23:04:33,940 INFO [DefaultDispatcher-worker-1] Application [BaseApplicationEngine.kt:77] Responding at http://0.0.0.0:2014
+2026-03-02 23:04:33,945 ERROR [main] o.w.t.d.j.s.OfflineJarUtils [OfflineJarUtils.kt:32] Sorry, it appears the Desktop api is supported on your platform, but the BROWSE action is not.
+2026-03-02 23:04:37,928 INFO [eventLoopGroupProxy-4-1] c.t.Search [Search.java:85] Initialize Center1 Solver...
+2026-03-02 23:04:38,004 INFO [eventLoopGroupProxy-4-1] c.t.Center1 [Center1.java:94] Create Phase1 Center Move Table...
+2026-03-02 23:04:38,045 INFO [eventLoopGroupProxy-4-1] c.t.Search [Search.java:94] Initialize Center2 Solver...
+2026-03-02 23:04:38,090 INFO [eventLoopGroupProxy-4-1] c.t.Search [Search.java:98] Initialize Center3 Solver...
+2026-03-02 23:04:38,127 INFO [eventLoopGroupProxy-4-1] c.t.Search [Search.java:102] Initialize Edge3 Solver...
+2026-03-02 23:04:38,140 DEBUG [eventLoopGroupProxy-4-1] c.t.Edge3 [Edge3.java:235] 1	4
+2026-03-02 23:04:38,168 DEBUG [eventLoopGroupProxy-4-1] c.t.Edge3 [Edge3.java:235] 2	16
+2026-03-02 23:04:38,197 DEBUG [eventLoopGroupProxy-4-1] c.t.Edge3 [Edge3.java:235] 3	55
+2026-03-02 23:04:38,216 DEBUG [eventLoopGroupProxy-4-1] c.t.Edge3 [Edge3.java:235] 4	324
+2026-03-02 23:04:38,246 DEBUG [eventLoopGroupProxy-4-1] c.t.Edge3 [Edge3.java:235] 5	1922
+2026-03-02 23:04:38,267 DEBUG [eventLoopGroupProxy-4-1] c.t.Edge3 [Edge3.java:235] 6	12275
+2026-03-02 23:04:38,275 DEBUG [eventLoopGroupProxy-4-1] c.t.Edge3 [Edge3.java:235] 7	77640
+2026-03-02 23:04:38,319 DEBUG [eventLoopGroupProxy-4-1] c.t.Edge3 [Edge3.java:235] 8	485359
+2026-03-02 23:04:38,527 DEBUG [eventLoopGroupProxy-4-1] c.t.Edge3 [Edge3.java:235] 9	2778197
+2026-03-02 23:04:38,527 INFO [eventLoopGroupProxy-4-1] c.t.Search [Search.java:108] OK
+2026-03-02 23:04:42,746 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:174] 3678
+2026-03-02 23:04:42,759 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  0     4
+2026-03-02 23:04:42,760 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  1     6
+2026-03-02 23:04:42,760 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  2    16
+2026-03-02 23:04:42,760 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  3    28
+2026-03-02 23:04:42,760 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  4    86
+2026-03-02 23:04:42,760 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  5   128
+2026-03-02 23:04:42,761 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  6   188
+2026-03-02 23:04:42,761 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  7   318
+2026-03-02 23:04:42,761 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  8   564
+2026-03-02 23:04:42,761 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  9  1168
+2026-03-02 23:04:42,762 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103] 10  2408
+2026-03-02 23:04:42,762 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103] 11  4116
+2026-03-02 23:04:42,762 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103] 12  5988
+2026-03-02 23:04:42,762 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103] 13  6887
+2026-03-02 23:04:42,762 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103] 14  7298
+2026-03-02 23:04:42,763 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103] 15  7348
+2026-03-02 23:04:42,763 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103] 16  7352
+2026-03-02 23:04:42,763 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103] 17  7354
+2026-03-02 23:04:42,763 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103] 18  7356
+2026-03-02 23:04:42,763 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  0     1
+2026-03-02 23:04:42,763 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  1     5
+2026-03-02 23:04:42,763 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  2    20
+2026-03-02 23:04:42,764 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  3    30
+2026-03-02 23:04:42,764 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  4   108
+2026-03-02 23:04:42,764 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  5   150
+2026-03-02 23:04:42,764 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  6   348
+2026-03-02 23:04:42,764 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  7   512
+2026-03-02 23:04:42,765 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  8  2120
+2026-03-02 23:04:42,766 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103]  9  2962
+2026-03-02 23:04:42,767 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103] 10  5920
+2026-03-02 23:04:42,769 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103] 11  6570
+2026-03-02 23:04:42,770 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103] 12  7320
+2026-03-02 23:04:42,771 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103] 13  7338
+2026-03-02 23:04:42,772 DEBUG [eventLoopGroupProxy-4-1] c.s.Shape [Shape.java:103] 14  7356
+2026-03-02 23:04:42,783 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146]  1     8
+2026-03-02 23:04:42,784 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146]  2    29
+2026-03-02 23:04:42,784 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146]  3    89
+2026-03-02 23:04:42,784 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146]  4   278
+2026-03-02 23:04:42,784 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146]  5   803
+2026-03-02 23:04:42,785 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146]  6  2000
+2026-03-02 23:04:42,785 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146]  7  4420
+2026-03-02 23:04:42,785 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146]  8  9196
+2026-03-02 23:04:42,786 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146]  9 16868
+2026-03-02 23:04:42,787 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146] 10 28800
+2026-03-02 23:04:42,787 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146] 11 43150
+2026-03-02 23:04:42,788 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146] 12 58394
+2026-03-02 23:04:42,789 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146] 13 72518
+2026-03-02 23:04:42,790 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146] 14 79308
+2026-03-02 23:04:42,790 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146] 15 80616
+2026-03-02 23:04:42,790 DEBUG [eventLoopGroupProxy-4-1] c.s.Square [Square.java:146] 16 80640
+2026-03-02 23:07:18,740 INFO [main] o.w.t.d.j.s.MainLauncher [MainLauncher.kt:43] Detected os: Linux
+2026-03-02 23:07:18,742 INFO [main] o.w.t.d.j.s.MainLauncher [MainLauncher.kt:49] needsReExecing: false
+2026-03-02 23:07:19,004 ERROR [main] d.s.SystemTray [SystemTray.java:685] AppIndicator unable to load.  Please install libappindicator3, for example: 'apt install libappindicator3'.
+2026-03-02 23:07:19,005 WARN [main] o.w.t.d.j.s.OfflineJarUtils [OfflineJarUtils.kt:49] SystemTray is not supported
+2026-03-02 23:07:19,017 WARN [eventLoopGroupProxy-4-2] Application [ShutDownUrl.kt:29] Shutdown URL was called: server is going down
+2026-03-02 23:07:19,021 INFO [main] o.w.t.d.j.WebscramblesServer [WebscramblesServer.kt:81] TNoodle-WCA-1.2.2 started
+2026-03-02 23:07:19,059 INFO [main] Application [ApplicationEngineEnvironmentReloading.kt:161] Autoreload is disabled because the development mode is off.
+2026-03-02 23:07:19,245 INFO [main] Application [BaseApplicationEngine.kt:65] Application started in 0.198 seconds.

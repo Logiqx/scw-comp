@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-02-16](../../results/2026-02-16/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:07.64 | 1:17.96 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2070737257081600/permalink/2074645113357481) / [Mobile](https://m.facebook.com/events/2070737257081600?view=permalink&id=2074645113357481) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | 40+ | <i class="flag flag-VE" /> | 1:21.42 | 1:24.84 | 🥈 | [Desktop](https://www.facebook.com/events/2070737257081600/permalink/2076700773151915) / [Mobile](https://m.facebook.com/events/2070737257081600?view=permalink&id=2076700773151915) |
+| 3 | [Veronika Rose](../../persons/veronika_rose/minx.md) | 40+ | <i class="flag flag-SK" /> | 1:33.05 | 1:35.66 | 🥉 | [Desktop](https://www.facebook.com/events/2070737257081600/permalink/2081793629309296) / [Mobile](https://m.facebook.com/events/2070737257081600?view=permalink&id=2081793629309296) |
+
 #### [2026-02-02](../../results/2026-02-02/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

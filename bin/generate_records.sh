@@ -10,7 +10,7 @@ set +x
 # Check we have dates
 if [ -z "$OldDate" ]; then
 	cd bin
-	. generate_compdates.sh
+	. ./generate_compdates.sh
 fi
 
 

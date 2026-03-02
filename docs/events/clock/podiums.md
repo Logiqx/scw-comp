@@ -6,13 +6,21 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-02-16](../../results/2026-02-16/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 8.25 | 8.62 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1441642847626663/permalink/1451561683301446) / [Mobile](https://m.facebook.com/events/1441642847626663?view=permalink&id=1451561683301446) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/clock.md) | 40+ | <i class="flag flag-VE" /> | 10.29 | 11.70 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1441642847626663/permalink/1447400310384250) / [Mobile](https://m.facebook.com/events/1441642847626663?view=permalink&id=1447400310384250) |
+| 3 | [Joe Kucala](../../persons/joe_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 12.53 | 13.73 | 🥉 | [Desktop](https://www.facebook.com/events/1441642847626663/permalink/1447328463724768) / [Mobile](https://m.facebook.com/events/1441642847626663?view=permalink&id=1447328463724768) |
+
 #### [2026-02-02](../../results/2026-02-02/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Lisa Kucala](../../persons/lisa_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 8.53 | 9.22 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1233631542212015) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1233631542212015) |
 | 2 | [Joe Kucala](../../persons/joe_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 10.88 | 12.69 | 🥈 | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1231037165804786) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1231037165804786) |
-| 3 | [Brad Deegan](../../persons/brad_deegan/clock.md) | 40+ | | 14.99 | 16.07 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1227000012875168) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1227000012875168) |
+| 3 | [Brad Deegan](../../persons/brad_deegan/clock.md) | 40+ | <i class="flag flag-AU" /> | 14.99 | 16.07 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1222564126652090/permalink/1227000012875168) / [Mobile](https://m.facebook.com/events/1222564126652090?view=permalink&id=1227000012875168) |
 
 #### [2026-01-19](../../results/2026-01-19/clock.md)
 

@@ -10,10 +10,11 @@
 
 #### Clock Results
 
-<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-02-16](../../results/2026-02-16/clock.md) | 40+ | **10.29** | **11.70** | 🥈 🔥 ⚡ | **10.29** | 12.47 | DNF | 11.50 | 11.12 | [Desktop](https://www.facebook.com/events/1441642847626663/permalink/1447400310384250) / [Mobile](https://m.facebook.com/events/1441642847626663?view=permalink&id=1447400310384250) |
 | [2023-01-09](../../results/2023-01-09/clock.md) | <40 | 13.15 | 15.07 | 🏆 | 16.35 | 13.81 | 13.15 | 23.30 | 15.06 | [Desktop](https://www.facebook.com/events/3345232965716031/permalink/3355464981359496) / [Mobile](https://m.facebook.com/events/3345232965716031?view=permalink&id=3355464981359496) |
 | [2022-07-25](../../results/2022-07-25/clock.md) | <40 | 13.27 | 14.26 | 🏆 | 13.27 | 15.05 | 14.36 | 13.50 | 14.93 | [Desktop](https://www.facebook.com/events/587016656266234/permalink/595783125389587) / [Mobile](https://m.facebook.com/events/587016656266234?view=permalink&id=595783125389587) |
 | [2022-01-10](../../results/2022-01-10/clock.md) | <40 | 12.08 | 13.16 | 🏆 | 12.58 | 13.01 | 13.88 | 12.08 | 15.44 | [Desktop](https://www.facebook.com/events/1071902263370982/permalink/1080484942512714) / [Mobile](https://m.facebook.com/events/1071902263370982?view=permalink&id=1080484942512714) |
