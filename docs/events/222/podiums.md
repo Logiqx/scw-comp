@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-03-02](../../results/2026-03-02/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | 40+ | <i class="flag flag-VE" /> | 4.58 | 5.45 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1413099227213564/permalink/1423009776222509) / [Mobile](https://m.facebook.com/events/1413099227213564?view=permalink&id=1423009776222509) |
+| 2 | [Veronika Rose](../../persons/veronika_rose/222.md) | 40+ | <i class="flag flag-SK" /> | 5.66 | 6.43 | 🥈 | [Desktop](https://www.facebook.com/events/1413099227213564/permalink/1417619803428173) / [Mobile](https://m.facebook.com/events/1413099227213564?view=permalink&id=1417619803428173) |
+| 3 | [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 5.20 | 8.01 | 🥉 | [Desktop](https://www.facebook.com/events/1413099227213564/permalink/1422140636309423) / [Mobile](https://m.facebook.com/events/1413099227213564?view=permalink&id=1422140636309423) |
+
 #### [2026-02-16](../../results/2026-02-16/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

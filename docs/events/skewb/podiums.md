@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-03-02](../../results/2026-03-02/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | 40+ | <i class="flag flag-VE" /> | 8.28 | 10.14 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1939832996740126/permalink/1949833162406776) / [Mobile](https://m.facebook.com/events/1939832996740126?view=permalink&id=1949833162406776) |
+| 2 | [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 12.54 | 14.53 | 🥈 | [Desktop](https://www.facebook.com/events/1939832996740126/permalink/1943759739680785) / [Mobile](https://m.facebook.com/events/1939832996740126?view=permalink&id=1943759739680785) |
+
 #### [2026-02-16](../../results/2026-02-16/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

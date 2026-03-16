@@ -14,11 +14,11 @@
 | :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](333.md) | 26.63 | 35.43 |  |  | 🔥 x 17, ⚡ x 11 |
 | [2x2x2](222.md) | 2.14 | 7.45 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 2 | 💥 x 1, 🔥 x 10, ⚡ x 9 |
-| [4x4x4](444.md) | 2:41.39 | - |  | 🥉 x 1 | ⚡ x 6 |
+| [4x4x4](444.md) | 2:41.39 | - |  | 🥉 x 2 | ⚡ x 6 |
 | [3x3x3 OH](333oh.md) | 1:00.92 | 1:20.73 |  |  | 🔥 x 5, ⚡ x 4 |
-| [Pyraminx](pyram.md) | 6.61 | 9.62 | 🏆 x 6 | 🥇 x 6, 🥈 x 12, 🥉 x 15 | 💥 x 1, 🔥 x 17, ⚡ x 8 |
-| [Skewb](skewb.md) | 5.32 | 11.49 | 🏆 x 3 | 🥇 x 3, 🥈 x 11, 🥉 x 31 | 💥 x 6, 🔥 x 8, ⚡ x 9 |
-| [Clock](clock.md) | 10.75 | 12.27 | 🏆 x 6 | 🥇 x 6, 🥈 x 14, 🥉 x 13 | 🔥 x 23, ⚡ x 20 |
+| [Pyraminx](pyram.md) | 6.61 | 9.62 | 🏆 x 7 | 🥇 x 7, 🥈 x 12, 🥉 x 15 | 💥 x 1, 🔥 x 17, ⚡ x 8 |
+| [Skewb](skewb.md) | 5.32 | 11.49 | 🏆 x 3 | 🥇 x 3, 🥈 x 12, 🥉 x 31 | 💥 x 6, 🔥 x 8, ⚡ x 9 |
+| [Clock](clock.md) | 10.75 | 12.27 | 🏆 x 7 | 🥇 x 7, 🥈 x 14, 🥉 x 13 | 🔥 x 23, ⚡ x 20 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

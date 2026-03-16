@@ -61,10 +61,10 @@
 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | <i class="flag flag-GB" /> | 4.26 | 5.17 | 🏆 x 4 | 🥇 x 5, 🥈 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 2 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | <i class="flag flag-IT" /> | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 2.36 | 6.92 | 🏆 x 8 | 🥇 x 13, 🥈 x 23, 🥉 x 42 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
-| [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 2.01 | 5.56 | 🏆 x 26 | 🥇 x 32, 🥈 x 13, 🥉 x 9 | 🔥 x 5, ⚡ x 6 |
+| [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 2.01 | 5.56 | 🏆 x 26 | 🥇 x 32, 🥈 x 13, 🥉 x 10 | 🔥 x 5, ⚡ x 6 |
 | [Dean Money](../../persons/dean_money/222.md) | 50+ | <i class="flag flag-US" /> | 6.68 | 10.23 |  |  | 🔥 x 2, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | <i class="flag flag-US" /> | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | 40+ | <i class="flag flag-VE" /> | 4.81 | 5.81 | 🏆 x 15 | 🥇 x 3, 🥈 x 1 | 💥 x 1, 🔥 x 6, ⚡ x 5 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | 40+ | <i class="flag flag-VE" /> | 4.58 | 5.45 | 🏆 x 16 | 🥇 x 4, 🥈 x 1 | 💥 x 1, 🔥 x 7, ⚡ x 6 |
 | [Eric Dodson](../../persons/eric_dodson/222.md) | 50+ | <i class="flag flag-US" /> | 6.10 | 7.57 | 🏆 x 2 | 🥇 x 2, 🥈 x 1, 🥉 x 5 | 🔥 x 8, ⚡ x 11 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/222.md) | 40+ | <i class="flag flag-JP" /> | 3.80 | 5.52 | 🏆 x 2 | 🥇 x 3, 🥈 x 14, 🥉 x 7 | 🔥 x 5, ⚡ x 3 |
 | [Geoff Hartnell](../../persons/geoff_hartnell/222.md) | 40+ | <i class="flag flag-GB" /> | 4.64 | 10.29 |  |  | 🔥 x 3, ⚡ x 2 |
@@ -107,7 +107,7 @@
 | [Terence Brown](../../persons/terence_brown/222.md) | 40+ | <i class="flag flag-NZ" /> | 4.21 | 7.55 | 🏆 x 1 | 🥇 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/222.md) | 40+ | <i class="flag flag-FR" /> | 3.18 | 6.10 |  | 🥈 x 4, 🥉 x 6 | 💥 x 1, 🔥 x 3, ⚡ x 5 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/222.md) | 40+ | <i class="flag flag-IN" /> | 4.72 | 5.74 |  | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [Veronika Rose](../../persons/veronika_rose/222.md) | 40+ | <i class="flag flag-SK" /> | 5.14 | 6.07 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 2, ⚡ x 1 |
+| [Veronika Rose](../../persons/veronika_rose/222.md) | 40+ | <i class="flag flag-SK" /> | 5.14 | 6.07 |  | 🥈 x 4, 🥉 x 1 | 🔥 x 2, ⚡ x 1 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/222.md) | 50+ | <i class="flag flag-PL" /> | 4.81 | 7.52 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 4 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/222.md) | 40+ | <i class="flag flag-TW" /> | 4.73 | 6.95 | 🏆 x 1 | 🥇 x 2, 🥈 x 1, 🥉 x 3 | 🔥 x 4, ⚡ x 4 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/222.md) | 40+ | <i class="flag flag-FR" /> | 3.53 | 5.83 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
@@ -121,7 +121,7 @@
 | [Chris Looney](../../persons/chris_looney/222.md) | <40 | <i class="flag flag-US" /> | 2.11 | 5.89 | 🏆 x 3 |  | 🔥 x 3, ⚡ x 4 |
 | [Chris Thames](../../persons/chris_thames/222.md) | <40 | <i class="flag flag-US" /> | 4.11 | 7.33 |  |  | 🔥 x 6, ⚡ x 3 |
 | [Ed Connell](../../persons/ed_connell/222.md) | <40 | <i class="flag flag-IE" /> | 2.74 | 5.47 | 🏆 x 1 |  | 💥 x 1, 🔥 x 6, ⚡ x 4 |
-| [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | 40+ | <i class="flag flag-VE" /> | 2.40 | 4.57 | 🏆 x 15 | 🥇 x 3, 🥈 x 1 | 💥 x 1, 🔥 x 6, ⚡ x 5 |
+| [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | 40+ | <i class="flag flag-VE" /> | 2.40 | 4.57 | 🏆 x 16 | 🥇 x 4, 🥈 x 1 | 💥 x 1, 🔥 x 7, ⚡ x 6 |
 | [Fred Johnson](../../persons/fred_johnson/222.md) | <40 | <i class="flag flag-US" /> | 4.80 | 5.79 | 🏆 x 2 |  | 🔥 x 2, ⚡ x 3 |
 | [Go-ho Choi](../../persons/go_ho_choi/222.md) | 40+ | <i class="flag flag-KR" /> | 3.50 | 4.50 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [Greg Simmons](../../persons/greg_simmons/222.md) | <40 | <i class="flag flag-GB" /> | 6.67 | 7.98 |  |  | 🔥 x 3, ⚡ x 3 |

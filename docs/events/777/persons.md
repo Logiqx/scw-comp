@@ -25,7 +25,7 @@
 | [Lisa Kucala](../../persons/lisa_kucala/777.md) | 60+ | <i class="flag flag-US" /> | 7:53.91 | DNF |  | 🥉 x 7 | 💥 x 7, ⚡ x 8 |
 | [Michael Orger](../../persons/michael_orger/777.md) | 50+ | <i class="flag flag-GB" /> | 8:43.95 | DNF |  |  | ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/777.md) | 50+ | <i class="flag flag-US" /> | 9:01.00 | DNF |  | 🥈 x 1 | ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 3:54.69 | 4:11.87 | 🏆 x 15 | 🥇 x 15, 🥈 x 19, 🥉 x 9 | 💥 x 9, 🔥 x 9, ⚡ x 5 |
+| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 3:54.69 | 4:11.87 | 🏆 x 15 | 🥇 x 15, 🥈 x 20, 🥉 x 9 | 💥 x 9, 🔥 x 9, ⚡ x 5 |
 
 #### Over 40
 
@@ -36,7 +36,7 @@
 | [Brad Deegan](../../persons/brad_deegan/777.md) | 40+ | <i class="flag flag-AU" /> | 8:06.90 | DNF |  |  | ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/777.md) | 50+ | <i class="flag flag-GB" /> | 4:26.06 | 4:42.46 |  | 🥈 x 5, 🥉 x 4 | 💥 x 7, 🔥 x 6, ⚡ x 6 |
 | [Dan Smith](../../persons/dan_smith/777.md) | 50+ | <i class="flag flag-US" /> | 9:50.21 | DNF |  | 🥈 x 1 | ⚡ x 1 |
-| [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 3:53.67 | 4:15.89 | 🏆 x 45 | 🥇 x 47, 🥈 x 19, 🥉 x 12 | 💥 x 2, 🔥 x 14, ⚡ x 12 |
+| [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 3:53.67 | 4:15.89 | 🏆 x 46 | 🥇 x 48, 🥈 x 19, 🥉 x 12 | 💥 x 2, 🔥 x 14, ⚡ x 12 |
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | <i class="flag flag-US" /> | 15:59.23 | DNF |  | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/777.md) | 40+ | <i class="flag flag-VE" /> | 5:44.31 | 5:53.14 | 🏆 x 2 | 🥈 x 1 | 🔥 x 8, ⚡ x 8 |
 | [Eric Dodson](../../persons/eric_dodson/777.md) | 50+ | <i class="flag flag-US" /> | 8:03.49 | DNF |  | 🥉 x 1 | ⚡ x 2 |
@@ -53,7 +53,7 @@
 | [Michael Orger](../../persons/michael_orger/777.md) | 50+ | <i class="flag flag-GB" /> | 8:43.95 | DNF |  |  | ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/777.md) | 50+ | <i class="flag flag-US" /> | 9:01.00 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Pete Lee](../../persons/pete_lee/777.md) | 40+ | <i class="flag flag-GB" /> | 4:56.80 | 5:13.03 | 🏆 x 15 | 🥈 x 1, 🥉 x 4 | 🔥 x 13, ⚡ x 21 |
-| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 3:54.69 | 4:11.87 | 🏆 x 15 | 🥇 x 15, 🥈 x 19, 🥉 x 9 | 💥 x 9, 🔥 x 9, ⚡ x 5 |
+| [Shen Flindell](../../persons/shen_flindell/777.md) | 50+ | <i class="flag flag-AU" /> | 3:54.69 | 4:11.87 | 🏆 x 15 | 🥇 x 15, 🥈 x 20, 🥉 x 9 | 💥 x 9, 🔥 x 9, ⚡ x 5 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/777.md) | 40+ | <i class="flag flag-TW" /> | 6:26.88 | 6:39.18 |  | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 3 |
 
 #### Under 40
@@ -65,7 +65,7 @@
 | [Chris Thames](../../persons/chris_thames/777.md) | <40 | <i class="flag flag-US" /> | 14:00.59 | DNF |  |  | ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/777.md) | <40 | <i class="flag flag-IE" /> | 7:22.15 | DNF |  |  | ⚡ x 3 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/777.md) | 40+ | <i class="flag flag-VE" /> | 5:09.66 | 5:23.30 | 🏆 x 2 | 🥈 x 1 | 🔥 x 8, ⚡ x 8 |
-| [Fred Johnson](../../persons/fred_johnson/777.md) | <40 | <i class="flag flag-US" /> | 4:29.46 | 4:48.10 |  |  | 🔥 x 4, ⚡ x 4 |
+| [Fred Johnson](../../persons/fred_johnson/777.md) | <40 | <i class="flag flag-US" /> | 4:29.46 | 4:47.51 |  |  | 🔥 x 5, ⚡ x 4 |
 | [Pete Lee](../../persons/pete_lee/777.md) | 40+ | <i class="flag flag-GB" /> | 5:04.61 | 5:31.60 | 🏆 x 15 | 🥈 x 1, 🥉 x 4 | 🔥 x 13, ⚡ x 21 |
 | [Peter Osudar](../../persons/peter_osudar/777.md) | <40 | <i class="flag flag-CA" /> | 6:13.99 | 6:36.78 |  |  | 🔥 x 1, ⚡ x 1 |
 

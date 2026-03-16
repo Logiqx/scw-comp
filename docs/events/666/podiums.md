@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-03-02](../../results/2026-03-02/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 2:50.27 | 3:02.13 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/932001989228139/permalink/942154074879597) / [Mobile](https://m.facebook.com/events/932001989228139?view=permalink&id=942154074879597) |
+| 2 | [Daniel Houghton](../../persons/daniel_houghton/666.md) | 40+ | <i class="flag flag-CH" /> | 3:06.59 | 3:16.81 | 🥈 | [Desktop](https://www.facebook.com/events/932001989228139/permalink/941640371597634) / [Mobile](https://m.facebook.com/events/932001989228139?view=permalink&id=941640371597634) |
+
 #### [2026-02-16](../../results/2026-02-16/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

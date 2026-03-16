@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-03-02](../../results/2026-03-02/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 50+ | <i class="flag flag-BR" /> | 28 | 32.00 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/795848283561212/permalink/804465876032786) / [Mobile](https://m.facebook.com/events/795848283561212?view=permalink&id=804465876032786) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 33 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/795848283561212/permalink/800926129720094) / [Mobile](https://m.facebook.com/events/795848283561212?view=permalink&id=800926129720094) |
+
 #### [2026-02-16](../../results/2026-02-16/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

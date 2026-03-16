@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-03-02](../../results/2026-03-02/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 20.91 | 22.78 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1413099227213564/permalink/1420899179766902) / [Mobile](https://m.facebook.com/events/1413099227213564?view=permalink&id=1420899179766902) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333oh.md) | 40+ | <i class="flag flag-VE" /> | 34.14 | 39.51 | 🥈 | [Desktop](https://www.facebook.com/events/1413099227213564/permalink/1423008886222598) / [Mobile](https://m.facebook.com/events/1413099227213564?view=permalink&id=1423008886222598) |
+| 3 | [Pete Lee](../../persons/pete_lee/333oh.md) | 40+ | <i class="flag flag-GB" /> | 44.39 | 52.69 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1413099227213564/permalink/1414067337116753) / [Mobile](https://m.facebook.com/events/1413099227213564?view=permalink&id=1414067337116753) |
+
 #### [2026-02-16](../../results/2026-02-16/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
