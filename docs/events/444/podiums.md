@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-03-16](../../results/2026-03-16/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 51.22 | 52.95 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1255580326038989/permalink/1263291495267872) / [Mobile](https://m.facebook.com/events/1255580326038989?view=permalink&id=1263291495267872) |
+| 2 | [Enrymar Cisneros](../../persons/enrymar_cisneros/444.md) | 40+ | <i class="flag flag-VE" /> | 52.76 | 57.24 | 🥈 | [Desktop](https://www.facebook.com/events/1255580326038989/permalink/1259646762299012) / [Mobile](https://m.facebook.com/events/1255580326038989?view=permalink&id=1259646762299012) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 50.78 | 58.28 | 🥉 | [Desktop](https://www.facebook.com/events/1255580326038989/permalink/1264900925106929) / [Mobile](https://m.facebook.com/events/1255580326038989?view=permalink&id=1264900925106929) |
+
 #### [2026-03-02](../../results/2026-03-02/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

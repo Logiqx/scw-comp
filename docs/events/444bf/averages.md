@@ -10,14 +10,14 @@
 
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/444bf.md) | [2025-10-13](../../results/2025-10-13/444bf.md) | 50+ | <i class="flag flag-AU" /> | 7:15.22 | 🏆 x 30 | 🥇 x 30 | 💥 x 5, 🔥 x 5, ⚡ x 8 | [Desktop](https://www.facebook.com/events/1202135511793512/permalink/1202933148380415) / [Mobile](https://m.facebook.com/events/1202135511793512?view=permalink&id=1202933148380415) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/444bf.md) | [2026-03-16](../../results/2026-03-16/444bf.md) | 50+ | <i class="flag flag-AU" /> | 6:21.67 | 🏆 x 31 | 🥇 x 31 | 💥 x 6, 🔥 x 6, ⚡ x 9 | [Desktop](https://www.facebook.com/events/950352614010381/permalink/956512590061050) / [Mobile](https://m.facebook.com/events/950352614010381?view=permalink&id=956512590061050) |
 | 2 | [Stephen Burson](../../persons/stephen_burson/444bf.md) | [2026-02-16](../../results/2026-02-16/444bf.md) | 50+ | <i class="flag flag-US" /> | 15:40.82 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1348907486924234/permalink/1355344286280554) / [Mobile](https://m.facebook.com/events/1348907486924234?view=permalink&id=1355344286280554) |
 
 #### Over 40
 
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/444bf.md) | [2025-10-13](../../results/2025-10-13/444bf.md) | 50+ | <i class="flag flag-AU" /> | 7:15.22 | 🏆 x 30 | 🥇 x 30 | 💥 x 5, 🔥 x 5, ⚡ x 8 | [Desktop](https://www.facebook.com/events/1202135511793512/permalink/1202933148380415) / [Mobile](https://m.facebook.com/events/1202135511793512?view=permalink&id=1202933148380415) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/444bf.md) | [2026-03-16](../../results/2026-03-16/444bf.md) | 50+ | <i class="flag flag-AU" /> | 6:21.67 | 🏆 x 31 | 🥇 x 31 | 💥 x 6, 🔥 x 6, ⚡ x 9 | [Desktop](https://www.facebook.com/events/950352614010381/permalink/956512590061050) / [Mobile](https://m.facebook.com/events/950352614010381?view=permalink&id=956512590061050) |
 | 2 | [Yuichi Hamada](../../persons/yuichi_hamada/444bf.md) | [2022-08-08](../../results/2022-08-08/444bf.md) | 40+ | <i class="flag flag-JP" /> | 10:06.86 | 🏆 x 7 | 🥇 x 7, 🥈 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 3 | [Desktop](https://www.facebook.com/1849183990/videos/1756210731397461) / [Mobile](https://m.facebook.com/1849183990/videos/1756210731397461) |
 | 3 | [Stephen Burson](../../persons/stephen_burson/444bf.md) | [2026-02-16](../../results/2026-02-16/444bf.md) | 50+ | <i class="flag flag-US" /> | 15:40.82 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1348907486924234/permalink/1355344286280554) / [Mobile](https://m.facebook.com/events/1348907486924234?view=permalink&id=1355344286280554) |
 

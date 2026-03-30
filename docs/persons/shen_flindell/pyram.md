@@ -8,10 +8,11 @@
 
 #### Pyraminx Results
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-03-16](../../results/2026-03-16/pyram.md) | 50+ | 11.19 | 17.03 | 🥈 | 16.94 | 16.94 | 11.19 | 17.21 | 17.53 | [Desktop](https://www.facebook.com/events/1935597367318690/permalink/1944546353090458) / [Mobile](https://m.facebook.com/events/1935597367318690?view=permalink&id=1944546353090458) |
 | [2026-02-16](../../results/2026-02-16/pyram.md) | 50+ | **11.11** | **14.00** | 🔥 ⚡ | **11.11** | 13.32 | 13.77 | 14.90 | 18.26 | [Desktop](https://www.facebook.com/events/1441642847626663/permalink/1451088753348739) / [Mobile](https://m.facebook.com/events/1441642847626663?view=permalink&id=1451088753348739) |
 
 

@@ -25,7 +25,7 @@
 | [Michael Orger](../../persons/michael_orger/sq1.md) | 50+ | <i class="flag flag-GB" /> | 41.95 | 1:08.80 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 16.57 | 24.19 | 🏆 x 5 | 🥇 x 5, 🥈 x 92, 🥉 x 5 | 🔥 x 19, ⚡ x 13 |
 | [Peter Douthwright](../../persons/peter_douthwright/sq1.md) | 60+ | <i class="flag flag-CA" /> | 1:14.33 | 1:36.66 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 27.84 | 35.12 | 🏆 x 7 | 🥇 x 7 | 🔥 x 3, ⚡ x 3 |
+| [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 26.65 | 35.12 | 🏆 x 8 | 🥇 x 8 | 🔥 x 3, ⚡ x 4 |
 
 #### Over 40
 
@@ -50,7 +50,7 @@
 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 16.57 | 24.19 | 🏆 x 5 | 🥇 x 5, 🥈 x 92, 🥉 x 5 | 🔥 x 19, ⚡ x 13 |
 | [Paweł Zok](../../persons/pawe_zok/sq1.md) | 40+ | <i class="flag flag-PL" /> | 57.24 | 1:13.54 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 1 |
 | [Peter Douthwright](../../persons/peter_douthwright/sq1.md) | 60+ | <i class="flag flag-CA" /> | 1:14.33 | 1:36.66 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 27.84 | 35.12 | 🏆 x 7 | 🥇 x 7 | 🔥 x 3, ⚡ x 3 |
+| [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 26.65 | 35.12 | 🏆 x 8 | 🥇 x 8 | 🔥 x 3, ⚡ x 4 |
 | [Terence Brown](../../persons/terence_brown/sq1.md) | 40+ | <i class="flag flag-NZ" /> | 27.62 | 32.91 |  | 🥈 x 3 | 🔥 x 3, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | <i class="flag flag-IN" /> | 43.91 | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/sq1.md) | 40+ | <i class="flag flag-TW" /> | 27.80 | 38.22 |  | 🥈 x 4, 🥉 x 10 | 🔥 x 4, ⚡ x 3 |

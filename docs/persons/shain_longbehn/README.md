@@ -17,6 +17,7 @@
 | [5x5x5](555.md) | 1:27.95 | 1:32.16 | 🏆 x 1 | 🔥 x 1, ⚡ x 1 |
 | [3x3x3 OH](333oh.md) | 25.80 | 27.93 | 🏆 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Square-1](sq1.md) | 11.04 | 15.69 | 🏆 x 4 | 💥 x 4, 🔥 x 3, ⚡ x 2 |
+| [3x3x3 FMC](333fm.md) | 39 | - |  | ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

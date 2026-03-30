@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-03-16](../../results/2026-03-16/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 60+ | <i class="flag flag-US" /> | 31 | 46.67 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1634129181171771/permalink/1645021253415897) / [Mobile](https://m.facebook.com/events/1634129181171771?view=permalink&id=1645021253415897) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 35 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/1634129181171771/permalink/1642369593681063) / [Mobile](https://m.facebook.com/events/1634129181171771?view=permalink&id=1642369593681063) |
+
 #### [2026-03-02](../../results/2026-03-02/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

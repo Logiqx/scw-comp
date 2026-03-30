@@ -24,6 +24,7 @@
 | [Clock](clock.md) | 10.30 | 13.19 |  | 🔥 x 2, ⚡ x 1 |
 | [3x3x3 BLD](333bf.md) | 2:59.45 | 5:17.72 |  | 🔥 x 2, ⚡ x 3 |
 | [4x4x4 BLD](444bf.md) | 37:02.35 | - |  | ⚡ x 1 |
+| [3x3x3 MBLD](333mbf.md) | 4/7 in 1:00:00 | - |  | ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>
