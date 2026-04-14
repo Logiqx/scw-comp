@@ -10,7 +10,7 @@
 
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
-| [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 5.32 | 11.49 | 🏆 x 3 | 🥇 x 3, 🥈 x 12, 🥉 x 31 | 💥 x 6, 🔥 x 8, ⚡ x 9 |
+| [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 5.32 | 11.49 | 🏆 x 3 | 🥇 x 3, 🥈 x 12, 🥉 x 32 | 💥 x 6, 🔥 x 8, ⚡ x 9 |
 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 5.34 | 9.37 | 🏆 x 14 | 🥇 x 16, 🥈 x 42, 🥉 x 16 | 💥 x 20, 🔥 x 17, ⚡ x 14 |
 | [Michael Amarello](../../persons/michael_amarello/skewb.md) | 60+ | <i class="flag flag-US" /> | 22.48 | 35.59 |  | 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
 | [Peter Douthwright](../../persons/peter_douthwright/skewb.md) | 60+ | <i class="flag flag-CA" /> | 15.41 | 26.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
@@ -24,14 +24,14 @@
 | [Eric Dodson](../../persons/eric_dodson/skewb.md) | 50+ | <i class="flag flag-US" /> | 7.27 | 8.51 | 🏆 x 10 | 🥇 x 12, 🥈 x 5, 🥉 x 3 | 🔥 x 8, ⚡ x 8 |
 | [J.M. Gerardo](../../persons/jm_gerardo/skewb.md) | 50+ | <i class="flag flag-US" /> | 13.18 | 23.25 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Jae Park](../../persons/jae_park/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.94 | 34.95 |  | 🥇 x 1, 🥈 x 9 | 💥 x 4, 🔥 x 6, ⚡ x 6 |
-| [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 5.32 | 11.49 | 🏆 x 3 | 🥇 x 3, 🥈 x 12, 🥉 x 31 | 💥 x 6, 🔥 x 8, ⚡ x 9 |
+| [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 5.32 | 11.49 | 🏆 x 3 | 🥇 x 3, 🥈 x 12, 🥉 x 32 | 💥 x 6, 🔥 x 8, ⚡ x 9 |
 | [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | <i class="flag flag-US" /> | 4.02 | 5.62 | 🏆 x 56 | 🥇 x 56, 🥉 x 1 | 💥 x 9, 🔥 x 10, ⚡ x 5 |
 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 5.34 | 9.04 | 🏆 x 14 | 🥇 x 16, 🥈 x 42, 🥉 x 16 | 💥 x 20, 🔥 x 17, ⚡ x 14 |
 | [Michael Amarello](../../persons/michael_amarello/skewb.md) | 60+ | <i class="flag flag-US" /> | 22.48 | 35.59 |  | 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
 | [Michael Orger](../../persons/michael_orger/skewb.md) | 50+ | <i class="flag flag-GB" /> | 8.09 | 11.91 |  | 🥈 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Mickey Doyle](../../persons/mickey_doyle/skewb.md) | 50+ | <i class="flag flag-US" /> | 12.01 | 15.84 | 🏆 x 2 | 🥇 x 2, 🥈 x 5, 🥉 x 5 | 🔥 x 8, ⚡ x 6 |
 | [Peter Douthwright](../../persons/peter_douthwright/skewb.md) | 60+ | <i class="flag flag-CA" /> | 15.41 | 26.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/skewb.md) | 50+ | <i class="flag flag-AU" /> | 8.70 | 12.35 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 2 |
+| [Shen Flindell](../../persons/shen_flindell/skewb.md) | 50+ | <i class="flag flag-AU" /> | 8.70 | 12.02 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 
 #### Over 40
 
@@ -44,6 +44,7 @@
 | [Brad Deegan](../../persons/brad_deegan/skewb.md) | 40+ | <i class="flag flag-AU" /> | 9.51 | 12.00 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 5.78 | 15.48 | 🏆 x 3 | 🥇 x 3, 🥈 x 5, 🥉 x 4 | 💥 x 1, 🔥 x 6, ⚡ x 3 |
 | [Daniel Houghton](../../persons/daniel_houghton/skewb.md) | 40+ | <i class="flag flag-CH" /> | 6.15 | 10.92 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 3, ⚡ x 4 |
+| [Danielle Kay](../../persons/danielle_kay/skewb.md) | 40+ | | 8.71 | 9.74 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Dean Money](../../persons/dean_money/skewb.md) | 50+ | <i class="flag flag-US" /> | 16.23 | 30.21 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | 40+ | <i class="flag flag-VE" /> | 5.31 | 7.78 | 🏆 x 13 | 🥇 x 4, 🥈 x 3 | 🔥 x 8, ⚡ x 8 |
 | [Eric Dodson](../../persons/eric_dodson/skewb.md) | 50+ | <i class="flag flag-US" /> | 4.34 | 8.51 | 🏆 x 10 | 🥇 x 12, 🥈 x 5, 🥉 x 3 | 🔥 x 8, ⚡ x 8 |
@@ -55,7 +56,7 @@
 | [JM Tambaoan](../../persons/jm_tambaoan/skewb.md) | 40+ | <i class="flag flag-PH" /> | 8.12 | 15.95 | 🏆 x 4 | 🥇 x 5, 🥈 x 9, 🥉 x 5 | 🔥 x 6, ⚡ x 5 |
 | [Jae Park](../../persons/jae_park/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.94 | 26.94 |  | 🥇 x 1, 🥈 x 9 | 💥 x 4, 🔥 x 6, ⚡ x 6 |
 | [Jeremy Duehring](../../persons/jeremy_duehring/skewb.md) | 40+ | <i class="flag flag-US" /> | 4.15 | 11.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 5.32 | 11.49 | 🏆 x 3 | 🥇 x 3, 🥈 x 12, 🥉 x 31 | 💥 x 6, 🔥 x 8, ⚡ x 9 |
+| [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 5.32 | 11.49 | 🏆 x 3 | 🥇 x 3, 🥈 x 12, 🥉 x 32 | 💥 x 6, 🔥 x 8, ⚡ x 9 |
 | [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | <i class="flag flag-US" /> | 4.02 | 5.62 | 🏆 x 56 | 🥇 x 56, 🥉 x 1 | 💥 x 9, 🔥 x 10, ⚡ x 5 |
 | [Lisa Kucala](../../persons/lisa_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 5.34 | 9.04 | 🏆 x 14 | 🥇 x 16, 🥈 x 42, 🥉 x 16 | 💥 x 20, 🔥 x 17, ⚡ x 14 |
 | [Marcel Balzer](../../persons/marcel_balzer/skewb.md) | 40+ | <i class="flag flag-DE" /> | 27.44 | 47.53 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 1 |
@@ -66,7 +67,7 @@
 | [Mickey Doyle](../../persons/mickey_doyle/skewb.md) | 50+ | <i class="flag flag-US" /> | 10.20 | 15.58 | 🏆 x 2 | 🥇 x 2, 🥈 x 5, 🥉 x 5 | 🔥 x 8, ⚡ x 6 |
 | [Peter Douthwright](../../persons/peter_douthwright/skewb.md) | 60+ | <i class="flag flag-CA" /> | 15.41 | 26.76 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/skewb.md) | 40+ | <i class="flag flag-GB" /> | 14.36 | 21.62 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [Shen Flindell](../../persons/shen_flindell/skewb.md) | 50+ | <i class="flag flag-AU" /> | 8.70 | 12.35 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 2 |
+| [Shen Flindell](../../persons/shen_flindell/skewb.md) | 50+ | <i class="flag flag-AU" /> | 8.70 | 12.02 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Terence Brown](../../persons/terence_brown/skewb.md) | 40+ | <i class="flag flag-NZ" /> | 7.32 | 11.02 |  | 🥈 x 2 | 🔥 x 1, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/skewb.md) | 40+ | <i class="flag flag-IN" /> | 4.49 | 8.06 | 🏆 x 2 | 🥇 x 2, 🥈 x 1 | 🔥 x 3, ⚡ x 3 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/skewb.md) | 40+ | <i class="flag flag-TW" /> | 7.34 | 10.16 | 🏆 x 7 | 🥇 x 8, 🥉 x 2 | 🔥 x 4, ⚡ x 4 |

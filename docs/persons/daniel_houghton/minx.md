@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-03-30](../../results/2026-03-30/minx.md) | 40+ | 1:32.04 | 1:52.83 |  | 2:17.36 | 1:53.92 | 1:52.18 | 1:32.04 | 1:52.39 | [Desktop](https://www.facebook.com/events/2705389099839095/permalink/2711229759255029) / [Mobile](https://m.facebook.com/events/2705389099839095?view=permalink&id=2711229759255029) |
 | [2026-03-02](../../results/2026-03-02/minx.md) | 40+ | 1:50.41 | 2:06.08 |  | 2:23.04 | 2:18.31 | 1:59.27 | 2:00.66 | 1:50.41 | [Desktop](https://www.facebook.com/events/1413099227213564/permalink/1422137462976407) / [Mobile](https://m.facebook.com/events/1413099227213564?view=permalink&id=1422137462976407) |
 | [2026-02-16](../../results/2026-02-16/minx.md) | 40+ | 1:42.32 | 1:54.18 |  | 2:03.20 | 2:14.63 | 1:50.72 | 1:42.32 | 1:48.61 | [Desktop](https://www.facebook.com/events/2070737257081600/permalink/2072402413581751) / [Mobile](https://m.facebook.com/events/2070737257081600?view=permalink&id=2072402413581751) |
 | [2026-02-02](../../results/2026-02-02/minx.md) | 40+ | 1:45.40 | 1:56.04 |  | 1:48.25 | 1:59.77 | 1:45.40 | 2:04.24 | 2:00.10 | [Desktop](https://www.facebook.com/events/25406338259048847/permalink/25499441999738472) / [Mobile](https://m.facebook.com/events/25406338259048847?view=permalink&id=25499441999738472) |
