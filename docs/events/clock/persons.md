@@ -44,7 +44,7 @@
 | [Brad Deegan](../../persons/brad_deegan/clock.md) | 40+ | <i class="flag flag-AU" /> | 14.99 | 16.07 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/clock.md) | 50+ | <i class="flag flag-US" /> | 16.65 | 19.05 | 🏆 x 2 | 🥇 x 2, 🥈 x 2, 🥉 x 5 | 🔥 x 8, ⚡ x 10 |
 | [Daniel Houghton](../../persons/daniel_houghton/clock.md) | 40+ | <i class="flag flag-CH" /> | 12.18 | 14.00 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 6, ⚡ x 7 |
-| [Danielle Kay](../../persons/danielle_kay/clock.md) | 40+ | | 10.08 | 10.36 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Danielle Kay](../../persons/danielle_kay/clock.md) | 40+ | <i class="flag flag-AU" /> | 10.08 | 10.36 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Denis Reimer](../../persons/denis_reimer/clock.md) | 40+ | <i class="flag flag-CA" /> | 17.23 | 21.16 | 🏆 x 1 | 🥇 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/clock.md) | 40+ | <i class="flag flag-VE" /> | 10.29 | 11.70 | 🏆 x 14 | 🥇 x 1, 🥈 x 1 | 🔥 x 8, ⚡ x 8 |
 | [Eric Dodson](../../persons/eric_dodson/clock.md) | 50+ | <i class="flag flag-US" /> | 8.81 | 9.86 | 🏆 x 6 | 🥇 x 6, 🥈 x 3, 🥉 x 3 | 🔥 x 8, ⚡ x 6 |

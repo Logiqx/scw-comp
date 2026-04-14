@@ -62,7 +62,7 @@
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | <i class="flag flag-IT" /> | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 2.36 | 6.92 | 🏆 x 8 | 🥇 x 13, 🥈 x 23, 🥉 x 42 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
 | [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 2.01 | 5.56 | 🏆 x 26 | 🥇 x 32, 🥈 x 14, 🥉 x 10 | 🔥 x 5, ⚡ x 6 |
-| [Danielle Kay](../../persons/danielle_kay/222.md) | 40+ | | 4.38 | 8.90 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Danielle Kay](../../persons/danielle_kay/222.md) | 40+ | <i class="flag flag-AU" /> | 4.38 | 8.90 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Dean Money](../../persons/dean_money/222.md) | 50+ | <i class="flag flag-US" /> | 6.68 | 10.23 |  |  | 🔥 x 2, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | <i class="flag flag-US" /> | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | 40+ | <i class="flag flag-VE" /> | 4.58 | 5.45 | 🏆 x 17 | 🥇 x 5, 🥈 x 1 | 💥 x 1, 🔥 x 7, ⚡ x 6 |

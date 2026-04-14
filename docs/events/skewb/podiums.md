@@ -10,7 +10,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Danielle Kay](../../persons/danielle_kay/skewb.md) | 40+ | | 8.71 | 9.74 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1949568709021134/permalink/1957547641556574) / [Mobile](https://m.facebook.com/events/1949568709021134?view=permalink&id=1957547641556574) |
+| 1 | [Danielle Kay](../../persons/danielle_kay/skewb.md) | 40+ | <i class="flag flag-AU" /> | 8.71 | 9.74 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1949568709021134/permalink/1957547641556574) / [Mobile](https://m.facebook.com/events/1949568709021134?view=permalink&id=1957547641556574) |
 | 2 | [Shen Flindell](../../persons/shen_flindell/skewb.md) | 50+ | <i class="flag flag-AU" /> | 9.52 | 12.02 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/1949568709021134/permalink/1958820111429327) / [Mobile](https://m.facebook.com/events/1949568709021134?view=permalink&id=1958820111429327) |
 | 3 | [Joe Kucala](../../persons/joe_kucala/skewb.md) | 60+ | <i class="flag flag-US" /> | 12.06 | 14.20 | 🥉 | [Desktop](https://www.facebook.com/events/1949568709021134/permalink/1953454428632562) / [Mobile](https://m.facebook.com/events/1949568709021134?view=permalink&id=1953454428632562) |
 

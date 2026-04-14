@@ -44,7 +44,7 @@
 | [Brad Deegan](../../persons/brad_deegan/skewb.md) | 40+ | <i class="flag flag-AU" /> | 9.51 | 12.00 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/skewb.md) | 50+ | <i class="flag flag-US" /> | 5.78 | 15.48 | 🏆 x 3 | 🥇 x 3, 🥈 x 5, 🥉 x 4 | 💥 x 1, 🔥 x 6, ⚡ x 3 |
 | [Daniel Houghton](../../persons/daniel_houghton/skewb.md) | 40+ | <i class="flag flag-CH" /> | 6.15 | 10.92 |  | 🥈 x 3, 🥉 x 1 | 🔥 x 3, ⚡ x 4 |
-| [Danielle Kay](../../persons/danielle_kay/skewb.md) | 40+ | | 8.71 | 9.74 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Danielle Kay](../../persons/danielle_kay/skewb.md) | 40+ | <i class="flag flag-AU" /> | 8.71 | 9.74 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Dean Money](../../persons/dean_money/skewb.md) | 50+ | <i class="flag flag-US" /> | 16.23 | 30.21 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/skewb.md) | 40+ | <i class="flag flag-VE" /> | 5.31 | 7.78 | 🏆 x 13 | 🥇 x 4, 🥈 x 3 | 🔥 x 8, ⚡ x 8 |
 | [Eric Dodson](../../persons/eric_dodson/skewb.md) | 50+ | <i class="flag flag-US" /> | 4.34 | 8.51 | 🏆 x 10 | 🥇 x 12, 🥈 x 5, 🥉 x 3 | 🔥 x 8, ⚡ x 8 |

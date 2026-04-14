@@ -38,7 +38,7 @@
 | [Andy Nicholls](../../persons/andy_nicholls/333oh.md) | 40+ | <i class="flag flag-GB" /> | 33.37 | 40.48 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 5 |
 | [Chris Wright](../../persons/chris_wright/333oh.md) | 50+ | <i class="flag flag-GB" /> | 28.30 | 32.75 | 🏆 x 4 | 🥇 x 4 | 💥 x 3, 🔥 x 3, ⚡ x 2 |
 | [Dan Smith](../../persons/dan_smith/333oh.md) | 50+ | <i class="flag flag-US" /> | 1:25.60 | 1:35.59 |  | 🥉 x 2 | 🔥 x 1, ⚡ x 1 |
-| [Danielle Kay](../../persons/danielle_kay/333oh.md) | 40+ | | 41.66 | 42.36 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Danielle Kay](../../persons/danielle_kay/333oh.md) | 40+ | <i class="flag flag-AU" /> | 41.66 | 42.36 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Ed Connell](../../persons/ed_connell/333oh.md) | 40+ | <i class="flag flag-IE" /> | 38.16 | 42.27 | 🏆 x 13 | 🥈 x 1 | 🔥 x 8, ⚡ x 3 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/333oh.md) | 40+ | <i class="flag flag-VE" /> | 27.43 | 36.44 | 🏆 x 1 | 🥈 x 5, 🥉 x 2 | 🔥 x 5, ⚡ x 3 |
 | [Eric Dodson](../../persons/eric_dodson/333oh.md) | 50+ | <i class="flag flag-US" /> | 44.71 | 1:05.04 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |

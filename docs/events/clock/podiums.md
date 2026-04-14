@@ -10,7 +10,7 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Danielle Kay](../../persons/danielle_kay/clock.md) | 40+ | | 10.08 | 10.36 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1949568709021134/permalink/1957248621586476) / [Mobile](https://m.facebook.com/events/1949568709021134?view=permalink&id=1957248621586476) |
+| 1 | [Danielle Kay](../../persons/danielle_kay/clock.md) | 40+ | <i class="flag flag-AU" /> | 10.08 | 10.36 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1949568709021134/permalink/1957248621586476) / [Mobile](https://m.facebook.com/events/1949568709021134?view=permalink&id=1957248621586476) |
 | 2 | [Joe Kucala](../../persons/joe_kucala/clock.md) | 60+ | <i class="flag flag-US" /> | 11.46 | 13.19 | 🥈 | [Desktop](https://www.facebook.com/events/1949568709021134/permalink/1953468505297821) / [Mobile](https://m.facebook.com/events/1949568709021134?view=permalink&id=1953468505297821) |
 | 3 | [Shen Flindell](../../persons/shen_flindell/clock.md) | 50+ | <i class="flag flag-AU" /> | 10.76 | 15.26 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/1949568709021134/permalink/1958841318093873) / [Mobile](https://m.facebook.com/events/1949568709021134?view=permalink&id=1958841318093873) |
 
