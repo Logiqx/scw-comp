@@ -11,9 +11,10 @@
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](333.md) | 16.24 | 18.85 |  |  | 🔥 x 2, ⚡ x 3 |
-| [2x2x2](222.md) | 5.14 | 6.07 | 🏆 x 1 | 🥇 x 1, 🥈 x 5, 🥉 x 1 | 🔥 x 2, ⚡ x 1 |
-| [Megaminx](minx.md) | 1:19.40 | 1:29.51 |  | 🥈 x 5, 🥉 x 2 | 🔥 x 1, ⚡ x 3 |
-| [Pyraminx](pyram.md) | 7.30 | 9.48 | 🏆 x 2 | 🥇 x 2, 🥈 x 4, 🥉 x 1 | 🔥 x 4, ⚡ x 3 |
+| [2x2x2](222.md) | 5.14 | 6.07 | 🏆 x 1 | 🥇 x 1, 🥈 x 5, 🥉 x 2 | 🔥 x 2, ⚡ x 1 |
+| [Megaminx](minx.md) | 1:19.40 | 1:29.51 |  | 🥈 x 6, 🥉 x 2 | 🔥 x 1, ⚡ x 3 |
+| [Pyraminx](pyram.md) | 6.11 | 9.48 | 🏆 x 3 | 🥇 x 3, 🥈 x 4, 🥉 x 1 | 🔥 x 4, ⚡ x 4 |
+| [Clock](clock.md) | 17.47 | 19.63 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [3x3x3 BLD](333bf.md) | 1:58.83 | - |  |  | ⚡ x 2 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

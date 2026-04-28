@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-04-13](../../results/2026-04-13/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:04.16 | 1:15.50 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1309623684420996/permalink/1313823614001003) / [Mobile](https://m.facebook.com/events/1309623684420996?view=permalink&id=1313823614001003) |
+| 2 | [Veronika Rose](../../persons/veronika_rose/minx.md) | 40+ | <i class="flag flag-SK" /> | 1:25.04 | 1:35.94 | 🥈 | [Desktop](https://www.facebook.com/events/1309623684420996/permalink/1317160393667325) / [Mobile](https://m.facebook.com/events/1309623684420996?view=permalink&id=1317160393667325) |
+| 3 | [Daniel Houghton](../../persons/daniel_houghton/minx.md) | 40+ | <i class="flag flag-CH" /> | 1:40.56 | 2:38.18 | 🥉 | [Desktop](https://www.facebook.com/events/1309623684420996/permalink/1318396323543732) / [Mobile](https://m.facebook.com/events/1309623684420996?view=permalink&id=1318396323543732) |
+
 #### [2026-03-30](../../results/2026-03-30/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

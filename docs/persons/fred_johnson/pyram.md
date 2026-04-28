@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-04-13](../../results/2026-04-13/pyram.md) | <40 | **9.67** | **13.78** | 🔥 ⚡ | 15.58 | 11.50 | 14.25 | 19.40 | **9.67** | [Desktop](https://www.facebook.com/frederick.g.johnson/videos/967454996218366) / [Mobile](https://m.facebook.com/frederick.g.johnson/videos/967454996218366) |
 | [2026-01-19](../../results/2026-01-19/pyram.md) | <40 | **12.71** | **15.42** | 🔥 ⚡ | 13.80 | **12.71** | 17.56 | 16.87 | 15.59 | [Desktop](https://www.facebook.com/frederick.g.johnson/videos/2759958264342117) / [Mobile](https://m.facebook.com/frederick.g.johnson/videos/2759958264342117) |
 
 

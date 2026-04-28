@@ -31,7 +31,7 @@
 | [Mickey Doyle](../../persons/mickey_doyle/clock.md) | 50+ | <i class="flag flag-US" /> | 11.20 | 12.37 | 🏆 x 4 | 🥇 x 5, 🥈 x 17, 🥉 x 19 | 🔥 x 16, ⚡ x 16 |
 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | <i class="flag flag-SE" /> | 17.75 | 23.28 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 5, ⚡ x 4 |
 | [Peter Douthwright](../../persons/peter_douthwright/clock.md) | 60+ | <i class="flag flag-CA" /> | 32.77 | 36.78 |  | 🥈 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
-| [Shen Flindell](../../persons/shen_flindell/clock.md) | 50+ | <i class="flag flag-AU" /> | 10.76 | 13.10 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
+| [Shen Flindell](../../persons/shen_flindell/clock.md) | 50+ | <i class="flag flag-AU" /> | 10.76 | 13.10 |  | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 
 #### Over 40
 
@@ -68,7 +68,8 @@
 | [Peter Andersson](../../persons/peter_andersson/clock.md) | 50+ | <i class="flag flag-SE" /> | 17.75 | 23.28 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 5, ⚡ x 4 |
 | [Peter Douthwright](../../persons/peter_douthwright/clock.md) | 60+ | <i class="flag flag-CA" /> | 32.77 | 36.78 |  | 🥈 x 1 | 💥 x 1, 🔥 x 2, ⚡ x 2 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/clock.md) | 40+ | <i class="flag flag-GB" /> | 15.16 | 16.19 |  | 🥈 x 2, 🥉 x 3 | 🔥 x 4, ⚡ x 3 |
-| [Shen Flindell](../../persons/shen_flindell/clock.md) | 50+ | <i class="flag flag-AU" /> | 10.76 | 13.10 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
+| [Shen Flindell](../../persons/shen_flindell/clock.md) | 50+ | <i class="flag flag-AU" /> | 10.76 | 13.10 |  | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
+| [Veronika Rose](../../persons/veronika_rose/clock.md) | 40+ | <i class="flag flag-SK" /> | 17.47 | 19.63 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/clock.md) | 40+ | <i class="flag flag-TW" /> | 13.35 | 15.06 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 
 #### Under 40
@@ -79,7 +80,7 @@
 | [Chris Looney](../../persons/chris_looney/clock.md) | <40 | <i class="flag flag-US" /> | 19.47 | 24.69 |  |  | 🔥 x 4, ⚡ x 4 |
 | [Ed Connell](../../persons/ed_connell/clock.md) | <40 | <i class="flag flag-IE" /> | 13.09 | 13.53 | 🏆 x 7 |  | 🔥 x 7, ⚡ x 6 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/clock.md) | 40+ | <i class="flag flag-VE" /> | 10.78 | 12.14 | 🏆 x 14 | 🥇 x 1, 🥈 x 1 | 🔥 x 8, ⚡ x 8 |
-| [Fred Johnson](../../persons/fred_johnson/clock.md) | <40 | <i class="flag flag-US" /> | 10.30 | 13.19 |  |  | 🔥 x 2, ⚡ x 1 |
+| [Fred Johnson](../../persons/fred_johnson/clock.md) | <40 | <i class="flag flag-US" /> | 10.30 | 12.34 | 🏆 x 1 |  | 🔥 x 3, ⚡ x 1 |
 | [Go-ho Choi](../../persons/go_ho_choi/clock.md) | <40 | <i class="flag flag-KR" /> | 10.95 | 12.60 | 🏆 x 1 |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Greg Simmons](../../persons/greg_simmons/clock.md) | <40 | <i class="flag flag-GB" /> | 6.65 | 7.58 | 🏆 x 15 |  | 💥 x 12, 🔥 x 10, ⚡ x 11 |
 | [Peter Osudar](../../persons/peter_osudar/clock.md) | <40 | <i class="flag flag-CA" /> | 19.18 | 21.63 |  |  | 🔥 x 1, ⚡ x 1 |

@@ -24,11 +24,11 @@
 | [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | <i class="flag flag-US" /> | 40 | DNF |  | 🥈 x 3, 🥉 x 5 | 💥 x 3, ⚡ x 3 |
 | [Eric Dodson](../../persons/eric_dodson/333fm.md) | 50+ | <i class="flag flag-US" /> | 48 | 52.67 |  |  | 🔥 x 1, ⚡ x 1 |
 | [John Cook](../../persons/john_cook/333fm.md) | 60+ | <i class="flag flag-AU" /> | 37 | DNF |  | 🥈 x 1, 🥉 x 2 | 💥 x 1, ⚡ x 4 |
-| [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 32 | 40.00 | 🏆 x 1 | 🥇 x 1, 🥈 x 11, 🥉 x 19 | 🔥 x 3, ⚡ x 3 |
+| [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 32 | 40.00 | 🏆 x 1 | 🥇 x 1, 🥈 x 12, 🥉 x 19 | 🔥 x 3, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 60+ | <i class="flag flag-US" /> | 31 | 46.67 | 🏆 x 3 | 🥇 x 7, 🥈 x 7, 🥉 x 6 | 💥 x 8, 🔥 x 9, ⚡ x 8 |
 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 50+ | <i class="flag flag-BR" /> | 28 | 31.33 | 🏆 x 33 | 🥇 x 37, 🥈 x 11, 🥉 x 1 | 🔥 x 5, ⚡ x 9 |
 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | <i class="flag flag-GB" /> | 32 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 3 | ⚡ x 3 |
-| [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 27 | 30.67 | 🏆 x 6 | 🥇 x 8, 🥈 x 20, 🥉 x 9 | 🔥 x 9, ⚡ x 6 |
+| [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 27 | 30.67 | 🏆 x 7 | 🥇 x 9, 🥈 x 20, 🥉 x 9 | 🔥 x 9, ⚡ x 6 |
 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 30.33 | 🏆 x 8 | 🥇 x 17, 🥈 x 12, 🥉 x 6 | 💥 x 1, 🔥 x 7, ⚡ x 4 |
 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | <i class="flag flag-UA" /> | 21 | DNF | 🏆 x 14 | 🥇 x 14, 🥈 x 1 | 💥 x 3, ⚡ x 4 |
 
@@ -48,13 +48,13 @@
 | [Grzegorz Pacewicz](../../persons/grzegorz_pacewicz/333fm.md) | 40+ | <i class="flag flag-PL" /> | 24 | 25.33 | 🏆 x 17 | 🥇 x 23, 🥈 x 10, 🥉 x 2 | 💥 x 5, 🔥 x 4, ⚡ x 10 |
 | [Joey Day](../../persons/joey_day/333fm.md) | 40+ | <i class="flag flag-US" /> | 62 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 | [John Cook](../../persons/john_cook/333fm.md) | 60+ | <i class="flag flag-AU" /> | 37 | DNF |  | 🥈 x 1, 🥉 x 2 | 💥 x 1, ⚡ x 4 |
-| [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 32 | 40.00 | 🏆 x 1 | 🥇 x 1, 🥈 x 11, 🥉 x 19 | 🔥 x 3, ⚡ x 3 |
+| [Kristina Lim](../../persons/kristina_lim/333fm.md) | 50+ | <i class="flag flag-US" /> | 32 | 40.00 | 🏆 x 1 | 🥇 x 1, 🥈 x 12, 🥉 x 19 | 🔥 x 3, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 60+ | <i class="flag flag-US" /> | 31 | 46.67 | 🏆 x 3 | 🥇 x 7, 🥈 x 7, 🥉 x 6 | 💥 x 8, 🔥 x 9, ⚡ x 8 |
 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 50+ | <i class="flag flag-BR" /> | 24 | 28.67 | 🏆 x 33 | 🥇 x 37, 🥈 x 11, 🥉 x 1 | 🔥 x 5, ⚡ x 9 |
 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | <i class="flag flag-GB" /> | 32 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 3 | ⚡ x 3 |
 | [Michael George](../../persons/michael_george/333fm.md) | 40+ | <i class="flag flag-GB" /> | 31 | DNF |  | 🥇 x 1, 🥈 x 4, 🥉 x 5 | ⚡ x 3 |
 | [Pete Lee](../../persons/pete_lee/333fm.md) | 40+ | <i class="flag flag-GB" /> | 50 | 55.33 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 27 | 30.67 | 🏆 x 6 | 🥇 x 8, 🥈 x 20, 🥉 x 9 | 🔥 x 9, ⚡ x 6 |
+| [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 27 | 30.67 | 🏆 x 7 | 🥇 x 9, 🥈 x 20, 🥉 x 9 | 🔥 x 9, ⚡ x 6 |
 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 30.33 | 🏆 x 8 | 🥇 x 17, 🥈 x 12, 🥉 x 6 | 💥 x 1, 🔥 x 7, ⚡ x 4 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | <i class="flag flag-TW" /> | 27 | 30.33 | 🏆 x 9 | 🥇 x 10, 🥈 x 11, 🥉 x 6 | 🔥 x 3, ⚡ x 8 |
 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | <i class="flag flag-UA" /> | 21 | DNF | 🏆 x 14 | 🥇 x 14, 🥈 x 1 | 💥 x 3, ⚡ x 4 |

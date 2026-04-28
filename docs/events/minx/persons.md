@@ -40,7 +40,7 @@
 | [Brad Deegan](../../persons/brad_deegan/minx.md) | 40+ | <i class="flag flag-AU" /> | 2:06.44 | 2:25.40 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | <i class="flag flag-GB" /> | 1:31.96 | 1:35.45 | 🏆 x 6 | 🥇 x 6, 🥈 x 2 | 💥 x 7, 🔥 x 7, ⚡ x 5 |
 | [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 3:30.20 | DNF |  | 🥈 x 5, 🥉 x 5 | ⚡ x 6 |
-| [Daniel Houghton](../../persons/daniel_houghton/minx.md) | 40+ | <i class="flag flag-CH" /> | 1:32.01 | 1:49.76 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
+| [Daniel Houghton](../../persons/daniel_houghton/minx.md) | 40+ | <i class="flag flag-CH" /> | 1:32.01 | 1:49.76 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | <i class="flag flag-US" /> | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | 40+ | <i class="flag flag-VE" /> | 1:16.68 | 1:23.85 | 🏆 x 17 | 🥇 x 1, 🥈 x 4, 🥉 x 1 | 🔥 x 10, ⚡ x 6 |
 | [Eric Dodson](../../persons/eric_dodson/minx.md) | 50+ | <i class="flag flag-US" /> | 2:27.35 | 2:49.50 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
@@ -58,10 +58,10 @@
 | [Michael Orger](../../persons/michael_orger/minx.md) | 50+ | <i class="flag flag-GB" /> | 3:57.75 | DNF |  |  | ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:51.94 | 2:07.81 | 🏆 x 26 | 🥇 x 34, 🥈 x 16, 🥉 x 4 | 🔥 x 15, ⚡ x 20 |
 | [Paweł Zok](../../persons/pawe_zok/minx.md) | 40+ | <i class="flag flag-PL" /> | 1:43.96 | 2:12.41 |  | 🥉 x 3 | 🔥 x 3, ⚡ x 6 |
-| [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:07.60 | 1:13.74 | 🏆 x 40 | 🥇 x 40, 🥈 x 9 | 🔥 x 17, ⚡ x 14 |
+| [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:04.16 | 1:13.74 | 🏆 x 41 | 🥇 x 41, 🥈 x 9 | 🔥 x 17, ⚡ x 15 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
 | [Shen Flindell](../../persons/shen_flindell/minx.md) | 50+ | <i class="flag flag-AU" /> | 1:29.38 | 1:44.54 |  | 🥈 x 5, 🥉 x 11 | 💥 x 2, 🔥 x 11, ⚡ x 8 |
-| [Veronika Rose](../../persons/veronika_rose/minx.md) | 40+ | <i class="flag flag-SK" /> | 1:19.40 | 1:29.51 |  | 🥈 x 5, 🥉 x 2 | 🔥 x 1, ⚡ x 3 |
+| [Veronika Rose](../../persons/veronika_rose/minx.md) | 40+ | <i class="flag flag-SK" /> | 1:19.40 | 1:29.51 |  | 🥈 x 6, 🥉 x 2 | 🔥 x 1, ⚡ x 3 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 1:33.32 | 1:41.81 | 🏆 x 5 | 🥇 x 8, 🥈 x 4, 🥉 x 4 | 🔥 x 7, ⚡ x 14 |
 
 #### Under 40
