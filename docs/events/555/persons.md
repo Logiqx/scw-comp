@@ -47,7 +47,7 @@
 | [Ciro Vignotto](../../persons/ciro_vignotto/555.md) | 50+ | <i class="flag flag-IT" /> | 2:08.36 | 2:18.73 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
 | [Dan Smith](../../persons/dan_smith/555.md) | 50+ | <i class="flag flag-US" /> | 2:18.42 | 2:32.51 |  | 🥇 x 5, 🥈 x 21, 🥉 x 36 | 💥 x 1, 🔥 x 3, ⚡ x 3 |
 | [Daniel Houghton](../../persons/daniel_houghton/555.md) | 40+ | <i class="flag flag-CH" /> | 1:18.54 | 1:25.65 | 🏆 x 80 | 🥇 x 82, 🥈 x 8, 🥉 x 2 | 💥 x 4, 🔥 x 11, ⚡ x 9 |
-| [Danielle Kay](../../persons/danielle_kay/555.md) | 40+ | <i class="flag flag-AU" /> | 2:30.89 | 2:44.59 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Danielle Kay](../../persons/danielle_kay/555.md) | 40+ | <i class="flag flag-AU" /> | 2:30.89 | 2:40.43 |  |  | 🔥 x 2, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/555.md) | 60+ | <i class="flag flag-US" /> | 6:41.82 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/555.md) | 40+ | <i class="flag flag-VE" /> | 1:40.87 | 1:46.73 | 🏆 x 21 | 🥈 x 4, 🥉 x 1 | 🔥 x 11, ⚡ x 10 |
 | [Eric Dodson](../../persons/eric_dodson/555.md) | 50+ | <i class="flag flag-US" /> | 2:50.88 | 2:57.27 |  | 🥉 x 2 | 🔥 x 3, ⚡ x 2 |

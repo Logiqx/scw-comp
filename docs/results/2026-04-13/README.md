@@ -12,7 +12,7 @@
 
 <span style="white-space: nowrap;">🥇 [Daniel Houghton](../../persons/daniel_houghton/333.md) 14.35</span>, <span style="white-space: nowrap;">🥈 [Toby Chamberlain](../../persons/toby_chamberlain/333.md) 14.98</span>, <span style="white-space: nowrap;">🥉 [Shen Flindell](../../persons/shen_flindell/333.md) 16.75</span>
 
-🔥 x 1 = <span style="white-space: nowrap;">[Toby Chamberlain](../../persons/toby_chamberlain/333.md) 14.98</span>
+🔥 x 2 = <span style="white-space: nowrap;">[Toby Chamberlain](../../persons/toby_chamberlain/333.md) 14.98</span>, <span style="white-space: nowrap;">[Danielle Kay](../../persons/danielle_kay/333.md) 23.99</span>
 
 ⚡ x 1 = <span style="white-space: nowrap;">[Fred Johnson](../../persons/fred_johnson/333.md) 13.73</span>
 
@@ -22,13 +22,15 @@
 
 <span style="white-space: nowrap;">🥇 [Daniel Houghton](../../persons/daniel_houghton/222.md) 6.10</span>, <span style="white-space: nowrap;">🥈 [Shen Flindell](../../persons/shen_flindell/222.md) 6.60</span>, <span style="white-space: nowrap;">🥉 [Veronika Rose](../../persons/veronika_rose/222.md) 6.75</span>
 
+🔥 x 1 = <span style="white-space: nowrap;">[Danielle Kay](../../persons/danielle_kay/222.md) 8.30</span>
+
 ⚡ x 1 = <span style="white-space: nowrap;">[Fred Johnson](../../persons/fred_johnson/222.md) 4.33</span>
 
 #### [4x4x4](444.md)
 
 <span style="white-space: nowrap;">🏆 [Fred Johnson](../../persons/fred_johnson/444.md) 55.58</span>
 
-<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/444.md) 56.97</span>, <span style="white-space: nowrap;">🥈 [Daniel Houghton](../../persons/daniel_houghton/444.md) 1:03.52</span>
+<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/444.md) 56.97</span>, <span style="white-space: nowrap;">🥈 [Daniel Houghton](../../persons/daniel_houghton/444.md) 1:03.52</span>, <span style="white-space: nowrap;">🥉 [Danielle Kay](../../persons/danielle_kay/444.md) 1:37.47</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Fred Johnson](../../persons/fred_johnson/444.md) 55.58</span>
 
@@ -39,6 +41,8 @@
 <span style="white-space: nowrap;">🏆 [Daniel Houghton](../../persons/daniel_houghton/555.md) 1:30.96</span>
 
 <span style="white-space: nowrap;">🥇 [Daniel Houghton](../../persons/daniel_houghton/555.md) 1:30.96</span>, <span style="white-space: nowrap;">🥈 [Shen Flindell](../../persons/shen_flindell/555.md) 1:44.65</span>, <span style="white-space: nowrap;">🥉 [Pete Lee](../../persons/pete_lee/555.md) 2:02.47</span>
+
+🔥 x 1 = <span style="white-space: nowrap;">[Danielle Kay](../../persons/danielle_kay/555.md) 2:40.43</span>
 
 #### [6x6x6](666.md)
 
@@ -58,33 +62,41 @@
 
 <span style="white-space: nowrap;">🏆 [Shen Flindell](../../persons/shen_flindell/333oh.md) 23.39</span>
 
-<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/333oh.md) 23.39</span>
+<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/333oh.md) 23.39</span>, <span style="white-space: nowrap;">🥈 [Danielle Kay](../../persons/danielle_kay/333oh.md) 41.72</span>
 
-⚡ x 1 = <span style="white-space: nowrap;">[Fred Johnson](../../persons/fred_johnson/333oh.md) 30.83</span>
+🔥 x 1 = <span style="white-space: nowrap;">[Danielle Kay](../../persons/danielle_kay/333oh.md) 41.72</span>
+
+⚡ x 2 = <span style="white-space: nowrap;">[Fred Johnson](../../persons/fred_johnson/333oh.md) 30.83</span>, <span style="white-space: nowrap;">[Danielle Kay](../../persons/danielle_kay/333oh.md) 32.66</span>
 
 #### [Megaminx](minx.md)
 
 <span style="white-space: nowrap;">🏆 [Pete Lee](../../persons/pete_lee/minx.md) 1:15.50</span>
 
-<span style="white-space: nowrap;">🥇 [Pete Lee](../../persons/pete_lee/minx.md) 1:15.50</span>, <span style="white-space: nowrap;">🥈 [Veronika Rose](../../persons/veronika_rose/minx.md) 1:35.94</span>, <span style="white-space: nowrap;">🥉 [Daniel Houghton](../../persons/daniel_houghton/minx.md) 2:38.18</span>
+<span style="white-space: nowrap;">🥇 [Pete Lee](../../persons/pete_lee/minx.md) 1:15.50</span>, <span style="white-space: nowrap;">🥈 [Veronika Rose](../../persons/veronika_rose/minx.md) 1:35.94</span>, <span style="white-space: nowrap;">🥉 [Danielle Kay](../../persons/danielle_kay/minx.md) 2:02.71</span>
 
-⚡ x 1 = <span style="white-space: nowrap;">[Pete Lee](../../persons/pete_lee/minx.md) 1:04.16</span>
+🔥 x 1 = <span style="white-space: nowrap;">[Danielle Kay](../../persons/danielle_kay/minx.md) 2:02.71</span>
+
+⚡ x 2 = <span style="white-space: nowrap;">[Pete Lee](../../persons/pete_lee/minx.md) 1:04.16</span>, <span style="white-space: nowrap;">[Danielle Kay](../../persons/danielle_kay/minx.md) 1:56.99</span>
 
 #### [Pyraminx](pyram.md)
 
-<span style="white-space: nowrap;">🏆 [Veronika Rose](../../persons/veronika_rose/pyram.md) 11.41</span>
+<span style="white-space: nowrap;">🏆 [Danielle Kay](../../persons/danielle_kay/pyram.md) 9.91</span>
 
-<span style="white-space: nowrap;">🥇 [Veronika Rose](../../persons/veronika_rose/pyram.md) 11.41</span>, <span style="white-space: nowrap;">🥈 [Shen Flindell](../../persons/shen_flindell/pyram.md) 11.57</span>
+<span style="white-space: nowrap;">🥇 [Danielle Kay](../../persons/danielle_kay/pyram.md) 9.91</span>, <span style="white-space: nowrap;">🥈 [Veronika Rose](../../persons/veronika_rose/pyram.md) 11.41</span>, <span style="white-space: nowrap;">🥉 [Shen Flindell](../../persons/shen_flindell/pyram.md) 11.57</span>
 
-🔥 x 2 = <span style="white-space: nowrap;">[Shen Flindell](../../persons/shen_flindell/pyram.md) 11.57</span>, <span style="white-space: nowrap;">[Fred Johnson](../../persons/fred_johnson/pyram.md) 13.78</span>
+🔥 x 3 = <span style="white-space: nowrap;">[Danielle Kay](../../persons/danielle_kay/pyram.md) 9.91</span>, <span style="white-space: nowrap;">[Shen Flindell](../../persons/shen_flindell/pyram.md) 11.57</span>, <span style="white-space: nowrap;">[Fred Johnson](../../persons/fred_johnson/pyram.md) 13.78</span>
 
-⚡ x 3 = <span style="white-space: nowrap;">[Veronika Rose](../../persons/veronika_rose/pyram.md) 6.11</span>, <span style="white-space: nowrap;">[Shen Flindell](../../persons/shen_flindell/pyram.md) 9.57</span>, <span style="white-space: nowrap;">[Fred Johnson](../../persons/fred_johnson/pyram.md) 9.67</span>
+⚡ x 4 = <span style="white-space: nowrap;">[Veronika Rose](../../persons/veronika_rose/pyram.md) 6.11</span>, <span style="white-space: nowrap;">[Danielle Kay](../../persons/danielle_kay/pyram.md) 8.03</span>, <span style="white-space: nowrap;">[Shen Flindell](../../persons/shen_flindell/pyram.md) 9.57</span>, <span style="white-space: nowrap;">[Fred Johnson](../../persons/fred_johnson/pyram.md) 9.67</span>
 
 #### [Skewb](skewb.md)
 
 <span style="white-space: nowrap;">🏆 [Kristina Lim](../../persons/kristina_lim/skewb.md) 7.60</span>
 
-<span style="white-space: nowrap;">🥇 [Kristina Lim](../../persons/kristina_lim/skewb.md) 7.60</span>, <span style="white-space: nowrap;">🥈 [Shen Flindell](../../persons/shen_flindell/skewb.md) 14.01</span>
+<span style="white-space: nowrap;">🥇 [Kristina Lim](../../persons/kristina_lim/skewb.md) 7.60</span>, <span style="white-space: nowrap;">🥈 [Danielle Kay](../../persons/danielle_kay/skewb.md) 8.49</span>, <span style="white-space: nowrap;">🥉 [Shen Flindell](../../persons/shen_flindell/skewb.md) 14.01</span>
+
+🔥 x 1 = <span style="white-space: nowrap;">[Danielle Kay](../../persons/danielle_kay/skewb.md) 8.49</span>
+
+⚡ x 1 = <span style="white-space: nowrap;">[Danielle Kay](../../persons/danielle_kay/skewb.md) 8.20</span>
 
 #### [Square-1](sq1.md)
 
@@ -96,13 +108,13 @@
 
 #### [Clock](clock.md)
 
-<span style="white-space: nowrap;">🏆 [Fred Johnson](../../persons/fred_johnson/clock.md) 12.34</span>
+<span style="white-space: nowrap;">🏆 [Danielle Kay](../../persons/danielle_kay/clock.md) 10.94</span>
 
-<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/clock.md) 17.07</span>, <span style="white-space: nowrap;">🥈 [Veronika Rose](../../persons/veronika_rose/clock.md) 19.63</span>
+<span style="white-space: nowrap;">🥇 [Danielle Kay](../../persons/danielle_kay/clock.md) 10.94</span>, <span style="white-space: nowrap;">🥈 [Shen Flindell](../../persons/shen_flindell/clock.md) 17.07</span>, <span style="white-space: nowrap;">🥉 [Veronika Rose](../../persons/veronika_rose/clock.md) 19.63</span>
 
 🔥 x 2 = <span style="white-space: nowrap;">[Fred Johnson](../../persons/fred_johnson/clock.md) 12.34</span>, <span style="white-space: nowrap;">[Veronika Rose](../../persons/veronika_rose/clock.md) 19.63</span>
 
-⚡ x 1 = <span style="white-space: nowrap;">[Veronika Rose](../../persons/veronika_rose/clock.md) 17.47</span>
+⚡ x 2 = <span style="white-space: nowrap;">[Danielle Kay](../../persons/danielle_kay/clock.md) 10.03</span>, <span style="white-space: nowrap;">[Veronika Rose](../../persons/veronika_rose/clock.md) 17.47</span>
 
 #### [3x3x3 Blindfolded](333bf.md)
 

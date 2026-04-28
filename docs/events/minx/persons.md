@@ -40,7 +40,8 @@
 | [Brad Deegan](../../persons/brad_deegan/minx.md) | 40+ | <i class="flag flag-AU" /> | 2:06.44 | 2:25.40 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/minx.md) | 50+ | <i class="flag flag-GB" /> | 1:31.96 | 1:35.45 | 🏆 x 6 | 🥇 x 6, 🥈 x 2 | 💥 x 7, 🔥 x 7, ⚡ x 5 |
 | [Dan Smith](../../persons/dan_smith/minx.md) | 50+ | <i class="flag flag-US" /> | 3:30.20 | DNF |  | 🥈 x 5, 🥉 x 5 | ⚡ x 6 |
-| [Daniel Houghton](../../persons/daniel_houghton/minx.md) | 40+ | <i class="flag flag-CH" /> | 1:32.01 | 1:49.76 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
+| [Daniel Houghton](../../persons/daniel_houghton/minx.md) | 40+ | <i class="flag flag-CH" /> | 1:32.01 | 1:49.76 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
+| [Danielle Kay](../../persons/danielle_kay/minx.md) | 40+ | <i class="flag flag-AU" /> | 1:56.99 | 2:02.71 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/minx.md) | 60+ | <i class="flag flag-US" /> | 7:34.18 | DNF |  |  | 💥 x 1, ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/minx.md) | 40+ | <i class="flag flag-VE" /> | 1:16.68 | 1:23.85 | 🏆 x 17 | 🥇 x 1, 🥈 x 4, 🥉 x 1 | 🔥 x 10, ⚡ x 6 |
 | [Eric Dodson](../../persons/eric_dodson/minx.md) | 50+ | <i class="flag flag-US" /> | 2:27.35 | 2:49.50 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 3 |

@@ -21,7 +21,7 @@
 | [Pyraminx](pyram.md) | 9.67 | 13.78 |  | 🔥 x 2, ⚡ x 2 |
 | [Skewb](skewb.md) | 9.39 | 10.41 |  | 🔥 x 1, ⚡ x 1 |
 | [Square-1](sq1.md) | 30.69 | 46.81 |  | 🔥 x 1, ⚡ x 2 |
-| [Clock](clock.md) | 10.30 | 12.34 | 🏆 x 1 | 🔥 x 3, ⚡ x 1 |
+| [Clock](clock.md) | 10.30 | 12.34 |  | 🔥 x 3, ⚡ x 1 |
 | [3x3x3 BLD](333bf.md) | 2:48.75 | 5:17.72 |  | 🔥 x 2, ⚡ x 4 |
 | [4x4x4 BLD](444bf.md) | 28:42.93 | - |  | ⚡ x 2 |
 | [3x3x3 MBLD](333mbf.md) | 4/7 in 1:00:00 | - |  | ⚡ x 1 |

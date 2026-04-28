@@ -32,7 +32,8 @@ while true; do
 	echo
 	echo -e "\t0. All of the above in order"
 	echo
-	echo "Press [Enter] to exit"
+	echo
+	echo "Press [Enter] or Q to exit"
 
 	echo
 	read -p "Enter selection: " UserSel

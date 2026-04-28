@@ -11,7 +11,8 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | <i class="flag flag-US" /> | 7.07 | 7.60 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1328258286163885) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1328258286163885) |
-| 2 | [Shen Flindell](../../persons/shen_flindell/skewb.md) | 50+ | <i class="flag flag-AU" /> | 12.10 | 14.01 | 🥈 | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1317994117190302) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1317994117190302) |
+| 2 | [Danielle Kay](../../persons/danielle_kay/skewb.md) | 40+ | <i class="flag flag-AU" /> | 8.20 | 8.49 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1326504356339278) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1326504356339278) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/skewb.md) | 50+ | <i class="flag flag-AU" /> | 12.10 | 14.01 | 🥉 | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1317994117190302) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1317994117190302) |
 
 #### [2026-03-30](../../results/2026-03-30/skewb.md)
 

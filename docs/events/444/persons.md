@@ -51,7 +51,7 @@
 | [Ciro Vignotto](../../persons/ciro_vignotto/444.md) | 50+ | <i class="flag flag-IT" /> | 56.70 | 1:03.64 |  | 🥇 x 1, 🥈 x 2, 🥉 x 1 | 🔥 x 4, ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/444.md) | 50+ | <i class="flag flag-US" /> | 1:05.61 | 1:14.08 |  | 🥇 x 9, 🥈 x 24, 🥉 x 39 | 💥 x 1, 🔥 x 14, ⚡ x 6 |
 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 41.76 | 47.72 | 🏆 x 65 | 🥇 x 70, 🥈 x 14, 🥉 x 5 | 💥 x 1, 🔥 x 7, ⚡ x 5 |
-| [Danielle Kay](../../persons/danielle_kay/444.md) | 40+ | <i class="flag flag-AU" /> | 1:22.54 | 1:31.95 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Danielle Kay](../../persons/danielle_kay/444.md) | 40+ | <i class="flag flag-AU" /> | 1:22.54 | 1:31.95 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Dean Money](../../persons/dean_money/444.md) | 50+ | <i class="flag flag-US" /> | 1:37.78 | 1:57.45 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/444.md) | 60+ | <i class="flag flag-US" /> | 4:08.00 | DNF |  |  | 💥 x 3, ⚡ x 3 |
 | [Ed Connell](../../persons/ed_connell/444.md) | 40+ | <i class="flag flag-IE" /> | 1:17.93 | 1:29.37 | 🏆 x 1 |  | 🔥 x 5, ⚡ x 6 |

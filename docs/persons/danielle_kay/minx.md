@@ -2,18 +2,17 @@
 <link rel="stylesheet" type="text/css" href="../../css/flags.css" />
 
 ## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
-### [Danielle Kay](README.md) - [2023KAYD01](https://www.worldcubeassociation.org/persons/2023KAYD01?event=444)
+### [Danielle Kay](README.md) - [2023KAYD01](https://www.worldcubeassociation.org/persons/2023KAYD01?event=minx)
 
 <i class="flag flag-AU" />&nbsp;Australia
 
-#### 4x4x4 Results
+#### Megaminx Results
 
 <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
-| [2026-04-13](../../results/2026-04-13/444.md) | 40+ | 1:32.44 | 1:37.47 | 🥉 | 1:38.06 | 1:41.91 | 1:32.44 | DNS | DNS | [Desktop](https://www.facebook.com/events/966012039140622/permalink/974625454945947) / [Mobile](https://m.facebook.com/events/966012039140622?view=permalink&id=974625454945947) |
-| [2026-03-30](../../results/2026-03-30/444.md) | 40+ | **1:22.54** | **1:31.95** | 🔥 ⚡ | **1:22.54** | 1:25.76 | 1:33.50 | 1:42.10 | 1:36.59 | [Desktop](https://www.facebook.com/events/1215939800337613/permalink/1223974146200845) / [Mobile](https://m.facebook.com/events/1215939800337613?view=permalink&id=1223974146200845) |
+| [2026-04-13](../../results/2026-04-13/minx.md) | 40+ | **1:56.99** | **2:02.71** | 🥉 🔥 ⚡ | 2:00.22 | 2:16.79 | 2:03.38 | **1:56.99** | 2:04.53 | [Desktop](https://www.facebook.com/events/1309623684420996/permalink/1318929990157032) / [Mobile](https://m.facebook.com/events/1309623684420996?view=permalink&id=1318929990157032) |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

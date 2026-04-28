@@ -10,8 +10,9 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Veronika Rose](../../persons/veronika_rose/pyram.md) | 40+ | <i class="flag flag-SK" /> | 6.11 | 11.41 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1325467953109585) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1325467953109585) |
-| 2 | [Shen Flindell](../../persons/shen_flindell/pyram.md) | 50+ | <i class="flag flag-AU" /> | 9.57 | 11.57 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1319689840354063) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1319689840354063) |
+| 1 | [Danielle Kay](../../persons/danielle_kay/pyram.md) | 40+ | <i class="flag flag-AU" /> | 8.03 | 9.91 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1326523499670697) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1326523499670697) |
+| 2 | [Veronika Rose](../../persons/veronika_rose/pyram.md) | 40+ | <i class="flag flag-SK" /> | 6.11 | 11.41 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1325467953109585) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1325467953109585) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/pyram.md) | 50+ | <i class="flag flag-AU" /> | 9.57 | 11.57 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1319689840354063) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1319689840354063) |
 
 #### [2026-03-30](../../results/2026-03-30/pyram.md)
 

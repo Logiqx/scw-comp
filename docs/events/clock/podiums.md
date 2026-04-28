@@ -10,8 +10,9 @@
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/clock.md) | 50+ | <i class="flag flag-AU" /> | 14.05 | 17.07 | 🥇 | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1318087313847649) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1318087313847649) |
-| 2 | [Veronika Rose](../../persons/veronika_rose/clock.md) | 40+ | <i class="flag flag-SK" /> | 17.47 | 19.63 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1325470249776022) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1325470249776022) |
+| 1 | [Danielle Kay](../../persons/danielle_kay/clock.md) | 40+ | <i class="flag flag-AU" /> | 10.03 | 10.94 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1326422963014084) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1326422963014084) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/clock.md) | 50+ | <i class="flag flag-AU" /> | 14.05 | 17.07 | 🥈 | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1318087313847649) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1318087313847649) |
+| 3 | [Veronika Rose](../../persons/veronika_rose/clock.md) | 40+ | <i class="flag flag-SK" /> | 17.47 | 19.63 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1325470249776022) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1325470249776022) |
 
 #### [2026-03-30](../../results/2026-03-30/clock.md)
 

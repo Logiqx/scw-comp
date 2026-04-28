@@ -69,7 +69,7 @@
 | [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | <i class="flag flag-IT" /> | 14.59 | 18.05 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 3 |
 | [Dan Smith](../../persons/dan_smith/333.md) | 50+ | <i class="flag flag-US" /> | 15.21 | 21.74 |  | 🥈 x 1, 🥉 x 9 | 💥 x 2, 🔥 x 15, ⚡ x 11 |
 | [Daniel Houghton](../../persons/daniel_houghton/333.md) | 40+ | <i class="flag flag-CH" /> | 9.92 | 13.17 | 🏆 x 40 | 🥇 x 54, 🥈 x 20, 🥉 x 10 | 🔥 x 10, ⚡ x 7 |
-| [Danielle Kay](../../persons/danielle_kay/333.md) | 40+ | <i class="flag flag-AU" /> | 20.92 | 26.50 |  |  | 🔥 x 1, ⚡ x 1 |
+| [Danielle Kay](../../persons/danielle_kay/333.md) | 40+ | <i class="flag flag-AU" /> | 20.92 | 23.99 |  |  | 🔥 x 2, ⚡ x 1 |
 | [David Burchill](../../persons/david_burchill/333.md) | 50+ | <i class="flag flag-CA" /> | 28.50 | 34.84 |  |  | 🔥 x 3, ⚡ x 4 |
 | [Dean Money](../../persons/dean_money/333.md) | 50+ | <i class="flag flag-US" /> | 19.02 | 25.29 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Denis Reimer](../../persons/denis_reimer/333.md) | 40+ | <i class="flag flag-CA" /> | 19.64 | 24.93 |  |  | 🔥 x 2, ⚡ x 2 |

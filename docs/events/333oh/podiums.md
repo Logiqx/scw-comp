@@ -11,6 +11,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 20.89 | 23.39 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1309623684420996/permalink/1310344047682293) / [Mobile](https://m.facebook.com/events/1309623684420996?view=permalink&id=1310344047682293) |
+| 2 | [Danielle Kay](../../persons/danielle_kay/333oh.md) | 40+ | <i class="flag flag-AU" /> | 32.66 | 41.72 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1309623684420996/permalink/1318060730243958) / [Mobile](https://m.facebook.com/events/1309623684420996?view=permalink&id=1318060730243958) |
 
 #### [2026-03-30](../../results/2026-03-30/333oh.md)
 
