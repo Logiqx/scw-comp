@@ -10,7 +10,7 @@
 
 <span style="white-space: nowrap;">🏆 [Daniel Houghton](../../persons/daniel_houghton/333.md) 15.60</span>
 
-<span style="white-space: nowrap;">🥇 [Daniel Houghton](../../persons/daniel_houghton/333.md) 15.60</span>, <span style="white-space: nowrap;">🥈 [Shen Flindell](../../persons/shen_flindell/333.md) 17.47</span>, <span style="white-space: nowrap;">🥉 [Pete Lee](../../persons/pete_lee/333.md) 19.91</span>
+<span style="white-space: nowrap;">🥇 [Daniel Houghton](../../persons/daniel_houghton/333.md) 15.60</span>, <span style="white-space: nowrap;">🥈 [Shen Flindell](../../persons/shen_flindell/333.md) 17.47</span>, <span style="white-space: nowrap;">🥉 [Toby Chamberlain](../../persons/toby_chamberlain/333.md) 18.51</span>
 
 ⚡ x 1 = <span style="white-space: nowrap;">[Danielle Kay](../../persons/danielle_kay/333.md) 20.23</span>
 
@@ -110,7 +110,7 @@
 
 <span style="white-space: nowrap;">🏆 [Shen Flindell](../../persons/shen_flindell/333bf.md) 1:04.46</span>
 
-<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/333bf.md) 1:04.46</span>, <span style="white-space: nowrap;">🥈 [Veronika Rose](../../persons/veronika_rose/333bf.md) 1:41.82</span>, <span style="white-space: nowrap;">🥉 [Daniel Houghton](../../persons/daniel_houghton/333bf.md) 1:54.76</span>
+<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/333bf.md) 1:04.46</span>, <span style="white-space: nowrap;">🥈 [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) 1:34.78</span>, <span style="white-space: nowrap;">🥉 [Veronika Rose](../../persons/veronika_rose/333bf.md) 1:41.82</span>
 
 🔥 x 1 = <span style="white-space: nowrap;">[Shen Flindell](../../persons/shen_flindell/333bf.md) 1:20.63</span>
 
