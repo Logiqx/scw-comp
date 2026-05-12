@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-04-27](../../results/2026-04-27/pyram.md) | 40+ | **6.51** | 11.59 | 🥉 ⚡ | 10.88 | **6.51** | 11.65 | 12.24 | 14.29 | [Desktop](https://www.facebook.com/events/1599779991315441/permalink/1605060684120705) / [Mobile](https://m.facebook.com/events/1599779991315441?view=permalink&id=1605060684120705) |
 | [2026-04-13](../../results/2026-04-13/pyram.md) | 40+ | **8.03** | **9.91** | 🏆 🥇 🔥 ⚡ | 10.96 | **8.03** | 11.48 | 8.33 | 10.45 | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1326523499670697) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1326523499670697) |
 
 

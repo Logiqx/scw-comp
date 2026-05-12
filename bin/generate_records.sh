@@ -48,11 +48,44 @@ gawk 'BEGIN {
   t = ($1 in map) ? map[$1] : "ERROR! "s		# t = record type
 
   while (match(s, /\[([^\]]*)\][^\)]+\/([^\.]*)\.md\) ([^<]*)<\/span>/, m)) {   # m[1] is name (text in []), m[2] is event (text between final "/" and ".md)"), m[3] is time/age group (text before "</span>")
+    n = m[1]
     e = (m[2] in emap) ? emap[m[2]] : m[2]					# e = event	
-    t == "age record" && t = "new "m[3]" "t"!"			        	# prefix age to age records	
-    print m[1]" "e" "t							 	# display name event type
+    t == "age record" && t = "(new "m[3]" "t"!)"			        # prefix age to age records	
+    #print m[1]" "e" "t							 	# display name event type
+
+    # collate
+    if (!names[n]) names[n] = n						        # list of names
+
+    key = n SUBSEP e
+    if (!seenevent[key]) events[n] = events[n] ? events[n] SUBSEP e : e  				# list of events for each name
+    seenevent[key] = key
+
+    if (t == "single") g[key] = t						# single flag  (by key)
+    else if (t == "average") a[key] = t						# average flag (by key)		
+    else r[key] = t								# record flag (by key)
+
     s = substr(s, RSTART + RLENGTH)						# move to next record on this line
   }
+}
+END {
+    for (n in names) {								# loop each name
+	split(events[names[n]], keys, SUBSEP)				# split into name/event	
+	out = ""
+
+	for (k in keys) {							# loop each event for this name
+            e = keys[k]	
+	    key = n SUBSEP keys[k]				                # name+event key
+
+            type_str = ""							# build output using single/average/record by key
+            if (g[key]) type_str = g[key]
+            if (a[key]) type_str = type_str (type_str ? "+" : "") a[key]
+            if (r[key]) type_str = type_str (type_str ? " " : "") r[key]
+
+            out = out ? out ", " e " " type_str : e " " type_str
+        }
+
+        print n ": " out
+    } 
 }' docs/results/$OldDate/README.md | sort
 
 echo

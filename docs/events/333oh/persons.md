@@ -26,8 +26,8 @@
 | [Lisa Kucala](../../persons/lisa_kucala/333oh.md) | 60+ | <i class="flag flag-US" /> | 32.25 | 40.84 |  | 🥈 x 8, 🥉 x 9 | 💥 x 8, 🔥 x 6, ⚡ x 7 |
 | [Mickey Doyle](../../persons/mickey_doyle/333oh.md) | 50+ | <i class="flag flag-US" /> | 35.40 | 46.06 | 🏆 x 16 | 🥇 x 18, 🥈 x 21, 🥉 x 4 | 🔥 x 8, ⚡ x 9 |
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 60+ | <i class="flag flag-CA" /> | 1:26.57 | 1:57.43 |  | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 3 |
-| [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 18.76 | 22.14 | 🏆 x 42 | 🥇 x 42, 🥈 x 6 | 💥 x 12, 🔥 x 10, ⚡ x 5 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 31.42 | 43.83 |  | 🥈 x 12, 🥉 x 16 | 🔥 x 8, ⚡ x 4 |
+| [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 18.76 | 22.14 | 🏆 x 43 | 🥇 x 43, 🥈 x 6 | 💥 x 12, 🔥 x 10, ⚡ x 5 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 31.42 | 43.83 |  | 🥈 x 13, 🥉 x 16 | 🔥 x 8, ⚡ x 4 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | <i class="flag flag-PL" /> | 27.43 | 35.12 |  | 🥉 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
 
 #### Over 40
@@ -63,9 +63,9 @@
 | [Peter Douthwright](../../persons/peter_douthwright/333oh.md) | 60+ | <i class="flag flag-CA" /> | 1:26.57 | 1:57.43 |  | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 3 |
 | [Raúl Morales](../../persons/raul_morales/333oh.md) | 40+ | <i class="flag flag-ES" /> | 31.07 | 37.84 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/333oh.md) | 40+ | <i class="flag flag-GB" /> | 1:11.28 | 1:34.62 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 18.76 | 22.14 | 🏆 x 42 | 🥇 x 42, 🥈 x 6 | 💥 x 12, 🔥 x 10, ⚡ x 5 |
+| [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 18.76 | 22.14 | 🏆 x 43 | 🥇 x 43, 🥈 x 6 | 💥 x 12, 🔥 x 10, ⚡ x 5 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333oh.md) | 40+ | <i class="flag flag-FR" /> | 23.59 | 29.77 |  | 🥇 x 1, 🥈 x 10, 🥉 x 7 | 🔥 x 8, ⚡ x 3 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 31.42 | 43.83 |  | 🥈 x 12, 🥉 x 16 | 🔥 x 8, ⚡ x 4 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 31.42 | 43.83 |  | 🥈 x 13, 🥉 x 16 | 🔥 x 8, ⚡ x 4 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/333oh.md) | 50+ | <i class="flag flag-PL" /> | 27.43 | 35.12 |  | 🥉 x 2 | 💥 x 4, 🔥 x 3, ⚡ x 3 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/333oh.md) | 40+ | <i class="flag flag-TW" /> | 28.49 | 38.10 | 🏆 x 10 | 🥇 x 12, 🥈 x 1 | 🔥 x 4, ⚡ x 4 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333oh.md) | 40+ | <i class="flag flag-FR" /> | 31.59 | 38.24 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |

@@ -45,7 +45,7 @@
 | [Mickey Doyle](../../persons/mickey_doyle/222.md) | 50+ | <i class="flag flag-US" /> | 2.92 | 6.29 | 🏆 x 4 | 🥇 x 5, 🥈 x 19, 🥉 x 23 | 🔥 x 17, ⚡ x 14 |
 | [Peter Andersson](../../persons/peter_andersson/222.md) | 60+ | <i class="flag flag-SE" /> | 6.82 | 9.38 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/222.md) | 60+ | <i class="flag flag-CA" /> | 6.53 | 10.79 |  |  | 🔥 x 3, ⚡ x 3 |
-| [Shen Flindell](../../persons/shen_flindell/222.md) | 50+ | <i class="flag flag-AU" /> | 4.93 | 6.28 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 2 | 🔥 x 5, ⚡ x 5 |
+| [Shen Flindell](../../persons/shen_flindell/222.md) | 50+ | <i class="flag flag-AU" /> | 4.19 | 5.74 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 2 | 🔥 x 6, ⚡ x 6 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/222.md) | 50+ | <i class="flag flag-PL" /> | 4.81 | 7.52 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 4 |
 
 #### Over 40
@@ -61,8 +61,8 @@
 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | <i class="flag flag-GB" /> | 4.26 | 5.17 | 🏆 x 4 | 🥇 x 5, 🥈 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 2 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | <i class="flag flag-IT" /> | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 2.36 | 6.92 | 🏆 x 8 | 🥇 x 13, 🥈 x 23, 🥉 x 42 | 💥 x 4, 🔥 x 7, ⚡ x 9 |
-| [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 2.01 | 5.56 | 🏆 x 27 | 🥇 x 33, 🥈 x 14, 🥉 x 10 | 🔥 x 5, ⚡ x 6 |
-| [Danielle Kay](../../persons/danielle_kay/222.md) | 40+ | <i class="flag flag-AU" /> | 4.38 | 8.30 |  |  | 🔥 x 2, ⚡ x 1 |
+| [Daniel Houghton](../../persons/daniel_houghton/222.md) | 40+ | <i class="flag flag-CH" /> | 2.01 | 5.09 | 🏆 x 28 | 🥇 x 34, 🥈 x 14, 🥉 x 10 | 🔥 x 6, ⚡ x 6 |
+| [Danielle Kay](../../persons/danielle_kay/222.md) | 40+ | <i class="flag flag-AU" /> | 4.38 | 6.71 |  |  | 🔥 x 3, ⚡ x 1 |
 | [Dean Money](../../persons/dean_money/222.md) | 50+ | <i class="flag flag-US" /> | 6.68 | 10.23 |  |  | 🔥 x 2, ⚡ x 1 |
 | [Donna Leiber](../../persons/donna_leiber/222.md) | 60+ | <i class="flag flag-US" /> | 23.86 | 32.64 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/222.md) | 40+ | <i class="flag flag-VE" /> | 4.58 | 5.45 | 🏆 x 17 | 🥇 x 5, 🥈 x 1 | 💥 x 1, 🔥 x 7, ⚡ x 6 |
@@ -103,12 +103,12 @@
 | [Peter Andersson](../../persons/peter_andersson/222.md) | 60+ | <i class="flag flag-SE" /> | 6.82 | 9.38 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Peter Douthwright](../../persons/peter_douthwright/222.md) | 60+ | <i class="flag flag-CA" /> | 6.53 | 10.79 |  |  | 🔥 x 3, ⚡ x 3 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/222.md) | 40+ | <i class="flag flag-GB" /> | 4.82 | 6.72 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
-| [Shen Flindell](../../persons/shen_flindell/222.md) | 50+ | <i class="flag flag-AU" /> | 4.93 | 6.28 | 🏆 x 1 | 🥇 x 1, 🥈 x 1, 🥉 x 2 | 🔥 x 5, ⚡ x 5 |
+| [Shen Flindell](../../persons/shen_flindell/222.md) | 50+ | <i class="flag flag-AU" /> | 4.19 | 5.74 | 🏆 x 1 | 🥇 x 1, 🥈 x 2, 🥉 x 2 | 🔥 x 6, ⚡ x 6 |
 | [Stuart Salmon](../../persons/stuart_salmon/222.md) | 40+ | <i class="flag flag-GB" /> | 8.07 | 12.10 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Terence Brown](../../persons/terence_brown/222.md) | 40+ | <i class="flag flag-NZ" /> | 4.21 | 7.55 | 🏆 x 1 | 🥇 x 2 | 🔥 x 2, ⚡ x 2 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/222.md) | 40+ | <i class="flag flag-FR" /> | 3.18 | 6.10 |  | 🥈 x 4, 🥉 x 6 | 💥 x 1, 🔥 x 3, ⚡ x 5 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/222.md) | 40+ | <i class="flag flag-IN" /> | 4.72 | 5.74 |  | 🥇 x 1, 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
-| [Veronika Rose](../../persons/veronika_rose/222.md) | 40+ | <i class="flag flag-SK" /> | 5.14 | 6.07 | 🏆 x 1 | 🥇 x 1, 🥈 x 5, 🥉 x 2 | 🔥 x 2, ⚡ x 1 |
+| [Veronika Rose](../../persons/veronika_rose/222.md) | 40+ | <i class="flag flag-SK" /> | 5.14 | 5.91 | 🏆 x 1 | 🥇 x 1, 🥈 x 5, 🥉 x 3 | 🔥 x 3, ⚡ x 1 |
 | [Wojciech Poljanowski](../../persons/wojciech_poljanowski/222.md) | 50+ | <i class="flag flag-PL" /> | 4.81 | 7.52 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 4 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/222.md) | 40+ | <i class="flag flag-TW" /> | 4.73 | 6.95 | 🏆 x 1 | 🥇 x 2, 🥈 x 1, 🥉 x 3 | 🔥 x 4, ⚡ x 4 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/222.md) | 40+ | <i class="flag flag-FR" /> | 3.53 | 5.83 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
