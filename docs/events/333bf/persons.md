@@ -23,9 +23,9 @@
 | [Kristina Lim](../../persons/kristina_lim/333bf.md) | 50+ | <i class="flag flag-US" /> | 4:01.84 | DNF |  | 🥉 x 1 | ⚡ x 5 |
 | [Michael Orger](../../persons/michael_orger/333bf.md) | 50+ | <i class="flag flag-GB" /> | 4:11.07 | 5:14.06 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 60+ | <i class="flag flag-SE" /> | 1:55.87 | 2:14.75 | 🏆 x 14 | 🥇 x 16, 🥈 x 14, 🥉 x 6 | 💥 x 8, 🔥 x 3, ⚡ x 7 |
-| [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 58.38 | 1:20.63 | 🏆 x 28 | 🥇 x 28, 🥈 x 8, 🥉 x 6 | 🔥 x 6, ⚡ x 7 |
+| [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 58.38 | 1:20.63 | 🏆 x 29 | 🥇 x 29, 🥈 x 8, 🥉 x 6 | 🔥 x 6, ⚡ x 7 |
 | [Stephen Burson](../../persons/stephen_burson/333bf.md) | 50+ | <i class="flag flag-US" /> | 2:57.11 | 5:49.95 |  | 🥉 x 2 | 🔥 x 1, ⚡ x 4 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:08.73 | 1:40.32 | 🏆 x 23 | 🥇 x 24, 🥈 x 35, 🥉 x 18 | 🔥 x 5, ⚡ x 14 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:08.73 | 1:40.32 | 🏆 x 23 | 🥇 x 24, 🥈 x 36, 🥉 x 18 | 🔥 x 5, ⚡ x 14 |
 
 #### Over 40
 
@@ -48,13 +48,13 @@
 | [Michael Lee](../../persons/michael_lee/333bf.md) | 40+ | <i class="flag flag-US" /> | 3:22.36 | DNF |  |  | ⚡ x 1 |
 | [Michael Orger](../../persons/michael_orger/333bf.md) | 50+ | <i class="flag flag-GB" /> | 4:11.07 | 5:14.06 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Peter Andersson](../../persons/peter_andersson/333bf.md) | 60+ | <i class="flag flag-SE" /> | 1:55.87 | 2:14.75 | 🏆 x 14 | 🥇 x 16, 🥈 x 14, 🥉 x 6 | 💥 x 8, 🔥 x 3, ⚡ x 7 |
-| [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 58.38 | 1:20.63 | 🏆 x 28 | 🥇 x 28, 🥈 x 8, 🥉 x 6 | 🔥 x 6, ⚡ x 7 |
+| [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 58.38 | 1:20.63 | 🏆 x 29 | 🥇 x 29, 🥈 x 8, 🥉 x 6 | 🔥 x 6, ⚡ x 7 |
 | [Stephen Burson](../../persons/stephen_burson/333bf.md) | 50+ | <i class="flag flag-US" /> | 2:57.11 | 5:49.95 |  | 🥉 x 2 | 🔥 x 1, ⚡ x 4 |
 | [Stuart Salmon](../../persons/stuart_salmon/333bf.md) | 40+ | <i class="flag flag-GB" /> | 3:24.37 | DNF |  |  | ⚡ x 1 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/333bf.md) | 40+ | <i class="flag flag-FR" /> | 1:11.93 | 1:31.27 | 🏆 x 3 | 🥇 x 3, 🥈 x 9, 🥉 x 4 | 🔥 x 3, ⚡ x 2 |
-| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:08.73 | 1:40.32 | 🏆 x 23 | 🥇 x 24, 🥈 x 35, 🥉 x 18 | 🔥 x 5, ⚡ x 14 |
+| [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:08.73 | 1:40.32 | 🏆 x 23 | 🥇 x 24, 🥈 x 36, 🥉 x 18 | 🔥 x 5, ⚡ x 14 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/333bf.md) | 40+ | <i class="flag flag-IN" /> | 5:29.35 | DNF |  |  | ⚡ x 1 |
-| [Veronika Rose](../../persons/veronika_rose/333bf.md) | 40+ | <i class="flag flag-SK" /> | 1:41.82 | DNF |  | 🥉 x 1 | ⚡ x 3 |
+| [Veronika Rose](../../persons/veronika_rose/333bf.md) | 40+ | <i class="flag flag-SK" /> | 1:41.82 | 2:32.24 |  | 🥉 x 2 | 🔥 x 1, ⚡ x 3 |
 | [Yoann Lecoeur](../../persons/yoann_lecoeur/333bf.md) | 40+ | <i class="flag flag-FR" /> | 1:50.43 | 2:50.79 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 1, ⚡ x 3 |
 | [Yuichi Hamada](../../persons/yuichi_hamada/333bf.md) | 40+ | <i class="flag flag-JP" /> | 2:21.37 | DNF |  | 🥉 x 1 | ⚡ x 1 |
 
@@ -66,7 +66,7 @@
 | [Brooke Persoon](../../persons/brooke_persoon/333bf.md) | <40 | <i class="flag flag-US" /> | 18:05.78 | DNF |  |  | ⚡ x 1 |
 | [Chris Hardwick](../../persons/chris_hardwick/333bf.md) | <40 | <i class="flag flag-US" /> | 1:12.91 | 1:27.55 | 🏆 x 2 |  | 🔥 x 6, ⚡ x 6 |
 | [Ed Connell](../../persons/ed_connell/333bf.md) | <40 | <i class="flag flag-IE" /> | 2:00.37 | 2:24.05 | 🏆 x 7 |  | 🔥 x 4, ⚡ x 8 |
-| [Fred Johnson](../../persons/fred_johnson/333bf.md) | <40 | <i class="flag flag-US" /> | 2:48.75 | 5:17.72 |  |  | 🔥 x 2, ⚡ x 4 |
+| [Fred Johnson](../../persons/fred_johnson/333bf.md) | <40 | <i class="flag flag-US" /> | 2:11.50 | 5:17.72 |  |  | 🔥 x 2, ⚡ x 5 |
 | [Go-ho Choi](../../persons/go_ho_choi/333bf.md) | <40 | <i class="flag flag-KR" /> | 2:22.99 | DNF |  |  | ⚡ x 1 |
 
 #### Under 30

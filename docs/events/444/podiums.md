@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-05-11](../../results/2026-05-11/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 56.72 | 1:01.83 | 🥇 | [Desktop](https://www.facebook.com/events/1288541999532027/permalink/1297843555268538) / [Mobile](https://m.facebook.com/events/1288541999532027?view=permalink&id=1297843555268538) |
+| 2 | [Danielle Kay](../../persons/danielle_kay/444.md) | 40+ | <i class="flag flag-AU" /> | 1:07.36 | 1:33.32 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/1288541999532027/permalink/1298094375243456) / [Mobile](https://m.facebook.com/events/1288541999532027?view=permalink&id=1298094375243456) |
+
 #### [2026-04-27](../../results/2026-04-27/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

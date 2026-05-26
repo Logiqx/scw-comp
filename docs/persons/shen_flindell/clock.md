@@ -8,10 +8,11 @@
 
 #### Clock Results
 
-<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-05-11](../../results/2026-05-11/clock.md) | 50+ | **9.18** | 10.74 | 🏆 🥇 ⚡ | 12.07 | 9.49 | DNF | **9.18** | 10.67 | [Desktop](https://www.facebook.com/events/4372377343005357/permalink/4385016605074764) / [Mobile](https://m.facebook.com/events/4372377343005357?view=permalink&id=4385016605074764) |
 | [2026-04-27](../../results/2026-04-27/clock.md) | 50+ | **10.10** | **10.44** | 🥈 🔥 ⚡ | 10.19 | **10.10** | 10.51 | 10.67 | 10.62 | [Desktop](https://www.facebook.com/events/1599779991315441/permalink/1608737997086307) / [Mobile](https://m.facebook.com/events/1599779991315441?view=permalink&id=1608737997086307) |
 | [2026-04-13](../../results/2026-04-13/clock.md) | 50+ | 14.05 | 17.07 | 🥈 | 17.92 | 19.70 | 18.44 | 14.86 | 14.05 | [Desktop](https://www.facebook.com/events/1317286277261086/permalink/1318087313847649) / [Mobile](https://m.facebook.com/events/1317286277261086?view=permalink&id=1318087313847649) |
 | [2026-03-30](../../results/2026-03-30/clock.md) | 50+ | **10.76** | 15.26 | 🥉 ⚡ | **10.76** | 22.30 | 12.45 | DNF | 11.03 | [Desktop](https://www.facebook.com/events/1949568709021134/permalink/1958841318093873) / [Mobile](https://m.facebook.com/events/1949568709021134?view=permalink&id=1958841318093873) |
