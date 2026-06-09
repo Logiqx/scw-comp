@@ -6,6 +6,12 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-05-25](../../results/2026-05-25/444bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/444bf.md) | 50+ | <i class="flag flag-AU" /> | 5:34.64 | DNF | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1537577537903204/permalink/1547438346917123) / [Mobile](https://m.facebook.com/events/1537577537903204?view=permalink&id=1547438346917123) |
+
 #### [2026-05-11](../../results/2026-05-11/444bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

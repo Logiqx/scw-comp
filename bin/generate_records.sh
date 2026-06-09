@@ -81,10 +81,10 @@ END {
             if (a[key]) type_str = type_str (type_str ? "+" : "") a[key]
             if (r[key]) type_str = type_str (type_str ? " " : "") r[key]
 
-            out = out ? out ", " e " " type_str : "@" e " " type_str
+            out = out ? out ", " e " " type_str : e " " type_str
         }
 
-        print n ": " out
+        print "@" n ": " out
     } 
 }' docs/results/$OldDate/README.md | sort
 

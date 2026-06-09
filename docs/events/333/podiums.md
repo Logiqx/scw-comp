@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-05-25](../../results/2026-05-25/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 50+ | <i class="flag flag-AU" /> | 13.08 | 16.85 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1932249774152701/permalink/1942443536466658) / [Mobile](https://m.facebook.com/events/1932249774152701?view=permalink&id=1942443536466658) |
+| 2 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/333.md) | 40+ | | 18.64 | 19.73 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1932249774152701/permalink/1938386180205727) / [Mobile](https://m.facebook.com/events/1932249774152701?view=permalink&id=1938386180205727) |
+| 3 | [Pete Lee](../../persons/pete_lee/333.md) | 40+ | <i class="flag flag-GB" /> | 19.22 | 19.89 | 🥉 | [Desktop](https://www.facebook.com/events/1932249774152701/permalink/1935980213779657) / [Mobile](https://m.facebook.com/events/1932249774152701?view=permalink&id=1935980213779657) |
+
 #### [2026-05-11](../../results/2026-05-11/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

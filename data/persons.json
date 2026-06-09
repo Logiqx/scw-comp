@@ -256,6 +256,12 @@
     "id": 83,
     "wcaId": "2005KOSE01"
   },
+  "Gabriele Bellan": {
+    "age": "40+",
+    "country": "???",
+    "id": 151,
+    "wcaId": "2025BELL01"
+  },
   "Geoff Hartnell": {
     "age": "40+",
     "avatar": "1614452896.jpg",
@@ -550,6 +556,12 @@
     "country": "Switzerland",
     "id": 115,
     "wcaId": "2016HOUG01"
+  },
+  "Lino Nicola Grasso": {
+    "age": "40+",
+    "country": "???",
+    "id": 150,
+    "wcaId": "2023GRAS03"
   },
   "Liran Muchnik": {
     "age": "<40",

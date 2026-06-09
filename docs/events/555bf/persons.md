@@ -36,6 +36,7 @@
 | Name | Age | 🌍 | Single | Average | Cups | Medals | Achievements |
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Chris Hardwick](../../persons/chris_hardwick/555bf.md) | <40 | <i class="flag flag-US" /> | 11:13.56 | 13:17.89 | 🏆 x 17 |  | 💥 x 5, 🔥 x 3, ⚡ x 3 |
+| [Fred Johnson](../../persons/fred_johnson/555bf.md) | <40 | <i class="flag flag-US" /> | 36:30.00 | DNF | 🏆 x 1 |  | ⚡ x 1 |
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

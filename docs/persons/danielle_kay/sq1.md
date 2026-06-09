@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-05-25](../../results/2026-05-25/sq1.md) | 40+ | **1:04.75** | 1:13.42 | 🥈 ⚡ | **1:04.75** | 1:10.38 | 1:25.12 | DNS | DNS | [Desktop](https://www.facebook.com/events/1512018320302405/permalink/1521600462677524) / [Mobile](https://m.facebook.com/events/1512018320302405?view=permalink&id=1521600462677524) |
 | [2026-04-27](../../results/2026-04-27/sq1.md) | 40+ | **1:09.26** | **1:13.30** | 🥈 🔥 ⚡ | 1:11.94 | **1:09.26** | 1:18.70 | DNS | DNS | [Desktop](https://www.facebook.com/events/1599779991315441/permalink/1605064644120309) / [Mobile](https://m.facebook.com/events/1599779991315441?view=permalink&id=1605064644120309) |
 
 
