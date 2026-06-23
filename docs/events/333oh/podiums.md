@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-06-08](../../results/2026-06-08/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 22.72 | 24.66 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2011526746138931/permalink/2015611039063835) / [Mobile](https://m.facebook.com/events/2011526746138931?view=permalink&id=2015611039063835) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 42.68 | 49.43 | 🥈 | [Desktop](https://www.facebook.com/events/2011526746138931/permalink/2019852378639701) / [Mobile](https://m.facebook.com/events/2011526746138931?view=permalink&id=2019852378639701) |
+| 3 | [Brad Deegan](../../persons/brad_deegan/333oh.md) | 40+ | <i class="flag flag-AU" /> | 38.21 | 54.18 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2011526746138931/permalink/2017193302238942) / [Mobile](https://m.facebook.com/events/2011526746138931?view=permalink&id=2017193302238942) |
+
 #### [2026-05-25](../../results/2026-05-25/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

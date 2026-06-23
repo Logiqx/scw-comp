@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-06-08](../../results/2026-06-08/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.30 | 7.26 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2266467350555819/permalink/2277782029424351) / [Mobile](https://m.facebook.com/events/2266467350555819?view=permalink&id=2277782029424351) |
+| 2 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/skewb.md) | 40+ | | 6.61 | 9.57 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/2266467350555819/permalink/2274130563122831) / [Mobile](https://m.facebook.com/events/2266467350555819?view=permalink&id=2274130563122831) |
+| 3 | [Danielle Kay](../../persons/danielle_kay/skewb.md) | 40+ | <i class="flag flag-AU" /> | 5.92 | 10.10 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/2266467350555819/permalink/2277181492817738) / [Mobile](https://m.facebook.com/events/2266467350555819?view=permalink&id=2277181492817738) |
+
 #### [2026-05-25](../../results/2026-05-25/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

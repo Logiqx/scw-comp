@@ -6,13 +6,21 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-06-08](../../results/2026-06-08/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 51.81 | 53.58 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/36534544556161277/permalink/36704021162546948) / [Mobile](https://m.facebook.com/events/36534544556161277?view=permalink&id=36704021162546948) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 50.38 | 55.10 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/36534544556161277/permalink/36654591380823260) / [Mobile](https://m.facebook.com/events/36534544556161277?view=permalink&id=36654591380823260) |
+| 3 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/444.md) | 40+ | | 1:00.94 | 1:06.61 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/36534544556161277/permalink/36744035941878803) / [Mobile](https://m.facebook.com/events/36534544556161277?view=permalink&id=36744035941878803) |
+
 #### [2026-05-25](../../results/2026-05-25/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 50.39 | 1:02.85 | 🥇 | [Desktop](https://www.facebook.com/events/1523984409451279/permalink/1526516682531385) / [Mobile](https://m.facebook.com/events/1523984409451279?view=permalink&id=1526516682531385) |
 | 2 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/444.md) | 40+ | | 1:03.11 | 1:08.00 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1523984409451279/permalink/1530332762149777) / [Mobile](https://m.facebook.com/events/1523984409451279?view=permalink&id=1530332762149777) |
-| 3 | [Gabriele Bellan](../../persons/gabriele_bellan/444.md) | 40+ | | 1:21.26 | 1:41.76 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1523984409451279/permalink/1529465955569791) / [Mobile](https://m.facebook.com/events/1523984409451279?view=permalink&id=1529465955569791) |
+| 3 | [Gabriele Bellan](../../persons/gabriele_bellan/444.md) | 40+ | <i class="flag flag-IT" /> | 1:21.26 | 1:41.76 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1523984409451279/permalink/1529465955569791) / [Mobile](https://m.facebook.com/events/1523984409451279?view=permalink&id=1529465955569791) |
 
 #### [2026-05-11](../../results/2026-05-11/444.md)
 
