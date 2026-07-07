@@ -12,7 +12,9 @@
 
 <span style="white-space: nowrap;">🥇 [Toby Chamberlain](../../persons/toby_chamberlain/333.md) 14.69</span>, <span style="white-space: nowrap;">🥈 [Shen Flindell](../../persons/shen_flindell/333.md) 17.66</span>, <span style="white-space: nowrap;">🥉 [Veronika Rose](../../persons/veronika_rose/333.md) 20.83</span>
 
-🔥 x 1 = <span style="white-space: nowrap;">[Toby Chamberlain](../../persons/toby_chamberlain/333.md) 14.69</span>
+🔥 x 2 = <span style="white-space: nowrap;">[Toby Chamberlain](../../persons/toby_chamberlain/333.md) 14.69</span>, <span style="white-space: nowrap;">[Brad Deegan](../../persons/brad_deegan/333.md) 25.04</span>
+
+⚡ x 1 = <span style="white-space: nowrap;">[Brad Deegan](../../persons/brad_deegan/333.md) 21.09</span>
 
 #### [2x2x2](222.md)
 
@@ -20,7 +22,7 @@
 
 <span style="white-space: nowrap;">🥇 [Veronika Rose](../../persons/veronika_rose/222.md) 5.63</span>, <span style="white-space: nowrap;">🥈 [Shen Flindell](../../persons/shen_flindell/222.md) 6.46</span>, <span style="white-space: nowrap;">🥉 [Danielle Kay](../../persons/danielle_kay/222.md) 7.83</span>
 
-🔥 x 1 = <span style="white-space: nowrap;">[Veronika Rose](../../persons/veronika_rose/222.md) 5.63</span>
+🔥 x 2 = <span style="white-space: nowrap;">[Veronika Rose](../../persons/veronika_rose/222.md) 5.63</span>, <span style="white-space: nowrap;">[Brad Deegan](../../persons/brad_deegan/222.md) 8.68</span>
 
 #### [4x4x4](444.md)
 
@@ -50,7 +52,9 @@
 
 <span style="white-space: nowrap;">🏆 [Shen Flindell](../../persons/shen_flindell/777.md) 5:02.34</span>
 
-<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/777.md) 5:02.34</span>
+<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/777.md) 5:02.34</span>, <span style="white-space: nowrap;">🥈 [Danielle Kay](../../persons/danielle_kay/777.md) DNF</span>
+
+⚡ x 1 = <span style="white-space: nowrap;">[Danielle Kay](../../persons/danielle_kay/777.md) 6:46.12</span>
 
 #### [3x3x3 One-Handed](333oh.md)
 
@@ -86,7 +90,11 @@
 
 <span style="white-space: nowrap;">🏆 [Shen Flindell](../../persons/shen_flindell/sq1.md) 45.37</span>
 
-<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/sq1.md) 45.37</span>, <span style="white-space: nowrap;">🥈 [Danielle Kay](../../persons/danielle_kay/sq1.md) 1:22.29</span>
+<span style="white-space: nowrap;">🥇 [Shen Flindell](../../persons/shen_flindell/sq1.md) 45.37</span>, <span style="white-space: nowrap;">🥈 [Brad Deegan](../../persons/brad_deegan/sq1.md) 54.18</span>, <span style="white-space: nowrap;">🥉 [Danielle Kay](../../persons/danielle_kay/sq1.md) 1:22.29</span>
+
+🔥 x 1 = <span style="white-space: nowrap;">[Brad Deegan](../../persons/brad_deegan/sq1.md) 54.18</span>
+
+⚡ x 1 = <span style="white-space: nowrap;">[Brad Deegan](../../persons/brad_deegan/sq1.md) 34.14</span>
 
 #### [Clock](clock.md)
 

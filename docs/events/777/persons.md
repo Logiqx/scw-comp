@@ -37,7 +37,7 @@
 | [Chris Wright](../../persons/chris_wright/777.md) | 50+ | <i class="flag flag-GB" /> | 4:26.06 | 4:42.46 |  | 🥈 x 5, 🥉 x 4 | 💥 x 7, 🔥 x 6, ⚡ x 6 |
 | [Dan Smith](../../persons/dan_smith/777.md) | 50+ | <i class="flag flag-US" /> | 9:50.21 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Daniel Houghton](../../persons/daniel_houghton/777.md) | 40+ | <i class="flag flag-CH" /> | 3:53.67 | 4:15.89 | 🏆 x 47 | 🥇 x 49, 🥈 x 21, 🥉 x 14 | 💥 x 2, 🔥 x 14, ⚡ x 12 |
-| [Danielle Kay](../../persons/danielle_kay/777.md) | 40+ | <i class="flag flag-AU" /> | 8:17.44 | DNF |  | 🥈 x 1 | ⚡ x 1 |
+| [Danielle Kay](../../persons/danielle_kay/777.md) | 40+ | <i class="flag flag-AU" /> | 6:46.12 | DNF |  | 🥈 x 2 | ⚡ x 2 |
 | [Donna Leiber](../../persons/donna_leiber/777.md) | 60+ | <i class="flag flag-US" /> | 15:59.23 | DNF |  | 🥉 x 1 | 💥 x 2, ⚡ x 2 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/777.md) | 40+ | <i class="flag flag-VE" /> | 5:44.31 | 5:53.14 | 🏆 x 2 | 🥈 x 1 | 🔥 x 8, ⚡ x 8 |
 | [Eric Dodson](../../persons/eric_dodson/777.md) | 50+ | <i class="flag flag-US" /> | 8:03.49 | DNF |  | 🥉 x 1 | ⚡ x 2 |

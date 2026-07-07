@@ -57,7 +57,7 @@
 | [Andrea Doerner](../../persons/andrea_doerner/222.md) | 40+ | <i class="flag flag-DE" /> | 8.63 | 10.29 |  |  | 🔥 x 2, ⚡ x 2 |
 | [Andy Nicholls](../../persons/andy_nicholls/222.md) | 40+ | <i class="flag flag-GB" /> | 4.01 | 6.35 |  | 🥇 x 1, 🥈 x 3, 🥉 x 1 | 🔥 x 4, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/222.md) | 40+ | <i class="flag flag-AU" /> | 3.29 | 5.17 | 🏆 x 1 | 🥇 x 6, 🥈 x 18, 🥉 x 7 | 🔥 x 5, ⚡ x 3 |
-| [Brad Deegan](../../persons/brad_deegan/222.md) | 40+ | <i class="flag flag-AU" /> | 6.99 | 9.28 |  |  | 🔥 x 2, ⚡ x 1 |
+| [Brad Deegan](../../persons/brad_deegan/222.md) | 40+ | <i class="flag flag-AU" /> | 6.99 | 8.68 |  |  | 🔥 x 3, ⚡ x 1 |
 | [Chris Wright](../../persons/chris_wright/222.md) | 50+ | <i class="flag flag-GB" /> | 4.26 | 5.17 | 🏆 x 4 | 🥇 x 5, 🥈 x 2 | 💥 x 1, 🔥 x 1, ⚡ x 2 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/222.md) | 50+ | <i class="flag flag-IT" /> | 3.87 | 5.74 |  | 🥈 x 3, 🥉 x 1 | 💥 x 1, 🔥 x 4, ⚡ x 3 |
 | [Dan Smith](../../persons/dan_smith/222.md) | 50+ | <i class="flag flag-US" /> | 2.36 | 6.92 | 🏆 x 8 | 🥇 x 13, 🥈 x 23, 🥉 x 42 | 💥 x 4, 🔥 x 7, ⚡ x 9 |

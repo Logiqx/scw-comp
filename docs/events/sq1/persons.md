@@ -33,10 +33,10 @@
 | :-- | :--: | :--: | --: | --: | :--: | :-- | :-- |
 | [Andy Nicholls](../../persons/andy_nicholls/sq1.md) | 40+ | <i class="flag flag-GB" /> | 31.85 | 49.65 |  | 🥈 x 6 | 🔥 x 2, ⚡ x 2 |
 | [Anthony Rochester](../../persons/anthony_rochester/sq1.md) | 40+ | <i class="flag flag-AU" /> | 37.02 | 46.56 |  | 🥈 x 2, 🥉 x 2 | 🔥 x 4, ⚡ x 3 |
-| [Brad Deegan](../../persons/brad_deegan/sq1.md) | 40+ | <i class="flag flag-AU" /> | 43.65 | 56.15 |  | 🥉 x 2 | 🔥 x 1, ⚡ x 2 |
+| [Brad Deegan](../../persons/brad_deegan/sq1.md) | 40+ | <i class="flag flag-AU" /> | 34.14 | 54.18 |  | 🥈 x 1, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
 | [Chris Wright](../../persons/chris_wright/sq1.md) | 50+ | <i class="flag flag-GB" /> | 34.48 | 38.96 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 13.47 | 18.71 | 🏆 x 139 | 🥇 x 144, 🥈 x 9 | 💥 x 15, 🔥 x 8, ⚡ x 9 |
-| [Danielle Kay](../../persons/danielle_kay/sq1.md) | 40+ | <i class="flag flag-AU" /> | 1:04.75 | 1:13.30 |  | 🥈 x 3 | 🔥 x 1, ⚡ x 2 |
+| [Danielle Kay](../../persons/danielle_kay/sq1.md) | 40+ | <i class="flag flag-AU" /> | 1:04.75 | 1:13.30 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 1, ⚡ x 2 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/sq1.md) | 40+ | <i class="flag flag-VE" /> | 32.80 | 53.43 | 🏆 x 2 | 🥇 x 2 | 🔥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/sq1.md) | 50+ | <i class="flag flag-US" /> | 24.63 | 36.77 |  | 🥈 x 1, 🥉 x 7 | 🔥 x 6, ⚡ x 6 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | 40+ | <i class="flag flag-JP" /> | 18.69 | 24.34 | 🏆 x 8 | 🥇 x 8, 🥈 x 16 | 💥 x 2, 🔥 x 9, ⚡ x 4 |

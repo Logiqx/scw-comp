@@ -63,7 +63,7 @@
 | [Andrew Fischer](../../persons/andrew_fischer/333.md) | 40+ | <i class="flag flag-US" /> | 24.34 | 30.31 |  |  | 🔥 x 2, ⚡ x 3 |
 | [Andy Nicholls](../../persons/andy_nicholls/333.md) | 40+ | <i class="flag flag-GB" /> | 14.08 | 17.00 |  | 🥈 x 3, 🥉 x 7 | 🔥 x 4, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/333.md) | 40+ | <i class="flag flag-AU" /> | 15.61 | 19.88 |  | 🥉 x 1 | 🔥 x 7, ⚡ x 6 |
-| [Brad Deegan](../../persons/brad_deegan/333.md) | 40+ | <i class="flag flag-AU" /> | 22.70 | 25.54 |  |  | 🔥 x 2, ⚡ x 1 |
+| [Brad Deegan](../../persons/brad_deegan/333.md) | 40+ | <i class="flag flag-AU" /> | 21.09 | 25.04 |  |  | 🔥 x 3, ⚡ x 2 |
 | [Chris Wright](../../persons/chris_wright/333.md) | 50+ | <i class="flag flag-GB" /> | 10.58 | 13.67 | 🏆 x 5 | 🥇 x 12, 🥈 x 5, 🥉 x 2 | 💥 x 5, 🔥 x 4, ⚡ x 3 |
 | [Christoph Woittequand](../../persons/christoph_woittequand/333.md) | 40+ | <i class="flag flag-FR" /> | 12.05 | 17.03 |  | 🥉 x 5 | 🔥 x 5, ⚡ x 3 |
 | [Ciro Vignotto](../../persons/ciro_vignotto/333.md) | 50+ | <i class="flag flag-IT" /> | 14.59 | 18.05 |  | 🥉 x 3 | 🔥 x 2, ⚡ x 3 |

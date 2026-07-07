@@ -11,7 +11,8 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 33.91 | 45.37 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2004459553776098/permalink/2011398629748857) / [Mobile](https://m.facebook.com/events/2004459553776098?view=permalink&id=2011398629748857) |
-| 2 | [Danielle Kay](../../persons/danielle_kay/sq1.md) | 40+ | <i class="flag flag-AU" /> | 1:13.03 | 1:22.29 | 🥈 | [Desktop](https://www.facebook.com/events/2004459553776098/permalink/2012301389658581) / [Mobile](https://m.facebook.com/events/2004459553776098?view=permalink&id=2012301389658581) |
+| 2 | [Brad Deegan](../../persons/brad_deegan/sq1.md) | 40+ | <i class="flag flag-AU" /> | 34.14 | 54.18 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2004459553776098/permalink/2010810623140991) / [Mobile](https://m.facebook.com/events/2004459553776098?view=permalink&id=2010810623140991) |
+| 3 | [Danielle Kay](../../persons/danielle_kay/sq1.md) | 40+ | <i class="flag flag-AU" /> | 1:13.03 | 1:22.29 | 🥉 | [Desktop](https://www.facebook.com/events/2004459553776098/permalink/2012301389658581) / [Mobile](https://m.facebook.com/events/2004459553776098?view=permalink&id=2012301389658581) |
 
 #### [2026-06-08](../../results/2026-06-08/sq1.md)
 
