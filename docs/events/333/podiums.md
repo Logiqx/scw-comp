@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-06-22](../../results/2026-06-22/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 50+ | <i class="flag flag-AU" /> | 12.59 | 14.69 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/2080772666174883/permalink/2091715151747301) / [Mobile](https://m.facebook.com/events/2080772666174883?view=permalink&id=2091715151747301) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/333.md) | 50+ | <i class="flag flag-AU" /> | 13.87 | 17.66 | 🥈 | [Desktop](https://www.facebook.com/events/2080772666174883/permalink/2082620739323409) / [Mobile](https://m.facebook.com/events/2080772666174883?view=permalink&id=2082620739323409) |
+| 3 | [Veronika Rose](../../persons/veronika_rose/333.md) | 40+ | <i class="flag flag-SK" /> | 18.26 | 20.83 | 🥉 | [Desktop](https://www.facebook.com/events/2080772666174883/permalink/2085784739007009) / [Mobile](https://m.facebook.com/events/2080772666174883?view=permalink&id=2085784739007009) |
+
 #### [2026-06-08](../../results/2026-06-08/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
@@ -19,7 +27,7 @@
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 50+ | <i class="flag flag-AU" /> | 13.08 | 16.85 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1932249774152701/permalink/1942443536466658) / [Mobile](https://m.facebook.com/events/1932249774152701?view=permalink&id=1942443536466658) |
-| 2 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/333.md) | 40+ | | 18.64 | 19.73 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1932249774152701/permalink/1938386180205727) / [Mobile](https://m.facebook.com/events/1932249774152701?view=permalink&id=1938386180205727) |
+| 2 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/333.md) | 40+ | <i class="flag flag-IT" /> | 18.64 | 19.73 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1932249774152701/permalink/1938386180205727) / [Mobile](https://m.facebook.com/events/1932249774152701?view=permalink&id=1938386180205727) |
 | 3 | [Pete Lee](../../persons/pete_lee/333.md) | 40+ | <i class="flag flag-GB" /> | 19.22 | 19.89 | 🥉 | [Desktop](https://www.facebook.com/events/1932249774152701/permalink/1935980213779657) / [Mobile](https://m.facebook.com/events/1932249774152701?view=permalink&id=1935980213779657) |
 
 #### [2026-05-11](../../results/2026-05-11/333.md)

@@ -4,6 +4,8 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### [Lino Nicola Grasso](README.md) - [2023GRAS03](https://www.worldcubeassociation.org/persons/2023GRAS03?event=minx)
 
+<i class="flag flag-IT" />&nbsp;Italy
+
 #### Megaminx Results
 
 <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

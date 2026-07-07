@@ -4,6 +4,8 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### Lino Nicola Grasso - [2023GRAS03](https://www.worldcubeassociation.org/persons/2023GRAS03)
 
+<i class="flag flag-IT" />&nbsp;Italy
+
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Event | Single | Average | Cups | Medals | Achievements|

@@ -6,12 +6,19 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-06-22](../../results/2026-06-22/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Danielle Kay](../../persons/danielle_kay/skewb.md) | 40+ | <i class="flag flag-AU" /> | 6.30 | 8.70 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2004459553776098/permalink/2007344043487649) / [Mobile](https://m.facebook.com/events/2004459553776098?view=permalink&id=2007344043487649) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/skewb.md) | 50+ | <i class="flag flag-AU" /> | 9.01 | 11.12 | 🥈 | [Desktop](https://www.facebook.com/events/2004459553776098/permalink/2007031953518858) / [Mobile](https://m.facebook.com/events/2004459553776098?view=permalink&id=2007031953518858) |
+
 #### [2026-06-08](../../results/2026-06-08/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.30 | 7.26 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2266467350555819/permalink/2277782029424351) / [Mobile](https://m.facebook.com/events/2266467350555819?view=permalink&id=2277782029424351) |
-| 2 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/skewb.md) | 40+ | | 6.61 | 9.57 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/2266467350555819/permalink/2274130563122831) / [Mobile](https://m.facebook.com/events/2266467350555819?view=permalink&id=2274130563122831) |
+| 2 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/skewb.md) | 40+ | <i class="flag flag-IT" /> | 6.61 | 9.57 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/2266467350555819/permalink/2274130563122831) / [Mobile](https://m.facebook.com/events/2266467350555819?view=permalink&id=2274130563122831) |
 | 3 | [Danielle Kay](../../persons/danielle_kay/skewb.md) | 40+ | <i class="flag flag-AU" /> | 5.92 | 10.10 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/2266467350555819/permalink/2277181492817738) / [Mobile](https://m.facebook.com/events/2266467350555819?view=permalink&id=2277181492817738) |
 
 #### [2026-05-25](../../results/2026-05-25/skewb.md)
@@ -20,7 +27,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Kristina Lim](../../persons/kristina_lim/skewb.md) | 50+ | <i class="flag flag-US" /> | 6.22 | 6.92 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1512018320302405/permalink/1523033619200875) / [Mobile](https://m.facebook.com/events/1512018320302405?view=permalink&id=1523033619200875) |
 | 2 | [Shen Flindell](../../persons/shen_flindell/skewb.md) | 50+ | <i class="flag flag-AU" /> | 7.35 | 9.21 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1512018320302405/permalink/1518880416282862) / [Mobile](https://m.facebook.com/events/1512018320302405?view=permalink&id=1518880416282862) |
-| 3 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/skewb.md) | 40+ | | 8.15 | 9.40 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1512018320302405/permalink/1518499926320911) / [Mobile](https://m.facebook.com/events/1512018320302405?view=permalink&id=1518499926320911) |
+| 3 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/skewb.md) | 40+ | <i class="flag flag-IT" /> | 8.15 | 9.40 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1512018320302405/permalink/1518499926320911) / [Mobile](https://m.facebook.com/events/1512018320302405?view=permalink&id=1518499926320911) |
 
 #### [2026-05-11](../../results/2026-05-11/skewb.md)
 

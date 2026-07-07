@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-06-22](../../results/2026-06-22/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 22.29 | 26.14 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2080772666174883/permalink/2082679089317574) / [Mobile](https://m.facebook.com/events/2080772666174883?view=permalink&id=2082679089317574) |
+| 2 | [Danielle Kay](../../persons/danielle_kay/333oh.md) | 40+ | <i class="flag flag-AU" /> | 38.94 | 39.82 | 🥈 | [Desktop](https://www.facebook.com/events/2080772666174883/permalink/2082691462649670) / [Mobile](https://m.facebook.com/events/2080772666174883?view=permalink&id=2082691462649670) |
+| 3 | [Toby Chamberlain](../../persons/toby_chamberlain/333oh.md) | 50+ | <i class="flag flag-AU" /> | 34.22 | 45.58 | 🥉 | [Desktop](https://www.facebook.com/events/2080772666174883/permalink/2091675405084609) / [Mobile](https://m.facebook.com/events/2080772666174883?view=permalink&id=2091675405084609) |
+
 #### [2026-06-08](../../results/2026-06-08/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
@@ -20,7 +28,7 @@
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 19.59 | 25.15 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1932249774152701/permalink/1942367103140968) / [Mobile](https://m.facebook.com/events/1932249774152701?view=permalink&id=1942367103140968) |
 | 2 | [Danielle Kay](../../persons/danielle_kay/333oh.md) | 40+ | <i class="flag flag-AU" /> | 31.17 | 34.80 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1932249774152701/permalink/1940114426699569) / [Mobile](https://m.facebook.com/events/1932249774152701?view=permalink&id=1940114426699569) |
-| 3 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/333oh.md) | 40+ | | 34.95 | 38.58 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1932249774152701/permalink/1938508966860115) / [Mobile](https://m.facebook.com/events/1932249774152701?view=permalink&id=1938508966860115) |
+| 3 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/333oh.md) | 40+ | <i class="flag flag-IT" /> | 34.95 | 38.58 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1932249774152701/permalink/1938508966860115) / [Mobile](https://m.facebook.com/events/1932249774152701?view=permalink&id=1938508966860115) |
 
 #### [2026-05-11](../../results/2026-05-11/333oh.md)
 
