@@ -26,6 +26,7 @@
 | [4x4x4 BLD](444bf.md) | 15:13.49 | - |  | ⚡ x 3 |
 | [5x5x5 BLD](555bf.md) | 36:30.00 | - | 🏆 x 1 | ⚡ x 1 |
 | [3x3x3 MBLD](333mbf.md) | 6/9 in 59:31 | - |  | ⚡ x 3 |
+| [3x3x3 FMC](333fm.md) | 32 | 39.00 |  | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

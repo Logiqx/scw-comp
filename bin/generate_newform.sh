@@ -41,6 +41,10 @@ FormURL=$(echo $NewIDs | sed 's/.*FormID=\(\S*\).*/\1/')
 SheetID=$(echo $NewIDs | sed 's/.*SheetID=\(\S*\).*/\1/')
 AnalURL=$(echo $FormURL | sed 's:/viewform:/viewanalytics:')
 
+# Copy current Responses in case we need to rerun due to late entries
+[ -f docs/responses_previous.html ] && rm docs/responses_previous.html
+cp docs/responses docs/responses_previous.html
+
 # Replace in HTML files
 sed -i "s,URL=.*\",URL=$FormURL\"," docs/submit.html 
 sed -i "s,URL=.*\",URL=$AnalURL\"," docs/analytics.html

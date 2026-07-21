@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-07-06](../../results/2026-07-06/clock.md) | 40+ | 10.88 | 11.89 | 🥉 | 12.91 | 11.70 | 11.05 | 10.88 | 13.81 | [Desktop](https://www.facebook.com/events/2151185886282181/permalink/2152930746107695) / [Mobile](https://m.facebook.com/events/2151185886282181?view=permalink&id=2152930746107695) |
 | [2026-06-22](../../results/2026-06-22/clock.md) | 40+ | 9.79 | 12.09 | 🥉 | 13.14 | 9.79 | DNF | 10.93 | 12.20 | [Desktop](https://www.facebook.com/events/2004459553776098/permalink/2011994079689312) / [Mobile](https://m.facebook.com/events/2004459553776098?view=permalink&id=2011994079689312) |
 | [2026-06-08](../../results/2026-06-08/clock.md) | 40+ | 13.19 | DNF |  | 13.27 | 13.78 | 13.19 | DNF | DNF | [Desktop](https://www.facebook.com/events/2266467350555819/permalink/2276442649558289) / [Mobile](https://m.facebook.com/events/2266467350555819?view=permalink&id=2276442649558289) |
 | [2026-05-25](../../results/2026-05-25/clock.md) | 40+ | **9.48** | **10.89** | 🔥 ⚡ | 11.36 | **9.48** | 10.47 | 10.85 | 12.41 | [Desktop](https://www.facebook.com/events/1512018320302405/permalink/1521879719316265) / [Mobile](https://m.facebook.com/events/1512018320302405?view=permalink&id=1521879719316265) |
