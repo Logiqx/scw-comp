@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-07-20](../../results/2026-07-20/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Danielle Kay](../../persons/danielle_kay/skewb.md) | 40+ | <i class="flag flag-AU" /> | 6.07 | 8.99 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1057998416768467/permalink/1067906099111032) / [Mobile](https://m.facebook.com/events/1057998416768467?view=permalink&id=1067906099111032) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/skewb.md) | 50+ | <i class="flag flag-AU" /> | 8.59 | 10.29 | 🥈 | [Desktop](https://www.facebook.com/events/1057998416768467/permalink/1058803876687921) / [Mobile](https://m.facebook.com/events/1057998416768467?view=permalink&id=1058803876687921) |
+| 3 | [Tim Shaw](../../persons/tim_shaw/skewb.md) | 50+ | | 7.04 | 14.57 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1057998416768467/permalink/1061480336420275) / [Mobile](https://m.facebook.com/events/1057998416768467?view=permalink&id=1061480336420275) |
+
 #### [2026-07-06](../../results/2026-07-06/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-07-20](../../results/2026-07-20/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | <i class="flag flag-GB" /> | 2:24.17 | 2:41.54 | 🏆 🥇 💥 ⚡ | [Desktop](https://www.facebook.com/events/1569053311325248/permalink/1570453581185221) / [Mobile](https://m.facebook.com/events/1569053311325248?view=permalink&id=1570453581185221) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 2:48.30 | 3:04.68 | 🥈 | [Desktop](https://www.facebook.com/events/1569053311325248/permalink/1574671824096730) / [Mobile](https://m.facebook.com/events/1569053311325248?view=permalink&id=1574671824096730) |
+
 #### [2026-07-06](../../results/2026-07-06/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

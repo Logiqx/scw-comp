@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-07-20](../../results/2026-07-20/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Glyn Brown](../../persons/glyn_brown/444.md) | 40+ | <i class="flag flag-GB" /> | 40.25 | 50.33 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1569053311325248/permalink/1577599503803962) / [Mobile](https://m.facebook.com/events/1569053311325248?view=permalink&id=1577599503803962) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 47.69 | 1:03.18 | 🥈 | [Desktop](https://www.facebook.com/events/1569053311325248/permalink/1569852161245363) / [Mobile](https://m.facebook.com/events/1569053311325248?view=permalink&id=1569852161245363) |
+| 3 | [Tim Shaw](../../persons/tim_shaw/444.md) | 50+ | | 1:11.02 | 1:23.04 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1569053311325248/permalink/1570439664519946) / [Mobile](https://m.facebook.com/events/1569053311325248?view=permalink&id=1570439664519946) |
+
 #### [2026-07-06](../../results/2026-07-06/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

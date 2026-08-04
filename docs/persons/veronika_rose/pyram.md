@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-07-20](../../results/2026-07-20/pyram.md) | 40+ | 7.15 | 10.52 | 🥉 | 12.90 | 7.15 | 8.57 | 12.72 | 10.27 | [Desktop](https://www.facebook.com/events/1057998416768467/permalink/1061759129725729) / [Mobile](https://m.facebook.com/events/1057998416768467?view=permalink&id=1061759129725729) |
 | [2026-07-06](../../results/2026-07-06/pyram.md) | 40+ | 8.59 | 10.79 | 🥉 | 8.59 | 9.32 | 9.79 | 13.25 | 14.84 | [Desktop](https://www.facebook.com/events/2151185886282181/permalink/2152909206109849) / [Mobile](https://m.facebook.com/events/2151185886282181?view=permalink&id=2152909206109849) |
 | [2026-06-22](../../results/2026-06-22/pyram.md) | 40+ | 10.08 | DNF | 🥉 | DNF | DNF | 13.39 | 10.08 | 13.32 | [Desktop](https://www.facebook.com/events/2004459553776098/permalink/2009414603280593) / [Mobile](https://m.facebook.com/events/2004459553776098?view=permalink&id=2009414603280593) |
 | [2026-06-08](../../results/2026-06-08/pyram.md) | 40+ | 9.38 | 10.24 | 🥈 | 9.63 | 9.38 | 13.63 | 10.07 | 11.02 | [Desktop](https://www.facebook.com/events/2266467350555819/permalink/2277194489483105) / [Mobile](https://m.facebook.com/events/2266467350555819?view=permalink&id=2277194489483105) |
