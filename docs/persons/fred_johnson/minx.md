@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-08-03](../../results/2026-08-03/minx.md) | <40 | 1:38.02 | 1:45.20 |  | 1:41.96 | 1:42.98 | 1:50.66 | 1:38.02 | 2:02.29 | [Desktop](https://www.facebook.com/frederick.g.johnson/videos/1739304747401554) / [Mobile](https://m.facebook.com/frederick.g.johnson/videos/1739304747401554) |
 | [2026-07-20](../../results/2026-07-20/minx.md) | <40 | 1:27.92 | 1:44.50 |  | 1:47.29 | 1:36.17 | 1:54.58 | 1:27.92 | 1:50.04 | [Desktop](https://www.facebook.com/frederick.g.johnson/videos/3530863043748640) / [Mobile](https://m.facebook.com/frederick.g.johnson/videos/3530863043748640) |
 | [2026-06-22](../../results/2026-06-22/minx.md) | <40 | 1:31.87 | 1:51.73 |  | 2:02.92 | 1:48.41 | 1:45.64 | 2:01.13 | 1:31.87 | [Desktop](https://www.facebook.com/frederick.g.johnson/videos/1770167011015933) / [Mobile](https://m.facebook.com/frederick.g.johnson/videos/1770167011015933) |
 | [2026-04-13](../../results/2026-04-13/minx.md) | <40 | 1:44.40 | 2:00.57 |  | 1:44.40 | 1:48.28 | 2:10.63 | 2:02.81 | 2:15.73 | [Desktop](https://www.facebook.com/frederick.g.johnson/videos/951280451077989) / [Mobile](https://m.facebook.com/frederick.g.johnson/videos/951280451077989) |

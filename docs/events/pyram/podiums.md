@@ -6,12 +6,20 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-08-03](../../results/2026-08-03/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Kevin Gray](../../persons/kevin_gray/pyram.md) | 50+ | | 5.68 | 5.90 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1580949403440851/permalink/1585021099700348) / [Mobile](https://m.facebook.com/events/1580949403440851?view=permalink&id=1585021099700348) |
+| 2 | [Tim Shaw](../../persons/tim_shaw/pyram.md) | 50+ | <i class="flag flag-GB" /> | 7.37 | 9.87 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1580949403440851/permalink/1583328083202983) / [Mobile](https://m.facebook.com/events/1580949403440851?view=permalink&id=1583328083202983) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/pyram.md) | 50+ | <i class="flag flag-AU" /> | 7.91 | 10.24 | 🥉 | [Desktop](https://www.facebook.com/events/1580949403440851/permalink/1589452215923903) / [Mobile](https://m.facebook.com/events/1580949403440851?view=permalink&id=1589452215923903) |
+
 #### [2026-07-20](../../results/2026-07-20/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/pyram.md) | 50+ | <i class="flag flag-AU" /> | 6.76 | 10.29 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1057998416768467/permalink/1067909732444002) / [Mobile](https://m.facebook.com/events/1057998416768467?view=permalink&id=1067909732444002) |
-| 2 | [Tim Shaw](../../persons/tim_shaw/pyram.md) | 50+ | | 9.22 | 10.34 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1057998416768467/permalink/1061481279753514) / [Mobile](https://m.facebook.com/events/1057998416768467?view=permalink&id=1061481279753514) |
+| 2 | [Tim Shaw](../../persons/tim_shaw/pyram.md) | 50+ | <i class="flag flag-GB" /> | 9.22 | 10.34 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1057998416768467/permalink/1061481279753514) / [Mobile](https://m.facebook.com/events/1057998416768467?view=permalink&id=1061481279753514) |
 | 3 | [Veronika Rose](../../persons/veronika_rose/pyram.md) | 40+ | <i class="flag flag-SK" /> | 7.15 | 10.52 | 🥉 | [Desktop](https://www.facebook.com/events/1057998416768467/permalink/1061759129725729) / [Mobile](https://m.facebook.com/events/1057998416768467?view=permalink&id=1061759129725729) |
 
 #### [2026-07-06](../../results/2026-07-06/pyram.md)

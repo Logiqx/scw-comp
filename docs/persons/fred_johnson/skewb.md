@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-08-03](../../results/2026-08-03/skewb.md) | <40 | 9.95 | 11.04 |  | 10.30 | 11.10 | 11.71 | 11.98 | 9.95 | [Desktop](https://www.facebook.com/frederick.g.johnson/videos/1524656936098200) / [Mobile](https://m.facebook.com/frederick.g.johnson/videos/1524656936098200) |
 | [2026-07-20](../../results/2026-07-20/skewb.md) | <40 | **8.65** | 12.07 | ⚡ | **8.65** | 9.61 | 19.44 | 12.22 | 14.39 | [Desktop](https://www.facebook.com/frederick.g.johnson/videos/1597369002110959) / [Mobile](https://m.facebook.com/frederick.g.johnson/videos/1597369002110959) |
 | [2026-04-13](../../results/2026-04-13/skewb.md) | <40 | 9.53 | 10.79 |  | 11.46 | 14.93 | 9.53 | 10.92 | 10.00 | [Desktop](https://www.facebook.com/frederick.g.johnson/videos/947325041235525) / [Mobile](https://m.facebook.com/frederick.g.johnson/videos/947325041235525) |
 | [2026-01-19](../../results/2026-01-19/skewb.md) | <40 | **9.39** | **10.41** | 🔥 ⚡ | 9.92 | 9.95 | 11.35 | 11.62 | **9.39** | [Desktop](https://www.facebook.com/frederick.g.johnson/videos/908987898190419) / [Mobile](https://m.facebook.com/frederick.g.johnson/videos/908987898190419) |

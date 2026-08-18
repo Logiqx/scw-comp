@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-08-03](../../results/2026-08-03/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Kevin Gray](../../persons/kevin_gray/sq1.md) | 50+ | | 23.91 | 36.29 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1580949403440851/permalink/1585835829618875) / [Mobile](https://m.facebook.com/events/1580949403440851?view=permalink&id=1585835829618875) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 26.17 | 41.83 | 🥈 | [Desktop](https://www.facebook.com/events/1580949403440851/permalink/1588578559344602) / [Mobile](https://m.facebook.com/events/1580949403440851?view=permalink&id=1588578559344602) |
+| 3 | [Brad Deegan](../../persons/brad_deegan/sq1.md) | 40+ | <i class="flag flag-AU" /> | 43.49 | 51.16 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/1580949403440851/permalink/1588816695987455) / [Mobile](https://m.facebook.com/events/1580949403440851?view=permalink&id=1588816695987455) |
+
 #### [2026-07-20](../../results/2026-07-20/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
