@@ -6,11 +6,19 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-08-17](../../results/2026-08-17/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/sq1.md) | 40+ | <i class="flag flag-IT" /> | 26.73 | 29.79 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2076708972933058/permalink/2080722075865081) / [Mobile](https://m.facebook.com/events/2076708972933058?view=permalink&id=2080722075865081) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 32.16 | 37.18 | 🥈 | [Desktop](https://www.facebook.com/events/2076708972933058/permalink/2078310172772938) / [Mobile](https://m.facebook.com/events/2076708972933058?view=permalink&id=2078310172772938) |
+| 3 | [Brad Deegan](../../persons/brad_deegan/sq1.md) | 40+ | <i class="flag flag-AU" /> | 43.97 | 51.22 | 🥉 | [Desktop](https://www.facebook.com/events/2076708972933058/permalink/2087792285158060) / [Mobile](https://m.facebook.com/events/2076708972933058?view=permalink&id=2087792285158060) |
+
 #### [2026-08-03](../../results/2026-08-03/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Kevin Gray](../../persons/kevin_gray/sq1.md) | 50+ | | 23.91 | 36.29 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1580949403440851/permalink/1585835829618875) / [Mobile](https://m.facebook.com/events/1580949403440851?view=permalink&id=1585835829618875) |
+| 1 | [Kevin Gray](../../persons/kevin_gray/sq1.md) | 50+ | <i class="flag flag-GB" /> | 23.91 | 36.29 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1580949403440851/permalink/1585835829618875) / [Mobile](https://m.facebook.com/events/1580949403440851?view=permalink&id=1585835829618875) |
 | 2 | [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 26.17 | 41.83 | 🥈 | [Desktop](https://www.facebook.com/events/1580949403440851/permalink/1588578559344602) / [Mobile](https://m.facebook.com/events/1580949403440851?view=permalink&id=1588578559344602) |
 | 3 | [Brad Deegan](../../persons/brad_deegan/sq1.md) | 40+ | <i class="flag flag-AU" /> | 43.49 | 51.16 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/1580949403440851/permalink/1588816695987455) / [Mobile](https://m.facebook.com/events/1580949403440851?view=permalink&id=1588816695987455) |
 

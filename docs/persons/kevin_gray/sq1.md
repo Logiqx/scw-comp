@@ -4,6 +4,8 @@
 ## [Senior Cubers Worldwide - Weekly Comp Results](../../results/)
 ### [Kevin Gray](README.md) - [2022GRAY04](https://www.worldcubeassociation.org/persons/2022GRAY04?event=sq1)
 
+<i class="flag flag-GB" />&nbsp;United Kingdom
+
 #### Square-1 Results
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.

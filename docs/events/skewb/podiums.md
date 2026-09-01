@@ -6,12 +6,20 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-08-17](../../results/2026-08-17/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/skewb.md) | 40+ | <i class="flag flag-IT" /> | 6.85 | 9.25 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/2076708972933058/permalink/2080727792531176) / [Mobile](https://m.facebook.com/events/2076708972933058?view=permalink&id=2080727792531176) |
+| 2 | [Kevin Gray](../../persons/kevin_gray/skewb.md) | 50+ | <i class="flag flag-GB" /> | 6.24 | 9.65 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/2076708972933058/permalink/2080345095902779) / [Mobile](https://m.facebook.com/events/2076708972933058?view=permalink&id=2080345095902779) |
+| 3 | [Danielle Kay](../../persons/danielle_kay/skewb.md) | 40+ | <i class="flag flag-AU" /> | 6.85 | 11.87 | 🥉 | [Desktop](https://www.facebook.com/events/2076708972933058/permalink/2086757448594877) / [Mobile](https://m.facebook.com/events/2076708972933058?view=permalink&id=2086757448594877) |
+
 #### [2026-08-03](../../results/2026-08-03/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Danielle Kay](../../persons/danielle_kay/skewb.md) | 40+ | <i class="flag flag-AU" /> | 6.66 | 9.55 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1580949403440851/permalink/1591429852392806) / [Mobile](https://m.facebook.com/events/1580949403440851?view=permalink&id=1591429852392806) |
-| 2 | [Kevin Gray](../../persons/kevin_gray/skewb.md) | 50+ | | 9.03 | 9.63 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1580949403440851/permalink/1585004199702038) / [Mobile](https://m.facebook.com/events/1580949403440851?view=permalink&id=1585004199702038) |
+| 2 | [Kevin Gray](../../persons/kevin_gray/skewb.md) | 50+ | <i class="flag flag-GB" /> | 9.03 | 9.63 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1580949403440851/permalink/1585004199702038) / [Mobile](https://m.facebook.com/events/1580949403440851?view=permalink&id=1585004199702038) |
 | 3 | [Shen Flindell](../../persons/shen_flindell/skewb.md) | 50+ | <i class="flag flag-AU" /> | 8.36 | 10.32 | 🥉 | [Desktop](https://www.facebook.com/events/1580949403440851/permalink/1589432149259243) / [Mobile](https://m.facebook.com/events/1580949403440851?view=permalink&id=1589432149259243) |
 
 #### [2026-07-20](../../results/2026-07-20/skewb.md)
