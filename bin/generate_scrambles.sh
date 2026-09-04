@@ -8,7 +8,7 @@
 set +x
 
 # Start TNoodle - assumes the jar is in the bin folder, change path as needed
-java -jar bin/TNoodle-WCA-1.2.2.jar >/dev/null &
+java -jar bin/TNoodle-WCA-1.2.3.jar >/dev/null &
 JavaPID=$!
 
 # Check we have dates
