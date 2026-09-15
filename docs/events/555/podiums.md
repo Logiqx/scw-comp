@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-08-31](../../results/2026-08-31/555.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Glyn Brown](../../persons/glyn_brown/555.md) | 40+ | <i class="flag flag-GB" /> | 1:21.16 | 1:37.69 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/2083491542243936/permalink/2094026571190433) / [Mobile](https://m.facebook.com/events/2083491542243936?view=permalink&id=2094026571190433) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/555.md) | 50+ | <i class="flag flag-AU" /> | 1:38.98 | 1:50.83 | 🥈 | [Desktop](https://www.facebook.com/events/2083491542243936/permalink/2084279688831788) / [Mobile](https://m.facebook.com/events/2083491542243936?view=permalink&id=2084279688831788) |
+| 3 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/555.md) | 40+ | <i class="flag flag-IT" /> | 2:11.51 | 2:21.37 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1006322652455921/permalink/1029315056823347) / [Mobile](https://m.facebook.com/events/1006322652455921?view=permalink&id=1029315056823347) |
+
 #### [2026-08-17](../../results/2026-08-17/555.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

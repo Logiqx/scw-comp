@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-08-31](../../results/2026-08-31/sq1.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/sq1.md) | 40+ | <i class="flag flag-IT" /> | 21.22 | 33.95 | 🏆 🥇 ⚡ | [Desktop](https://www.facebook.com/events/1624025116110615/permalink/1634474755065651) / [Mobile](https://m.facebook.com/events/1624025116110615?view=permalink&id=1634474755065651) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 33.53 | 39.62 | 🥈 | [Desktop](https://www.facebook.com/events/1624025116110615/permalink/1625649145948212) / [Mobile](https://m.facebook.com/events/1624025116110615?view=permalink&id=1625649145948212) |
+
 #### [2026-08-17](../../results/2026-08-17/sq1.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
