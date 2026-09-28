@@ -10,13 +10,13 @@
 
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/555bf.md) | [2026-01-05](../../results/2026-01-05/555bf.md) | 50+ | <i class="flag flag-AU" /> | 15:57.89 | 🏆 x 34 | 🥇 x 34 | 💥 x 2, 🔥 x 1, ⚡ x 9 | [Desktop](https://www.facebook.com/events/636386589532561/permalink/637775072727046) / [Mobile](https://m.facebook.com/events/636386589532561?view=permalink&id=637775072727046) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/555bf.md) | [2026-09-14](../../results/2026-09-14/555bf.md) | 50+ | <i class="flag flag-AU" /> | 14:02.93 | 🏆 x 35 | 🥇 x 35 | 💥 x 3, 🔥 x 2, ⚡ x 9 | [Desktop](https://www.facebook.com/events/1067230989410427/permalink/1078819558251570) / [Mobile](https://m.facebook.com/events/1067230989410427?view=permalink&id=1078819558251570) |
 
 #### Over 40
 
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/555bf.md) | [2026-01-05](../../results/2026-01-05/555bf.md) | 50+ | <i class="flag flag-AU" /> | 15:57.89 | 🏆 x 34 | 🥇 x 34 | 💥 x 2, 🔥 x 1, ⚡ x 9 | [Desktop](https://www.facebook.com/events/636386589532561/permalink/637775072727046) / [Mobile](https://m.facebook.com/events/636386589532561?view=permalink&id=637775072727046) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/555bf.md) | [2026-09-14](../../results/2026-09-14/555bf.md) | 50+ | <i class="flag flag-AU" /> | 14:02.93 | 🏆 x 35 | 🥇 x 35 | 💥 x 3, 🔥 x 2, ⚡ x 9 | [Desktop](https://www.facebook.com/events/1067230989410427/permalink/1078819558251570) / [Mobile](https://m.facebook.com/events/1067230989410427?view=permalink&id=1078819558251570) |
 
 #### Under 40
 

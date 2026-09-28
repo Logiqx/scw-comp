@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-09-14](../../results/2026-09-14/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/444.md) | 50+ | <i class="flag flag-AU" /> | 47.03 | 56.67 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1631766778322722/permalink/1632589234907143) / [Mobile](https://m.facebook.com/events/1631766778322722?view=permalink&id=1632589234907143) |
+| 2 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 52.28 | 57.31 | 🥈 | [Desktop](https://www.facebook.com/events/1631766778322722/permalink/1638783607621039) / [Mobile](https://m.facebook.com/events/1631766778322722?view=permalink&id=1638783607621039) |
+| 3 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/444.md) | 40+ | <i class="flag flag-IT" /> | 57.50 | 1:08.33 | 🥉 ⚡ | [Desktop](https://www.facebook.com/events/1631766778322722/permalink/1640599460772787) / [Mobile](https://m.facebook.com/events/1631766778322722?view=permalink&id=1640599460772787) |
+
 #### [2026-08-31](../../results/2026-08-31/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

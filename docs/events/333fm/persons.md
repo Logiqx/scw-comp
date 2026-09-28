@@ -29,7 +29,7 @@
 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 50+ | <i class="flag flag-BR" /> | 28 | 31.33 | 🏆 x 34 | 🥇 x 40, 🥈 x 11, 🥉 x 1 | 🔥 x 6, ⚡ x 9 |
 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | <i class="flag flag-GB" /> | 32 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 3 | ⚡ x 3 |
 | [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 27 | 30.67 | 🏆 x 7 | 🥇 x 9, 🥈 x 23, 🥉 x 10 | 🔥 x 9, ⚡ x 6 |
-| [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 29.33 | 🏆 x 11 | 🥇 x 23, 🥈 x 14, 🥉 x 8 | 💥 x 1, 🔥 x 8, ⚡ x 4 |
+| [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 29.33 | 🏆 x 12 | 🥇 x 24, 🥈 x 14, 🥉 x 8 | 💥 x 1, 🔥 x 8, ⚡ x 4 |
 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | <i class="flag flag-UA" /> | 21 | DNF | 🏆 x 14 | 🥇 x 14, 🥈 x 1 | 💥 x 3, ⚡ x 4 |
 
 #### Over 40
@@ -56,7 +56,7 @@
 | [Michael George](../../persons/michael_george/333fm.md) | 40+ | <i class="flag flag-GB" /> | 31 | DNF |  | 🥇 x 1, 🥈 x 4, 🥉 x 5 | ⚡ x 3 |
 | [Pete Lee](../../persons/pete_lee/333fm.md) | 40+ | <i class="flag flag-GB" /> | 50 | 55.33 |  | 🥈 x 2 | 🔥 x 1, ⚡ x 1 |
 | [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 27 | 30.67 | 🏆 x 7 | 🥇 x 9, 🥈 x 23, 🥉 x 10 | 🔥 x 9, ⚡ x 6 |
-| [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 29.33 | 🏆 x 11 | 🥇 x 23, 🥈 x 14, 🥉 x 8 | 💥 x 1, 🔥 x 8, ⚡ x 4 |
+| [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 29.33 | 🏆 x 12 | 🥇 x 24, 🥈 x 14, 🥉 x 8 | 💥 x 1, 🔥 x 8, ⚡ x 4 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | <i class="flag flag-TW" /> | 27 | 30.33 | 🏆 x 9 | 🥇 x 10, 🥈 x 11, 🥉 x 6 | 🔥 x 3, ⚡ x 8 |
 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | <i class="flag flag-UA" /> | 21 | DNF | 🏆 x 14 | 🥇 x 14, 🥈 x 1 | 💥 x 3, ⚡ x 4 |
 

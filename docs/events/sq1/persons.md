@@ -26,7 +26,7 @@
 | [Michael Orger](../../persons/michael_orger/sq1.md) | 50+ | <i class="flag flag-GB" /> | 41.95 | 1:08.80 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 16.57 | 24.19 | 🏆 x 5 | 🥇 x 5, 🥈 x 92, 🥉 x 5 | 🔥 x 19, ⚡ x 13 |
 | [Peter Douthwright](../../persons/peter_douthwright/sq1.md) | 60+ | <i class="flag flag-CA" /> | 1:14.33 | 1:36.66 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 24.48 | 35.12 | 🏆 x 16 | 🥇 x 16, 🥈 x 4 | 🔥 x 3, ⚡ x 5 |
+| [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 24.48 | 35.12 | 🏆 x 16 | 🥇 x 16, 🥈 x 5 | 🔥 x 3, ⚡ x 5 |
 
 #### Over 40
 
@@ -37,7 +37,7 @@
 | [Brad Deegan](../../persons/brad_deegan/sq1.md) | 40+ | <i class="flag flag-AU" /> | 34.14 | 51.16 |  | 🥈 x 1, 🥉 x 4 | 🔥 x 3, ⚡ x 3 |
 | [Chris Wright](../../persons/chris_wright/sq1.md) | 50+ | <i class="flag flag-GB" /> | 34.48 | 38.96 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/sq1.md) | 50+ | <i class="flag flag-US" /> | 13.47 | 18.71 | 🏆 x 139 | 🥇 x 144, 🥈 x 9 | 💥 x 15, 🔥 x 8, ⚡ x 9 |
-| [Danielle Kay](../../persons/danielle_kay/sq1.md) | 40+ | <i class="flag flag-AU" /> | 52.77 | 1:04.00 |  | 🥈 x 4, 🥉 x 1 | 🔥 x 2, ⚡ x 5 |
+| [Danielle Kay](../../persons/danielle_kay/sq1.md) | 40+ | <i class="flag flag-AU" /> | 50.90 | 1:02.87 |  | 🥈 x 4, 🥉 x 2 | 🔥 x 3, ⚡ x 6 |
 | [Enrymar Cisneros](../../persons/enrymar_cisneros/sq1.md) | 40+ | <i class="flag flag-VE" /> | 32.80 | 53.43 | 🏆 x 2 | 🥇 x 2 | 🔥 x 1, ⚡ x 1 |
 | [Eric Dodson](../../persons/eric_dodson/sq1.md) | 50+ | <i class="flag flag-US" /> | 24.63 | 36.77 |  | 🥈 x 1, 🥉 x 7 | 🔥 x 6, ⚡ x 6 |
 | [Fumiki Koseki](../../persons/fumiki_koseki/sq1.md) | 40+ | <i class="flag flag-JP" /> | 18.69 | 24.34 | 🏆 x 8 | 🥇 x 8, 🥈 x 16 | 💥 x 2, 🔥 x 9, ⚡ x 4 |
@@ -48,13 +48,13 @@
 | [Kevin Gray](../../persons/kevin_gray/sq1.md) | 50+ | <i class="flag flag-GB" /> | 23.91 | 36.29 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Konsta Jukka](../../persons/konsta_jukka/sq1.md) | 40+ | <i class="flag flag-FI" /> | 24.21 | 40.11 |  | 🥉 x 5 | 🔥 x 4, ⚡ x 3 |
 | [Kristina Lim](../../persons/kristina_lim/sq1.md) | 50+ | <i class="flag flag-US" /> | 33.84 | 38.71 |  | 🥈 x 2, 🥉 x 6 | 🔥 x 4, ⚡ x 3 |
-| [Lino Nicola Grasso](../../persons/lino_nicola_grasso/sq1.md) | 40+ | <i class="flag flag-IT" /> | 21.22 | 29.79 | 🏆 x 3 | 🥇 x 3 | 🔥 x 2, ⚡ x 3 |
+| [Lino Nicola Grasso](../../persons/lino_nicola_grasso/sq1.md) | 40+ | <i class="flag flag-IT" /> | 21.22 | 27.39 | 🏆 x 4 | 🥇 x 4 | 🔥 x 3, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/sq1.md) | 60+ | <i class="flag flag-US" /> | 26.88 | 40.21 |  | 🥈 x 4, 🥉 x 47 | 💥 x 5, 🔥 x 7, ⚡ x 5 |
 | [Michael Orger](../../persons/michael_orger/sq1.md) | 50+ | <i class="flag flag-GB" /> | 41.95 | 1:08.80 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/sq1.md) | 50+ | <i class="flag flag-US" /> | 16.57 | 24.19 | 🏆 x 5 | 🥇 x 5, 🥈 x 92, 🥉 x 5 | 🔥 x 19, ⚡ x 13 |
 | [Paweł Zok](../../persons/pawe_zok/sq1.md) | 40+ | <i class="flag flag-PL" /> | 57.24 | 1:13.54 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 1 |
 | [Peter Douthwright](../../persons/peter_douthwright/sq1.md) | 60+ | <i class="flag flag-CA" /> | 1:14.33 | 1:36.66 |  |  | 💥 x 1, 🔥 x 1, ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 24.48 | 35.12 | 🏆 x 16 | 🥇 x 16, 🥈 x 4 | 🔥 x 3, ⚡ x 5 |
+| [Shen Flindell](../../persons/shen_flindell/sq1.md) | 50+ | <i class="flag flag-AU" /> | 24.48 | 35.12 | 🏆 x 16 | 🥇 x 16, 🥈 x 5 | 🔥 x 3, ⚡ x 5 |
 | [Terence Brown](../../persons/terence_brown/sq1.md) | 40+ | <i class="flag flag-NZ" /> | 27.62 | 32.91 |  | 🥈 x 3 | 🔥 x 3, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/sq1.md) | 40+ | <i class="flag flag-IN" /> | 43.91 | 56.18 |  | 🥉 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/sq1.md) | 40+ | <i class="flag flag-TW" /> | 27.80 | 38.22 |  | 🥈 x 4, 🥉 x 10 | 🔥 x 4, ⚡ x 3 |

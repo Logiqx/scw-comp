@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-09-14](../../results/2026-09-14/minx.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Veronika Rose](../../persons/veronika_rose/minx.md) | 40+ | <i class="flag flag-SK" /> | 1:28.77 | 1:30.68 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/4480351078891877/permalink/4483471655246486) / [Mobile](https://m.facebook.com/events/4480351078891877?view=permalink&id=4483471655246486) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/minx.md) | 50+ | <i class="flag flag-AU" /> | 1:29.27 | 1:46.27 | 🥈 | [Desktop](https://www.facebook.com/events/4480351078891877/permalink/4483783108548674) / [Mobile](https://m.facebook.com/events/4480351078891877?view=permalink&id=4483783108548674) |
+| 3 | [Danielle Kay](../../persons/danielle_kay/minx.md) | 40+ | <i class="flag flag-AU" /> | 1:45.02 | 1:51.53 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/4480351078891877/permalink/4495952580665060) / [Mobile](https://m.facebook.com/events/4480351078891877?view=permalink&id=4495952580665060) |
+
 #### [2026-08-31](../../results/2026-08-31/minx.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
