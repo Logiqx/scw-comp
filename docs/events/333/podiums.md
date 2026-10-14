@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-09-28](../../results/2026-09-28/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Tim Shaw](../../persons/tim_shaw/333.md) | 50+ | <i class="flag flag-GB" /> | 15.05 | 16.20 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1449403153755719/permalink/1460497649312936) / [Mobile](https://m.facebook.com/events/1449403153755719?view=permalink&id=1460497649312936) |
+| 2 | [Toby Chamberlain](../../persons/toby_chamberlain/333.md) | 50+ | <i class="flag flag-AU" /> | 13.54 | 18.11 | 🥈 | [Desktop](https://www.facebook.com/events/1449403153755719/permalink/1460287129333988) / [Mobile](https://m.facebook.com/events/1449403153755719?view=permalink&id=1460287129333988) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/333.md) | 50+ | <i class="flag flag-AU" /> | 17.48 | 18.50 | 🥉 | [Desktop](https://www.facebook.com/events/1449403153755719/permalink/1452257820136919) / [Mobile](https://m.facebook.com/events/1449403153755719?view=permalink&id=1452257820136919) |
+
 #### [2026-09-14](../../results/2026-09-14/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

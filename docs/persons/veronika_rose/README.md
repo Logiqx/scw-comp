@@ -11,12 +11,12 @@
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
 | [3x3x3](333.md) | 15.68 | 18.85 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 4 |
-| [2x2x2](222.md) | 4.52 | 5.63 | 🏆 x 5 | 🥇 x 6, 🥈 x 7, 🥉 x 6 | 🔥 x 4, ⚡ x 2 |
-| [Megaminx](minx.md) | 1:13.95 | 1:27.76 | 🏆 x 2 | 🥇 x 2, 🥈 x 15, 🥉 x 2 | 🔥 x 3, ⚡ x 4 |
-| [Pyraminx](pyram.md) | 6.11 | 9.48 | 🏆 x 5 | 🥇 x 5, 🥈 x 8, 🥉 x 5 | 🔥 x 4, ⚡ x 4 |
-| [Skewb](skewb.md) | 11.92 | 16.39 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Clock](clock.md) | 8.96 | 9.83 |  | 🥈 x 2, 🥉 x 7 | 🔥 x 6, ⚡ x 6 |
-| [3x3x3 BLD](333bf.md) | 1:41.82 | 2:26.89 |  | 🥉 x 10 | 🔥 x 2, ⚡ x 3 |
+| [2x2x2](222.md) | 4.52 | 5.63 | 🏆 x 6 | 🥇 x 7, 🥈 x 7, 🥉 x 6 | 🔥 x 4, ⚡ x 2 |
+| [Megaminx](minx.md) | 1:13.95 | 1:27.59 | 🏆 x 3 | 🥇 x 3, 🥈 x 15, 🥉 x 2 | 🔥 x 4, ⚡ x 4 |
+| [Pyraminx](pyram.md) | 6.11 | 9.48 | 🏆 x 5 | 🥇 x 5, 🥈 x 9, 🥉 x 5 | 🔥 x 4, ⚡ x 4 |
+| [Skewb](skewb.md) | 9.14 | 11.14 |  |  | 🔥 x 2, ⚡ x 2 |
+| [Clock](clock.md) | 8.96 | 9.83 |  | 🥈 x 2, 🥉 x 8 | 🔥 x 6, ⚡ x 6 |
+| [3x3x3 BLD](333bf.md) | 1:41.82 | 2:26.89 |  | 🥉 x 11 | 🔥 x 2, ⚡ x 3 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

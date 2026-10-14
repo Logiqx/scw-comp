@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-09-28](../../results/2026-09-28/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Richard Taylor](../../persons/richard_taylor/333fm.md) | 60+ | <i class="flag flag-GB" /> | 32 | DNF | 🥇 ⚡ | [Desktop](https://www.facebook.com/events/2290705615008823/permalink/2300897610656290) / [Mobile](https://m.facebook.com/events/2290705615008823?view=permalink&id=2300897610656290) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 32 | DNF | 🥇 | [Desktop](https://www.facebook.com/events/2290705615008823/permalink/2299339287478789) / [Mobile](https://m.facebook.com/events/2290705615008823?view=permalink&id=2299339287478789) |
+
 #### [2026-09-14](../../results/2026-09-14/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-09-28](../../results/2026-09-28/clock.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Danielle Kay](../../persons/danielle_kay/clock.md) | 40+ | <i class="flag flag-AU" /> | 8.43 | 9.31 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/1776263393420998/permalink/1779227909791213) / [Mobile](https://m.facebook.com/events/1776263393420998?view=permalink&id=1779227909791213) |
+| 2 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/clock.md) | 40+ | <i class="flag flag-IT" /> | 9.66 | 10.28 | 🥈 | [Desktop](https://www.facebook.com/events/1776263393420998/permalink/1782220522825285) / [Mobile](https://m.facebook.com/events/1776263393420998?view=permalink&id=1782220522825285) |
+| 3 | [Veronika Rose](../../persons/veronika_rose/clock.md) | 40+ | <i class="flag flag-SK" /> | 9.67 | 10.74 | 🥉 | [Desktop](https://www.facebook.com/events/1776263393420998/permalink/1777169836663687) / [Mobile](https://m.facebook.com/events/1776263393420998?view=permalink&id=1777169836663687) |
+
 #### [2026-09-14](../../results/2026-09-14/clock.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

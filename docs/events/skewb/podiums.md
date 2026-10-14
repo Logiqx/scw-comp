@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-09-28](../../results/2026-09-28/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/skewb.md) | 40+ | <i class="flag flag-IT" /> | 5.98 | 8.13 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1776263393420998/permalink/1782212566159414) / [Mobile](https://m.facebook.com/events/1776263393420998?view=permalink&id=1782212566159414) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/skewb.md) | 50+ | <i class="flag flag-AU" /> | 7.58 | 8.69 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/1776263393420998/permalink/1779134326467238) / [Mobile](https://m.facebook.com/events/1776263393420998?view=permalink&id=1779134326467238) |
+| 3 | [Danielle Kay](../../persons/danielle_kay/skewb.md) | 40+ | <i class="flag flag-AU" /> | 7.54 | 9.47 | 🥉 | [Desktop](https://www.facebook.com/events/1776263393420998/permalink/1779222166458454) / [Mobile](https://m.facebook.com/events/1776263393420998?view=permalink&id=1779222166458454) |
+
 #### [2026-09-14](../../results/2026-09-14/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-09-28](../../results/2026-09-28/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Danielle Kay](../../persons/danielle_kay/pyram.md) | 40+ | <i class="flag flag-AU" /> | 8.34 | 9.38 | 🏆 🥇 🔥 | [Desktop](https://www.facebook.com/events/1776263393420998/permalink/1779224369791567) / [Mobile](https://m.facebook.com/events/1776263393420998?view=permalink&id=1779224369791567) |
+| 2 | [Veronika Rose](../../persons/veronika_rose/pyram.md) | 40+ | <i class="flag flag-SK" /> | 7.15 | 9.59 | 🥈 | [Desktop](https://www.facebook.com/events/1776263393420998/permalink/1777107653336572) / [Mobile](https://m.facebook.com/events/1776263393420998?view=permalink&id=1777107653336572) |
+| 3 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/pyram.md) | 40+ | <i class="flag flag-IT" /> | 8.29 | 11.29 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1776263393420998/permalink/1786939055686765) / [Mobile](https://m.facebook.com/events/1776263393420998?view=permalink&id=1786939055686765) |
+
 #### [2026-09-14](../../results/2026-09-14/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

@@ -13,6 +13,7 @@
 | [Donna Leiber](../../persons/donna_leiber/333fm.md) | 60+ | <i class="flag flag-US" /> | 40 | DNF |  | 🥈 x 3, 🥉 x 5 | 💥 x 3, ⚡ x 3 |
 | [John Cook](../../persons/john_cook/333fm.md) | 60+ | <i class="flag flag-AU" /> | 37 | DNF |  | 🥈 x 1, 🥉 x 2 | 💥 x 1, ⚡ x 4 |
 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 60+ | <i class="flag flag-US" /> | 31 | 46.67 | 🏆 x 3 | 🥇 x 7, 🥈 x 7, 🥉 x 6 | 💥 x 8, 🔥 x 9, ⚡ x 8 |
+| [Richard Taylor](../../persons/richard_taylor/333fm.md) | 60+ | <i class="flag flag-GB" /> | 32 | DNF | 🏆 x 7 | 🥇 x 10, 🥈 x 23, 🥉 x 10 | 🔥 x 9, ⚡ x 7 |
 
 #### Over 50
 
@@ -28,8 +29,8 @@
 | [Lisa Kucala](../../persons/lisa_kucala/333fm.md) | 60+ | <i class="flag flag-US" /> | 31 | 46.67 | 🏆 x 3 | 🥇 x 7, 🥈 x 7, 🥉 x 6 | 💥 x 8, 🔥 x 9, ⚡ x 8 |
 | [Marius Rombout Ferreira van Riemsdijk](../../persons/marius_rombout_ferreira_van_riemsdijk/333fm.md) | 50+ | <i class="flag flag-BR" /> | 28 | 31.33 | 🏆 x 34 | 🥇 x 40, 🥈 x 11, 🥉 x 1 | 🔥 x 6, ⚡ x 9 |
 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | <i class="flag flag-GB" /> | 32 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 3 | ⚡ x 3 |
-| [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 27 | 30.67 | 🏆 x 7 | 🥇 x 9, 🥈 x 23, 🥉 x 10 | 🔥 x 9, ⚡ x 6 |
-| [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 29.33 | 🏆 x 12 | 🥇 x 24, 🥈 x 14, 🥉 x 8 | 💥 x 1, 🔥 x 8, ⚡ x 4 |
+| [Richard Taylor](../../persons/richard_taylor/333fm.md) | 60+ | <i class="flag flag-GB" /> | 27 | 30.67 | 🏆 x 7 | 🥇 x 10, 🥈 x 23, 🥉 x 10 | 🔥 x 9, ⚡ x 7 |
+| [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 29.33 | 🏆 x 12 | 🥇 x 25, 🥈 x 14, 🥉 x 8 | 💥 x 1, 🔥 x 8, ⚡ x 4 |
 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | <i class="flag flag-UA" /> | 21 | DNF | 🏆 x 14 | 🥇 x 14, 🥈 x 1 | 💥 x 3, ⚡ x 4 |
 
 #### Over 40
@@ -55,8 +56,8 @@
 | [Mark Rivers](../../persons/mark_rivers/333fm.md) | 50+ | <i class="flag flag-GB" /> | 32 | DNF | 🏆 x 1 | 🥇 x 1, 🥈 x 3, 🥉 x 3 | ⚡ x 3 |
 | [Michael George](../../persons/michael_george/333fm.md) | 40+ | <i class="flag flag-GB" /> | 31 | DNF |  | 🥇 x 1, 🥈 x 4, 🥉 x 5 | ⚡ x 3 |
 | [Pete Lee](../../persons/pete_lee/333fm.md) | 40+ | <i class="flag flag-GB" /> | 50 | 55.33 |  | 🥈 x 2 | 🔥 x 1, ⚡ x 1 |
-| [Richard Taylor](../../persons/richard_taylor/333fm.md) | 50+ | <i class="flag flag-GB" /> | 27 | 30.67 | 🏆 x 7 | 🥇 x 9, 🥈 x 23, 🥉 x 10 | 🔥 x 9, ⚡ x 6 |
-| [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 29.33 | 🏆 x 12 | 🥇 x 24, 🥈 x 14, 🥉 x 8 | 💥 x 1, 🔥 x 8, ⚡ x 4 |
+| [Richard Taylor](../../persons/richard_taylor/333fm.md) | 60+ | <i class="flag flag-GB" /> | 27 | 30.67 | 🏆 x 7 | 🥇 x 10, 🥈 x 23, 🥉 x 10 | 🔥 x 9, ⚡ x 7 |
+| [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 21 | 29.33 | 🏆 x 12 | 🥇 x 25, 🥈 x 14, 🥉 x 8 | 💥 x 1, 🔥 x 8, ⚡ x 4 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/333fm.md) | 40+ | <i class="flag flag-TW" /> | 27 | 30.33 | 🏆 x 9 | 🥇 x 10, 🥈 x 11, 🥉 x 6 | 🔥 x 3, ⚡ x 8 |
 | [Александр Гилка](../../persons/александр_гилка/333fm.md) | 50+ | <i class="flag flag-UA" /> | 21 | DNF | 🏆 x 14 | 🥇 x 14, 🥈 x 1 | 💥 x 3, ⚡ x 4 |
 
@@ -69,7 +70,7 @@
 | [Chris Hardwick](../../persons/chris_hardwick/333fm.md) | <40 | <i class="flag flag-US" /> | 43 | DNF |  |  | ⚡ x 1 |
 | [Chris Thames](../../persons/chris_thames/333fm.md) | <40 | <i class="flag flag-US" /> | 47 | 66.33 |  |  | 🔥 x 1, ⚡ x 4 |
 | [Ed Connell](../../persons/ed_connell/333fm.md) | <40 | <i class="flag flag-IE" /> | 27 | 30.33 | 🏆 x 6 |  | 🔥 x 1, ⚡ x 5 |
-| [Fred Johnson](../../persons/fred_johnson/333fm.md) | <40 | <i class="flag flag-US" /> | 25 | 28.67 | 🏆 x 1 |  | 🔥 x 2, ⚡ x 3 |
+| [Fred Johnson](../../persons/fred_johnson/333fm.md) | <40 | <i class="flag flag-US" /> | 25 | 28.67 | 🏆 x 2 |  | 🔥 x 2, ⚡ x 4 |
 | [Go-ho Choi](../../persons/go_ho_choi/333fm.md) | <40 | <i class="flag flag-KR" /> | 41 | DNF |  |  | ⚡ x 1 |
 | [Shain Longbehn](../../persons/shain_longbehn/333fm.md) | <40 | <i class="flag flag-US" /> | 39 | DNF |  |  | ⚡ x 1 |
 | [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | <40 | <i class="flag flag-US" /> | 20 | 24.00 | 🏆 x 47 |  | 💥 x 2, 🔥 x 10, ⚡ x 11 |
