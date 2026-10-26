@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-10-12](../../results/2026-10-12/skewb.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Danielle Kay](../../persons/danielle_kay/skewb.md) | 40+ | <i class="flag flag-AU" /> | 7.95 | 9.11 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1620881793110012/permalink/1629132642284927) / [Mobile](https://m.facebook.com/events/1620881793110012?view=permalink&id=1629132642284927) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/skewb.md) | 50+ | <i class="flag flag-AU" /> | 9.26 | 13.53 | 🥈 | [Desktop](https://www.facebook.com/events/1620881793110012/permalink/1627969942401197) / [Mobile](https://m.facebook.com/events/1620881793110012?view=permalink&id=1627969942401197) |
+| 3 | [Veronika Rose](../../persons/veronika_rose/skewb.md) | 40+ | <i class="flag flag-SK" /> | 9.18 | 13.60 | 🥉 | [Desktop](https://www.facebook.com/events/1620881793110012/permalink/1622232876308237) / [Mobile](https://m.facebook.com/events/1620881793110012?view=permalink&id=1622232876308237) |
+
 #### [2026-09-28](../../results/2026-09-28/skewb.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

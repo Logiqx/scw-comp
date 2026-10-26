@@ -8,10 +8,11 @@
 
 #### Skewb Results
 
-<span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
+<span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-10-12](../../results/2026-10-12/skewb.md) | 40+ | 9.18 | 13.60 | 🥉 | 12.43 | 12.72 | 15.65 | 9.18 | 23.02 | [Desktop](https://www.facebook.com/events/1620881793110012/permalink/1622232876308237) / [Mobile](https://m.facebook.com/events/1620881793110012?view=permalink&id=1622232876308237) |
 | [2026-09-28](../../results/2026-09-28/skewb.md) | 40+ | **9.14** | **11.14** | 🔥 ⚡ | 11.17 | 9.61 | 15.47 | 12.63 | **9.14** | [Desktop](https://www.facebook.com/events/1776263393420998/permalink/1778101473237190) / [Mobile](https://m.facebook.com/events/1776263393420998?view=permalink&id=1778101473237190) |
 | [2026-09-14](../../results/2026-09-14/skewb.md) | 40+ | **11.92** | **16.39** | 🔥 ⚡ | 17.19 | 16.05 | 15.93 | 19.88 | **11.92** | [Desktop](https://www.facebook.com/events/1440743214572377/permalink/1441457537834278) / [Mobile](https://m.facebook.com/events/1440743214572377?view=permalink&id=1441457537834278) |
 

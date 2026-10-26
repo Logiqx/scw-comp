@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-10-12](../../results/2026-10-12/666.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Glyn Brown](../../persons/glyn_brown/666.md) | 40+ | <i class="flag flag-GB" /> | 2:42.52 | 2:46.56 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1089354477343557/permalink/1099144843031187) / [Mobile](https://m.facebook.com/events/1089354477343557?view=permalink&id=1099144843031187) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 2:28.95 | 2:48.13 | 🥈 💥 ⚡ | [Desktop](https://www.facebook.com/events/1089354477343557/permalink/1098647556414249) / [Mobile](https://m.facebook.com/events/1089354477343557?view=permalink&id=1098647556414249) |
+| 3 | [Danielle Kay](../../persons/danielle_kay/666.md) | 40+ | <i class="flag flag-AU" /> | 4:10.59 | 4:41.44 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1089354477343557/permalink/1097859536493051) / [Mobile](https://m.facebook.com/events/1089354477343557?view=permalink&id=1097859536493051) |
+
 #### [2026-09-28](../../results/2026-09-28/666.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
