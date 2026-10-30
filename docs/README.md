@@ -39,7 +39,7 @@ The rules are fairly straightforward and are detailed on the separate event page
 - [4x4x4+](rules/444+.md) includes 4x4x4, 5x5x5, 6x6x6 and 7x7x7
 - [Short](rules/short.md) includes Pyraminx, Skewb, Square-1 and Clock
 - [BLD](rules/bld.md) includes 3BLD, 4BLD, 5BLD and MultiBLD
-- [FMC](rules/fmc.md) is dedicated to FMC
+- [FMC/FTO](rules/fmc.md) includes FMC and FTO
 
 
 

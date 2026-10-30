@@ -1,6 +1,6 @@
 ## Senior Cubers Worldwide - Bi-weekly Competition
 
-### FMC+FTO Competition 
+### FMC/FTO Competition 
 
 #### FMC (3x3x3 Fewest Moves Competition) Rules
 
