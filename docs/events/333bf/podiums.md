@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-10-26](../../results/2026-10-26/333bf.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Toby Chamberlain](../../persons/toby_chamberlain/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:30.10 | 1:36.78 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1137954308621297/permalink/1141908261559235) / [Mobile](https://m.facebook.com/events/1137954308621297?view=permalink&id=1141908261559235) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/333bf.md) | 50+ | <i class="flag flag-AU" /> | 1:58.05 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/1137954308621297/permalink/1148825487534179) / [Mobile](https://m.facebook.com/events/1137954308621297?view=permalink&id=1148825487534179) |
+| 3 | [Veronika Rose](../../persons/veronika_rose/333bf.md) | 40+ | <i class="flag flag-SK" /> | 1:58.32 | 2:13.96 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/1137954308621297/permalink/1138684045214990) / [Mobile](https://m.facebook.com/events/1137954308621297?view=permalink&id=1138684045214990) |
+
 #### [2026-10-12](../../results/2026-10-12/333bf.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

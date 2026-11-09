@@ -28,7 +28,7 @@
 | [Michael Orger](../../persons/michael_orger/minx.md) | 50+ | <i class="flag flag-GB" /> | 3:57.75 | DNF |  |  | ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:51.94 | 2:07.81 | 🏆 x 26 | 🥇 x 34, 🥈 x 16, 🥉 x 4 | 🔥 x 15, ⚡ x 20 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/minx.md) | 50+ | <i class="flag flag-AU" /> | 1:23.92 | 1:41.26 |  | 🥈 x 9, 🥉 x 20 | 💥 x 3, 🔥 x 13, ⚡ x 9 |
+| [Shen Flindell](../../persons/shen_flindell/minx.md) | 50+ | <i class="flag flag-AU" /> | 1:23.92 | 1:41.06 |  | 🥈 x 9, 🥉 x 21 | 💥 x 3, 🔥 x 14, ⚡ x 9 |
 
 #### Over 40
 
@@ -61,10 +61,10 @@
 | [Michael Orger](../../persons/michael_orger/minx.md) | 50+ | <i class="flag flag-GB" /> | 3:57.75 | DNF |  |  | ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/minx.md) | 50+ | <i class="flag flag-US" /> | 1:51.94 | 2:07.81 | 🏆 x 26 | 🥇 x 34, 🥈 x 16, 🥉 x 4 | 🔥 x 15, ⚡ x 20 |
 | [Paweł Zok](../../persons/pawe_zok/minx.md) | 40+ | <i class="flag flag-PL" /> | 1:43.96 | 2:12.41 |  | 🥉 x 3 | 🔥 x 3, ⚡ x 6 |
-| [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:02.12 | 1:06.80 | 🏆 x 50 | 🥇 x 50, 🥈 x 9 | 🔥 x 22, ⚡ x 16 |
+| [Pete Lee](../../persons/pete_lee/minx.md) | 40+ | <i class="flag flag-GB" /> | 1:02.12 | 1:06.80 | 🏆 x 51 | 🥇 x 51, 🥈 x 9 | 🔥 x 22, ⚡ x 16 |
 | [Peter Douthwright](../../persons/peter_douthwright/minx.md) | 60+ | <i class="flag flag-CA" /> | 6:59.74 | DNF | 🏆 x 1 | 🥇 x 1 | 💥 x 1, ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/minx.md) | 50+ | <i class="flag flag-AU" /> | 1:23.92 | 1:41.26 |  | 🥈 x 9, 🥉 x 20 | 💥 x 3, 🔥 x 13, ⚡ x 9 |
-| [Veronika Rose](../../persons/veronika_rose/minx.md) | 40+ | <i class="flag flag-SK" /> | 1:13.95 | 1:27.59 | 🏆 x 4 | 🥇 x 4, 🥈 x 15, 🥉 x 2 | 🔥 x 4, ⚡ x 4 |
+| [Shen Flindell](../../persons/shen_flindell/minx.md) | 50+ | <i class="flag flag-AU" /> | 1:23.92 | 1:41.06 |  | 🥈 x 9, 🥉 x 21 | 💥 x 3, 🔥 x 14, ⚡ x 9 |
+| [Veronika Rose](../../persons/veronika_rose/minx.md) | 40+ | <i class="flag flag-SK" /> | 1:13.95 | 1:27.59 | 🏆 x 4 | 🥇 x 4, 🥈 x 16, 🥉 x 2 | 🔥 x 4, ⚡ x 4 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/minx.md) | 40+ | <i class="flag flag-TW" /> | 1:33.32 | 1:41.81 | 🏆 x 5 | 🥇 x 8, 🥈 x 4, 🥉 x 4 | 🔥 x 7, ⚡ x 14 |
 
 #### Under 40

@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-10-26](../../results/2026-10-26/pyram.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Barry Loether](../../persons/barry_loether/pyram.md) | 40+ | | 8.78 | 9.92 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/967818159246008/permalink/976188911742266) / [Mobile](https://m.facebook.com/events/967818159246008?view=permalink&id=976188911742266) |
+| 2 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/pyram.md) | 40+ | <i class="flag flag-IT" /> | 8.64 | 10.08 | 🥈 🔥 | [Desktop](https://www.facebook.com/events/967818159246008/permalink/974840535210437) / [Mobile](https://m.facebook.com/events/967818159246008?view=permalink&id=974840535210437) |
+| 3 | [Veronika Rose](../../persons/veronika_rose/pyram.md) | 40+ | <i class="flag flag-SK" /> | 8.46 | 10.10 | 🥉 | [Desktop](https://www.facebook.com/events/967818159246008/permalink/968625492498608) / [Mobile](https://m.facebook.com/events/967818159246008?view=permalink&id=968625492498608) |
+
 #### [2026-10-12](../../results/2026-10-12/pyram.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

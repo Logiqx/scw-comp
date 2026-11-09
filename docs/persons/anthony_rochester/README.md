@@ -26,6 +26,7 @@
 | [5x5x5 BLD](555bf.md) | - | - |  |  |  |
 | [3x3x3 MBLD](333mbf.md) | 21/25 in 57:37 | - | 🏆 x 23 | 🥇 x 23, 🥈 x 4, 🥉 x 2 | 💥 x 5, ⚡ x 10 |
 | [3x3x3 FMC](333fm.md) | 31 | 36.00 |  | 🥇 x 1, 🥈 x 5, 🥉 x 3 | 🔥 x 2, ⚡ x 6 |
+| [FTO](fto.md) | 55.90 | 59.75 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

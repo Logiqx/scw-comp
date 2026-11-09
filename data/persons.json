@@ -61,6 +61,12 @@
     "id": 57,
     "wcaId": "2019ROCH03"
   },
+  "Barry Loether": {
+    "age": "40+",
+    "country": "United States",
+    "id": 154,
+    "wcaId": "2012LOET01"
+  },
   "Ben Coppin": {
     "age": "40+",
     "avatar": "1681235172.jpg",
@@ -863,7 +869,7 @@
     "wcaId": "2020LONG05"
   },
   "Shawn Boucké": {
-    "age": "<40",
+    "age": "40+",
     "avatar": "1471010375.png",
     "country": "United States",
     "id": 21,

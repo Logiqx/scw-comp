@@ -6,6 +6,13 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-10-26](../../results/2026-10-26/333fm.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Solution |
+| :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| 1 | [Shawn Boucké](../../persons/shawn_boucke/333fm.md) | 40+ | <i class="flag flag-US" /> | 25 | 27.00 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1160708429620175/permalink/1173356638355354) / [Mobile](https://m.facebook.com/events/1160708429620175?view=permalink&id=1173356638355354) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/333fm.md) | 50+ | <i class="flag flag-AU" /> | 31 | DNF | 🥈 | [Desktop](https://www.facebook.com/events/1160708429620175/permalink/1170471218643896) / [Mobile](https://m.facebook.com/events/1160708429620175?view=permalink&id=1170471218643896) |
+
 #### [2026-10-12](../../results/2026-10-12/333fm.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Solution |

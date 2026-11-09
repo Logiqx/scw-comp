@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-10-26](../../results/2026-10-26/333.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Barry Loether](../../persons/barry_loether/333.md) | 40+ | | 13.09 | 14.54 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1851200362963343/permalink/1861395531943826) / [Mobile](https://m.facebook.com/events/1851200362963343?view=permalink&id=1861395531943826) |
+| 2 | [Shawn Boucké](../../persons/shawn_boucke/333.md) | 40+ | <i class="flag flag-US" /> | 12.93 | 14.76 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1851200362963343/permalink/1864191758330870) / [Mobile](https://m.facebook.com/events/1851200362963343?view=permalink&id=1864191758330870) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/333.md) | 50+ | <i class="flag flag-AU" /> | 14.98 | 15.70 | 🥉 🔥 | [Desktop](https://www.facebook.com/events/1851200362963343/permalink/1855243752559004) / [Mobile](https://m.facebook.com/events/1851200362963343?view=permalink&id=1855243752559004) |
+
 #### [2026-10-12](../../results/2026-10-12/333.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |

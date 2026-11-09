@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-10-26](../../results/2026-10-26/444.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Daniel Houghton](../../persons/daniel_houghton/444.md) | 40+ | <i class="flag flag-CH" /> | 48.85 | 53.36 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1489422693060724/permalink/1493840442618949) / [Mobile](https://m.facebook.com/events/1489422693060724?view=permalink&id=1493840442618949) |
+| 2 | [Shawn Boucké](../../persons/shawn_boucke/444.md) | 40+ | <i class="flag flag-US" /> | 50.29 | 53.69 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1489422693060724/permalink/1502548051748188) / [Mobile](https://m.facebook.com/events/1489422693060724?view=permalink&id=1502548051748188) |
+| 3 | [Barry Loether](../../persons/barry_loether/444.md) | 40+ | | 48.28 | 56.09 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1489422693060724/permalink/1498383008831359) / [Mobile](https://m.facebook.com/events/1489422693060724?view=permalink&id=1498383008831359) |
+
 #### [2026-10-12](../../results/2026-10-12/444.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
