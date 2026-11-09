@@ -42,6 +42,7 @@ gawk 'BEGIN {
     emap["sq1"] = "Sq1"
     emap["333fm"] = "FMC"
     emap["333oh"] = "OH"
+    emap["fto"] = "FTO"
 }
 /(🔥|⚡|💥) x / {						# Match a new record indicator
   s = $0						# s = full line matched, we trim the matched portions off as we go
