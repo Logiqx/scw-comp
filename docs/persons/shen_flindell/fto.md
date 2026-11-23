@@ -12,6 +12,7 @@
 
 | Date | Age | Single | Average | Awards | Solve 1 | Solve 2 | Solve 3 | Solve 4 | Solve 5 | Video |
 | :--: | :--: | --: | --: | :--: | --: | --: | --: | --: | --: | :-- |
+| [2026-11-09](../../results/2026-11-09/fto.md) | 50+ | **46.33** | **53.84** | 🥈 💥 🔥 ⚡ | **46.33** | 1:04.38 | 55.36 | 53.57 | 52.58 | [Desktop](https://www.facebook.com/events/2340548276798834/permalink/2348612549325740) / [Mobile](https://m.facebook.com/events/2340548276798834?view=permalink&id=2348612549325740) |
 | [2026-10-26](../../results/2026-10-26/fto.md) | 50+ | **52.56** | **58.60** | 🏆 🥇 💥 🔥 ⚡ | 1:00.32 | **52.56** | 58.18 | 59.25 | 58.37 | [Desktop](https://www.facebook.com/events/1160708429620175/permalink/1162695072754844) / [Mobile](https://m.facebook.com/events/1160708429620175?view=permalink&id=1162695072754844) |
 
 

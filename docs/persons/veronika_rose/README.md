@@ -10,10 +10,10 @@
 
 | Event | Single | Average | Cups | Medals | Achievements|
 | :-- | --: | --: | :--: | :-- | :-- |
-| [3x3x3](333.md) | 15.68 | 18.85 |  | 🥉 x 2 | 🔥 x 2, ⚡ x 4 |
-| [2x2x2](222.md) | 3.59 | 5.40 | 🏆 x 6 | 🥇 x 8, 🥈 x 8, 🥉 x 6 | 🔥 x 5, ⚡ x 3 |
-| [Megaminx](minx.md) | 1:13.95 | 1:27.59 | 🏆 x 4 | 🥇 x 4, 🥈 x 16, 🥉 x 2 | 🔥 x 4, ⚡ x 4 |
-| [Pyraminx](pyram.md) | 6.11 | 8.53 | 🏆 x 6 | 🥇 x 6, 🥈 x 9, 🥉 x 6 | 🔥 x 5, ⚡ x 4 |
+| [3x3x3](333.md) | 15.68 | 18.82 |  | 🥉 x 3 | 🔥 x 3, ⚡ x 4 |
+| [2x2x2](222.md) | 3.59 | 5.40 | 🏆 x 7 | 🥇 x 9, 🥈 x 8, 🥉 x 6 | 🔥 x 5, ⚡ x 3 |
+| [Megaminx](minx.md) | 1:13.95 | 1:27.59 | 🏆 x 4 | 🥇 x 4, 🥈 x 17, 🥉 x 2 | 🔥 x 4, ⚡ x 4 |
+| [Pyraminx](pyram.md) | 6.11 | 8.53 | 🏆 x 7 | 🥇 x 7, 🥈 x 9, 🥉 x 6 | 🔥 x 5, ⚡ x 4 |
 | [Skewb](skewb.md) | 8.73 | 11.14 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Clock](clock.md) | 8.91 | 9.83 |  | 🥈 x 2, 🥉 x 10 | 🔥 x 6, ⚡ x 7 |
 | [3x3x3 BLD](333bf.md) | 1:41.82 | 2:13.96 |  | 🥉 x 13 | 🔥 x 3, ⚡ x 3 |

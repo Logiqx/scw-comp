@@ -10,15 +10,18 @@
 
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/fto.md) | [2026-10-26](../../results/2026-10-26/fto.md) | 50+ | <i class="flag flag-AU" /> | 58.60 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1160708429620175/permalink/1162695072754844) / [Mobile](https://m.facebook.com/events/1160708429620175?view=permalink&id=1162695072754844) |
+| 1 | [Shen Flindell](../../persons/shen_flindell/fto.md) | [2026-11-09](../../results/2026-11-09/fto.md) | 50+ | <i class="flag flag-AU" /> | 53.84 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | 💥 x 2, 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/2340548276798834/permalink/2348612549325740) / [Mobile](https://m.facebook.com/events/2340548276798834?view=permalink&id=2348612549325740) |
+| 2 | [Eric Dodson](../../persons/eric_dodson/fto.md) | [2026-11-09](../../results/2026-11-09/fto.md) | 50+ | <i class="flag flag-US" /> | 1:27.46 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/2340548276798834/permalink/2350519749135020) / [Mobile](https://m.facebook.com/events/2340548276798834?view=permalink&id=2350519749135020) |
 
 #### Over 40
 
 | # | Name | Date | Age | 🌍 | Average | Cups | Medals | Achievements | Video |
 | :--: | :-- | :--: | :--: | :--: | --: | :--: | :-- | :-- | :-- |
-| 1 | [Shen Flindell](../../persons/shen_flindell/fto.md) | [2026-10-26](../../results/2026-10-26/fto.md) | 50+ | <i class="flag flag-AU" /> | 58.60 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1160708429620175/permalink/1162695072754844) / [Mobile](https://m.facebook.com/events/1160708429620175?view=permalink&id=1162695072754844) |
-| 2 | [Anthony Rochester](../../persons/anthony_rochester/fto.md) | [2026-10-26](../../results/2026-10-26/fto.md) | 40+ | <i class="flag flag-AU" /> | 59.75 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1160708429620175/permalink/1171757685181916) / [Mobile](https://m.facebook.com/events/1160708429620175?view=permalink&id=1171757685181916) |
-| 3 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/fto.md) | [2026-10-26](../../results/2026-10-26/fto.md) | 40+ | <i class="flag flag-IT" /> | 1:01.56 |  | 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1160708429620175/permalink/1168396505518034) / [Mobile](https://m.facebook.com/events/1160708429620175?view=permalink&id=1168396505518034) |
+| 1 | [Glyn Brown](../../persons/glyn_brown/fto.md) | [2026-11-09](../../results/2026-11-09/fto.md) | 40+ | <i class="flag flag-GB" /> | 46.19 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/2340548276798834/permalink/2344822116371450) / [Mobile](https://m.facebook.com/events/2340548276798834?view=permalink&id=2344822116371450) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/fto.md) | [2026-11-09](../../results/2026-11-09/fto.md) | 50+ | <i class="flag flag-AU" /> | 53.84 | 🏆 x 1 | 🥇 x 1, 🥈 x 1 | 💥 x 2, 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/2340548276798834/permalink/2348612549325740) / [Mobile](https://m.facebook.com/events/2340548276798834?view=permalink&id=2348612549325740) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/fto.md) | [2026-11-09](../../results/2026-11-09/fto.md) | 40+ | <i class="flag flag-AU" /> | 55.44 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 2, ⚡ x 2 | [Desktop](https://www.facebook.com/events/2340548276798834/permalink/2346680076185654) / [Mobile](https://m.facebook.com/events/2340548276798834?view=permalink&id=2346680076185654) |
+| 4 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/fto.md) | [2026-10-26](../../results/2026-10-26/fto.md) | 40+ | <i class="flag flag-IT" /> | 1:01.56 |  | 🥉 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/1160708429620175/permalink/1168396505518034) / [Mobile](https://m.facebook.com/events/1160708429620175?view=permalink&id=1168396505518034) |
+| 5 | [Eric Dodson](../../persons/eric_dodson/fto.md) | [2026-11-09](../../results/2026-11-09/fto.md) | 50+ | <i class="flag flag-US" /> | 1:27.46 |  |  | 🔥 x 1, ⚡ x 1 | [Desktop](https://www.facebook.com/events/2340548276798834/permalink/2350519749135020) / [Mobile](https://m.facebook.com/events/2340548276798834?view=permalink&id=2350519749135020) |
 
 #### Under 40
 

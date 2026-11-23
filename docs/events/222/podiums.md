@@ -6,11 +6,19 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-11-09](../../results/2026-11-09/222.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Veronika Rose](../../persons/veronika_rose/222.md) | 40+ | <i class="flag flag-SK" /> | 4.92 | 6.29 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/2221988211694055/permalink/2222911924935017) / [Mobile](https://m.facebook.com/events/2221988211694055?view=permalink&id=2222911924935017) |
+| 2 | [Danielle Kay](../../persons/danielle_kay/222.md) | 40+ | <i class="flag flag-AU" /> | 4.00 | 6.63 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2221988211694055/permalink/2236133203612889) / [Mobile](https://m.facebook.com/events/2221988211694055?view=permalink&id=2236133203612889) |
+| 3 | [Shen Flindell](../../persons/shen_flindell/222.md) | 50+ | <i class="flag flag-AU" /> | 6.45 | 7.75 | 🥉 | [Desktop](https://www.facebook.com/events/2221988211694055/permalink/2228824661010410) / [Mobile](https://m.facebook.com/events/2221988211694055?view=permalink&id=2228824661010410) |
+
 #### [2026-10-26](../../results/2026-10-26/222.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
-| 1 | [Barry Loether](../../persons/barry_loether/222.md) | 40+ | | 3.07 | 4.69 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1851200362963343/permalink/1860024495414263) / [Mobile](https://m.facebook.com/events/1851200362963343?view=permalink&id=1860024495414263) |
+| 1 | [Barry Loether](../../persons/barry_loether/222.md) | 40+ | <i class="flag flag-US" /> | 3.07 | 4.69 | 🏆 🥇 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1851200362963343/permalink/1860024495414263) / [Mobile](https://m.facebook.com/events/1851200362963343?view=permalink&id=1860024495414263) |
 | 2 | [Veronika Rose](../../persons/veronika_rose/222.md) | 40+ | <i class="flag flag-SK" /> | 3.59 | 5.40 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1851200362963343/permalink/1852064052876974) / [Mobile](https://m.facebook.com/events/1851200362963343?view=permalink&id=1852064052876974) |
 | 3 | [Shawn Boucké](../../persons/shawn_boucke/222.md) | 40+ | <i class="flag flag-US" /> | 4.34 | 5.71 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1851200362963343/permalink/1864201994996513) / [Mobile](https://m.facebook.com/events/1851200362963343?view=permalink&id=1864201994996513) |
 

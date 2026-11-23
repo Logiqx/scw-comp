@@ -6,12 +6,20 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-11-09](../../results/2026-11-09/333oh.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 18.30 | 20.60 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2221988211694055/permalink/2228812804344929) / [Mobile](https://m.facebook.com/events/2221988211694055?view=permalink&id=2228812804344929) |
+| 2 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/333oh.md) | 40+ | <i class="flag flag-IT" /> | 27.50 | 35.72 | 🥈 ⚡ | [Desktop](https://www.facebook.com/events/2221988211694055/permalink/2230287174197492) / [Mobile](https://m.facebook.com/events/2221988211694055?view=permalink&id=2230287174197492) |
+| 3 | [Danielle Kay](../../persons/danielle_kay/333oh.md) | 40+ | <i class="flag flag-AU" /> | 34.10 | 36.67 | 🥉 | [Desktop](https://www.facebook.com/events/2221988211694055/permalink/2236134800279396) / [Mobile](https://m.facebook.com/events/2221988211694055?view=permalink&id=2236134800279396) |
+
 #### [2026-10-26](../../results/2026-10-26/333oh.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
 | :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
 | 1 | [Shen Flindell](../../persons/shen_flindell/333oh.md) | 50+ | <i class="flag flag-AU" /> | 20.99 | 22.91 | 🏆 🥇 | [Desktop](https://www.facebook.com/events/1851200362963343/permalink/1856218402461539) / [Mobile](https://m.facebook.com/events/1851200362963343?view=permalink&id=1856218402461539) |
-| 2 | [Barry Loether](../../persons/barry_loether/333oh.md) | 40+ | | 25.10 | 26.73 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1851200362963343/permalink/1860020282081351) / [Mobile](https://m.facebook.com/events/1851200362963343?view=permalink&id=1860020282081351) |
+| 2 | [Barry Loether](../../persons/barry_loether/333oh.md) | 40+ | <i class="flag flag-US" /> | 25.10 | 26.73 | 🥈 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1851200362963343/permalink/1860020282081351) / [Mobile](https://m.facebook.com/events/1851200362963343?view=permalink&id=1860020282081351) |
 | 3 | [Lino Nicola Grasso](../../persons/lino_nicola_grasso/333oh.md) | 40+ | <i class="flag flag-IT" /> | 28.35 | 34.47 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/1851200362963343/permalink/1863678948382151) / [Mobile](https://m.facebook.com/events/1851200362963343?view=permalink&id=1863678948382151) |
 
 #### [2026-10-12](../../results/2026-10-12/333oh.md)

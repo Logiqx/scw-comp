@@ -22,6 +22,7 @@
 | [Clock](clock.md) | 12.54 | 16.60 |  | 🥉 x 1 | 🔥 x 3, ⚡ x 2 |
 | [3x3x3 BLD](333bf.md) | 3:47.44 | - |  |  | ⚡ x 1 |
 | [3x3x3 MBLD](333mbf.md) | 5/6 in 53:39 | - |  | 🥈 x 1 | ⚡ x 1 |
+| [FTO](fto.md) | 36.75 | 46.19 | 🏆 x 1 | 🥇 x 1 | 💥 x 1, 🔥 x 1, ⚡ x 1 |
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-3"></script>

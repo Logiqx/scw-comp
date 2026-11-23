@@ -25,7 +25,7 @@
 | [Lisa Kucala](../../persons/lisa_kucala/666.md) | 60+ | <i class="flag flag-US" /> | 4:48.02 | DNF |  | 🥉 x 6 | 💥 x 10, ⚡ x 10 |
 | [Michael Orger](../../persons/michael_orger/666.md) | 50+ | <i class="flag flag-GB" /> | 5:46.37 | DNF |  |  | ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/666.md) | 50+ | <i class="flag flag-US" /> | 4:32.97 | DNF |  | 🥇 x 2, 🥈 x 2, 🥉 x 2 | ⚡ x 7 |
-| [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 2:28.95 | 2:45.70 | 🏆 x 28 | 🥇 x 28, 🥈 x 29, 🥉 x 5 | 💥 x 6, 🔥 x 5, ⚡ x 6 |
+| [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 2:28.95 | 2:43.95 | 🏆 x 29 | 🥇 x 29, 🥈 x 29, 🥉 x 5 | 💥 x 7, 🔥 x 6, ⚡ x 6 |
 
 #### Over 40
 
@@ -52,13 +52,13 @@
 | [Kerry Go](../../persons/kerry_go/666.md) | 50+ | <i class="flag flag-US" /> | 6:34.83 | DNF |  | 🥈 x 1 | ⚡ x 1 |
 | [Koen Heltzel](../../persons/koen_heltzel/666.md) | 40+ | <i class="flag flag-NL" /> | 5:44.82 | DNF |  |  | ⚡ x 1 |
 | [Konsta Jukka](../../persons/konsta_jukka/666.md) | 40+ | <i class="flag flag-FI" /> | 2:55.70 | 2:58.05 | 🏆 x 3 | 🥇 x 5, 🥈 x 10, 🥉 x 2 | 🔥 x 9, ⚡ x 7 |
-| [Lino Nicola Grasso](../../persons/lino_nicola_grasso/666.md) | 40+ | <i class="flag flag-IT" /> | 4:11.26 | 4:33.46 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
+| [Lino Nicola Grasso](../../persons/lino_nicola_grasso/666.md) | 40+ | <i class="flag flag-IT" /> | 4:06.25 | 4:16.87 |  | 🥈 x 1, 🥉 x 1 | 🔥 x 3, ⚡ x 3 |
 | [Lisa Kucala](../../persons/lisa_kucala/666.md) | 60+ | <i class="flag flag-US" /> | 4:48.02 | DNF |  | 🥉 x 6 | 💥 x 10, ⚡ x 10 |
 | [Michael George](../../persons/michael_george/666.md) | 40+ | <i class="flag flag-GB" /> | 4:37.39 | DNF |  | 🥉 x 4 | ⚡ x 7 |
 | [Michael Orger](../../persons/michael_orger/666.md) | 50+ | <i class="flag flag-GB" /> | 5:46.37 | DNF |  |  | ⚡ x 1 |
 | [Mickey Doyle](../../persons/mickey_doyle/666.md) | 50+ | <i class="flag flag-US" /> | 4:32.97 | DNF |  | 🥇 x 2, 🥈 x 2, 🥉 x 2 | ⚡ x 7 |
 | [Pete Lee](../../persons/pete_lee/666.md) | 40+ | <i class="flag flag-GB" /> | 3:12.00 | 3:24.46 | 🏆 x 12 | 🥈 x 2, 🥉 x 7 | 🔥 x 14, ⚡ x 20 |
-| [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 2:28.95 | 2:45.70 | 🏆 x 28 | 🥇 x 28, 🥈 x 29, 🥉 x 5 | 💥 x 6, 🔥 x 5, ⚡ x 6 |
+| [Shen Flindell](../../persons/shen_flindell/666.md) | 50+ | <i class="flag flag-AU" /> | 2:28.95 | 2:43.95 | 🏆 x 29 | 🥇 x 29, 🥈 x 29, 🥉 x 5 | 💥 x 7, 🔥 x 6, ⚡ x 6 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/666.md) | 40+ | <i class="flag flag-TW" /> | 3:38.96 | 3:45.42 | 🏆 x 1 | 🥇 x 3, 🥈 x 7, 🥉 x 7 | 🔥 x 4, ⚡ x 10 |
 
 #### Under 40

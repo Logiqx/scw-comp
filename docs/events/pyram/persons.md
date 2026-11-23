@@ -35,7 +35,7 @@
 | [Michael Orger](../../persons/michael_orger/pyram.md) | 50+ | <i class="flag flag-GB" /> | 7.54 | 9.79 |  | 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Mickey Doyle](../../persons/mickey_doyle/pyram.md) | 50+ | <i class="flag flag-US" /> | 8.28 | 14.96 |  | 🥉 x 4 | 🔥 x 8, ⚡ x 7 |
 | [Peter Douthwright](../../persons/peter_douthwright/pyram.md) | 60+ | <i class="flag flag-CA" /> | 18.02 | 23.78 |  |  | 🔥 x 1, ⚡ x 1 |
-| [Shen Flindell](../../persons/shen_flindell/pyram.md) | 50+ | <i class="flag flag-AU" /> | 6.58 | 8.33 | 🏆 x 3 | 🥇 x 3, 🥈 x 5, 🥉 x 6 | 💥 x 1, 🔥 x 6, ⚡ x 6 |
+| [Shen Flindell](../../persons/shen_flindell/pyram.md) | 50+ | <i class="flag flag-AU" /> | 6.58 | 8.33 | 🏆 x 3 | 🥇 x 3, 🥈 x 6, 🥉 x 6 | 💥 x 1, 🔥 x 6, ⚡ x 6 |
 | [Tim Shaw](../../persons/tim_shaw/pyram.md) | 50+ | <i class="flag flag-GB" /> | 7.37 | 9.87 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 
 #### Over 40
@@ -46,7 +46,7 @@
 | [Adam Leyton](../../persons/adam_leyton/pyram.md) | 40+ | <i class="flag flag-GB" /> | 4.28 | 6.60 | 🏆 x 6 | 🥇 x 6 | 🔥 x 3, ⚡ x 3 |
 | [Andrea Doerner](../../persons/andrea_doerner/pyram.md) | 40+ | <i class="flag flag-DE" /> | 11.80 | 16.07 |  | 🥉 x 1 | 🔥 x 2, ⚡ x 3 |
 | [Anthony Rochester](../../persons/anthony_rochester/pyram.md) | 40+ | <i class="flag flag-AU" /> | 6.94 | 9.16 | 🏆 x 2 | 🥇 x 4, 🥈 x 4, 🥉 x 1 | 🔥 x 5, ⚡ x 6 |
-| [Barry Loether](../../persons/barry_loether/pyram.md) | 40+ | | 8.78 | 9.92 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
+| [Barry Loether](../../persons/barry_loether/pyram.md) | 40+ | <i class="flag flag-US" /> | 8.78 | 9.92 | 🏆 x 1 | 🥇 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Dan Smith](../../persons/dan_smith/pyram.md) | 50+ | <i class="flag flag-US" /> | 5.26 | 8.47 | 🏆 x 27 | 🥇 x 61, 🥈 x 68, 🥉 x 11 | 💥 x 8, 🔥 x 6, ⚡ x 3 |
 | [Daniel Houghton](../../persons/daniel_houghton/pyram.md) | 40+ | <i class="flag flag-CH" /> | 6.60 | 10.09 | 🏆 x 1 | 🥇 x 1, 🥈 x 4, 🥉 x 5 | 🔥 x 6, ⚡ x 9 |
 | [Danielle Kay](../../persons/danielle_kay/pyram.md) | 40+ | <i class="flag flag-AU" /> | 6.04 | 9.38 | 🏆 x 5 | 🥇 x 5, 🥈 x 4, 🥉 x 2 | 🔥 x 2, ⚡ x 3 |
@@ -79,11 +79,11 @@
 | [Pete Lee](../../persons/pete_lee/pyram.md) | 40+ | <i class="flag flag-GB" /> | 7.53 | 12.94 | 🏆 x 1 | 🥇 x 1, 🥉 x 2 | 🔥 x 3, ⚡ x 5 |
 | [Peter Douthwright](../../persons/peter_douthwright/pyram.md) | 60+ | <i class="flag flag-CA" /> | 18.02 | 23.78 |  |  | 🔥 x 1, ⚡ x 1 |
 | [Ross Richard Bambrey](../../persons/ross_richard_bambrey/pyram.md) | 40+ | <i class="flag flag-GB" /> | 12.55 | 20.90 |  |  | 🔥 x 2, ⚡ x 2 |
-| [Shen Flindell](../../persons/shen_flindell/pyram.md) | 50+ | <i class="flag flag-AU" /> | 6.58 | 8.33 | 🏆 x 3 | 🥇 x 3, 🥈 x 5, 🥉 x 6 | 💥 x 1, 🔥 x 6, ⚡ x 6 |
+| [Shen Flindell](../../persons/shen_flindell/pyram.md) | 50+ | <i class="flag flag-AU" /> | 6.58 | 8.33 | 🏆 x 3 | 🥇 x 3, 🥈 x 6, 🥉 x 6 | 💥 x 1, 🔥 x 6, ⚡ x 6 |
 | [Thierry Boisivon](../../persons/thierry_boisivon/pyram.md) | 40+ | <i class="flag flag-FR" /> | 7.44 | 9.77 |  | 🥈 x 1 | 🔥 x 1, ⚡ x 1 |
 | [Tim Shaw](../../persons/tim_shaw/pyram.md) | 50+ | <i class="flag flag-GB" /> | 7.37 | 9.87 |  | 🥈 x 2, 🥉 x 1 | 🔥 x 2, ⚡ x 2 |
 | [Vani Muthukrishnan](../../persons/vani_muthukrishnan/pyram.md) | 40+ | <i class="flag flag-IN" /> | 7.13 | 8.81 | 🏆 x 1 | 🥇 x 2, 🥈 x 1 | 🔥 x 2, ⚡ x 2 |
-| [Veronika Rose](../../persons/veronika_rose/pyram.md) | 40+ | <i class="flag flag-SK" /> | 6.11 | 8.53 | 🏆 x 6 | 🥇 x 6, 🥈 x 9, 🥉 x 6 | 🔥 x 5, ⚡ x 4 |
+| [Veronika Rose](../../persons/veronika_rose/pyram.md) | 40+ | <i class="flag flag-SK" /> | 6.11 | 8.53 | 🏆 x 7 | 🥇 x 7, 🥈 x 9, 🥉 x 6 | 🔥 x 5, ⚡ x 4 |
 | [Yi-Wei Chen](../../persons/yi_wei_chen/pyram.md) | 40+ | <i class="flag flag-TW" /> | 10.05 | 13.47 |  | 🥈 x 3, 🥉 x 2 | 🔥 x 3, ⚡ x 4 |
 
 #### Under 40

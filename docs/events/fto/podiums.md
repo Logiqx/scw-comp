@@ -6,6 +6,14 @@
 
 <span style="white-space: nowrap;">🏆 = overall winner</span>, <span style="white-space: nowrap;">🥇 = 1st senior</span>, <span style="white-space: nowrap;">🥈 = 2nd senior</span>, <span style="white-space: nowrap;">🥉 = 3rd senior</span>, <span style="white-space: nowrap;">💥 = overall record (age group)</span>, <span style="white-space: nowrap;">🔥 = PR average</span>, <span style="white-space: nowrap;">⚡ = PR single</span>.
 
+#### [2026-11-09](../../results/2026-11-09/fto.md)
+
+| # | Name | Age | 🌍 | Single | Average | Awards | Video |
+| :--: | :-- | :--: | :--: | --: | --: | :--: | :-- |
+| 1 | [Glyn Brown](../../persons/glyn_brown/fto.md) | 40+ | <i class="flag flag-GB" /> | 36.75 | 46.19 | 🏆 🥇 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2340548276798834/permalink/2344822116371450) / [Mobile](https://m.facebook.com/events/2340548276798834?view=permalink&id=2344822116371450) |
+| 2 | [Shen Flindell](../../persons/shen_flindell/fto.md) | 50+ | <i class="flag flag-AU" /> | 46.33 | 53.84 | 🥈 💥 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2340548276798834/permalink/2348612549325740) / [Mobile](https://m.facebook.com/events/2340548276798834?view=permalink&id=2348612549325740) |
+| 3 | [Anthony Rochester](../../persons/anthony_rochester/fto.md) | 40+ | <i class="flag flag-AU" /> | 43.49 | 55.44 | 🥉 🔥 ⚡ | [Desktop](https://www.facebook.com/events/2340548276798834/permalink/2346680076185654) / [Mobile](https://m.facebook.com/events/2340548276798834?view=permalink&id=2346680076185654) |
+
 #### [2026-10-26](../../results/2026-10-26/fto.md)
 
 | # | Name | Age | 🌍 | Single | Average | Awards | Video |
