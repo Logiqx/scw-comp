@@ -8,9 +8,11 @@
 set +x
 
 # Check we have dates
+if [ -z "$OldDate" ]; then OldDate=$1; fi  # Try from command line first - allows for manual runs
+
 if [ -z "$OldDate" ]; then
 	cd bin
-	. ./generate_compdates.sh
+	. ./generate_compdates.sh  # Get from responses.html file
 fi
 
 
@@ -46,12 +48,13 @@ gawk 'BEGIN {
 }
 /(🔥|⚡|💥) x / {						# Match a new record indicator
   s = $0						# s = full line matched, we trim the matched portions off as we go
-  t = ($1 in map) ? map[$1] : "ERROR! "s		# t = record type
+  tbase = ($1 in map) ? map[$1] : "ERROR! "s		# t = record type, use tbase so can overwrite when multiple records in the line
 
   while (match(s, /\[([^\]]*)\][^\)]+\/([^\.]*)\.md\) ([^<]*)<\/span>/, m)) {   # m[1] is name (text in []), m[2] is event (text between final "/" and ".md)"), m[3] is time/age group (text before "</span>")
     n = m[1]
     e = (m[2] in emap) ? emap[m[2]] : m[2]					# e = event	
-    t == "age record" && t = "(new "m[3]" "t"!)"			        # prefix age to age records	
+   # t == "age record" && tt = "(new "m[3]" "t"!)"			        # prefix age to age records, this was forcing all records in same line the same age group!
+    t = tbase == "age record" ? "(new "m[3]" "tbase"!)" : tbase
     #print m[1]" "e" "t							 	# display name event type
 
     # collate
